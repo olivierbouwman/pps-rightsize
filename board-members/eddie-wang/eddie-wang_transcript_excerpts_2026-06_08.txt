@@ -1,0 +1,101 @@
+Eddie Wang (Zone 7; Board Chair) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. Wang: NO on 7342; YES on 7326; spoke against the reserve draw.
+- 2026-07-07 officer election (Engelsman absent): Wang re-elected chair 6-0 (moved by presiding Vice Chair DePass per caption 'And I will move', seconded by Chase-Miller); Chase-Miller elected vice chair 6-0 (moved by Splitt, seconded by Sullivan). On 6/9 the chair announced that Wang AND Engelsman had filed intent to run for chair and Chase-Miller for vice chair; Engelsman withdrew her chair bid on 7/7.
+- 2026-08-04 Engelsman draft resolution 'sports for Creston Elementary graduates attending Hosford MS' (moved by La Forte, seconded by Engelsman) FAILED 1-4-1 (one late abstention; Sullivan apparently absent - no caption references; student rep Sandell no). Individual yes/no/abstain not identifiable from captions; the lone yes was most likely Engelsman (author). Wang spoke against (board should not make one-off exceptions).
+
+EXCERPTS
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:24:21 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=8661s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: PROBABLE (chair taking his turn; "when I was a teacher")
+  topic: travel freeze adds little; PD has saved money
+  "I don't I don't think I need an amendment to freeze travel cuz I'm not planning on doing any travel next year. Um to to save as much money as possible. Um I also want to be wary about the unintended consequences"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:48:46 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=10126s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (a colleague responds "This is totally inappropriate, Eddie"; personnel-specific portions omitted)
+  topic: central-office positions vs teaching FTE
+  "this is a central office position, and we're protecting a central office position during this time. [...] if we pass this amendment, we're making a position or a couple positions in the central office that's more protected than any other position in the entire district."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:50:17 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17417s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (OPB/WW quote "2010 budget cuts... cake")
+  topic: past cuts kept away from classrooms
+  "I've lived through the 2010 budget cuts. Remember those? That's those that was cake compared to this. [...] In my first year as a board member, we had to solve a 30 million budget deficit. And all three of us advocated very very strongly and successfully that all those cuts need to be away from the students. [...] My second year, you know, we weren't so lucky, but we still cut we're charged with $48 million in cuts."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:52:18 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17538s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: end of the road for can-kicking; Salem
+  "we kept kicking the can down the road um because we were hoping that the the longer we can delay it the more likely there was chance that Salem would change something. Unfortunately, that never happened. And so now we're at the end of the road."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:54:18 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17658s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: pass budget, keep looking; no on Engelsman amendment
+  "approving this budget tonight keeps the district safe from becoming insolvent and and violating state laws and everything. At the same time, we can still continue the work of turning stones. [...] that's why I'm going to vote no on this amendment because I don't it it commits us to something that we may not be able to do with massive unintended consequences."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:11:30 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18690s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: PROBABLE (chair's turn after DePass; savings-account analogy recurs in his 7/7 remarks)
+  topic: reserves, credit rating, capital work
+  "the 5% is not even it's below the bottom cuz we got downgraded on our credit. [...] if our credit rating goes bad, I mean this is maybe we might not be able to retrofit another elementary school with HVAC. [...] taking reserves out now with a very unstable economic future could mean that we're going to double that pain"
+
+[2026-07-07 Regular Meeting - board leadership vote]
+  time 00:07:26 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=446s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (re-elected chair, responding)
+  topic: why he stayed on as chair
+  "I kind of stepped into this role [clears throat] out of a need and I think I continue to do so to help the district in the best way I can. [...] I think it's really important to kind of keep that stability in the district [...] so that we can actually focus more on problem solving rather than problem chasing."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 00:43:03 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=2583s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (chair introducing the item)
+  topic: framing of PAT's post-budget savings ideas
+  "the district over the past several months has turned over many stones has looked for efficiencies as well as um sacrifices in the in the central office to preserve as many student facing positions as possible."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:43:06 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=6186s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (superintendent replies "I appreciate that Sher Wong")
+  topic: one-time funds propped up staffing despite enrollment decline
+  "using those one-time funds to preserve the number of teachers, even though enrollment declined, was a deliberate choice [...] the problem with onetime funds is that it it props up these things as well as our reserves have gone down to the bare minimum and here we are today and kind of facing the reality, picking up the can that we've kicked down the road."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:44:07 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=6247s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (same turn)
+  topic: short-term restoration vs bigger cuts next year
+  "yes, we can find more cuts, but that would also mean more pain later, right? [...] So, you know, gratification today for uh increased pain later, it doesn't sound like a good deal to me."
+
+[2026-08-04 Regular Meeting - SE Enrollment & Program Balancing (SEGC) equity audit / rightsizing update]
+  time 01:43:47 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=6227s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (staff: "Chair Wong was on the SCGC piece")
+  topic: why SEGC excluded inner-SE schools
+  "I came on the S. [...] what I understood so I I came on the SGC after that decision was made. Um but one of the arguments that was being presented was that there was a lack of capacity to take the entire southeast"
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:25:27 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=8727s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: PROBABLE (chair's turn; board-role philosophy matches his stated governance view; personal anecdote omitted)
+  topic: board should set system policy; rightsizing should eliminate split feeders
+  "I strongly believe that the board should be responsible for looking systemwide um issues [...] I think this is a management issue [...] the moment that we start passing resolutions to make exceptions to the system is the moment we start [...] I think that the right sizing process is where we make those those fixes that we we hopefully minimize or eliminate a lot of these split theaters uh so the kids can stay together."

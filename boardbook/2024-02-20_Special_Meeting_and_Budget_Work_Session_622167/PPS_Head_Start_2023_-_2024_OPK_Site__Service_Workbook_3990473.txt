@@ -1,0 +1,511 @@
+                        Please do not make any changes to the formatting of this workbook. Only enter the data requested, in the location requested.
+
+
+
+                                                                    Site and Service Workbook General Instructions
+
+                          After checking that all tabs have been completed, save the document using a name that clearly identifies that it is your program.
+
+
+Instructions for completing each tab:
+
+
+Site List Tab
+SITE NAME List each site where there are classrooms and any administrative sites where there are no children or classrooms (fill in only the relevant columns). Include all sites that
+serve EHS children.
+SITE ADDRESS Provide the site's physical address and mailing address .
+CONTACT INFORMATION Provide the phone number , name and email for the key contact person for the site ‐ preferably someone who is on‐site on a regular basis.
+AGE GROUPs SERVED If children ages 0‐3 are served at the site, place a check mark in the 0‐3 column. If children ages 3‐5 (non‐kindergarten age) are served at the site, place a check
+mark in the 3‐5 column. Check both columns, if applicable.
+#s SERVED Indicate the total numbers of children ages 0‐3 (EHS) and ages 3‐5 (HS) served at the site, regardless of funding source. If there are a mix of Head Start and other children at
+the site, provide the total number of children at the site.
+DAYS/TIME OF SERVICE Place a check mark under each day when CHILDREN are on‐site. Hours of service should indicate the usual time the first children arrive on site through the
+time the last children leave the site. For example, if the first morning session starts at 8:00 am and the last afternoon session ends at 4:30, the hours of service would be 8 ‐ 4:30. For
+administrative sites, list the hours the site is open to the public.
+TYPE OF SITE Check as many descriptors as apply to a particular site.
+CURRENT STATUS WITH OFFICE OF CHILD CARE If site is licensed, list the CC#. If site is recorded, list the PS#. Mark an "X" in the exempt column if site is neither licensed nor
+recorded.
+CURRENT STATUS WITH QRIS (QUALITY RATING AND IMPROVEMENT SYSTEM) List the current status of the site with QRIS (none, C2Q ‐ Commitment to Quality, 3‐star, 4‐star, or 5‐
+star). If site does not provide center‐based services, mark n/a.
+EXPECTED DATE TO ACHIEVE QRIS STAR RATING If site does not have QRIS star‐rating, write in the date that site is expected to achieve star rating.
+
+Site & Class List Info Tab (Separate for OPK 3‐5 and OPK Prenatal to Three)
+OPK Specialists use information on the Site & Class info page to confirm that services meet Head Start program option and staffing requirements.
+
+CLASS NAME
+* Group classes by site. List each class (or home‐based group) at the site. If more than one class is taught in the same room (am/pm or double sessions), each class should be listed
+separately.
+* Name classes in such a way that they can be specifically identified. For example: ABC Head Start's Oak Street site has two physical classrooms, with an am & pm class session in each
+room and two home‐based groups. Each of the four classes is listed separately in the workbook: Blue Room AM , Blue Room PM, Yellow Room AM, Yellow Room PM. The two home‐
+based groups assigned to the site are identified by the family advocate's initials: HB‐LRD & HB‐KLW.
+* List all OHS PreK classes on the appropriate tab, adding columns as needed. This may make it difficult to print a hard copy of the workbook, but keeping everything on one page
+allows ODE ELD to aggregate classroom data across sites and programs.
+
+CLASS DEMOGRAPHICS
+* Make sure that the total number of children in a class or group, regardless of funding source, does not exceed limits for the model and/or age group.
+* Do not count children in more than one funding demographic.
+IMPORTANT CROSS‐CHECK: The total number of "OHS PreK children in class" entered for center based/combination PLUS the number of "OHS PreK children in group" entered for
+
+
+
+
+                                                                                      7.14.14                                                                                        1 of 13
+home‐based groups should equal your funded state and federal enrollment.
+
+TEACHER QUALIFICATIONS This section is used to confirm that each class has at least one qualified teacher that meets minimum requirements. Teachers who do not meet minimum
+qualifications must be listed on the "Teacher Waivers Tab" (see below)
+
+Screen/Assess/Curriculum & Instructional Approaches Tab
+EARLY CHILDHOOD CURRICULUM Identify the research‐based early childhood curriculum (or curricula) adopted by the program. Consult Sec.642(f)(3) for information related to
+appropriate curricula.
+
+Use the description column to briefly describe how the selected or other curriculum are being used within the program.
+
+The literacy, mathematics, health/nutrition, science and other sections are not required, but provide an opportunity to identify any specialized curricula or resources adopted by your
+program.
+
+Teacher Waivers Tab
+If the program listed any classrooms with a lead teacher that does not meets minimum qualifications, additional information must be provided on the "Teacher Waiver" tab.
+List each lead teacher that does not meet minimum qualifications.
+CURRENT CREDENTIAL Mark the column that identifies the teacher's current credential.
+TYPE OF QUALIFYING DEGREE Mark the column showing the type of degree program in which teacher is currently enrolled in and give the expected date of completion.
+WAIVER STATUS If the teacher has already been granted a waiver by ODE ELD and/or RX, please enter the date(s) when those waivers were granted. If the teacher has not yet been
+granted a waiver, place a check mark in the "Needs Waiver" column and CONTACT YOUR ASSIGNED OPK SPECIALIST to determine what information will be required to process
+waiver request.
+
+
+
+
+                                                                                     7.14.14                                                                                      2 of 13
+                                                               Program Information
+                                                        Grantee Information
+                                          Name of Grantee Portland Public Schools Head Start
+                             Main Office Mailing Address 4800 NE 74th Ave
+                                                        City Portland Public Schools Head Start
+                                                      State OR
+                                                        Zip 97218
+                   Street Address (if different from above)
+                                                     Phone (503) 916-5724
+                                                    Website PPS Head Start
+                                                        Leadership Contacts
+              (Complete all that apply. If the titles used by your organization differ, include the correct title in parenthesis next to the name)
+                                      Executive Director Dr. Emily Glasgow
+                                                   Phone 503-916-3684
+                                                    Email eglasgow@pps.net
+                                                 Director Dana Stiles
+                                                   Phone (503) 916-5724 x 75956
+                                                    Email dstiles@pps.net
+                        Co-Director or Assistant Director
+                                                   Phone
+                                                    Email
+                                                    Governing Body Contact
+                            Grantee Board Chair's Name Andrew Scott
+                                                   Phone (503) 916-3741
+                                                    Email anscott@pps.net
+                                                     Policy Council Contact
+                            Policy Council Chair's Name Huynh Pool
+                                                   Phone (971) 275-0682
+                                                    Email huynhpool@gmail.com
+                                                    Service Area Information
+     (Information in this section must match your federal or state designated service area - as well as service area agreements with other programs)
+
+
+                                    County/Counties Served Multnomah
+
+                                   School District(s) Served Portland Public Schools
+                                                        Programs & Enrollment
+         (Number of slots for each program must match your total funded enrollment numbers - Please list Federal Slots by Region - X, XI, XII)
+        Number Region X, XI, XII Federal Head Start Slots                                                                                                   297
+  Number Region X, XI, XII Federal Early Head Start Slots
+        Number Oregon Pre‐Kindergarten Slots (3‐5 years)                                                                                                    351
+Number Oregon Pre‐Kindergarten Slots (Prenatal to 3 years)
+
+
+
+
+                                                                                                                                                       3 of 13
+                                                                      Staff Contacts
+
+                             Identify the individual who has primary responsibility for each of the content areas listed.                                  If
+                                             someone has more than one area of responsibility, list that person again in each area that applies
+
+  Component/ Area of
+    Responsibility                        Name                               Title                                   Email                           Phone
+
+Director's Primary Backup                                                                                                                          (503) 916-
+                                      Nancy Robles               Business Operations Analyst                  nrobles@pps.net                     5724 x66306
+
+   Human Resources                                                     Human Resources                                                             503-916-
+                                 PPS Human Resources                     Department                            hronline@pps.net                      3544
+
+ Fiscal (Includes EGMS and
+   Expenditures Reporting)                                                                                                                         (503) 916-
+                                      Nancy Robles               Business Operations Analyst                  nrobles@pps.net                     5724 x66306
+
+          ERSEA                                                                                                                                    (503) 916-
+                                    Rhiannon Martin               Family Services Manager                     rhmartin@pps.net                        3713
+                             Amparo Garcia‐Yurchenco, Jason
+        Education             Roepel, Mary Pearson, Martha                                      agarciayurchenco@pps.net, jroepel@pps.net,         (503) 916-
+                                     Molina Velasco                 Education Supervisors       mpearson@pps.net, mmolinavelasco@pps.net              5724
+
+        Disabilities                                                                                                                               (503) 916-
+                                    Daniela DeYoung                   Inclusion Manager                       ddeyoung@pps.net                        5724
+
+          Health
+                                       Keely Moon                       Program Nurse                          kemoon@pps.net                        66328
+
+  Family & Community                                                                                                                               (503) 916-
+                                    Rhiannon Martin               Family Services Manager                     rhmartin@pps.net                        3713
+
+     Transportation
+                                           N/A
+
+
+
+                                                                                                                                                      4 of 13
+Monthly Reporting (State
+                                            Data Management
+        Form)
+                           Andrea Murphy       Coordinator     amurphy1@pps.net    (503) 916‐6269
+
+    3‐5 Coordinator
+
+
+
+    P‐3 Coordinator
+
+
+   Child Assessment                         Data Management
+    Admininstrator         Andrea Murphy       Coordinator     amurphy1@pps.net    (503) 916‐6269
+
+       Facilities                                                                  (503) 916-
+                            Frank Leavitt     PPS Facilities    fleavitt@pps.net       3310
+
+  PreK Data Collection                      Data Management
+                           Andrea Murphy       Coordinator     amurphy1@pps.net    (503) 916‐6269
+
+
+
+
+                                                                                        5 of 13
+Site List
+
+                                                                                                                                                                    Age
+                                                                                                                                                                   Groups          Capacity - State and
+                                            Site Address                                    Contact Information                          Site Type                 Served           Federal Combined
+                                                                                                                                                                 (check all that
+                                                                                                                                                                     apply)
+
+
+
+
+                                                                                                                            Administrative   Classrooms
+                                                                                         Site Supervisor                                                                  Total # of Total # of
+                                                                                            or Primary                                                                    EHS Slots HS Slots
+          Site Name            Street Address              City        Zip  Site Phone #     Contact             Email                                    Both    0-3 3-5  at site    at site
+Applegate Head Start    7650 N Commercial Ave   Portland          OR 97217 6294          Roepel          jroepel@pps.net                                  X           X                     63
+Clarendon Head Start    9325 N Van Houten Ave   Portland          OR 97203 6269          Garcia-         s.net                                            X           X                    126
+Creston Head Start      4620 SE Powell Blvd     Portland          OR 97206 6219          Roepel          jroepel@pps.net                                  X           X                     72
+Grout Head Start        3119 SE Holgate         Portland          OR 97202 6711          Pearson         mpearson@pps.net                                 X           X                     36
+Jason Lee Head Start    2222 NE 92nd Ave        Portland          OR 97220 4732                                                                           X           X                     27
+Kelly Head Start        9015 SE Rural St        Portland          OR 97266 5774          Pearson         mpearson@pps.net                                 X           X                   108
+Sacajawea Head Start    4800 NE 74th Ave        Portland          OR 97218 8724                                                                           X           X                    108
+Sitton Head Start       9930 N Smith St         Portland          OR 97203 3043          Garcia-         s.net                                            X           X                     36
+Whitman Head Start      7326 SE Flavel St       Portland          OR 97206 3010          Pearson         mpearson@pps.net                                 X           X                     36
+Faubioun School         2930 NE Dekum           Portland          OR 97211 503-916-5686 Angelica Cruz acruz@pps.net                                       x           x                      18
+Rosa Parks Elementary   8960 N Woolsey Ave      Portland          OR 97203 503-916-6250 Angelica Cruz acruz@pps.net                                       x           x                      18
+
+
+
+
+                                                                                                                                                                                                     6 of 13
+Site List
+
+
+
+                           Days/Time of Service                   Facility Type (check all that apply)
+                                                                                                                                                              Current Status with the Office of        Current QRIS
+                                                                                                                                                                         Child Care                       Status
+
+
+
+                                                                                                                      Community preschool-
+                                                                                                                                                                                                  none, C2Q, 3-, 4- or
+                                                                                                                                                                                                  5-star rated (or n/a if
+
+
+                                                  Grantee owned      Grantee rented   Donated space   Public School
+                                                                                                                                                                                                  no center-based
+
+                                                                                                                      childcare
+                                    Hours of                                                                                                                   Licensed      Recorded      Exempt services provided on
+          Site Name      M T W Th F Operation                                                                                                Church   Other   (list CC #)    (list PS #)    ("X") site)
+Applegate Head Start    X X X X X 8:15-2:50                                                           X                                                       RA 1727                                                   5
+Clarendon Head Start    X X X X X 8:30-2:50                                                           X                                                       RA 2776                                                   5
+Creston Head Start      X X X X X 8:15-2:50                                                           X                                                       RA 1728                               reviewing
+Grout Head Start        X X X X X 8:00-2:20                                                           X                                                       RA 2777                                                   5
+Jason Lee Head Start    X X X X X 8:00-2:20                                                           X                                                       RA 2778                               n/a
+Kelly Head Start        X X X X X 8:15-2:50                                                           X                                                       RA 1729                                                   5
+Sacajawea Head Start    X X X X X 8:15-2:50                                                           X                                                       RA 1725                                                   5
+Sitton Head Start       X X X X X 8:00-2:20                                                           X                                                       RA 1731                                                   3
+Whitman Head Start      X X X X X 8:30-2:50                                                           X                                                       RA 2779                               n/a
+Faubioun School         x x x x x 8:45-3:15                                                           x
+Rosa Parks Elementary   x x x x x 8:00-2:20                                                           x
+
+
+
+
+                                                                                                                                                                                                                            7 of 13
+                                                                                     OPK Specialists use information on the Site & Class info page to
+                                                                                       confirm that services meet Head Start program option and
+Site and Class Information                                                                                 staffing requirements
+
+
+                                                                                    Complete the yellow section for all classes and home-based groups. Use a separate column for each AM/PM class, or double session, even if it is the same
+                                    Site name (must match names on Site List tab) : Applegate        Applegate          Applegate      Applegate        Clarendon        Clarendon      Clarendon        Clarendon        Clarendon
+                                             Class (or home-based group) name: Room 5                Room 7             Room 9         Room 6           Room 14          Room 5         Room 16          Room 4           Room 15
+                         Program Model (check one)
+                                     Center-based part day session (less than 6 hours)
+                              Center-based double session (same lead teacher am/pm)
+                                                Center-based, including extended day X                X               X                 X                   X                X                X                X                X
+                                                        Center-based, full day/full year
+                                                            Family Child Care Option
+                                                                  Home-based Option
+                                                             Locally Designed Option
+                                                                        Contact Time Complete the Green Section
+                                                          Date class expected to start    09/11/2023       09/11/2023      09/11/2023        09/11/2023         09/11/2023       09/11/2023       09/11/2023       09/11/2023       09/11/2023
+                                                           Date class expected to end     06/11/2024       06/11/2024      06/11/2024        06/11/2024         06/11/2024       06/11/2024       06/11/2024       06/11/2024       06/11/2024
+                                                     Number of weeks class operates                35              35              35                35                 35               35               35               35               35
+                                             Number of days per week class operates                 5               5               5                 5                  5                5                5                5                5
+                                                 Total number of days class operates              155             155             155               155                155              155              155              155              155
+                                                             Number of hours per day      6HR 20MN         6HR 20MN        6HR 20MN          6HR 20MN           6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN
+                          Number of teacher conducted education home visits per child               1                1           1                      1               1                1                1                1                1
+                     Number of teacher conducted parent-teacher conferences per child               3                3           3                      3               3                3                3                3                3
+                                Number of home visits conducted by other staff per child            2                2           2                      2               2                2                2                2                2
+                     Class Demographics (each child should only be counted once)
+                Number of OPK/Head Start children in class (federal and/or state funded)            9               18          18                   18                18               18               18               18               18
+                                                    Number of Preschool Promise children
+                  Number of non-OPK/Head Start/Preschool Promise EI/ECSE children
+      Number of non-OPK/Head Start/Preschool Promise community or childcare children
+                                                        Total number of children in class          18               18          18                   18                18               18               18               18               18
+                           Are the majority of children 4 years or older by Sept. 1 (Y/N)        Yes               Yes         Yes                  Yes               Yes              Yes              Yes              Yes              Yes
+                                                    Number of paid staff in class each day          3                3           3                    3                 3                3                3                3                3
+                            Is this class part of a childcare or public school partnership?      Yes               Yes         Yes                  Yes               Yes              Yes              Yes              Yes              Yes
+              Teacher Qualifications - Education level for lead teacher - (check one)
+                                                             Oregon Registry Step 10 (BA)           X                X           X                      X               X                X                X                X                X
+                                                              Oregon Registry Step 9 (AA)
+                                Needs or has Waiver - (Complete Teacher Waivers Tab)
+                                                    Contact Time (home-based groups) Complete the blue section for HOME-BASED model groups
+                                            Number of OPK/Head Start children in group
+                                                   Number of weeks services are provided
+                                                     Total number of home visits per child
+                                                       Length of each home visit (in hours)
+                                                                  Number of socializations
+                                                                Case load per home visitor
+                                                                                                                                                                                                                                         8 of 13
+Site and Class Information
+
+                                                                                      lead teacher.
+                                      Site name (must match names on Site List tab) : Clarendon             Clarendon         Creston          Creston          Creston          Creston          Grout            Grout            Jason Lee         Jason Lee
+                                               Class (or home-based group) name: Room 7                     Room 6            Room 4           Room 5           Room 3           Room 2           Room A           Room D           Room 118          Room 119
+                           Program Model (check one)
+                                        Center-based part day session (less than 6 hours)
+                                 Center-based double session (same lead teacher am/pm)
+                                                   Center-based, including extended day X                   X                 X                X                X                X                X                X                X                 X
+                                                           Center-based, full day/full year
+                                                               Family Child Care Option
+                                                                     Home-based Option
+                                                                Locally Designed Option
+                                                                           Contact Time
+                                                             Date class expected to start     09/11/2023        09/11/2023        09/11/2023       09/11/2023       09/11/2023       09/11/2023       09/11/2023       09/11/2023       09/11/2023        09/11/2023
+                                                              Date class expected to end      06/11/2024        06/11/2024        06/11/2024       06/11/2024       06/11/2024       06/11/2024       06/11/2024       06/11/2024       06/11/2024        06/11/2024
+                                                        Number of weeks class operates                35                35                35               35               35               35               35               35               35                35
+                                                Number of days per week class operates                 5                 5                 5                5                5                5                5                5                5                 5
+                                                    Total number of days class operates              155               155               155              155              155              155              155              155              155               155
+                                                                Number of hours per day       6HR 20MN          6HR 20MN          6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN         6HR 20MN          6HR 20MN
+                          Number of teacher conducted education home visits per child                   1                 1               1                1                1                1                1                1                  1                 1
+                     Number of teacher conducted parent-teacher conferences per child                   3                 3               3                3                3                3                3                3                  3                 3
+                                Number of home visits conducted by other staff per child                2                 2               2                2                2                2                2                2                  2                 2
+                     Class Demographics (each child should only be counted once)
+                Number of OPK/Head Start children in class (federal and/or state funded)              18                18               18               18               18               18               18               18                 9                 9
+                                                    Number of Preschool Promise children
+                  Number of non-OPK/Head Start/Preschool Promise EI/ECSE children
+      Number of non-OPK/Head Start/Preschool Promise community or childcare children
+                                                        Total number of children in class              18                18              18               18               18               18               18               18                 18                18
+                           Are the majority of children 4 years or older by Sept. 1 (Y/N)             Yes               Yes             Yes              Yes              Yes              Yes              Yes              Yes                Yes               Yes
+                                                    Number of paid staff in class each day              3                 3               3                3                3                3                3                3                  3                 3
+                            Is this class part of a childcare or public school partnership?           Yes               Yes             Yes              Yes              Yes              Yes              Yes              Yes                Yes               Yes
+              Teacher Qualifications - Education level for lead teacher - (check one)
+                                                             Oregon Registry Step 10 (BA)              X                 X                X                X                X                X                X                X                 X                 X
+                                                              Oregon Registry Step 9 (AA)
+                                Needs or has Waiver - (Complete Teacher Waivers Tab)
+                                                    Contact Time (home-based groups)
+                                            Number of OPK/Head Start children in group
+                                                   Number of weeks services are provided
+                                                     Total number of home visits per child
+                                                       Length of each home visit (in hours)
+                                                                  Number of socializations
+                                                                Case load per home visitor
+                                                                                                                                                                                                                                                9 of 13
+Site and Class Information
+
+                                                                                                           Complete the yellow section for all classes and home-based groups. Use a separate column for each AM/PM class, or double session, even if it is
+                                      Site name (must match names on Site List tab) : Jason Lee            Kelly            Kelly           Kelly           Kelly     Kelly       Kelly       SacajaweaSacajaweaSacajaweaSacajaweaSacajawea
+                                               Class (or home-based group) name: Room 121                  Room 6           Room 19         Room 25         Room 2 Room 23 Room 10 Room 104Room 105Room 106Room 108Room 103
+                           Program Model (check one)
+                                        Center-based part day session (less than 6 hours)
+                                 Center-based double session (same lead teacher am/pm)
+                                                   Center-based, including extended day X                  X                  X                X               X          X          X          X           X           X           X          X
+                                                           Center-based, full day/full year
+                                                               Family Child Care Option
+                                                                     Home-based Option
+                                                                Locally Designed Option
+                                                                           Contact Time
+                                                             Date class expected to start     09/11/2023         09/11/2023       09/11/2023       09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023
+                                                              Date class expected to end      06/11/2024         06/11/2024       06/11/2024       06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024
+                                                        Number of weeks class operates                35                 35               35               35         35         35         35         35         35         35         35         35
+                                                Number of days per week class operates                 5                  5                5                5          5          5          5          5          5          5          5          5
+                                                    Total number of days class operates              155                155              155              155        155        155        155        155        155        155        155        155
+                                                                Number of hours per day       6HR 20MN           6HR 20MN         6HR 20MN         6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN
+                          Number of teacher conducted education home visits per child                 1                   1               1                1          1          1          1           1           1           1          1           1
+                     Number of teacher conducted parent-teacher conferences per child                 3                   3               3                3          3          3          3           3           3           3          3           3
+                                Number of home visits conducted by other staff per child              2                   2               2                2          2          2          2           2           2           2          2           2
+                     Class Demographics (each child should only be counted once)
+                Number of OPK/Head Start children in class (federal and/or state funded)              9                 18               18               18         18         18         18         18          18          18          18          18
+                                                    Number of Preschool Promise children
+                  Number of non-OPK/Head Start/Preschool Promise EI/ECSE children
+      Number of non-OPK/Head Start/Preschool Promise community or childcare children
+                                                        Total number of children in class            18                  18              18               18         18         18         18         18          18          18          18          18
+                           Are the majority of children 4 years or older by Sept. 1 (Y/N)           Yes                 Yes             Yes              Yes        Yes        Yes        Yes        Yes         Yes         Yes         Yes         Yes
+                                                    Number of paid staff in class each day            3                   3               3                3          3          3          3          3           3           3           3           3
+                            Is this class part of a childcare or public school partnership?         Yes                 Yes             Yes              Yes        Yes        Yes        Yes        Yes         Yes         Yes         Yes         Yes
+              Teacher Qualifications - Education level for lead teacher - (check one)
+                                                             Oregon Registry Step 10 (BA)             X                   X               X                X          X          X          X           X          X           X           X           X
+                                                              Oregon Registry Step 9 (AA)
+                                Needs or has Waiver - (Complete Teacher Waivers Tab)
+                                                    Contact Time (home-based groups)
+                                            Number of OPK/Head Start children in group
+                                                   Number of weeks services are provided
+                                                     Total number of home visits per child
+                                                       Length of each home visit (in hours)
+                                                                  Number of socializations
+                                                                Case load per home visitor
+                                                                                                                                                                                                                                          10 of 13
+Site and Class Information
+
+                                                                                      the same lead teacher.
+                                      Site name (must match names on Site List tab) : SacajaweaSitton        Sitton Whitman Faubion Faubion Faubion Faubion Rosa ParkRosa Park
+                                               Class (or home-based group) name: Room 101Room 15 Room 16 Room 19 Room 01 Room 02 Room 03 Room 04 Room 01 Room 02
+                           Program Model (check one)
+                                        Center-based part day session (less than 6 hours)
+                                 Center-based double session (same lead teacher am/pm)
+                                                   Center-based, including extended day X            X          X          X          X          X          X          X          X          X
+                                                           Center-based, full day/full year
+                                                               Family Child Care Option
+                                                                     Home-based Option
+                                                                Locally Designed Option
+                                                                           Contact Time
+                                                             Date class expected to start 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023 09/11/2023
+                                                              Date class expected to end 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024 06/11/2024
+                                                        Number of weeks class operates            35         35         35         35         35         35         35         35         35         35
+                                                Number of days per week class operates             5          5          5          5          5          5          5          5          5          5
+                                                    Total number of days class operates          155        155        155        155        155        155        155        155        155        155
+                                                                Number of hours per day 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN 6HR 20MN
+                          Number of teacher conducted education home visits per child           1        1           1          1           1          1           1          1           1          1
+                     Number of teacher conducted parent-teacher conferences per child           3        3           3          3           3          3           3          3           3          3
+                                Number of home visits conducted by other staff per child        2        2           2          2           2          2           2          2           2          2
+                     Class Demographics (each child should only be counted once)
+                Number of OPK/Head Start children in class (federal and/or state funded)      18        18         18          18           4          5           4          5           9          9
+                                                    Number of Preschool Promise children
+                  Number of non-OPK/Head Start/Preschool Promise EI/ECSE children
+      Number of non-OPK/Head Start/Preschool Promise community or childcare children
+                                                        Total number of children in class      18       18          18         18          18         18          18         18          18         18
+                           Are the majority of children 4 years or older by Sept. 1 (Y/N)     Yes      Yes         Yes        Yes         Yes        Yes         Yes        Yes         Yes        Yes
+                                                    Number of paid staff in class each day      3        3           3          3           3          3           3          3           3          3
+                            Is this class part of a childcare or public school partnership?   Yes      Yes         Yes        Yes         Yes        Yes         Yes        Yes         Yes        Yes
+              Teacher Qualifications - Education level for lead teacher - (check one)
+                                                             Oregon Registry Step 10 (BA)      X         X           X          X           X          X           X          X           X          X
+                                                              Oregon Registry Step 9 (AA)
+                                Needs or has Waiver - (Complete Teacher Waivers Tab)
+                                                    Contact Time (home-based groups)
+                                            Number of OPK/Head Start children in group
+                                                   Number of weeks services are provided
+                                                     Total number of home visits per child
+                                                       Length of each home visit (in hours)
+                                                                  Number of socializations
+                                                                Case load per home visitor
+                                                                                                                                                                                                          11 of 13
+                                                 Screening, Assessments, and Curriculum
+
+      Identify the research-based early childhood curriculum (or curricula) adopted by the program. Consult Sec.642(f)(3) for information related to
+    appropriate curricula. Use the description column to briefly describe how the selected or other curriculum are being used within the program.The
+ literacy, mathematics, health/nutrition, science and other sections are not required, but provide an opportunity to identify any specialized curricula or
+                                                           resources adopted by your program.
+
+       DEVELOPMENTAL SCREENING                       (check all
+                                                                                  Name/Title of Other
+         Instruments used by program                that apply)
+                   Ages and Stages Questionnaire         X
+                            Other (please specify):
+   SOCIAL-EMOTIONAL and/or BEHAVIORAL                (check all                   Name/Title of Other
+   SCREENING Instrument(s) used by program          that apply)
+  Ages and Stages Questionnaire - Social-Emotional       X
+                            Other (please specify): (
+     Approach or tools(s) used by program           that apply)                   Name/Title of Other
+                Teaching Strategies GOLD Online
+                            Other (please specify):      X
+               DATA TRACKING                         (check all
+                                                                                  Name/Title of Other
+          System(s) used by program                 that apply)
+                                         ChildPlus
+                            Other (please specify): ( X         Desired Results Developmental Profile
+       INSTRUCTIONAL APPROACHES                     that apply)            Briefly Describe Implementation
+GENERAL
+
+
+  Creative Curriculum System for Preschool (describe
+                  which Edition and/or tools are used)
+
+
+
+
+             Other (identify & describe implementation):
+
+                                                                          X      Tools of the Mind
+LITERACY
+                                                Please Specify:           X      Tools of the Mind
+MATHEMATICS
+                                     Please Specify:                      X      Tools of the Mind
+SOCIAL-EMOTIONAL/BEHAVIORAL
+     Positive Behavior Intervention & Support (PBIS)                      X
+                                Conscious Discipline
+                                        Second Step
+                              Other (please specify)                      X      Trauma-informed care model based on UCLA training
+HEALTH/NUTRITION
+                          I am Moving, I am Learning                      X
+                                     Health in Action
+                              Other (please specify)
+SCIENCE
+                                     Please Specify:                      X      Tools of the Mind
+OTHER
+                                     Please Specify:
+
+
+
+
+                                                                                                                                       12 of 13
+                                                                  Teacher Waivers
+
+ Complete this information for any
+   teachers who do not meet the                                            Type of qualifying degree program in which
+                                                Current Credential                                                               Waiver status
+       minimum alternative                                                           the teacher is enrolled
+requirements(AA) as outlined in Sec.
+     648A of the Head Start Act
+         Name of Teacher             Current CDA State Awarded Completed   AA/AS    BA/BS    Advanced Expected date     Waiver    Waiver already    Needs
+
+
+
+
+                                                                           7.2.15                                                                  13 of 13
+

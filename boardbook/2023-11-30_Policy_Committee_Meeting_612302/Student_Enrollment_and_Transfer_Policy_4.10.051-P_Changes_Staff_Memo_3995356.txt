@@ -1,0 +1,116 @@
+                                            MEMO
+
+Date:          November 17, 2023
+
+To:            School Board Policy Committee
+
+From:          Don Wolff, Chief Technology Officer
+               Judy Brennan, Director, Enrollment and Transfer
+
+
+Subject:       Requested Revisions to Policy 4.10.051-P
+
+
+
+This memo outlines minor policy language changes to the Student Enrollment and Transfers
+policy, 4.10.051-P. The changes are designed to leverage new technical ability due to a change
+in software vendors and enable several transfer system improvements aligned with
+recommendations submitted to the PPS Audit Committee in April 2023. In order to impact the
+2024-25 middle and high school transfer process, Board approval is needed by mid-January
+2024. The proposed minor adjustments do not limit the Board’s ability to propose additional,
+substantive policy changes for implementation in a later school year.
+
+BACKGROUND
+School choice has existed in PPS for more than a century. Approximately 30% of PPS students
+attend schools other than their assigned neighborhood schools, many enrolled in specialized
+programs such as Benson Polytechnic High School, DaVinci Arts Middle School or Dual
+Language Immersion (DLI), which is offered at 27 schools and in five languages. Most students
+enter such schools and programs through an annual lottery, and PPS uses software to
+determine the results using factors described in Student Enrollment and Transfers policy.
+
+The district also allows hardship transfers when there is evidence of an extraordinary situation
+that poses imminent health, safety or serious educational concerns for the student. The chart
+below shows the volume of hardship petitions and lottery applications received for the past two
+school years. While lottery requests are lower, hardship petition requests have returned to
+pre-pandemic levels.
+
+
+
+
+                                              1 of 3
+General transfer procedures are described in policy, 4.10.051-P, while more detailed transfer
+steps are explained in the Student Transfer Administrative Directive, 4.10.054-AD. The Board
+Policy Committee has discussed the policy in recent years, but major changes have not been
+made since 2014, when neighborhood-based schools and programs were moved out of the
+annual lottery and into a petition-only process, and an income eligibility preference for
+low-income students was added to most lottery-based schools and programs.
+
+The hardship petition process was the subject of a 2022 internal audit that resulted in five
+recommendations, including strengthening the “internal control structure to ensure Hardship
+Petition Transfer requests are approved or denied in alignment with the school district’s policy
+and administrative directive.” The internal auditor noted that some hardship petition transfers
+had been approved because space remained in the requested focus option or dual language
+immersion program, which was not the same as evidence of a hardship.
+
+PROPOSED POLICY CHANGES AND RATIONALE
+In July 2023, PPS shifted to a new Synergy transfer software which will allow parents easier
+access to transfer applications and streamline enrollment changes due to lottery and petition
+decisions. Testing of new lottery functionality revealed an unexpected opportunity to shift all
+applications for lottery-based schools and programs to a single application structure, preserving
+the hardship petition exclusively for transfer to neighborhood-based schools and programs. The
+change will help fulfill the internal audit implementation plan, ensure consistency in
+implementation of Board-approved factors such as income eligibility and regional preferences
+for Benson HS, while also streamlining waitlist management and improving transparency.
+
+After the lottery application period closes, the “open enrollment” application will use the exact
+same priorities and set-up as the lottery application, with the addition of one field for families to
+describe any special circumstances that may have prevented them from applying during the
+lottery cycle or indicate an exceptional need for placement at the requested school. Special
+circumstances will be reviewed by ETC staff, and input may be gathered from school
+                                                2 of 3
+administrators to determine whether the student qualifies for the additional priority. The special
+circumstances priority falls below Board-approved preferences (co-enrolled sibling, income
+eligibility and regional preference), but can result in a student having a higher placement on a
+waiting list than applicants without the priority. Lottery and open enrollment applications will be
+viewable by school staff on a single waitlist, with priority eligibility clearly displayed for improved
+transparency.
+
+The proposed changes will shift approximately 700 lottery-based school and program
+applications from the hardship petition into the lottery/open enrollment application. The technical
+set-up is underway, but policy language needs to be aligned, as well. There are three lines in
+4.10.051-P, that link applications to focus options with the petition transfer. If those lines can be
+revised by mid-January 2024, the new technical system can be used for all 2024-25 transfer
+results.
+
+There may be other areas of the Student Enrollment and Transfers policy that could be
+improved, as well. However, due to upcoming transfer cycle, we request that additional
+modifications be considered at a later date.
+
+FISCAL IMPACT
+There is no identified fiscal impact associated with this change. The number of transfers into
+lottery-based schools is not expected to change because of the new policy language and
+process. The expected impact is improved efficiency and transparency, particularly for
+school-based staff and families.
+
+COMMUNITY ENGAGEMENT
+The software and workflow changes have been vetted with lottery-based school administrators
+and counselors. They provided positive feedback about the potential improvements.
+
+NEXT STEPS
+2024-25 middle and high school transfer applications are open through December 22, 2023.
+The proposed policy language changes are needed by mid-January, in order to use new
+software functionality to process all transfers into lottery-based schools and programs.
+
+
+
+
+ATTACHMENTS
+   A. Student Enrollment and Transfers Policy
+   B. Student Enrollment and Transfers Policy - redlined
+   C. List of Lottery-Based Schools and Programs
+
+
+
+
+                                                    3 of 3
+

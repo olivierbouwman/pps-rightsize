@@ -1,0 +1,1390 @@
+education policy analysis
+archives
+A peer-reviewed, independent,
+open access, multilingual journal
+
+
+
+
+                                                                                    Arizona State University
+
+             Volume 27 Number 110           September 16, 2019            ISSN 1068-2341
+
+
+
+                         “It Just Doesn’t Add Up”:
+                     Disrupting Official Arguments for
+                 Urban School Closures with Counterframes
+                                                Esa Syeed
+                                California State University-Long Beach
+                                               United States
+
+Citation: Syeed, E. (2019). “It just doesn’t add up”: Disrupting official arguments for urban school
+closures with counterframes. Education Policy Analysis Archives, 27(110).
+https://doi.org/10.14507/epaa.27.4240
+
+Abstract: Mass school closures have become commonplace in urban school districts. To explain
+their actions, school system leaders often rely on a dominant frame that presents closures as an
+inevitable, data-driven, and politically neutral phenomenon in an educational landscape defined by
+shrinking budgets, demographic changes, and increased school choice. In response, research has
+typically focused on how communities tell counternarratives that seek to interrupt official accounts
+of school closures. Using a critical frame analysis of qualitative data from the 2013 school closure
+process in Washington, DC, I discuss another grassroots approach to disrupting school closures:
+counterframes. Drawing on Critical Race Theory and social movement theory, I discuss
+counterframes as discursive arguments that allow communities to directly challenge official rhetoric
+and offer alternatives. Findings show that communities in DC crafted counterframes that pushed
+back on the notion that the closures were inevitable, questioned the data guiding the process, and
+attempted to expose hidden agendas and interests behind shuttering schools. The article concludes
+with the relevance of counterframes to broader educational mobilizations as well as their limitations.
+Keywords: school closures; urban school reform; social movements; framing
+
+Journal website: http://epaa.asu.edu/ojs/                                   Manuscript received: 2/7/2019
+Facebook: /EPAAA                                                            Revisions received: 8/16/2019
+Twitter: @epaa_aape                                                                 Accepted: 8/23/2019
+Education Policy Analysis Archives Vol. 27 No. 110                                               2
+
+“Simplemente no cuadra”: Interrumpir los argumentos oficiales para el cierre de
+escuelas urbanas con counterframes
+Resumen: El cierre de escuelas se ha vuelto común en los distritos escolares urbanos de
+EE.UU. Para explicar sus acciones, los líderes del sistema escolar a menudo confían en una
+narrativa dominante que presenta los cierres como un fenómeno inevitable, basado en
+datos y políticamente neutral en un entorno educativo definido por presupuestos
+ajustados, cambios demográficos y una mayor elección de escuela. En respuesta, la
+investigación a menudo se centra en cómo las comunidades cuentan narraciones contrarias
+que buscan alterar las cuentas oficiales de cierre de escuelas. Basado en un análisis de datos
+cualitativos del proceso de cierre de escuelas de 2013 en Washington, DC, analizo otro
+enfoque popular para interrumpir el cierre de escuelas: counterframes. Basado en la teoría
+crítica de la raza y la teoría del movimiento social, analizo los counterframes como
+argumentos discursivos que permiten a las comunidades desafiar la retórica oficial y
+ofrecer alternativas. Los hallazgos muestran que las comunidades en DC crearon
+counterframes que impulsaron la idea de que los cierres eran inevitables, cuestionaron los
+datos que guían el proceso e intentaron exponer agendas e intereses ocultos detrás de las
+escuelas cerradas. El artículo concluye con la relevancia de los counterframes para
+movilizaciones educativas más amplias, así como sus limitaciones.
+Palabras-clave: cierre de la escuela; reforma escolar urbana; movimientos sociales;
+counterframes
+
+“Simplesmente não vale a pena”: Interromper argumentos oficiais para o
+fechamento de escolas urbanas com counterframes
+Resumo: O fechamento de escolas tornou-se comum em distritos escolares urbanos dos
+Estados Unidos. Para explicar suas ações, os líderes do sistema escolar geralmente confiam
+em uma narrativa dominante que apresenta encerramentos como um fenômeno inevitável,
+orientado a dados e politicamente neutro em um cenário educacional definido por
+orçamentos reduzidos, mudanças demográficas e aumento da escolha da escola. Em
+resposta, a pesquisa geralmente se concentra em como as comunidades contam contra-
+narrativas que buscam interromper as contas oficiais de fechamento de escolas. Com base
+em uma análise de dados qualitativos do processo de fechamento de escolas em 2013, em
+Washington, DC, discuto outra abordagem popular para interromper o fechamento de
+escolas: os counterframes. Com base na teoria crítica da raça e na teoria do movimento social,
+discuto os counterframes como argumentos discursivos que permitem às comunidades
+desafiar a retórica oficial e oferecer alternativas. As descobertas mostram que as
+comunidades em DC criaram counterframes que empurraram a idéia de que os fechamentos
+eram inevitáveis, questionaram os dados que norteiam o processo e tentaram expor
+agendas e interesses ocultos por trás das escolas fechadas. O artigo conclui com a
+relevância dos counterframes para mobilizações educacionais mais amplas, bem como suas
+limitações.
+Palavras-chave: fechamento de escolas; reforma escolar urbana; movimentos sociais;
+framing
+“It just doesn’t add up”                                                                                 3
+
+                                         Introduction
+         As the number of urban public school closures continues to swell in the United States, so
+does the immense pushback from parents, communities, and youth working to safeguard their local
+institutions (Ewing, 2018; Fine, 2012; Green, 2017; Journey for Justice Alliance, 2014; Kirshner &
+Pozzoboni, 2011; Lipman, 2013; Noguera & Pierce, 2016; Pappas, 2018). Attempting to quiet the
+growing discontent, education officials present arguments for closures that they hope will convince
+students, families, and educators of their actions. Sticking to efficiency metrics related to utilization,
+academic performance, and fiscal management, they present what they see as unimpeachable
+evidence for the necessity of school closures in cities where public education is subject to tight
+budgets and competition to enroll students (Dowdall, 2011; Engberg, Gill, Zamarro, & Zimmer,
+2012). When faced with these arguments for closures, how do affected communities respond?
+Often, research points to the power communities wield in telling counter stories or narratives that
+cut through discussions of utilization rates or educational failure to focus on themes like identity and
+community (Fine, 2012; Galletta & Ayala, 2012; Kirshner & Pozzoboni, 2011). However, after
+previously resisting school closures myself as a teacher and now studying these processes as a
+researcher, I have observed another important strategy employed by communities. While mining
+their lived experiences to craft impactful stories, I find that communities also voice discursive
+arguments that seek to disrupt the very logic behind school policy and demystify what is presented
+as a data-driven process.
+         Focusing on the local school district in Washington, DC, I analyze the city’s most recent
+wave of mass closures that occurred in 2013 when officials decided to shutter 15 schools. By
+examining qualitative data from the community engagement process and supplemental interviews
+with community leaders, I demonstrate how communities actively and intentionally attempted to
+deconstruct the logic of school system leaders by presenting counterframes to the official reasons
+given for closures (Benford & Snow, 2000). In particular, they pushed back on the notion that the
+closures were inevitable, questioned the measures guiding the process, and attempted to expose
+hidden agendas and interests behind them. The findings build on earlier work on the logics of
+school closures and document another important approach to resistance: using counterframes to
+debunk the reasons for closure (Good, 2016; Lipman, 2013; Noguera & Pierce, 2016). Beyond the
+specific issue of school closures, I conclude with a discussion of how these findings can be applied
+more broadly to processes of mobilization around issues of educational inequality.
+         School closures are an important site for studying community engagement and mobilization
+around public education. First, they have become a relatively permanent fixture of contemporary
+schooling. In their longitudinal study across 26 states, Han et al. (2017) paint a grim picture of just
+how widespread an issue it is across the country, albeit with uneven impact on some communities.
+While the study tallied a total of 1,522 low-achieving public schools closures between 2006 and
+2012, about 70% were in urban areas (Han et al., 2017). The sheer volume of shuttered schools has
+also spawned a nationwide movement focusing specifically on impacted urban communities. The
+Journey for Justice Alliance (2014) is a network of parent, youth, and community-led organizations
+from 30 cities across the country including New York, Chicago, and Detroit where collectively
+hundreds of schools have closed in recent years. The activist group has galvanized these local
+communities to take action through demonstrations, rallies, networking, and policy advocacy at local
+and federal levels. Second, when schools are closed, they bring to the fore a host of contextual
+factors related to public education, such as changing demographics, racial inequality, and urban
+redevelopment (Duncan-Shippy, 2019). As a result, school closures appeal to a wide variety of
+stakeholders with very different interests. Finally, school closures reflect the crises that have come to
+Education Policy Analysis Archives Vol. 27 No. 110                                                    4
+
+define urban education, namely those related to educational funding, racial injustice, and school
+choice. Closure policies continue to be sources of immense conflict that have eroded trust and
+exacerbated tensions between communities and school district leadership (Dowdall, 2011; Pappas,
+2016).
+         The concept of framing can help us better understand the arguments around school
+closures. While utilized across the social sciences, I largely reference social movement literature to
+develop the discussion of framing. Ryan and Gamson (2006) explain framing as the discursive
+strategies movements use to construct political debates in ways that challenge official rhetoric and
+advance their agenda: “If those who aim to reframe political debates are to compete successfully
+against the carriers of official frames, who have lots of resources and organization behind them, they
+must recognize power inequalities and find ways to challenge them” (p.18). Thus, issues may be
+framed in ways that can either confront or cement underlying power dynamics. For instance, school
+closures are at times framed as a form of “creative destruction” or a “school turnaround” model that
+improves a school system’s overall quality and effectiveness by getting rid of poorly performing
+schools (de la Torre et al., 2012; Smarick, 2010). When viewed through a critical lens, however, we
+come to see closures as a form of dispossession and institutionalized racism disproportionately
+impacting communities of color (Johnson, 2012). After providing additional context in the next
+section, I outline the dominant frame presented by education officials responsible for school
+closures and follow with how this account is disrupted by communities seeking to preserve their
+schools.
+
+              Context: Washington, DC’s 2013 School Closure Process
+         Washingtonians have become accustomed to school closures over the last several decades.
+Just a few years after the district shuttered 23 schools in 2008 (Branche, 2012), subsequent actions
+by the school system left open the possibility that the city would see additional closures. In the
+spring of 2012, DC Public Schools (DCPS) released a report conducted by the Illinois Facilities
+Foundation (2012) that included a “supply and demand analysis” of student enrollment across
+school facilities and recommended closing lower-performing and underutilized schools and
+converting them to charters. A few months later, in November 2012, DCPS released the names of
+20 schools it proposed to close. Although D.C. is no longer home to a largely Black population, its
+public school students still are (Lei, 2014). Over half the schools on the closure list were located in
+Wards 5, 7, and 8, three areas of the city that have the highest concentration of Black students, the
+highest proportions of students receiving free or reduced lunch, large numbers of closed schools,
+and higher proportions of students in charter schools (21st Century Schools Fund, 2014; Tuths,
+2016). The list also included two neighborhoods in Ward 2 that, at the time, demographic and real
+estate data indicated were gentrifying or transitioning as more affluent and mostly White residents
+were moving in (Brown-Robertson, Muhammad, Ward, & Bell, 2013; Maciag, 2015). The school
+closures occurred as the demographic profile of the city was changing, forcing residents and city
+leaders alike to contend with the racial implications of the policy.
+         Along with their announcement of the proposed list, the district outlined a community
+engagement process to seek public input on the matter. While the final decision on which schools to
+close rested with DCPS, other city agencies and offices also offered communities a platform to voice
+their concerns. Immediately after the proposal's release, the city council held two packed hearings
+that ran for several hours. A few weeks later, DCPS held four community meetings around the city
+to provide affected communities an opportunity for feedback and deliberation. At these meetings,
+attendees including parents, educators, activists, and other community members were invited to sit
+“It just doesn’t add up”                                                                                 5
+
+around tables and participate in a facilitated discussion meant to elicit feedback and reactions to the
+proposal. Soon after, in January 2013, the district released a final closure list ostensibly based on
+community input that included 15 schools (DCPS, 2013). Not surprisingly, communities of color
+bore the brunt. Records show that in the schools that were eventually closed that year, 93% of
+students were Black and only 0.2%, or six students, were White (Boasberg, 2014). On the basis of
+those racial impacts, a local community organizing group, Empower DC, filed a federal lawsuit on
+behalf of parents and unsuccessfully sought an injunction to halt the closures.
+        From the outset of the process, district leaders hoped to represent their decision-making as
+reasonable and logical. Kaya Henderson, who served as the top school district executive at the time,
+replaced Michelle Rhee as chancellor in 2010. Overseeing the 2008 closures, Rhee had taken a
+decidedly brazen approach that shattered public support for her leadership and contributed to her
+premature resignation from the position (Turque & Cohen, 2010). Seeking to strike a more inclusive
+tone and distance herself from the political fallout caused by her predecessor, Chancellor Henderson
+said that the district “invited the community to come and talk to us, not scream at us in a town hall
+meeting where only a few voices get heard, but a really collaborative conversation” (Martin, 2013,
+n.p.). The shape these conversations took has much to do with the way the district framed the
+closures, a topic I turn to next.
+
+             Literature Review: The Dominant Frame of School Closures
+         Powerful actors often propagate and institutionalize dominant frames that shape how we
+come to understand policy and its impacts (Benford & Snow, 2000; Carrol & Rattner, 2010).
+Identifying components of a dominant frame allows activists to understand “what you are up
+against” and is a critical step in determining strategies for action (Gilliam, 2006, p. 7). Following suit,
+I outline key features of the dominant frame of school closures to better grasp what community
+counterframes are seeking to challenge. The dominant frame of school closures I present here is
+primarily based upon the work of Lipman (2013), who argues that the neoliberal turn in education
+has sought to apply economic logics and ideologies to schooling in ways that promote efficiency
+through such means as scientific management and privatization. In the public consciousness,
+Lipman observes, the neoliberal agenda has gained greater momentum due to its presentation as
+inevitable, positive, and politically neutral development in the course of human history. Based on
+Lipman’s analysis, I have distilled three, interrelated components of the dominant frame of school
+closures that also reflect themes in the broader literature on the topic (Bierbaum, 2018; Diem &
+Welton, 2017; Ewing, 2018; Good, 2016; Noguera & Pierce, 2016). First, given school choice and
+changing demographics of cities, some district leaders claim that school closures are an inevitable
+reality that must be accepted. Second, they emphasize that these are data-driven decisions that
+should result in improved schools for all. Third, they claim that since closures are driven by unbiased
+metrics and ostensibly do not target particular communities, they are politically neutral and
+colorblind. In this section, I elaborate on these claims in order explain the relevance and
+implications of counterframes discussed at greater length in later sections. In addition to the
+research literature, I draw on various media sources that captured the public messaging of the school
+system’s chief at the time, Chancellor Kaya Henderson, to illustrate how the dominant frame was
+deployed. Additionally, I present cases and findings from studies of various cities that compare
+official rhetoric with the actual causes and costs of school closures. As dominant frames often set
+the parameters for public discourse, introducing these three components now provides a useful
+heuristic for analyzing the counterframes discussed later in the findings.
+Education Policy Analysis Archives Vol. 27 No. 110                                                        6
+
+Inevitability
+          In some cases, school system leaders may assert that right-sizing is a necessary remedy to
+keep districts afloat amidst the many challenges they face. In many city school districts in recent
+decades, shrinking urban centers and increased school choice have meant declining student
+enrollments (Dowdall, 2011; Engberg, Gill, Zamarro, & Zimmer, 2012). Closures also take place as
+cities like Philadelphia or Chicago have undertaken austerity measures meant to compensate for
+budget shortfalls in recent years (Good, 2016; Uetricht, 2014). The compounded effect of these
+various trends, some school system leaders argue, has forced their hands. As a result of this
+supposed inevitability, one multi-city study on school closures concluded that community
+engagement around these decisions should then be designed to foster “public acceptance, though
+not necessarily enthusiasm” (Dowdall, 2011, p. 2). In this sense, districts are asking communities to
+swallow a bitter, but necessary, pill.
+          The message that D.C.’s school closures were inevitable was most consistently and
+emphatically communicated by Chancellor Henderson. In an interview with NPR, she discussed the
+unpopular decision she had made:
+          [I]n leadership, trying to do the difficult work of really providing our young people
+          with an excellent education, you have to figure out whether you're expending your
+          resources in the right way. . . We have about 47,000 children now. Most districts my
+          size have about 90 buildings. I have 123 buildings, but I have buildings that are
+          severely underutilized. (Martin, 2013, n.p.)
+
+Her argument also noted that with funding tied to enrollment, schools with dwindling student
+populations would not be able to sustain specialized or even basic programming and resources.
+Presenting the situation as dire, Chancellor Henderson attempted to lay out a formula that would
+identify underutilized schools for closure.
+        Various trends and evidence warrant some skepticism around the framing of closures as
+being inevitable in all cases. The simple fact that closed schools may reopen as charters or with
+specialized programs seems to suggest that alternatives exist and that traditional schools may benefit
+from similar investments (Fabricant & Fine, 2012). Research has also documented innovative
+alternatives to closures. Green (2017) documented the story of a school that was re-opened after
+drawing on support from strong local partnerships, suggesting such community-based innovations
+could pose a possible alternative to closures. Still, more dramatic examples diminish the apparent
+destiny of closure. Putting their bodies on the line, hunger strikers supporting Dyett High School in
+Chicago were able to save it from closure in 2015 and got the city to agree to introducing arts-
+focused programming (Ewing, 2018). In fighting back against closures, some affected communities
+in D.C. and New York have been successful in promoting marketing and re-investment proposals
+that have saved their schools, albeit reinforcing the neoliberal logic that leads to closures (Syeed,
+2019, Pappas, 2018). The reversal of closure decisions points to potential alternatives that could be
+applied to other schools as well.
+Data-driven
+        Some district officials argue that school closures are inevitable because the data say so. With
+a supposedly firm grounding in data, they tout school closure decisions as purely “objective” and
+positive. The central metrics driving school closures typically focus on utilization and fiscal
+efficiency in beleaguered urban school districts (Basu, 2007; de la Torre et al., 2015). In some cases,
+decision-makers also cite poor academic performance data as a reason for closure (Engberg et al.,
+2012). Chancellor Henderson emphasized that transparency in the 2013 closure process would lead
+“It just doesn’t add up”                                                                            7
+
+to clear and acceptable results. In an interview, she noted the data-driven nature of the process,
+assuring participants, “We'll show you the building utilization rates. We'll show you the enrollment
+over time. We'll show you achievement over time. We shared all of the data that we used to make
+the decision” (Martin, 2013). Such data was included in reports and presentations to communities
+throughout the closure process. She further clarified what type of advocacy would be most effective
+by issuing a warning at a community meeting: “Don't come to me with a petition with 500 signatures
+saying, 'Don't close my school’. . . Come to me with 500 enrollment forms” (Bannon, 2012, p. 32).
+So rather than using emotional pleas or drumming up grassroots support, district leaders called upon
+communities to counter closures with measurable interventions to reverse enrollment trends.
+          Further, rather than doing harm, school officials often claim that by shuttering poorly
+performing schools, students can then theoretically be assigned to higher-performing ones
+(Brummet, 2014; McNeil, 2009). Their actions previously had the backing of federal guidelines
+under No Child Left Behind that identified school closure as a possible “turn around” model for
+consistently underperforming schools. The notion that school closures can actually be beneficial was
+clearly embraced by D.C. officials. Throughout the months-long process, school system leaders
+sidestepped the explosive term “school closings” and instead opted for the more technical-sounding
+“school consolidations” or “school reorganization.” The final closure plan released by DCPS (2013)
+that outlined the closures and consolidations was hopefully titled, “Better Schools for All Students.”
+          Critics argue that the data on closure outcomes, however, tell a different story. Findings
+from reports on closures across several cities have shown that districts experienced only modest
+short-term financial gains, minimal academic improvements of displaced students, and significant
+political fallout from affected communities (Dowdall, 2011; Dowdall & Warner, 2013). In D.C.
+itself, an official audit of the 2008 closure process indicated that the city saved far less than
+anticipated and that malfeasance resulted due to mismanagement of the process (Branche, 2012).
+Furthermore, claims of academic improvement are similarly inconsistent. Despite claims of
+improving academic achievement, studies have shown no conclusive evidence that closures have
+provided such benefits as most displaced students land in schools of similar quality (de la Torre &
+Gwynne, 2009; Han et al., 2017; Kirshner et al., 2010; Özek, Hansen, & Gonzalez, 2012).
+          School closure processes have often earned their characterization of being chaotic because
+they lack transparency and do not provide adequate information to communities (Deeds & Pattillo,
+2014; Sunderman & Payne, 2009). In a study of one school district, for instance, Kretchmar (2014)
+captured an erratic and inconsistent process that left community members confounded when
+schools that district leaders previously praised became slated for closure. Finnigan and Lavner (2012)
+documented another school closure process they described as burdensome for those who
+participated, citing the dense material and “academic” nature of discussions that sidelined already
+marginalized groups. One outcome of the community-involved process that Finnigan and Lavner
+studied was a series of discrete measures to rate and rank which schools should be closed, including
+factors related to enrollment trends, economic reuse, and other financial considerations. But when
+compared with the schools that the local school board actually recommended for closure, they were
+inconsistent with the rank-ordering based on the agreed upon metrics. The supposed “objective”
+process had faltered. Far from being immune to attack, the deployment of data has become a
+contested terrain in school closure battles.
+Politically Neutral
+        Given the presumed basis in utilization or other hard data, some district officials may claim
+that political interests do not drive school closures despite the racial disproportionality in their
+outcomes and the political clamoring around them. Reformers and proponents of school choice, for
+Education Policy Analysis Archives Vol. 27 No. 110                                                    8
+
+example, have argued that school closures are driven by students and families opting for educational
+alternatives outside their local neighborhood schools (Garnett, 2014; Smarick, 2010). Education
+officials have also attempted to tamp down on community accusations that closures are driven by
+systemic racism. At a public hearing in D.C., Chancellor Henderson tried to quell suspicions of bias
+by reassuring residents that she would “make sure that this is not a case of the squeaky wheel gets
+the grease” (Brown, 2012, n.p.). In other words, she saw the district as offering a fair and equitable
+platform to determine how and if schools were to be closed. Similarly, when Empower DC filed a
+civil rights lawsuit against the city over the 2013 school closures, the federal judge overseeing the
+case found that race simply did not explain why schools were shuttered. In the initial hearing, which
+I observed, the judge referenced the fact that Chancellor Henderson was Black as a rebuttal to
+claims that closures were racially motivated. Elaborating in his official written opinion, the judge
+noted that the pattern of closures in communities of color “is explained by the single, race-neutral
+justification for the school closings that DCPS has offered throughout: closing under-enrolled
+schools will save resources that can then be spread throughout the school district to benefit all
+students.” (Boasberg, 2014, p. 16). The ruling dismissed the case, and along with it, the notion that
+racism was operating in school closure decisions.
+           By focusing on utilization rates, the dominant frame renders invisible the broader social,
+political, and economic contexts of schooling that would point to underlying causes or potential
+consequences of closures like institutionalized racism, the expansion of charter schools, changing
+real estate values, or urban redevelopment (Brazil, 2018; Dowdall, 2011; Good 2016; Lipman, 2013;
+Pedroni, 2011). However, recent cases help us understand how school closures are deeply embedded
+in their social, economic, and political contexts. Johnson (2012) described the shuttering and
+privatized reconstitution of a high school in Austin’s predominately Mexican-American Eastside as
+the city’s way of giving the steadily gentrifying community a “fresh start” (p. 239). Likewise, Smith
+and Stovall (2008) present the case of a transitioning neighborhood in Chicago where city officials
+re-opened previously closed schools that once served lower-income families as selective admissions
+schools to lure gentrifying families. Despite mounting evidence about the intersections of race, class,
+and school closures, the dominant frame positions closures as colorblind or race-neutral outcomes
+of increasingly competitive educational marketplaces (Diem & Welton, 2017).
+         Far from an apolitical or unbiased phenomenon, school closures must be seen in light of
+who stands to gain or lose from them. A critical and irrefutable fact of closures is their
+disproportionate impact on lower-income communities of color (de la Torre & Gwynne, 2009;
+Nuamah, 2017; Sunderman & Payne, 2009). In a report compiled by Journey for Justice (2014), the
+group takes a cue from those in the food justice movement and similarly asserts that their
+neighborhoods are becoming “education deserts” without schools (p. 11). On a district-wide level,
+research has indicated that closures may play a role in deepening racial segregation (Siegel-Hawley,
+Bridges, & Shields, 2016). These racially disproportionate outcomes may reflect the political nature
+of school closure decision-making processes that often marginalize communities of color (Lipman,
+Gutstein, Gutierrez, & Blanche, 2015; Pappas, 2016). Studying a district-wide turnaround effort in
+North Little Rock, Arkansas that included closures and consolidations that reduced educational
+opportunity for Black students, Lowery (2019), demonstrated how education officials employed
+colorblind frameworks that dismissed the ever-present legacy of systemic racism in the city. A
+comprehensive, multi-state study on school closures has further questioned the role of equity in the
+actual decision-making processes themselves, finding that closures targeted the most disadvantaged
+schools (Han et al., 2017).
+         The relationship between charter growth and school closures has become particularly
+fraught and deserves closer attention given the context of the study. In D.C., where charter
+“It just doesn’t add up”                                                                              9
+
+enrollment has reached nearly half of all public school students, the growth of the sector at the
+expense of closing neighborhood schools may appear to simply respond to market forces driven by
+families seeking higher-quality education options (Lei, 2014). But a cursory understanding of charter
+enrollment and waitlist numbers belies important political facts. Local charter advocacy
+organizations like FOCUS D.C. (2010) and their allies, have lobbied local government to
+successfully gain access rights to closed school buildings in a city with pricey real estate. As a city,
+D.C. has consistently received top ratings as a charter-friendly district with a policy environment that
+facilitates and actively supports charter expansion (Wohlstetter, Zeehandelaar, & Griffith, 2015).
+School choice advocates have also spurred grassroots support for school closures among parents in
+other cities like New York where they want to see shuttered schools converted into charters
+(Pappas, 2016). Far broader in scope is the case of New Orleans where, after Hurricane Katrina in
+2005, local authorities were empowered to more easily close traditional public schools and authorize
+new charters through a complex web of foundation support and policymakers acting on various
+levels (Buras, 2011; Jabbar, 2016). Closures are not merely an outcome of neutral market forces
+brought about by school choice, but rather the result of complex urban political dynamics.
+
+ Countering the “Common Sense” of School Closures: Narratives and Frames
+         School closure processes put on public display the competing logics shaping education
+policy and decision-making. To better grasp these competing voices and the meanings they hold, I
+draw on theoretical foundations including Critical Race Theory (CRT) and social movement theory.
+In particular, I tease out the differences between the meaning-making tactics of frames and
+narratives to better understand their role in school closure processes. Both tactics are utilized to
+disrupt the fairly straightforward argument put forward by education officials that underutilized or
+underperforming schools must be shuttered. In its apparent simplicity, the argument becomes part
+of the prevailing “common sense” on schooling, a key component in building a hegemonic
+educational ideology (Kumashiro, 2004). In disrupting the arguments for closures, frames and
+narratives take on different forms and offer unique contributions.
+         One way to challenge the “common sense” of closures is through narratives of the parents,
+students, teachers, and minoritized communities adversely impacted by them. Subverting the
+dominant narrative of closures, these stories form a powerful counternarrative that is grounded in
+the lived experiences of people of color. In the tradition of CRT, counternarratives serve as an
+opportunity to “name one’s own reality or voice” in contexts that often dismiss or undermine them
+(Ladson-Billings, 2013). Narrative accounts of communities’ opposition to closure practices have
+surfaced the symbolic, emotional, and historical implications of these closures on the people, spaces,
+and geographies where they once existed. In Philadelphia, Good (2016) captured how communities
+invoke a sense of place and belonging to defend their schools against narrow administrative
+considerations. Similarly, Galletta and Ayala (2012) discussed how in addition to erasing the history
+of individual buildings, school closures also blot out histories of community organizing and
+resistance. In yet another account, Kirshner and Pozzoboni (2011) presented student voices and
+narratives countering claims that they needed to be rescued from a failing school. These examples
+exhibit how the use of stories or narratives not only disrupts dominant or normative accounts, but
+they can also be effective in helping audiences connect with the struggles that find expression in
+them (Enriquez, 2014; Ganz, 2011).
+         In resisting closures, communities have also utilized framing tactics to challenge the logic
+and reasoning of education officials. However, these tactics have received less scholarly attention. In
+this article, I see these discursive acts as strategic counterframing moves. Rooted in social movement
+Education Policy Analysis Archives Vol. 27 No. 110                                                   10
+
+theory, counterframes emerge as activists engage in framing contests or disputes by targeting official
+frames and their inconsistencies in messaging, empirical credibility, and the credibility of the claims-
+makers themselves (Benford & Snow, 2000). In constructing a frame, actors attempt to focus a
+targeted constituency’s attention on particular sets of facts or ideas (Ryan & Gamson, 2006). Thus,
+frames are essentially selective and open to contestation. Since frames typically offer both a
+diagnosis of the causes of a problem as well as a prognosis for action, challenges are likely to focus
+on defining these elements of the issue at hand (Gamson, 1990). Further developments in the field
+situate counterframes in the neo-Gramscian tradition as tactics that both provide critiques of power
+and offer alternative visions of what could be (Carrol & Rattner, 2010). This approach reflects the
+critical paradigm’s emphasis on deconstruction as an important precursor to transformative social
+change (Antonio, 1981; Apple, 2014). A counterframe, then, is not simply an alternative set of facts
+or arguments. Rather, it is an attempt by marginalized actors to directly challenge official rhetoric
+and expose contradictions, thereby calling into question institutional legitimacy and opening up
+alternative paths for action.
+         Because the literature on school closures has provided many accounts of communities’
+counternarratives, as discussed above, I focus here on counterframing in order to broaden our
+understanding of these discursive battles and the tools available to communities and researchers. By
+bringing framing into the picture, we can observe the relative differences with narratives and how
+they are deployed. For example, Ladson-Billings (2013) has critiqued the tendency of some scholars
+to employ counternarratives that become too intensely personal and lose sight of the larger goal of
+uncovering systemic injustices in law or policy. Following on this assertion, Dixson and Anderson
+(2018) have reviewed the past 20 years of CRT scholarship and conclude: “We would urge scholars
+who take up counternarrative in CRT to remain cognizant of the analytical power of the other
+constructs from CRT.” While acknowledging the power of counternarratives, the authors also “raise
+a warning flag to remind scholars to look beyond the story to develop and inform our understanding
+of how race and racism operate in education” (p. 124). Neither of these assessments should be read
+as an indictment of counternarratives or storytelling. Rather, they indicate that the principles of CRT
+may also open up a multitude of other approaches to challenging institutionalized racism.
+         At this critical juncture, recent scholarship has sought to expand the methodological toolkit
+at the disposal of CRT scholars to include such approaches as document analysis, archival research,
+and quantitative methods (DeCuir-Gunby, Chapman, & Schutz, 2019). Following in this vein, the
+present study specifically sets out to explore the possibilities of yet another approach in critical
+education research: frame analysis. Looking back to earlier CRT works, Crenshaw (1989) noted the
+importance of “shifting frames.” While writing in the context of law school classrooms, Crenshaw’s
+advice on broaching topics of racial injustice are relevant to researchers with similar concerns in
+mind. To approach racial injustice in a liberatory manner, she has suggested starting with “altering
+the way racial issues are framed, by presenting racism as a serious societal problem, and by explicitly
+deprivileging dominant perspectives… (p. 8).” Crenshaw provided an education-related example of
+this approach,
+         As an alternative to asking how it feels to go to a segregated school, it might be more
+         illuminating to start the discussion with how property laws and the judiciary's
+         interpretation of the fourteenth amendment protect the current distribution of
+         wealth and thus perpetuate substandard schools. (p. 8)
+
+Building upon these assertions, Carbado (2011) has asserted that one of the central tasks of the
+Critical Race Theorist is “highlighting the discursive frames legal and political actors have employed
+to disadvantage people of color” (p. 1615). Framing is thus situated in both social movement
+“It just doesn’t add up”                                                                            11
+
+literature and CRT scholarship as a tactic for collective action and a discursive construct ripe for
+analysis.
+         In adopting this framework, I do not intend to make claims about the effectiveness of one
+tactic over another. Both constructs ultimately are aimed at disrupting dominant paradigms, but
+differ in how they are presented: counternarratives take the shape of a story and counterframes take
+the form of discursive arguments. Other important distinctions relate to the contexts in which they
+are deployed and their resonance with different audiences. Dominant institutions that set the
+conditions for public participation in decision-making processes often dismiss the subjectivities of
+storytelling in favor of ostensibly logical or evidence-based argumentation associated with framing
+tactics (Benford & Snow, 2000; Polletta & Chen, 2012). Community engagement spaces that seek
+such “rationalistic” and formal participation, like the school closure meetings discussed here, have
+faced scholarly critique for catering to more privileged groups (Curato, Dryzek, Ercan, Hendriks,
+Niemeyer, 2017). As a result of being marginalized from decision-making processes and lacking
+resources to mount advocacy campaigns or conduct research, communities of color often have to
+turn to cultural forms of protest that include telling and preserving their own stories (Avila, 2014).
+Despite these limiting institutional arrangements and norms, the discussion of counterframing
+allows us to locate less apparent forms of resistance in minoritized communities.
+         The study attempts to complicate the dichotomy between frames and narratives, which is at
+times overstated and may further reinforce problematic race, gender, or class norms regarding who
+is deemed rational or emotional (Calhoun, 2001; Polletta, 1998). Studies of collective action in other
+contexts have in fact demonstrated the synergy between both constructs in achieving grassroots
+goals like recruiting or mobilizing supporters (Olsen, 2014). Taking a targeted approach, I see this
+research as providing a closer examination of how counterframes are uniquely deployed in response
+to supposedly objective neoliberal education reforms and to consider their relevance more broadly
+in education mobilization. Grassroots actors have long seized upon the various contradictions,
+weaknesses, and failings of an otherwise seemingly efficient and powerful educational establishment
+in the pursuit of more democratic and equitable schools (Carnoy & Levin, 1985). Thus, I analyze
+counterframing as yet another tactic used by communities to challenge the prevailing educational
+“common sense” that informs school closures decisions.
+
+                               Research Design and Methods
+         The study’s research design is informed by critical frame analysis, a methodological approach
+aimed at uncovering the power dynamics in how diverse actors frame policy problems and solutions
+(Verloo & Lombardo, 2007). Given its roots in both social movement and policy research
+methodologies, critical frame analysis takes an expansive view of relevant “texts” to explore policy
+discourses (Meier, 2008). For example, in addition to public input data, policy documents and
+official accounts are valuable sources for understanding the various logics at play in policymaking
+processes. The “critical” component also emphasizes discerning whose voices are centered when
+examining these various texts and considering the varying levels of power actors have in decision-
+making (van der Haar & Verloo, 2016). In the context of this study, critical frame analysis leads us to
+consider discursive patterns in school closure processes from a wide range of data sources while
+emphasizing the counterframes advanced by communities of color.
+         A reflexive account of the research process helps explain the study’s methodological
+approach and its relationship to my positionality and personal background. As a former D.C.
+teacher, I once worked in a high school that district officials shut down in 2008. During that time, I
+attended several community meetings, took students to testify before the city council, and became
+Education Policy Analysis Archives Vol. 27 No. 110                                                    12
+
+familiar with the dynamics of these spaces. With a history of activism and engagement within the
+research context, my role does not neatly fit the traditional relationship of a researcher only entering
+their fieldsite to commence their study (Maxey, 1999). Instead, I acknowledge how my pre-existing
+ties shaped my approach. To ensure a systematic study built on sources that expand beyond my own
+experiences and observations, I gathered a wide array of data to explore themes I may have not
+previously considered (Berger, 2015).
+         As a researcher of color, my study was informed by an interest in dismantling systems of
+misinformation and discrimination (Childs & Johnson, 2018). With a critical eye towards race, I am
+also sensitive to the fact that community and public engagement processes in education are often
+dominated by the voices of more privileged or powerful groups (Ishimaru, 2017; Schutz, 2006).
+Because the closing schools in D.C. disproportionately served communities of color, I sought to
+center their voices in my data collection and analysis. My stance also informs the line of inquiry
+followed in this study. Like Graeber (2009), I see this work as moving beyond scholarly concerns to
+directly respond to the questions raised by the actors discussed within the article and their pursuit of
+strategies for transformative change. The question guiding my research is: How do communities
+utilize counterframes to disrupt the logic of school closures? By providing an answer to this
+question, I see the study as a rare opportunity to contribute to knowledge production on critical
+education policy issues and to more practically further the repertoire of tools used to further
+educational justice.
+Data Sources and Collection
+          Since I began my research just as the closure decisions were finalized, I was not immediately
+present in the community engagement meetings described below. However, as a public process,
+there were many sources to draw from for this study, whether through official documents, social
+and news media, as well as records of public input. To best capture frames and counterframes of
+school closures, I relied on notes taken at community engagement meetings and uploaded to the
+district’s public engagement platform at that time (engagedcps.org). The website posted notes taken
+by school district personnel from 40 different small table discussions held across the four
+community meetings. Based on DCPS' (2013) report, these meetings drew nearly 800 people.
+District-appointed note takers at these public meetings recorded the impressions and feedback
+offered by participants on the closure decisions. The notes typically include participant names and
+affiliations (parent, educator, community member, etc.) at the beginning. However, their particular
+statements are not attached to their names. Further, a limitation of the table notes is that no data
+was collected on participants’ demographic backgrounds. The only information that is included for
+all participants is the city ward where they attended the public meetings, geographic areas of D.C.
+that roughly correspond to race and class. In cases where it is not possible to provide specific
+identifiers for speakers, such as parent or teacher, I use the more generic label of “participant.”
+          Supplementing the table notes, I also reviewed two online videos of testimony from the
+public hearings devoted to the closure issue at the city council. To build on sources from the official
+community engagement process, I conducted a series of semi-structured interviews that helped to
+add nuance to the narrative of how different school communities strategized and responded to the
+potential closing of their schools. I conducted interviews with 16 community members from across
+the city who were directly involved in the school closure process. Five of the interviewees were
+organizers and longtime activists who voiced opposition to school closures on a citywide level, seven
+were from predominately Black and working class communities in Wards 5, 7, and 8, and the
+remaining four were parent leaders in the gentrifying area of Ward 2. Pseudonyms are provided to
+protect the confidentiality of the interviewees.
+“It just doesn’t add up”                                                                             13
+
+        Interview participants reflected the diverse array of actors involved in the coordinated
+resistance to school closures, including parents or family members, church leaders, community
+organizers, and other neighborhood representatives. I utilized a relatively targeted approach to
+recruitment and sought participants who held leadership positions in their schools or community
+organizations, were quoted in the media or had a social media presence, and were highly engaged in
+local education issues. My rationale was that as leaders, these individuals’ perspectives would reflect
+broader community concerns and framings around school closures, rather than their own personal
+opinions on the issue. Also, as the study focuses on grassroots attempts to subvert the logic of
+closures, I only interviewed those who opposed closures (though data do not reflect that any
+coordinated pro-closure constituency existed in any case). Because many of those who led these
+campaigns remained active in public education issues even after the closure process concluded, I was
+able to connect with them through my attendance at subsequent community meetings over the
+course of several months. After first recruiting some of the most vocal community members from
+neighborhoods across the city, interviewees readily introduced me to their peers to allow for further
+snowball sampling.
+Data Analysis
+         To make sense of the immense amount of public input data and official accounts of school
+closures, critical frame analysis offered a useful analytical approach that builds on the
+methodological tools discussed above. In the place of a closed or hierarchical set of codes that is
+more typical of content analysis projects, critical frame analysis focuses on capturing divergent
+discourses. As a result, researchers adopting this paradigm suggest analyzing frames in response to
+sensitizing questions around how participants diagnose issues and develop prognoses for action (van
+de Haar & Verloo, 2016). Of interest to me in this article are the specific ways in which these
+arguments directly responded to and countered the common sense of closures presented by school
+district leadership. Thus, even as communities did make other arguments, such as those who voiced
+concerns over student safety when the district proposed consolidating schools across rival
+neighborhoods, I focus here on the broader patterns of how they sought to unseat the underlying
+logics of school closures. The three components of the dominant frame discussed above were
+helpful starting points for analysis, but additional codes and themes became necessary to capture
+dynamic community responses. Triangulating across data sources (Creswell & Miller, 2000), I sought
+to enhance the validity of my findings by following common threads shared across interviews,
+official accounts and documents, and media sources. Interviews were particularly useful in
+contextualizing claims drawn from table notes that presented primarily anonymous data. Public
+hearings provided testimony that was captured in its entirety, and provided insight into how
+education officials directly responded to participants.
+
+                                              Findings
+        Given the bitter legacy of the 2008 closures, D.C. school system leaders attempted to
+carefully craft their proposal for the 2013 process. The power of the dominant frame claiming that
+school closures were inevitable, data-driven, and politically-neutral informed the lines of
+argumentation that communities took up in their resistance to the policy. Local communities
+supporting their schools pushed back by using three key arguments: (a) school closures are avoidable
+and alternatives exist, (b) the criteria for closure lacked consistency or transparency, and (c) closure
+decisions are informed by political interests and hidden agendas.
+Education Policy Analysis Archives Vol. 27 No. 110                                                    14
+
+Tough Medicine or False Choice? Contesting the Necessity of Closures
+          From the outset of the controversial process, public officials typically stuck with an
+argument they felt to be rock solid: school closings were inevitable. When first announcing that
+closures were coming, then D.C. Mayor Vincent Gray cautioned against emotional responses to
+school closures. “Just do the math on it—it's not sustainable,” he said. "We're going to have to
+consolidate” (Gartner, 2012). In a public hearing after the initial proposal had been made public,
+Councilmember David Catania offered the metaphor of the closings as “tough medicine” that had
+to be swallowed to improve the health of the school system (DC Council, 2012a). His colleagues on
+the dais took up the metaphor as a way to temper the impassioned testimony of many residents.
+While fully acknowledging the painful impact that accompanies the decision to close a school, public
+officials attempted to reiterate that it was solely a matter of accounting and efficiency.
+          Participants routinely challenged the supposed inevitability of the process. Even as
+discussion facilitators posed the closure of schools as a definite reality, participants dismissed any
+attempt to accept the possibility that their schools would close. For example, when facilitators tried
+to elicit ideas from participants in a Ward 7 meeting about their suggestions for re-use of one of
+their local school buildings, the notetaker wrote, “Re-use is a moot point because people are not
+interested in considering this question.” Another question posed by facilitators sought to ask how
+the district could promote a “smooth transition” for families at closing schools. The emphatic
+response from one school community was captured by a notetaker: “Parents don't want to
+transition!!!” Similarly, Crystal, a Ward 7 neighborhood leader, recalled a private meeting with the
+Chancellor where the district leader asked the community how they could help make the closures
+“work.” Aghast, Crystal recalled thinking, “That’s a joke. Like, that is a false premise. Because I said
+to you, we said to you, this does not work… That’s not the conversation we need to have. Because
+that would assume that I’m okay with this.” Through their input and responses to these meetings,
+participants challenged the fundamental inevitability of closing decisions.
+Communities also argued that closing schools was an active decision that officials were making,
+rather than a budgetary necessity that had forced their hand. For example, in a public hearing,
+parents from different schools questioned the school system's preeminent focus on “efficiency.”
+Donna, a Ward 2 parent, stated that through its actions, the district would be sending a damaging
+message to young families by choosing to forsake school improvement efforts by turning to closures
+to address systemic issues: “Public schools do not matter, and if D.C. is left with none, that is okay
+because efficiency is the number one priority, not public education” (DC Council, 2012a). Later in
+the same hearing, witnesses and Councilmembers debated whether the city should invest in already
+underutilized schools. Suzanne, a parent leader involved in city-wide education advocacy, stated “I
+think that's a false choice. I do think that DCPS does have the money to pay for [staff] . . . It's a
+policy decision that they're making, it's not really a budgetary decision” (DC Council, 2012a).
+Although not directly impacted by the 2013 closures, she went on to bring up the illustrative
+example of a now thriving elementary school in her diverse community that was once maligned as a
+poor performing and slated for closure years earlier. The school was eventually allowed to stay open
+and benefitted from “sensible and steady improvements” like the introduction of a Spanish
+immersion program. Others chimed in regarding matters of poor fiscal management and misplaced
+spending priorities that have led school quality to slide in some communities. Citing the growth in
+central office staff, for example, a community meeting participant stated, “It just doesn't add up. We
+can get rid of librarians but we’re not hesitating to add administrative layers.”
+          In interviews and community meetings, I often heard long-time residents recall a particular
+historical episode that indicated that alternatives to closures existed. Following waves of “white
+flight” as the city was overcome by the unrest of 1968, schools in the city’s most affluent and White-
+“It just doesn’t add up”                                                                              15
+
+dominated enclaves of Ward 3 became severely underpopulated. But rather than see their local
+schools entirely shuttered, parents and community members coordinated with the school system to
+develop plans to retain their neighborhood schools. The resulting plan took effect in 1975 and called
+for the consolidation of some buildings, the creation of an attractive arts-focused program at one
+school, and outlined a busing system that brought in students from overcrowded schools in largely
+Black neighborhoods. Janine, a longtime parent leader in the impacted neighborhoods, recalled her
+role regarding the process in an interview: “We pulled together our little committee… got parents
+and teachers involved, and they listened to us downtown… So we literally wrote a proposal, did not
+ask for extra money, we did ask for one bus because we wanted to move kids over to the arts
+center.” The additional bused students helped pad the enrollment numbers that would keep the
+schools open through this period of depopulation (Jones, 1987). Many long-term residents’
+memories of this episode, however, were not nostalgic. Those in communities of color recalled the
+busing experiment in public meetings not as a path to desegregation, but rather as an indication of
+how far the district was willing to go to maintain the schools of their more affluent and White
+neighbors on the other side of town. Against this stark historical backdrop, some school
+communities cited a precedent to find alternatives to closures.
+         As part of the process, school communities also offered their own proposals to district
+leaders. The proposals, which were uploaded to the online public engagement platform, laid out
+various strategies for recruiting more students, including establishing strong community
+partnerships, introducing specialized programming, and upgrading facilities. Community proposals
+also cited data on neighborhood demographics, real estate values, and enrollment patterns. For
+example, a Ward 5 community group referenced the importance of maintaining local schools that
+could foster racial diversity, claiming that their “growing neighborhood is very ripe for an integrated
+elementary school.” While district leaders would mostly wave these aside as unfeasible and costly,
+the proposals reflect a belief held by communities that alternatives were possible. Empower DC, a
+local community organizing group, posted signs in affected neighborhoods with a straightforward
+message that reflected a broader community consensus: “Fix Schools, Don’t Close Them.”
+Flimsy on the Details: Questioning Closure Criteria
+         Given the conundrum of deciding how to right-size the school district, school system leaders
+emphasized that all closing criteria were clearly based in relevant data. The messaging trickled down
+into community meetings as well, as one facilitator told participants in table notes that “this is a
+quantitative approach to the issues we are seeing in the community” and that they were going to “let
+the data speak for itself.” Despite the school system's attempt to plant the discussion in the bedrock
+of data, participants continued to cast aspersions on the accuracy of the criteria used in closing
+decisions and further sought to access or produce their own evidence to refute official claims.
+         One participant dismissed the data used to inform closure decisions as “sketchy,” and in a
+public hearing a witness questioned why a “school system so focused on data is so flimsy on the
+details.” District leaders also frequently muddled the closure issue by moving beyond the frame of
+underutilization by referencing test scores as well. Chancellor Henderson said of the closing schools
+that “it might be OK if those places where we were overspending were seeing outsized results, but
+they weren't” (Martin, 2013). By veering into academic achievement territory, it seemed to many that
+there was not a consistent set of criteria for closing schools. With test scores typically serving as the
+bottom-line for many decisions in contemporary urban school systems, some school communities
+found the criteria for closures curious, if not confounding. For example, the Ward 7 community
+supporting Smothers Elementary highlighted test score improvements in recent years. Similarly,
+supporters of Davis and Francis-Stevens elementary schools, located in Wards 7 and 2 respectively,
+Education Policy Analysis Archives Vol. 27 No. 110                                                   16
+
+noted that their schools were to be consolidated with others that were lower performing. In
+community meetings, table notes show that participants questioned why achievement data was
+included in the school system’s proposal when officials repeatedly and explicitly had stated that the
+closing decisions were not based on test scores. Without clear or consistent criteria, communities
+condemned the lack of transparency in the process.
+         To support their claims that the closures were irrational or misguided, participants also
+brought up recent changes and investments that signaled potential improvements. Among the 20
+schools to be closed, interviewees pointed out, nine had received “Proving What's Possible” grants
+from the district within the past year for proposing compelling plans for improving performance. In
+a community meeting, a participant asked, “How can [a combined amount of] $10 million can [sic]
+be granted to schools 6 months ago through these grants and now those schools are on the
+chopping block?” The staff of one elementary school mentioned in a community meeting that
+personnel had been reconstituted that very year as part of a turnaround effort, leaving the
+community wondering why such a drastic measure had been undertaken only to see the school's
+doors shut by the end of the year. Finally, a few interviewees shared that the district had assigned a
+central office staff person to help recruit young families in the gentrifying Ward 2 neighborhood
+surrounding Garrison Elementary only a few years earlier. Connecting through a Facebook group
+and facilitating meetings, the district had hoped to get young, middle-class families to invest in their
+local school. One of those parents, Ann, who later became the PTA president, said at a hearing,
+“You asked us to take a chance on you, it's time to return the favor” (DC Council, 2012a). For the
+system to retreat on these various investments, communities claimed, made the closure decisions
+appear arbitrary or contradictory.
+         Community efforts to counter official data through anecdotes, observations, and other
+analyses were also formalized through carefully crafted reports and presentations. When Jeanette, a
+community leader from Ward 7, learned that the school district planned to present a PowerPoint
+showcasing evidence on why they were closing schools, she wondered “why don’t we do a
+PowerPoint to counteract the claims that they made?” At the public meeting held by the district,
+“we were prepared with a rebuttal,” Jeanette said, “we had all the evidence that we accumulated and
+put together... Everybody talked about how well informed our presentation was.” Crystal, who also
+worked on the presentation and spoke at the meeting, said that district officials had underestimated
+her community’s ability to engage the issue. “I don’t think [they] knew that I did my homework,
+really, or like how much I understood,” she said. Efforts to pushback on the data were also
+bolstered by support from important community allies. Local school budget experts prepared
+analyses, attended community meetings, and testified in public hearings about the financial
+considerations behind the closures and questioned whether the school system would stand to benefit
+in any significant way (Bhat, 2013). They also noted that consolidated schools may ultimately not
+reap greater school quality as class sizes would be expected to rise. Through data analysis and
+critique, communities and their allies were also able to chip away at the supposedly solid evidence
+for closures.
+“Sold Out”: Exposing the Agendas Behind Closures
+         With closures carrying wide-ranging implications for academic achievement, school choice,
+real estate, and local government, communities also sought to uncover the agendas behind them.
+Given that communities viewed the official criteria as flawed, they expanded their counterframes to
+include speculations and investigations into the supposed political calculations behind the closures.
+District leaders themselves pre-empted such critiques, presenting the process as fair and equitable.
+“It just doesn’t add up”                                                                               17
+
+Nonetheless, participants emphasized the racialized impacts of closures, the impact of gentrification,
+and their connection to the growing charter sector.
+        In a segregated city like D.C., the disproportionate impacts of school closures on
+communities of color were ever apparent. Participants regularly referred to the inequitable racial
+implications of the process, with some referring to the closures as a form of “child abuse” and
+alleging that the school system was “fertilizing an underclass” with its actions. But it was in the
+school system’s final decision on which schools to close that residents saw more blatant evidence of
+racism. Two schools on the closure list, both of which were in Ward 2 and were ultimately spared,
+had several middle-class and White families recently enroll who also took on leading roles in keeping
+them open. John, a longtime resident and church leader from a historically Black congregation in
+one of these communities, talked about his support for the school:
+        Now that this neighborhood has changed, hearing those voices and seeing those
+        faces helped the Chancellor change their mind… When the truth is told, it boiled
+        down to a political, racial issue that had nothing to do with schools… We're as happy
+        as we can be that it's open, but also remember that part of the motivation to keep it
+        open was political.
+
+Residents in other neighborhoods also took notice of the two spared schools. Brianna, a
+community leader from Ward 5 where several schools closed, recalled seeing a lot of “white
+faces” and people of “higher socioeconomic status” turn up to advocate for their schools at
+various public meetings and hearings. “I remember seeing those parents testify,” she said,
+“and [my friend and I] were like ‘watch, those two schools are going to stay open.’ And they
+stayed open. It was just sad.” Daniel, a community organizer, further speculated that the
+closings were planned “to essentially push Black and brown people out of the city” and to
+keep “white schools open for like the longer term.” To him and many long-term residents,
+the 2013 closures were only the most recent example in a historical pattern of disinvestment
+from public institutions in communities of color.
+        In a rapidly gentrifying city, communities had a heightened awareness of the re-use
+possibilities for closed school buildings. Participants in table discussions cited examples of school
+buildings being converted into high-end condo buildings or turned over for private development. At
+the beginning of one community meeting in Ward 8, a local Councilmember made clear that he
+supported selling the Malcolm X Elementary School property for commercial development—a
+decision that many participants aggressively opposed. Educators from the Malcolm X community
+voiced their opposition to sell off the school at a table discussion, stating, “It feels like we’re being
+sold out for money.” Similarly, just off the redeveloped H Street corridor—a haven for newly
+arrived millennials—supporters of nearby Spingarn High School in Ward 5 expressed a wariness of
+the impact these changes would have on their historic school. “The area is being gentrified,” a
+notetaker recorded a participant saying at a community meeting, “[t]he students that used to lay
+claim to Spingarn will no longer being laying claim. They are going to lose the neighborhood.” For
+many participants, neighborhood change signaled irreversible loss driven by residential and
+commercial development.
+        By the time the 2013 school closures took place, nearly half of the school district’s student
+population was attending charter schools (National Alliance for Public Charter Schools, 2014).
+Many participants brought up the fact the district’s approach to closures was heavily informed by a
+study conducted by the Illinois Facilities Foundation (2012). The organization is funded in part by
+the charter-boosting Walton Family Foundation and the report specifically called for closed schools
+to be converted to charters. In the eyes of many participants, the closures appeared to be part of a
+Education Policy Analysis Archives Vol. 27 No. 110                                                    18
+
+broader city-wide agenda to tip the scales towards a fully chartered school district. Chris, a Ward 2
+parent, said the closures signaled the district’s “surrender to charter schools.” In community
+meetings, some participants voiced skepticism when they saw representatives from the charter sector
+in attendance. In an interview, Shanice recalled seeing the writing on the wall when the district’s
+central office began making changes at her granddaughter’s Ward 8 school that was ultimately
+closed. “‘Y’all better watch out,’” she recalled saying to teachers and families at the school, “‘cause
+they’re going to either try to close this school or they going to try to make it a charter.’” Table notes
+from these meetings reflect a pointed critique of the sector, particularly in those areas with the
+largest concentration of charters. Participants in those meetings made numerous claims about the
+adverse effects of charter school expansion or their quality of education. Some expressed a desire for
+a “moratorium” or “freeze” on authorizing new charters. In the notes, participants repeatedly and
+specifically requested that their schools not be turned over to charters. Additionally, participants
+speculated that families from closing schools would exit to charters, further depleting the district’s
+student population. Many school communities came to see charters as a cause for closures whose
+proliferation would further erode neighborhood schools.
+         In addition to participating in more conventional public hearings, community organizers
+took to the courts to disrupt the closures. Empower DC sponsored a lawsuit with plaintiffs from
+closing schools to seek an injunction on the closures due to their disproportionate racial impact. As
+part of the process, the organizing group gained access to 18,000 pages of discovery including
+school system leaders’ emails and other internal documents. In a press release, Empower DC’s
+(2014) attorney said that the documents and later depositions would bring to light the “infrastructure
+that was responsible for decision making within DCPS” (n.p.). In their analysis of official
+documents, the group and their legal team exposed the priorities of city officials and their
+relationships with grant-making institutions, foundations, and consultants that influenced the
+decision to close schools. A separate investigation has affirmed many of Empower DC’s allegations,
+finding that private, pro-charter foundations had direct access to school system leaders and advised
+them on school closure decisions (Anderson, 2015). Although the lawsuit was eventually dismissed,
+Empower DC helped pull back the curtain on the political intrigue behind the process.
+
+                                             Discussion
+         Despite wide-ranging resistance to closures in the form of demonstrations, the development
+of alternative proposals, a lawsuit, and media outreach, the district ultimately decided to shutter 15
+of the original 20 schools first slated for closure. Given the outcomes, it may appear that community
+efforts were ineffective in achieving their ultimate goal. But through the interconnected efforts of
+parents, activists, analysts, and legal experts, opposition centered on the system’s failures and
+shortcomings that led to the closures. Rather than focusing on the overall outcomes of the process,
+I find it more useful to consider what the counterframings discussed above offered to communities.
+In particular, counterframes formed an emerging critique that (a) focused on addressing underlying
+causes of closures over the particulars of individual schools, (b) broadened the participation in the
+resistance to the closures, and (c) rooted communities’ expertise in complex analyses of school
+policy.
+         School closures often position communities in a defensive role, requiring them to spell out
+the value of their individual school. It is telling that some of the studies of communities developing
+counternarratives to school closures mentioned above were focused on cases of resistance from
+individual school communities (Green, 2017; Johnson, 2012; Kirshner & Pozzoboni, 2011). By
+adopting a common set of counterframes, however, it became possible for communities across
+“It just doesn’t add up”                                                                            19
+
+different wards to move beyond defending their own schools. Instead of taking the shape of
+bulleted “talking points” common in sophisticated advocacy organizations, counterframes developed
+more organically while still reflecting a growing consensus among effected communities. While
+geographic, racial, and class divisions kept the impacted communities from developing a true
+coalition to combat closures, they still sought to undercut the very legitimacy of the process by
+disputing the data or motivations behind them. In doing so, they shifted the conversation from
+narrating the history, strengths, or potential of individual schools to confronting closures as a
+symptom of much deeper problems like those related to increased school competition or
+bureaucratic bloat.
+         One other interesting aspect of the use of counterframes is to critically examine the claims-
+makers themselves. In the school closure process, not all those who raised their voices in resistance
+were students, parents, or teachers who could offer counternarratives based on their personal
+connections to the impacted schools. Budget analysts, legal experts, church leaders, and
+neighborhood representatives all voiced similar claims about the logic of the closures. By broadening
+the ranks of the opposition with a diverse group of visible supporters, communities hoped to also
+debunk the notion that they had completely divested from their neighborhood schools. Further,
+while counterframes were bolstered by personal experience, they also allowed for others to
+participate in critiquing the closure policy who may not have had a direct relationship to the schools.
+Lessons from other cases of education mobilization similarly indicate that while counternarratives
+may help ground campaigns in authentic lived experiences, allies with greater access to power may
+also find supportive roles to play based on their social positions (Enriquez, 2014). Given the
+alliances that formed between schools, local organizations, and churches, we are reminded of the
+important role that community-based partnerships play in supporting education mobilization
+through providing expertise in areas like research or organizing (Ishimaru, 2014; Oakes, Rogers, &
+Lipton, 2006; Warren, Hong, Rubin, & Uy, 2009).
+         Finally, the use of counterframes in this case reflects an underappreciated form of expertise
+that local communities may wield. In addition to relying on their lived experience as “expertise,” as
+is the case with counternarratives, parents and community members in the process exhibited
+systems-level awareness and insights. By articulating their underlying concerns with trends related to
+school choice or gentrification, for example, communities can employ powerful tools of
+contextualization that are often missing in education policymaking processes (Dumas & Anderson,
+2014, Honig 2006). Participants felt that district officials underestimated their ability to make
+informed contributions in closure discussions that could engage data or other evidence. Just as
+counternarratives shift dominant notions of what constitutes data to encompass lived experiences,
+counterframes shift assumptions of who is capable of accessing data or performing policy analysis.
+For example, in a public hearing, Crystal noted that her neighborhood’s seemingly reactive concerns
+over charters and school closures arose “not because we don't understand financial structures, not
+because we don't understand how the school system works, but because we understand how our
+communities work, how our families work...” As mentioned above, it was the school system that
+provided limited data on closure decisions and at times did not effectively marshal evidence. In
+describing the district’s approach to the process, Jennifer, another parent interviewee told me, “there
+was not a lot of curiosity about the why’s” behind the closures. Thus, in the face of policies with
+significant blind spots, counterframes that are built on grassroots-level insights can direct decision-
+making processes to consider aspects of the broader political economy and context of schools.
+Education Policy Analysis Archives Vol. 27 No. 110                                                    20
+
+                                            Conclusions
+         Since the 2013 school closures in D.C., cities across the country have continued to shutter
+schools, and there are signs that more school closures are on the horizon. Given the neoliberal
+orientation of the U.S. Department of Education and connections to deep-pocketed supporters of
+that vision, a renewed and robust resistance to policies that exacerbate educational inequality is
+forming. More than filling a gap in the literature, I believe this study contributes to enhancing the
+politics of education organizing. As with other critical and engaged studies of activism, the research
+helps bring into view another tool in the repertoire of protest that may not be readily observed by
+outsiders or represented in scholarly accounts (Chari & Donner, 2010). In addition to offering
+communities a common language for critiquing closures specifically, counterframes can also be
+applied to the “common sense” guiding education policy on a much wider scale. As other scholars
+have pointed out, a frame may be expanded or shifted to incorporate a broader set of relevant issues
+(Carroll & Rattner, 2010). An anti-neoliberal or anti-racist education frame, for example, can be
+expanded to interconnected issues beyond school closures to encompass such concerns as those
+around standardized testing, school choice, equitable funding, and labor.
+         In building an educational movement, counterframes also help us view the role of
+quantitative data in a new light. For instance, the opposition to school closures incorporated
+budgetary analysis to dispute the district’s claims that closures would lead to greater fiscal efficiency
+or educational improvements. Participants also provided anecdotal observations to counter the
+school system’s claims of scarcity. Long considered a contributing factor to supporting
+institutionalized forms of racism, critical scholars are rethinking the role of quantitative data in
+liberatory educational projects. The emerging QuantCrit field, an extension of CRT, has sought to
+address underlying epistemological and ontological assumptions in quantitative approaches so that
+they may be reoriented to social justice efforts (Garcia, López, & Vélez, 2018; Pérez Huber, Vélez,
+& Solorzano, 2018). In the context of school closures, grassroots activists and researchers may
+subvert the limiting quantitative measures of utilization or performance that decision-makers invoke,
+and instead generate data that better contextualize these phenomena with regards to race, inequality,
+and neighborhood change.
+         As a broader movement seeking educational justice continues to form and bring into its
+ranks a wide range of actors (Anyon, 2005), future studies of organizing efforts may more closely
+explore the relationship between counterframes and counternarratives. Closer attention may also be
+paid to their relative efficacy in different contexts and with different types of policies. In the data-
+driven world of education policy (Dumas & Anderson, 2014), communities may need to reason with
+how various tools may help unseat the supposed objectivity driving such phenomena as school
+closures. As communities and grassroots groups take on an adversarial role towards data regimes,
+scholars may adopt similar approaches in their work that expose the “junk science” of
+philanthropist-sponsored research and advocacy (Burns, Green, & Nolan, 2018, p. 11). At the same
+time, we are reminded of a vital lesson from social movement literature: effective framing or
+storytelling is not enough to bring about social change. In order to make their strategies of shaping
+political debates most potent, community members, organizers, and their allies must also participate
+in movement-building work that requires organizational support, strong relationships, and access to
+resources (Ryan & Gamson, 2006). In D.C., for example, resistance to closures was not limited to
+participants articulating counterframes in public meetings or hearings. Instead, counterframes
+become part of a larger set of strategies that included public demonstrations, legal action, and media
+advocacy. Given the immense challenges facing urban schools, a broader repertoire of tactics may be
+needed to push for greater democracy, transparency, and equity in public education.
+“It just doesn’t add up”                                                                                     21
+
+
+                                                References
+21st Century Schools Fund. (2014) Policy Brief: The landscape for student assignment and school choice in D.C.
+        Retrieved from http://www.21csf.org/csf-home/DocUploads/DataShop/DS_355.pdf
+Anderson, J. (2015, Dec. 11). Shadow chancellor. Washington City Paper.
+Anyon, J. (2005). Radical possibilities: Public policy, urban education, and a new social movement. New York,
+        NY: Routledge.
+Apple, M. (2014). Official knowledge: Democratic education in a conservative age (3rd ed.). New York, NY:
+        Taylor & Francis.
+Avila, E. (2014). The folklore of the freeway: Race and revolt in the modernist city. Minneapolis: University of
+        Minnesota.
+Bannon, D. (2012, December 12). Parents prod Henderson for specifics. The Northwest Current.
+        Retrieved from https://issuu.com/currentnewspapers/docs/ch_12-12-12_1
+Basu, R. (2007). Negotiating acts of citizenship in an era of neoliberal reform: The game of school
+        closures. International Journal of Urban and Regional Research, 31(1), 109–127.
+        https://doi.org/10.1111/j.1468-2427.2007.00709.x
+Benford, R., & Snow, D. (2000). Framing processes and social movements: An overview and
+        assessment. Annual Review of Sociology, 26, 611–39.
+        https://doi.org/10.1146/annurev.soc.26.1.611
+Berger, R. (2015). Now I see it, now I don’t: Researcher’s position and reflexivity in qualitative
+        research. Qualitative Research, 15(2), 219–234.
+Bhat, S. (2013). Will closing schools pay off? DCPS closure plan unlikely to produce significant
+        savings or better resourced schools. D.C. Fiscal Policy Institute. Retrieved from:
+        http://www.dcfpi.org/wp-content/uploads/2013/01/1-14-13-Small-Schools-Final.pdf
+Bierbaum, A. (2018). School closures and the contested unmaking of Philadelphia’s neighborhoods.
+        Journal of Planning Education and Research. https://doi.org/10.1177/0739456X18785018
+Boasberg, J. (2014). Memorandum Opinion: Shannon Marie Smith, et Al. v. Kaya Henderson, Chancellor of
+        the District of Columbia Public Schools, et al. United States District Court For The District Of
+        Columbia. Civil Action No. 13-420 (JEB). Retrieved from http://www.pilcop.org/wp-
+        ontent/uploads/2014/07/smith-henderson-memorandum-opinion.pdf
+Branche, Y. (2012). Audit of the closure and consolidation of 23 D.C. public schools. Washington, DC: Office
+        of the D.C. Auditor.
+Brazil, N. (2019). The effects of public elementary school closures on neighborhood housing values
+        in U.S. metropolitan areas, 2000-2010. In E. Duncan-Shippy (Ed.), Shuttered schools: Race,
+        community, and school closures in American cities. Charlotte, NC: Information Age Publishing.
+Brown, E. (2012, November 19). D.C. Council opens second hearing on school closures. The
+        Washington Post. Retrieved from https://www.washingtonpost.com/blogs/dc-schools-
+        insider/post/dc-council-holds-2nd-hearing-on-school-closures/2012/11/19/913cf80a-
+        3273-11e2-bfd5-e202b6d7b501_blog.html?utm_term=.1359097203c5
+Brummet, Q. (2014). The effects of school closings on student achievement. Journal of Public
+        Economics, 119(1), 108–124. https://doi.org/10.1016/j.jpubeco.2014.06.010
+Buras, K. (2011). Race, charter schools, and conscious capitalism: On the spatial politics of
+        Whiteness as property (and the unconscionable assault on Black New Orleans). Harvard
+        Educational Review, 81(2), 296–330. https://doi.org/10.17763/haer.81.2.6l42343qqw360j03
+Education Policy Analysis Archives Vol. 27 No. 110                                                       22
+
+Burns, J., Green, C., & Nolan, J. (2018). New genealogies and the courage of truth: Toward an ethics
+        of adversarial public educational scholarship and policy activism. Education Policy Analysis
+        Archives, 26(151). https://doi.org/10.14507/epaa.26.3397
+Calhoun, C. (2001). Putting emotions in their place. In J. Goodwin, J. M. Jasper, & F. Polletta (Eds.),
+        Passionate politics: Emotions and social movements. Chicago: The University of Chicago Press.
+Carbado, D. (2011). Critical what? Connecticut Law Review, 43(5), 1593–1643.
+Carnoy, M., & Levin, H. (1985). Schooling and work in the democratic state. Palo Alto: Stanford University
+        Press.
+Carroll, W. K., & Ratner, R. S. (2010). Social movements and counter-hegemony: Lessons from the
+        field. New Proposals: Journal of Marxism and Interdisciplinary Inquiry, 4(1), 7–22.
+Chari, S., & Donner, H. (2010). Ethnographies of activism: A critical introduction. Cultural Dynamics,
+        22(2), 75–85. https://doi.org/10.1177/0921374010380887
+Childs, J., & Johnson, S. J. (2018). When they go low, we go high: Scholars of color, activism, and
+        educational research in a post-truth era. Education Policy Analysis Archives, 26(146).
+        https://doi.org/10.14507/epaa.26.3342
+Crenshaw, K. W. (1988). Toward a race-conscious pedagogy in legal education. National Black Law
+        Journal, 11(1). Retrieved from https://escholarship.org/uc/item/0qp9p46c
+Creswell, J., & Miller, D. (2000). Determining validity in qualitative inquiry. Theory Into Practice, 39(3),
+        124–130. https://doi.org/10.1207/s15430421tip3903_2
+Curato, N., Dryzek, J., Ercan, S., Hendriks, C., & Niemeyer, S. (2017). Twelve key findings in
+        deliberative democracy research. Daedalus, 146, 28-38.
+        https://doi.org/10.1162/DAED_a_00444
+DC Council. (2012a). Review of school closures within the District of Columbia public schools,
+        Committee of the Whole [video]. November 15. Retrieved from
+        http://dc.granicus.com/MediaPlayer.php?view_id=4&clip_id=1497
+DC Council. (2012b). Review of school closures within the District of Columbia public schools,
+        Committee of the Whole [video]. November 19. Video. Retrieved from
+        http://dc.granicus.com/MediaPlayer.php?view_id=4&clip_id=1502
+DC Public Schools. (2013). Better schools for all students: DCPS’ consolidation and reorganization
+        plan. Retrieved from
+        http://dcps.dc.gov/DCPS/Files/downloads/COMMUNITY/CR/Consolidationpercent20
+        Plan.pdf
+de la Torre, M., Allensworth, E., Jagesic, S., Sebastian, J., Salmonowicz, M., Meyers, C., & Dean
+        Gerdeman, R. (2012). Turning around low-performing schools in Chicago. Chicago: The University
+        of Chicago Consortium on Chicago School Research.
+de la Torre, M., Gordon, M., Moore, P., Cowhy, J., Jagešić, S., & Huynh, M. (2015). School closings in
+        Chicago: Understanding families’ choices and constraints for new school enrollment. Chicago: The
+        University of Chicago Consortium on Chicago School Research.
+de la Torre, M., & Gwynne, J. (2009). When schools close: Effects on displaced students in Chicago public
+        schools. Chicago, IL: Consortium on Chicago School Research.
+DeCuir-Gunby, J., Chapman, T., & Schutz, P. (2019). Critical race theory, racial justice, and
+        education:Uunderstanding critical race research methods and methodologies. In J. DeCuir-
+        Gunby, T. Chapman, & P. Schutz (Eds.), Understanding critical race research methods and
+        methodologies: Lessons from the field. New York: Routledge.
+Deeds, V., & Pattillo, M. (2014). Organizational “failure” and institutional pluralism: A case study of
+        an urban school closure. Urban Education, 50(4), 474–504.
+        https://doi.org/10.1177/0042085913519337
+“It just doesn’t add up”                                                                                 23
+
+Diem, S., & Welton, A. D. (2017). Disrupting spaces for education policymaking and activism. In R.
+        Diem & M. Berson (Eds.), Mending walls: Historical, socio-political, economic and geographic
+        perspectives. Charlotte, NC: Information Age Publishing.
+Dixson, A., & Anderson, C. (2018) Where are we? Critical Race Theory in education 20 years later.
+        Peabody Journal of Education, 93(1), 121-131.
+        https://doi.org/10.1080/0161956X.2017.1403194
+Dowdall, E. (2011). Closing schools in Philadelphia: Lessons from six urban districts. Philadelphia, PA: Pew
+        Charitable Trusts, Philadelphia Research Initiative.
+Dowdall, E., & Warner, S. (2013). Shuttered public schools: The struggle to bring old buildings new life.
+        Philadelphia, PA: Pew Charitable Trusts, Philadelphia Research Initiative.
+Dumas, M. J., & Anderson, G. (2014). Qualitative research as policy knowledge: Framing policy
+        problems and transforming education from the ground up. Education Policy Analysis Archives,
+        22(11).
+Duncan-Shippy, E. (2019). School closure in strained cities: implications for racial equity in U.S.
+        education. In E. Duncan-Shippy (Ed.), Shuttered schools: Race, community, and school closures in
+        American cities. Charlotte, NC: Information Age Publishing.
+Empower DC. (2014, February 10). Depositions begin in DC school closures case [press release].
+Enriquez, L. (2014). “Undocumented and citizen students unite”: Building a cross-status coalition
+        through shared ideology. Social Problems, 61(2), 155-174.
+        https://doi.org/10.1525/sp.2014.12032
+Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do
+        student outcomes depend on which schools are closed? Journal of Urban Economics, 71(2), 189-
+        203. https://doi.org/10.1016/j.jue.2011.10.001
+Ewing, E. (2018). Ghosts in the schoolyard: Racism and school closings on Chicago's South Side. Chicago: The
+        University of Chicago Press. https://doi.org/10.7208/chicago/9780226526331.001.0001
+Fabricant, M., & Fine, M. (2012). Charter schools and the corporate makeover of public education. New York:
+        Teachers College Press.
+Fine, M. (2012). Disrupting peace/provoking conflict: Stories of school closings and struggles for
+        educational justice. Peace and Conflict: Journal of Peace Psychology, 18(2), 144-146.
+        https://doi.org/10.1037/a0028095
+Finnigan, K. S., & Lavner, M. A. (2012). Political analysis of community influence over school
+        closure. Urban Review, 44(1), 133–151. https://doi.org/10.1007/s11256-011-0179-9
+FOCUS. (2010). Locked out. Washington, DC: FOCUS. Retrieved from
+        http://focusdc.org/docs/locked-out.pdf
+Galletta, A., & Ayala, J. (2012). Documenting disappearing spaces: Erasure and remembrance in two
+        high school closures. Peace and Conflict: Journal of Peace Psychology, 18(2), 149-155.
+        https://doi.org/10.1037/a0028098
+Gamson, W. (1990). The strategy of social protest (2nd ed.). Belmont, CA: Wadsworth Publishing.
+Ganz, M. (2011). Public narrative, collective action, and power. In S. Odugbemi & T. Lee (Eds.),
+        Accountability through public opinion: from inertia to public action (pp. 273-289). Washington, DC:
+        The World Bank. https://doi.org/10.1596/9780821385050_CH18
+Garcia, N., López, N., & Vélez, V. N. (2018). QuantCrit: Rectifying quantitative methods through
+        critical race theory. Race Ethnicity and Education, 21(2), 149–157.
+        https://doi.org/10.1080/13613324.2017.1377675
+Garnett, N. S. (2014). Disparate impact, school closures, and parental choice. University of Chicago
+        Legal Forum, 1, 289–344.
+Gilliam, F. (2006). The architecture of a new racial discourse. Washington, DC: Frameworks Institute.
+Education Policy Analysis Archives Vol. 27 No. 110                                                           24
+
+Good, R. M. (2016). Histories that root us: Neighborhood, place, and the protest of school closures
+         in Philadelphia. Urban Geography, 1–24. https://doi.org/10.1080/02723638.2016.1182286
+Graeber, D. (2009). Direct action: An ethnography. Oakland: AK Press.
+Green, T. (2017). “We felt they took the heart out of the community”: Examining a community-
+         based response to urban school closure. Education Policy Analysis Archives, 25(21).
+         http://dx.doi.org/10.14507/epaa.25.2549
+Han, C., Raymond, M. E., Woodworth, J. L., Negassi, Y., Richardson, W. P., & Snow, W. (2017).
+         Lights off: Practice and impact of closing low-performing schools. Stanford, CA: Center for Research on
+         Education Outcomes.
+Honig, M. (2006). New directions in education policy implementation: Confronting complexity. Albany: State
+         University of New York Press.
+Illinois Facilities Foundation. (2012). Quality schools: Every child, every school, every neighborhood: An
+         Analysis of school location and performance in Washington, DC. Chicago: Author.
+Ishimaru, A.(2014). Rewriting the rules of engagement: Elaborating a model of districtcommunity
+         collaboration. Harvard Educational Review, 84(2), 188–216.
+         https://doi.org/10.17763/haer.84.2.r2007u165m8207j5
+Ishimaru, A. (2017). From family engagement to equitable collaboration. Educational Policy, 33(2),
+         350-385. https://doi.org/10.1177/0895904817691841
+Jabbar, H. (2016). The visible hand: Markets, politics, and regulation in Post-Katrina New Orleans.
+         Harvard Educational Review, 86(1), 1–26. https://doi.org/10.17763/0017-8055.86.1.1
+Johnson, A. W. (2012). “Turnaround” as shock therapy: Race, neoliberalism, and school reform.
+         Urban Education, 48, 232–256. https://doi.org/10.1177/0042085912441941
+Journey for Justice. (2014). Death by a thousand cuts: Racism, school closure, and public school
+         sabotage. OTL Campaign. Retrieved from
+         http://www.otlcampaign.org/blog/2014/05/21/death-thousand-cuts-racism-school-
+         closures-and-public-school-sabotage
+Kirshner, B., & Pozzoboni, K. M. (2011). Student interpretations of a school closure: Implications
+         for student voice in equity-based school reform. Teachers College Record, 113(8), 1633–1667.
+         https://doi.org/10.3102/0162373710376823
+Kretchmar, K. (2014). Democracy (in)action: A critical policy analysis of New York City Public
+         School closings by teachers, students, administrators, and community members. Education
+         and Urban Society, 46(1), 3–29. https://doi.org/10.1177/0013124511424108
+Kumashiro, K. K. (2004). Against common sense: Teaching and learning toward social justice. New York, NY:
+         Routledge.
+Ladson-Billings, G. (2013). Critical race theory—What it is not! In M. Lynn & A. Dixson (Eds.), The
+         handbook of critical race theory in education (pp. 34–47). New York, NY: Routledge.
+Lei, S. (2014). Chapter 2: Schools. Washington, DC: Our changing city. Washington, DC: Urban Institute.
+         Retrieved from http://datatools.urban.org/features/OurChangingCity/schools
+Lipman, P. (2013). The new political economy of urban education: Neoliberalism, race, and the right to the city.
+         New York, NY: Routledge. https://doi.org/10.4324/9780203821800
+Lipman, P., Gutstein, E., Gutierrez, R. R., & Blanche, T. (2015). Should Chicago have an elected
+         representative school board? A new review of the evidence. Chicago, IL: Collaborative for Equity &
+         Justice In Education, University of Illinois at Chicago.
+Lowery, K. (2019). The implications of colorblind decision-making about the closure, renovation, or
+         rebuild of (almost) every school in North Little Rock, Arkansas. In E. Duncan-Shippy (Ed.),
+         Shuttered schools: Race, community, and school closures in American cities. Charlotte, NC: Information
+         Age Publishing.
+“It just doesn’t add up”                                                                                 25
+
+Maciag, M. (2015). Gentrification in America report. Governing. Retrieved from
+        https://www.governing.com/gov-data/census/gentrification-in-cities-governing-report.html
+Martin, M. (2013). School closings: How administrations decide. Transcript. NPR. Retrieved from
+        http://www.npr.org/2013/03/21/174943853/-school- closings-how-administrations-decide
+Maxey, I. (1999). Beyond boundaries? Activism, academia, reflexivity and research. Area, 31(3), 199-
+        208. https://doi.org/10.1111/j.1475-4762.1999.tb00084.x
+McNeil, M.. (2009, August 26). Tight leash likely on turnaround aid. Education Week. Retrieved from
+        http://www.edweek.org/ew/articles/2009/08/26/02title1.h29.html
+National Alliance for Public Charter Schools. (2014). A growing movement: America’s largest charter school
+        communities, 9th annual edition. Washington, DC: National Alliance for Public Charter Schools.
+Noguera, P., & Pierce, J. (2016). The (evasive) language of school reform. Educational Leadership,
+        74(3), 74-78.
+Nuamah, S. A. (2017). The paradox of educational attitudes: Racial differences in public opinion on
+        school closure. Journal of Urban Affairs. https://doi.org/10.1080/07352166.2017.1360734
+Oakes, J., Rogers, J., & Lipton, M. (2006). Learning power: Organizing for education and justice. New York,
+        NY: Teachers College Press.
+Olsen, K. (2014). Telling our stories: Narrative and framing in the movement for same-sex marriage.
+        Social Movement Studies, 13(2), 248–266. https://doi.org/10.1080/14742837.2013.842464
+Özek, U., Hansen, M., & Gonzalez, T. (2012). A Leg up or a boot out? Student achievement and mobility
+        under school restructuring. Washington, DC: National Center for Analysis of Longitudinal Data
+        in Education Research.
+Pappas, L. N. (2016). Is deliberation a laudable goal when policy is a done deal? The Habermasian
+        public sphere and legitimacy in a market era of education policymaking. Education Policy
+        Analysis Archives, 24(121). https://doi.org/10.14507/epaa.24.2409
+Pedroni, T. C. (2011). Urban shrinkage as a performance of whiteness: Neoliberal urban
+        restructuring, education, and racial containment in the post-industrial, global niche city.
+        Discourse: Studies in the Cultural Politics of Education, 32(2), 203–215.
+        https://doi.org/10.1080/01596306.2011.562666
+Pérez Huber, L., Vélez, V. N., & Solorzano, D. (2018). More than “papelitos”: A QuantCrit
+        counterstory to critique Latina/o degree value and occupational prestige. Race Ethnicity and
+        Education, 21(2), 208–230. https://doi.org/10.1080/13613324.2017.1377416
+Polletta, F. (1998). “It was like a fever . . .”: narrative and identity in social protest. Social Problems,
+        45(2), 137–159. https://doi.org/10.1525/sp.1998.45.2.03x0163g
+Polletta, F., & Chen, B. (2012). Narrative and social movements. In J. C. Alexander, R. N. Jacobs, &
+        P. Smith (Eds.), The Oxford handbook of cultural sociology.
+        https://doi.org/10.1093/oxfordhb/9780195377767.013.18
+Schutz, A. (2006). Home is a prison in the global city: The tragic failure of school-based community
+        engagement strategies. Review of Educational Research, 76(4), 691–743.
+        https://doi.org/10.3102/00346543076004691
+Siegel-Hawley, G., Bridges, K., & Shields, T. J. (2016). Solidifying segregation or promoting
+        diversity? School closure and rezoning in an urban district. Educational Administration
+        Quarterly. https://doi.org/10.1177/0013161X16659346
+Smarick, A. (2010). The turnaround fallacy. Education Next, 10(1). Retrieved from
+        http://educationnext.org/the-turnaround-fallacy/
+Sunderman, G., & Payne, A. (2009). Does closing schools cause educational harm? A review of the
+        research. Mid-Atlantic Equity Center. Retrieved from
+        http://files.eric.ed.gov/fulltext/ED543514.pdf
+Education Policy Analysis Archives Vol. 27 No. 110                                                         26
+
+Syeed, E. (2019). An open and shut case: Gentrification and school closure decisions in Washington,
+       DC. In E. Duncan-Shippy (Ed.) Shuttered schools: Race, community, and school closures in American
+       cities. Charlotte, NC: Information Age Publishing.
+Turque, B., & Cohen, J. (2010, February 1). D.C. schools chancellor Rhee’s approval rating in deep
+       slide. The Washington Post. Retrieved from http://www.washingtonpost.com/wp-
+       dyn/content/article/2010/01/31/AR2010013102757.html
+Tuths, P. (2016). A changing landscape: Examining how public charter school enrollment is growing in DC.
+       Washington, DC: DC Fiscal Policy Institute.
+Uetricht, M. (2014). Strike for America: Chicago teachers against austerity. New York, NY: Verso.
+Van de Haar, M., & Verloo, M. (2016). Starting a conversation about Critical Frame Analysis:
+       Reflections on dealing with methodology in feminist research. Politics & Gender, 12(9), 1–7.
+       https://doi.org/10.1017/S1743923X16000386
+Verloo, M., & Lombardo, E. (2007). Contested gender equality and policy variety in Europe:
+       Introducing a Critical Frame Analysis approach. In M. Verloo (Ed.), Multiple meanings of gender
+       equality: A Critical Frame Analysis of gender policies in Europe. Budapest: Central European
+       University Press.
+Warren, M., Hong, S., Rubin, C., & Uy, P. (2009). Beyond the bake sale: A community-based
+       relational approach to parent engagement in schools. Teachers College Record, 111(9), 2209–
+       2254.
+Wohlstetter, P., Zeehandelaar, D., & Griffith, D. (2015). America’s best (and worst) cities for school choice.
+       Washington, DC: Thomas B. Fordham Institute.
+“It just doesn’t add up”                                                                           27
+
+                                       About the Author
+Esa Syeed
+California State University-Long Beach
+esa.syeed@csulb.edu
+https://orcid.org/0000-0003-2301-8580
+Esa Syeed is an assistant professor in the sociology department at California State University-
+Long Beach. His research interests lie at the intersections of education policy development,
+grassroots mobilization, and urban change.
+
+
+
+                  education policy analysis archives
+            Volume 27 Number 110        September 16, 2019                ISSN 1068-2341
+
+
+
+
+                    Readers are free to copy, display, distribute, and adapt this article, as long as
+the work is attributed to the author(s) and Education Policy Analysis Archives, the changes
+are identified, and the same license applies to the derivative work. More details of this Creative
+Commons license are available at https://creativecommons.org/licenses/by/4.0/ EPAA is
+published by the Mary Lou Fulton Institute and Graduate School of Education at Arizona State
+University Articles are indexed in CIRC (Clasificación Integrada de Revistas Científicas, Spain),
+DIALNET (Spain), Directory of Open Access Journals, EBSCO Education Research Complete,
+ERIC, Education Full Text (H.W. Wilson), QUALIS A1 (Brazil), SCImago Journal Rank, SCOPUS,
+SOCOLAR (China).
+Please send errata notes to Audrey Amrein-Beardsley at audrey.beardsley@asu.edu
+
+Join EPAA’s Facebook community at https://www.facebook.com/EPAAAAPE and Twitter
+feed @epaa_aape.
+Education Policy Analysis Archives Vol. 27 No. 110                                                               28
+
+                                    education policy analysis archives
+                                             editorial board
+                         Lead Editor: Audrey Amrein-Beardsley (Arizona State University)
+                        Editor Consultor: Gustavo E. Fischman (Arizona State University)
+           Associate Editors: David Carlson, Lauren Harris, Eugene Judson, Mirka Koro-Ljungberg,
+                  Daniel Liou, Scott Marley, Molly Ott, Iveta Silova (Arizona State University)
+
+ Cristina Alfaro                       Amy Garrett Dikkers University       Gloria M. Rodriguez
+ San Diego State University            of North Carolina, Wilmington        University of California, Davis
+ Gary Anderson                         Gene V Glass                         R. Anthony Rolle
+ New York University                   Arizona State University             University of Houston
+ Michael W. Apple                      Ronald Glass University of           A. G. Rud
+ University of Wisconsin, Madison      California, Santa Cruz               Washington State University
+
+ Jeff Bale                             Jacob P. K. Gross                    Patricia Sánchez University of
+ University of Toronto, Canada         University of Louisville             University of Texas, San Antonio
+ Aaron Bevanot SUNY Albany             Eric M. Haas WestEd                  Janelle Scott University of
+                                                                            California, Berkeley
+ David C. Berliner                     Julian Vasquez Heilig California     Jack Schneider University of
+ Arizona State University              State University, Sacramento         Massachusetts Lowell
+ Henry Braun Boston College            Kimberly Kappler Hewitt              Noah Sobe Loyola University
+                                       University of North Carolina
+                                       Greensboro
+ Casey Cobb                            Aimee Howley Ohio University         Nelly P. Stromquist
+ University of Connecticut                                                  University of Maryland
+ Arnold Danzig                         Steve Klees University of Maryland   Benjamin Superfine
+ San Jose State University             Jaekyung Lee SUNY Buffalo            University of Illinois, Chicago
+ Linda Darling-Hammond                 Jessica Nina Lester                  Adai Tefera
+ Stanford University                   Indiana University                   Virginia Commonwealth University
+ Elizabeth H. DeBray                   Amanda E. Lewis University of        A. Chris Torres
+ University of Georgia                 Illinois, Chicago                    Michigan State University
+ David E. DeMatthews                   Chad R. Lochmiller Indiana           Tina Trujillo
+ University of Texas at Austin         University                           University of California, Berkeley
+ Chad d'Entremont Rennie Center        Christopher Lubienski Indiana        Federico R. Waitoller
+ for Education Research & Policy       University                           University of Illinois, Chicago
+ John Diamond                          Sarah Lubienski Indiana University   Larisa Warhol
+ University of Wisconsin, Madison                                           University of Connecticut
+ Matthew Di Carlo                      William J. Mathis                    John Weathers University of
+ Albert Shanker Institute              University of Colorado, Boulder      Colorado, Colorado Springs
+ Sherman Dorn                          Michele S. Moses                     Kevin Welner
+ Arizona State University              University of Colorado, Boulder      University of Colorado, Boulder
+ Michael J. Dumas                      Julianne Moss                        Terrence G. Wiley
+ University of California, Berkeley    Deakin University, Australia         Center for Applied Linguistics
+ Kathy Escamilla                       Sharon Nichols                       John Willinsky
+ University ofColorado, Boulder        University of Texas, San Antonio     Stanford University
+ Yariv Feniger Ben-Gurion              Eric Parsons                         Jennifer R. Wolgemuth
+ University of the Negev               University of Missouri-Columbia      University of South Florida
+ Melissa Lynn Freeman                  Amanda U. Potterton                  Kyo Yamashiro
+ Adams State College                   University of Kentucky               Claremont Graduate University
+ Rachael Gabriel                       Susan L. Robertson                   Miri Yemini
+ University of Connecticut             Bristol University                   Tel Aviv University, Israel
+“It just doesn’t add up”                                                                                          29
+
+                             archivos analíticos de políticas educativas
+                                         consejo editorial
+                        Editor Consultor: Gustavo E. Fischman (Arizona State University)
+Editores Asociados: Armando Alcántara Santuario (Universidad Nacional Autónoma de México), Angelica Buendia,
+(Metropolitan Autonomous University), Alejandra Falabella (Universidad Alberto Hurtado, Chile), Veronica Gottau
+  (Universidad Torcuato Di Tella), Antonio Luzon, (Universidad de Granada), José Luis Ramírez, (Universidad de
+   Sonora), Paula Razquin (Universidad de San Andrés), Maria Alejandra Tejada-Gómez (Pontificia Universidad
+                                              Javeriana, Colombia)
+
+   Claudio Almonacid                   Ana María García de Fanelli             Miriam Rodríguez Vargas
+   Universidad Metropolitana de        Centro de Estudios de Estado y          Universidad Autónoma de
+   Ciencias de la Educación, Chile     Sociedad (CEDES) CONICET,               Tamaulipas, México
+                                       Argentina
+   Miguel Ángel Arias Ortega           Juan Carlos González Faraco             José Gregorio Rodríguez
+   Universidad Autónoma de la          Universidad de Huelva, España           Universidad Nacional de Colombia,
+   Ciudad de México                                                            Colombia
+   Xavier Besalú Costa                 María Clemente Linuesa                  Mario Rueda Beltrán Instituto de
+   Universitat de Girona, España       Universidad de Salamanca, España        Investigaciones sobre la Universidad
+                                                                               y la Educación, UNAM, México
+   Xavier Bonal Sarro Universidad      Jaume Martínez Bonafé                   José Luis San Fabián Maroto
+   Autónoma de Barcelona, España        Universitat de València, España        Universidad de Oviedo,
+                                                                               España
+
+   Antonio Bolívar Boitia              Alejandro Márquez Jiménez               Jurjo Torres Santomé, Universidad
+   Universidad de Granada, España      Instituto de Investigaciones sobre la   de la Coruña, España
+                                       Universidad y la Educación,
+                                       UNAM, México
+   José Joaquín Brunner Universidad    María Guadalupe Olivier Tellez,         Yengny Marisol Silva Laya
+   Diego Portales, Chile               Universidad Pedagógica Nacional,        Universidad Iberoamericana,
+                                       México                                  México
+   Damián Canales Sánchez              Miguel Pereyra Universidad de           Ernesto Treviño Ronzón
+   Instituto Nacional para la          Granada, España                         Universidad Veracruzana, México
+   Evaluación de la Educación,
+   México
+
+   Gabriela de la Cruz Flores          Mónica Pini Universidad Nacional        Ernesto Treviño Villarreal
+   Universidad Nacional Autónoma de    de San Martín, Argentina                Universidad Diego Portales
+   México                                                                      Santiago, Chile
+   Marco Antonio Delgado Fuentes       Omar Orlando Pulido Chaves              Antoni Verger Planells
+   Universidad Iberoamericana,         Instituto para la Investigación         Universidad Autónoma de
+   México                              Educativa y el Desarrollo               Barcelona, España
+                                       Pedagógico (IDEP)
+   Inés Dussel, DIE-CINVESTAV,         José Ignacio Rivas Flores               Catalina Wainerman
+   México                              Universidad de Málaga, España           Universidad de San Andrés,
+                                                                               Argentina
+   Pedro Flores Crespo Universidad                                             Juan Carlos Yáñez Velazco
+   Iberoamericana, México                                                      Universidad de Colima, México
+Education Policy Analysis Archives Vol. 27 No. 110                                                                30
+
+                             arquivos analíticos de políticas educativas
+                                        conselho editorial
+                       Editor Consultor: Gustavo E. Fischman (Arizona State University)
+Editoras Associadas: Kaizo Iwakami Beltrao, (Brazilian School of Public and Private Management - EBAPE/FGV,
+Brazil), Geovana Mendonça Lunardi Mendes (Universidade do Estado de Santa Catarina), Gilberto José Miranda,
+(Universidade Federal de Uberlândia, Brazil), Marcia Pletsch, Sandra Regina Sales (Universidade Federal Rural do
+                                                  Rio de Janeiro)
+
+ Almerindo Afonso                       Alexandre Fernandez Vaz                 José Augusto Pacheco
+ Universidade do Minho                  Universidade Federal de Santa           Universidade do Minho, Portugal
+ Portugal                               Catarina, Brasil
+
+ Rosanna Maria Barros Sá                Regina Célia Linhares Hostins           Jane Paiva
+ Universidade do Algarve                Universidade do Vale do Itajaí,         Universidade do Estado do Rio de
+ Portugal                               Brasil                                  Janeiro, Brasil
+
+ Maria Helena Bonilla                   Alfredo Macedo Gomes                    Paulo Alberto Santos Vieira
+ Universidade Federal da Bahia          Universidade Federal de Pernambuco      Universidade do Estado de Mato
+ Brasil                                 Brasil                                  Grosso, Brasil
+
+ Rosa Maria Bueno Fischer               Jefferson Mainardes                     Fabiany de Cássia Tavares Silva
+ Universidade Federal do Rio Grande     Universidade Estadual de Ponta          Universidade Federal do Mato
+ do Sul, Brasil                         Grossa, Brasil                          Grosso do Sul, Brasil
+
+ Alice Casimiro Lopes                   Jader Janer Moreira Lopes               António Teodoro
+ Universidade do Estado do Rio de       Universidade Federal Fluminense e       Universidade Lusófona
+ Janeiro, Brasil                        Universidade Federal de Juiz de Fora,   Portugal
+                                        Brasil
+ Suzana Feldens Schwertner               Debora Nunes                           Lílian do Valle
+ Centro Universitário Univates           Universidade Federal do Rio Grande     Universidade do Estado do Rio de
+ Brasil                                 do Norte, Brasil                        Janeiro, Brasil
+
+ Flávia Miller Naethe Motta             Alda Junqueira Marin                    Alfredo Veiga-Neto
+ Universidade Federal Rural do Rio de    Pontifícia Universidade Católica de     Universidade Federal do Rio Grande
+ Janeiro, Brasil                        São Paulo, Brasil                       do Sul, Brasil
+
+                                        Dalila Andrade Oliveira
+                                        Universidade Federal de Minas
+                                        Gerais, Brasil
+

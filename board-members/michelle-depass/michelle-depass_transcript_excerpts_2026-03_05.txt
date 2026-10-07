@@ -1,0 +1,189 @@
+Michelle DePass (Zone 2; Vice-Chair 2025-26) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: MOVED adoption (second Chase-Miller); YES on final (5-2). NO on La Forte framework amendment (failed 3-4); NO on "will"->"may" (failed 2-5); YES on both sub-amendments (D.b restore; "boundary changes") and on Splitt's final wording (per minutes). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (DePass YES)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+
+EXCERPTS
+
+[2026-03-08 Board Retreat - email practice: templates for hot topics]
+  time 04:43:36 | https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=17016s
+  source: transcripts/text/2026-03-08_Board_of_Education_Retreat__iY4k1Q8Y_yI.txt
+  attribution: PROBABLE (facilitator: "Yeah Michelle" immediately before; downgraded only because captions sometimes render "Rashelle" as "Michelle" - but "Relle" is addressed separately in this session, so DePass is most likely)
+  topic: resist lobbying; burden shared citywide, not just by wealthier communities
+  "drafting a common response that we can all agree on. For instance, you know, we're not going to advocate for our favorite ch child um when we're getting lobbyed because it it is going to happen and it's going to be intense. and we have just made a decision where we heard from some vocal parents, we changed our minds and so I think it'll be really important to stand strong. Um, this is a burden that needs to be shared by the whole community, not just by the wealthier communities that that have the advocacy and the voices um who are also in the minority in in a lot of cases."
+
+[2026-03-10 Board Regular Meeting - Seismic update, board round]
+  time 01:34:52 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=5692s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (third in seat order after Splitt and Engelsman, before Wang; see the seating note -- could be Chase-Miller)
+  topic: sequencing -- seismic list chosen before rightsizing
+  "I hadn't heard why we're determining actual school buildings before having the right sizing conversation. If if I just had a wand and could say we're going to be talking as a community about right sizing our schools. This is a communitywide conversation. Some of the schools that have uh under 300 enrollment um we'll be looking at those. They'll either consolidate or whatever. And so it just seems like the order of operations has been off to me the the entire this entire conversation."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 02:57:48 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10668s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (comes right after Engelsman and before Wang in seat order; the same "ripple effects" phrasing shows up later from a director who is not Chase-Miller)
+  topic: scope -- whole system at once; offers to draft resolution
+  "I am would be excited about doing the entire system at once and that's because um if you study systems you know that you you do something in one part of the system and there impacts ripple effects out in other parts of the system. I also think um this is a process that the entire PPS family should bear uh the brunt of and and be part of and be engaged in. Um so that um in terms of developing a resolution um I would be happy to work with someone to draft"
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 02:58:49 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10729s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (same continuous turn)
+  topic: equity value -- outcomes not predictable by zip code
+  "while I love the small schools and you know you never hear anybody from a small school because they want to keep it that way. Um my preference would be to is if we're talking about right sizing to make sure that every PPS student has access and um to high quality programming, robust academic um supports and that outcomes aren't predictable by where you live, your zip code, your poverty level. Um that would be a outcome I would absolutely be thrilled to support."
+
+[2026-03-31 Board Special Meeting and Work Session - Growing Great Schools pair-share report-out (Seattle resource)]
+  time 01:47:01 | https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6421s
+  source: transcripts/text/2026-03-31_Board_or_Education_Special_Meeting_and_Work_Session__QIfmGcbkkLE.txt
+  attribution: PROBABLE (the DePass / Engelsman pair had the Seattle resource and is the second group to report. "We spent a whole bunch of time trying to find the link" matches the earlier trouble finding the Seattle link. Cites personal experience of closures harming communities of color in Portland, which fits DePass, the longest-serving N/NE director. Engelsman then speaks as the partner: "one of the things that you um brought up")
+  topic: North Star; judge closures by social/educational outcomes, not just enrollment and building condition
+  "two actions or considerations we should incorporate would be to uh take the time to develop a North Star. [...] shifting us from just like looking at enrollment and building condition to really evaluating the long-term impacts um the social educational outcomes because school closures do tend to impact lower income and communities of color and they have in Portland. [...] So, I I'd like to look at building condition utilization rates, of course, um current and potential, you know, uses for the building, but also to be sure that we engage marginalized voices and that we evaluate social and educational outcomes and and so that outcomes are not predicted by uh zip code or income."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 1]
+  time 01:32:27 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5547s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "We'll move to, uh, Vice Chair DePass. Um, thank you.")
+  topic: keep advisory committee; amendment after listening sessions
+  "I would like to keep the language in, uh, D B regarding an advisory committee of stakeholders. [...] I know from doing engagement processes in public, um, entities for Metro in the city of Portland that the people that are the closest to the issue, you want to be, um, close to the problem-solving. [...] if we're looking at the resolution and the additions with the amendment, I think those are, um, are best presented after we have completed our listening sessions."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 2]
+  time 01:57:44 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7064s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "Dr. uh Vice Chair DePape [DePass]. Uh yes, thank you.")
+  topic: vote original as symbolic start; listen to historically harmed communities
+  "I would be in favor of um taking a vote on the initial resolution with the revision to DB um just as a kind of symbolic and practical way of moving forward together as a board. [...] rather than memorializing our own um values we we have said that we would be intentional about listening to others and so to me the resolution that has these A through E uh A through F um considerations, I feel really needs to be done after we've heard what we've heard and after we've heard from those communities that are um historically have been uh harmed by processes just like this."
+
+[2026-04-14 Board Regular Meeting - Future agenda: timing of next resolution]
+  time 03:20:58 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=12058s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: PROBABLE (same speaker earlier: "as a person that used to compile this stuff"; matches DePass's stated engagement background and her 01:57:44 concern about the 4/27-4/28 turnaround)
+  topic: done well, not fast; analyze N/NE input
+  "I'll just say this like statistically the chances are that we will already have our curve, right? [...] But if we're doing intentional outreach in North Portland, Northeast Portland, whatever that means, we're going to do it because it's easier for people get to, then we want to actually be intentional about not speeding through the work, but actually doing I would rather have it done well than fast. That's just me."
+
+[2026-04-20 Rightsizing Public Engagement Session (virtual) - director introductions]
+  time 00:03:03 | https://www.youtube.com/watch?v=jBUIkfQZu-k&t=183s
+  source: transcripts/text/2026-04-20_Rightsizing_-_Board_of_Education_Public_Engagement_Session__jBUIkfQZu-k.txt
+  attribution: CONFIRMED (self-identifies: "I'm Michelle DePass. I live in zone two"; host "Thank you, Director DePass")
+  topic: vision of reconfigured district; outcomes not predictable by race/zip code
+  "what I'm the most curious about is a wondering I have about how we can come together as a community to imagine a reconfigured right-sized Portland Public Schools where learning outcomes are not predictable by race or zip code and where all kids in our district are well served. And then my second wondering is, you know, how do we want to feel about each other when this is all done?"
+
+[2026-04-25 Rightsizing Public Engagement Session (Benson HS) - board closing reflections]
+  time 01:02:59 | https://www.youtube.com/watch?v=afT219FjYDA&t=3779s
+  source: transcripts/text/2026-04-25_Rightsizing_-_Board_of_Education_Public_Engagement_Session__afT219FjYDA.txt
+  attribution: CONFIRMED (host: "I'm going to turn it over to our vice chair Michelle DePass for some final comments... Vice chair DePass." Next speaker: "I agree with all of what vice chair DePass said")
+  topic: focus options as model to replicate; "design thinking" process
+  "What I heard today is a desire for strong curriculum and after school programming access to having adults in the room arts music and library is important. [...] strong consistent safe movement play connected supported students um to look at the focus focus schools and what they've done right um to learn from them and maybe replicate those models. [...] this idea of the design thinking that we're kind of engaging in right now is really thinking big right now and then we'll come back and make decisions and then we'll go out again and think big."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:37:28 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16648s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: CONFIRMED (later the superintendent says "I think that's what director de pass was saying ... about the natural and the wood and the windows", which is this speaker's content)
+  topic: what a well-resourced school looks like; arts, music, library
+  "Um and we asked, you know, what does a well-resourced school look like? And I think [...] it's um hard for people to imagine something that they can't see [...] I think that it would behoove us to um perhaps consider some renderings as we get further, you know, further along in the process. We um heard from people particularly last night that um and I was selective hearing. I heard um music, art and library because I think those are you know just as important as rigorous academics."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:38:31 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16711s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: CONFIRMED (same speaker; see above)
+  topic: consolidation should deliver climate-controlled, well-staffed schools
+  "[I'd] like to think that as we're talking about programs and consolidations and moving students around that we um are able to paint a picture of you know a climate controlled space that serves kids with rigorous programming. Um just a picture of a well-resourced school. what that looks like. That means lots of adults in the space. We heard people wanting adults in the space."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:40:32 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16832s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: CONFIRMED (same speaker, answering superintendent's clarifying question about buildings)
+  topic: combining neighborhood + focus programs; "great schools ... just not as many"
+  "I understand that we um don't have a lot of money to spend on remodels. Um but perhaps if we uh combine a neighborhood and a focused uh group, there's opportunities to um to vision and implement some of those some of those dreams. Um also just that, you know, I'm envisioning, you know, getting out of the what the people call the city's doom loop by having, you know, great schools throughout the um throughout the district, though just not as many."
+
+[2026-05-12 CBRC budget report - board questions]
+  time 03:23:13 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=12193s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (last in rotation after chair; "Any last comments before" handoff; matches DePass slot)
+  topic: building reuse / partnerships; peer-district benchmarking
+  "I like the idea of partnering on potential assets that we might be, you know, putting in storage or, you know, we're moving things around right now. Um, but I was like, what public the none of the public agencies have any money. Everybody's facing deficits. So, I wondered why it wasn't public partner public um private partnerships. [...] I like that idea of actually studying you know right sizing where our um our dollar our our our dollars are going."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:35:09 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16509s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (DePass slot in seat rotation after Wang; references SEGC harm to the Black community; same slot/voice as climate-justice remarks at 03:54)
+  topic: do not create additional harm to recently harmed communities (SEGC); courage vs fear
+  "I'm happy with it as is with a couple of comments. [...] we're going to have to be very courageous during this process. Um, one thing I didn't see in here, and maybe it doesn't belong in the guiding principles, but we did hear from a community that's already kind of suffered a lot through the Southeast Guiding Coalition [...] I like the idea of not creating additional harm to communities that have um experienced harm recently."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:37:12 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16632s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (same turn; addresses "Director Englesman" by name)
+  topic: system-wide review; reword section C; transportation study (miles driven)
+  "I like that we operate a variety of schools and programs all of which will be part of the right sizing. In other words, no one it's a systemwide look and I like that. I to your point um Director Englesman about neighborhood schools being the center. [...] I think that we should center neighborhood schools and but I don't want neighborhood schools to feel like um you know they're going to be the first one the first ones plucked off. [...] I asked for some transportation studies [...] we also have some of our schools where a 100% of the people drive"
+
+[2026-05-13 Budget Hearing and Work Session - board questions: "50 amazing schools" remark (follows superintendent's rightsizing/focus-option answer)]
+  time 02:00:30 | https://www.youtube.com/watch?v=4i9CyWKUzd4&t=7230s
+  source: transcripts/text/2026-05-13_026-27_Board_of_Education_Budget_Hearing_and_Work_Session__4i9CyWKUzd4.txt
+  attribution: POSSIBLE (no name cue; the same turn asks about an Indian-education commitment from "a couple of years ago" (longer-tenured director) and the arts focus option at Buckman, and recalls a transportation discussion "in September or October"; DePass is the likeliest, Wang the alternative)
+  topic: number of schools / consolidation vision / change
+  "I was going to say something about generally about um the ability to be resilient to change and um just curious what if you know we have right now 81 schools and I'm wondering if we had like 50 amazing schools in this community if what the community would say about that if it meant that they had to drive you know mo move their patterns a little bit um maybe be in a different building um what would that look like just that kind of visioning process about excellent schools for Portland. Um I I think it's possible and I think that's also going to require a lot of change. And so I just hope that I hope that we are able to model what change looks like"
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:48:40 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6520s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (third speaker in the seating-order round, between La Forte and Chair Wang. The budget round confirms the La Forte -> DePass order: "Director Lefort ... Vice Chair Depass". The architecture/"tenant improvements" vocabulary matches DePass's later CAD/drafting remarks in the data dive)
+  topic: added "safe", the equity lens, and cohort cohesion
+  "Um thank you. I just want to start with an appreciation that show that you showed your thinking that you added for instance the word safe um to healthy learning environments. I think it's really important especially if we're talking about walkability, transportation options and also how you added apply the equity lens to that um to that as well. Um and also I noticed that you added a value around cohort cohesion [...] the community was concerned about that cohesion and and I I was happy to see that included."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:48:40 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6520s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn as above)
+  topic: facilities: retrofits and conversions missing from the rightsizing timeline
+  "one of the things on the timeline that I didn't notice was um that there were uh it it looks like there's I would I was wondering where any retrofits might happen. Um in that schedule that you showed, if there were to be, let's say, a conversion I'm just throwing this out there. It's Nothing's been decided. If there was a school that needed some tenant improvements in order for it to be a new community to be a new building. Um I just I didn't see that in the schedule"
+  [Staff reply (Franco): "we'll make sure to include that in the timeline", tying it to "our seismic conversations".]
+
+[2026-05-26 Board Special Meeting - Res. 7308 budget committee approval, board discussion]
+  time 03:10:51 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=11451s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (last speaker in the circular budget round after Sullivan and La Forte. "since I've been on the board" fits a longer-serving director)
+  topic: risky budget; CBRC warning; reserves
+  "my my big concern had to be about was really about the feedback from the CBRC and how that was being implemented um particularly when they they shared that this was a really ambitious budget built on assumptions that everything would fall into play with the labor partners. [...] I'm wondering about a plan B. [...] We don't have the reserves for that. [...] I'm concerned about building those reserves up so we have a bigger cushion than our 5%"

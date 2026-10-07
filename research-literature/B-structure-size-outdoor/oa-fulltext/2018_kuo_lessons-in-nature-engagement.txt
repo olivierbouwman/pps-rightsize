@@ -1,0 +1,941 @@
+                                                                                                                                                ORIGINAL RESEARCH
+                                                                                                                                             published: 04 January 2018
+                                                                                                                                         doi: 10.3389/fpsyg.2017.02253
+
+
+
+
+                                                Do Lessons in Nature Boost
+                                                Subsequent Classroom
+                                                Engagement? Refueling Students in
+                                                Flight
+                                                Ming Kuo 1*, Matthew H. E. M. Browning 1, 2 and Milbert L. Penner 3
+                                                1
+                                                 Natural Resources and Environmental Sciences, University of Illinois at Urbana–Champaign, Champaign, IL, United States,
+                                                2
+                                                 Recreation, Sport and Tourism, University of Illinois at Urbana–Champaign, Champaign, IL, United States, 3 Cold Spring
+                                                Environmental Studies Magnet School, Indianapolis Public Schools, Indianapolis, IN, United States
+
+
+
+                                                Teachers wishing to offer lessons in nature may hold back for fear of leaving students
+                                                keyed up and unable to concentrate in subsequent, indoor lessons. This study tested
+                                                the hypothesis that lessons in nature have positive—not negative—aftereffects on
+                                                subsequent classroom engagement. Using carefully matched pairs of lessons (one in a
+                           Edited by:           relatively natural outdoor setting and one indoors), we observed subsequent classroom
+                Meryem Yilmaz Soylu,            engagement during an indoor instructional period, replicating these comparisons over
+       University of Nebraska Lincoln,
+                        United States           10 different topics and weeks in the school year, in each of two third grade classrooms.
+                       Reviewed by:             Pairs were roughly balanced in how often the outdoor lesson preceded or followed the
+                     Ulrich Dettweiler,         classroom lesson. Classroom engagement was significantly better after lessons in nature
+     University of Stavanger, Norway
+                                                than after their matched counterparts for four of the five measures developed for this
+                          Eric Brymer,
+             Leeds Beckett University,          study: teacher ratings; third-party tallies of “redirects” (the number of times the teacher
+                      United Kingdom            stopped instruction to direct student attention back onto the task at hand); independent,
+                  Alexander Minnaert,
+ University of Groningen, Netherlands           photo-based ratings made blind to condition; and a composite index each showed a
+                  *Correspondence:              nature advantage; student ratings did not. This nature advantage held across different
+                           Ming Kuo             teachers and held equally over the initial and final 5 weeks of lessons. And the magnitude
+                    fekuo@illinois.edu
+                                                of the advantage was large. In 48 out of 100 paired comparisons, the nature lesson was
+                   Specialty section:
+                                                a full standard deviation better than its classroom counterpart; in 20 of the 48, the nature
+         This article was submitted to          lesson was over two standard deviations better. The rate of “redirects” was cut almost in
+             Educational Psychology,
+                                                half after a lesson in nature, allowing teachers to teach for longer periods uninterrupted.
+               a section of the journal
+               Frontiers in Psychology          Because the pairs of lessons were matched on teacher, class (students and classroom),
+          Received: 28 August 2017              topic, teaching style, week of the semester, and time of day, the advantage of the
+       Accepted: 12 December 2017               nature-based lessons could not be attributed to any of these factors. It appears that,
+        Published: 04 January 2018
+                                                far from leaving students too keyed up to concentrate afterward, lessons in nature may
+                            Citation:
+       Kuo M, Browning MHEM and
+                                                actually leave students more able to engage in the next lesson, even as students are also
+    Penner ML (2018) Do Lessons in              learning the material at hand. Such “refueling in flight” argues for including more lessons
+Nature Boost Subsequent Classroom
+                                                in nature in formal education.
+ Engagement? Refueling Students in
+       Flight. Front. Psychol. 8:2253.          Keywords: classroom engagement, academic achievement, teaching outdoors, lessons in nature, environmental
+     doi: 10.3389/fpsyg.2017.02253              education
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                         1                                            January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                Refueling Students in Flight
+
+
+
+INTRODUCTION                                                                to direct attention is thereby refreshed (Kaplan, 1995; for a
+                                                                            recent review of empirical work on attention restoration theory,
+When teachers offer lessons in relatively natural settings, students        see Ohly et al., 2016). Experimental work has demonstrated
+may benefit in a number of important ways. Academically, some               these aftereffects for classroom window views of greenery vs.
+evidence suggests students retain more after lessons in nature              barren schoolyards (Li and Sullivan, 2016), and for walks in both
+in biology and math (Fägerstam and Blom, 2012), language                    forested (van den Berg et al., 2017) and relatively green urban
+arts, social studies, and science more generally (Lieberman and             settings (Faber Taylor and Kuo, 2009) as compared to walks in
+Hoody, 1998) than after similar lessons indoors. Lessons in                 less green urban settings. Thus, both a lesson in a relatively green
+nature may also offer other benefits associated with exposure               spot in a schoolyard and the walks between that spot and the
+to trees, gardens, parks, and wildlife, including physical activity,        classroom might rejuvenate students’ attention, enhancing their
+stress relief, and the rejuvenation of attention (for reviews               ability to concentrate on the next, indoor lesson.
+see Chawla, 2015; Kuo, 2015). Furthermore, as anthropogenic                     Motivation is a similarly important resource in student
+climate change becomes an increasingly pressing issue, lessons              engagement (Deci et al., 2011), and nature-based learning has
+in nature may help build the next generation of environmental               been tied to high levels of engagement and enjoyment in a
+stewards; positive childhood nature experiences appear to play a            number of studies. Although we found no studies examining
+key role in fostering pro-environmental behavior in adulthood               aftereffects of acute doses of nature, children prefer and enjoy
+(Monroe, 2003).                                                             lessons outdoors over lessons indoors (Mygind, 2009; Wistoft,
+    Perhaps in response to these important potential benefits,              2013), and there is some indication that outdoor nature-
+many European countries are incorporating lessons in nature                 based learning fosters greater interest in school and learning
+in their formal schooling (Bentsen and Jensen, 2012); in the                generally (e.g., Ernst and Stanek, 2006). Importantly, these effects
+U.S., however, there has been relatively little embrace of outdoor          may be largest in precisely the students whose motivation in
+formal instruction beyond the preschool setting (Ernst and                  “normal” classes is most lacking (Dettweiler et al., 2015). Nature-
+Tornabene, 2012). One reason lessons in nature have not caught              based learning appears to foster students’ intrinsic motivation
+on in the U.S. may be a concern on the part of teachers that                (Fägerstam and Blom, 2012; Skinner et al., 2012). Collectively,
+outdoor lessons will leave students keyed up and unable to                  this body of work suggests nature-based instruction makes
+concentrate. In the context of high-stakes testing, even temporary          learning more interesting and enjoyable; might the interest and
+losses in classroom engagement are an important concern.                    positive affect from a lesson in nature carry over to the next,
+Classroom engagement—the extent to which students are on-                   indoor lesson, resulting in greater classroom engagement?
+task and paying attention to the material or activity at hand—is                Stress is likely to be another important (negative) factor in
+both easily disrupted and a major driver of learning and academic           student engagement; high levels of stress consistently predict
+success (Godwin et al., 2016). If lessons in nature do leave kids           lower levels of academic achievement (e.g., Grannis, 1992;
+“keyed up” and unable to focus afterwards, then the benefits of             Leppink et al., 2016). Experimental work in adults with
+that time may be outweighed by the costs.                                   physiological indicators shows that contact with nature offers
+    Do lessons in nature impair subsequent classroom                        quick and powerful reductions in stress biomarkers (e.g., Park
+engagement? Our review of the environmental psychology                      et al., 2010; for review, see Kuo, 2015; Supplementary Materials),
+literature suggests quite the opposite. Although we found no                and this effect appears to extend to children as well. Contact
+studies directly addressing this question, the indirect evidence            with nature has been tied to lower levels of both self-reported
+suggests that classroom engagement will be enhanced, not                    and physiological measures of stress in multiple studies with
+impaired, immediately after lessons in nature. Specifically,                children (Bell and Dyment, 2008; Chawla, 2015; Wiens et al.,
+spending time in relatively natural outdoor settings has a                  2016). Recently an experimental study involving high school
+number of positive, immediate aftereffects on individuals, each             students showed that even a mere window view of vegetation
+of which is likely to enhance classroom engagement. Moreover,               from a classroom yields systematic decreases in both heart rate
+multiple studies have found that schools with greener, more                 and self-reported stress, whereas a classroom without windows
+vegetated surroundings perform better academically—even                     does not (Li and Sullivan, 2016). Further, students learning in a
+when socioeconomic factors are taken into account (Kuo et al.,              forest setting one day a week showed healthier diurnal rhythms
+in review). Here we review the evidence on acute doses of contact           in the stress hormone cortisol in that setting than a comparison
+with nature and their effects on cognitive functioning, interest in         group that did not receive outdoor learning—and these effects
+learning, and stress, as well as the literature tying greener schools       could not be attributed to the physical activity associated with
+with better academic achievement.                                           learning outdoors (Dettweiler et al., 2017).
+    Attention is an important resource in student engagement                    Not only is contact with nature tied to important factors in
+(Pekrun and Linnenbrink-Garcia, 2012). Acute doses of nature,               classroom engagement, but greener schools and classrooms
+whether through a window view of a tree-lined street or a                   have been tied to better academic achievement. Multi-
+walk in a park, have positive aftereffects on attention and                 year assessments of greenness around Massachusetts public
+working memory. Attention restoration theory suggests that                  schools found positive correlations between greenness and
+natural landscapes are gently absorbing, inducing a state of “soft          standardized test scores, even after adjusting for income and
+fascination” that allows the mental muscle underlying our ability           other confounding factors, although not for all seasons of the
+to deliberately direct attention to rest; afterwards, our capacity          year (Wu et al., 2014). Similarly, standardized test performance
+
+
+Frontiers in Psychology | www.frontiersin.org                           2                                      January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                              Refueling Students in Flight
+
+
+
+in 3rd through 9th graders was higher for District of Columbia             the entire time. To test this hypothesis, we compared classroom
+public schoolyards with higher levels of tree cover, even after            engagement after a teacher gave her students a lesson in nature
+similar controls (Kweon et al., 2017), and high school graduation          vs. after the same teacher gave her students a lesson on the
+rates and test scores were better for public high schools across           same topic in the classroom (e.g., leaves) in the same week,
+Michigan with views of greenspace from high school classrooms              replicating this comparison across 10 different topics (one topic
+and cafeterias (Matsuoka, 2010). More recently, standardized               per week), two classrooms (“classroom a,” with its own teacher,
+test scores have been tied to schoolyard tree cover in over 300            students, and room; and “classroom b,” with another teacher, set
+public schools in Chicago, again controlling for socioeconomic             of students, and room), and five different measures of classroom
+and other factors (Kuo et al., in review). While these studies do          engagement.
+not directly connect nature exposure with increased classroom
+engagement, they are consistent with this possibility; indeed,             METHODS
+it is difficult to imagine how contact with nature could boost
+academic achievement while reducing classroom engagement.                  Setting and Instructors
+    Thus, exposure to nature has been tied to both the antecedents         The effects of lessons in nature on subsequent classroom
+and the consequences of classroom engagement. Additional                   engagement were examined in the context of a 300-student
+converging evidence comes from research in educational                     environmental magnet school in the Midwestern United States
+psychology not focused specifically on greenness. Generally                serving a predominantly disadvantaged population, with 87%
+speaking, time spent out of the classroom and in relatively                qualifying for free or reduced lunch, 82% African American,
+natural outdoor settings is positive. Studies document (a) the             7% Hispanic, 5% White, and 6% Multi-racial. Written consent
+rejuvenating effects of recess (e.g., Pellegrini and Davis, 1993;          from parents of involved students was obtained prior to the
+Pellegrini et al., 1995; Jarrett et al., 1998), (b) the positive           study.
+impacts of students’ physical activity—often in schoolyards—                  The indoor condition in this study comprised two typical
+on on-task behavior and executive functioning in the classroom             classrooms (Figure 1; although they are not shown in the
+(Mahar, 2011; Kvalø et al., 2017), and (c) the motivational                photo, both classrooms had windows). The outdoor condition
+benefits of teacher-led education outside the classroom (EotC)—            comprised a small grassy area just outside the school (Figure 2).
+in schoolyards, museums, and other cultural institutions                   This instructional area was adjacent to a stream and woodlands,
+(Dettweiler et al., 2015; for review see Becker et al., 2017) and          not used in the lesson. While the teacher was setting up
+of garden-based learning (Skinner et al., 2012). All these lines of        the outdoor lesson, students occasionally visited the stream
+investigation lend indirect support for the hypothesis that lessons        bank briefly. The post-treatment (and post-control) observation
+in nature might enhance subsequent classroom engagement.                   period was always conducted indoors, in each class’ and teacher’s
+    At the same time, it must be acknowledged that the question            regular classroom.
+here differs importantly from those lines of investigation.                   The two teachers in this study were highly experienced
+This study differs from the research on the benefits of recess             and state-certified in elementary education, with Masters in
+and physical activity in that the intervention involves formal             Education degrees and in-service training in outdoor and
+instruction—teacher-led, formal lessons, delivered as part of a            environmental education. These teachers had teamed together
+larger curriculum, with all the rules against student socializing          in lesson planning over a period of 5 years prior to this study,
+and autonomous activity typical of classroom-based lessons.                facilitating their coordination of lessons during this study.
+Similarly, unlike most education outside the classroom (EotC)                 The students in the classrooms were in third grade. Their age
+studies and the study of garden-based learning, this study holds           range was 9–10 years old.
+pedagogical approach constant in comparing lessons in nature
+vs. in the classroom. That is, in most EotC studies, the instruction       Design and Procedure
+outside the classroom is designed to take advantage of the setting;        At base, this study involved a mini-experiment replicated
+as a consequence, the experimental condition differs from the              20 times. In each mini-experiment, we examined classroom
+control in two ways—in setting (outside vs. in the classroom)              engagement after a lesson in nature vs. after a matched lesson
+and in pedagogical approach. In this study, pedagogical approach           in the classroom on the same topic, with the same teacher
+was held constant across conditions; the lessons inside and                and students. Thus, in week 1 of our study, teacher “a” gave
+outside the classroom differed in setting but not instructional            her students both a lesson on, say, leaf identification, outdoors,
+approach.                                                                  and another lesson on leaf identification in the classroom, and
+    In sum, although it appears no study has directly examined             we compared indoor classroom engagement for that set of
+the aftereffects of lessons in nature on classroom engagement,             students after each of those two lessons. This mini-experiment
+considerable evidence in both environmental psychology and                 was repeated across 10 different lesson topics and weeks (one
+education research points to time spent in natural outdoor                 topic per week), in each of two classrooms.
+settings as having positive impacts. In this study, we hypothesize            Figure 3 schematically depicts a mini-experiment—the
+that lessons in nature have positive, immediate aftereffects on            fundamental unit of comparison in this study. Both the
+classroom engagement—that is, we expect that when children                 experimental condition (the lesson in nature) and the control
+learn outdoors, their classroom engagement after returning                 condition (the lesson in the classroom) were 40 min long,
+indoors is better than it would have been had they stayed inside           and the observation period for both conditions was 20 min
+
+
+Frontiers in Psychology | www.frontiersin.org                          3                                     January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                 Refueling Students in Flight
+
+
+
+
+ FIGURE 1 | The two classrooms (A,B) used for indoor instruction in this study.
+ Written permission for the publication of this figure was obtained from
+ students’ parents.                                                                    FIGURE 2 | The site of the lessons in nature (A) and the route students took
+                                                                                       between their classroom and the outdoor lessons (B). The road in the pictures
+                                                                                       was used exclusively for pedestrian traffic and (infrequently) for maintenance
+                                                                                       vehicles.
+
+long. Observation periods took place in the teacher’s regular
+classroom, and included an introductory 5-min presentation
+by the teacher on math or language arts using a dry erase                             September-November, under a range of weather conditions1 .
+board, overhead projector, or chalkboard and 15 min of assigned                       Before the study began, both instructors were open-minded
+individual student work completed at their desks. Before the                          as to what we might find, although one tended to think the
+observation period there was a water and bathroom break in                            positive effects of lessons in nature might outweigh the negative,
+both conditions.                                                                      whereas the other tended to think the opposite—that lessons in
+    Figure 4 shows how we replicated our fundamental unit of                          nature might leave students “too wired” afterward to engage in
+comparison across different instructional content, times in the                       classroom material.
+school year, students, classrooms, and instructors. Each pair of                         To make the lessons as comparable as possible, each
+lessons (one in nature, one in the classroom) was delivered in a                      lesson pair was carefully matched along numerous dimensions.
+single week. For each pair, the two teachers worked together to                       In addition, where exact matching was not possible we
+adapt a different theme from the Project Learning Tree (www.
+plt.org) environmental education lesson guide, with lessons on                        1 On one occasion, a planned lesson was not given as scheduled; that lesson was
+leaf, tree, and seed identification; organic matter decomposition;                    made up in April instead. Analyses with and without the makeup lesson and its
+the life cycle; and pollution. These two instructors each delivered                   paired classroom lesson show the same effects of lessons in nature on subsequent
+10 pairs of lessons over 10 different weeks in the semester from                      classroom engagement. Findings reported here were based on the full sample.
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                     4                                             January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                  Refueling Students in Flight
+
+
+
+
+ FIGURE 3 | Schematic diagram of one mini-experiment. This included a treatment (lesson in nature and with walks to lesson site before and after) or a control
+ (classroom lesson indoors), followed by a 5-min indoor break and 20-min indoor observation period. Order of conditions was counterbalanced.
+
+
+
+
+ FIGURE 4 | Mini-experiments were replicated over 10 different topics and weeks, for each of two classrooms (and each of five measures). Order of conditions was
+ counterbalanced.
+
+
+
+
+counterbalanced across the study so there were no consistent                          So that neither condition would have an advantage over the other,
+differences between conditions. For one notable dimension,                            we encouraged teachers to put the lesson in nature first roughly
+neither matching nor counterbalancing was possible.                                   as often as they put it second. The scheduling of lessons was
+    Lessons were matched along the following dimensions:                              constrained by the scheduling of other curriculum (e.g., physical
+teacher, students and class size, topic, teaching style, week of                      education, art, and music) as well as weather. In the end, the
+the semester, and time of day. That is, for any given pair of                         lesson in nature came before its classroom counterpart four times
+lessons, both the treatment lesson (in nature) and its indoor                         and after it six times for each teacher.
+counterpart were delivered by the same teacher to the same                                It is important to note that there was one consistent difference
+students, on the same topic, in the same week of the semester.                        between the experimental and control lessons other than setting.
+Both lessons involved hands-on, experiential learning; lessons                        The 40-min lesson in nature was not purely instructional time;
+that required natural materials from the outdoor instructional                        it required the class to walk a few minutes to and from a grassy
+site (e.g., different types of leaves) were adapted for classroom                     area (see Setting above) to reach the instructional site—a distance
+instruction by bringing these materials indoors prior to the                          of about 200 m. Thus, the lesson delivered in nature was roughly
+lesson. While the pairs of lessons were offered in afternoons (n                      30 min long whereas the matched indoor lesson was 40 min long.
+= 12) slightly more often than in mornings (n = 8), the two
+conditions did not differ in how often they were taught in the                        Measures of Classroom Engagement
+morning vs. the afternoon—an important consideration given                            We developed a battery of four measures to assess classroom
+that cognitive performance generally drops over the course of the                     engagement: (1) teacher ratings; (2) student ratings; (3)
+day (Sievertsen et al., 2016).                                                        “redirects”—the number of times instructors had to interrupt
+    We counterbalanced the order in which conditions were                             instruction to redirect a student’s attention to the task at-
+delivered each week over the course of the study. It is impossible                    hand; and (4) independent photo ratings—ratings of classroom
+to offer both a lesson in nature and its matched classroom lesson                     engagement by an independent observer based on photographs
+simultaneously; thus one lesson would have to precede the other                       of the observation period. These four measures were then
+and the second lesson would always be an extension of the first.                      combined into a Composite Index of Classroom Engagement.
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                     5                                             January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                Refueling Students in Flight
+
+
+
+Teacher Ratings                                                             Independent Photo Ratings
+At the end of each 20-min observation period, teachers rated                While teacher ratings and student ratings each provide a valuable
+classroom engagement on a −2 to +2 scale (from −2 much                      window onto class engagement, both are inevitably subject to
+worse than usual to 2 much better than usual, with 0 same                   observer expectancy effects. That is, both teacher and student
+as usual). Classroom engagement was defined for teachers as                 ratings of classroom engagement during a given observation
+students listening to instructions, looking at assigned material,           period might be influenced by their knowledge of which
+and raising their hands for assistance. Teachers were asked to rate         condition (lesson in nature or lesson in the classroom) preceded
+the engagement not of individual students, but of the classroom             that observation period and their expectations for the effects
+as a whole, during the observation period.                                  of lessons in nature on classroom engagement. Redirects were
+                                                                            blind to condition, but we included a second “blind to condition”
+Student Ratings                                                             measure of classroom engagement, in which an independent
+Students also rated classroom engagement after each 20-min                  observer rated photographs of each observation period without
+observation period. Unlike the teacher ratings, the student ratings         knowing what kind of lesson had preceded it.
+consisted of three components. Each student rated their own                     Photographs were captured with a wide-angled camera
+engagement, the engagement of the students sitting close to them,           (Nikon P90) positioned on a tripod in front of the classroom
+and the engagement of the class as a whole on a 5-point scale               and programmed to automatically capture images of the class
+indicating the period of engagement (from 1 no time to 5 the                throughout the 20-min observation period. Each observation
+whole time).                                                                period was represented by 10 photos; hence the complete
+   Of the three types of engagement ratings—self, peer, and                 collection of photos rated by our independent observer consisted
+whole class—one turned out to be relatively uninformative                   of 400 photos, with each set of 10 photos corresponding to one of
+and was not further analyzed: students consistently rated their             the 40 observation periods in this study (one observation period
+own engagement highly and with little variance; perhaps as a                per week after the lesson in nature, another observation period
+consequence, this rating correlated relatively weakly with other            per week after its classroom-based counterpart, for each of two
+measures (see Supplementary Materials). Students’ ratings of                teachers, for a total of 10 weeks).
+the engagement of their seatmates and the class as a whole                      Our independent observer—an undergraduate student at
+were somewhat informative in that they were not at ceiling                  the University of Illinois at Urbana-Champaign—began by
+and showed some variance; students’ peer and whole class                    acquainting herself with the entire collection of 400 photos,
+ratings were therefore used as another measure of classroom                 without knowing which observation periods belonged to which
+engagement. For each classroom after a given lesson, students’              condition. This allowed her to calibrate her ratings of classroom
+peer engagement ratings and whole class engagement ratings                  engagement relative to both the typical levels of engagement seen
+were averaged to produce an average, student-based measure of               in the observation periods as well as the extremes. She then rated
+classroom engagement. This summary student-based measure                    classroom engagement for each observation period on the same
+of classroom engagement demonstrated high internal reliability              −2 to +2 scale as the teachers (from −2 much worse than usual to
+(Cronbach’s alpha = 0.869 for indoor lessons, 0.807 for outdoor             2 much better than usual, with 0 same as usual). The rater assessed
+lessons).                                                                   classroom engagement blind to condition; that is, she made her
+                                                                            ratings without knowing where the preceding lesson had taken
+“Redirects”                                                                 place (in nature vs. the classroom).
+Each time a teacher needed to stop instruction to redirect
+or correct student behavior—e.g., “sit down,” “you need to be               Constructing a Composite Index of Classroom
+working,” or “I will wait”—one “redirect” was tallied. “Redirects”          Engagement (CICE)
+reflect the number of instances tallied for a 20-min observation            Each of the component measures in our battery is valuable in its
+period. Redirects are a concrete and important indicator of how             own right. Teacher ratings and student ratings offer important
+well instruction is going. High levels of redirects indicate students       lenses on classroom engagement. Redirects, as counted by an
+are not attentive to instruction or tasks assigned. Further,                independent observer, provide external validation for teacher
+redirects themselves are likely to impact learning outcomes by              and student-ratings as well as a concrete measure of classroom
+reducing the coherence and flow of lectures and distracting                 engagement. Both redirects and the independent photo ratings
+students as they work on assigned tasks.                                    provide measures of classroom engagement uncontaminated by
+    MP, an investigator on this project and the social worker for           knowledge of condition. Table 1 illustrates how each of the
+the school where this study was conducted, was stationed at                 measures in our battery address different methodological criteria
+the back of the classroom during observation periods to record              for assessing classroom engagement. Together, the measures
+“redirects.” As the school social worker, the instructors and               in this battery provide a multifaceted measure of classroom
+students in this study were already comfortable with his presence           engagement, with the limitations of each measure countered by
+in the classroom. Pilot testing confirmed that he was able to               the strengths of another.
+observe the class from the back of the room without influencing                To create a single measure that draws on each of these
+class dynamics. Redirects were tallied “blind to condition”—that            different methodological strengths, we combined these
+is, the observer assessed redirects without knowing whether the             component measures into a single Composite Index of
+preceding lesson had been given indoors or outdoors.                        Classroom Engagement (CICE), which was the average of
+
+
+Frontiers in Psychology | www.frontiersin.org                           6                                      January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                  Refueling Students in Flight
+
+
+
+TABLE 1 | Measures and criteria for assessing classroom engagement.                     TABLE 2 | Means of classroom engagement measures by classroom.
+
+Measure                CRITERIA FOR ASSESSING CLASSROOM                                                                             Classroom A        Classroom B
+                                  ENGAGEMENT
+                                                                                                                        Range          M     SD         M        SD
+                       Incorporates      Incorporates       Provides Is blind to
+                       teacher           student            external   condition        Teacher ratings (−2–+2)         −2–2       0.70     1.34      0.55       1.23
+                       perceptions       perceptions        validation                  Student ratings (0–100)         62–93      81.29    8.09      79.00      7.55
+                                                                                        Redirects (tallied)              0–8       3.70     2.62      5.10       1.86
+Teacher ratings        Yes               –                  –         –
+                                                                                        Independent photo ratings       −2–2       0.35     1.42      0.65       0.99
+Student ratings        –                 Yes                –         –
+                                                                                        (−2–+2)
+Redirects              –                 –                  Yes       Yes
+                                                                                        Composite index of          −1.60–1.17     0.00     0.81      0.00       0.77
+Independent            –                 –                  –         Yes               classroom engagement
+photo ratings
+Composite index        Yes               Yes                Yes       Moderatelya
+of classroom
+                                                                                        TABLE 3 | Bivariate correlations between measures of classroom engagement
+engagement
+                                                                                        across 40 observation periods.
+a Two of four components of Index are blind to condition.
+                                                                                                                           1       2         3          4           5
+
+                                                                                        Teacher ratings (1)                –     0.48**    0.54**     0.87**     0.92**
+teacher ratings, student ratings, independent photo ratings, and                        Student ratings (2)                        –       0.25       0.32*      0.63**
+redirects. Because these measures are on different scales (e.g.,                        Redirect (3)                                         –        0.51**     0.70**
+from −2 to +2 for teacher and photo-based ratings, from 0 to 100                        Independent photo ratings (4)                                   –        0.86**
+for student ratings), data from each measure were standardized                          Composite index of classroom                                                –
+before averaging. Thus, for example, a teacher’s rating of                              engagement (5)
+classroom engagement for a given observation period would
+be expressed in terms of how that period’s rating differed from                         *p < 0.5, **p < 0.01.
+the mean rating for that teacher across all observation periods,
+in units of standard deviations. Redirects were reverse-coded
+                                                                                        and independent photo-based ratings were particularly highly
+(multiplied by −1.0) so that higher values would correspond to
+                                                                                        correlated with both each other (r = 0.87) and with our
+better classroom engagement, in line with the other components
+                                                                                        summary measure (r = 0.92). Student ratings of classroom
+of the Composite Index.
+                                                                                        engagement were significantly correlated with teacher ratings and
+                                                                                        independent photo-based ratings, but not significantly related to
+RESULTS                                                                                 the number of redirects in a given observation period.
+
+Descriptive Statistics and Bivariate                                                    Overall Condition Differences in Classroom
+Correlations                                                                            Engagement
+Descriptive statistics and bivariate correlations are presented                         Is classroom engagement higher after a lesson in nature than after
+in Tables 2, 3. Teacher ratings of class engagement tended                              a matched lesson in the classroom? Table 4 presents the results
+toward the positive, with average ratings falling between 0 usual                       of paired, two-tailed t-tests comparing classroom engagement
+and 1 better than usual. Student ratings of class engagement                            after lessons in nature vs. matched classroom lessons across the
+were quite positive, averaging roughly 80% on a 0–100% scale,                           10 different topics/weeks and two instructors. Lessons in nature
+with little variance. Redirects occurred with some frequency,                           show an advantage in subsequent classroom engagement over
+averaging 3.7 and 5.1 in the two classrooms, respectively, in                           classroom lessons for four of the five measures. Teacher ratings
+the 20-min observation window. And photo-based ratings of                               of classroom engagement are roughly a standard deviation
+class engagement also tended toward the positive, with average                          higher, on average, after a lesson in nature than its matched,
+ratings falling between 0 usual and 1 better than usual. As the                         classroom-based counterpart. Consistent with this, redirects were
+CICE (Composite Index of Classroom Engagement) is based on                              less frequent after a lesson in nature—in fact, the number
+the average of standardized scores across the four component                            of redirects after a lesson in nature was roughly half (54%)
+measures for each classroom, its means for each classroom were                          that of redirects after a classroom lesson. If we calculate the
+zero by definition. In two-sided t-tests for group differences                          rate of redirects by dividing the duration of our observation
+with an alpha of 0.05, the two classrooms did not significantly                         period (20 min) by the number of redirects, the nature condition
+differ from each other on any of the measures of classroom                              yielded a redirect rate of roughly one redirect per 6.5 min as
+engagement; thus data from the two classrooms were combined                             compared to a rate of one interruption of instruction every
+for further analysis except where otherwise noted.                                      3.5 min in the classroom condition. The independent, photo-
+   As Table 3 shows, our measures of classroom engagement                               based ratings of classroom engagement echo the teacher ratings.
+were generally highly correlated. The individual components                             And Composite Index of Classroom Engagement scores are
+of the CICE show high concurrent validity. Teacher ratings                              4/5ths of a standard deviation higher after lessons in nature than
+
+
+Frontiers in Psychology | www.frontiersin.org                                       7                                            January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                                  Refueling Students in Flight
+
+
+
+TABLE 4 | Classroom engagement is better after lessons in nature than lessons in the classroom by most measures: Findings for each measure of classroom
+engagement.
+
+                                                      Means                                     Paired differences
+
+                                         Nature               Classroom                 Mean                  Std. dev.                 t-value              df             Effect sizea
+
+Teacher ratings                             1.20                   0.05                  1.15                   1.79                   2.88**                19                 0.74
+Student ratings                           81.01                  79.27                   1.74                   6.56                   1.18                  19                 0.60
+Redirects                                   3.10                   5.70                −2.60                    2.62                   4.43***               19                 0.84b
+Independent photo ratings                   1.10                 −0.10                   1.20                   1.64                   3.27**                19                 0.77
+Composite index                             0.40                 −0.40                   0.80                   0.93                   3.83**                19                 0.81
+
+a Common language effect size (McGraw and Wong, 1992) also known as the probability of superiority (Grissom and Kim, 2005) expresses the effect size in percentages. In this table,
+
+it reflects the probability that the score for a given classroom engagement measure will be better after a lesson in nature than after a lesson in a classroom. Controlling for differences
+between classrooms in classroom engagement, the likelihood that a class will score higher on teacher ratings of classroom engagement after a lesson in nature than after a lesson in a
+classroom is 74%.
+b For ease of interpretation, all effect sizes reflect the likelihood of better class engagement after a lesson in nature than a matched classroom lesson; because class engagement is
+
+better when redirects are fewer, the effect size reported here reflects the likelihood that redirects are fewer after a lesson in nature. **p < 0.01, ***p < 0.001.
+
+
+
+after matched control lessons. Effect sizes for all measures but                                 checkmark = lesson in nature; purple circle = lesson in the
+the student ratings are substantial, indicating that the magnitude                               classroom), and the number of symbols indicate the extent of the
+of the difference between classroom-based lessons and nature-                                    advantage (no symbols = the conditions differed by less than half
+based lessons is not only statistically significant but practically                              a standard deviation; one = the conditions differed by between
+meaningful.                                                                                      0.5 and ≤1 standard deviation; two = between 1 and ≤2 standard
+   Bayesian statistical analyses yield similar results. The Bayes                                deviations; three = over 2 standard deviations).
+factor is a ratio of the likelihood of two hypotheses being correct                                  Figure 5 thus illustrates the consistency and size of the
+given a set of data. In this case, we compared the likelihood                                    nature advantage over the entire series of mini-experiments.
+that classroom engagement was better after outdoor lessons                                       Of the 100 nature vs. classroom comparisons, the majority of
+than after indoor lessons (H1 ) with the likelihood that it was                                  comparisons (61) show an advantage for the lesson in nature, 25
+not (H0 ). There was very strong evidence that the Composite                                     show small or no difference (less than half a standard deviation
+Index of Classroom Engagement was better after outdoor lessons                                   in either direction), and only 14 show an advantage for the
+than after indoor lessons—so much so that H1 was 33 times                                        classroom-based lesson. Further, the size of the nature advantage
+more likely to occur than H0 . In regard to individual measures,                                 is considerable: in 48 comparisons, the lesson in nature yielded
+redirects showed extreme evidence for H1 occurring, indicating                                   classroom engagement scores a full standard deviation larger
+increased classroom engagement after outdoor lessons (BF01                                       than its classroom-based counterpart; in 20 of these 48, the nature
+= 0.009, error percent 8.07e−7 ), while independent photo-                                       advantage was more than two standard deviations.
+based ratings of classroom engagement displayed strong evidence                                      Visual inspection for differences across measures suggests
+(BF01 = 0.091, error percent = 5.12e−4 ) and teacher ratings                                     that, of the four component classroom engagement measures,
+of classroom engagement presented moderate evidence (BF01 =                                      teacher ratings, redirects, and independent (photo-based) ratings
+0.18, error percent = 0.002) for this outdoor lesson advantage.                                  are reasonably sensitive. By contrast, student ratings appear to
+In contrast, student ratings of classroom engagement showed                                      be a relatively insensitive measure, showing fewer and smaller
+no evidence of nature lessons improving classroom engagement                                     condition differences than the other measures.
+afterward compared with indoor lessons (BF01 = 2.33, error                                           Similarly, visual inspection reveals no obvious trends in the
+percent = 0.014).                                                                                size of the nature advantage over the course of the semester;
+                                                                                                 consistent with this, a post-hoc, two-tailed independent t-test
+                                                                                                 comparing the difference between CICE scores for the first 5
+Condition Differences in Classroom                                                               weeks of the semester with CICE scores for the next 5 weeks
+Engagement for Different Classrooms,                                                             showed no significant difference, t (18) = −0.26, p = 0.80 (M
+Weeks, and Measures                                                                              = 0.86, SD = 1.00 for the first 5 weeks; M = 0.74, SD =
+Our research design involved 100 paired comparisons between                                      0.91 for the next 5 weeks). Interestingly, although one of the
+lessons in nature vs. their matched, classroom-based counterparts                                two teachers entered with some skepticism regarding the effects
+across two different instructors, 10 different topics and                                        of lessons in nature on subsequent classroom engagement, the
+weeks, and five different measures of classroom engagement.                                      nature advantage is visible in both instructors’ classes. Paired,
+To give a more fine-grained view of our results, Figure 5                                        two-tailed t-tests for each classroom show a significant effect
+schematically depicts the results for each of the 100 pairs of                                   of condition on classroom engagement for each instructor [t (9)
+comparisons. Symbols of different colors and shapes indicate                                     = 2.27, p = 0.049, for classroom a; t (9) = 3.07, p = 0.01, for
+which condition, if any, showed an advantage in subsequent                                       classroom b]. Bayesian statistical analyses confirmed there was
+classroom engagement in a given mini-experiment (green                                           no evidence for the first 5 weeks being different than the next
+
+
+Frontiers in Psychology | www.frontiersin.org                                               8                                                    January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                    Refueling Students in Flight
+
+
+
+
+ FIGURE 5 | Differences in classroom engagement after lessons in nature for different classrooms, weeks, and measures. Condition differences in classroom
+ engagement are depicted with symbols. The color and shape denotes the condition which yielded better classroom engagement, for a particular measure, classroom,
+ and week; when the lesson in nature outperformed its paired classroom lesson, there are green checkmark(s); when the lesson in the classroom outperformed its
+ paired nature lesson, there are purple circle(s). The number of symbols (checkmark or circle) represents the extent to which one condition outperformed the other, with
+ one symbol corresponding to a difference between half a standard deviation and a full standard deviation (>0.5 to ≤1), two symbols corresponding to a difference
+ between one and two standard deviations (>1 to ≤2), and three symbols corresponding to a difference of over two standard deviations. When the difference between
+ a lesson in nature vs. the classroom did not exceed half a standard deviation, no symbols are depicted.
+
+
+5 weeks (BF01 = 2.41, error percent = 2.31e−5 ). Also, Bayes                           nature condition in 48 pairs; in 20 of those 48, the nature
+factors showed moderate evidence for classroom a (BF01 = 0.20,                         condition bested its classroom counterpart by over two standard
+error percent = 3.41e−4 ) and anecdotal evidence for classroom b                       deviations. The rate of “redirects,” or instances where a teacher
+showing an outdoor lesson advantage (BF01 = 0.56, error percent                        interrupted the flow of instruction to redirect students’ attention,
+= 0.002).                                                                              was cut almost in half after a lesson in nature. Normally, these
+                                                                                       redirects occur roughly once every 3.5 min of instruction; after a
+                                                                                       lesson in nature, classroom engagement is such that teachers are
+DISCUSSION                                                                             able to teach for 6.5 min, on average, without interruption.
+
+What is the effect of lessons in nature on subsequent classroom                        Accounting for the Advantage of Lessons
+engagement? Do they leave pupils too keyed up to focus—as                              in Nature: Alternative Explanations
+some teachers worry—or do they enhance a class’ engagement—                            To what might we attribute the advantage of the lessons in
+as indirect evidence suggests they could? In this study, classroom                     nature here? There are any number of other factors that might
+engagement was significantly better after lessons in nature than                       affect classroom engagement: different teachers might be more
+after matched, classroom-based lessons. This nature advantage                          skilled at eliciting student engagement; some topics are more
+held for four of five measures of classroom engagement: teacher                        engaging than others; hands-on lessons might be more engaging
+ratings; redirects; independent, photo-based ratings; and our                          than lecture-based lessons; one set of students might be more
+summary index of classroom engagement all showed a substantial                         attentive than another; a smaller class might be more engaged
+advantage for the nature condition; student ratings did not.                           than one with more students; one classroom might be exposed
+Further, the nature advantage held across different teachers and                       to more distractions than another (for example, opening onto
+held equally over the initial and final 5 weeks of lessons.                            a particularly noisy hallway); engagement might peak at the
+    The nature advantage was substantial. Common language                              beginning of the school year and flag as the year wore on; and
+effect size calculations (McGraw and Wong, 1992) indicate                              students might find it easier to focus on schoolwork in the
+a strong advantage for lessons in nature—the likelihood that                           morning than the afternoon. If our nature lessons differed from
+Composite Index of Classroom Engagement scores are higher                              our classroom lessons in any of these respects, those differences
+after a lesson outdoors in nature than after a lesson in the                           could have conceivably accounted for our findings. But because
+classroom, in a class that receives both, is 81%. And the nature                       we only compared pairs of lessons matched on all those factors—
+advantage is large. Out of 100 paired comparisons, classroom                           same teacher, same topic, same instructional approach, etc.—
+engagement was over a full standard deviation better in the                            none of those factors can account for the findings here.
+
+
+Frontiers in Psychology | www.frontiersin.org                                      9                                              January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                               Refueling Students in Flight
+
+
+
+    Nor could positive expectations have driven the nature                ingredient(s) in a lesson in nature? Previous research suggests a
+advantage here. It is true that one of the two teachers was               number of possibilities; each of these factors might contribute.
+predisposed to think the lesson in nature might have a positive           First, the relatively natural setting of the outdoor lessons may
+effect on subsequent classroom engagement. Those positive                 contribute to subsequent classroom engagement. As discussed in
+expectations might have led her to view classroom engagement              the Introduction, exposure to nature has immediate, beneficial
+after the outdoor lesson more positively (which might have                aftereffects on both attention and stress, and is likely to enhance
+boosted teacher ratings of engagement but would not have                  motivation as well. Further contact with nature has also been
+affected our independent photo-based ratings), or might even, in          shown to improve self-discipline and impulse control (e.g., Faber
+a variant of the Pygmalion effect, have inspired her to teach more        Taylor et al., 2002; van den Berg and van den Berg, 2011)—thus a
+effectively afterwards (which would have boosted both teacher             lesson in nature might conceivably yield a quieter, less disruptive
+ratings and independent photo-based ratings). At the same time,           classroom afterwards. It is interesting to note that the large effect
+the other teacher expected the opposite pattern; on the whole,            sizes here were obtained despite the fact that the classrooms
+she thought that the lesson in nature might leave students too            both had windows and therefore afforded some limited view of
+keyed up to concentrate. If the nature advantage was due entirely         greenness. This has some precedent; previous findings have tied
+to teacher expectations it is not clear why both teachers showed          better outcomes for children’s attention from being in nature than
+the nature advantage.                                                     from simply looking at it (Faber Taylor et al., 2001).
+    It should be noted that teacher expectations about the impacts            Second, the sheer break from classroom activity involved in
+of nature on subsequent classroom engagement may have                     the walks to and from the classroom, and the change in scenery
+become more positive over the course of the study, contributing           involved in the lesson in nature probably contribute to students’
+to the nature advantage. However, this begs the question, why did         subsequent rejuvenation. Again, although this study involved
+teachers’ expectations about the impacts of nature become more            formal instruction, not recess, Pellegrini and Davis (1993) and
+positive with experience if not because they had seen the positive        Pellegrini et al. (1995) found that elementary school children
+impacts? Thus, a change in teacher expectations may well reflect,         become progressively inattentive when recess is delayed. Another
+as well as contribute to, the nature advantage.                           experimental study (Jarrett et al., 1998) found that fourth-graders
+    The novelty of the setting cannot account for the nature              were more on-task and less fidgety in the classroom on days
+advantage, either. If the nature advantage in subsequent                  when they had had recess, with hyperactive children among those
+classroom engagement were due to the novelty of the setting,              who benefited the most. Thus, providing a lesson in nature may
+we would expect it to decrease over the course of the semester            provide many of the same benefits normally accrued through
+as students habituated to having lessons outdoors. But the                recess.
+nature advantage, as measured by the difference between nature-               The education outside the classroom (EotC) literature
+based lessons vs. classroom-based lessons in composite scores of          provides converging findings. Although EotC studies examine
+classroom engagement afterward, was relatively stable over the            instruction not just in nature but also in museums and other
+course of the study. The nature advantage for the first 5 weeks           settings outside the classroom, those studies all involve a change
+of the semester and when the setting was relatively new was not           in scenery and some break from classroom activity to get to the
+statistically different from the nature advantage for the second 5        alternate settings. Available evidence suggests that the social and
+weeks—when students had acclimated to lessons outdoors.                   learning outcomes of education outside the classroom are almost
+    Along similar lines, novelty of topic might have accounted            entirely positive (see Becker et al., 2017, for review). If a brief
+for differences in classroom engagement; each week in the study           break from classroom activity and change of scenery suffice to
+corresponded to a new topic, and if the nature lesson on a                deliver the improvements in subsequent classroom engagement
+topic had generally preceded its classroom counterpart, students          seen here, teachers might experiment with simply taking their
+might have found the nature lesson more stimulating and been              class to the gym for a lesson, or swapping classrooms with
+more engaged afterwards because of the change in topic and                another teacher.
+not because of the setting. But the order of indoor and outdoor               Similarly, the work on school garden-based learning suggests
+lessons was counterbalanced such that the lesson in nature came           that student interest and motivation may improve when
+before its classroom counterpart four times and after it six times        instruction is set outdoors in green areas, perhaps because of
+for each teacher.                                                         the greater autonomy and opportunities for social connection
+    In the absence of other viable explanations for the systematic        afforded by most garden-based curricula (Skinner et al., 2012;
+pattern of superior classroom engagement after lessons in nature,         for a review of the role of autonomy and relatedness in
+it would appear that the lessons in nature boost subsequent               motivation in educational settings, see Deci et al., 2011). While
+classroom engagement.                                                     the findings here echo those, it is important to note that
+                                                                          the lessons in nature here were formal and constructed to
+                                                                          match those offered indoors; this was not informal learning but
+Accounting for the Advantage of Lessons                                   rather teacher-led, formal learning with the usual rules against
+in Nature: Active Ingredients                                             students engaging in autonomous behavior or socializing—thus
+If lessons in nature boost subsequent classroom engagement,               any effects of increased autonomy and relatedness would have
+this raises another question: what about lessons in nature might          to have occurred primarily in the walk to and from the outdoor
+account for this effect? That is, what is (or are) the active             lessons.
+
+
+Frontiers in Psychology | www.frontiersin.org                        10                                       January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                     Refueling Students in Flight
+
+
+
+    Third, physical activity might also play a part: 10-min physical           we might still expect an advantage for lessons outdoors if the
+activity breaks during the school day have been shown to boost                 environment is reasonably safe, as some evidence suggests that
+classroom engagement (Mahar, 2011), and the lesson in nature                   outdoor settings without vegetation have effects better than
+here included two 5 min (or less) walks between the classroom                  indoor settings although not as good as green outdoor settings
+and the outdoor teaching setting, raising the possibility that the             (Kuo and Faber Taylor, 2004). In schools with considerably
+boost in classroom engagement here was due entirely to those                   greener surrounds, lessons in nature might have even larger
+walks. This seems unlikely; most studies in the physical activity-             impacts on classroom engagement; in one of the few studies
+classroom engagement literature have examined either brief                     including a wide of levels of nearby nature, the more natural a
+bouts of intense physical activity (e.g., Mahar, 2011), or frequent,           students’ dormitory view, the better their cognitive performance
+longer bouts of moderate physical activity—for example, one                    (Tennessen and Cimprich, 1995).
+study examined the effects of adding roughly 190 min per week                      The students in this study were predominantly low-income,
+of moderate to vigorous physical activity—running, jump rope,                  students of color. In students facing challenges associated with
+hopping on one foot—over the course of 10 months (e.g., Kvalø                  poverty, minority status, or both, academic achievement is a
+et al., 2017). The dose of physical activity here was brief, light in          pressing concern—in a comparison of rich and poor school
+intensity, and infrequent (two, 5 min walks per week). It seems                districts, sixth graders in the richest school districts are four grade
+likely that the physical activity involved in this study contributed           levels ahead of children in the poorest districts, and differences
+to some but not all of the effects seen here.                                  in socioeconomic status explain much but not all racial/ethnic
+    Fourth and finally, another contributing factor may have been              differences in outcomes (Reardon et al., 2016). In this population,
+impacts on teachers. Teachers, just as much as students, might                 then, the finding of an inexpensive educational practice with a
+benefit from all these aspects of lessons in nature—perhaps                    consistent, large, positive effect on classroom engagement raises
+teachers are able to teach in a more engaging way after a bit of               exciting possibilities. As for other populations, the available
+walking, a bit of a breather and change in scenery, and a dose of              evidence suggests that similar effects might obtain: in the
+nature has rejuvenated their attention and interest and reduced                greenspace-academic achievement literature (e.g., Matsuoka,
+their stress levels. If so, simply giving teachers a break, a walk, and        2010; Wu et al., 2014), schools with lower numbers of free-lunch
+a dose of nature while their students continued formal instruction             eligible students and non-Whites show positive relations between
+might yield the same benefits to classroom engagement seen here.               nearby greenspace and standardized test scores.
+    Each of these active ingredients has, in theory, the potential                 The teachers in the study were both highly experienced, had
+to singly explain the effect of lessons in nature on classroom                 had in-service training in outdoor and environmental education,
+engagement. Given the size of the nature advantage found here,                 and were open-minded as to what the study might reveal.
+it seems likely that the effect reflects the joint impact of all these         It seems plausible that teachers without such training, and
+factors.                                                                       teachers adamantly opposed to lessons in nature, might show
+                                                                               smaller effects or even none at all. Their relevant in-service
+Generalizability                                                               training is likely to have given the teachers more confidence in
+The lessons in nature here involved a particular “dose” (duration,             offering lessons in nature, and as highly experienced instructors,
+intensity, and frequency) of naturalness, administered in a                    they may have been more adept at recognizing the need
+particular way, to a particular population of students by a                    for adjustments and making them. Thus, the effects found
+particular set of teachers. Here, we consider reasons why                      here might reflect these teachers’ background in outdoor and
+the nature advantage might or might not generalize to other                    environmental education. At the same time, teachers with
+conditions, students, and teachers.                                            their background might well be precisely the population of
+    The lessons in nature in this study involved a 5-min walk from             teachers most ready and willing to try offering lessons in
+the classroom out to a grassy outdoor area with some nearby trees              nature.
+(Figure 2) for a 30-min instructional period, followed by a walk
+back to the classroom, followed by a 5-min break—the classroom
+lesson involved no walking, and a 40-min instructional period                  Contributions to the Science of
+followed by a 5-min break.                                                     Nature-Based Learning
+    In combination with the study design, the findings here                    The findings here fill a gap in the previous literature on
+suggest the nature advantage could apply in a variety of                       the impacts of nature on human functioning. On the one
+conditions. The nature advantage persisted across 10 different                 hand, previous experimental work has shown immediate
+topics and weeks in the school year; across different times                    aftereffects of contact with nature on basic psychological
+of day; across two different teachers, including one who was                   processes relevant to classroom engagement—attention,
+predisposed to expect the opposite; and across two different                   intrinsic interest in learning, impulse control, stress, and the
+groups of students, each with their own dynamics.                              effects of physical activity on cognitive functioning. On the
+    The levels of vegetation here (Figure 2) do not seem entirely              other, large-scale correlational work has tied greener near-
+out of keeping with other schools; schools with similar levels                 school landscapes with better school-level performance on
+of vegetation within walking distance might reasonably expect                  standardized academic achievement tests—even after controlling
+similar effects to those here. But many urban schools might                    for socioeconomic and other factors. These two lines of
+have more barren schoolyards and surrounds—in those schools,                   investigation examine different kinds of functioning, scales of
+
+
+Frontiers in Psychology | www.frontiersin.org                             11                                        January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                Refueling Students in Flight
+
+
+
+analysis, and units of time. The work here bridges the two lines            be worth the trouble of collecting. Teacher ratings, by contrast,
+of investigation, pointing to a potential pathway between the               are quickly and easily collected, and seem an invaluable source
+two.                                                                        of data as they reflect teachers’ self-reflections on how easy
+    Boosts in classroom engagement might be a steppingstone                 or difficult students were to engage. Redirects—instances in
+by which nature’s immediate, short-term effects on basic                    which the instructor stopped instruction to redirect or correct
+psychological processes might ultimately translate into boosts              student behavior, “sit down,” or “I will wait”—are a concrete and
+in long-term academic outcomes at the school level. Boosting                important indicator of how well instruction is going. High levels
+attention, intrinsic motivation, and discipline simultaneously              of redirects indicate students are not attentive to instruction or
+while reducing stress within the same individual seems likely               tasks assigned. Further, redirects themselves are likely to impact
+to have synergistic effects in student-level engagement. Across             learning outcomes by reducing the coherence and flow of lectures
+pupils in the same class, boosting engagement in multiple                   and distracting students as they work on assigned tasks. And
+students simultaneously is likely to result in synergies as well;           the use of photo-based independent ratings allows ratings of
+when many, if not all, of the students in a class are quieter, more         classroom engagement to be made blind to condition and outside
+focused and less disruptive, classroom engagement is likely to be           of the teacher’s perceptions or biases, without having to introduce
+much fuller and more sustained. These two synergies—between                 an experimenter in the classroom.
+different psychological processes within individual students, and
+between students within a class—may explain the size of the                 Implications for Educational Practice
+nature advantage seen here at the classroom level. Furthermore,             The findings here provide some support and guidance for
+because classroom engagement is an important contributor to                 including more lessons in nature in formal education. For
+long-term academic achievement (Skinner and Belmont, 1993;                  teachers who have been intrigued by the potential of lessons
+Godwin et al., 2016), regular episodes of exceptional classroom             in nature but have been concerned about negative aftereffects
+engagement over the course of a school year might have a                    on classroom engagement, the findings here directly address
+surprisingly large cumulative effect on learning. Theoretically,            that concern. For environmental educators who have been
+this may help explain how relatively small differences in near-             shunted aside in favor of spending instructional time on drill
+school green cover have been tied to significant differences in             and practice for standardized achievement tests, the findings
+end-of-year standardized test performance (Matsuoka, 2010; Wu               here may offer a valuable argument for outdoor environmental
+et al., 2014; Hodson and Sander, 2017; Kweon et al., 2017;                  lessons. The findings here also offer some encouragement for
+Browning et al., in review; Kuo et al., in review).                         teachers interested in trying to adopt experiential approaches
+    For scientists interested in examining the impacts of lessons in        to education, which are particularly well-suited for lessons
+nature on classroom engagement—or, more generally, following                in nature. Such approaches allow students to actively use
+changes in classroom engagement over time—the Composite                     the outdoors to apply theoretical knowledge “in the field”
+Index of Classroom Engagement and its constituent components                and undertake problem-solving and decision-making in real
+may be of use. The CICE differs from other measures of                      world scenarios. These processes may be more effective at
+engagement in two ways. First, it focuses on engagement at the              instilling and scaffolding long-term knowledge acquisition
+level of the classroom rather than the individual student (for a            than other instructional strategies (Ballantyne and Packer,
+review of 21 measures of individual student-level engagement,               2002). Curriculum that could benefit from learning styles
+see Fredricks et al., 2011). And second, our measure is designed            beyond auditory and visual are also particularly well-suited
+to provide a global assessment of classroom engagement for                  for lessons in nature, because the diversity of topography
+a class within a specified time window, and to allow tracking               and vegetation in natural landscapes also provide unique
+changes within a class over time. By contrast, the similarly                kinesthetic learning opportunities (Fjørtoft and Sageie, 2000;
+titled “Classroom Engagement Inventory” (CEI) (Wang et al.,                 Auer, 2008).
+2014) was designed to quantify differences between classrooms                   While we do not know to what situations and populations
+in classroom engagement. Although our CICE can also be used                 the effects here will generalize, the consistency and size of the
+to compare different classrooms, it does not separately assess the          effects here suggest that lessons in nature are worth trying in
+affective, behavioral, and cognitive dimensions of engagement               a broad range of settings (for resources on how to start, see
+as the CEI does; however the CICE does have the advantage of                Supplementary Materials). It is worth noting that the nature
+incorporating teacher’s perceptions without relying entirely on             advantage, while consistent, did not occur in every pair of lessons;
+teacher report.                                                             notably, for one teacher the first classroom lesson outperformed
+    We recommend future researchers use the measures showing                its outdoor counterpart. Thus, we encourage teachers to try at
+the highest concurrent validity and sensitivity to the intervention         least two or three lessons in nature before assessing their value.
+here: teacher ratings, redirects, and independent photo-based                   More broadly, the findings here underscore the growing
+ratings, and a composite measure. Although student-based                    view that classroom engagement is at least as limited and
+ratings of classroom engagement—or more specifically student                valuable a resource as instructional time. With the advent of
+ratings of peer engagement and whole class engagement—                      No Child Left Behind legislation, the vast majority of U.S.
+had reasonable levels of interrater reliability and correlated              school administrators reduced or completely cut recess time
+positively with other measures of engagement, they were not                 and other breaks during the school day, with the primary
+sensitive to condition differences in engagement and may not                motivation of providing more instructional time for standardized
+
+
+Frontiers in Psychology | www.frontiersin.org                          12                                      January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                               Refueling Students in Flight
+
+
+
+test preparation (Robert Wood Johnson Foundation, 2010).                    on classroom engagement suggest potentially large boosts in
+Instructional time has been viewed by many administrators as                academic achievement.
+the key, limited resource for improving academic achievement;                  A third priority for research should be to establish the
+consequently, the de facto approach to increasing student                   generality of the effects here. The success of this intervention
+learning has been to free up instructional time by cutting school           in two real-world classrooms over a variety of lessons, weather
+activities seen to be unhelpful to standardized test preparation—           conditions, and initial teacher expectations invites expanded
+recess, physical education, art, music, theater, etc. Yet increasing        testing. Does it matter what the subject of the lesson in
+the number of hours in the classroom does not translate                     nature was? In this study, the topics all fell within the general
+to increasing the number of hours of student are attentively                domain of biology. Might a poetry class held outdoors have
+learning (Gettinger and Seibert, 2002). Estimates suggest students          similar effects? Similarly, the teachers here were experienced
+spend 10–50% of their time at school unengaged and off-task                 and highly trained; might less seasoned instructors have less
+(Hollowood et al., 1994). Like pouring tea into an already full             success managing an outdoor class? Further, in this study the
+teapot, giving teachers more time to deliver standardized test              students came from largely disadvantaged, urban neighborhoods;
+content is of little value if the vessels are unable to receive.            to the extent that these populations might experience less
+Thus, classroom engagement may in fact be the key, limited                  contact with nature than others, perhaps the impact of
+resource in academic achievement. Seen in this light, the net               even small doses of nature is heightened. Future research
+benefits of recess, art, music, theater, and physical education             on the aftereffects of lessons in nature should incorporate
+for subsequent classroom engagement may easily exceed the                   students from less urban, less disadvantaged contexts, as
+tradeoff in instructional time—even apart from their inherent               well.
+value.
+
+Priorities for Future Research                                              CONCLUSION
+In our view, three tasks are pressing for future research: first,
+                                                                            This study is the first to our knowledge to directly examine
+mapping the dose-response curve; second, assessing the net
+                                                                            the effects of lessons in nature on subsequent classroom
+impact of lessons in nature for academic achievement; and third,
+                                                                            engagement. We found higher levels of classroom engagement
+establishing the generality of the effects here.
+                                                                            after lessons in nature than after carefully matched classroom-
+   A map of the dose-response curve would be of great practical
+                                                                            based counterparts; these differences could not be explained by
+value. How “natural” does a landscape need to be to boost
+                                                                            differences in teacher, instructional approach, class (students,
+classroom engagement? If a small investment in vegetation
+                                                                            classroom, and class size), time of year, or time of day, nor
+outside a school can enable teachers to teach longer periods
+                                                                            the order of the indoor and outdoor lessons on a given
+uninterrupted, such effects might ultimately translate to greater
+                                                                            topic. It would seem that lessons in nature boost subsequent
+academic achievement in students, and more job satisfaction
+                                                                            classroom engagement, and boost it a great deal; after a
+and less burnout among teachers. Similarly, studying larger
+                                                                            lesson in nature, teachers were able to teach for almost twice
+doses than those here may reveal even larger benefits. The
+                                                                            as long without having to interrupt instruction to redirect
+fact that the effect of each outdoor lesson does not diminish
+                                                                            students’ attention. This nature advantage persisted across 10
+even as such lessons become routine suggests that adding more,
+                                                                            different weeks and lesson topics, and held not only for a
+or longer, lessons might yield proportionately large benefits.
+                                                                            teacher with positive expectations for nature-based lessons but
+Perhaps instead of going out for lessons once a week, students
+                                                                            also for a teacher who anticipated negative effects of such
+might go out once or twice a day. Similarly, more prolonged
+                                                                            lessons. The findings here suggest that lessons in nature allow
+or more intense doses of nature might be worth testing, such
+                                                                            students to simultaneously learn classroom curriculum while
+as is typical in “all-weather schools” or “outdoor schools” in
+                                                                            rejuvenating their capacity for learning, or “refuel in flight.”
+Europe (Bentsen and Jensen, 2012). The larger landscape of
+                                                                            Because providing children with more contact with nature in
+the school in this study included a fishing stream and 30
+                                                                            the course of the school day is likely to yield a whole host
+acres of woodlands and open space that might theoretically
+                                                                            of additional dividends as well, including improved physical
+be resources for lessons in nature, but the teachers in this
+                                                                            and mental health (see Chawla, 2015 for review), the findings
+study were reluctant to sacrifice the necessary instructional
+                                                                            here argue for including more lessons in nature in formal
+time to walk to those areas. The findings here suggest that the
+                                                                            education.
+benefits of such larger doses of nature might be well worth
+investigating.
+   In addition to mapping the dose-response curve, there is a               ETHICS STATEMENT
+pressing need to quantify the net impact of lessons in nature on
+academic achievement. Substantial evidence points to lessons in             This study was carried out in accordance with the
+nature enhancing learning of the material in those lessons; to              recommendations for the Protection of Human Subjections,
+what extent do lessons in nature enhance learning of the material           Institution Review Board, University of Illinois at Urbana-
+in subsequent lessons? What is the net effect on academic                   Champaign. Parents gave written informed consent in
+achievement, given that some instructional time is spent on                 accordance with the Declaration of Helsinki. The protocol
+walking to and from lesson sin nature? The large effects here               was approved by both the University of Illinois at Urbana
+
+
+Frontiers in Psychology | www.frontiersin.org                          13                                     January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                             Refueling Students in Flight
+
+
+
+Champaign Institutional Review Board and the Indianapolis                                     “Impacts of Schoolyard Nature on Children’s Learning,” Project
+Public Schools Department of Research, Evaluation and                                         ILLU-875-933.
+Assessment.
+                                                                                              ACKNOWLEDGMENTS
+AUTHOR CONTRIBUTIONS
+                                                                                              We appreciate the staff at Cold Spring Environmental
+MK was involved in study design, the development of measures,                                 Studies Magnet School for allowing us to conduct this
+data acquisition, data analysis, and manuscript writing. MB                                   study with their students on their campus. This study
+was involved in data analysis and manuscript writing. MP was                                  would not have been possible without Ms. Howard’s and
+involved in the study design, the development of measures,                                    Mrs. Carder’s work in devising, coordinating, and conducting
+data acquisition, and data analysis, and commented on the                                     the lessons examined in this study, as well as collecting
+manuscript.                                                                                   classroom engagement; we are deeply grateful for their
+                                                                                              leadership.
+FUNDING
+                                                                                              SUPPLEMENTARY MATERIAL
+Funds for undergraduate coders who assisted in photo-based
+ratings and retrieving articles for this study were provided                                  The Supplementary Material for this article can be found
+by a grant from the US Department of Agriculture National                                     online at: https://www.frontiersin.org/articles/10.3389/fpsyg.
+Institute of Food and Agriculture to Frances (Ming) Kuo on                                    2017.02253/full#supplementary-material
+
+
+
+REFERENCES                                                                                    Faber Taylor, A., Kuo, F. E., and Sullivan, W. C. (2002). Views of nature and self-
+                                                                                                  discipline: evidence from inner city children. J. Environ. Psychol. 22, 49–63.
+Auer, M. R. (2008). Sensory perception, rationalism and outdoor environmental                     doi: 10.1006/jevp.2001.0241
+   education. Int. Res. Geogr. Environ. Educ. 17, 6–12. doi: 10.2167/irgee225.0               Fägerstam, E., and Blom, J. (2012). Learning biology and mathematics
+Ballantyne, R., and Packer, J. (2002). Nature-based excursions: school students’                  outdoors: effects and attitudes in a Swedish high school context. J.
+   perceptions of learning in natural environments. Int. Res. Geogr. Environ. Educ.               Adventure Educ. Outdoor Leadersh. 13, 56–75. doi: 10.1080/14729679.2011.
+   11, 218–236. doi: 10.1080/10382040208667488                                                    647432
+Becker, C., Lauterbach, G., Spengler, S., Dettweiler, U., and Mess, F. (2017). Effects        Fjørtoft, I., and Sageie, J. (2000). The natural environment as a playground for
+   of regular classes in outdoor education settings: a systematic review on students’             children: landscape description and analyses of a natural playscape. Landsc.
+   learning, social, and health dimensions. Int. J. Environ. Res. Public Health                   Urban Plan. 48, 83–97. doi: 10.1016/S0169-2046(00)00045-1
+   14:485. doi: 10.3390/ijerph14050485                                                        Fredricks, J., McColskey, W., Meli, J., Mordica, J., Montrosse, B., and Mooney,
+Bell, A., and Dyment, J. E. (2008). Grounds for health: the intersection of green                 K. (2011). Measuring Student Engagement in Upper Elementary Through
+   school grounds and health-promoting schools. Environ. Educ. Res. 14, 77–90.                    High School: a Description of 21 Instruments. Issues & Answers Report, REL
+   doi: 10.1080/13504620701843426                                                                 2011–No. 098. Washington, DC: U.S. Department of Education; Institute of
+Bentsen, P., and Jensen, F. S. (2012). The nature of udeskole: outdoor learning                   Education Sciences; National Center for Education Evaluation and Regional
+   theory and practice in Danish schools. J. Advent. Educ. Outdoor Leadersh. 12,                  Assistance; Regional Educational Laboratory Southeast. Available online at:
+   199–219. doi: 10.1080/14729679.2012.699806                                                     http://ies.ed.gov/ncee/edlabs
+Chawla, L. (2015). Benefits of nature contact for children. J. Plan. Lit. 30, 433–452.        Gettinger, M., and Seibert, J. K. (2002). “Best practices in increasing academic
+   doi: 10.1177/0885412215595441                                                                  learning time,” in Best Practices in School Psychology IV, eds A. Thomas
+Deci, E. L., Vallerand, R. J., Pelletier, L. G., and Ryan, R. M. (2011). Motivation               and J. Grimes (Bethesda, MD: National Association of School Psycologists),
+   and Education: the self-determination perspective. Educ. Psychol. 26, 325–346.                 773–787.
+   doi: 10.1080/00461520.1991.9653137                                                         Godwin, K. E., Almeda, M. V., Seltman, H., Kai, S., Skerbetz, M. D., Baker, R. S.,
+Dettweiler, U., Becker, C., Auestad, B. H., Simon, P., and Kirsch, P. (2017). Stress              et al. (2016). Off-task behavior in elementary school children. Learn Instruc. 44,
+   in school. Some empirical hints on the circadian cortisol rhythm of children                   128–143. doi: 10.1016/j.learninstruc.2016.04.003
+   in outdoor and indoor classes. Int. J. Environ. Res. Public Health 14:475.                 Grannis, J. C. (1992). Students’ stress, distress, and achievement
+   doi: 10.3390/ijerph14050475                                                                    in an Urban intermediate school. J. Early Adolesc. 12, 4–27.
+Dettweiler, U., Ünlü, A., Lauterbach, G., Becker, C., and Gschrey, B.                             doi: 10.1177/0272431692012001001
+   (2015). Investigating the motivational behavior of pupils during outdoor                   Grissom, R. J., and Kim, J. J. (2005). Effect sizes for Research: A Broad Practical
+   science teaching within self-determination theory. Front. Psychol. 6:125.                      Approach. Organ. Res. Methods 10, 542–545. doi: 10.1177/1094428106295495
+   doi: 10.3389/fpsyg.2015.00125                                                              Hodson, C. B., and Sander, H. A. (2017). Green urban landscapes and
+Ernst, J., and Stanek, D. (2006). The prairie science class: a model for re-visioning             school-level academic performance. Landsc. Urban Plan. 160, 16–27.
+   environmental education within thenational wildlife refuge system. Hum.                        doi: 10.1016/j.landurbplan.2016.11.011
+   Dimens. Wildl. 11, 255–265. doi: 10.1080/10871200600803010                                 Hollowood, T. M., Salisbury, C. L., and Rainforth, B. (1994). Use of instructional
+Ernst, J., and Tornabene, L. (2012). Preservice early childhood educators’                        time in classrooms serving students with and without severe disabilities. Except.
+   perceptions of outdoor settings as learning environments. Environ. Educ. Res.                  Child. 61, 242–252. doi: 10.1177/001440299506100304
+   18, 643–664. doi: 10.1080/13504622.2011.640749                                             Jarrett, O. S., Maxwell, D. M., Dickerson, C., Hoge, P., Davies, G.,
+Faber Taylor, A., and Kuo, F. E. (2009). Children with attention deficits                         and Yetley, A. (1998). The impact of recess on classroom behavior:
+   concentrate better after walk in the park. J. Atten. Disord. 12, 402–409.                      group effects and individual differences. J. Educ. Res. 92, 121–126.
+   doi: 10.1177/1087054708323000                                                                  doi: 10.1080/00220679809597584
+Faber Taylor, A., Kuo, F. E., and Sullivan, W. (2001). Coping with ADD: the                   Kaplan, S. (1995). The restorative benefits of nature: toward
+   surprising connection to green play settings. Environ. Behav. 33, 54–77.                       an integrative framework. J. Environ. Psychol. 15, 169–182.
+   doi: 10.1177/00139160121972864                                                                 doi: 10.1016/0272-4944(95)90001-2
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                            14                                                January 2018 | Volume 8 | Article 2253
+Kuo et al.                                                                                                                                              Refueling Students in Flight
+
+
+
+Kuo, F. E. (2015). How might contact with nature promote human health?                          Reardon, S. F., Kalogrides, D., and Shores, K. (2016). The Geography of
+    Promising mechanisms and a possible central pathway. Front. Psychol. 6:1093.                   Racial/Ethnic Test Score Gaps (CEPA Working Paper No.16-10). Stanford Center
+    doi: 10.3389/fpsyg.2015.01093                                                                  for Education Policy Analysis. Available online at: http://cepa.stanford.edu/
+Kuo, F. E., and Faber Taylor, A. (2004). A potential natural treatment for Attention-              wp16-10
+    Deficit/Hyperactivity Disorder: evidence from a national study. Am. J. Public               Robert Wood Johnson Foundation (2010). The State of Play: Gallup Survey of
+    Health. 94, 1580–1586. doi: 10.2105/AJPH.94.9.1580                                             Principals on School Recess. Princeton, NJ: Robert Wood Johnson Foundation.
+Kvalø, S. E., Bru, E., Brønnick, K., and Dyrstad, S. M. (2017). Does increased                  Sievertsen, H. H., Gino, F., and Piovesan, M. (2016). Cognitive fatigue influences
+    physical activity in school affect children’s executive function and aerobic                   students’ performance on standardized tests. Proc. Natl. Acad. Sci. U.S.A. 113,
+    fitness? Scand. J. Med. Sci. Sports 27, 1833–1841. doi: 10.1111/sms.12856                      2621–2624. doi: 10.1073/pnas.1516947113
+Kweon, B.-S., Ellis, C. D., Lee, J., and Jacobs, K. (2017). The link between school             Skinner, E. A., and Belmont, M. J. (1993). Motivation in the classroom: reciprocal
+    environments and student academic performance. Urban For. Urban Green.                         effects of teacher behavior and student engagement across the school year. J.
+    23, 35–43. doi: 10.1016/j.ufug.2017.02.002                                                     Educ. Psychol. 85, 571–581. doi: 10.1037/0022-0663.85.4.571
+Leppink, E. W., Odlaug, B. L., Lust, K., Christenson, G., and Grant, J. E. (2016). The          Skinner, E. A., Chi, U., and The Learning-Gardens Educational Assessment
+    young and the stressed: stress, impulse control, and health in college students.               Group (2012). Intrinsic motivation and engagement as “Active
+    J. Nerv. Ment. Dis. 204, 931–938. doi: 10.1097/NMD.0000000000000586                            Ingredients” in garden-based education: examining models and measures
+Li, D., and Sullivan, W. C. (2016). Impact of views to school landscapes on                        derived from self-determination theory. J. Environ. Educ. 43, 16–36.
+    recovery from stress and mental fatigue. Landsc. Urban Plan. 148, 149–158.                     doi: 10.1080/00958964.2011.596856
+    doi: 10.1016/j.landurbplan.2015.12.015                                                      Tennessen, C. M., and Cimprich, B. (1995). Views to nature: effects on attention. J.
+Lieberman, G. A., and Hoody, L. L. (1998). Closing the achievement gap. Educ.                      Environ. Psychol. 15, 77–85. doi: 10.1016/0272-4944(95)90016-0
+    Leadersh. 58, 1–16.                                                                         van den Berg, A. E., and van den Berg, C. G. (2011). A comparison of children
+Mahar, M. T. (2011). Impact of short bouts of physical activity on                                 with ADHD in a natural and built setting. Child Care Health Dev. 37, 430–439.
+    attention-to-task in elementary school children. Prev. Med. 52, S60–S64.                       doi: 10.1111/j.1365-2214.2010.01172.x
+    doi: 10.1016/j.ypmed.2011.01.026                                                            van den Berg, A. E., Wesselius, J. E., Maas, J., and Tanja-Dijkstra, K. (2017). Green
+Matsuoka, R. H. (2010). Student performance and high school                                        walls for a restorative classroom environment: a controlled evaluation study.
+    landscapes: examining the links. Landsc. Urban Plan. 97, 273–282.                              Environ. Behav. 49, 791–813. doi: 10.1177/0013916516667976
+    doi: 10.1016/j.landurbplan.2010.06.011                                                      Wang, Z., Bergin, C., and Bergin, D. A. (2014). Measuring engagement in fourth
+McGraw, K. O., and Wong, S. P. (1992). A common language effect size statistic.                    to twelfth grade classrooms: the classroom engagement inventory. Sch. Psychol.
+    Psychol. Bull. 111, 361–365. doi: 10.1037/0033-2909.111.2.361                                  Quart. 29:517. doi: 10.1037/spq0000050
+Monroe, M. C. (2003). Two avenues for encouraging conservation behaviors. Hum.                  Wiens, V., Kyngäs, H., and Pölkki, T. (2016). The meaning of seasonal changes,
+    Ecol. Rev. 10, 113–125.                                                                        nature, and animals for adolescent girls’ wellbeing in northern Finland: a
+Mygind, E. (2009). A comparison of children’s statements about social relations                    qualitative descriptive study. Int. J. Qual. Stud. Health Well-being 11:30160.
+    and teaching in the classroom andin the outdoor environment. J. Advent. Educ.                  doi: 10.3402/qhw.v11.30160
+    Outdoor Learn. 9, 151–169. doi: 10.1080/14729670902860809                                   Wistoft, K. (2013). The desire to learn as a kind of love: gardening, cooking, and
+Ohly, H., White, M. P., Wheeler, B. W., Bethel, A., Ukomunne, O. C., Nikolaou, V.,                 passion in outdoor education. J. Advent. Educ. Outdoor Learn. 13, 125–141.
+    et al. (2016). Attention restoration theory: a systematic review of the attention              doi: 10.1080/14729679.2012.738011
+    restoration potential of exposure to natural environments. J. Toxicol. Environ.             Wu, C.-D., McNeely, E., Cedeño-Laurent, J. G., Pan, W.-C., Adamkiewicz, G.,
+    Health Part B 19, 305–343. doi: 10.1080/10937404.2016.1196155                                  Dominici, F., et al. (2014). Linking student performance in Massachusetts
+Park, B. J., Tsunetsugu, Y., Kasetani, T., Kagawa, T., and Miyazaki, Y. (2010). The                elementary schools with the “greenness” of school surroundings using remote
+    physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest               sensing. PLoS ONE 9:e108548. doi: 10.1371/journal.pone.0108548
+    bathing): evidence from field experiments in 24 forests across Japan. Environ.
+    Health Prev. Med. 15, 18–26. doi: 10.1007/s12199-009-0086-9                                 Conflict of Interest Statement: The authors declare that the research was
+Pekrun, R., and Linnenbrink-Garcia, L. (2012). “Academic emotions and student                   conducted in the absence of any commercial or financial relationships that could
+    engagement,” in Handbook of Research on Student Engagement, eds S. L.                       be construed as a potential conflict of interest.
+    Christenson, A. L. Reschly, and C. Wylie (Boston, MA: Springer US), 259–282.
+Pellegrini, A. D., and Davis, P. L. (1993). Relations between children’s                        Copyright © 2018 Kuo, Browning and Penner. This is an open-access article
+    playground and classroom behaviour. Br. J. Educ. Psychol. 63, 88–95.                        distributed under the terms of the Creative Commons Attribution License (CC BY).
+    doi: 10.1111/j.2044-8279.1993.tb01043.x                                                     The use, distribution or reproduction in other forums is permitted, provided the
+Pellegrini, A. D., Huberty, P. D., and Jones, I. (1995). The effects of recess timing on        original author(s) or licensor are credited and that the original publication in this
+    children’s playground and classroom behaviors. Am. Educ. Res. J. 32, 845–864.               journal is cited, in accordance with accepted academic practice. No use, distribution
+    doi: 10.3102/00028312032004845                                                              or reproduction is permitted which does not comply with these terms.
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                              15                                               January 2018 | Volume 8 | Article 2253
+

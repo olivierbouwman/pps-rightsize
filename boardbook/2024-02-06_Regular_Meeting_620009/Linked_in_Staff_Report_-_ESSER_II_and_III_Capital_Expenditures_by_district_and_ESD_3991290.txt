@@ -1,0 +1,1063 @@
+Office of Finance and Information Technology                                                                                                  Last Update:     4/3/2022
+
+School Finance
+
+ESSER II and ESSER III Capital Expenditures by District and ESD                                                                                                                  8       Pending Requests
+                                                                                                                                                                               1083      Approved Requests
+Entity                                    Fund        Project
+        Entity Name                                              Expenditure Name                                                                            Approved?
+ID                                        Source      Tag
+   2113 Adrian SD 61                      ESSER II    2113-01    Engineering for the Remodeling/Reclamation of Two Classrooms                                   Yes
+   1899 Alsea SD 7J                       ESSER II    1899-01    Classrooms and Cafeteria COVID Barriers/Dividers                                               Yes
+   1899 Alsea SD 7J                       ESSER II    1899-02    School Entrance Synergy Clear Kiosk                                                            Yes
+   2252 Amity SD 4J                       ESSER II    2252-01    Cooling System - Amity High School                                                             Yes
+   2252 Amity SD 4J                       ESSER III   2252-02    Amity High School Gym HVAC                                                                     Yes
+   2252 Amity SD 4J                       ESSER III   2252-03    Amity Elementary HVAC                                                                          Yes
+   2252 Amity SD 4J                       ESSER II    2252-04A   Cooling System HS Library/Science/Health/Art Rooms                                             Yes
+   2252 Amity SD 4J                       ESSER III   2252-04B   Cooling System HS Library/Science/Health/Art Rooms                                             Yes
+   2252 Amity SD 4J                       ESSER III   2252-05    Structure Support required for 2252-02 HS Gym Air/Cooling System                               Yes
+   2252 Amity SD 4J                       ESSER III   2252-06    Expansion of Physical Education Facility                                                       Yes
+   2252 Amity SD 4J                       ESSER III   2252-07    MS Wall                                                                                        Yes
+   2252 Amity SD 4J                       ESSER II    2252-08    Floor Scrubber                                                                                 Yes
+   2115 Arock SD 81                       ESSER II    2115-01A   Bus Shed Conversion- Bus Portion                                                               Yes
+   2115 Arock SD 81                       ESSER III   2115-01B   Bus Shed Conversion- CTE portion                                                               Yes
+   2115 Arock SD 81                       ESSER II    2115-02    Classroom Carpet Installation                                                                  Yes
+   2115 Arock SD 81                       ESSER II    2115-03    WW Jones School HVAC                                                                           Yes
+   2115 Arock SD 81                       ESSER III   2115-04    New Bus                                                                                        Yes
+   2051 Ashwood SD 8                      ESSER III   2051-01    Ashwood School Window Replacement & Ventilation Upgrade                                        Yes
+   2051 Ashwood SD 8                      ESSER II    2051-02    Ashwood School HVAC System Upgrade                                                             Yes
+   2208 Athena-Weston SD 29RJ             ESSER III   2208-01    Air Filtration System                                                                          Yes
+   2208 Athena-Weston SD 29RJ             ESSER III   2208-02    Outdoor Learning Shade Structures                                                              Yes
+   1894 Baker SD 5J                       ESSER II    1894-01    District Office Network Equipment                                                              Yes
+   1894 Baker SD 5J                       ESSER III   1894-02    Brooklyn Primary Food Preparation Table                                                        Yes
+   1894 Baker SD 5J                       ESSER III   1894-03    Baker Early Learning Center Delta Inclined Platform Lift                                       Yes
+   1894 Baker SD 5J                       ESSER II    1894-04A   Baker Early Learning Center Auditorium curtains and installment                                Yes
+   1894 Baker SD 5J                       ESSER III   1894-04B   Baker Early Learning Center Auditorium curtains and installment                                Yes
+   1894 Baker SD 5J                       ESSER III   1894-05    Keating Elementary School Playground                                                           Yes
+   1894 Baker SD 5J                       ESSER III   1894-06    Keating Elementary School Play Structure Installation                                          Yes
+   1894 Baker SD 5J                       ESSER III   1894-07    Baker High School Transportation: Mini Bus                                                     Yes
+   1894 Baker SD 5J                       ESSER III   1894-08    Baker High School Computer Navigated Cutting machine                                           Yes
+   1894 Baker SD 5J                       ESSER III   1894-09    Baker High School Auditorium curtains/lighting/sound                                           Yes
+   1894 Baker SD 5J                       ESSER III   1894-10    Baker High School Credit Recovery Room Flooring                                                Yes
+   1894 Baker SD 5J                       ESSER III   1894-11    Bicycle Trailer                                                                                Yes
+   1894 Baker SD 5J                       ESSER III   1894-12    Commercial Grade Dishwasher                                                                    Yes
+   1894 Baker SD 5J                       ESSER III   1894-13    Commercial Grade Gas Range w/Convection Oven                                                   Yes
+   1894 Baker SD 5J                       ESSER III   1894-14    Commercial Grade Gas Convection Oven                                                           Yes
+   1894 Baker SD 5J                       ESSER III   1894-15    Commercial Grade Gas Range with Charbroiler and Standard Oven Base                             Yes
+   1894 Baker SD 5J                       ESSER III   1894-16    Culinary Arts Room Remodel                                                                     Yes
+   1894 Baker SD 5J                       ESSER II    1894-17    South Baker Intermediate Play Structure                                                        Yes
+   1894 Baker SD 5J                       ESSER II    1894-18    Baker Early Learning Center Swingset                                                           Yes
+   1894 Baker SD 5J                       ESSER II    1894-19    Baker Technical Institute Forklifts                                                            Yes
+   1894 Baker SD 5J                       ESSER II    1894-20    Baker High School Outdoor Learning Space                                                       Yes
+   1894 Baker SD 5J                       ESSER II    1894-21    Baker High School Credit Recovery Space                                                        Yes
+   1894 Baker SD 5J                       ESSER II    1894-22    Baker School District Delivery Van                                                             Yes
+   1894 Baker SD 5J                       ESSER II    1894-23    Computer Network Upgrade -- District Office                                                    Yes
+   1894 Baker SD 5J                       ESSER II    1894-24    Computer Network Upgrade -- Haines Elementary                                                  Yes
+   1894 Baker SD 5J                       ESSER II    1894-25    Computer Network Upgrade -- Keating Elementary                                                 Yes
+   1894 Baker SD 5J                       ESSER II    1894-26    Computer Network Upgrade -- South Baker Intermediate                                           Yes
+   1894 Baker SD 5J                       ESSER II    1894-27    Computer Network Upgrade -- Brooklyn Primary School                                            Yes
+   1894 Baker SD 5J                       ESSER II    1894-28    Computer Network Upgrade -- Baker Middle School                                                Yes
+   1894 Baker SD 5J                       ESSER II    1894-29    Computer Network Upgrade -- Baker High School                                                  Yes
+   1894 Baker SD 5J                       ESSER II    1894-30    Computer Network Upgrade -- North Baker Campus BELC and Eagle Cap                              Yes
+   1894 Baker SD 5J                       ESSER II    1894-31    Computer Network Upgrade -- Baker Web Academy                                                  Yes
+   1894 Baker SD 5J                       ESSER II    1894-32    Computer Network Upgrade -- Transportation and Maintenance                                     Yes
+   1894 Baker SD 5J                       ESSER II    1984-33A   School Buildings HVAC Upgrades                                                                 Yes
+   1894 Baker SD 5J                       ESSER III   1984-33B   School Buildings HVAC Upgrades                                                                 Yes
+   1894 Baker SD 5J                       ESSER III   1984-34    District Computer Network Upgrades                                                             Yes
+   1969 Bandon SD 54                      ESSER II    1969-01    Floor Scrubber for High School                                                                 Yes
+   1969 Bandon SD 54                      ESSER III   1969-02    High School HVAC Replacement                                                                   Yes
+   1969 Bandon SD 54                      ESSER III   1969-03    Expansion of a CTE Building for MS and HS students                                             Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-01    Add mechanical ventilation to the Barnes Elementary School (ES) gymnasium.                     Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-02    Add mechanical ventilation to the West TV (ES) gymnasium.                                      Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-03    Improve mechanical ventilation to the Montclair Elementary School (ES) gym.                    Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-04    HVAC upgrades for McKinley Elementary School (ES), Kinnaman ES, and Errol Hassell ES.          Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-05    Upgrade and replacement of HVAC in the International School of Beaverton (ISB) gym and modular Yes building
+   2243 Beaverton SD 48J                  ESSER III   2243-06    Replace aging HVAC rooftop units and upgrade controls at Southridge High School (HS)           Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-07    Improve ventilation in the West TV Elementary School (ES) cafeteria                            Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-08    International School of Beaverton (ISB): Replace rooftop HVAC units above A & B halls, miscellaneous
+                                                                                                                                                                Yes HVAC repairs, and classroom HVAC improvements
+   2243 Beaverton SD 48J                  ESSER III   2243-09    HVAC Upgrades to Elmonica ES, Greenway ES, Nancy Ryles ES, and Stoller MS                      Yes
+   2243 Beaverton SD 48J                  ESSER III   2243-10    HVAC repairs to Hiteon Elementary School (ES)                                                  Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-01    La Pine Middle School HVAC Controls                                                            Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-02    High Desert Middle School HVAC Controls                                                        Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-03    Juniper Elementary HVAC Controls                                                               Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-04    Rosland Elementary HVAC Controls                                                               Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-05    Kenwood Elementary HVAC Controls                                                               Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-06    Three Rivers School HVAC Controls                                                              Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-07    Maintenance Facility HVAC Controls                                                             Yes
+   1976 Bend-LaPine Administrative SD 1   ESSER III   1976-08    Bend International School Multi Purpose Space                                                  pending
+   2088 Bethel SD 52                      ESSER II    2088-01    Willamette HS Electric Blodgett Combo Oven                                                     Yes
+   2088 Bethel SD 52                      ESSER III   2088-02    Clear Lake HVAC                                                                                Yes
+   2088 Bethel SD 52                      ESSER III   2088-03    Danebo HVAC                                                                                    Yes
+   2088 Bethel SD 52                      ESSER III   2088-04    Irving HVAC                                                                                    Yes
+   2088 Bethel SD 52                      ESSER III   2088-05    Shasta HVAC                                                                                    Yes
+   2088 Bethel SD 52                      ESSER III   2088-06    Van                                                                                            Yes
+   2088 Bethel SD 52                      ESSER II    2088-07    WHS Camera Replacement                                                                         Yes
+   2088 Bethel SD 52                      ESSER III   2088-08    Van                                                                                            Yes
+   2095 Blachly SD 90                     ESSER II    2095-01A   TCLS Main Office Modular                                                                       Yes
+2095 Blachly SD 90                 ESSER III   2095-01B   TCLS Main Office Modular                                        Yes
+2095 Blachly SD 90                 ESSER III   2095-02    Elementary Playground Structure                                 Yes
+2095 Blachly SD 90                 ESSER II    2095-03    Relocation of MS/HS Weight Room                                 Yes
+2095 Blachly SD 90                 ESSER III   2095-04    Playground Expansion                                            Yes
+1974 Brookings-Harbor SD 17C       ESSER II    1974-01    School Bus x3                                                   Yes
+1974 Brookings-Harbor SD 17C       ESSER II    1974-02    Brookings-Harbor HS Floor Scrubber                              Yes
+1974 Brookings-Harbor SD 17C       ESSER II    1974-03    Kalmiopsis Elementary HVAC                                      Yes
+1974 Brookings-Harbor SD 17C       ESSER II    1974-04    Azalea Middle School HVAC                                       Yes
+1974 Brookings-Harbor SD 17C       ESSER II    1974-05    Brookings Harbor High School HVAC                               Yes
+1974 Brookings-Harbor SD 17C       ESSER III   1974-06    10 Passenger Van                                                Yes
+1974 Brookings-Harbor SD 17C       ESSER III   1974-07    Expanded Outdoor Learning Spaces                                Yes
+1974 Brookings-Harbor SD 17C       ESSER III   1974-08    Elementary And Middle School Floor Scrubbers                    Yes
+1974 Brookings-Harbor SD 17C       ESSER III   1974-09    BHDS Media Upgrades                                             Yes
+1995 Camas Valley SD 21J           ESSER II    1995-01    Weight Room Remodel & Refurbish                                 Yes
+1995 Camas Valley SD 21J           ESSER II    1995-02    New Modular                                                     Yes
+1995 Camas Valley SD 21J           ESSER II    1995-03    Air Filtration Systems                                          Yes
+1995 Camas Valley SD 21J           ESSER III   1995-04    Camas Valley Charter School New Track                           Yes
+1995 Camas Valley SD 21J           ESSER II    1995-05    New and Safe Access for the Barn                                Yes
+1995 Camas Valley SD 21J           ESSER III   1995-06    Athletic and Functional Fencing                                 Yes
+2139 Cascade SD 5                  ESSER II    2139-01    Air Purification System                                         Yes
+2139 Cascade SD 5                  ESSER II    2139-02    Air Purification System                                         Yes
+2139 Cascade SD 5                  ESSER II    2139-03    HVAC Improvement Cascade Sr. High                               Yes
+2139 Cascade SD 5                  ESSER II    2139-04    Security Cameras                                                Yes
+2139 Cascade SD 5                  ESSER III   2139-05    Inclusive Elementary Playground                                 Yes
+2139 Cascade SD 5                  ESSER III   2139-06    Secondary Campus Modular Classroom Spaces                       Yes
+2185 Centennial SD 28J             ESSER II    2185-01    Hazardous Flooring Replacement                                  Yes
+2185 Centennial SD 28J             ESSER III   2185-02    Ventilation Repairs & Enhancements                              Yes
+2185 Centennial SD 28J             ESSER III   2185-03    Bus Replacement                                                 Yes
+2185 Centennial SD 28J             ESSER III   2185-04    Network Infrastructure Improvements                             Yes
+2185 Centennial SD 28J             ESSER III   2185-05    Ventilation Repairs & Enhancements                              Yes
+2185 Centennial SD 28J             ESSER III   2185-06    Hazard Abatement, Remediation, and Repairs                      Yes
+1972 Central Curry SD 1            ESSER II    1972-01    Gold Beach High School Floor Scrubbers                          Yes
+1972 Central Curry SD 1            ESSER II    1972-02    School Busses                                                   Yes
+1972 Central Curry SD 1            ESSER III   1972-03    School Busses                                                   Yes
+2105 Central Linn SD 552           ESSER II    2105-01    Central Linn ES Library HVAC                                    Yes
+2105 Central Linn SD 552           ESSER II    2105-02    CLHS AG Building HVAC                                           Yes
+2105 Central Linn SD 552           ESSER II    2105-03    CLES Gyms HVAC                                                  Yes
+2105 Central Linn SD 552           ESSER II    2105-04    Phone and Intercom System Replacement                           Yes
+2105 Central Linn SD 552           ESSER III   2105-05    CTE Capital Project                                             Yes
+2042 Central Point SD 6            ESSER II    2042-01    Scenic Middle School Modular Classroom                          Yes
+2042 Central Point SD 6            ESSER II    2042-02A   Hanby Middle School Third Floor Renovation                      Yes
+2042 Central Point SD 6            ESSER III   2042-02B   Hanby Middle School Third Floor Renovation                      Yes
+2042 Central Point SD 6            ESSER III   2042-03    Hanby Middle School Third Floor HVAC/Windows                    Yes
+2042 Central Point SD 6            ESSER II    2042-04    Transportation Van                                              Yes
+2042 Central Point SD 6            ESSER III   2042-05    SMS Drumline Instruments                                        Yes
+2191 Central SD 13J                ESSER III   2191-01    Type 10 Vehicle - McKinney Vento Transport                      Yes
+1945 Clatskanie SD 6J              ESSER II    1945-01    Playcore Game Structure Match                                   Yes
+1945 Clatskanie SD 6J              ESSER II    1945-02    High School Dry Box                                             Yes
+1945 Clatskanie SD 6J              ESSER II    1945-03    District Office Dry Box                                         Yes
+1927 Colton SD 53                  ESSER III   1927-01    District Office Heat Pump                                       Yes
+1927 Colton SD 53                  ESSER III   1927-02    CHS Heat Pump                                                   Yes
+1927 Colton SD 53                  ESSER III   1927-03    CMS Heat Pump                                                   Yes
+1927 Colton SD 53                  ESSER III   1927-04    Wireless Access Points                                          Yes
+2223 Columbia Gorge ESD            ESSER II    2223-01    Distance Learning/Meeting Camera System                         Yes
+2006 Condon SD 25J                 ESSER III   2006-01    Type 10 Transportation                                          Yes
+1965 Coos Bay SD 9                 ESSER II    1965-01    Vehicle for Attendance Advocates                                Yes
+1965 Coos Bay SD 9                 ESSER II    1965-02    Floor scrubbers for Sunset School and Marshfield Junior High    Yes
+1965 Coos Bay SD 9                 ESSER III   1965-03    Millicoma HVAC Project                                          Yes
+1964 Coquille SD 8                 ESSER III   1964-01    Classroom Modular - Winter Lakes ES                             Yes
+1964 Coquille SD 8                 ESSER III   1964-02    Classroom Modular - Winter Lakes HS                             Yes
+1964 Coquille SD 8                 ESSER III   1964-03    Bus Purchase                                                    Yes
+1964 Coquille SD 8                 ESSER II    1964-04    Playground Equipment                                            Yes
+1964 Coquille SD 8                 ESSER II    1964-05    Used Truck Driving Simulator - CTE                              Yes
+1964 Coquille SD 8                 ESSER II    1964-06A   Used MX2 Flight Simulator                                       Yes
+1964 Coquille SD 8                 ESSER III   1964-06B   Used MX2 Flight Simulator                                       Yes
+1964 Coquille SD 8                 ESSER III   1964-07    School Bus                                                      Yes
+1964 Coquille SD 8                 ESSER III   1964-08    Food Service Vehicle                                            Yes
+1964 Coquille SD 8                 ESSER III   1964-09    Retractable Awning                                              Yes
+2216 Cove SD 15                    ESSER II    2216-01    Internet Fiber Connectivity                                     Yes
+2216 Cove SD 15                    ESSER III   2216-02    Mental Health and Nursing Services Workspace                    Yes
+2086 Creswell SD 40                ESSER II    2086-01    Creswell Middle School Turf Field                               Yes
+1970 Crook County SD               ESSER II    1970-01    Crook County Middle School Modular Decks and Ramps              Yes
+1970 Crook County SD               ESSER II    1970-02    Barnes Butte Elementary Air Conditioning                        Yes
+1970 Crook County SD               ESSER II    1970-03    Pioneer Complex Campus HVAC                                     Yes
+1970 Crook County SD               ESSER III   1970-04    Powell Butte Indoor Air Quality Improvements                    Yes
+1970 Crook County SD               ESSER II    1970-05    Crook County Middle School Modular Infrastructure/Classrooms    Yes
+1970 Crook County SD               ESSER III   1970-06    Pioneer Alternative High School New Building Construction       Yes
+1970 Crook County SD               ESSER II    1970-07    Modular Building Lease Crook County Middle School               Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER II    2089-01A   Crow Middle/High School Locker Room Restoration                 Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER III   2089-01B   Crow Middle/High School Locker Room Restoration                 Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER III   2089-02    Applegate Elementary School Outdoor Bathrooms Restoration       Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER III   2089-03    Applegate Elementary School Field Development                   Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER III   2089-04    Crow Middle/High School Wood Shop Floor Restoration             Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER III   2089-05    Applegate Elementary School Playground Restoration              Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER II    2089-06    CAL SD Bus Replacement                                          Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER II    2089-07    Security System                                                 Yes
+2089 Crow-Applegate-Lorane SD 66   ESSER II    2089-08    Sanitizing Dishwasher for CMHS                                  Yes
+2050 Culver SD 4                   ESSER III   2050-01    Type 20 Bus Purchase                                            Yes
+2050 Culver SD 4                   ESSER III   2050-02    Commercial Grade Dishwasher                                     Yes
+2050 Culver SD 4                   ESSER III   2050-03    Commercial Grade Combination Oven                               Yes
+2050 Culver SD 4                   ESSER III   2050-04    Commercial Grade Tilt Skillet                                   Yes
+2050 Culver SD 4                   ESSER III   2050-05    Modular Building                                                Yes
+2190 Dallas SD 2                   ESSER II    2190-01    Boardroom Technology for Public Digital Access                  Yes
+2190 Dallas SD 2                   ESSER III   2190-02    Outdoor Covered Learning Structure LVCS                         Yes
+2190 Dallas SD 2                   ESSER III   2190-03    Dallas Community School Playground/Physical Fitness Equipment   Yes
+2190 Dallas SD 2                   ESSER III   2190-04    Dallas Community School CTE Instructional Makerspace            Yes
+2187 David Douglas SD 40    ESSER III   2187-01    New School buses                                                                Yes
+2187 David Douglas SD 40    ESSER III   2187-02    Menlo Park HVAC Replacement                                                     Yes
+2187 David Douglas SD 40    ESSER III   2187-03    New School Busses, Round 2                                                      Yes
+2253 Dayton SD 8            ESSER II    2253-01    Modular Classroom at JH/HS                                                      Yes
+2253 Dayton SD 8            ESSER III   2253-02    ADA Accessible Playground                                                       Yes
+2011 Dayville SD 16J        ESSER III   2011-01    Elementary HVAC                                                                 Yes
+2011 Dayville SD 16J        ESSER III   2011-02    Gymnasium HVAC                                                                  Yes
+2017 Diamond SD 7           ESSER II    2017-01A   Diamond SD HVAC                                                                 Yes
+2017 Diamond SD 7           ESSER III   2017-01B   Diamond SD HVAC                                                                 Yes
+2017 Diamond SD 7           ESSER III   2017-02    School Flooring                                                                 Yes
+1993 Douglas County SD 15   ESSER II    1993-01    Replacement Server                                                              Yes
+1993 Douglas County SD 15   ESSER II    1993-02    Security Cameras                                                                Yes
+1993 Douglas County SD 15   ESSER III   1993-03    Baseball Field Renovation                                                       Yes
+1991 Douglas County SD 4    ESSER II    1991-01    Roseburg High School Shade Structure                                            Yes
+1991 Douglas County SD 4    ESSER II    1991-02    Roseburg High School Shade Structure                                            Yes
+1991 Douglas County SD 4    ESSER II    1991-03A   Phoenix Charter School HVAC Upgrades                                            Yes
+1991 Douglas County SD 4    ESSER III   1991-03B   Phoenix Charter School HVAC Upgrades                                            Yes
+1991 Douglas County SD 4    ESSER II    1991-04    Fremont Middle School Gym HVAC Upgrade                                          Yes
+1991 Douglas County SD 4    ESSER III   1991-05    Roseburg High School modular classrooms                                         Yes
+1991 Douglas County SD 4    ESSER III   1991-06    Elementary school campus fencing, all schools                                   Yes
+2019 Drewsey SD 13          ESSER II    2019-01A   Drewsey Asbestos Removal                                                        Yes
+2019 Drewsey SD 13          ESSER III   2019-01B   Drewsey Asbestos Removal                                                        Yes
+2229 Dufur SD 29            ESSER III   2229-01    2004 Dodge Pickup                                                               Yes
+2229 Dufur SD 29            ESSER III   2229-02    Outdoor Canopies                                                                Yes
+2229 Dufur SD 29            ESSER III   2229-03    CTE Curriculum                                                                  Yes
+2229 Dufur SD 29            ESSER III   2229-04    Security Camera System                                                          Yes
+2043 Eagle Point SD 9       ESSER II    2043-01    Crater Lake Academy K-8 Campus HVAC                                             Yes
+2043 Eagle Point SD 9       ESSER II    2043-02    Crater Lake Academy High School Campus HVAC                                     Yes
+2043 Eagle Point SD 9       ESSER III   2043-03    Table Rock Elementary School Modular Classrooms Building                        Yes
+2203 Echo SD 5              ESSER II    2203-01    Middle and High School Lockers                                                  Yes
+2203 Echo SD 5              ESSER II    2203-02    CTE Instructional Space & Building                                              Yes
+2217 Elgin SD 23            ESSER II    2217-01    Playground Upgrade                                                              Yes
+2217 Elgin SD 23            ESSER II    2217-02    Playground Equipment Upgrade                                                    Yes
+2217 Elgin SD 23            ESSER III   2217-03    Air Quality Facility Upgrade                                                    Yes
+2217 Elgin SD 23            ESSER II    2217-04    High School Grounds                                                             Yes
+1998 Elkton SD 34           ESSER II    1998-01    Elkton Elementary and Elkton High School Air Purifiers for HVAC                 Yes
+1998 Elkton SD 34           ESSER II    1998-02    Fresh Air Exchange Systems                                                      Yes
+1998 Elkton SD 34           ESSER III   1998-03    New HVAC System installation Gym and Classroom Spaces                           Yes
+2221 Enterprise SD 21       ESSER III   2221-01    Targeted replacement of end of life existing HVAC                               Yes
+1930 Estacada SD 108        ESSER III   1930-01    High School and Middle School Update AP/Wi-Fi access                            Yes
+1930 Estacada SD 108        ESSER II    1930-02    High School and Middle School Video Conferencing                                Yes
+1930 Estacada SD 108        ESSER II    1930-03    All District Buildings HVAC                                                     Yes
+1930 Estacada SD 108        ESSER II    1930-04    District Grounds Mower                                                          Yes
+1930 Estacada SD 108        ESSER II    1930-05    Middle School Auto Scrubber                                                     Yes
+1930 Estacada SD 108        ESSER III   1930-06    River Mill Elementary Modular (new)                                             Yes
+1930 Estacada SD 108        ESSER III   1930-07    District Office Modular                                                         Yes
+1930 Estacada SD 108        ESSER III   1930-08    River Mill Elementary Modular (update and move existing)                        Yes
+1930 Estacada SD 108        ESSER III   1930-09    High School Generator                                                           Yes
+1930 Estacada SD 108        ESSER III   1930-10    River Mill, Clackamas River, and Middle School Access Control                   Yes
+1930 Estacada SD 108        ESSER III   1930-11    High School Dishwasher and Steamer                                              Yes
+1930 Estacada SD 108        ESSER III   1930-12    High School Weight room HVAC                                                    Yes
+1930 Estacada SD 108        ESSER III   1930-13    Adult Transition Program - Building                                             Yes
+1930 Estacada SD 108        ESSER III   1930-14    Air Conditioners for Air Quality                                                Yes
+2082 Eugene SD 4J           ESSER II    2082-01    Village School HVAC Upgrade Installation                                        Yes
+2082 Eugene SD 4J           ESSER III   2082-02    Colin Kelly Middle School Portable Classrooms                                   Yes
+2082 Eugene SD 4J           ESSER II    2082-03    Ridgeline HVAC Improvements                                                     Yes
+2082 Eugene SD 4J           ESSER III   2082-04    Ridgeline HVAC Improvements                                                     Yes
+2082 Eugene SD 4J           ESSER III   2082-05    Five Type 10 Vans for Student Transportation                                    Yes
+2082 Eugene SD 4J           ESSER III   2082-06    Covered Outdoor Shelter                                                         Yes
+2082 Eugene SD 4J           ESSER III   2082-07    Awning Upgrade at the Village School                                            Yes
+2082 Eugene SD 4J           ESSER III   2082-08    Bathroom Upgrades at the Village School                                         Yes
+2082 Eugene SD 4J           ESSER III   2082-09    Courtyard Seating upgrade at the Village School                                 Yes
+2082 Eugene SD 4J           ESSER III   2082-10    Flooring Upgrade at the Village School                                          Yes
+2082 Eugene SD 4J           ESSER III   2082-11    Windows Upgrade at the Village School                                           Yes
+2082 Eugene SD 4J           ESSER III   2082-12    Coburg Community Charter School- Repairs on Heating System                      Yes
+2193 Falls City SD 57       ESSER III   2193-01    High School Modular                                                             Yes
+2193 Falls City SD 57       ESSER II    2193-02    Gym Floor                                                                       Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-01    High School Health Clinic                                                       Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-02    Fern Ridge Middle School Restroom Renovation                                    Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-03    Fern Ridge Middle School Carpet Replacement                                     Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-04    Fern Ridge Middle School Door Replacement                                       Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-05    Veneta Elementary Carpet Replacement                                            Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-06    Elmira Elementary School Playground                                             Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-07    Fern Ridge SD Buildings - Cameral Systems Upgrade                               Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-08    Fern Ridge SD Buildings - Cafeteria Tables                                      Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-09    Elmira High School Gym Floor Auto Scrubber                                      Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-10    Elmira High School and Fern Ridge High School Self Contained Carpet Extractor   Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-11    Installation and Finishing for New "Portable" Building                          Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-12    Replace and Install Outdoor PA Systems                                          Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-13    Karcher Chariot Ride Vacuum                                                     Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-14A   HVAC Controls Upgrade                                                           Yes
+2084 Fern Ridge SD 28J      ESSER III   2084-14B   HVAC Controls Upgrade                                                           Yes
+2084 Fern Ridge SD 28J      ESSER II    2084-15    Fern Ridge Middle School Carpet Removal and Replacement                         Yes
+2084 Fern Ridge SD 28J      ESSER III   2084-16    Elmira High school intercom - communication system                              Yes
+2084 Fern Ridge SD 28J      ESSER III   2084-17    Fern Ridge School District Warehouse Improvements                               Yes
+2084 Fern Ridge SD 28J      ESSER III   2084-18    EHS Hot Water Heater                                                            Yes
+2241 Forest Grove SD 15     ESSER II    2241-01    Unit Ventilator Replacement                                                     Yes
+2241 Forest Grove SD 15     ESSER II    2241-02    Air Handler Replacement                                                         Yes
+2241 Forest Grove SD 15     ESSER II    2241-03    Neil Armstrong MS Exhaust                                                       Yes
+2241 Forest Grove SD 15     ESSER III   2241-04    FGCS Classroom Remodel                                                          Yes
+2241 Forest Grove SD 15     ESSER III   2241-05    FGCS HVAC Upgrade                                                               Yes
+2241 Forest Grove SD 15     ESSER II    2241-06    FX 80 Upgrades                                                                  Yes
+2241 Forest Grove SD 15     ESSER II    2241-07    Neil Armstrong MS Boiler                                                        Yes
+2241 Forest Grove SD 15     ESSER III   2241-08    Neil Armstrong Storage Container                                                Yes
+2241 Forest Grove SD 15     ESSER II    2241-09    HVAC Improvements                                                               Yes
+2241 Forest Grove SD 15     ESSER III   2241-10    Window Replacements                                                             Yes
+2241 Forest Grove SD 15             ESSER III   2241-11     Chiller Replacement                                                  Yes
+2241 Forest Grove SD 15             ESSER III   2241-12     Safety & Security                                                    Yes
+2248 Fossil SD 21J                  ESSER II    2248-01A    Upgrade Grade School HVAC                                            Yes
+2248 Fossil SD 21J                  ESSER III   2248-01B    Upgrade Grade School HVAC                                            Yes
+4040 Four Rivers Community School   ESSER II    2108-100    FRCS Elementary/Jr Prep Outdoor Table                                Yes
+4040 Four Rivers Community School   ESSER II    2108-101    FRCS Classroom Desks                                                 Yes
+4040 Four Rivers Community School   ESSER II    2108-102    FRCS Upgrade to VOIP Phone Systems                                   Yes
+4040 Four Rivers Community School   ESSER II    2108-103    FRCS Jr Prep Carpet Replacement                                      Yes
+4040 Four Rivers Community School   ESSER II    2108-104    FRCS Storage Container                                               Yes
+4040 Four Rivers Community School   ESSER II    2108-105    FRCS Outdoor Basketball Court                                        Yes
+4040 Four Rivers Community School   ESSER II    2108-106    FRCS Community School Front Parking Lot                              Yes
+4040 Four Rivers Community School   ESSER II    2108-107    Tennis Courts                                                        Yes
+4040 Four Rivers Community School   ESSER II    2108-108    IT Office Space                                                      Yes
+4040 Four Rivers Community School   ESSER II    2108-109A   Purchase of Additional Facility Space                                Yes
+4040 Four Rivers Community School   ESSER III   2108-109B   Purchase of Additional Facility Space                                Yes
+4040 Four Rivers Community School   ESSER III   2108-110    Painting of Purchased Facility                                       Yes
+4040 Four Rivers Community School   ESSER III   2108-111    Security Cameras for Purchased Facility                              Yes
+4040 Four Rivers Community School   ESSER III   2108-112    Outdoor Electronic Reader Board                                      Yes
+4040 Four Rivers Community School   ESSER III   2108-113    FRCS Exterior Door                                                   Yes
+4040 Four Rivers Community School   ESSER III   2108-114    Wall for Health and Wellness Space                                   Yes
+4040 Four Rivers Community School   ESSER III   2108-115    Health and Wellness Equipment                                        Yes
+4040 Four Rivers Community School   ESSER III   2108-116    Flooring for Yoga Space                                              Yes
+4040 Four Rivers Community School   ESSER III   2108-117    Gender Neutral Staff Restroom                                        Yes
+4040 Four Rivers Community School   ESSER III   2108-118    School Accounting Software                                           Yes
+4040 Four Rivers Community School   ESSER III   2108-220    Gym Floor Replacement                                                Yes
+2245 Gaston SD 511J                 ESSER III   2245-01     Gaston SD Touchless Drinking Fountains                               Yes
+2245 Gaston SD 511J                 ESSER III   2245-02     Gaston SD 30x20 Carport for Outdoor Eating Space (x2)                Yes
+2245 Gaston SD 511J                 ESSER II    2245-03     Gaston JSHS Lighting Pole Restoration                                Yes
+2245 Gaston SD 511J                 ESSER II    2245-04     HVAC Air Circulation                                                 Yes
+2245 Gaston SD 511J                 ESSER II    2245-05     Outside Lighting                                                     Yes
+2137 Gervais SD 1                   ESSER II    2137-01     Gervais SD Insta-Trace Tracking Badges                               Yes
+2137 Gervais SD 1                   ESSER II    2137-02     Gervais SD Replace Infrastructure Switches                           Yes
+2137 Gervais SD 1                   ESSER II    2137-03     Gervais SD Chromebooks                                               Yes
+2137 Gervais SD 1                   ESSER II    2137-04     Gervais SD Touchless Paper Towel and Soap Dispensers                 Yes
+2137 Gervais SD 1                   ESSER II    2137-05     Sam Brown Academy Window Replacement                                 Yes
+2137 Gervais SD 1                   ESSER II    2137-06     GMS Sport Court Flooring, part 1                                     Yes
+2137 Gervais SD 1                   ESSER II    2137-07     Infrastructure Upgrades                                              Yes
+2137 Gervais SD 1                   ESSER II    2137-08     Gervais Elementary School Tent                                       Yes
+2137 Gervais SD 1                   ESSER III   2137-09     Gervais Middle School Tent                                           Yes
+2137 Gervais SD 1                   ESSER II    2137-10     District Hotspots                                                    Yes
+2137 Gervais SD 1                   ESSER II    2137-11     TeachLogic IRQ-3650 Quantum II Wireless System                       Yes
+2137 Gervais SD 1                   ESSER III   2137-12     Contact Tracing Badges Batteries & Subscription Renewal              Yes
+2137 Gervais SD 1                   ESSER III   2137-13     GMS Sport Court Flooring, part 2                                     Yes
+2137 Gervais SD 1                   ESSER III   2137-14     Tech: Wireless bridge; Laptops and Chromebooks                       Yes
+2137 Gervais SD 1                   ESSER III   2137-15     GHS Commercial Washing Machine                                       Yes
+2137 Gervais SD 1                   ESSER III   2137-16     Gervais Middle School Desks                                          Yes
+1931 Gladstone SD 115               ESSER II    1931-01     Germicidal UV-C Equipment & Retrofit Installation                    Yes
+1931 Gladstone SD 115               ESSER II    1931-02     Kraxberger Middle School Boiler Conversion                           Yes
+2000 Glendale SD 77                 ESSER III   2000-01     Glendale Elementary School Parking Lot Paving                        Yes
+2000 Glendale SD 77                 ESSER III   2000-02     Glendale Jr. High/High School Parking Lot Paving/Resealing/Coating   Yes
+2000 Glendale SD 77                 ESSER III   2000-03     Glendale Jr. High/High School Community Basketball Court Paving      Yes
+2000 Glendale SD 77                 ESSER II    2000-04     Glendale High School Merchandiser Equipment                          Yes
+2000 Glendale SD 77                 ESSER III   2000-06     Bleachers for the High School                                        Yes
+2000 Glendale SD 77                 ESSER II    2000-07     Digital Reader Board for Junior/High School                          Yes
+2000 Glendale SD 77                 ESSER II    2000-08     Digital Reader Board for Elementary School                           Yes
+1992 Glide SD 12                    ESSER II    1992-01     Elementary Window Tinting                                            Yes
+1992 Glide SD 12                    ESSER II    1992-02     Middle/High School Window Tinting                                    Yes
+1992 Glide SD 12                    ESSER II    1992-03     Glide Elementary School Play Structure and Resurfacing               Yes
+1992 Glide SD 12                    ESSER II    1992-04A    Outdoor Cover Structure                                              Yes
+1992 Glide SD 12                    ESSER III   1992-04B    Outdoor Cover Structure                                              Yes
+2054 Grants Pass SD 7               ESSER II    2054-01     Lincoln Elementary HVAC Improvements                                 Yes
+2054 Grants Pass SD 7               ESSER II    2054-02     Redwood Elementary HVAC Improvements                                 Yes
+2054 Grants Pass SD 7               ESSER II    2054-03     Riverside Elementary Classroom Addition                              Yes
+2054 Grants Pass SD 7               ESSER II    2054-04     North Middle School Track and Field Upgrade                          Yes
+2054 Grants Pass SD 7               ESSER III   2054-05     South Middle School Track and Field Upgrade                          Yes
+2054 Grants Pass SD 7               ESSER III   2054-06     Grants Pass SD Vehicle Purchase (6xVans)                             Yes
+2054 Grants Pass SD 7               ESSER III   2054-07     Highland Elementary Asbestos Abatement and Carpet Installation       Yes
+2054 Grants Pass SD 7               ESSER II    2054-08     Board Room Audio Video                                               Yes
+2054 Grants Pass SD 7               ESSER III   2054-09     GP Flex Modular Classrooms                                           Yes
+2054 Grants Pass SD 7               ESSER III   2054-10     GP Flex Modular Classrooms                                           Yes
+2054 Grants Pass SD 7               ESSER III   2054-11     HVAC Installation                                                    Yes
+2054 Grants Pass SD 7               ESSER II    2054-12     Outdoor Classroom Space                                              Yes
+2054 Grants Pass SD 7               ESSER III   2054-13     Bathroom Upgrades Grants Pass HS                                     Yes
+2054 Grants Pass SD 7               ESSER II    2054-14     Bathroom Upgrades North MS                                           Yes
+2054 Grants Pass SD 7               ESSER II    2054-15     Bathroom Upgrades South MS                                           Yes
+2054 Grants Pass SD 7               ESSER II    2054-16     PAC Streaming Technology                                             Yes
+2054 Grants Pass SD 7               ESSER II    2054-17     Band-Theater Streaming Technology                                    Yes
+2054 Grants Pass SD 7               ESSER II    2054-18     Board Room Audio Video (additional costs to finish project)          Yes
+2054 Grants Pass SD 7               ESSER II    2054-19     South Middle School Classroom-Restroom Addition                      Yes
+2054 Grants Pass SD 7               ESSER II    2054-20     North Middle School Classroom-Restroom Addition                      Yes
+2054 Grants Pass SD 7               ESSER II    2054-21     Equipment for Modular Classrooms                                     Yes
+2054 Grants Pass SD 7               ESSER II    2054-22     Gladiola HS Fencing                                                  Yes
+2054 Grants Pass SD 7               ESSER II    2054-23     Grants Pass HS Fencing                                               Yes
+2054 Grants Pass SD 7               ESSER II    2054-24     Gym floor refinishing various locations.                             Yes
+2054 Grants Pass SD 7               ESSER II    2054-25     Intercom System - Gladiola Campus                                    Yes
+2100 Greater Albany Public SD 8J    ESSER III   2100-01     Takena Elementary School Expansion                                   Yes
+2100 Greater Albany Public SD 8J    ESSER III   2100-02     South Shore Elementary School Expansion                              Yes
+2100 Greater Albany Public SD 8J    ESSER II    2100-03A    Waverly Elementary Modular                                           Yes
+2100 Greater Albany Public SD 8J    ESSER III   2100-03B    Waverly Elementary Modular                                           Yes
+2100 Greater Albany Public SD 8J    ESSER II    2100-04A    North Albany Elementary Modular                                      Yes
+2100 Greater Albany Public SD 8J    ESSER III   2100-04B    North Albany Elementary Modular                                      Yes
+2100 Greater Albany Public SD 8J    ESSER III   2100-05     Central School Heating and Cooling Central Air Handling System       Yes
+2183 Gresham-Barlow SD 10J          ESSER II    2183-01     eGBSD Learning Center Remodel                                        Yes
+2183 Gresham-Barlow SD 10J          ESSER II    2183-02     Metro East Web Academy HVAC upgrade                                  Yes
+2183 Gresham-Barlow SD 10J          ESSER II    2183-03     Gresham HS Vape Sensors                                              Yes
+2183 Gresham-Barlow SD 10J          ESSER II    2183-04     Barlow HS Vape Sensors                                               Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-05    Springwater Trail HS Vape Sensors                                        Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-06    Dexter McCarty MS Vape Sensors                                           Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-07    Clear Creek MS Vape Sensors                                              Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-08    Gordon Russell MS Vape Sensors                                           Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-09    West Orient MS Vape Sensors                                              Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-10    Deep Creek Damaskus K-8 Vape Sensors                                     Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-11    Hall Elementary School HVAC Controls                                     Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-12    Hollydale Elementary School HVAC Controls                                Yes
+2183 Gresham-Barlow SD 10J      ESSER II    2183-13    Deep Creek Damascus K-8 School HVAC Controls                             Yes
+2183 Gresham-Barlow SD 10J      ESSER III   2183-14    Flexible Learning Experiences Facility Remodel                           Yes
+2014 Harney County SD 3         ESSER II    2014-01    Audio/Video/Security Enhancement - Slater Elementary School              Yes
+2014 Harney County SD 3         ESSER II    2014-02    Audio/Video/Security Enhancement - Burns High School                     Yes
+2014 Harney County SD 3         ESSER II    2014-03    Audio/Video/Security Enhancement - Hines Middle School                   Yes
+2114 Harper SD 66               ESSER III   2114-01    HVAC Replacement                                                         Yes
+2099 Harrisburg SD 7J           ESSER III   2099-01    Elementary School/Middle School HVAC                                     Yes
+2201 Helix SD 1                 ESSER II    2201-01    Helix SD Custodial Floor Scrubber                                        Yes
+2201 Helix SD 1                 ESSER II    2201-02    Helix SD Custodial Battery Powered Floor Mop - I-mop XL Plus 18"         Yes
+2206 Hermiston SD 8             ESSER II    2206-01    Sandstone Middle School Clock & IP Speaker Upgrade                       Yes
+2206 Hermiston SD 8             ESSER II    2206-03    Desert View Elementary School HVAC Upgrade                               Yes
+2206 Hermiston SD 8             ESSER III   2206-04    HHS Athletic Trainer Room Expansion                                      Yes
+2206 Hermiston SD 8             ESSER III   2206-05    HHS HVAC Chiller                                                         Yes
+2206 Hermiston SD 8             ESSER III   2206-06    WPES HVAC Chiller                                                        Yes
+2206 Hermiston SD 8             ESSER III   2206-07    HHS SPED Conference Rooms                                                Yes
+2206 Hermiston SD 8             ESSER II    2206-08    Rocky Heights Elem. I-MOPXL floor scrubber                               Yes
+2206 Hermiston SD 8             ESSER II    2206-09    Rocky Heights Elem. I-MOPXL floor scrubber                               Yes
+2206 Hermiston SD 8             ESSER II    2206-10    District Office Carpet Extractor                                         Yes
+2206 Hermiston SD 8             ESSER II    2206-11    DVES Carpet Extractor                                                    Yes
+2206 Hermiston SD 8             ESSER II    2206-12    HHS Carpet Extractor                                                     Yes
+2206 Hermiston SD 8             ESSER II    2206-13    LHES Scrubber                                                            Yes
+2206 Hermiston SD 8             ESSER II    2206-14    RHES Scrubber                                                            Yes
+1975 High Desert ESD            ESSER II    1975-01    Plasma Air Ionization Air Cleaners at PEC                                Yes
+1975 High Desert ESD            ESSER II    1975-02    Plasma Air Cleaners at Alyce Hatch Center                                Yes
+1975 High Desert ESD            ESSER II    1975-03    Plasma Air Cleaners at Manzanita Building                                Yes
+1975 High Desert ESD            ESSER II    1975-04    Plasma Air Cleaners at HDREC Building                                    Yes
+1975 High Desert ESD            ESSER II    1975-05    Prineville Education Center Classroom Construction                       Yes
+1975 High Desert ESD            ESSER II    1975-06    Madras Classroom Bathroom Addition                                       Yes
+1975 High Desert ESD            ESSER II    1975-07    Tamarack Vestibule                                                       Yes
+1975 High Desert ESD            ESSER II    1975-08    Soundproof Pods                                                          Yes
+2239 Hillsboro SD 1J            ESSER II    2239-01    Witch Hazel Elementary School HVAC                                       Yes
+2239 Hillsboro SD 1J            ESSER II    2239-02    Imlay Elementary School HVAC Controls Retrofit                           Yes
+2239 Hillsboro SD 1J            ESSER II    2239-03    Nutrition Services Bulk Receiving Freezer Project                        Yes
+2239 Hillsboro SD 1J            ESSER II    2239-04    Jackson Elementary School HVAC Controls Retrofit                         Yes
+2239 Hillsboro SD 1J            ESSER II    2239-07    Butternut Creek Elementary School HVAC Controls Retrofit 2021            Yes
+2239 Hillsboro SD 1J            ESSER III   2239-08    Type 20 Activity Bus Purchases                                           Yes
+2239 Hillsboro SD 1J            ESSER II    2239-09    School Bus Purchases                                                     Yes
+2239 Hillsboro SD 1J            ESSER III   2239-10    Administration Center Building Improvements                              Yes
+2024 Hood River County SD       ESSER III   2024-01    Mid Valley Elementary School Air Handling Repair                         Yes
+2024 Hood River County SD       ESSER III   2024-02    Parkdale Ventilation and Air Handling Installation                       Yes
+2215 Imbler SD 11               ESSER II    2215-02    High School Foyer/Office HVAC                                            Yes
+2215 Imbler SD 11               ESSER III   2215-03    Locker Room Relocation                                                   Yes
+2215 Imbler SD 11               ESSER II    2215-04    Gym HVAC                                                                 Yes
+2200 InterMountain ESD          ESSER II    2200-01    Malheur ESD HVAC -EI/ECSE                                                Yes
+2200 InterMountain ESD          ESSER II    2200-02    Carpet Extractor                                                         Yes
+2200 InterMountain ESD          ESSER II    2200-03    Main Building Mini-Split                                                 Yes
+2200 InterMountain ESD          ESSER II    2200-04    Malheur EI/ECSE Playground Project                                       Yes
+2200 InterMountain ESD          ESSER II    2200-05    Main Building Mini-Split 2nd Request                                     Yes
+3997 Ione SD R2                 ESSER II    3997-01    Air Quality Improvements                                                 Yes
+2053 Jefferson County SD 509J   ESSER II    2053-01    JCMS - HVAC Repairs                                                      Yes
+2053 Jefferson County SD 509J   ESSER II    2053-02    Pavilion Structures                                                      Yes
+2053 Jefferson County SD 509J   ESSER II    2053-02A   Pavilion Structures- Additional Buildings                                Yes
+2053 Jefferson County SD 509J   ESSER II    2053-03    Storage Units                                                            Yes
+2049 Jefferson ESD              ESSER II    2049-01    HVAC and Lighting Upgrades                                               Yes
+2049 Jefferson ESD              ESSER II    2049-02    Exterior Door Replacement                                                Yes
+2140 Jefferson SD 14J           ESSER II    2140-01    Jefferson High School Bleachers                                          Yes
+1934 Jewell SD 8                ESSER III   1934-01    Internet Towers for Jewell School Community                              Yes
+1934 Jewell SD 8                ESSER III   1934-02    HVAC Updates Jewell High School                                          Yes
+1934 Jewell SD 8                ESSER II    1934-03    New Bus                                                                  Yes
+1934 Jewell SD 8                ESSER II    1934-04    Gym partition/wall/curtain                                               Yes
+1934 Jewell SD 8                ESSER II    1934-05A   Enlarge Commons Area                                                     Yes
+1934 Jewell SD 8                ESSER III   1934-05B   Enlarge Commons Area                                                     Yes
+2008 John Day SD 3              ESSER II    2008-01    Phone System upgrade                                                     Yes
+2008 John Day SD 3              ESSER II    2008-02    Camera system upgrade                                                    Yes
+2008 John Day SD 3              ESSER II    2008-03    Website upgrade                                                          Yes
+2008 John Day SD 3              ESSER II    2008-04    Humbolt Elem and Grant Union Jr/Sr High School Chromebooks               Yes
+2008 John Day SD 3              ESSER II    2008-05    Air Purifiers                                                            Yes
+2107 Jordan Valley SD 3         ESSER II    2107-01    High school Security Camera System                                       Yes
+2107 Jordan Valley SD 3         ESSER II    2107-02    Desks and Chairs for Jordan Valley Elementary and Rockville Elementary   Yes
+2107 Jordan Valley SD 3         ESSER II    2107-03    New Carpet and Linoleum for Jordan Valley Elementary                     Yes
+2091 Junction City SD 69        ESSER III   2091-01A   Modular Classrooms for Oaklea Middle School                              Yes
+2091 Junction City SD 69        ESSER II    2091-01B   Modular Classrooms for Oaklea Middle School                              Yes
+2091 Junction City SD 69        ESSER III   2091-02    JCHS Window Replacement                                                  Yes
+2091 Junction City SD 69        ESSER III   2091-03    Junction City High School-West Wing                                      Yes
+2091 Junction City SD 69        ESSER III   2091-04    Junction City High School-East Wing HVAC Units                           Yes
+2091 Junction City SD 69        ESSER III   2091-05    Junction City High School Preschool Promise Room Update                  Yes
+2109 Juntura SD 12              ESSER II    2109-01    Juntura SD Playground                                                    Yes
+2109 Juntura SD 12              ESSER III   2109-02    Juntura SD Window Installation                                           Yes
+2057 Klamath County SD          ESSER II    2057-01    Shasta Elementary Classroom Addition                                     Yes
+2057 Klamath County SD          ESSER II    2057-02    Chiloquin Track Renovation                                               Yes
+2057 Klamath County SD          ESSER III   2057-04    Shasta Elementary Bathroom Remodel                                       Yes
+2057 Klamath County SD          ESSER III   2057-05    Mazama Turf Fields                                                       Yes
+2057 Klamath County SD          ESSER III   2057-06    Henley High School HVAC                                                  Yes
+2057 Klamath County SD          ESSER III   2057-08    Chiloquin High School Turf Field                                         Yes
+2057 Klamath County SD          ESSER III   2057-09    Chiloquin Elementary New Flooring                                        Yes
+2057 Klamath County SD          ESSER III   2057-10    Merrill Elementary School Flooring Upgrades                              Yes
+2057 Klamath County SD          ESSER III   2057-11    High School Bleacher Replacement                                         Yes
+2057 Klamath County SD          ESSER III   2057-13    Peterson Elementary Parking Lot Resurface-Restriping                     Yes
+2057 Klamath County SD            ESSER III   2057-14    Stearns Elementary Track Project                               Yes
+2057 Klamath County SD            ESSER III   2057-15    Lost River Community Center Construction                       Yes
+2057 Klamath County SD            ESSER III   2057-17    Ferguson Elementary HVAC Controls Upgrade                      Yes
+2057 Klamath County SD            ESSER III   2057-18    HVAC Controls Upgrade - Malin Elementary School                Yes
+2057 Klamath County SD            ESSER III   2057-19    District Firewall Upgrade                                      Yes
+2057 Klamath County SD            ESSER III   2057-20    Remodel/Renovation of Mazama HS Kitchen                        Yes
+2057 Klamath County SD            ESSER II    2057-21    Chiloquin Gymnasium                                            Yes
+2057 Klamath County SD            ESSER III   2057-22    Bonanza Gymnasium                                              Yes
+2057 Klamath County SD            ESSER II    2057-23    Henley High School Green House                                 Yes
+2057 Klamath County SD            ESSER II    2057-24    McKinney Vento Homeless Liaison Vehicle                        Yes
+2057 Klamath County SD            ESSER II    2057-25    Alternative Ed Annex Renovation                                Yes
+2057 Klamath County SD            ESSER III   2057-26    Henley Middle School Expansion and Renovation                  Yes
+2057 Klamath County SD            ESSER III   2057-27    Brixner Junior High School Expansion and Renovation            Yes
+2056 Klamath Falls City Schools   ESSER II    2016-04    Pelican Elementary HVAC                                        pending
+2056 Klamath Falls City Schools   ESSER II    2016-05    Roosevelt Elementary HVAC                                      Yes
+2056 Klamath Falls City Schools   ESSER II    2056-01    Classroom Remodel EagleRidge High School                       Yes
+2056 Klamath Falls City Schools   ESSER II    2056-02    Network Security and Capacity Improvement                      Yes
+2056 Klamath Falls City Schools   ESSER II    2056-03    Bus Purchase                                                   Yes
+2056 Klamath Falls City Schools   ESSER III   2056-06    EagleRidge High School CTE Building                            pending
+2262 Knappa SD 4                  ESSER II    2262-01    Knappa High School HVAC Updates                                Yes
+2262 Knappa SD 4                  ESSER II    2262-02    Knappa High School Window Updates                              Yes
+2262 Knappa SD 4                  ESSER III   2262-03    Hilda Lahti Elementary HVAC Controls                           Yes
+2212 La Grande SD 1               ESSER III   2212-01    Summer Activities Transportation and IT Services               Yes
+2212 La Grande SD 1               ESSER III   2212-02    Greenwood Playground                                           Yes
+2212 La Grande SD 1               ESSER III   2212-03    Island City Elementary - Expanding Student Play                Yes
+2059 Lake County SD 7             ESSER III   2059-01    Snow Plow Pickup                                               Yes
+2064 Lane ESD                     ESSER II    2064-01    Westmoreland HVAC Upgrades                                     Yes
+2064 Lane ESD                     ESSER II    2064-02    Touchless Water Dispenser Installation                         Yes
+2064 Lane ESD                     ESSER II    2064-03    Touchless Water Dispensers, Spark Lab                          Yes
+2064 Lane ESD                     ESSER II    2064-04    Westmoreland Campus Outdoor Furniture                          Yes
+2064 Lane ESD                     ESSER II    2064-06    HVAC Upgrades to Lane ESD Main Campus                          Yes
+2064 Lane ESD                     ESSER II    2064-07    Technology Workspace Expansion                                 Yes
+2064 Lane ESD                     ESSER II    2064-08    Migrant Education Space Remodel                                Yes
+2064 Lane ESD                     ESSER II    2064-09    Westmoreland Patio Project                                     Yes
+2101 Lebanon Community SD 9       ESSER II    2101-01    Seven Oak Middle School Modular Classrooms                     Yes
+2101 Lebanon Community SD 9       ESSER II    2101-02    Sand Ridge Charter School Equipment, HVAC, and Storage         Yes
+2101 Lebanon Community SD 9       ESSER II    2101-03    LHS Gym Indoor Air Quality Repair                              Yes
+2101 Lebanon Community SD 9       ESSER III   2101-04    Seven Oak Middle School Modular Classrooms                     Yes
+2101 Lebanon Community SD 9       ESSER III   2101-05    Sandridge Charter Flooring and Parking Lot Updates             Yes
+2101 Lebanon Community SD 9       ESSER II    2101-06    Food Service Counter                                           Yes
+2101 Lebanon Community SD 9       ESSER III   2101-07    Food Preparation Refrigeration Unit                            Yes
+2097 Lincoln County SD            ESSER III   2097-01    Yaquina View Elementary Gym                                    Yes
+2097 Lincoln County SD            ESSER II    2097-02    Siletz Valley School MS Bathroom Upgrades and Renovations      Yes
+2097 Lincoln County SD            ESSER III   2097-03    Newport High School Outdoor Grandstands & Bathrooms            Yes
+2097 Lincoln County SD            ESSER II    2097-04    Siletz Valley School Bleachers - Indoor/Outdoor Activities     Yes
+2097 Lincoln County SD            ESSER II    2097-05    Siletz Valley School Classroom Carpet and Flooring             Yes
+2097 Lincoln County SD            ESSER II    2097-06    TAHS Emergency Communications                                  Yes
+2097 Lincoln County SD            ESSER II    2097-07    Taft High School Communications                                Yes
+2097 Lincoln County SD            ESSER II    2097-08    TLC Public Address System                                      Yes
+2097 Lincoln County SD            ESSER III   2097-09    Siletz Gates/Fencing                                           Yes
+2097 Lincoln County SD            ESSER III   2097-10    Siletz Valley Schools - Phone System Upgrade                   Yes
+2097 Lincoln County SD            ESSER III   2097-11    Compass K-12 Online School - Arcadia Phone System              Yes
+2098 Linn Benton Lincoln ESD      ESSER II    2098-01    LBL ESD HVAC Improvement                                       Yes
+2098 Linn Benton Lincoln ESD      ESSER II    2098-02    LBL ESD Window Improvement                                     Yes
+2098 Linn Benton Lincoln ESD      ESSER II    2098-03    Dixie School ADA Ramp Replacement                              Yes
+2012 Long Creek SD 17             ESSER II    2012-01    School District Staff Housing Repair                           Yes
+2012 Long Creek SD 17             ESSER III   2012-02    School District Gym Floor Repair                               Yes
+2012 Long Creek SD 17             ESSER III   2012-03    LC School District Security Cameras                            Yes
+2012 Long Creek SD 17             ESSER II    2012-04    Playground Safety                                              Yes
+2092 Lowell SD 71                 ESSER III   2092-01    Lowell High School Outdoor Weight Room Tents                   Yes
+2092 Lowell SD 71                 ESSER III   2092-02    Lowell High School Outdoor Weight Training Fitness Equipment   Yes
+2092 Lowell SD 71                 ESSER III   2092-03    Business Office Manager Office Upgrade                         Yes
+2092 Lowell SD 71                 ESSER III   2092-04    Additional Classroom Space                                     Yes
+2092 Lowell SD 71                 ESSER III   2092-05    Summer Learning Program Vans                                   Pending
+2106 Malheur ESD Region 14        ESSER II    2106-01    Malheur Early Learning Center Classrooms                       Yes
+2085 Mapleton SD 32               ESSER II    2085-01    Bus Purchase                                                   Yes
+2085 Mapleton SD 32               ESSER III   2085-02    Elementary School Preparation                                  Yes
+2085 Mapleton SD 32               ESSER III   2085-03    Elementary Play Structure                                      Yes
+2094 Marcola SD 79J               ESSER II    2094-01A   Marcola SD Portables and Restroom                              Yes
+2094 Marcola SD 79J               ESSER III   2094-01B   Marcola SD Portables and Restroom                              Yes
+2094 Marcola SD 79J               ESSER II    2094-02A   Electronic Door Locks                                          Yes
+2094 Marcola SD 79J               ESSER III   2094-02B   Electronic Door Locks                                          Yes
+2090 McKenzie SD 68               ESSER III   2090-01    McKenzie School Bus                                            Yes
+2090 McKenzie SD 68               ESSER III   2090-02    Improvement to preschool space                                 Yes
+2048 Medford SD 549C              ESSER II    2048-01    Jefferson Elementary HVAC                                      Yes
+2048 Medford SD 549C              ESSER II    2048-02    Hoover Elementary HVAC                                         Yes
+2048 Medford SD 549C              ESSER II    2048-03    Purchase of Facility for Online Academy                        Yes
+2048 Medford SD 549C              ESSER III   2048-04    Oakdale Facility Expansion                                     Yes
+2048 Medford SD 549C              ESSER II    2048-05    Medford SD Education Center HVAC                               Yes
+2048 Medford SD 549C              ESSER II    2048-06    McLoughlin Middle School HVAC                                  Yes
+2048 Medford SD 549C              ESSER II    2048-07    Hedrick Middle School HVAC                                     Yes
+2048 Medford SD 549C              ESSER II    2048-08    Maslow Project HVAC                                            Yes
+2048 Medford SD 549C              ESSER II    2048-09    Griffen Creek Elementary HVAC                                  Yes
+2048 Medford SD 549C              ESSER III   2048-10    Jacksonville Elementary HVAC                                   Yes
+2048 Medford SD 549C              ESSER II    2048-11    Medford Online Academy HVAC                                    Yes
+2048 Medford SD 549C              ESSER II    2048-12    MSDEC Gym Chiller                                              Yes
+2048 Medford SD 549C              ESSER II    2048-13    Madrone Trail Charter School Yurts                             Yes
+2048 Medford SD 549C              ESSER II    2048-14    Battery Backup Unit for Additional Surveillance System         Yes
+2048 Medford SD 549C              ESSER II    2048-15    Outdoor CTE Classroom and Storage Facility                     Yes
+2048 Medford SD 549C              ESSER III   2048-16    Outdoor Seating Tables                                         Yes
+2048 Medford SD 549C              ESSER II    2048-17    Oakdale Middle School Auditorium Chiller                       Yes
+2048 Medford SD 549C              ESSER II    2048-18    Medford Annex HVAC Upgrade                                     Yes
+2048 Medford SD 549C              ESSER III   2048-19    The Valley School of Southern Oregon Larger Classrooms         Yes
+2048 Medford SD 549C              ESSER III   2048-20    Madrone Trail Charter Modular Classroom                        Yes
+2048 Medford SD 549C              ESSER III   2048-21    Madrone Trail Charter Early Grades Bathroom Update             Yes
+2048 Medford SD 549C              ESSER II    2048-22    School Activities Van - Logos                                  Yes
+2048 Medford SD 549C                 ESSER II    2048-23A   Student Information System Upgrade - Logos                                     Yes
+2048 Medford SD 549C                 ESSER III   2048-23B   Student Information System Upgrade - Logos                                     Yes
+2048 Medford SD 549C                 ESSER II    2048-24    Security Upgrades- Logos                                                       Yes
+2048 Medford SD 549C                 ESSER III   2048-25    The Valley School Charter Multi-Purpose Space                                  Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-01    Lunch Services Vehicle - Cargo Van                                             Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-02    Transportation Ford Passenger SUV                                              Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-03    High School Gym HVAC                                                           Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-04    Ferndale Elementary HVAC                                                       Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-06    District Intercom and Alert System                                             Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-07    Teacher Instructional Flat Panels                                              Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-08    Lighting Structure System at Grove Complex                                     Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-09    Gymnasium Curtain Dividers                                                     Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-10    Lighting Structure System at Shockman Complex                                  Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-11A   Building Educational Additional Classrooms                                     Yes
+2205 Milton-Freewater Unified SD 7   ESSER III   2205-11B   Building Educational Additional Classrooms                                     Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-12    Ford Passenger SUV #2                                                          Yes
+2205 Milton-Freewater Unified SD 7   ESSER III   2205-13    Interactive Flat Panels                                                        Yes
+2205 Milton-Freewater Unified SD 7   ESSER II    2205-14    Central Middle School HVAC                                                     Yes
+2249 Mitchell SD 55                  ESSER II    2249-01    Dormitory HVAC System                                                          Yes
+2249 Mitchell SD 55                  ESSER III   2249-02    Type 10 Transportation                                                         Yes
+1925 Molalla River SD 35             ESSER III   1925-01    Molalla River Academy Middle School Modular                                    Yes
+1898 Monroe SD 1J                    ESSER III   1898-01    Monroe Grade School Outdoor Learning Space                                     Yes
+1898 Monroe SD 1J                    ESSER III   1898-02    Monroe High School Outdoor Learning Space                                      Yes
+1898 Monroe SD 1J                    ESSER II    1898-03    Monroe Grade School Ventilation Upgrade                                        Yes
+2147 Morrow SD 1                     ESSER II    2147-01    Windy River Elementary Parking Lot                                             Yes
+2147 Morrow SD 1                     ESSER II    2147-02    Sam Boardman Elementary Parking Lot                                            Yes
+2147 Morrow SD 1                     ESSER II    2147-03    Type 10 Vehicles                                                               Yes
+2147 Morrow SD 1                     ESSER II    2147-04    Entry Security (All Schools)                                                   Yes
+2147 Morrow SD 1                     ESSER II    2147-05    AC Houghton Controls                                                           Yes
+2147 Morrow SD 1                     ESSER II    2147-06    Irrigon Junior Senior High School Controls and HVAC Replacement                Yes
+2147 Morrow SD 1                     ESSER II    2147-07    Riverside Junior Senior High School Controls and HVAC                          Yes
+2147 Morrow SD 1                     ESSER III   2147-08    Heppner Junior Senior High School Controls and HVAC Replacement                Yes
+2147 Morrow SD 1                     ESSER II    2147-09    Sam Boardman Elementary Controls and HVAC Replacement                          Yes
+2148 Multnomah ESD                   ESSER II    2148-01    Arata Creek HVAC Controls                                                      Yes
+2148 Multnomah ESD                   ESSER II    2148-02    Wireless Networking Capacity                                                   Yes
+2148 Multnomah ESD                   ESSER II    2148-03    Networking Equipment Refresh                                                   Yes
+2148 Multnomah ESD                   ESSER II    2148-04    Burlingame Creek HVAC Controls                                                 Yes
+2148 Multnomah ESD                   ESSER II    2148-05    Added security cameras at Knott Creek                                          Yes
+2148 Multnomah ESD                   ESSER II    2148-06    Security cameras at Ainsworth                                                  Yes
+2148 Multnomah ESD                   ESSER II    2148-07    Exterior Lighting at Ainsworth                                                 Yes
+2148 Multnomah ESD                   ESSER II    2148-08    Fencing at Ainsworth                                                           Yes
+2148 Multnomah ESD                   ESSER II    2148-09    Outdoor School Advenchair                                                      Yes
+2148 Multnomah ESD                   ESSER II    2148-10    Ainsworth HVAC Hardware Platform                                               Yes
+2148 Multnomah ESD                   ESSER II    2148-11    Front Door Security at Ainsworth                                               Yes
+2148 Multnomah ESD                   ESSER II    2148-12    A/V Equipment at Ainsworth                                                     Yes
+2148 Multnomah ESD                   ESSER II    2148-13    Replacing NVRs in Security Systems                                             Yes
+2148 Multnomah ESD                   ESSER II    2148-14    Arata HVAC Maintenance                                                         Yes
+2148 Multnomah ESD                   ESSER II    2148-15    BCS HVAC Maintenance                                                           Yes
+2148 Multnomah ESD                   ESSER II    2148-16    UPS Upgrade for Network Closets                                                Yes
+2148 Multnomah ESD                   ESSER II    2148-17    Auditorium Projector Upgrade                                                   Yes
+2148 Multnomah ESD                   ESSER II    2148-18    OTDR Fiber Tool                                                                Yes
+2148 Multnomah ESD                   ESSER II    2148-19    Finalize Conference Room AV Upgrades                                           Yes
+1968 Myrtle Point SD 41              ESSER II    1968-01    Myrtle Crest Elementary                                                        Yes
+1968 Myrtle Point SD 41              ESSER II    1968-02    Myrtle Crest Elementary HVAC Wiring                                            Yes
+1968 Myrtle Point SD 41              ESSER III   1968-03    Myrtle Point SD Transportation                                                 Yes
+2198 Neah-Kah-Nie SD 56              ESSER II    2198-01    High School Student Based Health Center HVAC                                   Yes
+2198 Neah-Kah-Nie SD 56              ESSER II    2198-02A   Neah-Kah-Nie High School HVAC project                                          Yes
+2198 Neah-Kah-Nie SD 56              ESSER III   2198-02B   Neah-Kah-Nie High School HVAC project                                          Yes
+2199 Nestucca Valley SD 101          ESSER II    2199-01A   Nestucca Valley Wired Wireless Internet Tower Project                          Yes
+2199 Nestucca Valley SD 101          ESSER III   2199-01B   Nestucca Valley Wired Wireless Internet Tower Project                          Yes
+2199 Nestucca Valley SD 101          ESSER III   2199-02    Cloverdale K-8 Playground                                                      Yes
+2199 Nestucca Valley SD 101          ESSER III   2199-03    Wrestling Mats                                                                 Yes
+2254 Newberg SD 29J                  ESSER III   2254-01    Accounting Module Upgrade                                                      Yes
+1966 North Bend SD 13                ESSER II    1966-01A   North Bay Elementary Modular                                                   Yes
+1966 North Bend SD 13                ESSER III   1966-01B   North Bay Elementary Modular                                                   Yes
+1966 North Bend SD 13                ESSER II    1966-02A   Hillcrest Elementary Modulars                                                  Yes
+1966 North Bend SD 13                ESSER III   1966-02B   Hillcrest Elementary Modulars                                                  Yes
+1966 North Bend SD 13                ESSER III   1966-03    North Bend SD Floor Scrubbing Equipment                                        Yes
+1966 North Bend SD 13                ESSER III   1966-04    HVAC/Boiler System Upgrades                                                    Yes
+2004 North Central ESD               ESSER II    2004-01    Door Locks                                                                     Yes
+2004 North Central ESD               ESSER II    2004-02    Copy Machine                                                                   Yes
+2004 North Central ESD               ESSER II    2004-03    Electrical Repairs and Upgrade                                                 Yes
+1924 North Clackamas SD 12           ESSER II    1924-01    Rex Putnam High School Advance Ride-On Scrubber                                Yes
+1924 North Clackamas SD 12           ESSER II    1924-02    North Clackamas SD Genie GR-20 Lift                                            Yes
+1924 North Clackamas SD 12           ESSER II    1924-03    Beatrice Morrow Cannady Elementary HVAC Controls                               Yes
+1924 North Clackamas SD 12           ESSER III   1924-04    Putnam High Aged HVAC Unit Replacement                                         Yes
+1996 North Douglas SD 22             ESSER III   1996-01    HS HVAC FOR HS Gym and Hallways                                                Yes
+1996 North Douglas SD 22             ESSER II    1996-02    HS Lockers                                                                     Yes
+1996 North Douglas SD 22             ESSER II    1996-03    Elementary School Mold Damage                                                  Yes
+1996 North Douglas SD 22             ESSER III   1996-04    Elementary/Middle School Improve back entrance/exit                            Yes
+1996 North Douglas SD 22             ESSER II    1996-06    Elementary School Technology wiring                                            Yes
+1996 North Douglas SD 22             ESSER III   1996-07    NDSD HVAC High School Room 10 and HS office                                    Yes
+1996 North Douglas SD 22             ESSER II    1996-08    NDSD Library Air Transfer                                                      Yes
+1996 North Douglas SD 22             ESSER II    1996-09    ES/MS Floors for added classrooms                                              Yes
+1996 North Douglas SD 22             ESSER II    1996-10    Replace floor in HS Computer Lab                                               Yes
+1996 North Douglas SD 22             ESSER III   1996-11    District Office building HVAC                                                  Yes
+1996 North Douglas SD 22             ESSER III   1996-12    Student Shop building HVAC                                                     Yes
+1996 North Douglas SD 22             ESSER II    1996-13    HS Locker Room HVAC                                                            Yes
+1996 North Douglas SD 22             ESSER III   1996-14    NDSD HS Security System - Access Control Multipurpose Bldg                     Yes
+1996 North Douglas SD 22             ESSER III   1996-15    NDSD Elementary and Middle School Security and Communications Phase I          Yes
+1996 North Douglas SD 22             ESSER III   1996-16    NDSD Elementary Security System - Access Control Front entrance and Playshed   Yes
+1996 North Douglas SD 22             ESSER III   1996-17    NDSD Elementary and Middle School Security and Communications Phase II         Yes
+1996 North Douglas SD 22             ESSER III   1996-18    NDSD Elementary and Middle School Security and Communications Phase III        Yes
+2061 North Lake SD 14                ESSER III   2061-01    Type 10 Vehicles                                                               Yes
+2061 North Lake SD 14                ESSER III   2061-02    Food Truck/Trailer                                                             Yes
+2141 North Marion SD 15              ESSER II    2141-01    On Target Electrostatic Room Sprayers and Batteries                            Yes
+2141 North Marion SD 15         ESSER II    2141-02    HVAC Assessment and upgrade or replacement as needed                           Yes
+2214 North Powder SD 8J         ESSER II    2214-01    North Powder Elementary Auto Scrubber/HVAC Updates                             Yes
+2214 North Powder SD 8J         ESSER II    2214-02    All purpose utility vehicle/snow blade                                         Yes
+2214 North Powder SD 8J         ESSER II    2214-03    Playground Security Fence                                                      Yes
+2143 North Santiam SD 29J       ESSER II    2143-01    Outdoor Covered Classroom Space                                                Yes
+2143 North Santiam SD 29J       ESSER II    2143-02    Stayton Middle School Carpet Replacement                                       Yes
+2143 North Santiam SD 29J       ESSER II    2143-03    Stayton Middle School HVAC                                                     Yes
+2143 North Santiam SD 29J       ESSER II    2143-04    Mari Linn Elementary School HVAC                                               Yes
+2143 North Santiam SD 29J       ESSER II    2143-05    Sublimity Elementary School HVAC                                               Yes
+2143 North Santiam SD 29J       ESSER II    2143-06    Stayton High School HVAC                                                       Yes
+2143 North Santiam SD 29J       ESSER II    2143-07    Mari-Linn School HVAC Office/Health Student Assistance Room                    Yes
+2143 North Santiam SD 29J       ESSER II    2143-08    Stayton Middle School HVAC Summer School Student Support Areas/School Office   Yes
+2143 North Santiam SD 29J       ESSER II    2143-09    Stayton Elementary School Floor Scrubber                                       Yes
+2143 North Santiam SD 29J       ESSER II    2143-10    Sublimity Elementary School Floor Scrubber                                     Yes
+2143 North Santiam SD 29J       ESSER II    2143-11    Stayton High School Floor Scrubbers                                            Yes
+2143 North Santiam SD 29J       ESSER III   2143-12    Stayton Options Academy Building                                               Yes
+2143 North Santiam SD 29J       ESSER III   2143-13    Mari-Linn Elementary Outdoor Covered Classroom Space                           Yes
+4131 North Wasco County SD 21   ESSER III   4131-02    The Dalles High School Outdoor Cafeteria Shelter                               Yes
+4131 North Wasco County SD 21   ESSER III   4131-05    Nutrition Services Refrigerated Van                                            Yes
+4131 North Wasco County SD 21   ESSER II    4131-06    Eastside Building Upgrade                                                      Yes
+4131 North Wasco County SD 21   ESSER II    4131-07    Mosier Community School Upper Floor/Gismo building HVAC                        Yes
+4131 North Wasco County SD 21   ESSER II    4131-08    Mosier Community School Lower Floor HVAC                                       Yes
+4131 North Wasco County SD 21   ESSER II    4131-09    Chenowith Elementary School Outdoor Eating Area                                Yes
+4131 North Wasco County SD 21   ESSER III   4131-10    The Dalles High School Food Truck                                              Yes
+2230 Northwest Regional ESD     ESSER II    2230-01    NWRESD Washington Service Center HVAC                                          Yes
+2230 Northwest Regional ESD     ESSER II    2230-02    NWRESD Sanitizing System Utilizing Dry Mist Nebulizers                         Yes
+2230 Northwest Regional ESD     ESSER II    2230-03    HVAC and Air Quality Improvements                                              Yes
+2230 Northwest Regional ESD     ESSER II    2230-04    Employee Workspace                                                             Yes
+2230 Northwest Regional ESD     ESSER II    2230-05    AV Upgrades                                                                    Yes
+2230 Northwest Regional ESD     ESSER II    2230-06    SIEM/SOAR (Security Analysis Device)                                           Yes
+2230 Northwest Regional ESD     ESSER II    2230-07    Advanced Thermal Imager                                                        Yes
+2110 Nyssa SD 26                ESSER II    2110-01    Bus Purchases (2x 84 passenger & 2x Type 20)                                   Yes
+2110 Nyssa SD 26                ESSER II    2110-02    Satellite Kitchen Equipment                                                    Yes
+2110 Nyssa SD 26                ESSER II    2110-03    Nyssa Elementary Playground Equipment                                          Yes
+2110 Nyssa SD 26                ESSER III   2110-04    High School HVAC upgrade                                                       Yes
+2110 Nyssa SD 26                ESSER III   2110-05    High school office addition and commons area remodel                           Yes
+1990 Oakland SD 1               ESSER II    1990-01    HVAC for Oakland Elementary School                                             Yes
+1990 Oakland SD 1               ESSER II    1990-02    HVAC for Oakland High School                                                   Yes
+1990 Oakland SD 1               ESSER II    1990-03    HVAC for Lincoln Middle School                                                 Yes
+1990 Oakland SD 1               ESSER II    1990-04    Health and PE Equipment for Wellness classroom                                 Yes
+1990 Oakland SD 1               ESSER III   1990-05    Oakland District Office Relocation                                             pending
+1990 Oakland SD 1               ESSER II    1990-06A   Lincoln Middle School Play Shed                                                Yes
+1990 Oakland SD 1               ESSER III   1990-06B   Lincoln Middle School Play Shed                                                Yes
+2093 Oakridge SD 76             ESSER III   2093-02    District wide Window/Screen Replacements                                       Yes
+2093 Oakridge SD 76             ESSER III   2093-03    Westridge High School HVAC                                                     Yes
+2093 Oakridge SD 76             ESSER II    2093-04    Oakridge High School Air Ventilation Project                                   Yes
+2093 Oakridge SD 76             ESSER II    2093-05    School Based Health Center                                                     Yes
+2093 Oakridge SD 76             ESSER II    2093-06    High School Locker Rooms                                                       Yes
+2093 Oakridge SD 76             ESSER II    2093-07    HS Welding Ventilation Remodel                                                 Yes
+2093 Oakridge SD 76             ESSER III   2093-08    Telephone System Improvement                                                   Yes
+2093 Oakridge SD 76             ESSER III   2093-09    HS Gym Lights                                                                  Yes
+2093 Oakridge SD 76             ESSER III   2093-10    Exterior Doors/Security                                                        Yes
+2093 Oakridge SD 76             ESSER II    2093-11    CTE Expansion                                                                  pending
+2108 Ontario SD 8C              ESSER III   2108-01    Classroom Expansion                                                            Yes
+2108 Ontario SD 8C              ESSER II    2108-02    OHS Window Replacement and Asbestos Abatement                                  Yes
+1928 Oregon City SD 62          ESSER II    1928-01    Barclay Boys Bathroom Remodel                                                  Yes
+1928 Oregon City SD 62          ESSER II    1928-02    Boys & Girls Locker Rooms/Bathrooms & Changing Stalls                          Yes
+1928 Oregon City SD 62          ESSER II    1928-03    LUCID Building Management Controls (HVAC Controls)                             Yes
+1928 Oregon City SD 62          ESSER II    1928-04    HVAC Infrastructure to Support LUCID Controls                                  Yes
+1928 Oregon City SD 62          ESSER II    1928-05    Cafeteria Overhead Garage Doors                                                Yes
+1928 Oregon City SD 62          ESSER II    1928-06    HVAC Upgrades to Band Mechanical Unit                                          Yes
+1928 Oregon City SD 62          ESSER II    1928-07    HVAC Upgrades Holcomb Elementary School                                        Yes
+1928 Oregon City SD 62          ESSER II    1928-08    HVAC Upgrades Candy Lane Elementary School                                     Yes
+1928 Oregon City SD 62          ESSER II    1928-09    HVAC Upgrades Redland Elementary School                                        Yes
+1928 Oregon City SD 62          ESSER III   1928-10    Outdoor Covered PE Area Springwater                                            Yes
+1926 Oregon Trail SD 46         ESSER II    1926-01    Boring Middle School Cafeteria Serving Line Equipment                          Yes
+1926 Oregon Trail SD 46         ESSER II    1926-02    Cafeteria Serving Line Equipment                                               Yes
+2060 Paisley SD 11              ESSER III   2060-01    Activity Van                                                                   Yes
+2181 Parkrose SD 3              ESSER II    2181-01    Sacramento Elementary Two Covered Play Structures                              Yes
+2181 Parkrose SD 3              ESSER III   2181-02    Roofing                                                                        Yes
+2181 Parkrose SD 3              ESSER III   2181-03    Replace and Repair 9 HVAC Compressor at Parkrose HS                            Yes
+2181 Parkrose SD 3              ESSER III   2181-04    District Office Security Cameras                                               Yes
+2181 Parkrose SD 3              ESSER III   2181-05    Sacramento Intercom System                                                     Yes
+2181 Parkrose SD 3              ESSER III   2181-06    H/S & M/S Tennis Courts                                                        Yes
+2192 Perrydale SD 21            ESSER II    2192-01    ON Target Electrostatic Sprayer                                                Yes
+2192 Perrydale SD 21            ESSER III   2192-02A   Classroom Modular (2 Qty)                                                      Yes
+2192 Perrydale SD 21            ESSER II    2192-02B   Classroom Modular (2 Qty)                                                      Yes
+1900 Philomath SD 17J           ESSER III   1900-01    Clemens Primary School Expansion                                               Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-01    Outdoor Discovery School (ODP) HVAC                                            Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-02    District Office HVAC Upgrade                                                   Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-03    Phoenix High School Weight Room HVAC                                           Yes
+2039 Phoenix-Talent SD 4        ESSER III   2039-04    Talent Middle School HVAC Upgrade                                              Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-05    Talent Outdoor Program HVAC Upgrade                                            Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-06    Maintenance Facility HVAC Upgrades                                             Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-07    Phoenix Elementary HVAC and Window Replacement                                 Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-08    Phoenix High School Media Arts CTE Lab Machines                                Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-09    Talent Elementary Playground Improvements                                      Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-10    Talent Middle School Interactive Screens                                       Yes
+2039 Phoenix-Talent SD 4        ESSER II    2039-11    Phoenix High School TLC playground/outdoor physical fitness area               Yes
+2202 Pilot Rock SD 2            ESSER II    2202-01    Secondary Building HVAC Repair                                                 Yes
+2202 Pilot Rock SD 2            ESSER II    2202-02    Elementary Building HVAC Repair                                                Yes
+2202 Pilot Rock SD 2            ESSER II    2202-03    Door Replacement, Stairs & ADA Ramp                                            Yes
+2202 Pilot Rock SD 2            ESSER III   2202-04    HVAC Upgrade - Elementary School                                               Yes
+2202 Pilot Rock SD 2            ESSER III   2202-05    HVAC Upgrade - High School                                                     Yes
+1897 Pine Eagle SD 61           ESSER II    1897-01    (2) Floor Cleaning Machines                                                    Yes
+2081 Pleasant Hill SD 1         ESSER II    2081-01    Classroom Ionization Air Handling Units (x31)                                  Yes
+2081 Pleasant Hill SD 1            ESSER II    2081-02A   High School Shop Wing HVAC                                              Yes
+2081 Pleasant Hill SD 1            ESSER III   2081-02B   High School Shop Wing HVAC                                              Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-01    District Air Purifiers                                                  Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-02    Pacific High School Lockers                                             Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-03    Driftwood Elementary Lockers                                            Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-04    Gym Floor                                                               Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-05    Driftwood Elementary Playshed Floor                                     Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-06    Pacific High School Track Resurfacing                                   Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-07    Pacific High School Media Lab Update                                    Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-08    Pacific High School Sidewalk/Step Installation                          Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-09    Driftwood Elementary Window Installation                                Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-10    Additional Air Purifiers                                                Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-11    Additional Air Purifiers                                                Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-12    Bus Purchase                                                            Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-13    Driftwood Cafeteria Tables                                              Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-14    Food Service Catering Truck and Trailer                                 Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-15    Driftwood Elementary Track                                              Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-16    Ventilation for Welding Room                                            Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-17    Driftwood Outdoor Play and Learning Area                                Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-18    Pacific High School Drainage System                                     Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-19    Pacific High School Outdoor Resurfacing                                 Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-20    POLSD Bus-Wheelchair Accessible                                         Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-21    Driftwood Elementary Outdoor Surfacing                                  Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-22    High School Cafeteria Expansion                                         Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER II    1973-23    District Digital Sign located at Driftwood Elementary                   Yes
+1973 Port Orford-Langlois SD 2CJ   ESSER III   1973-24    Student SIS System with Parent Communication System                     Yes
+2180 Portland SD 1J                ESSER II    2180-01    Tents for Outdoor Meals                                                 Yes
+2180 Portland SD 1J                ESSER III   2180-02    Helensview Security Fencing                                             Yes
+2180 Portland SD 1J                ESSER II    2180-03    Helensview Sound booth construction                                     Yes
+2180 Portland SD 1J                ESSER III   2180-04    New HVAC System                                                         Yes
+2180 Portland SD 1J                ESSER II    2180-05    Roof Repair                                                             Yes
+2180 Portland SD 1J                ESSER II    2180-06    Mt Scott Window Replacement                                             Yes
+2180 Portland SD 1J                ESSER II    2180-07    Mt Scott Indoor Air Quality                                             Yes
+2180 Portland SD 1J                ESSER II    2180-08    Helensview Walls                                                        Yes
+2180 Portland SD 1J                ESSER III   2180-09    Helensview Stage & Lights Safety Upgrade                                Yes
+2180 Portland SD 1J                ESSER II    2180-10    Mt Scott Door Replacement                                               Yes
+1967 Powers SD 31                  ESSER II    1967-01    Outdoor Classroom                                                       Yes
+2009 Prairie City SD 4             ESSER II    2009-01    Prairie City High School HVAC                                           Yes
+2009 Prairie City SD 4             ESSER III   2009-02    Bates Building Remodel                                                  Yes
+2009 Prairie City SD 4             ESSER III   2009-03    Book Vending Machines                                                   Yes
+2045 Prospect SD 59                ESSER II    2045-01    Multi-Purpose Room Floor Replacement                                    Yes
+2045 Prospect SD 59                ESSER II    2045-02    Prospect Charter School Classroom Windows and Installation              Yes
+2045 Prospect SD 59                ESSER III   2045-03    Type 10 Vehicle Purchase (3 Vans)                                       Yes
+1977 Redmond SD 2J                 ESSER III   1977-01    Type-10 Bus - 5 Row                                                     Yes
+1977 Redmond SD 2J                 ESSER III   1977-02    Type-10 Bus - 4 Row                                                     Yes
+1977 Redmond SD 2J                 ESSER III   1977-03    RSDFlex Office/Classroom Remodel                                        Yes
+1977 Redmond SD 2J                 ESSER III   1977-04    Two 30' x 60' Tents                                                     Yes
+1977 Redmond SD 2J                 ESSER III   1977-05    Four Large Rider Auto Scrubbers                                         Yes
+1977 Redmond SD 2J                 ESSER III   1977-06    Four Chariot Auto Scrubbers                                             Yes
+1977 Redmond SD 2J                 ESSER III   1977-07    Two Large Carpet Extractors                                             Yes
+1977 Redmond SD 2J                 ESSER III   1977-08    RHS ILS Fencing Project                                                 Yes
+1977 Redmond SD 2J                 ESSER III   1977-09    RHS CTE Electrical Project                                              Yes
+2001 Reedsport SD 105              ESSER III   2001-01    District Camera System                                                  Yes
+2001 Reedsport SD 105              ESSER III   2001-02    School District Delivery Van                                            Yes
+2001 Reedsport SD 105              ESSER III   2001-03    HES P.A. System                                                         Yes
+2001 Reedsport SD 105              ESSER III   2001-04    Asbestos Abatement                                                      Yes
+2001 Reedsport SD 105              ESSER III   2001-05    Asbestos Abatement                                                      Yes
+2001 Reedsport SD 105              ESSER III   2001-06    Electrical Panel Upgrades for Safe Learning Environment                 Yes
+2001 Reedsport SD 105              ESSER III   2001-07    Roofing Replacement for Safe Learning Environment                       Yes
+2001 Reedsport SD 105              ESSER III   2001-08    Reedsport Charter School P.A. System                                    Yes
+2001 Reedsport SD 105              ESSER III   2001-09    Security Cameras for School Buses                                       Yes
+2001 Reedsport SD 105              ESSER III   2001-10    District Nutrition Services Program Forklift                            Yes
+2001 Reedsport SD 105              ESSER III   2001-11    Outdoor Equipment Purchase- Tractor                                     Yes
+2001 Reedsport SD 105              ESSER III   2001-12    RCCS Gym Floor Resurfacing                                              Yes
+2182 Reynolds SD 7                 ESSER II    2182-01    Renovation of Edgefield Buildings I and J                               Yes
+2182 Reynolds SD 7                 ESSER II    2182-02    Modular Classroom                                                       Yes
+2182 Reynolds SD 7                 ESSER II    2182-03    Cubical Walls                                                           Yes
+2182 Reynolds SD 7                 ESSER II    2182-04    Tyler Drive Transportation System                                       Yes
+2182 Reynolds SD 7                 ESSER III   2182-05    Four Corners Building Renovation                                        Yes
+2182 Reynolds SD 7                 ESSER III   2182-06    Middle and High School Track Resurfacing (4 tracks)                     Yes
+1999 Riddle SD 70                  ESSER III   1999-01A   Riddle High School Outdoor Covered Area                                 Yes
+1999 Riddle SD 70                  ESSER III   1999-01B   Riddle High School Outdoor Covered Area PART 2                          Yes
+2142 Salem-Keizer SD 24J           ESSER II    2142-01    Optimum Learning Environment Charter School Water Bottle Fill Station   Yes
+2142 Salem-Keizer SD 24J           ESSER II    2142-02    Salem-Keizer SD Radio Upgrade Project                                   Yes
+2142 Salem-Keizer SD 24J           ESSER II    2142-04    Howard Street Charter School HVAC Replacement                           Yes
+2142 Salem-Keizer SD 24J           ESSER II    2142-05    Howard Street Charter School Fencing                                    Yes
+2142 Salem-Keizer SD 24J           ESSER II    2142-06A   Howard Street Charter School Dance Studio                               Yes
+2142 Salem-Keizer SD 24J           ESSER III   2142-06B   Howard Street Charter School Dance Studio                               Yes
+2142 Salem-Keizer SD 24J           ESSER III   2142-07    Howard Street Charter New HVAC                                          Yes
+2142 Salem-Keizer SD 24J           ESSER III   2142-08    Howard Street Charter Gutters and Student Safety                        Yes
+2104 Santiam Canyon SD 129J        ESSER III   2104-01A   SES HVAC Upgrade                                                        Yes
+2104 Santiam Canyon SD 129J        ESSER II    2104-01B   SES HVAC Upgrade                                                        Yes
+1944 Scappoose SD 1J               ESSER III   1944-01    Scappoose High School Cameras                                           Yes
+1944 Scappoose SD 1J               ESSER III   1944-02    Warren Elementary School Cameras                                        Yes
+1944 Scappoose SD 1J               ESSER III   1944-03    Scappoose Middle School Cameras                                         Yes
+1944 Scappoose SD 1J               ESSER III   1944-04    Otto Petersen Elementary School Cameras                                 Yes
+1944 Scappoose SD 1J               ESSER III   1944-05    Grant Watts Elementary School Cameras                                   Yes
+1944 Scappoose SD 1J               ESSER III   1944-06    South Columbia Family School Flooring                                   Yes
+2103 Scio SD 95                    ESSER III   2103-01    Scio School District Access Controls                                    Yes
+2103 Scio SD 95                    ESSER II    2103-02    Outdoor Playground Cover                                                Yes
+1935 Seaside SD 10                 ESSER II    1935-01    Cannon Beach Academy Mold Remediation in Attic                          Yes
+2257 Sheridan SD 48J               ESSER II    2257-01    Boiler Repair                                                           Yes
+2257 Sheridan SD 48J               ESSER II    2257-02    Septic Pump Replacement                                                 Yes
+2257 Sheridan SD 48J               ESSER II    2257-03    Ctech Building Escrow Deposit                                           Yes
+2257 Sheridan SD 48J               ESSER II    2257-04    Fire System Installation- Tiny Titans                                   Yes
+2257 Sheridan SD 48J               ESSER II    2257-05    Replace Deck/Landing- Tiny Titans                                       Yes
+ 2257 Sheridan SD 48J      ESSER II     2257-06     Play Structure                                                                    Yes
+ 2257 Sheridan SD 48J      ESSER II     2257-07     Fiber optic installation                                                          Pending
+ 2138 Silver Falls SD 4J   ESSER II     2138-01     Butte Creek School Equipment - Karcher Auto Scrubber                              Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-02     Evergreen School Equipment - Ice IBT Auto Scrubber                                Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-03     Mark Twain School Equipment - Ice IBT Auto Scrubber                               Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-04     Pratum School Equipment - Karcher Auto Scrubber                                   Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-05     Silver Crest School Equipment - Karcher Auto Scrubber                             Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-06     Silverton High School Equipment - Karcher Auto Scrubber                           Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-07     Silverton High School Equipment - Karcher Auto Scrubber                           Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-08     Scotts Mills School Equipment - Karcher Auto Scrubber                             Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-09     Silverton Middle Equipment - Karcher Auto Scrubber                                Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-10     Victor Point School Equipment - Karcher Auto Scrubber                             Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-11     Mark Twain Elementary Solar/Roller Shade Window Coverings and Installation        Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-12     Silver Falls SD Equipment - Kaivac Versa High Performance Cleaning Caddy          Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-13     Robert Frost Elementary School Furniture                                          Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-14     Mark Twain Elementary School Furniture                                            Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-15     Window Coverings                                                                  Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-16     Meal Tent Purchase                                                                Yes
+ 2138 Silver Falls SD 4J   ESSER II     2138-17     HVAC Improvements                                                                 Yes
+ 1978 Sisters SD 6         ESSER III    1978-01     GMC Yukon XL                                                                      Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-01     Type A Wheelchair Bus                                                             Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-02     Siuslaw High School - Office Modular Building                                     Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-03     Siuslaw High School - Office Modular Building - Electrical Service                Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-04     Siuslaw High School - Office Modular Building - Custom Floor Plan                 Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-05     Siuslaw High School - Office Modular Building - Site Work                         Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-06     Siuslaw High School - Office Modular Building - Security Fencing                  Yes
+ 2096 Siuslaw SD 97J       ESSER III    2096-07     Siuslaw High School - Canopies & Covered Walkways                                 Yes
+ 1949 South Coast ESD      ESSER II     1949-01     File Room Remodel                                                                 Yes
+ 1949 South Coast ESD      ESSER II     1949-02     HVAC Replacement District Office                                                  Yes
+ 1949 South Coast ESD      ESSER II     1949-03     Battery Backup System                                                             Yes
+ 2022 South Harney SD 33   ESSER II     2022-01     School HVAC                                                                       Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-01     Bohemia Elementary School HVAC                                                    Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-02     South Lane SD Transportation Type 10 Vehicle                                      Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-03     South Lane SD Transportation Type 10 Vehicle                                      Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-04     School Spirit Trailer                                                             Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-05     Outdoor Electronic Reader Boards                                                  Yes
+ 2087 South Lane SD 45J3   ESSER III    2087-06     Academy for Character Education Smartboards                                       Yes
+ 2087 South Lane SD 45J3   ESSER II     2087-07     Outdoor Electronic Reader Boards                                                  Yes
+ 1994 South Umpqua SD 19   ESSER II     1994-01A    Coffenberry Middle School Expansion                                               Yes
+ 1994 South Umpqua SD 19   ESSER III    1994-01B    Coffenberry Middle School Expansion                                               Yes
+ 1994 South Umpqua SD 19   ESSER II     1994-02     South Umpqua High School Communications/Sound System                              Yes
+ 1994 South Umpqua SD 19   ESSER II     1994-03     HVAC Improvements Canyonville School                                              Yes
+ 1994 South Umpqua SD 19   ESSER II     1994-04     HVAC Upgrade Myrtle Creek Elementary                                              Yes
+1994 South Umpqua SD 19     ESSER II      1994-05   Practice Facility Upgrade                                                             Yes
+1994 South Umpqua SD 19     ESSER II      1994-06   HS South Wall                                                                         Yes
+1994 South Umpqua SD 19     ESSER II      1994-07   Disability Learning Center Playground Equipment                                       Yes
+1994 South Umpqua SD 19     ESSER II      1994-08   Greenhouse kit                                                                        Yes
+1994 South Umpqua SD 19     ESSER II      1994-09   Windows for Canyonville Annex Building                                                Yes
+1994 South Umpqua SD 19     ESSER II      1994-10   Canyonville Classroom Addition                                                        Yes
+2247 Spray SD 1             ESSER II      2247-01   Cafeteria Tables                                                                      Yes
+2247 Spray SD 1             ESSER II      2247-02   District Vehicle                                                                      Yes
+2083 Springfield SD 19      ESSER II      2083-01   Springfield SD Admin Building Modular Work Spaces                                     Yes
+2083 Springfield SD 19      ESSER II      2083-02   Mt. Vernon Elementary HVAC Upgrades                                                   Yes
+2083 Springfield SD 19      ESSER II      2083-03   Riverbend Elementary HVAC Upgrades                                                    Yes
+2083 Springfield SD 19      ESSER II      2083-04   Agnes Stewart Middle School HVAC Upgrades                                             Yes
+2083 Springfield SD 19      ESSER II      2083-05   Thurston Middle School HVAC Upgrades                                                  Yes
+2083 Springfield SD 19      ESSER II      2083-06   Two Rivers/Dos Rios School HVAC Upgrades                                              Yes
+2083 Springfield SD 19      ESSER III     2083-07   Mobile Classroom Set Up WLA                                                           Yes
+2083 Springfield SD 19      ESSER II      2083-08   HVAC Upgrade WLA                                                                      Yes
+2083 Springfield SD 19      ESSER II      2083-09   R-Zero Arc: UV-C Light Devices (Sanitization)                                         Yes
+2083 Springfield SD 19      ESSER II     2083-10A   District Wide HVAC Upgrade                                                            Yes
+2083 Springfield SD 19      ESSER III    2083-10B   District Wide HVAC Upgrade                                                            Yes
+2083 Springfield SD 19      ESSER III     2083-11   All Tire Supply Wheel Balancer                                                        Yes
+2083 Springfield SD 19      ESSER III     2083-12   2 midrise auto lifts for our CTE Auto/Diesel Mechanic Pathway                         Yes
+2083 Springfield SD 19      ESSER III     2083-13   Yamaha YBS-480 Baritone Saxophone                                                     Yes
+2083 Springfield SD 19      ESSER III     2083-14   MarimbaOne 5.0 Octave Wave Series Marimba                                             Yes
+2083 Springfield SD 19      ESSER III     2083-15   Laser Cutter for the Digital Arts Pathway                                             Yes
+2083 Springfield SD 19      ESSER III     2083-16   Conrad Machine Etching Press Model E31                                                Yes
+2083 Springfield SD 19      ESSER III     2083-17   Portable Sawmill                                                                      Yes
+2083 Springfield SD 19      ESSER III     2083-18   Student Store Vending Machine                                                         Yes
+2083 Springfield SD 19      ESSER III     2083-19   Surface Planer                                                                        Yes
+2083 Springfield SD 19      ESSER III     2083-20   Theater Control Console Board                                                         Yes
+2083 Springfield SD 19      ESSER III     2083-21   Acoustic Choir Shells                                                                 Yes
+2083 Springfield SD 19      ESSER III     2083-22   Rehearsal Piano                                                                       Yes
+1948 St Helens SD 502       ESSER II     1948-01A   HVAC - Columbia City                                                                  Yes
+1948 St Helens SD 502       ESSER III    1948-01B   HVAC - Columbia City                                                                Pending
+1948 St Helens SD 502       ESSER II      1948-02   HVAC - Lewis & Clark Elementary                                                       Yes
+1948 St Helens SD 502       ESSER II      1948-03   HVAC - McBride Elementary                                                             Yes
+1948 St Helens SD 502       ESSER II      1948-04   Voice Amplification & Intercom - Columbia City School                                 Yes
+1948 St Helens SD 502       ESSER II      1948-05   Voice Amplification & Intercom - Lewis & Clark Elementary                             Yes
+1948 St Helens SD 502       ESSER II      1948-06   Voice Amplification & Intercom - McBride Elementary                                   Yes
+1948 St Helens SD 502       ESSER II      1948-07   Classroom Technology - Visual and Audio Presentation - Columbia City School           Yes
+1948 St Helens SD 502       ESSER II      1948-08   Classroom Technology - Visual and Audio Presentation - Lewis & Clark Elementary       Yes
+1948 St Helens SD 502       ESSER II      1948-09   Classroom Technology - Visual and Audio Presentation - McBride Elementary             Yes
+2144 St Paul SD 45          ESSER II      2144-01   St Paul SD HVAC Air Cleaner Unit Install                                              Yes
+2144 St Paul SD 45          ESSER III     2144-02   Middle/High School Lockers                                                            Yes
+2144 St Paul SD 45          ESSER III     2144-03   Middle/High School agriculture classroom/shop air quality improvement                 Yes
+2144 St Paul SD 45          ESSER III     2144-04   Cafeteria Tables                                                                      Yes
+2144 St Paul SD 45          ESSER III     2144-05   Honda Odyssey Minivan for Student Transport                                           Yes
+2209 Stanfield SD 61        ESSER III     2209-03   Bus Garage                                                                            Yes
+2003 Sutherlin SD 130       ESSER II      2003-01   Food Service Ovens                                                                    Yes
+2003 Sutherlin SD 130       ESSER II      2003-02   Food Service Dishwasher                                                               Yes
+2003 Sutherlin SD 130       ESSER III     2003-03   Sutherlin High School Classroom Modular                                               Yes
+2003 Sutherlin SD 130       ESSER III     2003-04   Installation of Air Purifiers                                                         Yes
+2003 Sutherlin SD 130       ESSER III     2003-05   District Heating Units with Air Purifiers                                             Yes
+2003 Sutherlin SD 130       ESSER III     2003-06   Facilities Upgrades                                                                   Yes
+2003   Sutherlin SD 130                   ESSER II     2003-07   Campus Fencing                                                                   Yes
+2102   Sweet Home SD 55                   ESSER II     2102-01   Foster Elementary HVAC Upgrade                                                   Yes
+2102   Sweet Home SD 55                   ESSER II     2102-02   Holley Elementary HVAC Upgrade                                                   Yes
+2102   Sweet Home SD 55                   ESSER II     2102-03   Sweet Home Charter School HVAC Units                                             Yes
+2102   Sweet Home SD 55                   ESSER II     2102-04   Sweet Home Charter School New Playground Cover                                   Yes
+2102   Sweet Home SD 55                   ESSER III    2102-05   Hawthorne Elementary HVAC units and controls upgrade                             Yes
+2102   Sweet Home SD 55                   ESSER III    2102-06   Oak Heights Elementary HVAC units and controls upgrade                           Yes
+2102   Sweet Home SD 55                   ESSER III    2102-07   Sweet Home High School HVAC units and controls upgrade                           Yes
+2102   Sweet Home SD 55                   ESSER III    2102-08   Sweet Home Junior High School HVAC controls upgrade                              Yes
+2102   Sweet Home SD 55                   ESSER III    2102-09   Oak Heights Elementary School Design Development Work                            Yes
+2102   Sweet Home SD 55                   ESSER III    2102-10   Oak Heights Elementary Outdoor Learning Project                                  Yes
+2102   Sweet Home SD 55                   ESSER III    2102-11   Expand Safety Communications                                                     Yes
+2102   Sweet Home SD 55                   ESSER III    2102-12   Hawthorne Elementary Classroom Acoustics and Lighting Improvements               Yes
+2102   Sweet Home SD 55                   ESSER III    2102-13   Holley Elementary Classroom Acoustics and Lighting Improvements                  Yes
+2102   Sweet Home SD 55                   ESSER III    2102-14   Sweet Home High School Intercom System Replacement                               Yes
+2102   Sweet Home SD 55                   ESSER III    2102-15   Sweet Home High School Fencing and Gates                                         Yes
+4604   The Cottonwood School              ESSER II    2180-100   Outdoor Eating Tent                                                              Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-01   Fort Vannoy Elementary Modular                                                   Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-02   Manzanita Elementary Modular                                                     Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-03   English Language Learner Facility Renovations                                    Yes
+2055   Three Rivers/Josephine County SD   ESSER III    2055-04   SOSA Modular                                                                     Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-05   Fruitdale Elementary Classroom Addition                                          Yes
+2055   Three Rivers/Josephine County SD   ESSER III    2055-06   YCEP Storage Container                                                           Yes
+2055   Three Rivers/Josephine County SD   ESSER III    2055-07   TRSD Restroom Renovation                                                         Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-08   Sunny Wolf Charter School Van                                                    Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-09   Southern Oregon Success Academy West                                             Yes
+2055   Three Rivers/Josephine County SD   ESSER III    2055-10   JP Transition Kitchen                                                            Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-11   Sunny Wolf HVAC                                                                  Yes
+2055   Three Rivers/Josephine County SD   ESSER II     2055-12   Sunny Wolf Main Building HVAC and Electrical Upgrade                             Yes
+2055   Three Rivers/Josephine County SD   ESSER III    2055-13   Sunny Wolf Title I/Special Education HVAC                                        Yes
+2197   Tillamook SD 9                     ESSER III    2197-01   Tillamook High School Science Lab Upgrade                                        Yes
+2210   Ukiah SD 80R                       ESSER II     2210-01   District Buildings Window Upgrade                                                Yes
+2210   Ukiah SD 80R                       ESSER III    2210-02   District-Wide Split Air Exchange                                                 Yes
+2210   Ukiah SD 80R                       ESSER II     2210-03   Replace Furnaces                                                                 Yes
+2204   Umatilla SD 6R                     ESSER III    2204-01   Credit Recovery and Daycare Building                                             Yes
+2213   Union SD 5                         ESSER II     2213-01   Miller Ventilation and HVAC                                                      Yes
+2213   Union SD 5                         ESSER III    2213-02   Hutchinson Elementary Miller Ventilation and HVAC                                Yes
+2116   Vale SD 84                         ESSER II     2116-01   Vale Elementary School HVAC Upgrade                                              Yes
+2116   Vale SD 84                         ESSER III    2116-02   Vale SD Communication System Upgrade                                             Yes
+2116   Vale SD 84                         ESSER II     2116-03   Vale SD Touchless Time and Attendance System                                     Yes
+2116   Vale SD 84                         ESSER II     2116-04   Vale SD Classroom Audio Systems                                                  Yes
+2116   Vale SD 84                         ESSER II     2116-05   Vale Elementary School Playground Structure                                      Yes
+2116   Vale SD 84                         ESSER II     2116-06   Vale SD Cafeteria Seating                                                        Yes
+2116   Vale SD 84                         ESSER II     2116-07   Vale SD Bottle Filler Stations                                                   Yes
+2116   Vale SD 84                         ESSER III    2116-08   Vale School District Outdoor Seating Upgrade                                     Yes
+2116   Vale SD 84                         ESSER III    2116-09   English Language Arts Curriculum                                                 Yes
+2116   Vale SD 84                         ESSER II     2116-10   Vale Elementary School HVAC Upgrade - Phase II                                   Yes
+2116   Vale SD 84                         ESSER III    2116-11   Vale Elementary School HVAC Upgrade - Phase II                                   Yes
+1947   Vernonia SD 47J                    ESSER II     1947-01   Vernonia K-12 Main Entry Access Control                                          Yes
+1947   Vernonia SD 47J                    ESSER II     1947-02   Vernonia K-12 Classroom Entry Access Walkways                                    Yes
+2220   Wallowa SD 12                      ESSER II     2220-01   Elementary Carpet Replacement                                                    Yes
+2220   Wallowa SD 12                      ESSER III    2220-02   Secondary Carpet Replacement                                                     Yes
+2220   Wallowa SD 12                      ESSER III    2220-03   Tables and Benches for Cafeteria                                                 Yes
+2117   Willamette ESD                     ESSER II     2117-01   Marion Center HVAC                                                               Yes
+2117   Willamette ESD                     ESSER II     2117-02   Yamhill Center HVAC                                                              Yes
+2117   Willamette ESD                     ESSER II     2117-03   Transportation Vehicle at Lord High School                                       Yes
+2117   Willamette ESD                     ESSER II     2117-04   Yamhill Center Facility Reconfiguration and Improvement                          Yes
+2117   Willamette ESD                     ESSER II     2117-05   Yamhill Center Audiology Booth Replacement                                       Yes
+2255   Willamina SD 30J                   ESSER III    2255-01   Additional Classrooms and Secondary Entrance                                     Yes
+2255   Willamina SD 30J                   ESSER II    2255-02A   Outdoor Physical Activity Space K-12                                             Yes
+2255   Willamina SD 30J                   ESSER III   2255-02B   Outdoor Physical Activity Space K-12                                             Yes
+2002   Winston-Dillard SD 116             ESSER II     2002-01   McGovern Elementary and DO Modulars                                              Yes
+2002   Winston-Dillard SD 116             ESSER II     2002-02   Winston Middle School Band Room                                                  Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-03   Winston Middle School Ventilation Upgrades                                       Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-04   Cover for playground                                                             Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-05   Cover for playground                                                             Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-06   Musical Instruments and Supplies                                                 Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-07   Socio-emotional Learning Curriculum                                              Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-08   School Message Boards (x4)                                                       Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-09   Classroom Furniture - District Wide                                              Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-10   McGovern Elementary School Ventilation Upgrades                                  Yes
+2002   Winston-Dillard SD 116             ESSER III    2002-11   Edgenuity Online Curriculum for CDL Students (3 years)                           Yes
+2146   Woodburn SD 103                    ESSER II     2146-01   Lincoln Elementary/French Prairie MS Access and Entry Safety Plan                Yes
+2146   Woodburn SD 103                    ESSER II     2146-02   Woodburn District Office - IT SmartDeploy                                        Yes
+2146   Woodburn SD 103                    ESSER II     2146-03   Lincoln Elementary Concrete Flooring                                             Yes
+2146   Woodburn SD 103                    ESSER III    2146-04   Woodburn IT Building Data and Connectivity Back-Up Generator                     Yes
+2146   Woodburn SD 103                    ESSER III    2146-05   Woodburn District Buildings Expanded Co2 Sensors Classroom Ventilation Systems   Yes
+2146   Woodburn SD 103                    ESSER II    2146-06A   Woodburn District Buildings Touchless Water Fill Stations                        Yes
+2146   Woodburn SD 103                    ESSER III   2146-06B   Woodburn District Buildings Touchless Water Fill Stations                        Yes
+2146   Woodburn SD 103                    ESSER II     2146-07   Expand Safety Communications                                                     Yes
+2146   Woodburn SD 103                    ESSER II     2146-08   3 Activity Buses                                                                 Yes
+2146   Woodburn SD 103                    ESSER III    2146-09   French Prairie Middle School Window Replacement                                  Yes
+2146   Woodburn SD 103                    ESSER III    2146-10   RTU Replacement Washington Elementary                                            Yes
+2146   Woodburn SD 103                    ESSER III    2146-11   Woodburn Arthur Academy Quad Roof                                                Yes
+2146   Woodburn SD 103                    ESSER III    2146-12   Outside Learning Environments- all middle and elementary schools                 Yes
+2146   Woodburn SD 103                    ESSER III    2146-13   RTU Replacement Lincoln and French Prairies                                      Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-01   Elementary School Auto Scrubber                                                  Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-02   Intermediate School Auto Scrubber                                                Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-03   High School Auto Scrubber                                                        Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-04   CTE Dome Auto Scrubber                                                           Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-05   Tiger Dome Auto Scrubber                                                         Yes
+2251   Yamhill Carlton SD 1               ESSER II     2251-06   Yamhill Campus Extractor (Carpet/Grout)                                          Yes
+2251   Yamhill Carlton SD 1               ESSER III    2251-07   Camera System Upgrade                                                            Yes
+2251   Yamhill Carlton SD 1               ESSER III    2251-08   Security Door Lock System Upgrade                                                Yes
+2251   Yamhill Carlton SD 1               ESSER III    2251-09   Yamhill Campus Intercom System                                                   Yes
+1997   Yoncalla SD 32                     ESSER III    1997-01   Elementary Kitchen Remodel                                                       Yes
+1997   Yoncalla SD 32   ESSER III    1997-02   Elementary Bleachers                  Yes
+1997   Yoncalla SD 32   ESSER II    1997-03A   Elementary Playground                 Yes
+1997   Yoncalla SD 32   ESSER III   1997-03B   Elementary Playground                 Yes
+1997   Yoncalla SD 32   ESSER III    1997-04   Yoncalla Transportation               Yes
+1997   Yoncalla SD 32   ESSER III    1997-05   Yoncalla High School Field Lighting   Yes
+

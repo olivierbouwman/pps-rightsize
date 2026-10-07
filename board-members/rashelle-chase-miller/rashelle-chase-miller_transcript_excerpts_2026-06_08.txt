@@ -1,0 +1,74 @@
+Rashelle Chase-Miller (Zone 4; Vice Chair from 7/7/2026; TLE chair 2025-26) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. Chase-Miller: author of the reserve sub-amendment (YES); NO on 7342; YES on 7326; spoke against the OIPA amendment as unnecessary.
+- 2026-07-07 officer election (Engelsman absent): Wang re-elected chair 6-0 (moved by presiding Vice Chair DePass per caption 'And I will move', seconded by Chase-Miller); Chase-Miller elected vice chair 6-0 (moved by Splitt, seconded by Sullivan). On 6/9 the chair announced that Wang AND Engelsman had filed intent to run for chair and Chase-Miller for vice chair; Engelsman withdrew her chair bid on 7/7. Chase-Miller seconded Wang's nomination and was elected vice chair 6-0.
+- 2026-08-04 Engelsman draft resolution 'sports for Creston Elementary graduates attending Hosford MS' (moved by La Forte, seconded by Engelsman) FAILED 1-4-1 (one late abstention; Sullivan apparently absent - no caption references; student rep Sandell no). Individual yes/no/abstain not identifiable from captions; the lone yes was most likely Engelsman (author). Chase-Miller spoke against.
+- 2026-06-11 TLE committee: absent; La Forte chaired 'standing in for committee chair' Chase-Miller.
+
+EXCERPTS
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:31:05 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=16265s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (La Forte/DePass next: "I appreciate Director Chase Miller's amendment"; "I agree with Director Chase Miller")
+  topic: show me the path to $13M; next year's $65M
+  "My whole thing with this has been show me the path to that 13-plus million dollars. How do we get there? [...] What are the unintended consequences of what we sacrifice to get there? And what happens next year when we have another 65 million dollars in cuts to make?"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:32:05 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=16325s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: proposes reserve draw + asset sales + leadership reductions
+  "I would like to propose an amendment to this amendment. Um that um directs uh the superintendent to dip into our reserves. And I think that we couple that with aggressive revenue-generating, cost-saving measures across the year the year to come. Looking at property we can sell off to build back up our reserves. Looking at that top tier of leadership and where we can reduce that."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:58:21 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17901s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (author of the reserve sub-amendment)
+  topic: reserves as last resort; must rebuild
+  "I would like to dip into the reserves as little as possible if we have to do that. [...] like I I never thought that I would propose dipping into the reserves for any reason. So, I just feel like we need to be really intentional about the how of that and the how of rebuilding that."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:06:29 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18389s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (chair: "Director Chase Miller.")
+  topic: look at every option
+  "I think um we're in a moment where um we're compelled to look at every option. So, I say we look at every option."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:28:44 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=19724s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: PROBABLE (counsel then asks the sub-amendment author to restate it as 4%: "Yeah, that's the amendment")
+  topic: partial restoration via 4% reserve floor
+  "I'm wondering about the initial amendment, which was restoring all of the roles that were cut. I wonder if the amendment is not restoring all of the cuts, but a portion of them"
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:32:55 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=5575s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (named by a colleague: "Director Chase Miller talked about selling off potentially selling off assets")
+  topic: asset sales (staff confirm $2.5M single real-property sale already budgeted)
+  "you mentioned at the last meeting that [sighs] we would be um, Director Chase Miller talked about selling off potentially selling off assets and you said that that had been incorporated into our budget this year."
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:22:23 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=8543s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (self: "Director Depass and I are the only two current board members who grew up in Portland"; Engelsman replies to "Vice Chair Chase Miller")
+  topic: cross-school middle-school sports as equity; resilience
+  "I think as an educator, it's important that we help our kids um cultivate resilience and um flexibility and um community and connection [...] the way that we do middle school sports is different and intentional. Um, and I think it's really important from an equity perspective."
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:23:25 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=8605s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (same turn)
+  topic: decide with the big picture
+  "like Director Split said, um, I I also don't want to vote on anything until we have kind of the big picture in front of us and can fully um, evaluate the pros and cons."

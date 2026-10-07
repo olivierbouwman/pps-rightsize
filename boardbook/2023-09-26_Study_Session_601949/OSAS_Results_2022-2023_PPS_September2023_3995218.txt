@@ -1,0 +1,1252 @@
+                                            Memorandum
+
+To:      PPS Board of Education
+From: Renard Adams, EdD; Chief of Research, Assessment, and Accountability
+Date: September 20, 2023
+Re:      2023 OSAS Results
+_____________________________________________________________________________________
+This memo provides information on PPS student achievement on the statewide summative assessments
+in English Language Arts and Mathematics.
+
+
+Summary of Findings
+    ●   Despite national and state trends that continue to demonstrate significant declines in student
+        achievement since pre-pandemic years, PPS students overall have demonstrated growth,
+        particularly in mathematics.
+    ●   Student achievement in PPS is approaching and, in some cases, exceeding pre-pandemic levels.
+        For student groups that are still below pre-pandemic levels, most groups are demonstrating
+        growth.
+    ●   PPS achievement levels significantly exceed statewide achievement in all grades (3-8) and both
+        subjects.
+            o Overall ELA achievement in PPS is about the same or slightly higher by grade level in
+                 2023 than 2022.
+            o Overall math achievement is notably higher at all grade levels in 2023 compared to
+                 2022.
+    ●   Student achievement by race shows a mix of growth and decline in ELA. In math, achievement
+        shows mostly positive growth for all racial groups, with exceptions being for groups with small
+        numbers of students (e.g., Native American and Pacific Islander students).
+    ●   Board Goals for OSAS achievement were not met for most student groups, although some
+        student groups are showing positive growth in proficiency.
+            o For the 3rd grade ELA board goal, Latinx students grew by 2.2% and White students by
+                 1.3%. All other racial groups had declines in achievement.
+            o In 5th grade math, all racial groups demonstrated strong positive growth with the
+                 exception of the Pacific Islander student group which declined by 2.2%.
+            o For the 8th grade readiness metric, most racial groups showed small to moderate
+                 positive growth with the exception of the Asian student group which declined by 3.6%
+                 and the Pacific Islander student group that showed now change.
+    ●   Despite generally positive trends on these metrics, many racial groups continue to have low
+        overall levels of proficiency and the achievement gap, compared with White students, persists.
+
+
+Background
+The COVID pandemic created a myriad of significant learning disruptions in education systems
+throughout the United States and the world. While learning is measured in many ways, examining
+changes in student performance on various standardized assessments has helped with understanding
+the effect of these learning disruptions. In the United States and Oregon, the National Assessment of
+Educational Progress (NAEP), Measures of Academic Progress (MAP) and the Oregon Statewide
+
+1
+Assessment System (OSAS) provide some methods of quantifying student learning progress. While this
+memorandum focuses primarily on OSAS results, there are many ways of measuring student learning,
+both qualitative and quantitative, and standardized assessment results should be considered alongside
+additional indicators of progress.
+
+Context
+To provide context for the 2022-23 OSAS achievement results, the following is a brief review of high-
+level trends in student learning through the lens of NAEP, NWEA MAP and OSAS assessments pre- and
+post-pandemic.
+
+NAEP. Much of the research on learning loss due to the pandemic looks at NAEP trends. Nationally,
+students in grade 4 and 8 showed statistically significant declines after the pandemic with declines in
+mathematics being the largest in the history of the NAEP Assessment.1 In addition, achievement gaps
+between student racial groups also grew larger. 1, 2 It is worth noting that national declines in
+achievement on the NAEP assessment began in years prior to the pandemic, but clearly accelerated
+once the pandemic began.3
+
+In Oregon, the drop in achievement was greater than the national decline in 8th grade reading and
+Oregon students went from being above the national average pre-pandemic to below the national
+average post-pandemic.5 Trends are similar for 8th grade math but with Oregon performance being a
+little closer to the national averages most years.
+
+In 4th grade, Oregon has historically been below the national average in both reading and math most
+years and that gap widened significantly post-pandemic.5,6
+
+MAP. National trends on the NWEA MAP assessment are similar to trends seen in NAEP. MAP
+achievement in 2022-23 nationally, was significantly lower than pre-pandemic and racial achievement
+gaps widened.7
+
+OSAS. Specific to Oregon and Portland Public Schools (PPS), student achievement, as measured by the
+OSAS English Language Arts (ELA) and mathematics tests, also declined significantly between 2019 and
+2022.9 ELA achievement declined by about 10% statewide and math by about 9%. Declines over the
+same period were less pronounced in PPS with 3.3% in ELA and 2% in math.
+
+OSAS Participation
+Federal and state regulations require that 95% of students in grades 3-8 and 11 participate in state
+summative assessments in ELA and math. In direct conflict with that requirement, Oregon passed a
+Student Assessment Bill of Rights that allows parents and adult children to opt out of state assessments.
+Since the first year of Smarter Balanced Assessments (SBA, rebranded as OSAS in Oregon), PPS has seen
+opt-out rates ranging from about 9% to 11% of eligible students being opted out of state tests. While
+opt-outs account for the largest number of non-participants, some students don’t participate for other
+reasons (e.g., medical, extended absence, schools not engaging all students for various reasons).
+
+
+
+
+2
+Table 1. OSAS Participation Rates
+                                      ELA                                      Math
+    Grade Level     2018-19         2021-22      2022-23       2018-19        2021-22       2022-23
+         3-5         94.4%           95.9%        96.0%         94.0%          95.4%         96.0%
+         6-8         94.2%           91.1%        90.7%         92.5%          90.3%         90.3%
+         11          66.4%           38.6%        57.3%         58.9%          30.1%         50.8%
+
+Following ODE’s recommendation, data for groups where participation rates are below 90% should be
+treated with caution as they may not be representative of the whole group. Because participation rates
+for high school students are far below that threshold, achievement for grade 11 students will not be
+addressed in this memo.
+
+PPS and Statewide Overall Achievement in 2023
+Across Oregon, achievement remained relatively flat (changes less than one percent) from 2022 to 2023
+with a few exceptions. ELA achievement decreased in grades 7-8 by two to two-and-a-half percent and
+math achievement increased by one-and-a-half percent in grade 4.
+
+Table 2. Statewide Achievement 2022 to 2023
+                                  ELA                                         Math
+ Grade Level        2022         2023           Δ              2022           2023              Δ
+   Grade 3         39.4%        39.4%       no change          39.4%          39.7%           0.3%
+   Grade 4         42.5%        42.3%         -0.2%            36.1%          37.6%           1.5%
+   Grade 5         46.8%        47.0%         0.2%             30.0%          30.7%           0.7%
+   Grade 6         40.5%        41.0%         0.5%             27.5%          28.1%           0.6%
+   Grade 7         46.3%        43.8%         -2.5%            29.5%          29.6%           0.1%
+   Grade 8         43.9%        41.9%         -2.0%            25.9%          25.5%          -0.4%
+
+Achievement in PPS in 2023 was significantly higher than Oregon in both subjects and all grades. PPS
+achievement exceeded Oregon by double digits in all cases.
+
+
+
+
+3
+Figure 1. ELA Achievement in 2023 for PPS and Statewide
+
+                                     2023 OSAS ELA Achievement
+                                       PPS Compared to State
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%                                      12.8%
+             16.0%            15.8%                                                     12.6%          12.1%
+     60.0%
+                                                                        10.7%
+     50.0%
+
+     40.0%
+
+     30.0%
+
+     20.0%
+
+             55.4%   39.4%   58.1%   42.3%   59.8%   47.0%            51.7%   41.0%   56.4%   43.8%   54.0%   41.9%
+     10.0%
+
+      0.0%
+             Grade 3         Grade 4         Grade 5                  Grade 6         Grade 7         Grade 8
+
+                                                 PPS         Oregon
+
+
+Figure 2. Math Achievement in 2023 for PPS and Statewide
+
+                                     2023 OSAS Math Achievement
+                                        PPS Compared to State
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%
+             16.5%            16.7%
+     60.0%
+                                              15.6%                                     16.7%
+     50.0%
+                                                                        14.5%                            14.6%
+     40.0%
+
+     30.0%
+
+     20.0%
+
+             56.2%   39.7%   54.3%   37.6%   46.3%   30.7%            42.6%   28.1%   46.3%   29.6%   40.1%   25.5%
+     10.0%
+
+      0.0%
+             Grade 3         Grade 4         Grade 5                  Grade 6         Grade 7         Grade 8
+
+                                                 PPS         Oregon
+
+
+
+
+4
+Table 3. 2023 ELA and Math Achievement for PPS and Statewide
+                       English Language Arts (ELA)                                  Mathematics
+ Grade Level        PPS          Oregon            Δ         PPS                      Oregon                  Δ
+   Grade 3         55.4%          39.4%         16.0%       56.2%                     39.7%                 16.5%
+   Grade 4         58.1%          42.3%         15.8%       54.3%                     37.6%                 16.7%
+   Grade 5         59.8%          47.0%         12.8%       46.3%                     30.7%                 15.6%
+   Grade 6         51.6%          41.0%         10.6%       42.6%                     28.1%                 14.5%
+   Grade 7         56.3%          43.8%         12.5%       46.3%                     29.6%                 16.7%
+   Grade 8         54.0%          41.9%         12.1%       40.1%                     25.5%                 14.6%
+
+Within PPS, students demonstrated slight improvement in ELA for all grades 3-8. Math achievement
+grew slightly in grade 3 with solid improvement in grades 4-8.
+
+Figure 3. PPS ELA Achievement by Grade
+
+                             PPS OSAS ELA Achievement 2022 and 2023
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%
+                                  0.5%             1.4%
+                0.2%                                                                   0.8%           0.2%
+     60.0%
+                                                                       1.4%
+     50.0%
+
+     40.0%
+
+     30.0%
+
+     20.0%
+
+
+             55.2%   55.4%     57.5%   58.1%    58.4%   59.8%       50.2%   51.6%   55.6%   56.3%   53.8%   54.0%
+     10.0%
+
+      0.0%
+             Grade 3           Grade 4          Grade 5              Grade 6        Grade 7         Grade 8
+
+                                               2021-2022        2022-2023
+
+
+
+
+5
+Figure 4. PPS Math Achievement by Grade
+
+                             PPS OSAS Math Achievement 2022 and 2023
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%
+
+     60.0%      0.7%
+                                  2.6%
+                                                   3.2%                                 3.9%
+     50.0%                                                              4.1%
+                                                                                                          2.9%
+     40.0%
+
+     30.0%
+
+     20.0%
+
+
+             55.4%   56.2%      51.6%   54.3%    43.1%   46.3%       38.5%   42.6%   42.4%   46.3%     37.2%   40.1%
+     10.0%
+
+      0.0%
+             Grade 3            Grade 4          Grade 5              Grade 6        Grade 7            Grade 8
+
+                                                2021-2022        2022-2023
+
+
+Table 4. PPS ELA Achievement by Grade
+                                      English Language Arts (ELA)
+                              2021-2022                       2022-2023                               Δ from
+                         Proficient         #            Proficient                      #           2022 to
+ Grade Level            #         %      Tested        #            %                  Tested         2023
+ All Students (3-8) 10598       55.2%    19206       10642       55.9%                 19046           0.7%
+ Grade 3              1829      55.2%     3314       1843        55.4%                  3328           0.2%
+ Grade 4              1849      57.5%     3213       1921        58.1%                  3308           0.5%
+ Grade 5              1979      58.4%     3387       1910        59.8%                  3195           1.4%
+ Grade 6              1559      50.2%     3106       1651        51.6%                  3202           1.4%
+ Grade 7              1695      55.6%     3050       1685        56.3%                  2991           0.8%
+ Grade 8              1687      53.8%     3136       1632        54.0%                  3022           0.2%
+ Grades 3-5           5657      57.1%     9914       5674        57.7%                  9831           0.6%
+ Grades 6-8           4941      53.2%     9292       4968        53.7%                  9215           0.6%
+
+
+
+
+6
+Table 5. PPS Math Achievement by Grade
+                                                            Mathematics
+                                        2021-2022                             2022-2023                  Δ from
+                                   Proficient       #                    Proficient       #              2022 to
+    Grade Level                  #          %     Tested               #           %    Tested            2023
+    All Students (3-8)          8553      44.9%   19067               9008       47.8%  18830              3.0
+    Grade 3                     1828      55.4%    3297               1864       56.2%   3318             0.7%
+    Grade 4                     1653      51.6%    3201               1785       54.3%   3290             2.6%
+    Grade 5                     1451      43.1%    3365               1471       46.3%   3175             3.2%
+    Grade 6                     1202      38.5%    3122               1334       42.6%   3132             4.1%
+    Grade 7                     1283      42.4%    3027               1364       46.3%   2946             3.9%
+    Grade 8                     1136      37.2%    3055               1190       40.1%   2969             2.9%
+    Grades 3-5                  4932      50.0%    9863               5120       52.3%   9783             2.3%
+    Grades 6-8                  3621      39.3%    9204               3888       43.0%   9047             3.6%
+
+Looking back to pre-pandemic achievement (2018-19) compared to 2022-23 results, students in grades
+3-4 have returned to pre-pandemic achievement levels or exceeded those levels. Students in grades 5-8
+are still performing lower than pre-pandemic levels in ELA. In math, students in grades 3-5 are exceeding
+pre-pandemic level and students in grade 6 have returned to pre-pandemic levels. Math achievement in
+grades 7 and 8 remains lower than pre-pandemic levels.
+
+Figure 5. OSAS ELA Achievement 2018-19 to 2022-23 by Grade Level.
+
+                    OSAS ELA Achievment 2018-19 to 2022-23 by Grade Level
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%                                                                                                    -5.2%
+               no change                1.9%          -0.6%                 -4.1%           -3.0%
+     60.0%
+
+     50.0%
+
+     40.0%
+
+     30.0%
+
+     20.0%
+
+
+                55.4%   55.4%       56.2%   58.1%   60.4%    59.8%       55.7%   51.6%   59.3%   56.3%     59.2%   54.0%
+     10.0%
+
+      0.0%
+                 Grade 3            Grade 4         Grade 5               Grade 6        Grade 7           Grade 8
+
+                                                     2018-19         2022-23
+
+
+
+
+7
+Figure 6. OSAS Math Achievement 2018-19 to 2022-23 by Grade Level.
+
+               OSAS Math Achievment 2018-19 to 2022-23 by Grade Level
+    100.0%
+
+     90.0%
+
+     80.0%
+
+     70.0%
+                3.4%            6.3%
+     60.0%
+                                                                                    -3.1%           -6.9%
+     50.0%
+                                               3.1%             no change
+
+     40.0%
+
+     30.0%
+
+     20.0%
+
+
+             52.8%   56.2%   48.0%   54.3%   43.2%   46.3%       42.6%   42.6%   49.4%   46.3%   47.0%   40.1%
+     10.0%
+
+      0.0%
+              Grade 3         Grade 4         Grade 5             Grade 6        Grade 7         Grade 8
+
+                                              2018-19        2022-23
+
+
+PPS Achievement by Race/Ethnicity, Special Education and English Learners
+ELA Achievement by race shows a little more variation from 2022 to 2023, including some growth and
+some decline. Asian students showed moderate decline in both grade bands, 3-5 and 6-8. Black students
+showed a small decline. Latinx, Multi-racial and Pacific Islander students showed the highest growth in
+grades 3-5. White students showed small to moderate growth. Achievement for Native American
+students dropped significantly in both grade bands. The number of students in the Native American and
+Pacific Islander groups is relatively small and large shifts in numbers may be due to the small group sizes.
+
+
+
+
+8
+Figure 7. ELA Achievement by Race/Ethnicity Grades 3-5
+
+                               ELA Achievment by Race - Grades 3-5
+    100.0%
+
+     90.0%
+
+     80.0%                                                                                                                    0.6%
+     70.0%
+                                                                   2.1%
+     60.0%
+              -1.7%
+     50.0%
+
+     40.0%                                    2.3%
+     30.0%                                                                             -14.3%
+                              -0.2%
+     20.0%                                                                                                  3.4%
+
+             49.6%   47.9%   18.6%   18.4%   31.9%   34.2%       56.7%    58.8%       27.3%   13.0%       11.5%   14.9%   71.1%   71.7%
+     10.0%
+
+      0.0%
+              Asian            Black          Latinx         Multi-racial             Native          Pacific Islander      White
+                                                                                     American
+
+                                                     2021-2022           2022-2023
+
+
+Figure 8. ELA Achievement by Race/Ethnicity Grades 6-8
+
+                               ELA Achievment by Race - Grades 6-8
+    100.0%
+     90.0%
+     80.0%
+     70.0%
+                                                                                                                             1.7%
+              -1.6%                                               -2.5%
+     60.0%
+     50.0%
+                                                                                       -14.5%
+     40.0%
+                                               1.1%
+     30.0%
+                              -0.3%                                                                        1.6%
+     20.0%
+     10.0%   56.6%   55.0%   15.8%   15.5%   27.7%   28.8%       58.0%   55.5%       38.2%    23.7%      14.3%    15.9%   65.1%   66.8%
+      0.0%
+              Asian           Black           Latinx         Multi-racial             Native          Pacific Islander     White
+                                                                                     American
+
+                                                     2021-2022           2022-2023
+
+
+
+
+9
+Table 6. ELA Achievement by Race/Ethnicity
+                                               English Language Arts (ELA)
+                                         2021-2022                     2022-2023                Δ from
+                                   Proficient                     Proficient       #           2022 to
+ Student Group                    #         %      # Tested      #         %     Tested         2023
+ Grades 3-5 Asian                 **      49.6%       >49       **       47.9%    >49           -1.7%
+ Grades 3-5 Black                 **      18.6%       >49       **       18.4%    >49           -0.2%
+ Grades 3-5 Latinx                **      31.9%       >49       **       34.2%    >49            2.3%
+ Grades 3-5 Multi-racial          **      56.7%       >49       **       58.8%    >49            2.1%
+ Grades 3-5 Native American       **      27.3%       <50       **       13.0%    >49          -14.3%
+ Grades 3-5 Pacific Islander      **      11.5%       >49       **       14.9%    >49            3.4%
+ Grades 3-5 White                 **      71.1%       >49       **       71.7%    >49            0.6%
+ Grades 6-8 Asian                 **      56.6%       >49       **       55.0%    >49           -1.6%
+ Grades 6-8 Black                 **      15.8%       >49       **       15.8%    >49           -0.3%
+ Grades 6-8 Latinx                **      27.7%       >49       **       28.8%    >49            1.1%
+ Grades 6-8 Multi-racial          **      58.0%       >49       **       55.5%    >49           -2.5%
+ Grades 6-8 Native American       **      38.2%       <50       **       23.7%    <50          -14.5%
+ Grades 6-8 Pacific Islander      **      14.3%       >49       **       15.9%    >49            1.6%
+ Grades 6-8 White                 **      65.1%       >49       **       66.8%    >49            1.7%
+
+In mathematics, student achievement was more consistently strong across most racial groups. Asian,
+Latinx and Multi-racial students showed the strongest growth in grades 3-5. In grades 6-8, Multi-racial
+and White students grew the most. Native American students showed a slight decrease in both grade
+bands and Pacific Islander students declined nearly 2% in grades 3-5.
+
+
+
+
+10
+Figure 9. Math Achievement by Race/Ethnicity Grades 3-5
+
+                            Math Achievment by Race - Grades 3-5
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%                                                                                                                2.0%
+  60.0%
+            4.8%                                               3.6%
+  50.0%
+
+  40.0%
+                                             3.1%
+  30.0%
+
+  20.0%                     1.9%                                                   -0.1%              -1.9%
+
+            47.9%   52.7%   10.2%   12.1%   26.1%   29.2%    49.2%   52.8%       13.6%   13.5%      12.5%   10.6%   63.4%   65.4%
+  10.0%
+
+     0.0%
+             Asian           Black           Latinx         Multi-racial          Native         Pacific Islander    White
+                                                                                 American
+
+                                                2021-2022            2022-2023
+
+
+Figure 10. Math Achievement by Race/Ethnicity Grades 6-8
+
+                            Math Achievment by Race - Grades 6-8
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%
+
+  60.0%                                                                                                               4.5%
+            2.3%
+  50.0%                                                        3.2%
+  40.0%
+
+  30.0%
+                                              2.8%
+  20.0%                                                                           -0.4%               2.0%
+                              0.1%
+            44.0%   46.3%                   16.9%   19.7%    41.6%   44.8%       11.8%   11.4%                      50.2%   54.7%
+  10.0%                                                                                             <5%     <5%
+                            6.4%    6.5%
+     0.0%
+             Asian           Black           Latinx         Multi-racial          Native         Pacific Islander    White
+                                                                                 American
+
+                                                2021-2022            2022-2023
+
+
+
+
+11
+Table 7. Math Achievement by Race/Ethnicity
+                                                           Mathematics
+                                            2021-2022                       2022-2023           Δ from
+                                      Proficient                       Proficient       #      2022 to
+ Student Group                       #         %      # Tested        #         %     Tested    2023
+ Grades 3-5 Asian                    **      47.9%      >49          **       52.7%    >49       4.8%
+ Grades 3-5 Black                    **      10.2%      >49          **       12.1%    >49       1.9%
+ Grades 3-5 Latinx                   **      26.1%      >49          **       29.2%    >49       3.1%
+ Grades 3-5 Multi-racial             **      49.2%      >49          **       52.8%    >49       3.6%
+ Grades 3-5 Native American          **      13.6%      <50          **       13.5%    <49      -0.1%
+ Grades 3-5 Pacific Islander         **      12.5%      >49          **       10.6%    >49      -1.9%
+ Grades 3-5 White                    **      63.4%      >49          **       65.4%    >49       2.0%
+ Grades 6-8 Asian                    **      44.0%      >49          **       46.3%    >49       2.3%
+ Grades 6-8 Black                    **       6.4%      >49          **       6.5%     >49       0.1%
+ Grades 6-8 Latinx                   **      16.9%      >49          **       19.7%    >49       2.8%
+ Grades 6-8 Multi-racial             **      41.6%      >49          **       44.8%    >49       3.2%
+ Grades 6-8 Native American          **      11.8%      <50          **       11.4%    <50      -0.4%
+ Grades 6-8 Pacific Islander         **       <5%       >49          **        <5%     >49       2.0%
+ Grades 6-8 White                    **      50.2%      >49          **       54.7%    >49       4.5%
+
+Achievement for Students with Disabilities increased very slightly in ELA but growth in mathematics was
+2.3% for Grades 3-5 and 1.9% for grades 6-8.
+
+Figure 11. OSAS ELA Achievement for Special Education Students
+
+               OSAS ELA Achievement for Special Education Students
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%
+
+  60.0%
+
+  50.0%
+                              0.6%
+  40.0%
+                                                                             0.2%
+  30.0%
+
+  20.0%
+
+  10.0%
+                      35.6%          36.2%                           23.7%          23.9%
+     0.0%
+                          Grades 3-5                                     Grades 6-8
+
+                                             2021-2022   2022-2023
+
+
+12
+Figure 12. OSAS Math Achievement for Special Education Students
+
+                OSAS Math Achievement for Special Education Students
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%
+
+  60.0%
+
+  50.0%
+                               2.3%
+  40.0%
+
+  30.0%
+                                                                              1.9%
+  20.0%
+
+  10.0%
+                       31.7%          34.0%                           16.6%          18.5%
+     0.0%
+                            Grades 3-5                                    Grades 6-8
+
+                                              2021-2022   2022-2023
+
+
+
+
+For English Learner students, achievement remained about the same or declined for both subjects and
+both grade bands. Proficiency for English Learner students is very low for both subjects and grade bands.
+
+
+
+
+13
+Figure 13. OSAS ELA Achievement for English Learner Students
+
+                                   OSAS ELA Achievement for English Learner Students
+                          100.0%
+
+                           90.0%
+
+                           80.0%
+
+                           70.0%
+
+
+
+
+     Percent Proficient
+                           60.0%
+
+                           50.0%
+
+                           40.0%
+
+                           30.0%
+
+                           20.0%                  -1.8%
+                           10.0%                                                           0.1%
+                                          10.6%           8.8%
+                                                                                    4.2%           4.3%
+                            0.0%
+                                              Grades 3-5                               Grades 6-8
+
+                                                            2021-2022   2022-2023
+
+
+Figure 14. OSAS Math Achievement for English Learner Students
+
+                                   OSAS Math Achievement for English Learner Students
+                          100.0%
+
+                           90.0%
+
+                           80.0%
+
+                           70.0%
+
+
+
+
+     Percent Proficient
+                           60.0%
+
+                           50.0%
+
+                           40.0%
+
+                           30.0%
+
+                           20.0%             no change
+                           10.0%                                                           -1.2%
+                                          11.3%           11.3%                     3.8%           2.6%
+                            0.0%
+                                              Grades 3-5                               Grades 6-8
+
+                                                            2021-2022   2022-2023
+
+
+
+
+14
+Board Goals
+3rd Grade Reading. The board goal for third grade reading “is to close the opportunity and outcome gaps
+in third grade reading between students of color and their white peers”, by increasing achievement for:
+     ● African American students by 5.5 percentage points per year
+     ● Pacific Islanders by 5.0 percentage points per year
+     ● Native American students by 6.1 percentage points per year
+     ● Latino students by 3.9 percentage points per year
+     ● Asian students by 2.6 percentage points per year
+
+Student performance on the grade 3 ELA assessment has mostly declined from 2022 to 2023. The
+exceptions are for Latinx students where achievement grew by 2.2. White student achievement grew by
+1.3% from 2022 to 2023.
+
+Figure 15. OSAS 3rd Grade ELA Achievement by Race/Ethnicity
+
+                      OSAS 3rd Grade ELA by Race/Ethnicity
+ 100.0%
+
+  90.0%
+
+  80.0%
+                                                                                                                       1.3%
+  70.0%
+
+  60.0%                                                            -1.7%
+              -5.4%
+  50.0%
+
+  40.0%
+                                             2.2%
+  30.0%
+                             -1.5%                                                  -11.4%             -4.2%
+  20.0%
+
+
+            50.0%   44.6%   17.0%   15.5%   30.3%   32.5%        55.8%    54.1%    17.7%             16.7%   12.5%   68.3%   69.6%
+  10.0%
+                                                                                           6.3%
+     0.0%
+             Asian            Black          Latinx          Multi-racial           Native        Pacific Islander    White
+                                                                                   American
+
+                                                       2021-22           2022-23
+
+
+
+
+15
+Table 8. OSAS 3rd Grade ELA Achievement by Race/Ethnicity
+                         2021-22                   2022-23
+                   Proficient                 Proficient              Δ from
+                                                                                  Board
+     Student                         #                         #      2022 to
+                                                                                  Target       Status
+      Group        #       %       Tested    #        %      Tested    2023
+ Asian            **     50.0%      >49      **     44.6%     >49      -5.4%      52.6%       Not met
+ Black            **     17.0%      >49      **     15.5%     >49      -1.5%      22.5%       Not met
+ Latinx           **     30.3%      >49      **     32.5%     >49       2.2%      34.2%       Not met
+ Multi-racial     **     55.8%      >49      **     54.1%     >49      -1.7%       N/A          N/A
+ Native Amer.     **     17.7%      <50      **      6.3%     <50      -11.4%     23.7%       Not met
+ Pacific Isl.     **     16.7%      <50      **     12.5%     <50      -4.2%      21.7%       Not met
+ White            **     68.3%      >49      **     69.6%     >49       1.3%       N/A          N/A
+
+Table 9 lists overall 3rd grade ELA achievement by school. This table is sorted in descending order by
+growth from 2022 to 2023.
+
+Table 9. OSAS 3rd Grade ELA Achievement by School
+                                             English Language Arts Grade 3
+                                            % Proficient                 # Tested
+ School                            2021-22     2022-23       Δ      2021-22 2022-23
+ Sunnyside Environmental            45.0%       73.0%      28.0%      <50        <50
+ Grout                              46.9%       69.8%      22.8%      <50        <50
+ Chief Joseph                       47.4%       69.8%      22.4%      <50        >49
+ Lee                                31.3%       52.4%      21.1%      <50        <50
+ Portland Arthur Academy            61.5%       78.3%      16.7%      <50        <50
+ Stephenson                         74.6%       90.9%      16.3%      >49        <50
+ Lent                               8.3%        24.2%      15.9%      <50        <50
+ Creative Science                   42.1%       57.1%      15.0%      <50        <50
+ Sitton                             26.4%       40.4%      14.0%      >49        <50
+ Whitman                            18.5%       30.8%      12.3%      <50        <50
+ Irvington                          55.3%       67.5%      12.2%      <50        <50
+ Rigler                             20.7%       30.8%      10.1%      <50        <50
+ Markham                            51.7%       60.3%      8.6%       >49        >49
+ Maplewood                          54.0%       62.0%      8.0%       >49        >49
+ Glencoe                            65.0%       72.3%      7.3%       >49        >49
+ Ainsworth                          68.9%       75.7%      6.8%       >49        >49
+ Boise-Eliot Humboldt               25.5%       32.3%      6.7%       <50        >49
+ Sabin                              65.6%       72.2%      6.6%       >49        >49
+ Abernethy                          73.6%       79.4%      5.8%       >49        >49
+ Atkinson                           63.5%       68.6%      5.2%       >49        >49
+
+
+
+16
+                                         English Language Arts Grade 3
+                                       % Proficient                 # Tested
+School                         2021-22   2022-23         Δ     2021-22 2022-23
+Llewellyn                       84.4%     89.2%        4.8%      >49        >49
+Duniway                         58.8%     63.5%        4.7%      >49        >49
+Kelly                           21.1%     25.8%        4.6%      >49        >49
+Hayhurst (includes Odyssey)     66.2%     70.8%        4.6%      >49        >49
+Alameda                         75.3%     78.2%        2.9%      >49        >49
+Lewis                           71.2%     73.2%        2.0%      >49        <50
+Bridlemile                      69.6%     71.0%        1.4%      >49        >49
+Peninsula                       43.6%     44.8%        1.2%      <50        <50
+Vernon                          62.3%     62.1%       -0.2%      >49        >49
+Beverly Cleary                  72.2%     71.7%       -0.5%      >49        >49
+Faubion                         25.0%     24.2%       -0.8%      >49        >49
+Arleta                          46.3%     45.5%       -0.8%      >49        <50
+Creston                         68.8%     67.5%       -1.3%      <50        <50
+Woodstock                       67.8%     66.3%       -1.6%      >49        >49
+Marysville                      30.0%     28.3%       -1.7%      <50        <50
+Astor                           63.6%     61.8%       -1.9%      <50        <50
+Dr. Martin Luther King Jr.      44.0%     42.0%       -2.0%      >49        >49
+Woodmere                        20.5%     18.4%       -2.1%      <50        <50
+Le Monde                        79.5%     76.7%       -2.8%      <50        <50
+Metropolitan Learning Center    65.0%     61.9%       -3.1%      <50        <50
+Skyline                         62.5%     59.1%       -3.4%      <50        <50
+Rieke                           86.0%     82.4%       -3.6%      >49        >49
+Rosa Parks                      7.3%       <5%         <5%       <50        <50
+César Chávez                    20.0%     15.2%       -4.8%      >49        <50
+Capitol Hill                    63.2%     57.4%       -5.8%      >49        >49
+Bridger                         44.8%     38.8%       -6.1%      >49        <50
+Winterhaven                     89.5%     82.1%       -7.3%      <50        <50
+Laurelhurst                     68.0%     59.7%       -8.3%      >49        >49
+Richmond                        75.3%     66.3%       -9.0%      >49        >49
+Chapman                         61.0%     51.9%       -9.1%      <50        >49
+Buckman                         65.6%     55.6%      -10.1%      >49        >49
+Kairos PDX                      48.4%     36.1%      -12.3%      <50        <50
+Woodlawn                        51.9%     39.0%      -12.9%      >49        <50
+Forest Park                     82.4%     68.9%      -13.4%      >49        >49
+Harrison Park                   32.2%     18.0%      -14.2%      >49        >49
+Scott                           44.6%     29.8%      -14.9%      >49        >49
+
+
+17
+                                              English Language Arts Grade 3
+                                            % Proficient                 # Tested
+ School                             2021-22   2022-23        Δ      2021-22 2022-23
+ Rose City Park                      69.9%     51.2%      -18.7%      >49        >49
+ Beach                               60.6%     41.5%      -19.1%      >49        >49
+ Vestal                              43.8%     24.2%      -19.5%      <50        <50
+ James John                          51.1%     27.6%      -23.5%      <50        >49
+ Emerson                             70.8%     45.8%      -25.0%      <50        <50
+ Portland Village School             51.1%     25.6%      -25.5%      <50        <50
+
+5th Grade Mathematics
+The board goal for fifth grade mathematics “is to close the opportunity and outcome gaps in fifth grade
+mathematics between students of color and their white peers”, by increasing achievement for:
+     ● African American students by 4.4 percentage points per year
+     ● Pacific Islanders by 4.1 percentage points per year
+     ● Native American students by 3.5 percentage points per year
+     ● Latino students by 3.2 percentage points per year
+     ● Asian students by 1.2 percentage points per year
+
+All student groups except Pacific Islanders had achievement growth above 1% with Multi-racial, White
+and Native American students showing the most growth (3.7%, 4.1% and 4.3% respectively).
+Achievement for Pacific Islander students declined by 2.2%. The number of students in the Native
+American and Pacific Islander groups is small, making the data more volatile year-to-year.
+
+
+
+
+18
+Figure 16. OSAS 5th Grade Math Achievement by Race/Ethnicity
+
+                                   OSAS 5th Grade Math by Race/Ethnicity
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%
+                                                                                                                                           4.1%
+  60.0%
+
+                  2.3%                                                          3.9%
+  50.0%
+
+  40.0%
+
+  30.0%
+                                                          1.3%
+                                                                                                      4.3%
+  20.0%
+                                    2.2%                                                                                  -2.2%
+  10.0%
+                43.9%   46.2%      5.4%   7.6%          21.1%   22.4%        43.5%   47.4%          13.3%   17.6%        10.5%   8.3%    55.6%   59.7%
+     0.0%
+                 Asian              Black                 Latinx          Multi-racial               Native           Pacific Islander    White
+                                                                                                    American
+
+                                                                   2021-22        2022-23
+
+
+Table 10. OSAS 5th Grade Math Achievement by Race/Ethnicity
+                                2021-22                                  2022-23
+                           Proficient                               Proficient                                Δ from
+                                                                                                                             Board
+     Student                                       #                                           #             2022 to
+                                                                                                                             Target      Status
+      Group               #        %             Tested            #          %              Tested           2023
+ Asian                   **      43.9%            >49            **       46.2%               >49              2.3%          45.1%         Met
+ Black                   **       5.4%            >49            **          7.6%             >49              2.2%              9.8%    Not met
+ Latinx                  **      21.1%            >49            **       22.4%               >49              1.3%          24.3%       Not met
+ Multi-racial            **      43.5%            >49            **       47.4%               >49              3.9%              N/A       N/A
+ Native Amer             **      13.3%            <50            **       17.6%               <50              4.3%          16.8%         Met
+ Pacific Isl.            **      10.5%            <50            **          8.3%             <50             -2.2%          14.6%       Not met
+ White                   **      55.6%            >49            **       59.7%               >49              4.1%              N/A       N/A
+
+Table 11 lists overall 5th grade math achievement by school. This table is sorted in descending order by
+growth from 2022 to 2023
+
+
+
+
+19
+Table 11. OSAS 5th Grade Math Achievement by School
+                                                  Mathematics Grade 5
+                                           % Proficient                 # Tested
+ School                            2021-22     2022-23      Δ     2021-22 2022-23
+ Richmond                           34.4%       72.5%    38.1%       >49        >49
+ Kairos PDX                         5.3%        31.4%    26.2%       <50        <50
+ Portland Village School            26.7%       52.8%    26.2%       <50        >49
+ Laurelhurst                        45.6%       68.4%    22.8%       >49        >49
+ Woodlawn                           16.7%       38.6%    22.0%       <50        <50
+ Creston                            38.2%       59.5%    21.3%       <50        <50
+ Harrison Park                      12.2%       33.3%    21.1%       <50        <50
+ Lee                                8.3%        29.3%    20.9%       <50        <50
+ Astor                              35.0%       53.3%    18.3%       >49        <50
+ Bridlemile                         60.0%       75.0%    15.0%       >49        >49
+ Buckman                            23.3%       38.1%    14.8%       >49        >49
+ Stephenson                         61.1%       75.5%    14.4%       >49        <50
+ Abernethy                          60.3%       74.6%    14.3%       >49        >49
+ Lewis                              36.7%       50.8%    14.2%       >49        >49
+ Lent                               11.1%       25.0%    13.9%       <50        <50
+ Creative Science                   36.2%       50.0%    13.8%       <50        <50
+ Rose City Park                     24.6%       38.1%    13.5%       >49        >49
+ Sitton                             16.7%       29.7%    13.1%       <50        <50
+ Sunnyside Environmental            46.3%       58.5%    12.2%       >49        >49
+ Arleta                             41.9%       52.6%    10.8%       <50        <50
+ Whitman                            16.0%       25.8%    9.8%        <50        <50
+ Rosa Parks                          <5%        9.1%      >5%        <50        <50
+ Irvington                          34.8%       43.8%    9.0%        <50        <50
+ Ainsworth                          60.8%       68.3%    7.5%        >49        >49
+ Woodmere                           16.3%       23.7%    7.4%        <50        <50
+ Marysville                         16.7%       23.9%    7.2%        <50        <50
+ Hayhurst (including Odyssey)       51.7%       58.9%    7.2%        >49        >49
+ Emerson                            45.5%       52.6%    7.2%        <50        <50
+ Vestal                             14.8%       21.4%    6.6%        <50        <50
+ Markham                            31.3%       37.7%    6.5%        >49        >49
+ Alameda                            70.5%       75.0%    4.5%        >49        >49
+ Maplewood                          51.6%       56.0%    4.4%        >49        >49
+ Le Monde                           84.4%       88.6%    4.1%        <50        <50
+ Bridger                            35.0%       38.9%    3.9%        >49        >49
+ Llewellyn                          55.9%       59.3%    3.3%        >49        >49
+
+
+
+20
+                                                  Mathematics Grade 5
+                                            % Proficient                # Tested
+ School                             2021-22    2022-23       Δ    2021-22 2022-23
+ Atkinson                            44.9%      48.1%      3.2%      <50        >49
+ Beverly Cleary                      69.4%      70.9%      1.5%      >49        >49
+ Dr. Martin Luther King Jr.          32.6%      33.3%      0.8%      <50        <50
+ Boise-Eliot Humboldt                12.5%      13.0%      0.5%      <50        <50
+ Duniway                             68.4%      68.5%      0.1%      >49        >49
+ Chapman                             40.4%      40.0%     -0.4%      >49        >49
+ Skyline                             54.5%      53.8%     -0.7%      <50        <50
+ Rigler                              9.5%       8.8%      -0.7%      <50        <50
+ Capitol Hill                        55.2%      53.7%     -1.5%      >49        <50
+ César Chávez                        8.2%       5.5%      -2.7%      <50        >49
+ Faubion                             19.0%      15.1%     -4.0%      >49        >49
+ Rieke                               79.4%      73.7%     -5.7%      >49        >49
+ Forest Park                         74.0%      66.7%     -7.3%      >49        <50
+ Scott                               27.9%      19.4%     -8.5%      >49        >49
+ James John                          28.6%      20.0%     -8.6%      <50        >49
+ Sabin                               75.5%      65.2%    -10.3%      <50        <50
+ Kelly                               24.5%      14.0%    -10.5%      >49        >49
+ Woodstock                           51.3%      40.3%    -11.0%      >49        >49
+ Winterhaven                         88.9%      76.9%    -12.0%      <50        <50
+ Glencoe                             63.5%      50.0%    -13.5%      >49        >49
+ Beach                               57.6%      42.0%    -15.6%      >49        >49
+ Peninsula                           37.0%      21.2%    -15.8%      <50        <50
+ Metropolitan Learning Center        60.0%      42.3%    -17.7%      <50        <50
+ Grout                               55.3%      36.5%    -18.8%      <50        >49
+ Portland Arthur Academy             33.3%      13.3%    -20.0%      <50        <50
+ Chief Joseph                        41.0%      20.0%    -21.0%      <50        <50
+ Vernon                              50.0%      24.6%    -25.4%      >49        >49
+
+
+8th Grade Readiness (ELA and Math Achievement)
+The board goal for eighth grade “is to close the opportunity and outcome gaps in eighth grade readiness
+between students of color and their white peers”, by increasing the percent of students proficient in
+both ELA and mathematics for:
+     ● African American students by 3.2 percentage points per year
+     ● Pacific Islanders by 2.7 percentage points per year
+     ● Native American students by 1.1 percentage points per year
+     ● Latino students by 2.6 percentage points per year
+
+
+
+21
+Achievement changes are mostly positive. Achievement for White students grew by 3.3% and for Latinx
+students by 2.1%. Achievement for Native American students moved from 0% to 20% but the number of
+students in that group (and in the Pacific Islander group) is small, making wide fluctuations in
+achievement more likely. Achievement for Asian students declined by 3.6%. Achievement for Black
+students and Pacific Islander students remained about the same.
+
+Figure 17. OSAS 8th Grade ELA and Math Achievement by Race/Ethnicity
+                OSAS 8th Grade ELA and Math Achievement by Race/Ethnicity - 2 Years
+ 100.0%
+
+  90.0%
+
+  80.0%
+
+  70.0%
+
+  60.0%
+
+  50.0%            -8.8%                                                                                                                  3.6%
+                                                                                1.7%
+  40.0%
+
+  30.0%
+                                                                                                  21.4%
+                                                            0.7%
+  20.0%
+                                     no change
+  10.0%
+                                                                                                                    no change
+                43.8%   35.0%         5.1%    5.1%      14.0%   14.7%         34.8%   36.5%     <5%    21.4%        <5%    <5%          39.2%   42.8%
+     0.0%
+                 Asian                  Black            Latinx              Multi-racial        Native           Pacific Islander        White
+                                                                                                American
+
+                                                                   2021-22        2022-23
+
+
+
+Table 12. OSAS 8th Grade ELA and Math Achievement by Race/Ethnicity
+                                      2021-22                                  2022-23
+                                                                                                                 Δ from
+                                 Proficient                              Proficient
+                                                       #                                        #               2022 to          Board
+ Student Group                  #        %           Tested             #             %       Tested             2023            Target                 Status
+ Asian                          **     43.8%          >49               **     35.0%           >49               -8.8%            N/A                    N/A
+ Black                          **      5.1%          >49               **      5.1%           >49             no change         7.8%               Not met
+ Latinx                         **     14.0%          >49               **     14.7%           >49               0.7%            15.2%              Not met
+ Multi-racial                   **     34.8%          >49               **     36.5%           >49               1.7%             N/A                    N/A
+ Native Amer                    **      <5%           <50               **     21.4%           <50              21.4%            1.1%                   Met
+ Pacific Isl.                   **      <5%           <50               **      <5%            <50             no change         2.7%               Not met
+ White                          **     39.2%          >49               **     42.8%           >49               3.6%             N/A                    N/A
+
+
+
+22
+Table 13 lists overall 8th grade achievement (students scoring proficient in both ELA and math) by school.
+This table is sorted in descending order by growth from 2022 to 2023
+
+Table 13. OSAS 8th Grade ELA and Math Achievement by School
+                                                 ELA and Mathematics Grade 8
+                                       % Proficient both Subjects         # Tested
+ School                              2021-22      2022-23      Δ     2021-22 2022-23
+ Skyline                                44.0%        78.9%      34.9%       <50         <50
+ Jackson                                23.0%        37.0%      14.0%       >49         >49
+ Mt Tabor                               32.3%        44.9%      12.6%       >49         >49
+ Beaumont                               29.8%        40.4%      10.6%       >49         >49
+ Harriet Tubman                         11.5%        21.4%      9.9%        >49         >49
+ Ockley Green                           14.3%        23.6%      9.3%        >49         >49
+ Roseway Heights                        11.8%        19.4%      7.6%        >49         >49
+ Lane                                   6.1%         13.7%      7.6%        >49         >49
+ Laurelhurst                            59.0%        65.7%      6.7%        >49         >49
+ Hosford                                28.2%        34.1%      5.9%        >49         >49
+ Sellwood                               39.4%        44.2%      4.8%        >49         >49
+ Harrison Park                          16.9%        21.2%      4.3%        >49         >49
+ Beverly Cleary                         50.0%        52.3%      2.3%        >49         >49
+ Kellogg                                22.1%        21.8%      -0.3%       >49         >49
+ Faubion                                5.7%         5.1%       -0.7%       >49         >49
+ da Vinci                               30.5%        29.7%      -0.8%       >49         >49
+ Astor                                  18.8%        16.7%      -2.1%       >49         <50
+ George                                 11.6%        8.5%       -3.1%       >49         >49
+ Vernon                                 24.5%        21.2%      -3.3%       <50         >49
+ Creative Science                       32.7%        29.2%      -3.5%       <50         <50
+ Robert Gray                            44.3%        40.1%      -4.2%       >49         >49
+ West Sylvan                            55.7%        50.6%      -5.1%       >49         >49
+ Hayhurst (including Odyssey)           61.9%        56.0%      -5.9%       <50         <50
+ Le Monde                               71.4%        64.7%      -6.7%       <50         <50
+ César Chávez                           11.1%        4.1%       -7.0%       >49         <50
+ Winterhaven                            78.4%        69.6%      -8.9%       >49         <50
+ Portland Village School                35.4%        26.2%      -9.2%       <50         <50
+ Sunnyside Environmental                35.0%        24.2%     -10.8%       >49         >49
+ Metropolitan Learning Center           38.6%        17.8%     -20.9%       <50         <50
+
+Overall Achievement Change by School
+One-year achievement changes are identified by school below. The tables are grouped by K-5/K-8 and
+then middle school and are sorted in descending order by amount of growth.
+
+
+
+23
+Table 14. K-5/K-8 Schools with 2-Year OSAS Achievement
+                                              English Language Arts (ELA)                             Mathematics
+                                           % Proficient                # Tested             % Proficient             # Tested
+                                    2021-     2022-                2021-      2022-   2021-    2022-              2021-     2022-
+              School                  22       23          Δ         22        23      22       23          Δ      22        23
+ Sitton                            27.7%     41.0%       13.3%      137        139    27.7%   40.6%      12.8%     137       138
+ Whitman                           30.4%     42.0%       11.6%       79        81     20.3%   25.6%       5.4%     79        82
+ Rigler                            20.0%     29.8%       9.8%       105        104    16.0%   22.3%       6.3%     106       103
+ Lent                              20.2%     29.1%       8.9%       124        110    13.8%   24.3%      10.5%     123       111
+ Arleta                            51.1%     59.9%       8.8%       137        137    45.6%   54.7%       9.2%     136       137
+ Creston                           59.4%     68.1%       8.7%       106        116    50.9%   56.1%       5.2%     106       114
+ Creative Science                  57.9%     65.8%       7.9%       266        269    41.6%   42.5%       0.9%     267       266
+ Lee                               34.0%     41.8%       7.8%       103        122    33.0%   37.7%       4.7%     103       122
+ Irvington                         54.5%     61.9%       7.4%       121        105    46.3%   51.4%       5.1%     121       105
+ Grout                             46.4%     53.6%       7.3%       151        138    45.6%   47.4%       1.8%     149       137
+ Markham                           46.2%     52.4%       6.3%       182        185    39.9%   47.1%       7.2%     178       187
+ KairosPDX                         34.9%     40.7%       5.8%        83        108    32.5%   42.5%      10.0%     80        106
+ Stephenson                        79.3%     85.1%       5.8%       164        154    74.4%   78.4%       4.0%     164       153
+ Skyline                           66.7%     72.1%       5.4%       138        136    61.6%   64.0%       2.4%     138       136
+ Lewis                             67.2%     72.3%       5.1%       174        159    55.2%   61.6%       6.5%     174       159
+ César Chávez                      17.9%     22.5%       4.7%       330        315    11.6%   10.5%      -1.0%     329       313
+ Richmond                          73.8%     78.1%       4.3%       271        260    55.2%   71.9%      16.7%     270       260
+ Boise-Eliot Humboldt              29.5%     33.3%       3.9%       129        147    17.1%   21.1%       4.0%     129       147
+ Dr. Martin Luther King Jr.        43.3%     46.2%       2.9%       134        132    35.1%   37.9%       2.8%     131       132
+ Portland Arthur Academy           68.6%     71.4%       2.9%        70        63     35.7%   42.9%       7.1%     70        63
+ Woodstock                         61.4%     64.3%       2.8%       241        235    60.6%   54.5%      -6.1%     241       235
+ Rose City Park                    52.8%     55.4%       2.6%       216        224    49.5%   57.0%       7.5%     214       221
+ Astor                             49.4%     51.9%       2.4%       265        241    37.4%   47.1%       9.7%     262       238
+ Emerson                           62.7%     65.1%       2.4%        67        63     52.2%   42.9%      -9.4%     67        63
+
+
+24
+                                     English Language Arts (ELA)                             Mathematics
+                                  % Proficient                # Tested             % Proficient             # Tested
+                            2021-    2022-                2021-      2022-   2021-    2022-              2021-     2022-
+            School           22       23           Δ        22        23      22       23          Δ      22        23
+ Ainsworth                  76.4%   78.4%        2.1%      292        292    71.0%   69.4%      -1.6%     290       291
+ Llewellyn                  80.9%   82.9%        2.0%      178        193    71.3%   71.9%       0.5%     178       192
+ Abernethy                  75.7%   77.6%        1.8%      210        205    73.1%   77.8%       4.7%     212       203
+ Sunnyside Environmental    57.7%   59.3%        1.6%      319        295    50.0%   49.7%      -0.3%     310       292
+ Rosa Parks                 10.7%   12.1%        1.4%      121        99     5.9%     9.4%       3.5%     119       96
+ Bridger                    44.8%   46.1%        1.3%      172        154    32.6%   41.6%       9.0%     172       154
+ Hayhurst (incl. Odyssey)   71.2%   72.4%        1.1%      306        322    62.6%   63.0%       0.4%     302       324
+ Sabin                      71.7%   72.7%        1.0%      159        150    65.8%   62.4%      -3.4%     158       149
+ Harrison Park              31.7%   32.6%        1.0%      357        365    20.9%   23.5%       2.6%     359       362
+ Chief Joseph               58.7%   59.5%        0.8%      121        116    49.2%   50.0%       0.8%     120       118
+ Chapman                    51.9%   52.7%        0.7%      154        169    42.8%   38.5%      -4.3%     152       169
+ Beverly Cleary             75.1%   75.6%        0.5%      473        430    67.0%   65.6%      -1.4%     467       430
+ Rieke                      83.2%   83.6%        0.4%      167        159    77.8%   76.7%      -1.1%     167       159
+ Roseway Heights            33.7%   34.1%        0.4%      448        405    24.9%   24.6%      -0.3%     442       391
+ Woodmere                   24.6%   24.8%        0.2%      122        117    20.8%   17.1%      -3.7%     120       117
+ Le Monde                   83.3%   83.4%        0.1%      234        229    75.0%   80.3%       5.3%     232       229
+ Woodlawn                   43.3%   43.2%       -0.1%      127        139    37.3%   44.6%       7.3%     126       139
+ Faubion                    26.3%   26.2%       -0.2%      414        409    14.5%   15.8%       1.3%     406       405
+ Buckman                    58.3%   57.1%       -1.3%      192        191    36.1%   47.4%      11.3%     194       194
+ Capitol Hill               66.7%   65.3%       -1.4%      159        167    62.2%   58.7%      -3.5%     156       167
+ Alameda                    84.2%   82.7%       -1.4%      278        255    81.7%   78.3%      -3.3%     278       254
+ Duniway                    74.7%   72.9%       -1.7%      225        218    72.0%   71.3%      -0.7%     225       216
+ Bridlemile                 78.0%   76.2%       -1.8%      209        206    69.1%   73.9%       4.8%     207       207
+
+
+
+25
+                                         English Language Arts (ELA)                             Mathematics
+                                      % Proficient                # Tested             % Proficient             # Tested
+                                2021-    2022-                2021-      2022-   2021-    2022-              2021-     2022-
+            School               22       23          Δ         22        23      22       23          Δ      22        23
+ Maplewood                      69.8%   67.3%       -2.5%      159        150    61.6%   65.1%       3.5%     159       149
+ Winterhaven                    84.9%   82.3%       -2.6%      218        231    82.9%   79.7%      -3.2%     217       227
+ Kelly                          26.0%   23.2%       -2.8%      169        185    26.2%   23.5%      -2.7%     168       183
+ Laurelhurst                    79.8%   76.7%       -3.0%      440        464    62.5%   69.7%       7.2%     440       458
+ Glencoe                        71.6%   68.3%       -3.3%      183        183    61.2%   64.6%       3.4%     183       181
+ Marysville                     36.3%   32.6%       -3.7%      113        138    26.1%   29.9%       3.8%     111       137
+ Vestal                         34.1%   30.2%       -3.9%       85        96     31.3%   27.2%      -4.2%     83        92
+ Vernon                         55.5%   51.3%       -4.1%      330        335    47.1%   43.9%      -3.3%     329       342
+ Atkinson                       69.0%   64.6%       -4.4%      155        147    51.6%   55.8%       4.1%     153       147
+ Scott                          37.5%   32.9%       -4.6%      192        222    31.6%   32.7%       1.1%     190       217
+ Peninsula                      46.8%   41.3%       -5.5%       94        104    39.8%   33.7%      -6.1%     93        104
+ Portland Village               54.9%   48.9%       -6.1%      273        262    42.5%   41.5%      -1.0%     268       260
+ James John                     37.6%   29.6%       -8.0%      149        152    31.5%   31.1%      -0.4%     149       151
+ Beach                          62.2%   54.2%       -8.0%      172        179    62.9%   53.2%      -9.8%     170       173
+ Forest Park                    83.7%   75.1%       -8.6%      172        169    76.7%   79.8%       3.0%     172       168
+ Metropolitan Learning Center   68.7%   59.6%       -9.1%      195        208    46.8%   44.3%      -2.5%     201       201
+
+
+
+
+26
+Table 15. Middle Schools with 2-Year OSAS Achievement
+                              % Proficient              # Tested             % Proficient            # Tested
+                      2021-      2022-              2021-      2022-   2021-    2022-             2021-     2022-
+       School           22         23         Δ       22        23      22       23          Δ     22        23
+ Kellogg              33.7%      43.6%      9.9%      587       614    24.4%   27.3%       2.9%    619       616
+ Harriet Tubman       34.1%      41.5%      7.4%      273       229    22.7%   26.8%       4.1%    260       246
+ Beaumont             48.0%      50.5%      2.5%      425       424    44.8%   55.7%      10.9%    426       422
+ Jackson              61.1%      63.2%      2.1%      679       726    47.0%   54.1%       7.0%    644       703
+ Ockley Green         39.3%      41.2%      1.9%      448       430    22.6%   26.9%       4.3%    451       424
+ Mt Tabor             61.9%      62.3%      0.4%      612       568    43.9%   49.4%       5.5%    606       571
+ Lane                 22.8%      22.8%     -0.1%      333       290    9.8%    11.8%       2.0%    327       279
+ George               22.9%      22.8%     -0.1%      350       373    8.5%     8.8%       0.3%    352       339
+ Sellwood             67.5%      67.2%     -0.4%      530       518    49.0%   58.5%       9.5%    527       494
+ West Sylvan          70.6%      69.2%     -1.3%      686       705    59.5%   62.3%       2.8%    669       689
+ Robert Gray          69.9%      68.5%     -1.4%      439       457    46.9%   55.8%       8.9%    437       448
+ Hosford              62.5%      59.8%     -2.7%      568       517    44.7%   48.2%       3.5%    557       508
+ da Vinci             59.3%      55.0%     -4.3%      349       371    42.0%   39.6%      -2.5%    352       359
+
+
+
+
+27
+                                                References
+1. U.S. News & World Report. Pandemic Prompts Historic Decline in Student Achievement on Nation’s
+Report Card. October 24, 2022. https://www.usnews.com/news/education-news/articles/2022-10-
+24/pandemic-prompts-historic-decline-in-student-achievement-on-nations-report-card
+2. CNN. Test Scores for 13-year-olds drop several points since the start of pandemic, building on decade-
+long decline, report says. June 21, 2023.https://www.cnn.com/2023/06/21/us/test-scores-decline-
+nations-report-card/index.html
+3. Education Week. Reading and Math Achievement Is Getting Worse, Nation’s Report Card Shows. June
+21, 2023. https://www.edweek.org/leadership/reading-and-math-achievement-is-getting-worse-
+nations-report-card-
+shows/2023/06#:~:text=Scores%20for%2013%2Dyear%2Dolds,widespread%20declines%20in%20studen
+t%20achievement
+4. The Nation’s Report Card. NAEP Long-Term Trend Assessment Results: Reading and Mathematics.
+Scores decline again for 13-year-old students in reading and mathematics.
+https://www.nationsreportcard.gov/highlights/ltt/2023/
+5. The Nation’s Report Card. NAEP Report Card: Reading. State Average Scores
+https://www.nationsreportcard.gov/reading/states/scores/?grade=4
+6. The Nation’s Report Card. NAEP Report Card: Mathematics. State Average Scores
+https://www.nationsreportcard.gov/mathematics/states/scores/?grade=4
+7. NWEA Brief: Education’s long COVID: 2022-23 achievement data reveal stalled progress toward
+pandemic recovery. July 2023. https://www.nwea.org/uploads/Educations-long-covid-2022-23-
+achievement-data-reveal-stalled-progress-toward-pandemic-recovery_NWEA_Research-brief.pdf
+8. Calder Center for Analysis of Longitudinal Data in Education Research. Summer School as a Learning
+Loss Recovery Strategy After COVID-19: Evidence from Summer 2022. August 2023.
+https://caldercenter.org/publications/summer-school-learning-loss-recovery-strategy-after-covid-19-
+evidence-summer-2022
+9. OPB: Oregon’s assessment scores plummet in first round of testing since COVID_19 disrupted schools.
+September 22, 2022. https://www.opb.org/article/2022/09/22/oregon-education-test-scores-
+standardized-pandemic/
+
+
+State and PPS OSAS results are taken from the ODE Public Group Reports data sets.
+
+
+
+
+28
+

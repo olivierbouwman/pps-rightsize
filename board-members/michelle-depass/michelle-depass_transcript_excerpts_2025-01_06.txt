@@ -1,0 +1,72 @@
+Michelle DePass (Zone 2; Vice Chair 2024-25) - transcript excerpts, PPS Board meetings Jan-Jun 2025 (2025 bond referral and HS cost framework, 2025-26 budget cuts, seismic resolutions, Jefferson enrollment strategy)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/10/2025 superintendent evaluation (Res. 7122) skipped entirely; remarks about named laid-off staff and contractors; candidates' and directors' family details (children's schools/teachers, moves) trimmed).
+
+RECORDED VOTES / MOTIONS
+- 2025-01-07 officer elections: Wang elected chair 7-0 (moved Brim-Edwards, seconded Sullivan); DePass elected vice chair 7-0 (moved Brim-Edwards, seconded Hollands). Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_07_Regular_Meeting_Minutes_Draft_for_Consideration_3996227.txt
+- 2025-01-07 Res. 7038 referral of the $1.83B 2025 bond: passed 7-0 (moved Scott, seconded Hollands); Brim-Edwards amendment to add $40M for a Center for Native American Student Excellence FAILED 2-5 (yes Brim-Edwards, Greene; NO DePass, Hollands, Scott, Sullivan, Wang). Source: same minutes.
+- 2025-01-13 Zone 1 appointment (caption roll calls): round 1 Brim-Edwards-Splitt, DePass-Wirz, Greene-Reece, Hollands-Reece, Sullivan-Splitt, Wang-Wirz (2-2-2); round 2 Wang switched to Splitt ('part of my responsibility as a chair is to move us forward'); runoff Splitt 4 (Brim-Edwards, DePass, Sullivan, Wang) vs Reece 2 (Greene, Hollands). The draft minutes' per-round lists are internally inconsistent; tallies match captions. Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_13_Special_Meeting_Minutes_Draft_with_adopted_resolutions_3996229.txt DePass: Wirz in rounds 1-2, Splitt in the runoff.
+- 2025-02-11 Res. 7051 framework to build high-quality high schools cost-efficiently (target ~295,000 sq ft; savings to elementary/middle school repairs) passed 7-0 as amended (moved Brim-Edwards, seconded Hollands; drafted by Brim-Edwards, Hollands and Splitt). Source: boardbook/2025-03-04_Regular_Meeting_677306/2025_02_11_Special_Mtg_Work_Session_Minutes_Draft_with_Resolutions_3996300.txt
+- 2025-03-04 (Sullivan absent): Res. 7067/7068 Cleveland & Wells pre-construction contracts adopted as amended 6-0 (moved DePass, seconded Splitt); appeal of DePass's call-the-question tied 3-3 (no: DePass, Splitt, Wang); Res. 7058 senior-chief salary schedule postponed 4-2 (moved Wang, seconded Splitt; yes Brim-Edwards, DePass, Splitt, Wang; no Greene, Hollands). Source: boardbook/2025-03-18_Work_Session_with_Vote_on_Consent_Agenda_679850/2025_03_04_Regular_Meeting_Minutes_with_adopted_Resolutions_-_draft_3996302.txt
+- 2025-04-22 Res. 7099 add senior-leadership pay grade (superintendent's central-office restructure): passed 6-1 (Brim-Edwards no; Wang, DePass, Splitt, Sullivan yes). Source: boardbook/2025-05-06_Regular_Meeting_686691/2025_04_22_Special_Meeting_and_Work_Session_Meeting_Minutes_Draft_w_Resolutions_3996387.txt (draft minutes list DePass absent for the meeting's consent vote but Yes on 7099; she participated remotely)
+- 2025-05-06 Res. 7109 'urgent need for seismic retrofitting of high-risk school buildings' (Hollands) passed 7-0 (moved Greene, seconded DePass); Res. 7110 seismic tracking/reporting through the facilities committee (drafted by Wang 'with help and input from director Splitt, director DePass and director Sullivan') passed 7-0 (moved Sullivan, seconded DePass). Source: boardbook/2025-05-19_Special_Meeting_689137/2025_05_06_Regular_Meeting_Minutes_-_draft_for_consideration_3996420.txt
+- 2025-05-19 Res. 7116 Budget Committee approval of the 2025-26 budget (Greene, Hollands absent): caption 'approved by a vote of five to zero' (moved DePass, seconded Splitt); draft minutes say '4 yes - 0 no - 1 abstain' but list all five present as Yes (internal inconsistency; caption shows no abstention called). Source: boardbook/2025-06-10_Regular_Meeting_689410/2025_05_19_Special_Meeting_Minutes_-_Draft_with_Resolutions_3996425.txt
+- 2025-06-10 Res. 7120 2024-25 budget amendment 1 passed 7-0 (moved Splitt, seconded Sullivan); Res. 7121 adoption of the 2025-26 budget passed 5-2 (moved DePass, seconded Sullivan; YES Wang, DePass, Splitt, Sullivan, Greene; NO Brim-Edwards, Hollands). Source: boardbook/2025-06-24_Special_Meeting_and_Work_Session_695124/2025_06_10_Regular_Meeting_Minutes_Draft_for_Consideration_3996489.txt and caption ~02:32.
+
+EXCERPTS
+
+[2025-01-07 Regular Meeting - referral of the 2025 bond (Res. 7038) and Native student center amendment]
+  time 02:57:37 | https://www.youtube.com/watch?v=YLB6Aken-Vo&t=10657s
+  source: transcripts/text/2025-01-07_Board_of_Education_Regular_Meeting__YLB6Aken-Vo.txt
+  attribution: PROBABLE (self-reference: re-reads the statement she read when Hollands, Greene and Brim-Edwards were sworn in in 2021, when DePass was chair)
+  topic: reuse existing buildings rather than a new center
+  "I don't think it's a building [...] the most sustainable option is to use the buildings that we have currently a single building that needs will require Transportation [...] I would personally rather see our our our current buildings being used built out even programming added"
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:11:22 | https://www.youtube.com/watch?v=zxaXALjzumk&t=7882s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (Splitt: "places like director depass mentioned"; self: "I work in climate")
+  topic: size high schools on projections, not current enrollment (Jefferson)
+  "I would love to see uh what the trade-offs are in terms of square footage and student capacity but I don't think that we should base it on current enrollment because if we do then again Jefferson suffers because Jefferson has a really low enrollment so if we're basing any decisions based on current enrollment Jefferson is harmed"
+
+[2025-02-19 PPS Advocacy Training Night (webinar)]
+  time 00:10:06 | https://www.youtube.com/watch?v=4GuJirKtXVU&t=606s
+  source: transcripts/text/2025-02-19_PPS_Advocacy_Training_Night__4GuJirKtXVU.txt
+  attribution: CONFIRMED (staff: "we're going to start with director depass")
+  topic: legislative ask: CSL is a floor
+  "passing the governor's uh recommended changes to the current service level budget while making it clear that that's a floor and not a ceiling"
+
+[2025-04-29 Budget public comment and work session]
+  time 02:02:39 | https://www.youtube.com/watch?v=kni2IkmmZEk&t=7359s
+  source: transcripts/text/2025-04-29_Public_Comment_and_Work_Session_on_the_2025-26_Proposed_Budget__kni2IkmmZEk.txt
+  attribution: CONFIRMED (superintendent: "Can I address um vice chair depos your question about fund balance?")
+  topic: floats drawing reserves down
+  "I have a comment um thank you for being here um about the reserve fund policy. I believe our board policy calls for a 5 to 10% target. [...] I'm looking for a percentage um of what that is and if we would revisit spending that down a little bit."
+
+[2025-04-29 Budget public comment and work session]
+  time 02:03:40 | https://www.youtube.com/watch?v=kni2IkmmZEk&t=7420s
+  source: transcripts/text/2025-04-29_Public_Comment_and_Work_Session_on_the_2025-26_Proposed_Budget__kni2IkmmZEk.txt
+  attribution: CONFIRMED (same turn)
+  topic: fiscal 'emergency'; engagement on cuts
+  "This is an emergency. this is not we should it it it's dire and um you know it'd be one thing if there was light at the end of the tunnel but I don't I don't see it. So just a comment and I think my other question was what did the student engagement look like when making the proposed cuts for our language access services program?"
+
+[2025-05-06 Regular Meeting - seismic resolutions 7109/7110 and bond update]
+  time 02:31:58 | https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=9118s
+  source: transcripts/text/2025-05-06_Board_of_Education_Regular_Meeting__Uxh6Jm_xFYY.txt
+  attribution: PROBABLE (same speaker then tells a story from her time as "a um brand new construction manager", matching DePass's career)
+  topic: seismic prioritization should weigh enrollment
+  "So we're going to do the assessment's been done, but now we're going to do a kind of a PPS lens. Are we going to um assign some criteria such as enrollment?"
+
+[2025-06-10 Regular Meeting - Jefferson enrollment strategy (sunsetting dual assignment)]
+  time 03:02:37 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=10957s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: PROBABLE (unnamed; Jefferson alumna framing "if you're black you probably went to Jefferson" and housing-bureau background match DePass)
+  topic: Jefferson recruitment and gentrification
+  "I would encourage also a partnership with the realtors. And I say that kind of very seriously, but um, this neighborhood has a history of gentrification. [...] encourage partnership with our corporations, our realtors, our banks to let them know this is a great school."

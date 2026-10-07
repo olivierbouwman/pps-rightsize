@@ -1,0 +1,1387 @@
+education policy analysis
+archives
+A peer-reviewed, independent,
+open access, multilingual journal
+
+
+
+
+                                                                                   Arizona State University
+
+             Volume 25 Number 21              March 13, 2017              ISSN 1068-2341
+
+
+
+ “We Felt They Took the Heart Out of the Community”:
+Examining a Community-Based Response to Urban School
+                       Closure
+                                            Terrance L. Green
+                                      University of Texas at Austin
+                                               United States
+
+Citation: Green, T. (2017). “We felt they took the heart out of the community”: Examining a
+community-based response to urban school closure. Education Policy Analysis Archives, 25(21).
+http://dx.doi.org/10.14507/epaa.25.2549
+
+Abstract: Massive school closures are occurring in urban school districts across the United States.
+Research suggests that school closures are the outcome of racialized neoliberal policies and decades
+of disinvestment that have left many urban districts with fiscal deficits and declining student
+enrollments. However, some urban communities have successfully organized against school closures
+and reopened neighborhood schools. As such, this study examines how leaders in a community-
+university coalition in the Midwestern United States reopened a high school that was closed by its
+district. This case study draws on interviews and document data, and describes the forces that
+promoted school closure and its impacts on the community. Concepts from social capital and social
+network theories are used to guide the analysis. Findings indicate these leaders leveraged networks to
+negotiate a community-university social contract, took strategic and socially connected actions, and
+formed a community-driven education task force. This study offers implications for policy, future
+research, and communities in similar contexts.
+Keywords: School closures; shared leadership; school-community engagement; urban
+school reform; community-based education
+
+
+Journal website: http://epaa.asu.edu/ojs/                                 Manuscript received: 27/5/2016
+Facebook: /EPAAA                                                           Revisions received: 1/12/2016
+Twitter: @epaa_aape                                                                  Accepted: 2/1/2017
+Education Policy Analysis Archives Vol. 25 No. 21                                                2
+
+“Creemos que ellos han tomado el corazón de la comunidad”: Examen de una
+respuesta basada en la comunidad para el cierre de la escuela urbana
+Resumen: Las grandes cerraduras escuelas están llevando a cabo en los distritos escolares
+urbanos de Estados Unidos. La investigación sugiere que el cierre de las escuelas es el
+resultado de las políticas neoliberales y décadas de desinversión racializados han dejado a
+muchos distritos urbanos con déficit fiscales y la disminución de la matrícula de
+estudiantes. Sin embargo, algunas comunidades urbanas se han organizado con éxito
+contra los cierres de escuelas y colegios cercanos reabrieron. Como tal, este estudio
+examina cómo los líderes de una coalición de la comunidad universitaria en el Medio Oeste
+de los Estados Unidos volvieron a abrir una escuela que fue cerrada por el distrito. Este
+estudio de caso se basa en entrevistas y datos de documentos y describe las fuerzas que
+promovieron el cierre de la escuela y su impacto en la comunidad. Los conceptos de las
+teorías del capital social y redes sociales se utilizan para guiar el análisis. Los resultados
+indican que estos líderes apalancadas redes para negociar un contrato social entre la
+comunidad y la universidad, se tomaron acciones estratégicas y socialmente conectados, y
+formaron un grupo de trabajo educativo dirigido por la comunidad. Este estudio tiene
+implicaciones para la política, la investigación y las futuras comunidades en contextos
+similares.
+Palabras-clave: cierre de la escuela; liderazgo compartido; las relaciones escuela-
+comunidad; reforma de la escuela urbana; la educación basada en la comunidad
+
+“Sentimos que nos tomaram o coração da comunidade”: Examinando uma resposta
+baseada em comunidade para o fechamento da escola urbana
+Resumo: Grandes fechamentos de escolas estão ocorrendo em distritos de escolas urbanas
+nos Estados Unidos. Pesquisas sugerem que o encerramento de escolas é o resultado de
+políticas neoliberais racializadas e décadas de desinvestimento que deixaram muitos distritos
+urbanos com déficits fiscais e declínio das matrículas de estudantes. No entanto, algumas
+comunidades urbanas têm organizado, com sucesso, contra fechamentos de escolas e reabriu
+escolas das proximidades. Como tal, este estudo examina como os líderes em uma coalizão
+comunidade-universidade no Meio-Oeste dos Estados Unidos reabriu uma escola que foi
+fechada por seu distrito. Este estudo de caso baseia-se em entrevistas e dados de documentos
+e descreve as forças que promoveram o fechamento da escola e seus impactos na comunidade.
+Conceitos de capital social e teorias de redes sociais são usados para orientar a análise. Os
+resultados indicam que esses líderes alavancaram redes para negociar um contrato social entre
+a comunidade e a universidade, ações estratégicas foram tomadas e socialmente conectadas, e
+formaram uma força-tarefa educacional liderada pela comunidade. Este estudo oferece
+implicações para políticas, pesquisas futuras e comunidades em contextos semelhantes.
+Palavras-chave: Fechamento de escolas; liderança compartilhada; relações comunidade-
+escolas; reformas de escolas urbanas; educação baseada em comunidades
+Community-Based Response to School Closure                                                                 3
+
+
+                                              Introduction
+         School closures are increasing across urban1 districts in the United States. The corrosive
+damage of structural racism, disinvestment in Black2 communities, deindustrialization, and market-
+based policies have left many urban communities—and the school districts located within them—
+with declining student enrollments, low test scores, and fiscal deficits (Buras, 2013; Good, 2016;
+Lipman, 2011a; Pedroni, 2011). As a response to these conditions, several large urban U.S. school
+districts, such as Chicago, Detroit, Indianapolis, Philadelphia, and St. Louis have closed schools
+(Finnigan & Lavner, 2012; Kirshner & Pozzoboni, 2011). Data show that school closures have two
+main implications across the intersections of race, class, geography, and academic outcomes
+(Kirshner, Gaertner, & Pozzoboni, 2010). First, school closures have been viewed as a manifestation
+of structural racism because they most adversely impact students of color who live in low-income
+neighborhoods, and have been tied to broader gentrification agendas in fiscally poor African
+American communities (Fine, 2012; Lipman, 2013; Lipman & Haines, 2007). School closures further
+complicate urban community conditions as they induce a loss of place and neighborhood disruption
+for students and local residents (Journey for Justice, 2014). Second, research suggests that school
+closures negatively affect African American and Latino/a students’ academic performance and
+persistence in the year following the closure of their school (Kirshner et al., 2010; Lipman, 2011b).
+         As such, the ways in which policymakers and districts respond to school closures can impact
+the schooling of millions of students of color. Given this reality, community leaders have begun to
+organize against school closures in urban districts throughout the U.S. Concomitantly, an emerging,
+yet rich body of research exists on this topic. Scholars have broadly analyzed urban school closure
+(Deeds & Pattillo, 2014; Galletta & Ayala, 2012; Johnson, 2013; Kirshner et al., 2010), community
+members’ influence on school closure (Finnigan & Lavner, 2012), student interpretations of school
+closings (Kirshner & Pozzoboni, 2011), the politics and impacts of school closure and rezoning
+(Siegel-Hawley et al., 2016), and the effects of school transfer after closure on students of color from
+low-income backgrounds (Kirshner et al., 2010). While this body of research suggests that urban
+school closure disrupts students’ lives and neighborhoods, and is the expected outcome of neoliberal
+policy agendas, less research has examined how communities organize against closure to reopen
+schools (for exception see Buras, 2013; Good, 2016; Johnson, 2013; Lipman, 2011a; Stovall, 2007,
+2016). In particular, we know little about how community stakeholders mobilize the resources
+within their networks to reopen closed schools.
+         The purpose and central inquiry of this study is to understand how community and
+university leaders took action to reopen an urban high school that was closed by its district in the
+midwestern United States. To contribute to the existing research on urban school closure, this study
+focuses on the responses of these leaders to closure and offers insights into their process of
+reopening a closed school. I intentionally center these community leaders’ perspectives and position
+their work as an act of agency, resistance, and what Stovall (2007) calls “‘politics of interruption:’ the
+process of creating a neighborhood public high school” (p. 681). While addressing urban school
+closure at the national and state levels will require equitable policy solutions, this article examines an
+exemplar case and seeks to understand how local actors responded and successfully pushed back on
+urban school closure in light of the current education policy landscape.
+
+
+1 Urban is used to describe geographic location.
+2 In this article, I use the terms Black and African American interchangeably to mean persons of African
+
+descent.
+Education Policy Analysis Archives Vol. 25 No. 21                                                     4
+
+         Drawing on social capital and social network theories, my findings indicate that these leaders
+leveraged their networks to negotiate a community-university social contract, took strategic and
+socially connected actions, and formed a community-driven education task force to sustain their
+work. The findings also suggest that to reopen a closed public school can be a long (i.e., five years)
+and difficult process that may not be permanent. However, in this educational climate, these
+findings contribute to our knowledge about how local actors draw from the social capital within
+their networks to respond to urban school closure. Hence, community leaders, school leaders,
+parents, researchers, and policymakers can use these findings to inform their understanding of the
+complexities of urban school closure and to help them better respond to this issue. Finally, given the
+rate at which urban school closures are occurring in districts of color, there is a critical need for
+research on this topic.
+         In what follows, I first review research on the current state of urban school closures across
+the United States, and outline two explanations in the literature for schools closures. I next review
+literature on community organizing, activism, and coalition building within the milieu of school
+closures. Then, I describe this study’s theoretical framework and methods. Following, I discuss how
+leaders across a community-university coalition took action to respond to urban school closure. I
+conclude with implications for practice, policy, and future research.
+The Escalating Crisis of Urban School Closures in the United States
+        The number of school closures has been steadily increasing over the last 16 years throughout
+the US and other parts of the world. In Ontario, Canada, over 200 schools were closed between
+1999 and 2002 (Basu, 2007), and between 2000 and 2005 more than 75 schools were closed in New
+Zealand (Kearns, Lewis, McCreanor, & Witten, 2009). In the US, school closures have
+disproportionately occurred in urban districts of color (Fine, 2012; Layton, 2014), especially in the
+midwestern and northeastern parts of the country. Reports from the Pew Charitable Trusts (2011)
+and Journey for Justice (J4J) Coalition (2014) found that nearly 600 schools have been closed across
+11 urban districts that largely serve students color, such as Chicago, Detroit, Kansas City,
+Milwaukee, Pittsburgh, and Washington D.C., since the year 2000.
+        National trends show that school closures have increased since 2000, but remained relatively
+steady with a few minor dips in the number of school closings between 2008 and 2009. According
+to the National Center for Education Statistics (NCES) (2013), 1,959 schools were closed during the
+2010-2011 school year across the United States. Comparatively, between 2000-2001 and 2010-2011,
+school closings across the US increased by 61.7% from 1,193 to 1,992. Specifically, in 2000-2001,
+high schools accounted for 25% of all school closings in the United States compared to 22% in
+2010-2011 (NCES, 2013). While the number of high school closings decreased on a percentage basis
+between 2001 and 2011, at the same time, high school closings increased on a per building basis
+from 302 to 436, respectively.
+        On the state and local levels, school closures are occurring at historic rates. Through state
+policies, school closures are being accelerated and even entire school districts are being dissolved in
+the name of rectifying fiscal deficits. For instance, in July of 2013, Michigan Governor, Rick Snyder,
+signed Public Acts (PA) 96 and 97 into law, which allow the state of Michigan to dissolve fiscally
+inept school districts. The Acts have already been used to close the Buena Vista and Inkster School
+Districts in Michigan. The state maintains that these districts—which mainly enrolled African
+American students from low-income and working-class backgrounds—were closed because they
+were financially insolvent and no longer able to educate children. Similarly, the most populated city
+in Michigan, Detroit, has experienced massive school closures. Detroit Public Schools closed nearly
+200 schools since 2004 (Pedroni, 2011).
+Community-Based Response to School Closure                                                             5
+
+         District-level policies are also accelerating school closures across urban cities. For example,
+in an unprecedented decision in 2013, the Chicago Public School (CPS) Board voted to close 50
+schools because they were deemed underperforming or underutilized. Closing these schools was the
+largest district-based set of school closures at one time in U.S. history, and most adversely impacted
+students of color from low-income communities (Webley, 2013). CPS has closed 111 schools since
+2001 (Layton, 2014).
+Explanations for Urban School Closure
+         Two main narratives have been used to explain urban school closure. First, through free
+market justification, some policymakers, economists, and reformers rationalize school closures
+within a narrative of fiscal responsibility, underutilization of space, and as an intervention to
+“failing” schools (Deeds & Pattillo, 2014; Pedroni, 2011). Those who espouse such narratives view
+school closure as a positive mechanism of reform because it removes low-performing schools from
+the “education market,” which according to advocates renders positive academic outcomes for
+students who have been displaced in subsequent years (Brummet, 2014; Engberg, Gill, Zamarro, &
+Zimmer, 2012). However, this discourse is often espoused ahistorically and does not account for the
+ways that structural racism, educational inequity, and policy trends shape the conditions for school
+closures (Fine, 2012; Lipman, 2011a, 2013). For example, No Child Left Behind (NCLB) spurred a
+high-stakes accountability policy context that makes school closure a common consequence to
+“underachieving” urban schools. NCLB also contributed to the proliferation of school closures
+through ushering in the current era of school reforms that use competition, choice, incentives, and
+punishments to improve student outcomes (Lipman, 2011a; Mintrop & Sunderman, 2009). Thus, in
+the current policy context, schools face closure when they fail to improve standardized test scores or
+lose students to charter schools.
+         Second, some scholars explain school closures through the political economy. A body of
+research documents how racialized neoliberal policies, political forces, the interests of corporate
+elites, and even failed desegregation policies produce urban school closures (Johnson, 2013; Journey
+for Justice, 2014; Lipman, 2013; Pedroni, 2011). For instance, Lipman’s (2011a) research shows that
+urban schools are deeply shaped and implicated in global, ideological, racial, economic, and political
+processes that are restructuring urban cities and school districts (see also Buras, 2013; Lipman, 2002,
+2011b, 2013; Stovall, 2016). This restructuring creates space for neoliberal and mayoral-control
+education policies that close urban schools, as well as, turn them over to private and corporate
+managers, expand charter schools, disband teachers unions, and enforce top-down education
+reforms (Lipman, 2013). In turn, these forces also constrain protest against urban school closure and
+pave the way for the displacement of elected governance bodies (e.g., school boards) and the
+disenfranchisement of children of color from public education (Johnson, 2013). Despite these trends
+on school closure and the forces that shape them, communities are resisting closure. As such, I next
+review literature on community organizing, activism, and coalition building to more broadly situate
+leadership within the context of school closures and community-university partnerships that work
+collaboratively to reopen a closed school.
+Community Organizing, Activism, and Coalition Building
+        Research on community organizing and activism offers insights for school closure because it
+addresses unequal school-community power relations, provides a structure for shared leadership,
+and builds local, democratic capacity for reform (Ishimaru, 2014; Warren, 2001; Warren & Mapp,
+2011). Community organizing and activism has been associated with improved student outcomes,
+increased parental involvement, and more equitable education funding (Mediratta, Shah &
+Education Policy Analysis Archives Vol. 25 No. 21                                                    6
+
+McAlister, 2009; Renee & McAlister, 2011). Moreover, to address school closures and other
+inequitable schooling conditions in urban contexts, community groups have organized and engaged
+in activism. For example, Journey for Justice (J4J), a national coalition of grassroots stakeholders
+across 21 cities in the US, advocates for providing community-driven alternatives to top-down,
+privatized policies that close urban schools. In collaboration with J4J and the Coalition to Revitalize
+Walter H. Dyett School, on August 23, 2015, 12 parents and community members engaged in a 34-
+day hunger strike to save Dyett High School on Chicago’s south side. Literally putting their lives on
+the line for their children’s education, the parents, the community, and a host of supporters offered
+a plan for a Global Leadership and Green Technology Community High School. To solicit input for
+the plan, the coalition got feedback from over 4,800 community residents, held six town hall
+meetings, and obtained over 3,000 petition signatures in support of the school. The Dyett High
+school hunger strike is an example of community activism and organizing to resist school closure
+and to open the type of school the community wanted.
+         Additionally, Stovall (2007, 2016) also details grassroots organizing and activism led by
+neighborhood residents of color for a new high school in Chicago. After the district faltered on a
+promise to build a new school in the community, local residents organized by attending leadership
+trainings at a community-based organization, advocating at school board meetings, and staging sit-
+ins. Residents’ activism ultimately manifested in a 19-day hunger strike that resulted in a new high
+school for Black and Latino/a students in the community.
+         Research on coalition building is also useful for leaders working within community groups to
+address urban school closure. According to Mizrahi and Rosenthal (2001), building successful
+coalitions include four elements: competence, conditions, commitment, and contributions. First,
+coalitions need strong and competent leadership to sustain the member base and work for equitable
+change. Second, sociopolitical conditions influence coalition building because they shape the climate
+for change and a coalition’s access to resources like political power and money. Third, coalition
+building requires a twofold commitment: (a) commitment from a core group that represents different
+organizations and (b) commitment to a common goal and coalition building as a means to achieve
+the goal. Fourth, coalition stakeholders must contribute the expertise, power, money, and other
+resources in their sphere of influence. Successful coalitions also communicate effectively, have an
+infrastructure to support the work, share vision and power, recognize stratified positionality (e.g.,
+race, class, gender, etc.), and have sufficient resources and/or access to them to achieve established
+objectives (Beamish & Luebbers, 2009; Foster-Fishman et al., 2001; Mizrahi & Rosenthal, 2001).
+         In sum, research on school closures highlights how education policies can impact school
+closure (Kearns et al., 2009; Mintrop & Sunderman, 2009), and underscores the racialized impacts of
+closures on school districts and communities of color (Fine, 2012; Lipman, 2011a). In contrast,
+scholarship on community activism, organizing, and coalition building describes aspects of how
+local actors might coalesce around inequitable school and community issues. Despite the reviewed
+research, we know little about how community leaders use coalition building and specifically the
+social capital embedded in their networks to organize against school closure within constraining
+policy environments. This study therefore aims to address this gap in the literature.
+
+       Theoretical Framework: Social Capital and Social Network Theories
+        To theoretically frame this study and to understand how leaders across a community-
+university coalition took action to address an urban high school closure, I draw on concepts from
+social network (Lin, 2001; Moody & Paxton, 2009) and social capital theories (Bourdieu, 1986;
+Coleman, 1988; Putnam, 2000). Social networks represent “a set of actors connected by a set of ties”
+Community-Based Response to School Closure                                                            7
+
+(Borgatti & Foster, 2003, p. 992). Hence, social network theory is an approach to understand how an
+individual or organization’s positions in a web of social ties constrains and promotes individual and
+organizational practices and outcomes (Coburn, Russell, Kaufman, & Stein, 2012). Scholars have
+shown that social networks can increase the flow of resources, information, and innovation among
+actors because of key social network elements such as: the strength of social ties, access to expertise,
+and depth of interaction between the social ties (Coburn et al., 2012). Additionally, social networks
+provide two more important elements for community coalitions: connectivity and structural equivalence,
+which are the connections that carry resources through a network and the individuals who hold the
+same position in more than one network, respectively (Moody & Paxton, 2009). Connectivity and
+structural equivalence are important because they identify where critical connections are made in
+networks, as well as how individuals can leverage the resources within and across various networks.
+Together, the elements of strength of ties, access to expertise, depth of interaction, connectivity, and
+structural equivalence can be useful for understanding how community actors draw on and share the
+resources within their social networks to address urban school closure, especially through
+interpersonal connections and social ties (Coburn et al., 2012).
+         Moreover, social capital theory helps to describe how and which resources are drawn upon
+in networks toward collective action. Scholars broadly “share the understanding that social capital
+consists of resources embedded in social relations and social structure, which can be mobilized when
+an actor wishes to increase the likelihood of success in a purposive action” (Lin, 2001, p. 24).
+According to Bourdieu (1986), social capital is the “aggregate of the actual or potential resources
+which are linked to the possession of a durable network of more or less institutionalized relationship
+of mutual acquaintance and recognition” (p. 248). In other words, social capital is the connection to
+networks and their resources. Coleman (1988) argues that social capital is a resource available to
+actors in a network and consists of obligations, expectations, information channels, and social
+norms. Within and across networks, social capital can foster trust, cooperation, shared support, and
+institutional effectiveness (Putnam, 2000). Community or neighborhood organizations often serve as
+points of connection and channels for social capital in urban contexts for residents (Warren, 2005).
+         The relationship between social networks and social capital can be understood in several
+ways. First, the amount of social capital that one has access to “. . . depends on both the quantity of
+the network connections that she or he can enlist and the sum of the amount of capital that each
+network member possesses” (Glanville & Bienenstock, 2009, p. 1509). Second, social networks
+provide structured relationships while social capital is the content embedded within them (Moody &
+Paxton, 2009). Lin (1999) argues the social capital embedded within social networks enhances
+collective action by providing resources such as information, influence, social credentials, and
+reinforcements to stakeholders in the network. Then, such resources can flow through
+institutionalized channels that are maintained through agreed upon social norms and obligations.
+The integration of social networks and social capital can thus become a vehicle to initiate
+community-wide change (Ling & Dale, 2013).
+         In particular, I use bridging and bonding social capital to illuminate the relationship between
+social networks and social capital in addressing school closure. Bonding social capital represents
+social networks that are “inward looking that tend to reinforce exclusive identities and homogenous
+groups” (Putnam, 2000, p. 22). Conversely, bridging social capital describes the “outward networks
+looking and encompassing people across diverse social cleavages” (Putnam, 2000, p. 22). Another
+form of bridging social capital is linking social capital, which describes ties to people in financial
+and/or political positions of power. Linking ties also highlight how community networks connect to
+formal institutions of “power” that have broad spheres of influence (Ling & Dale, 2013).
+Education Policy Analysis Archives Vol. 25 No. 21                                                      8
+
+        Collectively, bonding and bridging social capital inform this study in several ways. First,
+bonding social capital explains how leaders from various community organizations develop solidarity
+and social cohesion for a common goal (Putnam, 2000). Second, bridging social capital underscores
+how stakeholders can connect disparate networks and build community coalitions. Thus, as
+organizations develop solidarity for common purposes, they can leverage the resources within and
+across networks to achieve broad-based initiatives (Lin, 1999; Ling & Dale, 2013). Third, it illustrates
+how bridging and bonding social capital can remain inclusive to newcomers and engender closure of
+social networks (Coleman, 1988). According to Coleman (1988), social closure of networks describes a
+closed set of relationships with common expectations and “a set of effective sanctions that can
+guide and monitor behavior” (p. S107). Thus, as newcomers join coalitions they can be socialized
+into the norms of the network. In turn, this creates space for common obligations and expectations
+to emerge across diverse groups working to address urban school closure.
+        To this end, I apply both theories to this study with a deep understanding of the complex
+ways and cumulative impacts that racism, disinvestment, and neoliberal policies play in affecting
+urban school closures (Lipman, 2011a, 2011b, 2013). My intent is not to obscure the impacts of
+these forces, but rather I seek to understand how local actors mobilize their networks to reverse
+urban school closure within such contexts. With this understanding of social capital and social
+networks, I next discuss this study’s methods.
+
+                                              Methods
+        This analysis draws on data from a larger study that examined two urban high schools where
+reform occurred along with community development (Green, 2015). The data that formed this
+analysis emerged as I learned that one of the schools was closed between 1995 and 2000, but
+reopened five years later (i.e., in 2000) because of a community-university coalition. I, thus, chose to
+focus on this community-based collaboration for two main reasons. First, I sought to conduct
+research with community actors who successfully pushed back on urban school closure, because as
+Payne (2008) argues, “We need to know more about what can happen, not what ordinarily does
+happen. One success . . . tells us more than a thousand failures: one success tells us what is
+possible” (p. 7). Second, this study illustrates that community leaders can influence school closure
+despite the current educational climate. This is important because it emphasizes community-based
+leadership in an era where people in traditional school leadership positions, like principals and
+teacher leaders, are constrained by many time-consuming demands like high-stakes testing and
+accountability.
+Data Collection
+         According to Yin (1994), case study is a type of method that “investigates a contemporary
+phenomenon within its real-life context, especially when boundaries between the phenomenon and
+context are not clearly evident” (p. 13). The case study method was employed for this project to
+facilitate an analysis of the relationship between the local context and the phenomenon of interest:
+the community’s response to school closure. Using purposive sampling, I deliberately and non-
+randomly selected this case so that the most can be learned (Creswell, 2012). As such, I draw on data
+from interviews, detailed field notes and related documents. I collected data at neighborhood
+centers, the high school, and a local university.
+        Interviews and Documents. I conducted semi-structured interviews with urban high
+school principals (former and current), assistant principals, local university leaders, community
+leaders (e.g., neighborhood center directors), school counselors, a school board member, a police
+Community-Based Response to School Closure                                                              9
+
+officer, and teachers—32 total interviews. I, however, centrally draw on interviews with seven
+community and university leaders for this particular study, and use the other 25 interviews to further
+flesh out the findings. Per the focus of the larger study, the other 25 interviews did not specifically
+focus on the school reopening process and are primarily used to provide more detail about the
+study’s context. However, the seven participants’ perspectives were purposefully centered because
+they held formal leadership positions within the community-university coalition and were identified
+as the most actively involved in the reopening process.
+         These seven leaders include two directors from local neighborhood centers, three leaders
+from the local university, two high school principals (one current and two former), and the school’s
+community director: two were of color (African American) and five were White, while five were
+female and two were male (see Table 1). All interviews were digitally recorded, and I asked interview
+questions such as: What factors influenced the school closing? What impacts did the school’s closing
+have on students and the community? How did the community respond to the school closing, and
+who were the key actors involved in reopening the school? What actions did these actors take? The
+interviews lasted between 60 and 90 minutes. Additionally, to provide background and data
+triangulation, I also reviewed documents. Documents included newspaper articles, state and city
+documents, agendas and personal notes from school community advisory council meetings, as well
+as websites of the school, neighborhood centers, local university, and community-university
+coalition.
+
+Table 1
+Participants’ Profiles
+Name (pseudonym)            Leadership Position            Organization
+
+Sharon                            Principal                     LHS
+
+Brenda                            Principal                     LHS
+
+Nancy                             Director                State University
+
+Vinnie                     School-Com. Director                 LHS
+
+Vikki                         Center Director          King Neighborhood
+                                                              Center
+Dr. Charles                   Center Director         Coretta Neighborhood
+                                                              Center
+Lois                        Education Taskforce          State University
+
+
+Data Analysis
+        To analyze how the leaders took action to reopen the school, I utilized Marshall and
+Rossman’s (1999) six phases of analytic procedures: organizing the data, generating categories,
+coding the data, testing the emergent understandings, searching for alternative explanations, and
+writing the report. As such, I first transcribed interviews and field notes, and noted all leader actions
+for reopening the school to organize the data and generate categories. I then assigned each action a
+descriptive code and organized codes into similar categories to create axial codes. The axial codes
+were anchored in the reviewed literature and served as a means to identify relationships between the
+Education Policy Analysis Archives Vol. 25 No. 21                                                       10
+
+codes (Creswell, 2012). For example, descriptive codes included categories such as “protests” “sit-
+ins,” and then I created broad axial codes like “activism.” I then arranged the leader actions (now in
+axial codes) into larger conceptual themes and used the constant comparative method to test the
+emerging categories throughout the data analysis process (Glaser & Strauss, 1967). In places where
+discrepancies emerged, I re-read interviews and field notes and contacted participants to ensure that
+my interpretations were consistent with their experiences. Next, I analyzed the emerging findings
+and themes (i.e., leader actions) in relation to concepts from the theoretical framework, particularly
+including bridging and bonding social capital, social closure of networks, as well as the strength of
+social ties, access to expertise, depth of interaction, connectivity, and structural equivalence. I used
+these concepts as frames to situate the leader actions and analyze how social networks and social
+capital informed their actions.
+Limitations and Trustworthiness
+         As with all research, this study has limitations. First, this study relies on participants’ after-
+the-fact recollections. Second, this study primarily focuses on community and university leader
+perspectives, but does not include a key neighborhood leader’s perspective, Danny, because he
+passed during the reopening process. While these leader perspectives are valuable, students, parents,
+teachers, school board members, and neighborhood residents’ voices are absent from this study.
+However, the perspectives in this study are not intended to speak for the entire community or all
+categories of stakeholders involved in this work, but rather serve as a representative sample of those
+who led the work. Third, due to this study’s design, I do not presume to generalize the findings. In
+other words, I do not position these findings as a step-by-step, one-size-fits-all, linear process that
+must be followed religiously. I instead sought to develop an empirical understanding of community-
+based actions that reversed school closure and provide an account of such actions to inform practice
+in similar contexts.
+         To address these limitations and enhance the trustworthiness of the findings, I employed
+debriefing after each interview and conducted member checks with participants (Creswell, 2012). I
+also triangulated interview and document data sources. In addition, three faculty colleagues and two
+participants from the study served as cross-readers to ensure the manuscript interpretations were
+clear and my writing of the findings represent participants’ experiences. In the next section, I
+describe the school and community context of this study.
+
+Research Setting: The Case of Lawrence High School and Its Community
+         Located in an urban area in the Midwestern United States, Lawrence High School (LHS)
+opened in 1927 and was known as the hub of the community. The school’s community is comprised
+of and draws students from three surrounding neighborhoods: Coretta, Betty, and King
+Neighborhoods. However, the school is located in the King Neighborhood, a traditionally working
+to lower-class community on the north side of town. Together, the three neighborhoods (i.e.,
+community) have about 14,000 residents and approximately 3,800 school-age children. Each
+neighborhood has a neighborhood center that has been there for over a century. These
+neighborhood centers originally served as settlement houses for immigrant families, but currently
+offer a range of services in the community such as: educational support, childcare, social services,
+healthcare, substance abuse counseling, and support for housing. According to Dr. Charles, the
+neighborhood centers are, “. . . grassroots entities that represent the will of the people.” Two miles
+from LHS sits State University, a 30,000 student urban university.
+Community-Based Response to School Closure                                                          11
+
+        Economically, the Betty Neighborhood is the lowest-income of the three neighborhoods.
+Per capita income is slightly over $9,000 per year and average annual household income is just over
+$17,000. The King Neighborhood is racially similar, but varied by social class. Community members
+are 90% White, but come from lower middle to middle-class backgrounds. These were individuals
+who could move but chose to live in the central city. Conversely, the Coretta Neighborhood is 90%
+Black and 10% White.
+        Of the community (i.e., the three neighborhoods collectively), city documents revealed that
+only 7.4% of residents had any type of college degree and 66% of neighborhood residents 18 and
+older had obtained a high school diploma. The community has also experienced significant
+demographic shifts. Documents also showed that racial demographics are 32% African American,
+31% Latino/a, 31% White, and 6% multi-racial. I next provide a brief historical context of shifting
+community conditions to better describe the forces that promoted closure and their impacts on the
+community.
+School Desegregation Policies: A Precursor to School Closings
+       In 1973, a U.S. District Court Judge ordered one-way busing for African American students
+from the urban district to surrounding township schools. The busing order was an attempt to
+remedy racial school and housing segregation. However, busing Black students from the city to
+predominantly White, township schools proved to be detrimental to local school-community
+connections. A former principal remarked:
+       School desegregation was a community killer. We went from community
+       neighborhood schools to [it being] completely changed. I don’t even know how you
+       describe what it was changed into . . . It broke up neighborhoods . . . It’s when you
+       started to see the district struggling financially.
+
+As a result, across the district student enrollment declined, the number of teachers decreased and
+school buildings were less occupied as resources were being extracted to the predominantly white,
+suburban schools. In 1995, the district closed LHS because of its waning student enrollment, thus
+the district viewed LHS as an inefficient and underutilized space. Putting it bluntly, Nancy explained,
+a leader from State University, “School closings across the district were the direct result of the
+busing order.”
+        By the late 1990s, the court-ordered busing decision had rendered deleterious impacts to the
+school district. By 1998, the school district’s student enrollment was 64,000, and by the 2011-2012
+school year, the district only served 38,000 students across 64 schools. In sum, between 1967 and
+2007 the district closed approximately 100 schools and lost nearly 70,000 students.
+The Impacts of Closing LHS
+       LHS’ closing was damaging to the community on multiple levels. Not only did the district
+close LHS, but they also closed its feeder schools, which left the community with zero public
+schools. Lois, a leader from State University described the neighborhoods after the school closures:
+       You saw the crumble, like an urban crumble in the neighborhood. Businesses closed,
+       schools closed . . . The school was the hub, so when the school closed, a lot of things
+       around it closed too. It was detrimental to the neighborhood!
+
+In addition, a mass exodus of manufacturing jobs coincided with LHS’ closing, exacerbating
+neighborhood decline. Further explaining the impacts, a neighborhood center director said,
+“Students that went to LHS, after it closed, just dropped out and did not go to another high
+school.” Vikki, the King Neighborhood Center director passionately concurred:
+Education Policy Analysis Archives Vol. 25 No. 21                                                               12
+
+        We felt they took the heart out of the community and in the process they destroyed our kids
+        from going to high school. I think only like 30% were going to high school from our
+        neighborhood . . . We just did not have anybody going [to high school] . . . We could
+        see, I think all of us thought that our neighborhood was going down (emphasis
+        added).
+
+While several mayoral-sponsored charter schools opened in the community, many high school
+students were expected to catch a bus at 6:30 am to attend schools across town because of the
+desegregation policy. Some students attended schools across town and others did not. It is thus
+under these circumstances that nearly an entire community of students was “pushed out” of high
+school. Yet, within this context, community and university leaders took actions to respond to this
+challenge.
+
+                                                  Findings
+        In this section, I illustrate how leaders across a community-university coalition took action
+to reopen LHS. I argue that social networks and social capital fostered the coalition’s ability to push
+back on the school closure through providing means for stakeholders to effectively act in solidarity
+to reopen LHS. I illustrate these claims by discussing each action. The findings enhance our
+understanding about how community-university coalitions respond to urban school closure through
+leveraging social networks and the social capital embedded within them. I purposefully discuss the
+findings chronologically to describe the school reopening process from start to finish. However, it is
+important to note this work was not linear or straightforward, but messy, unpredictable, rife with
+setbacks, and spanned five-years3 (Green & Gooden, 2014). A State University stakeholder
+described the work:
+        This is not a drug study. This is not take two Tylenol and call me in the morning. But
+        this is intricate relationships, intimately intertwined with its context, history, and
+        people . . . and it can manifest in very different ways. It is not follow the systems’
+        steps of A-F. . . And it takes time.
+
+With this understanding, I discuss the findings in chronological order, but emphasize the
+overarching themes throughout.
+Initiation: Relying on Established Networks
+          When LHS closed, stakeholders from a range of already established networks such as—
+alumni, community members, and neighborhood leaders—took action. Closing LHS created
+frustration throughout the community. Lois, from State University explained, “Once the school
+closed there was a grassroots up cry and outpouring of support and frustration . . . the community
+wanted to reopen the school.” At the outset, community responses to LHS’ closure consisted of
+people coming out in droves to advocate at school board meetings. Sharon, the principal recalled,
+“LHS’ colors are red and white, and what you saw every time the school board met was a sea of red
+in the room. The alumni and community came out like crazy upset about them closing LHS.” The
+initial support to reopen LHS emerged from multiple stakeholders in the community.
+
+
+
+3 Because of space limitations, I only discuss the most salient leader actions that contributed to the school
+
+reopening process that spanned five years.
+Community-Based Response to School Closure                                                              13
+
+         However, for two years after the school closed, targeted advocacy to reopen LHS was
+spearheaded by leaders from the three neighborhood centers (along with Daniel) because these
+leaders had strong existing ties through their similar work in the neighborhoods such as providing
+social services, education supports, job training, and other resources for community members
+(Coburn et al., 2012). This also occurred because at the grassroots levels, “The three neighborhood
+centers had a great deal of power,” in terms of influence with community members, remarked Dr.
+Charles, director of the King Neighborhood Center. In working within the established network of
+neighborhood centers, these leaders’ initial action focused on getting another educational
+organization to occupy the vacant building. Vikki, the King Neighborhood Center director
+explained:
+         The first two years we really focused on, what could we just put in the school building
+         so we don’t have a huge vacant school building in the middle of the neighborhood?
+         So we worked with the local junior college, hoping that at least it could be an
+         educational institution for people in our community. So, the first two years we were
+         just grappling with, what do we do? How do we recover?
+
+The leaders were unable to get the junior college to move into the building because of financial and
+logistic reasons, to name a few. This setback was disheartening for the group. Vikki recalled, “I don’t
+think many people thought that our school would reopen. I think there was a real sense of
+disenfranchisement . . .” Although the group was unsuccessful in getting an organization to occupy
+the vacant school building they kept wrestling with questions around how to proceed about
+reopening LHS.
+         Moreover, LHS’ closure created an opportunity and condition to bridge the neighborhood
+centers’ network with another key community institution (Mizrahi & Rosenthal, 2001). After two
+years of grappling about what to do next, State University secured a Community Outreach
+Partnership Center (COPC) Grant from the Department of Housing and Urban Development
+(HUD). HUD awarded COPC grants to urban universities to support revitalization efforts in
+underserved communities. The grant required State University to partner with the community on a
+joint initiative that would be beneficial to the neighborhoods. State University’s Office of
+Community Partnerships, led by Nancy, was responsible for administering the grant. Before the
+grant, however, the relationship between LHS and State University was socially strained. Community
+members viewed the university as a self-serving institution that only worked with local residents
+when it was beneficial for the university. The relationship further deteriorated when the university
+expanded decades earlier and displaced some residents’ homes from the neighborhood. Vinnie,
+LHS’ community director, described the relationship:
+         The only thing that separates this neighborhood from the university is Langston
+         River, which is only two miles away. The river may as well have been an ocean, in
+         some respects, because people did not see the university as part of their
+         neighborhood.
+
+The neighborhood centers and State University epitomized two powerful yet, disparate networks
+with long histories in the community and access to a range of resources. This thus suggests that
+these networks had weak connectivity, which hindered the flow of knowledge, resources, and
+expertise that could be shared between them (Coburn, et al., 2012). However, the COPC grant
+created an environment and incentive for coalition building between the two networks (Mizrahi &
+Rosenthal, 2001) because the university was obligated to work on a community project to fulfill the
+grant’s requirements. Like the literature indicates, sociopolitical conditions (e.g., federal grant funds,
+Education Policy Analysis Archives Vol. 25 No. 21                                                   14
+
+the school closure, etc.) opened the door for leaders from these networks to collaborate. Despite the
+opportunity to possibly partner with State University, the leaders from the neighborhood centers
+continued trying to fill the vacant school building and grappled with next steps on how to respond.
+Bridging Networks: Negotiating a Community-University Social Contract
+        The leaders used the COPC Grant to provide a social structure to bridge community and
+university networks. Despite the strained relationship and community history, representatives from
+State University contacted the neighborhood center directors to understand the community’s most
+pressing concerns. Nancy contacted these neighborhood centers because she was familiar with their
+work in the community. In contacting them, State university leaders wanted to make genuine
+connections with the community and avoid top-down approaches to community-university
+partnerships that decide what is best for the community without seeking community input. Nancy
+and her colleagues approached the community with humility as they sought to build a trustful
+relationship. She explained:
+        We [the university] had a couple of things that we wanted to accomplish in the
+        process of shoring up the relationship . . . We wanted the community to see us as a
+        resource, which meant that they had to get to know us. And that required us as
+        university staff to meet with neighborhood leaders and not going based on our
+        calendar and stopwatch . . . It was important to do that [and] not just talk, then leave
+        because there needed to be a trust factor.
+
+Building an inter-organizational relationship anchored in trust, as Nancy described, aligns with
+literature that highlights the importance of trust in networks that seek to develop bridging ties
+(Putnam, 2000).
+         Forming group expectations through critical community dialogues. To start mending
+their relationship and connecting networks, the neighborhood center and university leaders had
+ongoing conversations to discuss clear expectations and obligations before entering into any joint
+collaboration (Coleman, 1988). To do so, the leaders used what I refer to as critical community
+dialogues (CCDs) to ultimately bridge the groups (Green, 2017). CCDs are community-centered
+discussions that: (a) forge linkages between inter-community groups and networks, (b) create space
+for mutual trust between heterogeneous community groups to emerge, and (c) foster collective
+action toward mutually agreed upon goals.
+         Throughout these conversations, the leaders from the neighborhood centers were deliberate
+about keeping the community’s will at the center as they discussed group expectations. They also
+made an important decision to openly discuss uncomfortable, but critical issues that could easily
+divide heterogeneous networks, weaken bridging social capital, and inhibit the development of
+strong social ties, such as unequal power dynamics, co-optation, and an inequitable decision-making
+process. For example, Vikki, the King Neighborhood Center director explained a conversation
+about the decision-making process:
+         You either drive the bus, you ride on the bus, or you get run over by the bus. In
+         getting together with the university it was whose going to be that [driving] role? Who
+         drives the bus, and I think the university was wise because we had some
+         conversation about this and allow a neighborhood resident, Danny, to lead the
+         process.
+
+Vikki continued, as she explained during their CCDs they discussed difficult issues like unequal
+power relations:
+Community-Based Response to School Closure                                                          15
+
+       We told the university you come work with us; you don’t come and try to fix us
+       because we don’t feel like we are broken . . . We are not lab rats and you don’t just
+       come into our neighborhood . . . We have a lot to offer the university (emphasis
+       added).
+
+Similarly, Nancy, from State University, recalled conversations to establish common expectations
+and mitigate any potential for co-optation, “The community’s thing was, if we are going to be in this
+project with you, then, doggone, we ought to be getting something out of it . . . And we said, ‘you’re
+right.”’ As the leaders worked through these issues and had many intense discussions, they started to
+identify an area of collaboration. A neighborhood center director recalled:
+         We all got in a room together, sort of the shakers and movers from the community,
+         and we talked about what the priorities were. We discussed what the university could
+         help us do and the overarching issue was schools. We had no schools. And so we
+         started and the momentum kind of swung that way.
+
+Nancy agreed:
+       What became very clear as we worked with the three neighborhoods was that their
+       highest priority was reopening LHS. To them it symbolized a really positive step as
+       far as the relationship with State University, if we could help them do that.
+
+Thus, the school reopening process, if successful, had the potential to really improve community-
+university relations, which would strengthen the bonding ties between these networks (Putnam,
+2000).
+         This suggests that the CCDs were important and helped to create a structure for improving
+the strained and weak social ties between the networks, establishing parameters for decision-making,
+developing social closure with agreed upon norms and obligations, addressing asymmetrical power
+relations, and laying the foundation for what I describe as a community-university social contract: an
+equity-centered agreement among community stakeholders to achieve a collectively agreed upon
+neighborhood goal (e.g., Coleman, 1988; Moody & Paxton, 2009). Although the leaders did not have
+a formal contract, after the leaders held a series of long and contested CCDs, they finally decided on
+the most pressing neighborhood issue and opportunity for coalition building—reopening LHS.
+Through the CCDs, this finding reflects research that posits successful coalitions address issues of
+stratified positionality in order to effectively strengthen the connection between actors across
+networks (Foster-Fisherman et al., 2001; Ling & Dale, 2013). Additionally, through the CCDs, they
+outlined common expectations and put aside their differences to focus on reopening the school.
+Brenda, a former principal at LHS explained, “The neighborhood and university had not always
+gotten along. But when they had a common purpose, they really put aside, territorial issues . . . I
+think that was essential.”
+         Further, the CCDs became a channel for various forms of social capital to flow, blend, and
+be bridged between the community and university networks (Lin, 1999; Moody & Paxton, 2009).
+For example, the leaders from the neighborhood centers contributed grassroots knowledge,
+organizing power, and passion to reopen LHS (Warren & Mapp, 2011), but lacked expertise about
+how to navigate the public school systems (Coburn et al., 2012). Dr. Charles said, “The key was we
+had passionate neighborhood people who were fanatic about getting their school reopen.”
+Conversely, the leaders from State University contributed a respected research reputation and
+community influence, but many of them lacked the experiential knowledge and expertise of living in
+a community without any public schools. As stakeholders from each social network contributed the
+Education Policy Analysis Archives Vol. 25 No. 21                                                      16
+
+resources within their sphere of influence it strengthened bridging ties between them. Vikki
+explained:
+         The key was we had very passionate neighborhood people. And then you had the
+         university, which kind of legitimized trying to reopen LHS because they had the
+         reputation, and people thought it must be okay if the university is supporting it. So,
+         we had people who lived in the neighborhood who were grassroots and knew the
+         impact [of closing LHS] . . . and then, [we had] the perspective of the research . . . It
+         took us about three years.
+A leader from State University shared similar sentiments, “The neighborhoods had the passion
+about reopening LHS, but they did not quite know how to make it happen.” The university’s social
+capital and network, thus, enhanced the potential for collective action as it provided influence and
+credibility to the process (Lin, 1999). This finding aligns with research on successful coalition
+building that asserts stakeholders must contribute their resources to strengthen the coalition’s
+impact (Mizrahi & Rosenthal, 2001). Thus, this suggests that coalitions working to address urban
+school closure should leverage the social structure that their networks provide to strengthen the ties
+between them and share expertise to provide a context for deep interaction among the coalition
+(Coburn et al., 2012; Moody & Paxton, 2009).
+         Negotiating a community-university social contract between both networks with a common
+goal (i.e., focus on reopening LHS), clear expectations (i.e., no co-optation and community-driven),
+and decision-making parameters (i.e., shared decision-making structure) was critical to the process,
+and illustrates bonding, bridging, and linking social capital (Lin, 1999; Ling & Dale, 2013). Finally, to
+recap, the social contract was a key precursor for the two groups to strengthen the ties within and
+across their coalition, develop social closure, and to increase the depth of interaction between them
+(Coburn et al., 2012; Coleman, 1988).
+Mobilizing Networks: Taking Strategic and Socially Connected Actions
+        The coalition next mobilized the resources that were embedded in their networks. As such,
+with a sense of solidarity, the community-university leaders took three major, strategic, and socially
+connected actions to reopen LHS. The effort to reopen LHS began with a small, but robust network
+of approximately six people, including leaders from the neighborhood centers, State University, and
+community members.
+        Unsuccessfully advocating before the school board. The coalition started discussing and
+gathering data on the community impacts of LHS’ closing. With these data, the community-
+university coalition took their first strategic action: a presentation to the superintendent and school
+board (Stovall, 2007). During the presentation they provided education and socioeconomic data for
+why the school needed to be reopened. Strategically, the leaders conducted the presentation at a
+pivotal time in the school district. A local judge had recently announced that he would reverse the
+school desegregation busing order one grade at a time. Nancy recalled:
+        The reversal of the desegregation order was just beginning [so] we wanted to make
+        sure that with the reversal that the school district had it in its plan to reopen LHS. So
+        we did a presentation before the school board about how badly the school was
+        wanted by the neighborhood.
+
+This presentation was critically important because nearly all participants stated that the school
+district did not have any intentions of reopening LHS, despite the school desegregation reversal.
+However, the leaders’ presentation was unsuccessful in reopening LHS. Despite this setback, they
+believed it planted an important seed in the superintendent and school board members’ minds. This
+Community-Based Response to School Closure                                                                 17
+
+action highlights the importance of understanding the local education policy climate and strategically
+advocating before the school board when particular policies have greater potential for leverage, even
+though they were unsuccessful. Further, it demonstrates that community-university networks are
+key, but also supports research on the importance of local networks’ developing linking ties to other
+formal institutions of power that are geographically outside of the community (Ling & Dale, 2013),
+which was their next action.
+        Leveraging social networks to study successful community schools4. In making linking
+connections to other formal institutions of power, Michael5, the director of the Betty Neighborhood
+Center had a conversation about the community-university effort to reopen LHS with Gloria, a
+person in upper management at the Johnson Foundation, which supports research that focuses on
+improving education, economic, and social outcomes in communities. Gloria had previously worked
+with Michael on another neighborhood project. As Gloria learned about the leaders’ advocacy, she
+suggested the group consider trying to reopen LHS as a community school because of the strong
+community-university interest in LHS. A community school, according to Blank et al (2012), is “a
+place and set of partnerships connecting a school, the families of students, and the surrounding
+community . . . It has an integrated focus on academics, youth development, family support, health
+and social services, and community development” (p. 1). Community schools are often open
+extended hours to serve students and communities in unique ways. In doing so, Gloria also
+suggested they visit and learn best practices from successful community schools in the nation.
+However, the successful community schools were in other states, and the group did not have funds
+to travel to these sites. Gloria encouraged the leaders to apply for a Johnson Foundation Grant to
+fund their visits to learn about successful community schools across the country, especially the
+Children’s Aid Society in New York. Gloria’s knowledge and access to powerful networks
+connected the coalition to the resources embedded within her sphere of influence (Ling & Dale,
+2013; Putnam, 2000).
+        The community-university coalition was awarded the grant funding, visited several schools
+across the US and learned about how to successfully run a community school. Nancy explained:
+        Gloria arranged for six of us to travel to New York to one of the community schools
+        that the Johnson Foundation had supported. We learned so much about how to set
+        up a community school. Particularly, we learned about how to run a community
+        school from an organizational perspective.
+
+After the visits, the leaders were convinced that they wanted LHS to reopen as a community school
+because it gave them a framework to improve education and larger neighborhood concerns. Vinnie
+said:
+        We wanted to create a school . . . so families can be successful and neighborhoods
+        can be strengthened. It was a holistic approach it was not just so the kids can
+        graduate and go to college, it also looked beyond that. If you’re going to help the kid,
+        you’ve got to help the family, if you’re going to help the whole family; you’ve got to
+        help the whole community.
+
+4 Community schools are a place and set of partnerships connecting a school, the families of students, and the
+
+surrounding community (Blank, Jacobson, & Melaville, 2012).
+5 Michael was unable to participate in this study. My understanding about him and his perspective was
+
+triangulated through other data sources.
+Education Policy Analysis Archives Vol. 25 No. 21                                                    18
+
+
+From then on the leaders worked to reopen LHS as a full-service, university assisted community
+school. This finding on leveraging the relationship with Gloria is an example of linking social capital
+that produced connectivity to institutional resources (i.e., travel funding), access to a network of
+community schools, and information about running a community school (Ling & Dale, 2013).
+         Establishing broad community commitment for the school. As the leaders kept
+learning about community schools, they simultaneously reached out to community members to
+understand what they wanted in LHS and to create buy-in for the school, if it were to reopen. Since
+the community already wanted LHS to reopen, the coalition sought their input, which broadened
+the network of support to reopen LHS. The leadership group conducted study circles, surveys, and
+spoke directly with neighborhood residents to learn about what they saw as the biggest barriers to
+high-quality education in the community and how they would support a reopened LHS. In turn, the
+leaders used these data to inform plans for how a reopened LHS would operate as a community
+school. According to Dr. Charles, “The community told us that they wanted us to help get kids to
+graduate from high school and go to college. And, so, that was kind of our mindset as we started out
+this work.”
+         After soliciting community input the leaders made another presentation before the school
+board about reopening LHS. However, this time, instead of just presenting data about why the
+school should be reopened, they explained how the community would support LHS as a community
+school. Nancy explained, “We had another really detailed discussion with the superintendent and
+gave him all of the details of what we had learned in New York and what it would mean to reopen
+LHS.” In addition, they discussed how they could collectively improve the low high school
+graduation rates and community education attainment rates through reopening LHS as a community
+school. This importantly suggests that advocacy before the school board should be accompanied
+with established bonding, bridging, and linking ties as well as with an alternative plan to school
+closure that details how the school will be supported from various community stakeholders and
+institutions (Ling & Dale, 2013; Putnam, 2000).
+         Though the leaders took strategic actions, Nancy simply asserts that it was the “perfect
+storm.” She added, “I just think it was the right time, right place, and right people and everything
+came together at the right time.” Thus, after five years, the leaders’ work paid off. In 2000, the
+school board accepted the community-university leaders’ proposal to reopen LHS as a community
+school. Reflecting on the decision, Brenda, a former principal, said:
+         I think the school board listened because the neighborhood was also so persistent.
+         They had really well connected neighborhood associations . . . they had a common
+         purpose and put aside territorial issues and that was an essential ingredient, one that
+         is not usually found much when school boards are presented with groups, they all
+         want money and change, but are not willing to blend or work toward a common
+         purpose.
+
+However, the leaders took another significant action even though the school was slated to reopen.
+
+Sustaining Networks: Forming a Community-Driven Education Task force
+       Sustaining networks can be challenging, especially if the stakeholders only coalesce around a
+temporary goal (Coburn et al., 2012). Importantly, actions to reopen LHS continued after the
+proposal was accepted. The leaders were instrumental in selecting LHS’ principal. Vikki recalled:
+Community-Based Response to School Closure                                                         19
+
+       We had this big meeting at State University because we were excited about LHS
+       reopening and we wanted to be part of the principal selection . . . There were
+       probably 30 or 40 people there, and we sort of talked about what our thoughts,
+       plans, and expectations were for LHS.
+
+As such, the leaders formalized a permanent community-university structure: the Community
+Education Task force (CET). Nancy, explained:
+       The CET grew out of our work on LHS and grew out of the whole COPC
+       initiative. It is the permanent structure that came out of the efforts of getting the
+       school reopened.
+
+The CET was established to sustain the coalition’s work and provide community accountability for
+supporting LHS. Connecting stakeholders from the school, community, and State University, the
+CET garnered broad-based community participation. Vinnie said:
+       The CET is made up of community leaders, service providers, parents, grandparents,
+       and concerned citizens who were interested in education as a tool for [community]
+       redevelopment because they talked about how this was part of a bigger picture.
+
+In addition, the CET formed a mission statement about how they would support LHS and broader
+community education efforts. According to a CET document, “[The] task force is the vanguard of
+an ongoing effort to keep the people of the community involved in forming and implementing the
+educational agenda for our community.”
+        By 2015, the CET was a strong community advocate at LHS. Sharon, the current principal
+commented on their advocacy to reopen the school and continue to support it after it was reopened:
+        It was actually the community coming together and demanding that the school be
+        reopened; that is what got the school reopened. [And during the reopening process]
+        the community said, ‘We will support the school and district in these ways to make
+        sure that this school is successful, if you will reopen the school.’ . . . Well, this
+        community has really followed through. We are [well] over a decade later and they
+        are still following through.
+
+In fact, over the years, the CET’s support for LHS has evolved into a powerful school-community-
+university partnership. As an extension of the CET, the leaders also created a Community Advisory
+Council (CAC), which consist of approximately 30 community partners (some overlapping
+members) who meet with LHS’ leadership team, monthly. Sharon explained, “We meet monthly and
+we always have fresh topics . . . It is a forum, we discuss questions like, what can the community do
+to support what LHS needs?” During one meeting that I attended, the principal began the meeting
+with sharing the school’s report card, areas for improvement, and graduation rates. Throughout the
+meeting, community partners made comments like, “ . . . as a community we are responsible,” “ . . .
+I will do whatever I can do to help,” all aiming to support LHS. Both the CET and CAC illustrate
+connectivity and structural equivalence in social networks as the coalition’s ties created new
+information channels and opportunities for stakeholders to hold positions in multiple community
+networks that support LHS (Lin, 2001; Moody & Paxton, 2009). There was also a sense of social
+closure between these networks because they shared common expectations and obligations for the
+school-community (Coleman, 1988).
+         Additionally, through the CET and CAC, community stakeholders have been involved in the
+school’s improvement plan (SIP). Vinnie, explained:
+Education Policy Analysis Archives Vol. 25 No. 21                                                     20
+
+        When we started doing school improvement planning, there was one point in time
+        when the community drove the process, then we took it to the faculty, and the
+        faculty either approved it or changed it, or what have you . . . We were literally going
+        through the process with them [the community] first and then taking it to the faculty.
+
+Vinnie further explained the process:
+        We were having the community look at the data, [and ask questions like], What do
+        you see [and] hear? What do you think we need to do? Then, we took that to the
+        teachers and then the teachers talked about what the community had talked about.
+        Then we came up with joint goals, academic achievement goals. So, that was very
+        authentic.
+
+The CET and CAC provide social closure between various community networks that support LHS
+(Coleman, 1988). For example, the community leading the school improvement planning process is
+an example of social closure because it describes a closed set of relationships with common
+expectations. These formalized structures, thus, became conduits to exchange multiple forms of
+social capital, including information, money, and expertise (Lin, 2001).
+
+                                  Discussion and Conclusion
+          This analysis illustrates how leaders from a community-university coalition took action to
+address urban school closure. The case study data presented in this analysis indicate that reversing
+urban school closure is not an overnight process or guarantee, but rather a relentless community
+undertaking that can take at least five years. It also suggests that the timing and local education
+policy conditions in the district are pivotal. As such, I acknowledge that the political forces, market-
+based policies, and interests of corporate elites often make reopening urban schools arduous and
+nearly insurmountable. In fact, in many cities, communities have organized against school closure
+and been unsuccessful. While this case study is not indicative of what typically occurs when local
+stakeholders try to reopen public schools, it is important because, again, as Payne (2008) argues,
+“One success . . . tells us more than a thousand failures” (p. 7). Hence, it is with this juxtaposition
+and unique contextual understanding in mind that I continue with this section. In this section, I
+discuss the findings more thoroughly in relation to the reviewed literature and offer suggestions for
+those in similar contexts where school closures are unfolding. I conclude with implications for
+policy and future research.
+          The separate and collective networks of neighborhood center and university leaders were
+important in addressing the school closure. The networks provided social structure and social
+closure for coalition building and a channel to share bonding and bridging social capital. The leaders
+initially relied on established bonding ties that connected the neighborhood centers because these
+relationships were already nurtured with trust and had strong ties (Coburn et al., 2012; Putnam,
+2000). With similar community histories and networks, the neighborhood centers employed
+grassroots advocacy that grappled with ways to respond to LHS’ closure. It is important to note that
+the neighborhood center leaders did not begin this process with a blueprint for reopening closed
+schools. Moreover, the neighborhood center leaders’ grassroots advocacy to reopen LHS spanned
+two years, but was hastened after two key events—the COPC Grant and bridging/linking
+connections with State University. Whether the neighborhood center leaders would have gotten the
+school reopened on their own is uncertain. But, it is certain that State University contributed
+significantly to the effort by expanding their access to expertise, information, and resources (Coburn
+Community-Based Response to School Closure                                                            21
+
+et al., 2012; Moody & Paxton, 2009). While grassroots advocacy is important, this study suggests
+that grassroots advocacy to reverse school closure is enhanced and it is most beneficial when
+connected with institutions (e.g., universities) that have leaders who authentically create space for
+community stakeholders to name the priority issues.
+          Additionally, the community-university coalition demonstrated bridging and linking social
+capital within and across networks in several ways. First, this was illustrated in how the
+neighborhood center leaders gained access to formal institutions of power such as State University
+and the Johnson Foundation that provided what Lin (1999) calls “social credentials” to the school
+reopening process. Here, I revisit Vikki’s comment about how State University “legitimized” what
+they were doing. Second, the bridging and linking social capital with State University became a
+conduit to share information about community schools and access funding to study exemplar
+schools across the nation, which was a result of Michael’s relationship with Gloria. This finding
+aligns with research that asserts bridging social capital increases a network’s access to decision
+makers and information channels beyond their sphere of influence (Ling & Dale, 2013; Putnam,
+2000).
+          Moreover, existing literature indicates that sociopolitical conditions influence coalition
+building (Mizrahi & Rosenthal, 2001), but this study suggests the federal government can shape
+conditions for coalition building, particularly around urban school closure through incentivizing
+universities to partner with communities. These findings also suggest when universities are
+incentivized, it is important that university leaders approach community members with humility and
+a desire to work with, not on the community. Additionally, while elements of successful coalition
+building are identified in the literature (Beamish & Luebbers, 2009; Foster-Fishman et al., 2001;
+Mizrahi & Rosenthal, 2001), this study suggests that critical community dialogues are also important
+to building coalitions that work to reverse school closure. This finding demonstrates for community
+and university networks to coalesce, they need structured, social space to grapple with critical issues
+around power, positionality (race, class, etc.), decision making, co-optation, what issues are priority
+and who gets to name them. In doing so, leaders in these networks develop solidarity and social
+closure with common goals, expectations, and norms (Coleman, 1988; Putnam, 2000).
+          Finally, the reversal of the district’s school desegregation policy cannot be understated.
+Again, while many of the participants believed that the district had no intentions of reopening LHS,
+it is important to note that these leaders’ actions converged with this policy decision. The politics of
+interruption (Stovall, 2007) in this case coincided with policy changes (i.e., desegregation reversal)
+instead of engendering policy change. Highlighting this context is important because it speaks to the
+nexus of leaders’ actions to reopen closed schools and policy efforts that support them.
+Implications for Communities in Similar Contexts
+         This study offers implications for leaders in similar urban contexts (See Table 2). During the
+initiation phase, the leaders first relied on existing bonding ties and discussed the impacts of LHS’
+closure and potential next steps. Practically, at this phase, leaders could grapple with questions like,
+“How can we reverse the school closure?” “What are the short and long-term impacts of closing this
+school on our community?” “Who are our greatest allies in reopening the school and what resources
+do we have to pursue this goal?” These leaders could also concentrate on strengthening bonding
+social capital to ensure that homogenous networks are durable enough to handle future bridging
+connections (Putnam, 2000).
+Education Policy Analysis Archives Vol. 25 No. 21                                                          22
+
+Table 2
+Phases of Leader Actions
+              Phases                      Leader Actions                      Practical Steps
+
+                                   Group of community leaders       Grapple with the impacts of school
+                                    discuss impacts of school       closure and potential solutions, and
+            Initiation
+                                   closure and need to reopen        develop trust & solidarity through
+                                              school                       bonding social capital
+                                                                    Develop strategic partnership with
+                                      Negotiate community-           formal institution(s) of power to
+       Bridging Networks
+                                     university social contract     access information and resources
+                                                                        beyond the local network
+                                                                     Act with an understanding of the
+                                    Take strategic and socially      policy climate and leverage social
+      Mobilizing Networks
+                                       connected actions            capital within networks to support
+                                                                         school reopening process
+
+
+                                                                        Create formal, broad-based
+                                    Form a community-driven
+       Sustaining Networks                                            community group(s) to support
+                                      education task force
+                                                                          school after reopening
+
+
+
+         At the bridging networks phase, leaders formed bridging and linking ties with State
+University that ultimately led to a community-university coalition. Therefore, leaders at this phase
+could have CCDs to establish relationships with institutions and organizations that offer
+connectivity to formal networks of power that can support the reopening process. This could be
+done in tandem by outlining the parameters of the relationship with common goals, expectations,
+trust, and shared responsibility (Putnam, 2000). During the mobilization phase, leaders could solicit
+local input about how community members would support a reopened school through conducting
+surveys, study circles, community-based interviews and forums (Stovall, 2007). As well, leaders could
+examine local education policies and look for ways to leverage them to reopen a community-
+supported school. Here, developing a detailed plan of support is critical. To sustain the work, leaders
+might consider ways to formalize their networks to create a permanent structure, such as a CET to
+support the school reopening process (See Table 2). Proactively, leaders may also consider using the
+coalition’s power to address district and municipal-level policies and problems that shape school
+closure.
+Implications for Policy and Future Research
+        This analysis offers implications for policy. This study’s findings suggest that federal policies
+could incentivize universities to partner with grassroots, community-driven efforts to reopen and
+sustain schools once they are reopened. Through fiscal incentives, such policies could create a
+climate where universities share expertise, information, and larger institutional power with
+community-driven efforts that aim to improve an entire community’s education condition, which
+starts with reopening schools. Perhaps, funds from “underperforming” charter schools could be
+redirected to universities that partner with community groups to reopen and support neighborhood,
+public schools. Additionally, policy efforts should account for the racialized impacts that market-
+Community-Based Response to School Closure                                                              23
+
+based reforms and urban restructuring have on Black and Latino/a students, and their access to
+high-quality educational opportunities in their communities (Lipman, 2011a, 2013). This would
+require policymakers and reformers to truly value the lives, communities, and educational
+experiences of children of color in urban neighborhoods.
+         This study also offers implications for future research. While this study provided an example
+of school closure on a local level, more empirical work is needed on how community networks
+advocate for policy changes to stop urban school closure at district and national levels. Moreover,
+future studies could examine the long-term impacts and sustainability of community-university
+networks on education outcomes and other key indicators. Studies as such could incorporate mixed-
+methods to produce findings that are generalizable across larger spheres of practice. Research is also
+needed on the impacts of desegregation policies on school closures in urban districts of color.
+Finally, urban school closure needs to be a central topic in the national education discourse because
+of the adverse impacts on students and communities of color. This study offers broad lessons and a
+glimpse into a community coalition that successfully reversed school closure. Understanding how
+leaders can navigate this process is a critical first step, but through this study, I hope to push for
+deeper investigation on the topic. Given the current education policy climate where public closures
+are seen as positive, this study can serve as a guide for how communities might start to push back on
+school closures.
+
+                                             References
+Basu, R. (2007). “Negotiating acts of citizenship in an era of neoliberal reform: The game of school
+       closures.” International Journal of Urban and Regional Research, 31(1), 109-127.
+       https://doi.org/10.1111/j.1468-2427.2007.00709.x
+Beamish, T. D., & Luebbers, A. J. (2009). Alliance building across social movements: Bridging
+       difference in a peace and justice coalition. Social Problems, 56(4), 647-676.
+       https://doi.org/10.1525/sp.2009.56.4.647
+Blank, M. Jacobson, R., & Melaville, A. (2012). How district and community leaders are building effective,
+       sustainable leadership. Washington, DC: Coalition for Community Schools.
+Borgatti, S. P., & Foster, P. C. (2003). The network paradigm in organizational research: A review
+       and typology. Journal of Management, 29(6), 991-1013. https://doi.org/10.1016/S0149-
+       2063(03)00087-4
+Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.), Handbook of theory and research for the
+       sociology of education (pp. 241-258). Westport, CT: Greenwood Press.
+Brummet, Q. (2014). The effects of school closings on student achievement. Journal of Public
+       Economics, 119(1), 108-124. https://doi.org/10.1016/j.jpubeco.2014.06.010
+Buras, K. L. (2013). ‘We're not going nowhere’: Race, urban space, and the struggle for King
+       Elementary School in New Orleans. Critical Studies in Education, 54(1), 19-32.
+       https://doi.org/10.1080/17508487.2013.741072
+Coburn, C. E., Russell, J. L., Kaufman, J. H., &Stein, M. K. (2012). Supporting sustainability:
+       Teachers’ advice networks and ambitions instructional reform. American Journal of Education,
+       119(1), 137-182. https://doi.org/10.1086/667699
+Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociology, 94,
+       95–120. https://doi.org/10.1086/228943
+Creswell, J. W. (2012). Qualitative inquiry and research design: Choosing among five traditions (3rd ed.).
+       Thousand Oaks, CA: Sage Publications.
+Education Policy Analysis Archives Vol. 25 No. 21                                                   24
+
+Deeds, V., & Pattillo, M. (2014). Organizational “failure” and institutional pluralism: A case study of
+        an urban school closure. Urban Education, 50(4), 474-504.
+        https://doi.org/10.1177/0042085913519337
+Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do
+        student outcomes depend on which schools are closed? Journal of Urban Economics, 71(2), 189-
+        203. https://doi.org/10.1016/j.jue.2011.10.001
+Fine, M. (2012). Disrupting peace/provoking conflict: Stories of school closings and struggles for
+        educational justice. Peace and Conflict: Journal of Peace Psychology, 18(2), 144-146.
+        https://doi.org/10.1037/a0028095
+Finnigan, K. S., & Lavner, M. A. (2012). Political analysis of community influence over school
+        closure. Urban Review, 44(1), 133-151. https://doi.org/10.1007/s11256-011-0179-9
+Foster-Fishman, P. G., Berkowitz, S. L., Lounsbury, D. W., Jacobson, S., & Allen, N. A. (2001).
+        Building collaborative capacity in community coalitions: A review and integrative framework.
+        American Journal of Community Psychology, 29(2), 241-261.
+        https://doi.org/10.1023/A:1010378613583
+Galletta, A., & Ayala, J. (2008). Erasure and survival: Creating a future and managing a past in
+        restructuring high school. Teachers College Record, 110(9), 1959-1985.
+Glanville, J., & Bienenstock, E. (2009). American Behavioral Scientist, 52(11), 1507-1530.
+        https://doi.org/10.1177/0002764209331524
+Glaser, B., & Strauss, A. (1967). The discovery of grounded theory. London: Weidenfeld and Nicholson.
+Good, R. (2016). Histories that root us: Neighborhood, place, and the protest of school closures in
+        Philadelphia. Urban Geography, 1-24. https://doi.org/10.1080/02723638.2016.1182286
+Green, T. L. (2015). Leading for urban school reform and community development. Educational
+        Administration Quarterly, 51(1), 679-711. https://doi.org/10.1177/0013161X15577694
+Green, T. L. (2017). Community-based equity audits: A practical approach for school and
+        community leaders in supporting equitable school-community improvements. Educational
+        Administration Quarterly, 53(1), 3-39. https://doi.org/10.1177/0013161X16672513
+Green, T. L., & Gooden, M. A. (2014). Transforming out-of-school challenges into opportunities:
+        Community schools reform in the urban Midwest. Urban Education, 49(1), 930-954.
+        https://doi.org/10.1177/0042085914557643
+Ishimaru, A. (2014). Rewriting the rules of engagement: Elaborating a model of district-community
+        collaboration. Harvard Educational Review, 84(2), 188-216.
+        https://doi.org/10.17763/haer.84.2.r2007u165m8207j5
+Johnson, A. W. (2013). “Turnaround” as shock therapy: Race, neoliberalism, and school reform.
+        Urban Education, 48(2), 232-256. https://doi.org/10.1177/0042085912441941
+Journey for Justice. (2014). Death by a thousand cuts: Racism, school closure, and public school
+        sabotage. Retrieved from http://www.otlcampaign.org/blog/2014/05/21/death-thousand-
+        cuts-racism-school-closures-and-public-school-sabotage
+Kearns, R. A., Lewis, N., McCreanor, T., & Witten, K. (2009). “The status quo is not an option”:
+        Community impacts of school closure in South Taranaki, New Zealand. Journal of Rural
+        Studies, 25(1), 131-140. https://doi.org/10.1016/j.jrurstud.2008.08.002
+Kirshner, B., Gaertner, M., & Possoboni, K. (2010). Tracing transitions: The effect of high school
+        closure on displaced students. Educational Evaluation and Policy Analysis, 32(3), 407-429.
+Kirshner, B., & Pozzoboni, K. M. (2011). Student interpretations of a school closure: Implications
+        for student voice in equity-based school reform. Teachers College Record, 113(8), 1633-1667.
+        https://doi.org/10.3102/0162373710376823
+Community-Based Response to School Closure                                                                     25
+
+Layton, L. (2014, May 13). Op-Ed; Are school closings the ‘new Jim Crow’? Activists file civil rights
+         complaints. The Washington Post. www.washingtonpost.com.
+Lin, N. (1999). Building a network theory of social capital. Connections, 22(1), 28-51.
+Ling, C., & Dale, A. (2013). Agency and social capital: Characteristics and dynamics. Community
+         Development Journal, 49(1), 4-20. https://doi.org/10.1093/cdj/bss069
+Lipman, P. (2002). Making the global city, making inequality: The political economy and cultural
+         politics of Chicago school policy. American Educational Research Journal, 39(2), 379-419.
+         https://doi.org/10.3102/00028312039002379
+Lipman, P. (2011a). The new political economy of urban education: Neoliberalism, race, and the right to the city.
+         New York, NY: Routledge. www.michigan.gov.
+Lipman, P. (2011b). Neoliberal education restructuring dangers and opportunities of the present
+         crisis. Monthly Review, 63(3), 114-127. https://doi.org/10.14452/MR-063-03-2011-07_13
+Lipman, P. (2013). Economic crisis, accountability, and the state’s coercive assault on public
+         education in the USA. Journal of Education Policy, 28(5), 557-573.
+         https://doi.org/10.1080/02680939.2012.758816
+Lipman, P., & Haines, N. (2007). Students as collateral damage? A preliminary study of the Renaissance 2010
+         school closings in the Mid-south. Chicago: Kenwood Oakland Community Organization.
+Marshall, C., & Rossman, G. B. (1999). Designing qualitative research (3rd ed.). Thousand Oaks, CA:
+         Sage.
+Mediratta, K., Shah, S., & McAlister, S. (2009). Community organizing for stronger schools: Strategies and
+         Successes. Cambridge, MA: Harvard Education Press.
+Mintrop, H., & Sunderman, G.L. (2009). Predictable failure of federal sanctions-driven
+         accountability for school improvement--and why we may retain it anyway. Educational
+         Researcher, 38(5), 353-364. https://doi.org/10.3102/0013189X09339055
+Mizrahi, T., & Rosenthal, B. B. (2001). Complexities of coalition building: Leaders' successes,
+         strategies, struggles, and solutions. Social Work, 46(1), 63-78.
+         https://doi.org/10.1093/sw/46.1.63
+Moody, J., & Paxton, P. (2009). Linking social capital and social networks to improve theory and
+         research. American Behavioral Scientist, 52(11), 1491-1506.
+         https://doi.org/10.1177/0002764209331523
+Pedroni, T. C. (2011). Urban shrinkage as a performance of whiteness: Neoliberal urban
+         restructuring, education, and racial containment in the post-industrial, global niche city.
+         Discourse: Studies in the Cultural Politics of Education, 32(2), 203-215.
+         https://doi.org/10.1080/01596306.2011.562666
+Pew Charitable Trusts. (2011). Closing public schools in Philadelphia: Lessons from six urban districts.
+         Philadelphia, PA: Philadelphia Research Initiative.
+Putnam, R. D. (2000). Bowling alone: The collapse and revival of American community. New York, NY:
+         Simon & Schuster. https://doi.org/10.1145/358916.361990
+Renee, M., & McAlister, S. (2011). The strengths and challenges of community organizing as an
+         education reform strategy: What the research says. Nellie Mae Education Foundation.
+Siegel-Hawley, G., Bridges, K., & Shields, T. J. (2016). Solidifying segregation or promoting
+         diversity? School closure and rezoning in an urban district. Educational Administration
+         Quarterly, https://doi.org/10.1177/0013161X16659346
+Stovall, J. (2007). Toward a politics of interruption: High school design as politically relevant
+         pedagogy. International Journal of Qualitative Studies in Education, 20(6), 681-691.
+         https://doi.org/10.1080/09518390701630825
+Education Policy Analysis Archives Vol. 25 No. 21                                                                       26
+
+Stovall, D. O. (2016). Born out of struggle: Critical race theory, school creation, and the politics of interruption.
+         New York, NY: SUNY Press.
+U.S. Department of Education, National Center for Educational Statistics. (2013). Retrieved from
+         http://nces.ed.gov/fastfacts/display.asp?id=619
+Warren, M. R. (2001). Dry bones rattling: Community building to revitalize American democracy. Princeton,
+         NJ: Princeton University Press. https://doi.org/10.1515/9781400832040
+Warren, M. R. (2005). Communities and schools: A new view of urban education reform. Harvard
+         Educational Review, 75(2), 133-173. https://doi.org/10.17763/haer.75.2.m718151032167438
+Warren, M. R., & Mapp, K. (2011). A match on dry grass: Community organizing as a catalyst for school
+         reform. New York, NY: Oxford University Press.
+Community-Based Response to School Closure                                                             27
+
+
+                                        About the Author
+Terrance L. Green
+University of Texas at Austin
+tgreen@austin.utexas.edu
+Terrance L. Green (PhD, University of Wisconsin-Madison) is an assistant professor at the
+University of Texas at Austin in the Educational Policy and Planning Program. His research focuses
+on the intersection of urban school reform and equitable community development, with a particular
+emphasis on school and community leadership. He also examines the geography of educational
+opportunity for children of color from low-income neighborhoods. Dr. Green is a recipient of the
+William J. Davis award for the most outstanding article published in a volume of Educational
+Administration Quarterly. His work has been featured in Teachers College Record, Journal of School
+Leadership, The Urban Review, International Journal of Qualitative Studies in Education, Urban Education,
+Education and Urban Society, Journal of Cases in Educational Leadership, and the Handbook of Research on
+Educational Leadership for Diversity and Equity.
+
+
+
+                 education policy analysis archives
+            Volume 25 Number 21              March 13, 2017                  ISSN 1068-2341
+
+
+
+
+                Readers are free to copy, display, and distribute this article, as long as the work is
+attributed to the author(s) and Education Policy Analysis Archives, it is distributed for non-
+commercial purposes only, and no alteration or transformation is made in the work. More
+details of this Creative Commons license are available at
+http://creativecommons.org/licenses/by-nc-sa/3.0/. All other uses must be approved by the
+author(s) or EPAA. EPAA is published by the Mary Lou Fulton Institute and Graduate School
+of Education at Arizona State University Articles are indexed in CIRC (Clasificación Integrada de
+Revistas Científicas, Spain), DIALNET (Spain), Directory of Open Access Journals, EBSCO
+Education Research Complete, ERIC, Education Full Text (H.W. Wilson), QUALIS A2 (Brazil),
+SCImago Journal Rank; SCOPUS, SOCOLAR (China).
+Please contribute commentaries at http://epaa.info/wordpress/ and send errata notes to
+Audrey Amrein-Beardsley at Audrey.beardsley@asu.edu
+
+Join EPAA’s Facebook community at https://www.facebook.com/EPAAAAPE and Twitter
+feed @epaa_aape.
+Education Policy Analysis Archives Vol. 25 No. 21                                                               28
+
+                                  education policy analysis archives
+                                           editorial board
+                          Lead Editor: Audrey Amrein-Beardsley (Arizona State University)
+                          Editor Consultor: Gustavo E. Fischman (Arizona State University)
+       Associate Editors: David Carlson, Margarita Jimenez-Silva, Eugene Judson, Mirka Koro-Ljungberg,
+           Scott Marley, Jeanne M. Powers, Iveta Silova, Maria Teresea Tatto (Arizona State University)
+Cristina Alfaro San Diego State        Ronald Glass University of            R. Anthony Rolle University of
+University                             California, Santa Cruz                Houston
+Gary Anderson New York                 Jacob P. K. Gross University of       A. G. Rud Washington State
+     University                        Louisville                            University
+Michael W. Apple University of         Eric M. Haas WestEd                   Patricia Sánchez University of
+Wisconsin, Madison                                                           University of Texas, San Antonio
+Jeff Bale OISE, University of           Julian Vasquez Heilig California     Janelle Scott University of
+Toronto, Canada                        State University, Sacramento          California, Berkeley
+Aaron Bevanot SUNY Albany              Kimberly Kappler Hewitt University Jack Schneider College of the Holy
+                                       of North Carolina Greensboro          Cross
+David C. Berliner Arizona           Aimee Howley Ohio University           Noah Sobe Loyola University
+State University
+Henry Braun Boston College          Steve Klees University of Maryland     Nelly P. Stromquist University of
+                                                                           Maryland
+Casey Cobb University of            Jaekyung Lee                           Benjamin Superfine University of
+Connecticut                         SUNY Buffalo                           Illinois, Chicago
+Arnold Danzig San Jose State        Jessica Nina Lester                    Adai Tefera Virginia
+University                          Indiana University                     Commonwealth University
+Linda Darling-Hammond               Amanda E. Lewis University of          Tina Trujillo University of
+Stanford University                 Illinois, Chicago                      California, Berkeley
+Elizabeth H. DeBray University of   Chad R. Lochmiller Indiana             Federico R. Waitoller University of
+Georgia                             University                             Illinois, Chicago
+Chad d'Entremont Rennie Center      Christopher Lubienski University       Larisa Warhol
+for Education Research & Policy     of Illinois, Urbana-Champaign          University of Connecticut
+John Diamond University of          Sarah Lubienski University of          John Weathers University of
+Wisconsin, Madison                  Illinois, Urbana-Champaign             Colorado, Colorado Springs
+Matthew Di Carlo Albert Shanker     William J. Mathis University of        Kevin Welner University of
+Institute                           Colorado, Boulder                      Colorado, Boulder
+Michael J. Dumas University of      Michele S. Moses University of         Terrence G. Wiley Center
+California, Berkeley                Colorado, Boulder                      for Applied Linguistics
+Kathy Escamilla University of       Julianne Moss Deakin                   John Willinsky
+Colorado, Boulder                   University, Australia                   Stanford University
+Melissa Lynn Freeman Adams          Sharon Nichols University of Texas,    Jennifer R. Wolgemuth University of
+State College                       San Antonio                            South Florida
+Rachael Gabriel                     Eric Parsons University of             Kyo Yamashiro Claremont Graduate
+University of Connecticut           Missouri-Columbia                      University
+Amy Garrett Dikkers University      Susan L. Robertson Bristol
+of North Carolina, Wilmington       University, UK
+Gene V Glass Arizona                Gloria M. Rodriguez
+State University                    University of California, Davis
+Community-Based Response to School Closure                                                                  29
+
+                              archivos analíticos de políticas educativas
+                                          consejo editorial
+                         Editor Consultor: Gustavo E. Fischman (Arizona State University)
+  Editores Asociados: Armando Alcántara Santuario (Universidad Nacional Autónoma de México), Jason Beech,
+ (Universidad de San Andrés), Angelica Buendia, (Metropolitan Autonomous University), Ezequiel Gomez Caride,
+    (Pontificia Universidad Católica Argentina), Antonio Luzon, (Universidad de Granada), José Luis Ramírez,
+                                               Universidad de Sonora)
+
+Claudio Almonacid                   Juan Carlos González Faraco          Miriam Rodríguez Vargas
+Universidad Metropolitana de        Universidad de Huelva, España        Universidad Autónoma de
+Ciencias de la Educación, Chile                                          Tamaulipas, México
+Miguel Ángel Arias Ortega           María Clemente Linuesa               José Gregorio Rodríguez
+Universidad Autónoma de la          Universidad de Salamanca,            Universidad Nacional de
+Ciudad de México                    España                               Colombia, Colombia
+Xavier Besalú Costa                 Jaume Martínez Bonafé                Mario Rueda Beltrán Instituto
+Universitat de Girona, España        Universitat de València, España     de Investigaciones sobre la
+                                                                         Universidad y la Educación,
+                                                                         UNAM, México
+Xavier Bonal Sarro Universidad      Alejandro Márquez Jiménez            José Luis San Fabián Maroto
+Autónoma de Barcelona, España       Instituto de Investigaciones sobre   Universidad de Oviedo,
+                                    la Universidad y la Educación,       España
+                                    UNAM, México
+Antonio Bolívar Boitia              María Guadalupe Olivier              Jurjo Torres Santomé,
+Universidad de Granada, España      Tellez, Universidad Pedagógica       Universidad de la Coruña, España
+                                    Nacional, México
+José Joaquín Brunner                Miguel Pereyra Universidad de        Yengny Marisol Silva Laya
+Universidad Diego Portales, Chile   Granada, España                      Universidad Iberoamericana,
+                                                                         México
+Damián Canales Sánchez              Mónica Pini Universidad              Juan Carlos Tedesco
+Instituto Nacional para la          Nacional de San Martín,              Universidad Nacional de San
+Evaluación de la Educación,         Argentina                            Martín, Argentina
+México
+
+Gabriela de la Cruz Flores          Omar Orlando Pulido Chaves           Ernesto Treviño Ronzón
+Universidad Nacional Autónoma       Instituto para la Investigación      Universidad Veracruzana, México
+de México                           Educativa y el Desarrollo
+                                    Pedagógico (IDEP)
+Marco Antonio Delgado Fuentes       José Luis Ramírez Romero             Ernesto Treviño Villarreal
+Universidad Iberoamericana,         Universidad Autónoma de              Universidad Diego Portales
+México                              Sonora, México                       Santiago, Chile
+Inés Dussel, DIE-CINVESTAV,         Paula Razquin Universidad de         Antoni Verger Planells
+México                              San Andrés, Argentina                Universidad Autónoma de
+                                                                         Barcelona, España
+Pedro Flores Crespo Universidad     José Ignacio Rivas Flores            Catalina Wainerman
+Iberoamericana, México              Universidad de Málaga, España        Universidad de San Andrés,
+                                                                         Argentina
+Ana María García de Fanelli                                              Juan Carlos Yáñez Velazco
+Centro de Estudios de Estado y                                           Universidad de Colima, México
+Sociedad (CEDES) CONICET,
+Argentina
+Education Policy Analysis Archives Vol. 25 No. 21                                                                  30
+
+                                arquivos analíticos de políticas educativas
+                                           conselho editorial
+                       Editor Executivo: Gustavo E. Fischman (Arizona State University)
+      Editoras Associadas: Geovana Mendonça Lunardi Mendes (Universidade do Estado de Santa Catarina),
+               Marcia Pletsch, Sandra Regina Sales (Universidade Federal Rural do Rio de Janeiro)
+
+Almerindo Afonso                        Alexandre Fernandez Vaz                 José Augusto Pacheco
+Universidade do Minho                   Universidade Federal de Santa           Universidade do Minho, Portugal
+Portugal                                Catarina, Brasil
+
+Rosanna Maria Barros Sá                 Regina Célia Linhares Hostins           Jane Paiva
+Universidade do Algarve                 Universidade do Vale do Itajaí,         Universidade do Estado do Rio de
+Portugal                                Brasil                                  Janeiro, Brasil
+
+Maria Helena Bonilla                    Alfredo Macedo Gomes                    Paulo Alberto Santos Vieira
+Universidade Federal da Bahia           Universidade Federal de Pernambuco      Universidade do Estado de Mato
+Brasil                                  Brasil                                  Grosso, Brasil
+
+Rosa Maria Bueno Fischer                Jefferson Mainardes                     Fabiany de Cássia Tavares Silva
+Universidade Federal do Rio Grande      Universidade Estadual de Ponta          Universidade Federal do Mato
+do Sul, Brasil                          Grossa, Brasil                          Grosso do Sul, Brasil
+
+Alice Casimiro Lopes                    Jader Janer Moreira Lopes               António Teodoro
+Universidade do Estado do Rio de        Universidade Federal Fluminense e       Universidade Lusófona
+Janeiro, Brasil                         Universidade Federal de Juiz de Fora,   Portugal
+                                        Brasil
+Suzana Feldens Schwertner               Debora Nunes                            Lílian do Valle
+Centro Universitário Univates           Universidade Federal do Rio Grande      Universidade do Estado do Rio de
+Brasil                                  do Norte, Brasil                        Janeiro, Brasil
+
+Flávia Miller Naethe Motta              Alda Junqueira Marin                    Alfredo Veiga-Neto
+Universidade Federal Rural do Rio de    Pontifícia Universidade Católica de      Universidade Federal do Rio Grande
+Janeiro, Brasil                         São Paulo, Brasil                       do Sul, Brasil
+
+                                        Dalila Andrade Oliveira
+                                        Universidade Federal de Minas
+                                        Gerais, Brasil
+

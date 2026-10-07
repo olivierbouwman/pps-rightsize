@@ -1,0 +1,1835 @@
+                                                    Research Report
+
+             CONSORTIUM ON                          October 2009
+             CHICAGO SCHOOL RESEARCH
+             AT THE UNIVERSITY OF CHICAGO
+             URBAN EDUCATION INSTITUTE
+
+ccsr
+
+
+
+
+When Schools Close
+Effects on Displaced Students in Chicago Public Schools
+
+
+Marisa de la Torre
+Julia Gwynne
+Acknowledgements
+
+
+                          We would like to acknowledge the many people who helped make this report
+                          possible. Our colleagues at the Consortium on Chicago School Research at the
+                          University of Chicago Urban Education Institute gave critical feedback at each stage
+                          of this project. In particular, Marshall Jean helped us with preliminary analyses. In
+                          addition, Elaine Allensworth, Penny Bender Sebring, Melissa Roderick, Sue Sporte,
+                          Chris Mazzeo, and Diane Rado each provided us with thoughtful comments on this
+                          manuscript. We are also indebted to members of the Steering Committee and others
+                          who gave us very useful comments on this work. Donald Fraynd, Josie Yanguas, and
+                          Arie van der Ploeg performed careful reviews of this manuscript. Claire Durwood
+                          was instrumental in helping us edit and produce this report. We also thank Amy
+                          Proger who provided a thorough technical read of the final report.
+                            We have also benefited from discussions with Chicago Public Schools (CPS)
+                          senior staff. Our work would not have been possible without the student record
+                          data archive provided by CPS. In particular, we thank the CPS staff at the Office of
+                          Research, Evaluation, and Accountability for their efforts.
+                            This study was made possible by a grant from the John D. and Catherine T.
+                          MacArthur Foundation.
+
+
+
+
+2    When Schools Close
+                                                                                                                  2
+Table of Contents
+
+
+Executive Summary.................................................................................... 1
+
+Introduction................................................................................................ 5
+
+Chapter 1: School Closing Policy in Chicago. .................................................. 9
+
+Chapter 2: Where Do Displaced Students Go? A Look at Receiving Schools..... 13
+
+Chapter 3: What Are the Effects on Displaced Students?................................ 17
+
+Chapter 4: Interpretative Summary. ............................................................ 25
+References.................................................................................................. 27
+Appendix A: School Closings and New Openings. ......................................... 29
+Appendix B: Data, Analytic Methods, and Variables Used............................ 32
+Endnotes.................................................................................................... 39
+
+
+
+
+consortium on chicago school research at the university of chicago			
+4   When Schools Close
+                                                                                              2
+Executive Summary
+Chapter             1
+F    ew decisions by a school district are more controversial than the deci-
+     sion to close a school. School staff, students and their families, and
+even the local community all bear a substantial burden once the decision is
+made to close a school. Teachers and other school staff must search for new
+employment, students are faced with a multitude of adjustments that come
+from enrolling in new schools, and neighborhoods lose a central institution       > The learning
+in their community.                                                                  outcomes of
+      While recognizing these challenges, Chicago Public Schools (CPS) has
+                                                                                     displaced students
+insisted on the need to close schools for two reasons. First, CPS has stressed
+                                                                                     depend on the
+the educational necessity of closing schools that demonstrate chronically
+                                                                                     characteristics of
+low levels of academic performance. They argue that, despite the difficulties
+                                                                                     receiving schools.
+associated with changing schools, students in failing schools would be better
+served by transferring into schools that are academically more successful.1
+Second, CPS has also emphasized the financial necessity of closing schools
+with student enrollments far below their intended capacity.2
+      Since 2001, CPS has closed 44 schools for reasons of poor academic
+performance or underutilization. In 2006, CPS modified its school closing
+policy to focus on “turning around” academically weak schools instead of
+closing them. In a turnaround school, students are allowed to remain in the
+same building while all or most of the staff is replaced. As of 2009, there are
+12 turnaround schools in Chicago.
+      Despite the attention that school closings have received in the past
+few years, very little is known about how displaced students fare after their
+schools are closed. This report examines the impact that closing schools had
+on the students who attended these schools. We focus on regular elementary
+schools that were closed between 2001 and 2006 for underutilization or low
+performance and ask whether students who were forced to leave these schools
+
+consortium on chicago school research at the university of chicago			                                     1
+    and enroll elsewhere experienced any positive or nega-     and other community members, and the disrup-
+    tive effects from this type of school move. We look at
+                                                 3             tion may have hindered student learning. Students’
+    a number of student outcomes, including reading and        reading scores on the ITBS showed a loss of about
+    math achievement, special education referrals, reten-      one-and-a-half months of learning during the
+    tions, summer school attendance, mobility, and high        announcement year. In math, the loss of learning
+    school performance. We also examine characteristics        was equivalent to a little more than half a month.
+    of the receiving schools and ask whether differences in
+    these schools had any impact on the learning experi- 3. 		 Once students left schools slated for closing, on average
+    ences of the students who transferred into them.           the additional effects on their learning were neither
+        In order to assess the effects that school closings    negative nor positive.
+    had on students, we compare students ages eight and        One year after students left their closed schools,
+    older who were displaced by school closings to a group     their achievement in reading and math was not
+    of students in similar schools that did not close. This    significantly different from what we would have
+    comparison group of students allows us to estimate         expected had their schools not been closed.
+    how the displaced students would have performed on         During this time, students overcame the negative
+    a range of outcomes had their schools not been closed.     impact suffered during the announcement year
+    We report six major findings:                              and returned to their expected learning trajectory.
+                                                               Achievement remained at this expected level two
+    1. 		 Most students who transferred out of closing schools and three years after their schools were closed.
+        reenrolled in schools that were academically weak.
+        Although some of the receiving schools had higher 4. 		 Although the school closing policy had only a small overall
+        achievement levels than the schools that were closed,   effect on student test scores, it did affect summer school
+        a large number of displaced students reenrolled in      enrollment and subsequent school mobility.
+        some of the weakest schools in the system. For ex-      Students who left closing schools were less likely
+        ample, 40 percent of displaced students enrolled in     to enroll in Summer Bridge the summer after their
+        schools on probation and 42 percent of displaced        schools closed.4 Most of the schools that were slated
+        students enrolled in receiving schools where the        for closing shut down immediately after the end of
+        scores on the Iowa Tests of Basic Skills (ITBS)         the academic year, leaving the receiving schools with
+        were in the lowest quartile of the distribution of      the task of providing summer school for displaced
+        scores in the system. Only 6 percent of displaced       students in third, sixth, and eighth grade. However,
+        students attended schools with ITBS scores in the       a number of receiving schools reported waiting
+        top quartile. Most of the students who enrolled in      several months before obtaining academic records
+        receiving schools with strong academic environ-         for incoming displaced students. In addition, dis-
+        ments did not attend the school in their designated     placed students were more likely to change schools
+        attendance area and traveled an average of 3.5 miles    a second time after their initial displacement, either
+        from their home neighborhood to attend school.          during the academic year or during the summer.
+
+    2. 		 The largest negative impact of school closings on        5. 		 When displaced students reached high school, their
+          students’ reading and math achievement occurred in the         on-track rates to graduate were no different than the
+          year before the schools were closed.                           rates of students who attended schools similar to those
+        Announcements about upcoming CPS school                          that closed.
+        closings typically were made in January—about six              Students whose schools closed at the end of their
+        months prior to the actual closings of schools and             eighth-grade year entered high school with reading
+        a few months before students took annual achieve-              and math scores below their expected level as a result
+        ment tests. These announcements often caused                   of the disruption caused by the announcements of
+        significant angst for students, parents, teachers,             upcoming closures. Students who were in earlier
+
+
+2      When Schools Close
+    grades when their schools closed entered high school         Overall, we found few effects, either positive or
+    with reading achievement at the expected level. The      negative, of school closings on the achievement of
+    impact of school closings was not large enough to        displaced students. The lack of a more substantial
+    affect the on-track rates for displaced students once    positive effect of transferring students out of these
+    they reached high school, regardless of their age at     schools is likely due to the types of receiving schools
+    the closing.                                             that students transferred into. Displaced students
+                                                             who enrolled in receiving schools with strong aca-
+6. 		 The learning outcomes of displaced students depended   demic quality or with high levels of teacher support
+      on the characteristics of receiving schools.           had higher learning gains than displaced students
+    Displaced students who enrolled in new schools           who enrolled in other receiving schools. However,
+    with high average achievement had larger gains in        the number of displaced students who attended
+    both reading and math than students who enrolled         these strong schools was small. Only 6 percent of
+    in receiving schools with lower average achievement.     displaced students enrolled in academically strong
+    Furthermore, displaced students who enrolled in          schools, while 42 percent of displaced students
+    schools with high levels of student-teacher trust and    continued to attend schools with very low levels
+    teacher personal attention also had larger gains in      of academic achievement.
+    both reading and math, compared to students in re-
+    ceiving schools with low levels of teacher support.5
+
+
+
+
+                                                                                            Executive Summary          3
+4   When Schools Close
+                                                                                                 2
+Introduction
+
+
+C      losing schools is one of the most controversial decisions a school district
+       can make. Between 2001 and 2006, Chicago Public Schools (CPS)
+closed 38 schools. Most of the schools were closed either for low enrollment
+relative to the school’s capacity (17 schools) or for chronic underperformance
+(9 schools). The central argument behind closing underutilized schools is
+that schools functioning below capacity are more expensive to run compared           > Between 2001
+to other schools. In addition, providing proper services for students is harder        and 2006, CPS
+in schools operating below capacity. Savings from closing underutilized
+                                                                                       closed 17 schools
+schools can be allocated towards other areas, particularly given the fiscal
+                                                                                       for underutilization
+challenges CPS is facing and the state of the current economy.6 The main
+                                                                                       and nine for
+argument in favor of closing low performing schools is that doing so provides
+                                                                                       underperformance.
+an opportunity for students to attend higher performing schools with stronger
+learning environments.
+      Not surprisingly, the efforts of CPS and other districts to close schools
+have led to significant controversy in Chicago and many other cities nation-
+wide. Critics of school closings stress the disruption that school closings create
+for students who attend those schools and for the schools that receive a large
+number of displaced students. Research has shown that student mobility is
+associated with lower subsequent achievement, higher retention rates, higher
+number of referrals to special education, and a much lower likelihood of gradu-
+ating.7 Critics of school closings also emphasize the disruption that moving to a
+new school causes in terms of social capital formation. Ties to adults and other
+students are severed, and new ties need to be formed in the new school.8 Other
+criticisms focus on the potential impact that an influx of new students will
+have on different aspects of school life in receiving schools.9 Accommodating
+a large number of new students could create tension and stress for the staff,
+especially if these schools lack resources to integrate displaced students.10
+
+consortium on chicago school research at the university of chicago			                                      5
+    Recently, CPS’s school closing policy has come under        4. Do characteristics of receiving schools shape the
+    fire in both the local and national media. Newspaper           educational prospects of displaced students? If so,
+    articles have quoted activists who blame school closings,      what are those school characteristics and how much
+    and the subsequent shuffling of students across rival          do they help students?
+    gang lines, for a surge in teen violence.                 To answer these questions, we focus on a group of
+       Advocates for closings argue that any potential dis-regular elementary schools that were closed between
+    ruption created by a school move is more than offset   2001 and 2006 for either low enrollment or low
+    by increased learning in higher quality schools. And   performance (see Chapter 2 for an explanation of how
+    in fact, other researchers have found that students whowe selected the group of schools for this study). Our
+    change schools in pursuit of higher academic quality   sample contains 18 schools with 5,445 students who
+    do tend to benefit from the move.11                    were enrolled in kindergarten through eighth grade
+       Despite the debate that surrounds Chicago’s school  just prior to the closing. With the exception of the first
+                                                           question, our subsequent analyses focus on students
+    closing policy, very little is known about the effect of
+    closing schools. This report specifically examines the who were eight years and older attending these schools
+    impact of closing schools on the students who attended and compare them to students of the same age who
+    these schools and considers four main questions:       attended schools similar to those that closed.
+                                                              The focus of this study is on the academic effects of
+    1. Where do students go after their schools close? school closings on students who were forced to change
+       How different are the receiving schools from the schools. The study does not address the social or emotional
+       closing schools?                                    aspects of school closings; nor does it consider the issue of
+    2. Do displaced students suffer any kind of disruption student violence. It is not an evaluation of the full impact
+                                                           of the school closing policy. A comprehensive evaluation
+       in learning due to the closing of their schools? If
+                                                           of school closings would have to include an evaluation
+       so, when does it start and how long does it last?
+                                                           of the effects on the receiving schools and on the future
+    3. Do school closings improve the educational pros- cohorts of students who would have attended the closing
+       pects of displaced students?                        schools, as well as the effects on the displaced students.
+
+
+
+
+6     When Schools Close
+The Debate around Transforming the Lowest Performing Schools
+In recent months, the idea of “turning around” the     covered in this report, CPS employed a “school clos-
+lowest performing schools has become prominent         ing” strategy that resulted in some underperforming
+in the national debate on education reform.            schools being closed permanently; others, like Dodge,
+Turnarounds have been actively promoted by Arne        were closed temporarily and then “re-started” a year
+Duncan, U.S. Secretary of Education and former         later. More recently, CPS has employed what it calls
+Chicago Public Schools CEO, and others as a            a “turnaround” approach, in which schools remain
+necessary step for the most troubled schools in the    open but all or most of the adults in the building
+nation. Many of the supporters of turnarounds          are dismissed and new staff is hired. When schools
+highlight the experiences of CPS schools that have     are closed, students are displaced and, in cases like
+gone through a similar process. Dodge Elementary       Dodge, they have the option of coming back to the
+School, which was closed in 2002 and reopened in       newly reopened school. In turnarounds, however,
+the fall of 2003, has been mentioned as an example     students are not forced to change schools.
+of a successful CPS turnaround.                           While displaced students such as those from
+   Amidst all the national attention to turnarounds,   Dodge are part of our study, this study does not
+few have noted that CPS has actually implemented       examine the effects either of “re-starting” in chroni-
+two distinct models of transforming the lowest         cally low performing schools or of the turnaround
+performing schools. From 2001 to 2006, the period      strategy.
+
+
+
+
+                                                                                               Introduction     7
+8   When Schools Close
+                                                                                                 2
+Chapter             1
+School Closing Policy in Chicago
+
+T     he CPS policy on closing schools states that a school can be closed for
+      three reasons: non-academic reasons, academic reasons, and a need for
+change in educational focus.12 Non-academic reasons include underutiliza-
+tion of a school’s space, poor physical condition of the building, the need for     > In 2007,
+
+an alternative use of the school’s facilities, or the conversion of the school to      147 schools
+a charter school. Academic reasons include a school’s failure to improve its           had enrollments
+academic performance after being placed on probation. School closings due to           below 50 percent
+a change in educational focus address the possibility of implementing a new            of their capacity.
+curriculum or instructional programs that will result in dramatic changes
+in faculty or students.
+     Most of the school closings in CPS have fallen into the categories of low
+capacity utilization of the school building and academic reasons (see Table 1).
+The vast majority of closed schools in these two categories have been
+elementary schools. Between 2001 and 2006, CPS closed 13 regular elemen-
+tary schools for underutilization and nine for academic reasons. A relatively
+small number of schools have been closed for each of the other reasons.
+
+
+
+
+consortium on chicago school research at the university of chicago			                                       9
+     Table 1
+     Number and reasons for school closings between 2001 and 2006
+
+     Non-Academic Reasons                                           Number of Schools
+        • Underutilization                                          13 Elementary Schools, 4 Alternative Schools
+        • Condition of the Building                                 1 Elementary School, 2 High Schools
+        • Alternative Use of School                                 1 Elementary School, 2 High Schools
+        • Conversion to Charter School                              None
+
+     Academic Reasons                                               9 Elementary Schools
+
+     Change in Educational Focus                                    3 High Schools
+
+     Other                                                          1 Elementary School
+
+     Unknown Reasons                                                1 Elementary School, 1 Alternative School
+
+
+
+
+       Do New Schools Open in Buildings that Are Vacated by Closed Schools?
+       The answer is yes in many cases, but not always.             used by new schools.
+       With the introduction in 2004 of the Renaissance                Some displaced students chose to enroll in new
+       2010 initiative, which establishes that more than            schools that opened in buildings where their old
+       100 high quality schools will be opened by the year          schools had been. But in some cases, new schools
+       2010, many buildings that housed schools that were           did not serve the same grades as old schools. As a
+       closed are now used for new schools. Appendix A              result, some displaced students who lived in close
+       provides a list of the new schools that opened in            proximity to these new schools could not enroll in
+       buildings vacated by closed schools, the year that           them. Also, many of the new schools were charter or
+       new schools were opened, and the grade structure             contract schools, rather than neighborhood schools.
+       offered in the new schools. For example, Williams            Because charter schools and contract schools do not
+       closed at the end of the 2001–02 school year, and            have traditional attendance area boundaries, students
+       four new schools opened in the same building in              had to submit an application in order to enroll; this
+       the 2003–04 school year. Fourteen buildings that             may have been a barrier for some displaced students
+       housed schools that were closed have never been              to enroll in these schools.
+
+
+
+
+10     When Schools Close
+   In general, CPS enrollment has been declining over      been designated as receiving schools for other closed
+the last few years, reflecting recent population trends    schools, and schools that had no higher performing
+that have led to a decrease in the number of school-aged   schools in close proximity would not be considered for
+children in the city of Chicago.13 However, most of        closing. All schools closed for academic reasons were on
+the schools that were closed for low enrollment in the     probation and had less than a quarter of their students
+mid-2000s were schools in close proximity to public        at or above norms on the reading portion of the ITBS
+housing. As the number of buildings demolished by          or meeting or exceeding state standards on the Illinois
+the Chicago Housing Authority (CHA) increased,             Standards Achievement Test (ISAT).
+more and more nearby schools experienced substantial          In most cases, schools that were in close proximity
+decreases in their enrollment.14                           to closing schools had their attendance area boundar-
+   CPS defines underutilized schools as those with an      ies redrawn to accommodate displaced students. The
+enrollment that is below 65 percent of their capacity,     policy also specified that displaced students could apply
+and a large number of CPS schools fall into this cat-      to any school, subject to space availability, as is always
+egory.15 Schools that were closed for this reason had      the case with the CPS open enrollment policy.20 The
+enrollment capacities well below this number; in most      policy also emphasized that students who are displaced
+cases, a large proportion of their students were living    for academic reasons should be reassigned to higher
+outside the attendance area.16 In 2007, 147 schools        performing schools with available spaces.
+had enrollments below 50 percent of their capacity.17         Over time, the public has grown more discontented
+CPS closed eight of these schools at the end of the        with the closing of schools.21 Teachers, parents, and
+2009 academic year, and four more will be phased out       other community members have become increasingly
+grade-by-grade over time.18                                unhappy with the rapid increase in the number of
+   According to CPS policy, chronically low perform-       school closings, the limited input that the public has
+ing schools are those that have been on probation for      had in the process, and the fact that displaced students
+at least one year and have failed to make progress. To     typically do not enroll in schools that perform better
+measure progress and to decide whether to close schools    than the ones they left behind. In addition, receiving
+for academic reasons, CPS uses such indicators as pro-     schools have struggled to accommodate an influx of
+bation status history, test scores, and annual students’   new students, sometimes more than once, with few
+gains over time. However, each year many more schools      extra resources provided to integrate them.22 CPS
+meet the criteria for being closed than are actually       has responded to the public by limiting the closing
+selected. In the past, CPS was criticized for the lack     of schools for academic reasons, focusing instead on
+of transparency that surrounded the decision to close      creating turnaround schools in which students are
+certain schools.19 In an effort to be more systematic      allowed to remain in the same building after almost
+and transparent in the decision-making process, CPS        all of the school staff is replaced. As of 2009, there are
+amended the school closing policy in 2007 so that          12 turnaround schools in Chicago.
+schools with new principals, schools that had previously
+
+
+
+
+                                                                                                       Chapter 1        11
+12   When Schools Close
+                                                                                             2
+Chapter             2
+Where Do Displaced Students Go?
+A Look at Receiving Schools
+
+R     eceiving schools play a central role in the debate on school closings. A
+        frequently voiced criticism is that receiving schools did not look
+dramatically different from schools that were closed.23 If students were
+                                                                                 > A large proportion of
+                                                                                    displaced students
+to benefit from the move, receiving schools should be of higher academic
+                                                                                    enrolled in schools
+quality than the schools left by displaced students.24 In the last section we
+                                                                                    with weak academic
+described how schools became designated receiving schools, but at the same
+                                                                                    performance.
+time the school closing policy established that students could apply to any
+other school in the system with available seats. CPS encouraged students to
+enroll in high performing schools, especially if they were displaced because
+of academic reasons.
+      In this chapter, we explore which schools were the designated receiv-
+ing schools, where displaced students actually went after the closings, and
+how the actual receiving schools ranked on a series of indicators. Our study
+focuses on 18 schools; nine closed for underutilization and nine for academic
+reasons between 2001 and 2006.25 We focus on the 5,445 students who
+were enrolled in May just before closing, and we describe the elementary
+schools they attended the next September.26
+      Table 2 contains a list of the closing schools with information on the
+year of closing, the reason for closing, the percent capacity utilization,
+the percent of students at or above norms on the ITBS reading test in the
+year prior to closing, and a list of the designated receiving schools. Table 2
+shows that schools closed for underutilization had very low levels of capacity
+utilization, but they also had low levels of achievement. Conversely, schools
+
+consortium on chicago school research at the university of chicago			                                 13
+     closed for underperformance had very low achievement                  of the designated receiving schools were later closed for
+     levels, but they also had low capacity utilization. Even              academic reasons. Other designated receiving schools
+     though schools were closed for one particular reason,                 were closed later because of underutilization.28 This
+     these two groups of schools were very similar in both                 reflects the fact that surrounding schools in neighbor-
+     capacity utilization and achievement levels.                          hoods that were experiencing depopulation also had
+        The last column in Table 2 shows the designated                    low enrollment numbers and were subsequently closed
+     receiving schools for each closing school. Table 2 also               because of underutilization.
+     includes the percent of students in receiving and clos-                  Most of the displaced students reenrolled in a tradi-
+     ing schools who scored at or above national norms on                  tional neighborhood CPS school, but not necessarily in
+     the ITBS. On average, schools that were designated as                 the receiving school that was designated for them. Of
+     receiving schools showed achievement levels that were                 the students who were displaced, 96 percent attended
+     somewhat higher than the closing school, but, in most                 other CPS schools, with the rest leaving for private
+     instances, the differences were not large. In fact, some              schools in the city or moving outside the city. Of the
+
+     Table 2
+     Closed schools and the designated receiving schools
+
+
+         Last          School         Reason for           % Capacity        % Students at/          Designated Receiving Schools
+        Year in        Name            Closing             Utilization27         above                (% Students at/above Norms
+       Operation                                                              Norms ITBS                     ITBS Reading)
+                                                                                Reading
+
+        2000–01         Riis        Underutilization           50.6               25.2         Jefferson (15.7) and W. Brown (20.0)
+
+        2001–02        Dodge       Academic Reasons            30.2               14.1         Calhoun North (21.2), Cather (27.4),
+                                                                                               Dett (31.2), and Grant (21.4)
+        2001–02       Williams     Academic Reasons            49.5               12.9         Douglas (32.8), Drake (33.1), and
+                                                                                               Ward (38.1)
+        2001–02        Terrell     Academic Reasons            19.8               13.0         Beethoven (42.4), Coleman (28.5), and
+                                                                                               Farren (22.6)
+        2002–03       Colman        Underutilization           18.7               37.1         Beethoven (49.0)
+        2002–03      Donoghue       Underutilization           18.0               28.9         Doolittle West and Doolittle East (23.4)
+        2003–04         Byrd        Underutilization           39.4               17.8         Jenner (26.7)
+        2003–04       Douglas       Underutilization           34.7               29.5         Drake (39.6) and Mayo (46.8)
+        2003–04       Hartigan      Underutilization           29.2               15.4         Attucks (31.9)
+        2003–04       Jefferson     Underutilization           41.1               17.1         Smyth (23.1) and Gladstone (28.4)
+        2003–04       Raymond       Underutilization           19.2               27.3         Attucks (31.9)
+        2003–04        Suder        Underutilization           27.4               25.4         Herbert (33.5) and W. Brown (28.4)
+        2004–05        Grant       Academic Reasons            19.3               16.2         Herbert (34.7) and Calhoun North (21.8)
+        2004–05       Howland      Academic Reasons            31.7               18.6         Dvorak (42.3), Johnson (35.3), and
+                                                                                               Pope (37.6)
+        2004–05        Bunche      Academic Reasons            49.4               21.0         Earle (27.3), O’Toole (35.3), and
+                                                                                               Goodlow (25.9)
+        2005–06        Farren      Academic Reasons            15.4               14.8         Beethoven (48.0)
+        2005–06        Morse       Academic Reasons            58.9               17.5         Morton (20.4), Ryerson (31.9), and
+                                                                                               Lafayette (43.2)
+        2005–06        Frazier     Academic Reasons            39.5               23.1         Gregory (34.1), Sumner (36.3),
+                                                                                               Webster (35.0), and Henson (22.6)
+
+
+
+14      When Schools Close
+displaced students who reenrolled in CPS elementary                  For example, of the 261 students who had to transfer
+schools, 97 percent attended a neighborhood school                   to new schools when Riis closed in 2001, 112 enrolled
+but less than half attended one of the designated receiv-            in Jefferson, which was a designated receiving school.
+ing schools. Because many students attending closing                 None of the students enrolled in Brown, which was also
+schools were not living in their school’s attendance area,           a designated school; however, 49 enrolled in Smyth,
+it is possible that some chose to attend schools closer              which was not a designated school. The remaining 100
+to their residences.                                                 students enrolled in 40 other CPS schools.
+    Other CPS schools that were not designated as
+receiving schools also enrolled displaced students. A
+handful of these schools enrolled a large number of                  Characteristics of Receiving Schools
+students, while many others enrolled just a few. Table               A large proportion of displaced students enrolled in
+3 shows the number of students who enrolled each year                schools with weak academic performance. Almost
+in designated and non-designated receiving schools.                  40 percent of displaced students enrolled in receiving
+
+Table 3
+Designated and actual receiving schools
+
+    Last            School Name            Designated Receiving Schools               Other Schools Receiving        Total Number
+   Year in      (Number of Students        (Number of Displaced Students                30 or More Students          of Receiving
+  Operation         Reenrolling in              Enrolling in School)                (Number of Displaced Students       Schools
+                 Elementary Grades)                                                      Enrolling in School)
+
+   2000–01           Riis (261)            Jefferson (112) and W. Brown (0)                   Smyth (49)                 40
+
+                      Dodge            Douglas (161), Drake (113), Farren (54),    National Teachers Academy (326)
+   2001–02           Williams          Cather (44), Grant (35), Calhoun North                                            117
+                      Terrell         (30), Dett (30), Beethoven (14), Ward (1),
+                     (1,071)                       and Coleman (0)
+                     Colman               Beethoven (65), Doolittle East (40),
+   2002–03          Donoghue                   and Doolittle West (39)                                                   44
+                      (260)
+                      Byrd
+                     Douglas
+
+   2003–04           Hartigan         Attucks (146), Jenner (145), Smyth (89),         Dett (50), Doolittle (42),
+                     Jefferson         Drake (82), Gladstone (79), Mayo (63),               and Medill (33)              192
+                     Raymond               Hebert (52), and W. Brown (27)
+
+                       Suder
+                      (1,457)
+  2004–05             Grant           O’Toole (75), Johnson (70), Herbert (46),
+                     Howland          Calhoun North (38), Pope (34), Earle (33),                                         163
+                     Bunche                Dvorak (28), and Goodlow (11)
+                      (841)
+  2005–06             Farren                 Morton (153), Henson (111),
+                      Morse                 Beethoven (58), Sumner (43),                                                 141
+                      Frazier                Ryerson (36), Gregory (13),
+                       (798)                Webster (9), and Lafayette (5)
+
+
+
+
+                                                                                                                     Chapter 2      15
+     schools that were on academic probation. Forty-two         to the closing schools. While families of displaced stu-
+     percent of displaced students enrolled in receiving        dents were informed about the opportunity to apply to
+     schools with ITBS scores that were in the lowest           other CPS schools with available seats, some families
+     quartile of the elementary schools in the system, 38       limited the range of schools students could attend to
+     percent in the second quartile, 13 percent in the third    the ones nearby because they objected to sending their
+     quartile, and 6 percent in the top quartile.               children across town. Of the students who enrolled in
+        Students who enrolled in schools in the top quartile    very low performing receiving schools (schools in the
+     entered schools with very different environments than      bottom quartile), 73 percent were enrolled in their
+     those they left. These schools had better attendance       attendance area schools; these students traveled an
+     rates and higher student stability than the closed         average of half a mile to school. Only 17 percent of the
+     schools: the attendance rate averaged 95.5 percent; on     students who enrolled in top performing schools (in the
+     average, 94.7 percent of the students in these schools     top quartile) attended schools in their attendance area.
+     remained in the schools during the academic year.          Most students who enrolled in top performing schools
+     Furthermore, none of these schools were on proba-          traveled an average of 3.5 miles to school.
+     tion. By contrast, at receiving schools in the lowest         The fact that very few displaced students enrolled
+     quartile, the attendance rate was 91.1 percent; the        in top performing CPS schools could have been the
+     stability rate, on average, was 86.9 percent; and 72       result of few seats being available in those schools;
+     percent of displaced students entered schools that were    or, because these schools were far from students’
+     on probation.                                              residences, parents might not have been comfortable
+        Most of the students who enrolled in schools with       sending their children to unfamiliar neighborhoods.
+     strong academic environments traveled longer distances     Students’ test scores were not a barrier to enrolling in
+     from home than other students because these schools        these schools. Seventy percent of the displaced students
+     were often outside the attendance areas of the displaced   who enrolled in top performing schools had reading
+     students.29 As we described in the previous section,       scores below norms.
+     designated receiving schools were in close proximity
+
+
+
+
+16     When Schools Close
+                                                                                                   2
+Chapter             3
+What Are the Effects on Displaced Students?
+
+I  n order to estimate the effects of closings on the displaced students, we
+   focus on students who were eight years and older in the 18 elementary
+schools in our sample. We follow these students and compare them to stu-
+dents of the same age who attended schools that were similar to those that           > School closings had
+closed (see Appendix B for a description of how we picked schools that were             a negative impact
+similar to those that closed). We limit our sample to students eight years and          on reading and math
+older because each year these students were required to take the ITBS test              achievement the year
+in reading and math. We also use the available history of test scores prior to          of the announcement
+school closings to estimate the effects on displaced students, given their earlier      (a few months before
+performance (see Appendix B for a description of the statistical models used            the school actually
+in the following analyses).
+                                                                                        closed).
+
+
+
+
+consortium on chicago school research at the university of chicago			                                       17
+       Measuring the Effects on Achievement
+       To estimate the effects of closing schools on students’ the expected achievement and actual achievement by
+       achievement, we use test scores of the displaced stu- this monthly learning gain to translate our results
+       dents before and after their schools closed. We also into differences in learning measured in months.
+       use test scores of students in the comparison group
+                                                               Figure A. Simulated example of expected and actual learning
+       from the same period. Because the comparison group trajectories
+                                                               Figure A
+                                                                            for displaced students
+       of students had backgrounds that were very similar Simulated example of expected and actual learning
+       to the displaced students and attended schools that trajectories for displaced students
+       were similar to those that closed, we can use their
+       test scores to estimate how displaced students would                            Differences between Actual
+                                                                                       and Expected Achievement
+       have performed had their schools not closed. We
+       then compare this “expected learning trajectory” for
+
+
+
+                                                                        Achievement Level
+       displaced students to their actual learning trajectory
+                                                                      Test Scores Before
+       (see Figure A for a depiction of both trajectories).           School Closings
+
+       The difference between these two is the estimated
+       effect of school closings.                                                                    One Year
+                                                                                                                     Test Scores After
+                                                                                                                     School Closings
+                                                                                                     Learning
+          We report these differences in terms of monthly
+       learning differences. Based on the expected learning
+       trajectory, we can calculate how much the student
+       was expected to learn annually; by dividing that by
+                                                                     Age 8      Age 9       Age 10 Age 11 Age 12 Age 13
+       10, we can calculate how much they should have
+       learned per month. We divide the difference between                    Expected Learning Trajectory    Actual Learning Trajectory
+
+
+
+
+     Impact of School Closings on Reading                               Figure 1
+                                                                        Students’    achievement was negatively affected by the
+     and Math Achievement                                                 Figure 1. Students’ achievement was negatively affected by the
+                                                                        aannouncement
+                                                                           nnouncementofofthetheschool
+                                                                                                 schoolclosings;
+                                                                                                         closings;one
+                                                                                                                    one  year  after
+                                                                                                                      year  after closing,
+     School closings had a negative impact on reading and                closing, students’
+                                                                          students’          achievement
+                                                                                    achievement was         was nofrom
+                                                                                                      no different   different
+                                                                                                                         the from
+                                                                                                                             achievement
+     math achievement the year of the announcement (a few                thethe
+                                                                          of  achievement of  the of
+                                                                                comparison group   comparison
+                                                                                                      students group of students
+
+     months before the school actually closed). Announcements                                                3
+     about upcoming CPS school closings were typically
+     made by the Board of Education in January, about six
+
+
+                                                                           Differences between Actual and
+                                                                                                             2
+
+     months prior to the actual closing of schools and just a
+                                                                                                             1
+     few months before students took the annual achieve-
+                                                                                                                                                             0.19
+     ment tests. During this announcement year, reading                                                      0
+
+
+
+
+                                                                          Expected Achievement (in months)
+     achievement for students in schools slated for closing
+     was about one-and-a-half months of learning below the                                                   -1                -0.59**
+                                                                                                                                                    -0.77~
+     expected level, and math achievement was more than
+                                                                                                                     -1.50**
+     half a month below the expected level. Figure 1 shows                                                   -2
+
+     the short-term impact that school closings had on the
+                                                                                                             -3   Year of the Announcement          One Year Later
+     achievement of students who attended these schools.
+                                                                                                                                         Reading   Math
+        The lower achievement may have been caused by
+     the disruption that followed announcements of                        Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+
+18     When Schools Close
+ upcoming CPS school closings. After CPS identified                                      months behind in learning two years after their schools
+ schools slated for closing, there were typically protests                               closed; however, this difference between their actual
+ by school staff, parents, and community leaders.                                        learning and their expected learning is not statistically
+ Parents and community leaders were irate that children                                  significant.33 Three years after schools closed, displaced
+ would be forced to endure the upheaval of relocating                                    students were about one-and-a-half months ahead of
+ to new schools. Teachers were frustrated by the news                                    their expected learning in reading; but, again, this
+ that they would soon have to find new employment.                                       difference is not statistically significant.
+ And, despite recognizing the importance of continu-
+ ing to educate students, some teachers also reported
+                                                                                         Impact of School Closings on
+ difficulties staying motivated.30 These events were
+ likely to impact students, which may explain the drop                                   Other Outcomes
+ in learning gains shortly after learning their schools                                  Although school closings had little impact on achieve-
+ would close.                                                                            ment, they did have an effect on other outcomes. Figure
+    Once students left schools slated for closing, there                                 3 shows the impact of the closing policy on Summer
+ were no additional negative effects on achievement.                                     Bridge enrollment for third-, sixth-, and eighth-grade
+ In fact, one year later, displaced students’ reading and                                students. During the summer prior to their schools’
+ math achievement had returned to their expected                                         closing, displaced students were just as likely to attend
+ level.31 Although displaced students were likely to have                                Summer Bridge as students in the comparison group.
+ experienced some difficulties in adjusting to their new                                 However, during the summer after their schools closed,
+ schools, on average these challenges had no apparent                                    only a quarter of displaced students enrolled in Summer
+ impact on their learning.                                                               Bridge, compared to 29 percent of students in the
+    As Figure 2 shows, there were no long-term effects                                   comparison group with similar characteristics.
+ on the math achievement of displaced students.32 In                                        Most of the schools that were slated for closing shut
+ reading, displaced students were about one-and-a-half                                   down immediately after the end of the academic year,
+
+Figure 2                                                                                 Figure 3
+Figure 2. In the long-run students’ achievement did not suffer                           Figure 3. Displaced
+In theschool
+from   long run   students’
+              closing; neitherachievement  did not
+                               did they improve    suffer
+                                                upon theirfrom                           Displaced  students students
+                                                                                                             were lesswere  lesstolikely
+                                                                                                                        likely     attendto attend
+school  closing;                                                                         Summer   Bridge immediately  after closing
+                                                                                         Summer Bridge immediately after closing
+expected  learningneither  did it improve upon the expected
+                    trajectories
+learning trajectory
+                                                                                                                                       40
+
+
+
+
+                                                                                         Percent of Students Attending Summer Bridge
+                                   3
+                                                                                                                                               34.0%      34.7%
+                                                                                                                                       35
+
+
+
+
+ Differences between Actual and
+                                   2                                                                                                                                                          29.3%
+                                                                                                                                       30
+                                                                      1.41
+                                                                                                                                                                                  24.8%**
+                                   1                                                                                                   25
+
+                                                                              0.21
+                                                                                                                                       20
+                                   0
+
+
+
+
+Expected Achievement (in months)
+                                                                                                                                       15
+                                                 -0.32
+                                   -1
+                                                                                                                                       10
+
+                                        -1.49                                                                                           5
+                                   -2
+
+                                                                                                                                        0
+                                   -3   Two Years Later             Three Years Later
+                                                                                                                                               Prior to Closing              Summer Right after Closing
+                                                          Reading   Math
+                                                                                                                                            Students Displaced by Closings      Comparison Group of Students
+                                                                                                                                                                                 with Similar Characteristics
+ Note: These estimates are based on a reduced sample of students for whom we have data
+ three years after closings take place.
+                                                                                              Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+ ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+
+                                                                                                                                                                                            Chapter 3           19
+        Putting in Perspective the Learning Trajectories of Displaced Students
+       Our strategy to estimate the effects of school clos-        annual growth in reading for displaced students
+       ings on displaced students is based on comparing the        is below what other CPS students experienced—
+       expected learning trajectory for displaced students         putting them farther behind, by almost nine months,
+       with the actual one. Even though this is appropriate        by the time they are 13 years old. The drop in learn-
+       for isolating the effects due to school closings, it does   ing experienced as a result of the announcement
+       not provide us with a reference to the magnitude of         of the school closing is negligible compared to the
+       the estimated school closing effects. By looking at         achievement gap of students in closed schools to
+       the differences in the achievement of the students          students in other schools.
+       who were attending the closing schools compared
+       to similar students in other CPS schools, we can            Figure
+                                                                   FigureB.B Learning trajectories for displaced students and similar
+                                                                   students in other CPS
+       have a reference to judge the size of the school            Learning trajectories for displaced students and similar
+       closing effects.                                            students in other CPS schools
+          The achievement of students in closing schools
+       was low compared to that of students with similar
+       backgrounds who attended other CPS schools.
+       Figure B shows the expected and actual reading
+       achievement trajectories for displaced students who
+
+
+                                                                   Achievement Level
+       were 10 years old when their schools closed. The
+       gray line is the achievement trajectory for similar
+       students (in terms of gender, race/ethnicity, socio-
+       economic status, age, and special education status)
+       who attend other CPS schools. Comparing the
+       learning trajectory of displaced students to similar
+       students enrolled in other schools, we find that by age
+       eight displaced students were six months behind in                              Age 8     Age 9       Age 10      Age 11        Age 12      Age 13
+       reading.34 This difference may be due to differences                                    Expected Learning Trajectory        Actual Learning Trajectory
+       in the quality of their schools, but it also reflects                                   Similar Students in Other CPS Schools
+
+       differences in skills upon entering school. The
+
+
+     leaving the receiving schools with the task of providing      mobility (Figures 4 and 5). Prior to their schools’
+     summer school for displaced students in third, sixth,         closing, displaced students had lower rates of school
+     and eighth grade. However, a number of receiving              mobility during the school year than students in the
+     schools reported having to wait several months before         comparison group. However, during their first year
+     obtaining academic records for incoming displaced             in a new school, they were twice as likely to change
+     students—a delay which left some of these students            schools as the comparison group: nearly 11 percent of
+     without assignments for summer school that year.35            displaced students changed schools, while only 5 per-
+     The following summer, however, Summer Bridge                  cent of students in the comparison group with similar
+     enrollment rates for displaced students were similar to       characteristics did so (Figure 4). They were also more
+     enrollment rates for students in the comparison group.        likely to change schools during the summer after their
+        Students who changed schools because of school             first year in a new school: 30 percent of the displaced
+     closings also had higher rates of subsequent school           students changed schools compared to only 14 percent
+
+
+20     When Schools Close
+   Figure 4                                                                                                   Figure 5
+   Figure 4. School closings made students more likely to change                                              Figure 5. Displaced students were more likely to change
+   School
+   schools closings made
+           during the     students
+                      academic yearmore  likely <
+                                   (** p-value  to 0.01)                                                      Displaced
+                                                                                                              schools    students
+                                                                                                                      over the     were more likely to change schools
+                                                                                                                               summer
+   change schools during the academic year (** p-value < 0.01)                                                over the summer
+
+                                       14                                                                                                           40
+
+
+
+
+Percent of Students Changing Schools                                                                         Percent of Students Changing Schools
+                                       12                                                                                                           35
+                                                                               10.8%**                                                                                                      30.4%**
+                                                                                                                                                    30
+                                       10
+
+                                                            8.1%                                                                                    25
+                                        8
+                                               6.8%**
+                                                                                                                                                    20
+                                        6
+                                                                                            4.9%                                                                                                        13.6%
+                                                                                                                                                    15                 12.5%
+                                                                                                                                                            12.1%
+                                        4
+                                                                                                                                                    10
+
+                                        2                                                                                                            5
+
+                                        0                                                                                                            0
+                                                Prior to Closing              During the First Year                                                          Prior to Closing               One Summer Later
+                                            Students Displaced by Closings   Comparison Group of Students                                                Students Displaced by Closings   Comparison Group of Students
+                                                                              with Similar Characteristics                                                                                 with Similar Characteristics
+
+  Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10                                                  Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+
+   of students in the comparison group (Figure 5).36                                                         an opportunity to get to know some of their teachers
+      Although our data do not indicate reasons for volun-                                                   and peers in the receiving schools before the start of
+   tary school moves, this finding suggests that a higher                                                    the academic year.
+   than expected proportion of displaced students did not
+   find their receiving school to be a good fit. However,
+                                                                                                             Impact of School Closings on High
+   this higher rate of school mobility had no apparent
+   impact on student achievement in subsequent years in                                                      School Outcomes
+   new schools.                                                                                              Given that the largest impact of school closings on
+      The school closing policy did not have an effect                                                       achievement occurs during the announcement year, we
+   either on retention rates or on special education refer-                                                  ask whether students who were in eighth grade at the
+   rals for displaced students (Figures 6 and 7). Displaced                                                  time their schools were closed were at a greater disad-
+   students were no more or less likely than students in                                                     vantage than other students in lower grades when they
+   the comparison group to be retained in grade or to be                                                     moved to high school.38 To answer this question, we
+   referred to special education services before or after                                                    look at the freshman on-track indicator, which provides
+   school closings. Even the fact that displaced students                                                    an assessment of whether ninth-grade students are on-
+   were less likely to attend Summer Bridge did not                                                          track to graduate within four years.39
+   translate into higher retention rates. According to                                                          Despite entering high school significantly behind in
+   prior research on Summer Bridge, attendance in this                                                       reading and in math, students whose schools closed at
+   program allowed low achieving students to raise their                                                     the end of their eighth-grade year were just as likely to
+   test scores, but students who were farthest behind were                                                   be on-track at the end of their freshmen year as students
+   less likely to meet the promotion criteria.37 Research                                                    in our comparison group. Displaced students in earlier
+   also showed that students who attended Summer                                                             grades who spent at least one year in elementary school
+   Bridge had smaller class sizes, as well as positive and                                                   after their schools closed entered high school with read-
+   supportive relationships with their teachers. Displaced                                                   ing and math achievement at a level we would have
+   students who did not attend Summer Bridge missed                                                          expected had their schools not been closed. When we
+
+
+                                                                                                                                                                                                      Chapter 3           21
+       Figure 6                                                                                                          Figure7.
+                                                                                                                                7 New referrals to special education services did not
+       Figure 6. Displaced students did not seem to be retained in                                                       Figure
+       Displaced
+       grade       students
+              at higher      were
+                        rates in    notreceiving
+                                 their   retainedschools
+                                                  in grade at                                                           New  referrals
+                                                                                                                         increase  for to  special
+                                                                                                                                      displaced    education services
+                                                                                                                                                students
+         higher rates in their receiving schools                                                                         did not increase for displaced students
+                                              14                                                                                                                    2.5
+
+
+
+
+     Percent of Students Retained in Grade
+                                              12
+
+
+
+
+                                                                                                                        Percent of Students Referred to
+                                                                                                                                                                    2.0
+                                              10
+
+                                                                                                                                                                    1.5
+                                               8
+
+
+
+
+                                                                                                                          Special Education Services
+                                               6                                                                                                                                                                    0.95%
+                                                                                                                                                                    1.0
+                                                                    4.7%                    4.5%                                                                                 0.81%      0.81%
+                                                        4.2%                                           3.9%
+                                               4                                                                                                                                                                               0.64%
+                                                                                                                                                                    0.5
+                                               2
+
+
+                                               0                                                                                                                    0.0
+                                                        Prior to Closing             At the Start of the First Year                                                               Prior to Closing            At the Start of the First Year
+
+                                                    Students Displaced by Closings      Comparison Group of Students                                                         Students Displaced by Closings      Comparison Group of Students
+                                                                                         with Similar Characteristics                                                                                             with Similar Characteristics
+
+        Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10                                                        Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+         compared the likelihood of being on-track to graduate Figure        8
+                                                                     Figure 8. School closings did not affect the percentage of students
+         for these students to the comparison group of students, School
+                                                                     on-trackclosings  did not
+                                                                               to graduate     affect
+                                                                                           at he  end the  percentage
+                                                                                                      of their freshmenofyear
+                                                                                                                          students
+         they were equally likely to be on-track at the end of their on-track   to graduate at the end  of their freshmen  year
+         freshman year. The on-track to graduate rate was 48.1            70
+         percent for displaced students (see Figure 8).
+
+
+
+
+                                                                                                                        Percent of Students On-Track to Graduate
+                                                                                                                                                                   60
+
+
+         Mitigating the Effect of School Closings                                                                                                                  50                    48.1%                   47.1%
+
+         on Achievement                                                                                                                                            40
+
+         Consistent with prior research on student mobility,
+                                                                                                                                                                   30
+         characteristics of receiving schools had an effect on the
+         learning of displaced students during their first year.                                                                                                   20
+
+         Students who enrolled in schools with high average
+                                                                                                                                                                   10
+         student achievement had significantly higher levels
+         of achievement than students who enrolled in weaker                                                                                                        0
+         schools. In reading, displaced students in the stron-                                                                                                            On-Track Rates for Students Who Reached Ninth Grade
+         gest receiving schools (those in the top quartile of the                                                                                                          Students Displaced by Closings      Comparison Group of Students
+                                                                                                                                                                                                                with Similar Characteristics
+         distribution) had an achievement level one year later
+         that was almost a month above expected. However,                                                                  Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+         students who attended some of the weakest schools
+         in the system (those in the bottom quartile of the                                                              academic achievement of receiving schools affected
+         distribution) experienced a loss in achievement of over                                                         math scores more than reading scores.
+         a month (see Figure 9). In math, the achievement level                                                            Displaced students who enrolled in receiving
+         was more than two months above what was expected for                                                            schools with high levels of positive interaction be-
+         students in the strongest schools, versus a loss of half a                                                      tween students and teachers also showed higher learn-
+         month for students in the weakest schools. The overall                                                          ing gains (see sidebar for an explanation of how we
+
+
+22                                           When Schools Close
+Figure9.
+Figure 9 The higher the academic quality of the receiving school, the higher the achievement level of the displaced students during
+the first year; the effect is more evident for math than for reading
+The  higher the academic quality of the receiving school, the higher the achievement level of the
+displaced students during the first year; the effect is more pronounced for math than for reading
+                                   3.5                                 Reading*                                                                  Math**
+                                                                                                                                                                        2.76
+                                   2.5
+
+
+
+
+ Differences between Actual and
+                                                                                                                                                           1.68
+                                   1.5
+                                                                                                0.92
+                                                                                                                                       0.65
+                                   0.5                                              0.21
+                                     0
+
+
+
+
+Expected Achievement (in months)
+                                   -0.5
+                                                               -0.46                                                -0.48
+                                   -1.5      -1.20
+
+                                   -2.5
+                                             First             Second              Third       Fourth                First            Second               Third       Fourth
+                                   -3.5     Quartile           Quartile           Quartile     Quartile             Quartile          Quartile            Quartile     Quartile
+
+                                                       Academic Quality of Receiving Schools                                   Academic Quality of Receiving Schools
+
+
+ Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+
+                    Measuring the Quality of Student-Teacher Interaction
+                  Measures of the quality of student-teacher interaction come from surveys conducted by the Consortium
+                  on Chicago School Research (CCSR) every other year. CCSR gives surveys to students in sixth through
+                  twelfth grade, all teachers, and all principals. The particular measures on student-teacher interaction are
+                  created using students’ responses.40
+
+                     • Teacher Personal Attention measures the degree to                                  • Student-Teacher Trust measures students’ perceptions
+                                   which students perceive that their teachers give                         about the quality of their relationships with teach-
+                                   individual attention to their students and are                           ers. Questions ask students if teachers care about
+                                   concerned about them. Questions ask students if                          them, keep promises, listen to their ideas, and try
+                                   their teachers know and care about them, notice if                       to be fair. High levels indicate that there is trust
+                                   they are having trouble in class, and are willing to                     and open communication between students and
+                                   help with academic and personal problems. High                           teachers.
+                                   levels indicate that students frequently receive
+                                   personalized support from their teachers.
+
+
+
+measure interaction between students and teachers).                                                       difference between displaced students’ expected and
+For example, displaced students attending schools                                                         actual achievement is smaller. Displaced students who
+with low levels of teacher personal attention (bottom                                                     enrolled in receiving schools that were in the highest
+quartile) were two months behind their expected level                                                     quartile for teacher personal attention learned somewhat
+(see Figure 10, Panel A). Among receiving schools, as                                                     more in reading than expected.41 The effects on math
+the level of teacher personal attention increased, the                                                    are less pronounced, but they follow the same pattern.
+
+
+                                                                                                                                                                     Chapter 3    23
+     Figure 10
+     Teacher-student relationships matter in terms of making a positive transition;
+     Figure
+     the    10. are more
+         effectsTeacher-student relationships
+                          pronounced          matter in
+                                        for reading thanterms
+                                                          for of
+                                                             mathmaking a positive transition; the effects are more evident for reading than for math
+
+      A. Teacher Personal Attention
+
+                                        3.5                            Reading**                                                            Math*
+
+                                        2.5
+
+
+
+
+      Differences between Actual and
+                                        1.5
+                                                                                                                                                                0.66
+                                        0.5                                                   0.16                                                   0.10
+                                          0
+
+
+
+
+     Expected Achievement (in months)
+                                        -0.5                                                                                     -0.22
+                                                                                                                  -0.54
+                                                                                   0.90
+                                        -1.5
+                                                               -1.50
+                                        -2.5   -2.11
+                                                First          Second           Third        Fourth               First          Second               Third     Fourth
+                                        -3.5   Quartile        Quartile        Quartile      Quartile            Quartile        Quartile            Quartile   Quartile
+
+                                                  Teacher Personal Attention in Receiving Schools                   Teacher Personal Attention in Receiving Schools
+
+
+      B. Student-Teacher Trust
+
+                                        3.5                            Reading**                                                            Math**
+
+                                        2.5
+
+
+
+
+      Differences between Actual and
+                                        1.5
+                                                                                                                                                                1.03
+                                                                                              0.64
+                                        0.5                                                                                                           0.26
+                                          0
+
+
+
+
+     Expected Achievement (in months)
+                                        -0.5
+                                                                                   -0.61                                         -0.43
+                                        -1.5
+                                                                                                                  -1.37
+                                                               -1.71
+                                        -2.5
+
+
+                                        -3.5   -3.23
+                                                First          Second           Third        Fourth               First          Second               Third     Fourth
+                                               Quartile        Quartile        Quartile      Quartile            Quartile        Quartile            Quartile   Quartile
+
+                                                     Student-Teacher Trust in Receiving Schools                        Student-Teacher Trust in Receiving Schools
+
+      Note: ** p-value < 0.01; * p-value < 0.05; ~ p-value < 0.10
+
+
+
+        Similarly, students who enrolled in schools where there                                            We stressed here the importance of the relationships
+     was a high level of trust between students and teachers                                            between students and teachers in explaining variations
+     had achievement levels of over half a month higher in                                              in students’ achievement, but relationships among stu-
+     reading and one month in math than expected. Students                                              dents could be equally important in terms of achieve-
+     who were in schools with a low level of trust between stu-                                         ment. When these measures of peer interaction at the
+     dents and teachers were more than three months behind                                              school level were included in the model, they did not
+     their expected level in reading and more than a month                                              correlate with differences in achievement among the
+     behind in math.42 Student-teacher interaction seemed to                                            displaced students.
+     affect achievement in reading more than math.
+
+
+24                      When Schools Close
+                                                                                                 2
+Chapter             4
+Interpretative Summary
+
+B     etween 2001 and 2006, CPS closed 26 schools for underutilization or
+      low performance. While nine were closed for poor academic performance
+and the rest for chronic underutilization, these distinctions were in name
+                                                                                    > The success of a
+only in most cases. The majority of schools that were closed for poor perfor-
+mance also had very low enrollments, and most schools that were closed for             school closing policy
+
+underutilization also had very poor academic achievement. Understanding the            crucially depends
+effects of school closings on displaced students is important, given that CPS          on a large supply
+continues to implement this policy. Even though chronically low performing             of “better” schools
+CPS schools are now being “turned around” instead of being closed, a large             and on an intentional
+number of CPS schools are under-enrolled. There are calls for more closings            strategy to enroll
+of underutilized schools to save money.                                                displaced students
+        As noted above, critics of the school closing policy have emphasized           in these schools.
+the disruption that changing schools may have on displaced students. While
+we did find that the announcement of a school closing has negative effects
+on students’ achievement during the announcement year, achievement for
+these students returns to its predicted level after one year in their new school.
+Achievement for displaced students also remains at its expected trajectory
+two and three years later in both reading and math. In sum, the academic
+outlook for students did not change after their schools closed. Likewise,
+when displaced students reached high school, they were equally likely to be
+on-track to graduate as students in the comparison group.
+
+
+
+
+consortium on chicago school research at the university of chicago			                                       25
+        Although displaced students scored as expected               Two other findings are worth noting. The first is
+     during their first year in receiving schools, there was      that displaced students were less likely to attend sum-
+     some variation in achievement growth based on the            mer school when they were transitioning from the
+     school these students attended. Displaced students who       closing school to the receiving school. Schools closed at
+     enrolled in top performing CPS schools had higher            the end of the academic year, leaving receiving schools
+     test scores one year later than displaced students who       the task of providing summer school to students who
+     enrolled in low performing schools or in schools that        needed it. Schools complained of not receiving infor-
+     were similar to the schools they left. This suggests that    mation on incoming students in a timely matter, which
+     the academic outlook for displaced students would have       might have prevented some students from attending
+     been better had the receiving schools been dramati-          summer school.
+     cally better than the closing schools. However, only            Another consequence of the policy was that dis-
+     6 percent of students enrolled in top performing CPS         placed students were more likely to change schools in
+     schools after they were displaced.                           the future, both during the school academic year and
+        We also found that the differences between schools        during the summer. Part of the mobility we observed
+     in the level of teacher support for students were critical   during the summer was related to new schools open-
+     in explaining variations in achievement for displaced        ing in the same building that had housed the closing
+     students one year after the closings. Students who at-       school. However, even after taking this into account,
+     tended schools that had stronger student-teacher trust       displaced students were not only more mobile than
+     and teacher personal attention, as measured by CCSR’s        they were before but also were more mobile than
+     biennial survey, were more likely to make gains in read-     the students in the comparison group. Students who
+     ing and math. It is possible that displaced students who     were forced to change schools because their schools
+     attended such schools had an easier transition into the      were closed may have found it hard to fit into the new
+     new school and consequently were better able to learn.       schools, thereby prompting a cycle of further school
+        Taken together, these findings suggest the theory         mobility.
+     behind the school closing policy has some merit.                In summary, we found few effects—either positive
+     Students did better when they attended a better school       or negative—of school closings on the achievement of
+     after their schools closed. This also suggests that the      displaced students. Although reading and math gains
+     success of a school closing policy crucially depends on      were lower than expected once students found out
+     a large supply of “better” schools and on an intentional     their schools would soon close, these short-lived deficits
+     strategy to enroll displaced students in these schools.      were no longer evident after displaced students’ first
+     Because most Chicago neighborhoods do not have               year in new schools. Changing schools neither resulted
+     stronger performing schools for displaced students to        in additional negative effects on student achievement
+     enter, parents must be willing and able to send their        nor substantially improved the achievement of
+     children to school away from their neighborhoods. This       displaced students. Only the small number of students
+     may explain why only 6 percent of students enrolled in       who transferred to academically strong receiving
+     top performing schools, and students who did enroll          schools and found supportive teachers at these schools
+     in top schools generally traveled longer distances to get    made significant gains in their learning.
+     to those schools.43
+
+
+
+
+26     When Schools Close
+                                                                                                                            2
+References
+
+
+Allensworth, Elaine M., and John Q. Easton (2005)                  Hanushek, Eric A., John F. Kain, and Steven G. Rivkin (2004)
+The on-track indicator as a predictor of high school graduation.   Disruption versus tiebout improvement: The costs and benefits
+Chicago: Consortium on Chicago School Research.                    of switching schools, Journal of Public Economics, 88/9–10:
+                                                                   1,721–46.
+Anderson, Veronica (2006)
+Slow progress amid ongoing strife over closings and                Lipman, Pauline, and Alecia S. Person (2007)
+displaced kids. Catalyst. March 2006.                              Students as collateral damage? A preliminary study of Renaissance
+                                                                   2010 school closings in the Mid-South. Unpublished manuscript.
+Caputo, Angela (2009)
+The case of the missing school closings report.                    Neighborhood Capital Budget Group
+Available at http://www.progressillinois.com/2009/3/30/            Underutilization. Available at http://www.ncbg.org/schools/
+missing-school-closings-report.                                    underutilization.htm.
+CBS (2009)                                                         Pribesh, Shana, and Douglas B. Downey (1999)
+Board votes unanimously to close 16 city schools.                  Why are residential and school moves associated with poor
+Available at http://cbs2chicago.com/local/chicago.schools.         school performance? Demography, 36(4): 521–34.
+closing.2.943969.html.
+                                                                   Roderick, Melissa, Mimi Engel, and Jenny Nagaoka (2003)
+Chicago Public Schools (2008)                                      Ending Social Promotion in Chicago: Results from Summer
+CPS FY2009 Budget Book. Available at http://www.cps.               Bridge. Chicago: Consortium on Chicago School Research.
+edu/About_CPS/Financial_information/Documents/FY09_
+Budget_Book_Online.pdf.                                            Rumberger, Russell (2003)
+                                                                   The causes and consequences of student mobility.
+Chicago Public Schools (2009)                                      Journal of Negro Education, 72(1): 6–21.
+CPS moves to turn around six more schools. Available
+at http://www.cps.edu/News/Press_releases/2009/                    Rumberger, Russell, Katherine A. Larson, Robert K. Ream, and
+Pages/01_16_2009_PR1.aspx.                                         Gregory J. Palardy (1999)
+                                                                   The educational consequences of mobility for California
+Duffrin, Elizabeth (2006)                                          students and schools. Berkeley, CA: Policy Analysis for
+Displaced kids “doing poorly.” Catalyst. March 2006.               California Education.
+Goerge, Robert, John Dilts, Duck-Hye Yang, Miriam Wasserman,       Sadovi, Carlos (2007)
+and Anne Clary (2007)                                              Duncan: 50 schools could close. Chicago Tribune, December 20.
+Chicago children and youth 1990–2010: Changing population
+trends and their implications for services. Chicago: Chapin Hall
+Center for Children at the University of Chicago.
+
+
+
+
+consortium on chicago school research at the university of chicago			                                                                  27
+28   When Schools Close
+Appendix A:
+School Closings and New Openings
+
+
+
+Appendix A contains the list of schools that closed be- opened in same building. In addition, we report the
+tween 2001 and 2006 and the reason for their closings. year the new school opened, the grades it served, and
+It also includes information on whether a new school the type of school.
+
+Table 4
+
+ Last Year in   Closing School       Reason for          New School        First Year in   Grades Served           Type of School
+  Operation         Name              Closing              Opened           Operation         First Year
+                                                                                           (at full capacity)
+
+   2000–01            Riis         Underutilization           —
+                  Near North        Condition of              —
+                                    the Building
+   2001–02          Dodge            Academic         Dodge Renaissance     2003–04           K-8 (K-8)         Prof. Develop. School44
+                                     Reasons              Academy
+                                                      Williams Multiplex    2003–04           K-3 (K-5)         Prof. Develop. School
+                                                        Williams Prep.      2003–04           4-8 (6-8)           Traditional School
+                   Williams          Academic             Academy
+                                     Reasons          KIPP Chicago Youth    2003–04           4-5 (5-7)           Contract School46
+                                                      Village Academy45
+                                                        Big Picture HS      2003–04            9 (9-12)         Small School–CHSRI48
+                                                         at Williams 47
+                    Terrell       Academic Reasons      ACE Technical       2004–05            9 (9-12)            Charter School49
+   2002–03          Colman         Underutilization           —
+                  Donoghue         Underutilization    U of C Charter –     2005–06            PK, K-3              Charter School
+                                                          Donoghue                            (PK, K-5)
+                Woodson North      Underutilization    U of C Charter –     2008–09           6-8 (6-8)             Charter School
+                   Middle                                 Woodson
+                 Arts of Living    Underutilization           —
+                     Tesla         Underutilization           —
+                Flower Career        Change in             Al Raby          2004–05            9 (9-12)          Small School–CHSRI
+                   Academy        Educational Focus
+                 Muñoz Marin            Other                 —
+                Recovering the        Unknown                 —
+                 Gifted Child
+   2003–04           Byrd          Underutilization           —
+                   Douglas         Underutilization     Pershing West       2005–06           4-8 (4-8)         Performance School50
+                                                           Middle
+
+
+
+                                                                                                                      Appendix A          29
+     Table 4 continued
+
+      Last Year in   Closing School       Reason for          New School          First Year in   Grades Served          Type of School
+       Operation         Name              Closing              Opened             Operation         First Year
+                                                                                                  (at full capacity)
+
+       2003–04            Hartigan      Underutilization       Bronzeville         2006–07         K-5 (PK, K-8)          Charter School
+                                                               Lighthouse
+
+                          Jefferson     Underutilization           —
+                          Raymond       Underutilization      Perspectives
+                                                           Charter IIT Math and    2008–09         6, 7, 9 (6-12)         Charter School
+                                                            Science Academy
+                           Suder        Underutilization    Suder Montessori       2005–06        PK, K (PK, K-8)      Performance School
+                      Doolittle West    Underutilization           —
+                            Truth       Underutilization           —
+                     Spaulding Elem.    Underutilization           —
+                     Spaulding High     Underutilization           —
+                           Wright        Condition of              —
+                                         the Building
+                                                             Phoenix Military      2002–03          9-12 (9-12)        Small School – CHSRI
+                                                               Academy51
+                             Orr          Change in            Mose Vines          2003–04          9-12 (9-12)        Small School – CHSRI
+                                       Educational Focus
+                                                                 AASTA             2004–05          9-12 (9-12)        Small School – CHSRI
+                                                                EXCEL 52           2004–05          9-12 (9-12)        Small School – CHSRI
+       2004–05              Grant      Academic Reasons      Marine Military       2007–08            9 (9-12)         Performance School
+                                                               Academy
+                          Howland      Academic Reasons      Catalyst Charter      2006–07           4-5 (K-8)            Charter School
+                                                                Howland
+                           Bunche      Academic Reasons       Providence           2006–07           K-5 (K-8)            Charter School
+                                                           Englewood Charter
+                                                            School of the Arts     2002–03          9, 11 (9-12)       Small School – CHSRI
+                                                                School of          2002–03          9-10 (9-12)        Small School – CHSRI
+                         South Shore      Change in         Entrepreneurship
+                                       Educational Focus        School of          2003–04            9 (9-12)         Small School – CHSRI
+                                                               Technology
+                                                                School of          2003–04          9-12 (9-12)        Small School – CHSRI
+                                                               Leadership
+                          Anderson         Unknown                 ­—
+
+
+
+30     When Schools Close
+Table 4 continued
+
+ Last Year in   Closing School      Reason for          New School           First Year in   Grades Served          Type of School
+  Operation         Name             Closing              Opened              Operation         First Year
+                                                                                             (at full capacity)
+
+  2005–06             Arai        Underutilization   UPLIFT Community         2005–06           6-9 (6-12)        Performance School
+                                                          School
+                    Lindblom       Condition of          Lindblom             2005–06            9 (7-12)         Performance School
+                                   the Building       Math and Science
+                                                     Dale Hale Williams       2005–06            7 (7-12)         Performance School
+                                                     DuSable Leadership       2005–06            9 (9-12)            Charter School
+                    DuSable       Alternative Use        Academy
+                                   of the School
+                                                         Bronzeville          2005–06            9 (9-12)         Performance School
+                                                         Scholastic
+                                                            BEST              2002–03            9 (9-12)         Small School – CHSRI
+                                                     Chicago Discovery        2002–03          9-12 (9-12)        Small School – CHSRI
+                     Bowen        Alternative Use        Academy
+                                   of the School
+                                                        Global Visions        2003–04            9 (9-12)         Small School – CHSRI
+                                                       New Millennium         2004–05            9 (9-12)         Small School – CHSRI
+                      KIPP        Alternative Use             —
+                                   of the School
+                     Farren      Academic Reasons             —
+                     Morse       Academic Reasons      Polaris Charter        2007–08           K-2 (K-8)            Charter School
+                                                          Academy
+                                                     Frazier International    2007–08           K-5 (K-8)         Performance School
+                     Frazier     Academic Reasons          Magnet
+                                                        Frazier Prep.         2007–08           K-5 (K-8)           Contract School
+                                                          Academy
+
+
+
+
+                                                                                                                      Appendix A         31
+     Appendix B:
+     Data, Analytic Methods, and Variables Used
+
+
+
+     Data                                                        displaced students and that occur at the same time as
+     The data for this study come from CPS student the school closings, the estimated effects might be the
+     administrative data detailing enrollment information, combination of both occurrences. To strengthen our
+     test scores, and high school transcript information research design, we incorporate a comparison group of
+     for students enrolled in CPS. These data have been students for whom we have data as well longitudinal
+     collected since the early 1990s. The data on student data on different outcomes. If we can show that this
+     achievement are based on the Iowa Tests of Basic Skills comparison group is equivalent to the students affected
+     (ITBS), which students from third through eighth grade by school closings prior to the closing, then the differ-
+     had been required to take every spring. CPS stopped ences observed after closings are likely attributable to
+     administering this test after the spring of 2005.           the school closings.
+         Three additional sources of data were employed for         Since our research question focuses on what would
+     school level information. The first comes from the an- have happened to displaced students had their schools
+     nual State Report Cards. This report card is created for remained open, the comparison group of students is
+     each school and includes such school level indicators based on students attending similar schools because
+     as attendance. Data on design capacity for each school their learning trajectories, in the absence of school
+     come from the Department of School Demographics closings, should be similar. We use propensity score
+     and Planning at CPS. We also rely on survey data matching and select schools that look similar to clos-
+     collected biannually by the Consortium on Chicago ing schools based on the variables related to capacity
+     School Research. The survey is administered to stu- utilization and performance of the school. The variables
+     dents in sixth through twelfth grade, all teachers, and are listed in Table 5.
+     all principals. The responses to the surveys allow us to       We picked matching schools from the estimation of
+     gauge different areas of schools’ climate.                  two different models. One estimated the probability
+                                                                 of closing for low performance. This model only used
+                                                                 schools that were on probation. The second model es-
+     Analytic Methods                                            timated the probability of closing for low enrollment.
+     The decision to close a school is not random; rather, it This model only included schools that had 65 percent
+     is based on different school indicators. In order to assess or lower capacity utilization. Decisions on closing
+     the effects of school closings on students, we exploit schools are made in the middle of an academic year.
+     the fact that we have several observations for students Therefore, CPS leaders make decisions with data avail-
+     prior to the intervention and several observations after able at that point, which is the data from the previous
+     the intervention. For example, we can use longitudinal year. For example, decisions made in 2005–06 were
+     data to estimate the learning trajectory of students in based on data from the academic year 2004–05. For
+     reading and math and determine whether the learn- that reason, the probability of being closed on a par-
+     ing trajectory deviates from the expected one after the ticular year is modeled as a function of variables from
+     intervention. If there are other factors that affect the the prior year.
+
+
+32     When Schools Close
+   For each closed school, we selected a matching                          The 18 closing schools in our sample enrolled 5,445
+school with a similar probability of closing and similar                students just before they closed. There were 6,534
+student racial composition as well as grade structure.                  students enrolled in the matching schools. To study
+We picked one matching school for each closing school.                  the effects of school closings on achievement and other
+Table 5 contains information on school level indicators                 outcomes, we restrict our sample to students eight years
+for the closing schools and the matching schools for                    and older since they are supposed to take the annual
+the year before closing. Table 5 shows that closing                     ITBS test. Of the students enrolled in the closing
+schools and matching schools are very similar in all                    schools, 3,777 students were in that group compared
+of the indicators.                                                      to 4,683 students in the matching schools.
+Table 5
+School indicators for the year prior to closing and differences with matching schools
+
+
+                                                                             Closed           Matching        Difference with
+                                                                             Schools          Schools        Comparison Group
+                                                                                                                 (p-values)
+
+ Percent Capacity Utilization                                                 32.9%             36.8%           3.9% (0.32)
+ Percent Students from Attendance Area                                        48.3%             48.5%           0.2% (0.98)
+ Percent of Students at or above Norms in ITBS Reading                        20.8%             21.1%           0.3% (0.88)
+ 4-year Average Percent of Students at or above Norms in ITBS Reading         21.0%             22.1%           1.1% (0.50)
+ Percent of Students Meeting or Exceeding Standards ISAT Composite            21.0%             22.9%           1.9% (0.34)
+ 4-year Average Percent of Students Meeting or                                19.9%             22.0%           2.1% (0.24)
+ Exceeding Standards ISAT Composite
+ Average Annual Student Gain in ITBS Reading                                   0.78             0.80             0.02 (0.76)
+ 4-year Average Annual Student Gain in ITBS Reading                            0.95             0.93            -0.02 (0.68)
+ Percent of Students Making Negative Gains in ITBS Reading                    29.8%             29.9%           0.1% (0.97)
+ Mobility Rate                                                                35.9%             34.5%           -1.4% (0.72)
+ Attendance Rate                                                              91.0%             91.2%           0.2% (0.64)
+ Truancy Rate                                                                  4.9%             9.1%            4.2% (0.12)
+ Percent Low Income                                                           96.5%             95.1%           -1.4% (0.45)
+Note: Significant differences would have p-values less than 0.05
+
+
+
+
+                                                                                                                 Appendix B        33
+     Analysis of Achievement Data                                     The true ability of the student is modeled as a
+                                                                  function of age and age squared to allow for non-
+     We estimate the learning trajectories for reading and
+                                                                  linear learning trajectories. Age takes a value of 0
+     math using a three-level hierarchical model: the first
+                                                                  when the age is eight, 1 when the age is nine, and
+     level is a measurement model that adjusts for the reli-
+                                                                  so on. Therefore, the intercept represents the true
+     ability of the standardized test scores, the second level
+                                                                  ability of the student at age eight. The other variables
+     is repeated observations for students, and the third level
+                                                                  are dummy variables that indicate the timing of the
+     represents students. Our achievement measure is based
+                                                                  announcement of a closing, the year after a closing,
+     on Rasch scores from the ITBS data.53 In particular,
+                                                                  and two and three years later for students affected by
+     the model is:
+                                                                  a closing. The estimates for these variables represent
+     Level 1                                                      deviations from the learning trajectory of displaced
+                                                                  students in the year the closing was announced and
+     Achievementjk = pjk 1 + ejk ,
+                                                                  the year after the school closed.
+            sjk 		           sjk                                     Since the first closing in our sample is at the end of
+     where ejk ~ N(0,1), sjk ,                                    the academic year 2000–01 and ITBS was administered
+                                                                  last in the spring of 2005, we have enough observations
+     is the standard error estimated from the Rasch analysis to estimate only up to three years of effects. Effects after
+     for student k at age j and pjk is the student’s true ability two and three years are estimated by limiting the sample
+     at age j, adjusted for measurement error.                    to students to those with three years worth of data after
+                                                                  closing. These long-run effect estimates are based mainly
+      Level 2                                                     on displaced students whose schools closed towards the
+     pjk = b0k + b1k (Age)jk + b2k (Age Squared) jk +             beginning of our sample. Only students whose schools
+                                                                  closed in 2000–01 and 2001–02 and who were in fifth
+     b3k (Year Announcement Closing) jk +
+                                                                  grade or lower have enough data points for the three-
+     b4k (Year One After Closing) jk +                            year mark. Also, students affected by closings in 2005
+     b5k (Year Two After Closing) jk +                            and 2006 helped with the estimation of the learning
+     b6k (Year Three After Closing) jk + rjk                      trajectory pre-closing but not post-closing.
+
+     Level 3
+
+     b0k = g00 + g01 (Cohort 97) k + . . . + g09 (Cohort 05) k + g010 (Age 9 Risk Closing) k + . . . +
+           g015 (Age more 13 Risk Closing) k + g016 (Social Status) k + g017 (Concentration Poverty) k +
+           g018 (Female) k + g019 (Special Education at Age 8) k + g020 (Closing) k + u0k
+     b1k = g10 + g11 (Cohort 97) k + . . . + g17 (Cohort 03) k + g18 (Age 9 Risk Closing) k + . . . +
+           g113 (Age more 13 Risk Closing) k + g114 (Social Status) k + g115 (Concentration Poverty) k +
+           g116 (Female) k + g117 (Special Education at Age 8) k + g118 (Special Education at Age 8) k + u1k
+     b2k = g20 + u2k
+     bnk = gn0 for the rest of the variables.
+
+
+
+
+34     When Schools Close
+   The initial ability at age eight and the growth are         follows: b4k = g40 + g41 (School Characteristic), allowing
+modeled as a function of the cohort and other char-            the effect year one after the closing to be a function of
+acteristics of the students (e.g., gender, social status,      different school characteristics.
+poverty) and whether students were receiving special
+education services at the age of eight. The intercept,         Analysis of Other Outcomes
+slope, and curvature in the model are allowed to vary          We also were interested in studying the effects of school
+by student as indicated by the random components.              closings on such outcomes as attendance to summer
+This allows us to estimate a different growth trajectory       school, retention, referral to special education services,
+for each student.                                              and mobility. The explanatory variables in these models
+   We also include a few dummy variables to indicate           were a set of student characteristics (e.g., gender, SES,
+the age at which students faced the risk of closings.          whether students are old for their grade, dummies for
+Students are compared to other students who face the           the cohort, age at risk of facing closings) and a series of
+risk of closings at the same age (a description of all these   dummies for years prior to closings and years after clos-
+variables can be found after the description of the ana-       ings. There are several observations in these analyses for
+lytical models). In modeling the intercept, we include         each student. However, there is not enough variation
+a dummy variable indicating which students were af-            at the student level to take into account the clustering
+fected by closings to test whether the comparison group        of the data. Since all of these outcomes are variables
+of students is similar to the group of displaced students.     that take values of 0 or 1, the models were estimated
+These estimates are not statistically different from zero      using a logistic model.
+in our models, showing that the comparison group of               The last outcome we studied was a measure of high
+students was similar to the students affected by school        school performance. Although most students had not
+closings in the years prior to the closing.                    reached the point where we could see whether they
+   In addition, we estimated different variations of           graduated, a good number of them reached high school.
+the model by including time varying variables such as          Therefore, we compared the on-track to graduate
+retention. The estimates of the school closing effects         indicator in the freshmen year for displaced students
+were very consistent in each of our model variations.          and students who attended schools that were similar to
+   To investigate whether there was variation in students’     those that were closing. For this analysis, we only had
+achievement a year after they moved from their closing         one observation per student so we cannot compare how
+schools based on characteristics of the receiving schools,     students did before and after the closing. Therefore, we
+the Level 3 equation for the coefficient representing          rely only on the comparison of the displaced students
+the effect of one year after the closing was modified as       to the comparison group.
+
+
+
+
+                                                                                                          Appendix B         35
+     Description of the Variables Used in the Analyses
+     Age                        Based on the students’ birth date, we calculate the age of the student on September 1 each year. We
+                                then rescale it to 0 for students whose age is eight years old, 1 for nine years old, etc.
+     Year that the Closing      Coded 1 for observations during the announcement year and only for students affected by school
+     Was Announced              closings; 0 otherwise.
+     Year One                   Coded 1 for observations one year after the closing took place and only for students affected by
+     after the Closing          school closings; 0 otherwise.
+     Year Two                   Coded 1 for observations two years after the closing took place and only for students affected by
+     after the Closing          school closings; 0 otherwise.
+     Year Three                 Coded 1 for observations three years after the closing took place and only for students affected by
+     after the Closing          school closings; 0 otherwise.
+     Cohort97—Cohort05          These are a series of dummy variables reflecting the cohorts of third-grade students in the analyses.
+                                For example, cohort97 is coded as 1 if a student was in third grade in the academic year 1996–97;
+                                0 otherwise.
+     Age 9 Risk Closing—        These are a series of dummy variables reflecting the age of the students when they face the possibility
+     Age More 13 Risk Closing   of a closing. For example, age 9 risk closing is coded as 1 if a student was nine years old when he/
+                                she faced his/her school closing, or for students in the comparison group when their school was in
+                                similar circumstances even though the school was not closed; 0 otherwise.
+     Social Status              This variable is based on 2000 U.S. Census data on the block group in which students live. It
+                                contains two indicators: the log of the percentage of employed persons 16 years old or older who
+                                are managers or executives and the mean level of education among people 18 years old or older.
+     Concentration              This variable is based on 2000 U.S. Census data on the block group in which students live. It contains
+     of Poverty                 two reverse-coded indicators: the log of the percentage of male residents over age 18 employed one or
+                                more weeks during the year and the log of the percentage of families above the poverty line.
+     Gender                     Coded 1 for female students; 0 for male students.
+     Special Education          Coded 1 for students who are receiving special education services; 0 otherwise.
+     Closing                    Coded 1 for students affected by school closings; 0 otherwise.
+     School Characteristics     There were several school characteristics that we explored in our analyses. They were:
+                                School Average Achievement Level. We calculated the percent of students at or above norms on ITBS
+                                reading and then assigned a percentile to each school based on the distribution of CPS schools.
+                                Teacher Personal Attention. It measures the degree to which students perceive that their teachers
+                                give individual attention to and are concerned about their students. Students were asked the extent
+                                to which they would agree (strongly disagree to strongly agree) that their teacher: (1) notices if
+                                I have trouble learning something; (2) really listens to what I have to say; (3) believes I can do
+                                well in school; (4) is willing to give extra help on schoolwork if I need it; and (5) helps me catch
+                                up if am behind. The measure is constructed using Rasch rating scale analysis and represents the
+                                average of students’ reports in the school. For our analysis, the school averages are standardized to
+                                have mean 0 and standard deviation equal to 1.
+                                Student-Teacher Trust. It measures students’ perceptions about the quality of their relationships
+                                with teachers. Students were asked the extent to which they would agree (strongly disagree to
+                                strongly agree) that: (1) my teachers really care about me; (2) my teachers always keep their
+                                promises; (3) my teachers always try to be fair; (4) I feel safe and comfortable with my teacher at
+                                this school; (5) when my teacher tells me not to do something, I know he/she has a good reason;
+                                and (6) my teachers treat me with respect. The measure is constructed using Rasch rating scale
+                                analysis and represents the average of students’ reports in the school. For our analysis, the school
+                                averages are standardized to have mean 0 and standard deviation equal to 1.
+
+
+36     When Schools Close
+Appendix A   37
+38   When Schools Close
+                                                                                                                                        2
+Endnotes
+
+
+Executive Summary                                                       20 The open enrollment policy establishes that students can submit
+1 Chicago Public Schools (January 16, 2009).                               applications to any CPS neighborhood school with open seats.
+2 Chicago Public Schools (January 16, 2009).                               In addition, students can apply to magnet and charter schools.
+3 We limit the sample to schools closed between 2001 and                21 Duffrin (2006).
+  2006 due to a change in the standardized tests in 2006.               22 In 2006, CPS specified new supports to help receiving schools
+4 Summer Bridge is a mandatory summer program for students in              and displaced students during the transition period. See Duffrin
+  third, sixth, and eighth grades who do not meet the promotion            (2006).
+  criteria in the spring. Students who are successful at the end of
+  the program are promoted to the next grade, while the rest are        Chapter 2
+  retained.                                                             23 Duffrin (2006).
+5 Measures of the quality of student-teacher interaction come from      24 Hanushek, Kain, and Rivkin (2004).
+  surveys conducted by CCSR every other year. Questions measure         25 Of the 13 elementary schools closed for underutilization, two
+  the degree to which students perceive that their teachers give them      were consolidated with nearby schools: Woodson North was
+  individual attention and measure students’ perceptions of the qual-      consolidated with Woodson South, and Doolittle West was
+  ity of their relationships with their teachers.                          consolidated with Doolittle Middle. In these two cases, nearly
+                                                                           all the teachers and students from the closing school transferred to
+Introduction                                                               the nearby consolidated school. Because these students transferred
+6 CPS budget documents state that some of the savings come from            with all their teachers and classmates, their experience is likely to
+   closings schools that were under-enrolled (Chicago Public Schools,      be very different from what other students experienced when their
+   2008).                                                                  schools were closed. As a result, they are not included in this study.
+7 Rumberger (2003).                                                     		 Another school, Truth, only served primary grades; since
+8 Pribesh and Downy (1999).                                                standardized testing starts in third grade, we do not have
+9 Rumberger et al. (1999).                                                 information on these students’ achievement prior to their school
+10 Lipman and Person (2007).                                               closing. As a result, these students are not included in the study.
+11 Hanushek, Kain, and Rivkin (2004).                                   		 Finally, Arai was a middle school that was phased out
+                                                                           grade-by-grade, which eliminated the need for these students to
+                                                                           transfer out. Therefore, these students are not part of this study.
+Chapter 1                                                               26 The announcement of school closings might have increased
+12 Visit http://policy.cps.k12.il.us/documents/410.4.pdf for the full      the rate at which students left the schools before the end of the
+   policy document on school closings.                                     academic year. Our data do not allow us to determine either
+13 Goerge et al. (2007).                                                   when exactly a student leaves school (whether it is before or
+14 In 2000 the CHA launched its Plan for Transformation, which             after the announcement) or whether the move was due to the
+   called for the demolition and redevelopment of many of its public       school closing.
+   housing projects and the rehabilitation of other public housing      27 The Department of School Demographics and Planning at CPS
+   units. Although public housing buildings had been demolished in         provided the capacity numbers for each school. We calculated the
+   the past, the plan’s scale was much larger.                             percent capacity utilization by dividing the number of students
+15 Visit the website of the Neighborhood Capital Budget Group and          enrolled in schools by the capacity of the school.
+   click on “Underutilization.”                                         28 Of the 5,445 students enrolled in these 18 schools, 110 were
+16 It is possible that because neighborhoods had fewer school-aged         affected by elementary school closings two times.
+   children and because the schools’ enrollment started to decline,     29 Our data allow us to calculate the distance from the residences
+   these schools were receiving students from overcrowded schools.         of the students to their schools. This distance is calculated as a
+17 Sadovi (2007).                                                          straight line from one point (the home address of the student)
+18 CBS (2009).                                                             to another (the address of the school).
+19 Caputo (2009).
+
+
+
+
+consortium on chicago school research at the university of chicago			                                                                               39
+     Chapter 3                                                                     Interpretative Summary
+     30 Anderson (2006).                                                           43 In 2007, CPS modified the school closing policy so that schools
+     31 Displaced students’ reading achievement was about three-quarters              could not be closed if there were no higher performing schools
+        of a month behind the expected level; however, this difference is             nearby.
+        not statistically significant using the standard criteria for evaluating
+
+     Endnotes
+        significance.
+     32 The long-term effects are estimated only with data from students
+        for whom we had three years worth of data after school closings.
+                                                                                   Appendix A
+                                                                                   44 A professional development school is a site for the training of
+        Students with three years worth of data are those affected by                 future teachers.
+        closings in early grades and also those affected by the early school       45 Closed at the end of 2005–06.
+        closings since ITBS was administered last in the spring of 2005.           46 Contract schools are schools operated by an independent
+        The one-year effect is estimated with all students eight years                non-profit organization. These schools have an advisory body
+        and older.                                                                    comprised of staff, parents, and community members.
+     33 Although the effect on reading achievement is similar in size to the       47 Closed at the end of 2006–07.
+        one that students experienced during the announcement year, the            48 Small school-CHSRI is a high school created as part of the
+        smaller sample that we use to estimate long-term effects of school            Chicago High School Redesign Initiative, which aimed to open
+        closings limits our ability to conclude that the effect is statistically      close to two dozen small high schools in Chicago.
+        significant.                                                               49 Charter schools are public schools operated by independent
+     34 We do not imply that all the differences we see between displaced             non-profit organizations. They are not subject to the same
+        students’ achievement and similar students’ achievement are due to            policies and laws as traditional public schools.
+        the schools they attended. Even though we matched students based           50 Performance schools are schools operated by CPS. Their staff is
+        on all the student characteristics we had available to us, we did not         part of CPS, and they have a Local School Council. They have
+        match them based on their ability. Much of the differences might              more flexibility in their curriculum, school schedule, and budget
+        be due to differences in ability prior to entering school.                    than traditional CPS schools.
+     35 Duffrin (2006).                                                            51 After a move to another location at the end of the 2004–05
+     36 Some students changed schools to attend schools that had                      academic year, this school was no longer part of CHSRI.
+        reopened in the buildings formerly occupied by a school that               52 The three remaining schools were closed at the end of 2007–08.
+        had been closed. But differences in student mobility remained                 A new school (Orr Academy High School) opened in the fall of
+        significant, even after taking this into account.                             2008. Orr Academy is a performance school.
+     37 Roderick, Engel, and Nagaoka (2003).
+     38 This analysis is based on students who had reached ninth grade             Appendix B
+        by the fall of 2007 or earlier. Twenty-five percent of the displaced       53 CCSR converted ITBS scores into a logit metric using Rasch
+        students were still in elementary schools in 2007, while 63 percent           models. Rasch scores can be compared easily across time,
+        had reached ninth grade.                                                      different test forms, and levels. Because the metric is not easily
+     39 Students who are on-track to graduate receive at least five course            interpretable, we translated all our results into months of learning.
+        credits and no more than one F during their freshmen year, and
+        they are four times more likely to graduate in four years than
+        students who are off-track to graduate. See Allensworth and
+        Easton (2005).
+     40 Visit http://ccsr.uchicago.edu/content/page.php?cat=4 for more
+        information about CCSR surveys.
+     41 Almost 40 percent of displaced students attended receiving
+        schools with high levels of teacher personal attention, with 15
+        percent of students attending schools with low levels of teacher
+        personal attention.
+     42 Only 2 percent of displaced students attended receiving schools
+        with low levels of student-teacher trust. Twenty percent of the
+        displaced students attended the strongest schools in terms of
+        student-teacher trust.
+
+
+
+
+40      When Schools Close
+Endnotes   61
+About the Authors
+
+                    Marisa de la Torre
+                    Marisa de la Torre is a Senior Research Analyst at the Consortium on Chicago School Research.
+                    Before joining the Consortium, she worked for the Chicago Public Schools at the Office of Research,
+                    Evaluation, and Accountability. Her previous research focused on the Chicago High School Redesign
+                    Initiative and student mobility. She received a master’s degree in economics from Northwestern
+                    University.
+
+                    Julia Gwynne
+                    Julia Gwynne is a Senior Research Analyst at the Consortium on Chicago School Research. Her
+                    research interests include student mobility, curriculum policies, and special education. She received a
+                    PhD in sociology from the University of Chicago.
+
+                    This report reflects the interpretation of the authors. Although the CCSR’s Steering Committee provided
+                    technical advice and reviewed earlier versions, no formal endorsement by these individuals or organizations, should
+                    be assumed.
+
+
+
+
+                    This report was produced by the Consortium’s publications and communications staff: Claire Durwood;
+                    Chris Mazzeo, associate director for policy and outreach; and Emily Krone, senior manager for outreach and publications.
+
+                    Editing by Ann Lindner
+                    Graphic Design by Jeff Hall Design
+                    Photos by Carey Primeau, David Schalliol, and David N. Marque
+
+
+
+
+                    10-09/1M/jhdesign
+                                                                                                                       2
+Consortium on Chicago School Research
+
+
+Directors                       Steering Committee
+Penny Bender Sebring            Arie J. van der Ploeg, Co-Chair   Cornelia Grumman             Ruanda Garth McCullough
+Interim Co-Executive Director   Learning Point Associates         Ounce of Prevention          Loyola University
+Founding Co-Director
+                                Steve Zemelman, Co-Chair          Timothy Knowles              Gregory Michie
+Consortium on Chicago
+                                Illinois Network of               Urban Education Institute    Illinois State University
+School Research
+                                Charter Schools
+                                                                  Janet Knupp                  Brian Spittle
+Elaine M. Allensworth
+                                                                  Chicago Public               DePaul University
+Interim Co-Executive Director
+                                Institutional Members             Education Fund
+                                                                                               Matthew Stagner
+Consortium on Chicago
+School Research                 Barbara J. Eason-Watkins          Sarah Kremsner               Chapin Hall Center
+                                Chicago Public Schools            Chicago Public Schools       for Children
+Melissa Roderick
+Hermon Dunlap Smith             Steve L. Washington               Dennis Lacewell              Amy Treadwell
+Professor                       Chicago Board of Education        Urban Prep Charter Academy   Chicago New Teacher Center
+School of Social Service        Marilyn Stewart                   for Young Men
+                                                                                               Josie Yanguas
+Administration                  Chicago Teachers Union            Lila Leff                    Illinois Resource Center
+University of Chicago                                             Umoja Student Development
+                                                                                               Kim Zalent
+                                                                  Corporation
+                                Individual Members                                             Business and Professional
+                                Veronica Anderson                 Peter Martinez               People for the Public Interest
+                                Stanford University               University of Illinois
+                                                                                               Martha Zurita
+                                                                  at Chicago
+                                Carolyn Epps                                                   Youth Connection
+                                Chicago Public Schools                                         Charter School
+
+
+
+
+Our Mission
+
+
+T     he Consortium on Chicago School Research (CCSR) at the University of Chicago Urban Education
+      Institute conducts research of high technical quality that can inform and assess policy and practice
+in the Chicago Public Schools. We seek to expand communication among researchers, policy makers, and
+practitioners as we support the search for solutions to the problems of school reform. CCSR encourages the
+use of research in policy action and improvement of practice, but does not argue for particular policies or
+programs. Rather, we help to build capacity for school reform by identifying what matters for student success
+and school improvement, creating critical indicators to chart progress, and conducting theory-driven evaluation
+to identify how programs and policies are working.
+
+
+consortium on chicago school research at the university of chicago			                                                           43
+       CONSORTIUM ON
+       CHICAGO SCHOOL RESEARCH
+       AT THE UNIVERSITY OF CHICAGO
+       URBAN EDUCATION INSTITUTE
+
+ccsr
+
+
+
+
+       ccsr.uchicago.edu   1313 East 60th Street   Chicago, Illinois 60637     T 773-702-3364   F 773-702-2010
+
+
+
+
+                                                                             ISBN 978-0-9814604-8-2
+                                                                                                   52000 >
+
+
+
+
+                                                                              9 780981 460482
+

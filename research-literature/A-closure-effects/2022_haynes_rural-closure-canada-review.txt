@@ -1,0 +1,864 @@
+The Rural Educator
+
+Volume 43       Number 2                                                                                   Article 5
+
+
+5-20-2022
+
+The impacts of school closure on rural communities in Canada: A
+review
+Michael Haynes
+University of Toronto, mike.haynes@mail.utoronto.ca
+
+
+
+
+Follow this and additional works at: https://scholarsjunction.msstate.edu/ruraleducator
+
+    Part of the Education Commons
+
+
+Recommended Citation
+Haynes, M. (2022). The impacts of school closure on rural communities in Canada: A review. The Rural
+Educator, 43(2), 60-74. DOI: https://doi.org/10.55533/2643-9662.1321
+
+
+This Review of Research is brought to you for free and open access by Scholars Junction. It has been accepted for
+inclusion in The Rural Educator by an authorized editor of Scholars Junction. For more information, please contact
+scholcomm@msstate.libanswers.com.
+                                                   Review of Research
+            The Impacts of School Closure on Rural Communities in Canada:
+                                       A Review
+                                                  Michael Haynes
+In rural Canada the issue of school closures and consolidations due to low enrollment and heightened fiscal
+constraints has become a contentious and highly charged issue for citizens and communities. This literature review
+synthesizes the major effects of school closure on rural communities, identifying economic impacts, social impacts,
+and implications for students. The historical context of Canadian rural schools, notions of rurality, urbanormativity
+and local complexity, along with considerations of urban-centred educational policy, are overarching themes
+identified in the rural school literature. These concepts were found to subsequently perpetuate the economic, social,
+and student-centred impacts reported. A relative dearth of research focusing on the community-level impacts of
+rural school closure, particularly in the Canadian context, supports the need for further in-depth studies that
+address gaps in the literature. These findings could in turn be used in the development of future educational policy
+which acknowledges rurality for rural Canadian communities.
+
+     Despite widespread urbanization in Canada, rural          the nation (Bennett, 2013). This review of the
+areas represent a significant proportion of Canadian           literature investigates the impacts that school closures
+society. The 2016 Canadian Census reported that                have on rural communities and synthesizes the
+29% of Canadians, approximately 10.6 million                   understanding of the implications and challenges
+people, live outside of large- or medium-sized cities          associated with this issue. The inextricable link
+(Statistics Canada, 2016). Statistics Canada (2016)            between rural schools and their local communities is
+defines a rural area as being located outside of               a defining feature that is examined through the lens
+population centres and includes small towns, villages          of closure, consolidation and amalgamation. The
+and other populated places with less than 1,000                body of literature examining disparate impacts of
+people (see Table 1). In 2017, 30% of Canadian                 school closure on rural communities in Canada was
+students aged 6-18 lived in rural areas (Looker &              analyzed and synthesized in an effort to organize
+Bollman, 2020). This equates to over 1.5 million               existing knowledge in the field. The research
+students attending rural Canadian schools (Looker &            question employed in conducting this review was:
+Bollman, 2020). Data from Statistics Canada                    How are rural communities in Canada impacted
+estimates that 25% of the nation’s schools are located         when they lose their schools through closure,
+in rural areas (Ertl & Plante, 2004). This translates to       consolidation or amalgamation?
+approximately 3,600 of Canada’s 14,600 elementary
+and secondary schools being considered rural                                          Methods
+(Council of Ministers of Education Canada, 2020).                   Peer-reviewed sources of literature including
+     In rural areas the school fulfills a unique role; it      primary research and review articles published in
+is the heart of the community (Oncescu, 2014). Rural           academic journals are drawn upon in this review
+schools shape local identity, are a source of pride and        (Table 2). Additionally, books and edited volumes
+are central in community activities, performing a              were consulted. Educational policy documents
+variety of functions (Lyson, 2002). They provide               relating to school closure have also been analyzed in
+education, are social and cultural centres and hubs for        an effort to contextualize the realities facing rural
+sports, theatre, music and other community events              schools and the communities served. Some grey
+(Oncescu & Giles, 2014). The closure, consolidation            literature including newspaper articles and reports
+or amalgamation of a local school can be one of the            prepared and funded by community advocates have
+most unsettling and destabilizing experiences that a           been consulted to a lesser extent and applied in order
+rural community encounters (Irwin et al., 2017).               to accurately capture the visceral reactions to school
+     In a time of equity-focused education in Canada,          closure announcements and the social implications
+urban-centred operational policies enacted by                  thrust upon rural communities that have lost a school.
+provincial ministries of education and school districts             One of the challenges encountered in conducting
+may be producing inequities in some rural areas of             this literature review has been locating research that
+
+
+    Vol. 43, No. 2          The Rural Educator, journal of the National Rural Education Association                 60
+Table 1
+Statistics Canada (2016) Population Centre & Rural Area classifications and corresponding population thresholds.
+ Population Centre Classification                     Threshold Population Size
+ Rural Area                                                      < 1,000
+ Small Population Centre                                    1,000 – 29,999
+ Medium Population Centre                                  30,000 – 99,999
+ Large Urban Population Centre                                 ≥ 100,000
+deals explicitly with rural school closures; especially      research needs and directions in Canadian settings.
+in the Canadian context (Table 2). While there are           Despite these challenges, this review allows for the
+well-developed bodies of literature dealing with rural       development and construction of new knowledge
+education and rural sociology, the intersection of the       about the vital relationship that exists between a
+two appears to be less frequently studied in its own         school and rural community.
+right and even less so in Canadian rural communities.               To locate peer-reviewed research, the ERIC
+Furthermore, there is a relative dearth of empirical         database was used. To further expand the breadth of
+research which identifies causal links between school        the ERIC search, other ProQuest databases were
+closures and impacts on rural communities in Canada          searched simultaneously using the ‘change database’
+(Gamson, 2019; Irwin et al., 2017). There is also a          function; Canadian Business and Current Affairs,
+noticeable lack of other types of in-depth research in       Canadian Research Index and ProQuest Dissertations
+the Canadian rural school closure literature such as         were included in the search. Finally, the Education
+studies which focus on oral histories and community          Source, PsychINFO and Web of Science (Social
+narratives which document the impacts and                    Sciences Citation Index) databases were used, again
+consequences of rural school closure and                     with similar search terms. In each of the major
+consolidation (Bennett, 2013; Corbett & Tinkham,             database searches, multiple strings of search terms
+2014). Literature focusing broadly on school closures        and combinations were employed and repeated as
+is used to identify impacts that were found to exist in      necessary. Examples include [rural school*, rural
+an urban or suburban context (e.g., Basu, 2004a;             educat*, school closure*, school consolidation*,
+Basu 2004b; Basu 2007; Bishop, 1979; Doern &                 school* communit* relation*, value of school* to
+Prince, 1989; Fredua-Kwarteng, 2005; Irwin &                 communit*]. Multiple Boolean combinations were
+Seasons, 2012; Leach et al., 2010; Stout et al., 1994).      searched along with successive lines of related terms
+Additionally, the body of research on rural education        as listed above. The publication year range options
+is dominated by American studies, although some              were not manipulated with the aim of including both
+Canadian communities have been studied (e.g.,                seminal works and recent research studies.
+Bennett, 2013; Cristall et al., 2020; Oncescu, 2014).        Additionally, in an attempt to locate articles with
+While the location in which research is conducted            greater specificity to the research topic, three journals
+may present contextual variations, overarching               focusing specifically on rural education – Journal of
+themes inherent in the findings are useful for the           Research in Rural Education, The Rural Educator,
+purposes of this review and in identifying future            and Australian and International Journal of Rural
+
+Table 2
+Summary table of resources (overall and Canadian) cited by type and number cited.
+ Resource Type                        # of Canadian Sources Cited     Total Number Cited
+ Journal Articles                                 22                              44
+ Books                                             7                              8
+ Edited Volumes                                    5                              8
+ Newspaper Articles                                2                              2
+ Conference Presentation Excerpts                  1                              3
+ Professional Reports                              5                              6
+ Professional Periodicals                          7                              7
+ Policy Documents                                  2                              2
+ Literature Reviews                                2                              2
+ Master’s or Doctoral Theses                       1                              1
+
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                 61
+Education were searched using the index function on           United States, Australia, New Zealand, Europe and
+the individual journal websites. The same technique           the United Kingdom were included in the search
+was used to scan the contents of the Journal of Rural         process in the absence of Canadian research on the
+Studies and Rural Sociology to identify relevant              basis of having similar, Western-oriented
+studies pertaining to education. Another technique            interpretations of community, rural sociology and
+employed in locating articles was ‘forward and                organization of schools and school systems,
+backward reference chasing’. Studies that were                maintaining pertinence to the Canadian context. The
+located using the initial search techniques described         need to examine studies outside of Canada illustrates
+above, and found to be applicable, had their                  the large gap in knowledge that must be addressed to
+references carefully examined for more potentially            fully understand the impacts of closing rural schools
+relevant literature. These articles were ‘backward            in Canadian communities.
+chased’ so that abstracts and full texts could be
+scanned for applicability to the research topic.                                   Discussion
+‘Forward reference chasing’ was also conducted in                  Rural education scholars have asserted that
+order to locate sources which had subsequently cited          schools are the heart of the rural communities they
+articles found pertinent to the research topic in             serve (Lyson, 2002; Oncescu 2014). As such, they
+previous searches. Similar search techniques as               are intrinsically and inextricably embedded in the
+described above were employed in order to locate              social fabric of the community (Bennett, 2013;
+relevant books and edited volumes. Authors of                 Oncescu, 2014). The impacts of school closures and
+pertinent peer-reviewed articles were searched by             consolidations on rural communities identified in the
+name in order to locate books in corresponding                peer-reviewed literature can be categorized as
+bodies of literature. This search technique found             economic impacts (e.g. Duncombe & Yinger, 2007;
+edited volumes that had relevant chapter                      Lyson, 2002; Sederberg, 1987; Sell et al., 1996;
+contributions by the same authors.                            Sipple et al., 2019), social impacts (e.g. Bennett,
+     A large proportion of the material found in the          2013; Corbett & Helmer, 2017; Lucas, 1982;
+search process, upon closer examination, was related          Oncescu, 2014; Oncescu & Giles, 2012) and
+to rural education and rural schools, but not                 implications for students (e.g. Bennett, 2013; Borst,
+necessarily the nature of their relationship to the           2005; Cristall et al., 2020; Smitheram, 1982;
+community or the impact that school closure may               Thompson, 1982) which will each be explored in this
+have on communities. The literature search process            review. The connection between the vitality and
+was iteratively refined in an effort to limit sources to      viability of rural communities and the presence of a
+only those related to the impacts of school closure,          school are well documented in the scholarly literature
+the historical context of school consolidations in            (Irwin et al., 2017).
+Canada, educational policy as it relates to rural                  The relationship between school, community and
+schools and closure decisions, and the notions of             the associated social, economic and student impacts
+rurality, urbanormativity and local complexity with           appear to be influenced by several overarching
+respect to diversity, social justice and rural schools.       considerations that extend beyond the physical
+In an effort to write a comprehensive and informative         boundaries of the community. The notion that rural
+review, the scope of the search was expanded to               schools are in need of improvement and
+include literature on the impacts of school closures          modernization in an effort to become more ‘urban’ is
+generally (i.e., in urban areas) and the impacts that         pervasive in educational policy relating to
+closure has directly on rural students. These areas           accommodation provision and closure and
+were included in order to provide deeper insight and          consolidation decisions for rural schools (Corbett,
+context to the intended focus on the school-rural             2014a). The concept of rurality as employed by
+community relationship and the community-level                Corbett (2014a) is a way of characterizing the unique
+impacts that result when a rural school is closed. A          circumstances in which rural communities exist.
+final element of the inclusion and exclusion criteria         Rurality can be viewed in a human rights and social
+employed in this review relates to the geographic             justice context as a type of diversity that is to be
+location of the research. Literature from additional          embraced and supported; not as something to be
+geographic and sociopolitical contexts outside of             improved upon in an attempt to overcome its
+Canada were consulted due to limitations on the               shortfalls (Roberts, 2006). These viewpoints coincide
+availability of Canadian research. Studies from the           with the ‘rural school problem’ identified by early
+
+
+    Vol. 43, No. 2          The Rural Educator, journal of the National Rural Education Association              62
+urban education reformers who focused on rural                (Corbett, 2014a). The concept of the ‘rural school
+education systems attaining “a kind of modernity”             problem’, developed in the early work of urban
+(Biddle & Azano, 2016, p.298). This                           education reformers, focused on the attainment of a
+urbanormativity, or the view that urban life is               ‘modernity’ for rural education systems (Blodgett,
+normalized and supercilious, while rural life is              1893; Foght, 1915).
+inferior and deviates from the norm, pervades the                  The need for rural school consolidation and
+interpretations and perceptions held about rural              reform was identified by social and educational
+communities and their schools (Corbett, 2006;                 reformers dating as far back as the turn of the
+Corbett & Helmer, 2017; Fulkerson & Thomas,                   twentieth century (Foght, 1915). Foght (1915)
+2016). In an increasingly urbanized world, society’s          asserted that rural Canadian one-room schools could
+limited experiential understanding of rural realities is      not provide students with the necessary preparation
+fading and becoming fraught with urbanormative                for a future that included “most satisfactory living”
+misunderstandings and misconceptions (Fulkerson &             (p.48) in a modern world. Throughout the first half of
+Thomas, 2016; Sim, 1993). The notion of rurality and          the twentieth century, Canadian education reformers
+the need to accurately characterize rural schools, rural      continued to identify consolidation as the most
+communities and the link between them is an                   pressing issue for rural education – “larger
+important and recurring theme found in the extant             administrative units and larger schools, they believed,
+literature. The concepts of rurality and                      would bring economies of scale, the pedagogical
+urbanormativity connect the discussions of                    benefits of a greater division of labour, and more
+educational policy and rural school history to the            varied and improved educational opportunities”
+impacts that school closures and consolidations can           (Gidney, 1999, p.13). By 1950 some progress had
+have on rural communities. There is also a pocket of          been made in the establishment of township school
+literature that identifies the benefits of consolidation      districts that absorbed numerous school sections
+and supports the closure of small rural schools. This         (Boddington, 2010). However, the lasting financial
+seems to depend on local circumstances.                       effects of the Great Depression and World War II
+Furthermore, there is another defining feature that           translated into a lack of funds for new school
+extends throughout the literature at an even finer            construction, year-round road maintenance or the
+scale. Complexity and local context is another cross-         procurement of school buses (Gidney, 1999). More
+cutting theme that negates simplistic notions of              prosperous economic times meant rural Canada
+change in cultural, social and historical                     underwent a profound reform beginning in the early
+considerations of rural areas (Corbett, 2014b; Parkins        1950s through to the 1960s when one-room
+& Reed, 2013). The layers of this complexity                  schoolhouses were closed (Boddington, 2010;
+contribute to further understanding of the connections        Gidney, 1999). Students from the countryside and
+and nuances that exist between schools and rural              rural hamlets were transported by bus to nearby
+communities and the potential impacts that occur              villages to attend new consolidated central schools
+when a school is closed.                                      (Cork, 2003). These changes in rural schooling
+                                                              represented the culmination of decades of social,
+Historical Context                                            educational, economic and political activism,
+     Rural education in Canada has been                       discussion and debate. This also represented a turning
+characterized by change and planned improvement               point for rural communities; the commencement of
+since settlers first arrived in Upper Canada in the           an almost continuous period of transformative change
+early nineteenth century (Gidney & Millar, 2012;              and the reconceptualization of social life in rural
+Smith, 2007). This characterization is a result of rural      Canada that would persist into the twenty-first
+communities and rural schools being viewed                    century (Parkins & Reed, 2013).
+historically as a peripheral concern; as entities                  Many provincial school systems in Canada
+lacking ‘modern’ and ‘urban’ improvements.                    underwent massive reforms again in the late 1990s
+(Corbett, 2006). The purpose of schooling has                 and early 2000s (Basu, 2004a; Leach et al., 2010). In
+traditionally been a normalizing force, one which             the case of Ontario, Canada for example, the
+promoted reformation and nationalization (Smith,              amalgamation of sixty-two English public school
+2007; Manzer, 2004). For rural schools in Canada,             districts into twenty-five was the first major
+the aim of education was often to modernize and               reorganization of school districts since the creation of
+improve what is rural in an attempt to ‘urbanize’             central schools in the 1960s (Basu, 2004a; Leach et
+
+
+    Vol. 43, No. 2          The Rural Educator, journal of the National Rural Education Association                63
+al., 2010). An alteration was also made to school            areas are often thought to be the origin from which
+funding models so that individual school districts           more modern, capitalist, urban societies develop
+could no longer retain property tax revenues for use         (Corbett, 2014a). In this mindset, education is
+within their own district (Griffith, 2001). Many of the      equated with modern and advanced urban
+central schools established in the 1960s are the             development while rurality is in essence viewed
+institutions that have undergone pupil                       through a lens of isolation, alterity, rusticity,
+accommodation review (PAR) processes in recent               resistance and underdevelopment (Corbett, 2014a). In
+years in an effort to further consolidate schools            some instances, rural communities and their schools
+within small, rural school districts in order to meet        may not be remote or isolated from neighbouring
+funding shortfalls (Leach et al., 2010). The proposed        towns and cities, further complicating the
+closure and consolidation of these schools generate          classification of rural areas (Greenough & Nelson,
+vocal opposition from rural community members,               2015). According to Cristall et al. (2020), “Rurality is
+which in turn garner a great deal of media attention         more than a geographic place or number of people
+(Corbett & Helmer, 2017; Golem, 2016 September               who live in a place. Rurality must also include who
+15). As Gamson (2019) asserts,                               the people are who inhabit those places; their beliefs,
+      There is surprisingly little work that focuses         their histories and their values” (p.158). It
+      directly on the nature and dynamics of the             encompasses factors such as rural influence or
+      transition from rural to urban schools that            heritage that leads people to hold a “rural mindset”
+      occurred in virtually every industrialized and         (Cristall et al., 2020, p.158). Importantly, Cristall et
+      industrializing nation during the nineteenth and       al. (2020) note that “… rural people live in urban
+      twentieth centuries and that has continued into        places, and there are even some urban people living
+      the early twenty-first. (p.3)                          in rural spaces. In other words, rurality is more about
+      This historic lack of scholarly research is            where we have come from than where we are
+noteworthy and will be discussed further with respect        currently living” (p.159).
+to educational policy that relates to closure decisions           In the second half of the twentieth century the
+in the rural context. The absence of longitudinal or         ‘rural school problem’ has shifted and according to
+other types of in-depth study (e.g. oral histories,          Biddle and Azano (2016), is now focused on
+narratives) of the impacts and broader societal              “neoliberal economic policy and the precariousness
+consequences of rural school consolidation by a              of rural economies” (p. 298). Along the same vein,
+Canadian institution or educational body is of               Wallin (2007) synthesized the policy issues found in
+concern to rural communities and should perhaps be           provincial jurisdictions across Canada relating to
+accounted for in policy creation and the decision            rural education. Wallin (2007) concluded that the
+making process enacted by school districts and               majority of policy involving rural education was
+ministries of education (Corbett & Tinkham, 2014).           framed with generic policy concerns and had little
+                                                             connection to the unique context and circumstances
+Rurality                                                     in which rural schools operate. In light of these
+     In examining the issue of rural school closures         findings, Corbett (2014a) argues that “Canadian rural
+and the subsequent impacts on rural communities, it          education policy can arguably be boiled down to
+is important that the notion of rurality be defined and      consolidation and closure of schools” (p.7). When
+positioned with respect to education, rural                  considering the contentious and heated public debates
+communities and the scholarly literature. The place of       and provincial media coverage dedicated to following
+rural schools in Canada is unique, yet often absent or       the closure proceedings of community schools in
+forgotten in the psyche of many Canadians (Sim,              rural Canada (Corbett & Helmer, 2017; Golem, 2016
+1993). As more people are born into an increasingly          September 15; Van Brenk, 2016 November 22),
+urbanized world, the understanding of rural realities        Corbett’s (2014a) assertion appears to be accurate.
+and direct experience with rural ways of life is                  Relevant to the concept of rurality is the issue of
+diminishing (Fulkerson & Thomas, 2016; Sim, 1993).           urbanormativity – “the view that urban life is normal
+As such, defining rurality is becoming increasingly          and superior, while rural life is aberrant and inferior”
+difficult and is often viewed with a deficit mentality.      (Fulkerson & Thomas, 2016, p.3). In the context of
+Most frequently, rural areas are treated as residual         characterizing and positioning rurality,
+space which cannot be classified as urban (Fulkerson         urbanormativity highlights the disconnect between
+& Thomas, 2016; Statistics Canada, 2016). Rural              policymakers and rural spaces (Sim, 1993). Irwin et
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                64
+al. (2017) posit that educational policy creation            (Barter, 2014). However, this economic approach
+occurs in impenetrable institutional silos through a         fails to recognize the central social and cultural
+predominantly urban lens. The local complexities that        context that schools hold in their communities
+impact policy enactment, implementation and                  (Barter, 2014). Furthermore, possible diseconomies
+sensemaking in diverse settings including rural              of scale that act to contradict the desired fiscal effects
+schools and communities present an opportunity for           have been identified by some researchers (Duncombe
+equity and social justice in future policy discourse         & Yinger, 2007; Bennett, 2013). Increased
+(Maguire, 2019). This includes educational policy            transportation costs associated with bussing students
+that frames closure and consolidation decision               longer distances to consolidated schools and the
+making processes. Maguire’s (2019)                           creation of larger bureaucracies requiring additional
+acknowledgement of the local complexities                    staff are found to result in elevated operating costs
+associated with policy, coincides with Corbett’s             (Corbett & Mulcahy, 2006). The closure and
+(2014a) assertion that the deficit discourse in rural        consolidation of rural schools may achieve school
+education needs to be challenged and a “more                 districts’ objectives of balancing their financial
+complex and rich spatial analysis of Canadian                statements, but at a cost to the larger economic
+educational phenomena” (p.3) be developed. Both of           system in a particular municipality (Corbett &
+these observations align with Parkins and Reed’s             Mulcahy, 2006; Sederberg, 1987). Employment
+(2013) notion that “attention to complexity and local        opportunities, stimulation of retail trade and the
+context” (p.20) is necessary when any aspect of rural        purchasing needs of large institutions like schools are
+life is being studied. This can be attributed to the         stimulants to local rural economies (Sederberg,
+unique social and cultural context that exists in rural      1987). Furthermore, the removal of students from the
+areas. As such, the notion of rurality undergirds much       community to attend a consolidated school means
+of the understanding about the vital links between           some local businesses lose a potential source of
+rural schools and communities identified in this             customers. As well, students may not be available for
+review.                                                      after-school employment due to long bus rides
+                                                             (Lauzon & Leahy, 2001). Additionally, the secondary
+Economic Impacts                                             economic effects of school operation including the
+                                                             recapture of locally collected taxes, maintenance of
+     Of the relatively limited body of Canadian rural        property values and support of local banking services
+school closure literature, the research tends to focus       collectively work to offset some of the educational
+primarily on the social impacts of closure and the           costs, although this is not reflected on school
+subsequent implications for students. Little economic        districts’ balance sheets in a direct way (Sederberg,
+or demographic research comparable to that of                1987). These examples support the need for further,
+foundational American scholars like Sederberg                more holistic economic impact assessments that take
+(1987) and Lyson (2002) has been conducted in rural          into consideration the financial affairs of school
+Canada. Given the paucity of Canadian primary                districts as well as the local economy in which they
+economic impact research, American and                       are situated.
+international studies are discussed here. These                   Lyson (2002) conducted research in rural New
+sources have been consulted on the basis of                  York State and found that the presence of schools
+conducting research in similar, Western-oriented             correlated positively with housing prices and
+contexts. Parallels can be drawn between the                 improved infrastructure such as municipal water
+interpretations of community, rural sociology and            systems. Larger rural communities with schools were
+organization of schools and school systems,                  found to rate higher on nearly every indicator of
+employed in these areas to those present in the              social and economic well-being as compared to those
+Canadian context. These studies offer insight into           villages lacking a school. Even in the smallest
+avenues of valuable research for rural Canadian              villages, schools serve as important markers of social
+communities which could drive a research agenda              and economic viability (Lyson, 2002). A decline in
+that yields more in-depth knowledge for use in policy        business and retail trade was observed with the
+decisions.                                                   closure of village schools in the research conducted
+     Closure and consolidation of schools is often           by Sell et al. (1996) in North Dakota. The impact of
+used by school districts as a primary strategy for           rural school closure on family livelihood is captured
+fiscal accountability, regardless of geographic context      when Lyson (2002) notes, “the fact that considerably
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                  65
+more individuals in villages with schools work in            other community events (Bennett, 2013; Lyson,
+those communities suggests that these places are             2002). Autonomy, vitality and unique identity are
+more economically robust than places without                 traits indicative of a community that has its own
+schools” (p. 135). The overall effects of school             school (Lyson, 2002). A publicly funded school in a
+closures on rural areas may not be immediate and             small community is often the institution with the
+may occur over the course of several years (Sell et          most far-reaching impacts on citizens’ daily lives as it
+al., 1996). Sipple et al. (2019) build upon Lyson’s          provides a source of employment, social, cultural and
+(2002) research of rural villages in New York State          recreational opportunities (Lyson, 2002).
+and investigated the rural areas surrounding villages             As institutions dedicated to youth, schools are
+in a five mile boundary. Strong support for the              vital to the future of rural Canadian communities.
+assumed vital link between schools and the economic          They provide a focal space for community activities
+vitality of surrounding rural communities was found.         and family involvement (Rural Ontario Municipal
+Significant positive correlations between proximity to       Association, 2011). In rural communities, these types
+schools and housing values, per-capita income and            of community centres are limited when compared
+household income were reported. These correlations           with most urban areas (Oncescu, 2014; Rural Ontario
+existed regardless of the effects of age-structure,          Municipal Association, 2011). Rural schools provide
+proportion of households with children, self-                their communities with a mechanism for the
+employment rates and racial-cultural statistics. Sipple      development of intangible resources such as social
+et al. (2019) note that despite the correlations             capital (Rural Ontario Municipal Association, 2011).
+observed, the causal direction of these effects remain       It would be beneficial for those charged with policy,
+uncertain. Further longitudinal or alternate forms of        funding, and decision making responsibilities to
+in-depth research such as oral histories and                 acknowledge and have an understanding of the
+community narratives are needed to determine if the          relationship between schools, rural identity, and
+presence of a school promotes enhanced community             rurality (Oncescu, 2014; Oncescu & Giles, 2014).
+vitality or if a flourishing community is what is            Oncescu (2014) found that rural schools enhance
+needed to support the presence of a school. This             both social and cultural well-being in the community.
+uncertainty is echoed by Egelund and Lausten’s               Closure of rural schools can threaten the lifestyles of
+(2006) research in Denmark which identified rural            residents and result in a reduction of civic
+school closure as a symptom of rural community               engagement, social cohesion and citizens’
+decline rather than the cause.                               involvement in community life (Oncescu, 2014; Sell
+      While the financial plight of many rural school        et al., 1996). School-community partnerships foster a
+districts is undeniable and the economic                     deep sense of belonging and pride among community
+repercussions of rural school closure and                    members and school-related activities cultivate
+consolidation is clear, the true impact of the presence      relationships between citizens that strengthen
+of a school in a rural community and its value to            community cohesion and development (Lucas, 1982;
+citizens extends far beyond economic considerations.         Oncescu, 2014). The presence of a school in a
+Lyson (2002) acknowledges the importance of                  particular rural community will act to attract and
+quantifying what a school means lies in having               retain young families, which allows that community
+policymakers, administrators and citizens understand         to stabilize its population, and in turn makes it a more
+that schools are vital to rural communities.                 desirable location for newcomers (Oncescu, 2014).
+                                                                  In research conducted in Saskatchewan, Canada,
+Social Impacts                                               Oncescu (2014) found that communities that lost a
+                                                             school underwent a significant shift in social
+     The school-community relationship in rural areas        dynamics that saw rural citizens lose their connection
+is multi-faceted and provides positive economic and          to the community. As a nexus for social interaction,
+social benefits, with schools being indicators of            the local school is a focal point for community
+community prosperity and economic well-being                 gatherings, which generates a sense of spirit among
+(Lyson, 2002; Oncescu, 2014). Schools in small               rural residents who may not otherwise have reason or
+communities fulfill a variety of functions. In addition      the impetus to interact and socialize. The school’s
+to being an educational institution, rural schools act       role as the ‘heart’ of a rural area was also found to
+as social and cultural centres, serve as hubs for            promote intergenerational support and engagement as
+sports, music and the arts and provide a venue for           an institution often attended by parents, grandparents
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                66
+and even great-grandparents (Oncescu, 2014). The             rare indeed to find empirical support or justification
+notion of the village school being a place that brings       for the large high school” (p.9). Small school
+local people together for a wide variety of common           environments, like those found in many rural areas,
+activities and creating an atmosphere of community           seem to provide more favourable academic,
+is resonated by Lucas’ (1982) work in Saskatchewan.          pedagogical, and social outcomes, which are well
+Quantifying this ‘sense of community’ is                     documented in the North American literature
+problematic. It is difficult to articulate to policy         (Gruenewald, 2003; Harris, 2014). Students are able
+makers the value a local school brings to a rural            to enter into more meaningful and productive
+community in a meaningful way that mirrors the               relationships with peers and teachers in a smaller
+quantitative, dollars-and-cents approach that is often       school environment that provides higher levels of
+used to determine school closure decisions.                  participation and engagement (Corbett, 2006;
+     Notably, parent disengagement can result                Gruenewald, 2003). Students are also more likely to
+following rural school closures (Bennett, 2013;              engage in responsible and constructive community
+Corbett & Helmer, 2017). The school closure review           action when there is a sense of belonging and
+process is often lengthy and tedious, placing the onus       community present in the school (Harris, 2014;
+on parent groups and community advocates to lobby            Lauzon & Leahy, 2001). Enhanced communication,
+school districts and ministries of education for             establishment of genuine relationships, and fewer
+preservation of their school (Corbett & Tinkham,             bureaucratic protocols all work to produce greater
+2014). The time and effort invested by families and          parent involvement in small schools (Bennett, 2013).
+communities is often in vain. The large sums of              Borst (2005) asserts that the results of the Ontario
+government money spent on the review and frequent            Secondary School Literacy Test (OSSLT)
+negative outcomes leaves parents with a distrust in          administered by the Education Quality and
+the political system and local leaders (Bennett, 2013;       Accountability Office (EQAO) show some small
+Corbett & Helmer, 2017). Further to these social             rural Ontario, Canada secondary schools with success
+costs, rural parents are less likely to engage in their      rates two and three times greater than school district
+children’s new consolidated school to the same extent        and provincial averages. This success is attributed to
+they did when the school was local (Autti & Hyry-            the close-knit and effective learning environment
+Beihammer, 2014; Corbett & Tinkham, 2014).                   found in small rural schools (Borst, 2005). Howley
+Parents cited disenchantment with the political              (1997) posits that “no one suffers academically from
+system and intimidation by the larger size and new           being in a small school” (p.2). While the literature
+and different community setting of the consolidated          does not make reference to a threshold school
+schools (Kearns et al., 2009). While some research           population size where the benefits of the ‘small’
+shows that communities are able to overcome the loss         school environment are lost, the removal of students
+of cornerstone institutions such as schools and build        from schools that are producing favourable outcomes
+resiliency long term (e.g. Gieling, 2019; Peters, 2019;      is defeating for students, families, and communities.
+Christiaanse & Haartsen, 2017), the social damage                 Cristall et al. (2020) assert that “school closures
+appears to cause deep wounds that are difficult to           limit opportunities for youth to be seen and heard and
+repair.                                                      limit a community’s ability to build the “mental
+                                                             health capital” – or resilience – needed to sustain its
+Implications for Students                                    inhabitants” (p.156). They attribute the causal factor
+                                                             of this issue to neoliberal educational policies that
+     “Excellence is given symbolic prominence, but           privilege economic interests over wellness. The
+not sustained financial support” (Stout et al., 1994,        economic priority ultimately hinders the ability to
+p.5). This quotation provides context to the                 engage as a community of citizens, particularly in the
+challenges faced by rural schools and school districts       rural context. When schools are closed the
+and the frustration felt by parents in rural                 community is disrupted, engagement is silenced, and
+communities whose schools are facing proposed                the result is a decline in wellness for all involved –
+closure (Corbett & Helmer, 2017; Van Brenk, 2016             students, families, community members, and other
+November 22). Social, emotional and academic                 stakeholders (Cristall et al., 2020). The impacts to
+upheaval are experienced by students affected by             community resiliency in Cristall et al.’s, (2020) case
+rural school closures and consolidations (Tinkham,           study in Ontario, Canada mirror the findings of
+2014). As noted by Lauzon and Leahy (2001), “it is           Oncescu’s (2014) research in Saskatchewan, Canada
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                67
+discussed in the Social Impacts section above.                costs associated with schools below their designated
+Cristall et al. (2020) highlight the direct personal          enrollment capacity (People for Education, 2016).
+impact that school closure in a rural area can have on        This in turn allows school districts to maintain
+students’ mental health and well-being. The loss or           budgets and control costs in order to align with the
+disruption of all that is familiar – friends, classmates,     per-pupil funding received from ministries of
+teachers, routines, as well as being present daily in         education (People for Education, 2016).
+the community that is ‘home’, can have a profound                  According to People for Education (2016), a
+impact on students.                                           broadly based education that provides students with a
+     Bussing students from a community with a                 multitude of learning opportunities and experiences
+closed school to the next town several kilometres             in a variety of subject areas works to enhance student
+away may have a definitively different impact than            success. Many small rural schools lack the benefit of
+that which might be observed in an urban school               having specialized teachers for health and physical
+closure scenario, where a neighbouring consolidated           education, music, the arts and library as compared to
+institution is located nearby (Bennett, 2013). Lauzon         schools in urban and suburban areas (People for
+and Leahy (2001) and Pollett (2008) suggest that the          Education, 2016). Proposed closure and consolidation
+effects of bussing students from a community in               of rural schools permits more specialized instruction
+which the school has been closed to a neighbouring            in these areas with schools having large enough
+community with a consolidated school need to be               enrollment to employ specialist teachers and provide
+considered based on impacts on students, impacts on           enhanced facilities (Prest, 2013).
+families, and the true costs of students’ travel time.             Additionally, Barber (2015) recognizes that the
+As noted by Ramage and Howley (2005), “Too often,             breadth and depth of curriculum that can be offered to
+in the absence of systematic research, school leaders         students often improves significantly under school
+consider only the practicalities of bus rides rather          consolidation scenarios. A larger number of course
+than considering the effects of bus rides on students’        offerings, available on a more frequent basis, acts to
+school performance and home lives” (p.1). Extended            provide secondary school students with greater
+travel to and from school by bus impacts students             preparation for workplace, college and university
+academically, socially, and physically (Bennett,              pathways in a wider variety of disciplines (Barber,
+2013; Smitheram, 1982; Thompson, 1982). The                   2015). The school consolidation scenario means
+effects of long bus rides on school performance and           fewer classes are comprised of split grades and/or
+home lives is a contentious issue recognized by rural         split pathways (Applied, Academic and Locally
+parents but often dismissed by school district officials      Developed) (Barber, 2015). The increased course
+(Bennett, 2013; Pollett, 2008). These long periods of         offerings provided in a consolidated school translates
+travel affect students’ ability to focus and concentrate      to fewer distance education courses (e.g. online
+for extended periods during the school day, shorten           courses) being required by rural students in order to
+available hours for homework completion, discourage           obtain the necessary credits for application to post-
+or prevent extra-curricular involvement outside of            secondary programs (Arnott, 2004; Barber, 2015).
+school hours, and do not allow for the time necessary              From a social perspective, school consolidation
+to pursue part-time employment opportunities                  can have positive effects. The research conducted by
+(Bennett, 2013; Smitheram, 1982). Bennett (2013)              Sell et al. (1996) found that most students felt school
+suggests that the ‘joy of childhood’ is being stolen          consolidation offered them increased opportunities
+from rural students when attendance consolidated              for socialization. Meeting new people and forming
+schools requires long bus rides.                              new friendships was a positive response found in
+                                                              surveys conducted (Sell et al., 1996). Another social
+Benefits of Consolidation                                     improvement noted by Barber (2015) was that the
+     In examining the benefits of rural school                larger enrollments of consolidated schools provided
+consolidation, Duncombe and Yinger (2007) found               for an increase in breadth and depth of extra-
+that economies of scale and size represent potential          curricular activities similar to that observed in
+financial savings on the part of school districts. A          academic programs. More choice in types of extra-
+Canadian education advocacy group found that                  curricular activities and having sufficient numbers of
+having a larger student population in a single                students to create teams for certain sports was an
+consolidated school building allows for savings from          improvement compared to some smaller, rural
+the otherwise elevated operational and maintenance            schools (Barber, 2015).
+
+
+    Vol. 43, No. 2          The Rural Educator, journal of the National Rural Education Association               68
+     The benefits of rural school consolidation cited         Neither these criteria, nor Bishop’s (1979) discussion
+in this section are quite contradictory and serve as          of school closure planning take into account the
+counter arguments to the other themes synthesized in          impacts on the local community itself and what the
+this review. The most frequently cited motivation for         removal may mean for local citizens (Basu, 2004b;
+rural school consolidation is fiscal responsibility – an      Basu, 2007; Irwin & Seasons, 2012). Such
+attempt to achieve economies of scale by creating             considerations may be unnecessary in urban and
+larger administrative units and schools (Bennett,             suburban settings, but this does not hold true in rural
+2013; Bishop, 1979; Brown, 1996; DeYoung &                    communities (Bennett, 2013; Newton & Knight,
+Howley, 1990; Duncombe & Yinger, 2007; People                 1993). This calls into question whether educational
+for Education, 2016). DeYoung and Howley (1990)               policies relating to school closures employ a
+note that few jurisdictions implementing rural school         framework that was fashioned after similar urban
+closure and consolidation actually document and               school closure research.
+affirm the desired improvements. In fact, Brown                    In some provinces within Canada, pupil
+(1996) reports diseconomies of scale resulting from           accommodation review (PAR) policy provides local
+increased staff demands in a highly bureaucratic              school districts with an explicit set of protocols and
+system and the increased transportation costs                 procedures to employ when initiating the closure
+associated with the bussing network required to               and/or consolidation process for a school (e.g.
+shuttle rural students to consolidated schools.               Ontario Ministry of Education, 2018). As observed in
+                                                              planning criteria such as those suggested by Bishop
+Closure-Related Policy                                        (1979), the primary emphasis of PAR policy tends to
+     Corbett (2014a) asserts that “Canadian                   be on the school district’s fiscal responsibilities and
+educational historiography is shot through with a             physical plant operations (Corbett & Helmer, 2017).
+fundamental urban bias” (p.19). It seems logical then         Consideration is also given to academic
+that Canadian educational policy too is created with          programming, student well-being, and impacts on the
+the urban population in mind. Corbett’s (2014a)               local community (Ontario Ministry of Education,
+research along with that of Wallin (2007) confirms            2018). It is worth noting that under PAR policy in
+this. The fact that rurality is a dimension seldom            some Canadian jurisdictions, it is the responsibility of
+considered in the formulation of educational policy           school district staff, trustees, and/or community
+can be viewed as a social justice concern. As Lauzon          advocacy groups to research and report on these
+and Leahy (2001) argue, “There is an implicit bias in         considerations and present their findings as part of a
+policy formulation that actively excludes the                 school’s information profile to provincial ministries
+consideration of the unique characteristics, qualities,       of education for consideration in a school closure
+and needs of rural community life” (p.3). The metro-          decision (Doern & Prince, 1989; Fredua-Kwarteng,
+centric nature of policy making and lack of                   2005). The factors to be assessed for closure impacts
+understanding of the rural context by policy makers is        are listed as bullet points (e.g. Ontario Ministry of
+well documented (Corbett, 2001; Corbett & Tinkham,            Education, 2018, p.9). In this format and with
+2014; Fulkerson and Thomas, 2016; Mulcahy, 1997;              minimal explanation and instruction provided in the
+Nordberg, 2020; Ribchester & Edwards, 1999;                   guiding policy documents, it seems unlikely that the
+Roberts, 2006; Wallin, 2007). Place-based                     analysis of the impact of a school closure on the
+disadvantage for rural and remote education can be            community will capture the complexity that has been
+viewed as a fundamental human rights and social               found to exist in the peer-reviewed literature (Basu,
+justice issue where rurality is a form of diversity that      2004b; Corbett & Tinkham, 2014). As Corbett and
+could be acknowledged in the same way cultural,               Tinkham (2014) assert, “[rural] communities
+sexual, or social class differences are embraced              typically do not possess the research capacity to be
+(Roberts, 2006).                                              able to meet the requirements of this kind of review”
+     When examining the broader school closure                (p.694). The nuanced school-community interactions
+literature, incorporating urban and suburban settings,        and multi-faceted impacts of school closure appear to
+Bishop (1979) provides a framework of planning                be too complex and interconnected to be accurately
+criteria on which to base closure and consolidation           articulated by school district reviewers or advocacy
+decisions; these include facility conditions, potential       groups unless more detailed policy documents that
+for sale/disposability, geographic location, student          are aligned with the findings of the scholarly
+transportation, and attendance/catchment areas.               literature are provided by ministries of education
+
+
+    Vol. 43, No. 2          The Rural Educator, journal of the National Rural Education Association                69
+(Corbett & Tinkham, 2014). Furthermore, in the               oversee, advocate and lobby for rural education
+interest of equity, such policy documents could              (MacKinnon, 1998). This designation would be an
+provide for the intricacies and local complexities           acknowledgement that urban-centred one-size-fits-all
+associated with rurality that are found in the specific      policies and procedures may lack equity and social
+contexts of rural communities. One-size-fits-all             justice for rural communities. This approach could be
+policy documents could be either revised to allow for        likened to the provision of rural and remote health
+the nuances of rural schools and communities, or             care in rural Canada, which acknowledges the unique
+separate procedures and protocols put in place to            geography and contextual position of rural
+reflect the unique position and circumstances of rural       communities (Ontario Ministry of Health and Long-
+areas (Lauzon & Leahy, 2001).                                Term Care, 2017). The establishment of such
+                                                             supports by provincial governments would then
+   Conclusion and Future Research Directions                 identify rural education as a priority. It would also act
+                                                             as an attempt to preserve the rural social fabric and
+     As noted by Lauzon and Leahy (2001), “the rural         the sense of community found in small towns,
+school is often the strongest community institution          villages, hamlets and the countryside across the
+and may play a prominent role in the development of          nation (Oncescu, 2014).
+social capital and community development” (p.11).                 Fulkerson and Thomas (2016) highlight the need
+The body of Canadian research, bolstered by the              for place- and space-based diversity to be
+inclusion of other international sources in comparable       acknowledged in the same fashion that gender,
+settings, suggests that the relationship between             sexuality, race and socio-economic class intersections
+schools and the rural communities they serve is              are valued in today’s society. Until this is achieved,
+extremely complex and highly contextual (Corbett,            the spatial privileges of dominant urban groups will
+2014b). Urban-centric, one-size-fits-all educational         continue to marginalize rural residents as they
+policies, particularly those related to funding and the      experience the degradation of their existence (Corbett
+enrollment capacity thresholds used to make closure          & Helmer, 2017; Fulkerson & Thomas, 2016).
+decisions, seem to lack equity and social justice for        Educational funding and consolidation policies that
+rural communities (Corbett & Tinkham, 2014). The             are metropolitan in design sometimes fail to support
+social and economic consequences of school closures          the continued and sustained presence of future
+can be far more impactful in less densely populated          generations in rural communities (Corbett & Helmer,
+rural regions than in larger urban and suburban              2017; Irwin et al., 2017). As Corbett (2006) asserts
+centres that are better able to absorb such alterations      “formal education is designed to normalize and
+to the social fabric (Bennett, 2013; Oncescu, 2014).         transform by fostering outmigration [from rural
+Closure of a rural area’s only school resulting in           areas] and a general orientation to urban life” (p.289).
+students being bussed to the next town several               With this urbanormative intent already inherent in the
+kilometres away may have a very different impact             purpose of schooling, the survival and vitality of rural
+than the closure of an urban or suburban school              communities is greatly reduced, if not jeopardized
+which has a neighbouring institution located nearby          entirely (Corbett, 2006). This coupled with fiscally-
+that can accept displaced students (Bennett, 2013).          focused closure and consolidation policies, hold rural
+An acknowledgement of rurality and emphasis on the           schools to the same expectations as urban schools,
+unique positionality and circumstances of rural              which increases the likelihood of the demise of rural
+communities is needed in order to fully understand           communities given the inextricable link between the
+the value a school brings to a rural community and           presence of a school and community vitality and
+the impacts that occur when that school is closed.           generational renewal (Irwin et al., 2017).
+     “The decision to consolidate rural schools has               In rural areas “schools are the cultural centre of
+had major implications not just for schools but for          the community, serving many functions that cannot
+rural life in Canada” (Young et al., 2007, p.88).            be quantified or calculated in a cost/benefit analysis”
+MacKinnon (1998) asserts that the profile of rural           (Lauzon & Leahy, 2001, p.12). Schools play an
+education needs enhancement in the eyes of the               immeasurable role in the viability and longevity of
+provincial education ministries. One possible                communities and are a critical component of the
+approach is the development of a rural education             social and cultural fabric of rural areas (Oncescu,
+branch/division within education ministries or a rural       2014). Greater emphasis and acknowledgement of the
+education consultant whose mandate would be to               importance of rurality and of the unique
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association                 70
+circumstances that exist in rural schools and                of Canadian research is even less prevalent,
+communities is needed. It is the unique local context        particularly in terms of the economic and
+and complexities that create the immeasurable                demographic impacts of rural school closure and
+interdependence between individual facets of                 consolidation (Bennett, 2013). As noted by Irwin et
+everyday life in rural communities (Corbett, 2014b).         al. (2017), rural school closures continue despite “the
+A significant portion of the existing body of research       absence of any focused, longitudinal, and in-depth
+literature on rural education mistakenly emphasizes          examination by any Canadian educational institution
+the apparent inferiority of rural schools (Corbett,          or body responsible for their administration, or the
+2014a). The “rural perspectives have generally been          broader social consequences of their closing.” (p.25).
+taken for granted, understated or overlooked not only        Further to the assertions of Irwin et al. (2017), in-
+by academics but also by policy makers and other             depth examinations in the Canadian context could
+stakeholders.” (Pini et al., 2015, p.678). Rurality may      also take the form of research involving oral histories
+need to be considered as more than simply a                  and narratives, similar to that conducted by Cristall
+geographic setting in educational policy and research        (2018). As observed by Hanushek et al. (2013), with
+(Harris, 2014). Positioning rurality as a form of            respect to attracting the attention of governments and
+diversity and with an equity and social justice focus        policy makers to important educational policy issues,
+would allow rural voices and experiences to be heard         “what gets measured gets done” (p.18). Regardless of
+and recorded and the unique qualities of their schools       the methodological approach used to ‘measure’,
+and communities documented (Pini et al., 2015).              meaningful change will not ‘get done’ without in-
+     As Corbett (2006) asserts, “The fact is that we do      depth studies being conducted, and reliable, albeit
+not know a great deal about rural schools and how            contextual data becoming available. Until then,
+they operate in their communities, partly because            school consolidation and closure policies will be
+they are largely absent from most Canadian education         lacking a clear conceptualization and quantification
+policy discussion” (p.297). In light of this                 of the importance of rural schools as pillar
+observation, more comprehensive and robust research          institutions to the survival and prosperity of
+on the extent and long-term impacts of rural school          communities in rural Canada.
+closure in the Canadian context is needed. While             Acknowledgement. I wish to acknowledge Dr. Jim
+many scholars from the United States cite the need           Ryan at the Ontario Institute for Studies in Education
+for further and more extensive research in the               at the University of Toronto for his constructive
+American context (e.g. Lyson, 2002), the availability        comments on a previous version of this manuscript
+                                                     References
+Arnott, K. (2004). Distance education: Eliminating the         question of `rationality' or `power'? Environment
+   isolation [Avon Maitland Distance Education                 and Planning C: Government and Policy, 22(3),
+   Centre]. Education Today, 16(3), 31-32.                     423-451. https://doi.org/10.1068/c11r
+Autti, O., & Hyry-Beihammer, E.V. (2014). School            Basu, R. (2007). Negotiating acts of citizenship in an
+   closures in rural Finnish communities. Journal of           era of neoliberal reform: The game of school
+   Research in Rural Education, 29(1), 1-17. https:/           closures. International Journal of Urban and
+   /jrre.psu.edu/sites/default/files/2019-08/29-1.pdf          Regional Research, 31(1), 109-127. https://doi
+Barber, J. (2015). A tale of two schools. Education            .org/10.1111/j.1468-2427.2007.00709.x
+   Forum: The Magazine for Secondary School                 Bennett, P.W. (2013). The last stand: Schools,
+   Professionals, 41(2), 9-10. https://education-              communities and the future of rural Nova Scotia.
+   forum.ca/2015/08/27/a-tale-of-two-schools/                  Fernwood Publishing.
+Barter, B.G. (2014). Education reform: The effects of       Biddle, C. & Azano, A. (2016). Constructing and
+   school consolidation on teachers and teaching.              reconstructing the “rural school problem”: Rurality
+   Alberta Journal of Educational Research, 60(4),             and rural education research over the past century.
+   674-690. https://doi.org/10.11575/ajer.v60i4.55980          Review of Research in Education, 40(1), 298-325.
+Basu, R. (2004a). The rationalization of neoliberalism         https://www.jstor.org/stable/44668625
+   in Ontario’s public education system, 1995–2000.         Bishop, L. (1979). Dealing with declining school
+   Geoforum, 35(5), 621-634.                                   enrollments. Education and Urban Society, 11(3), 285-
+   https://doi.org/10.1016/j.geoforum.2004.03.003              295. https://doi.org/10.1177/001312457901100302
+Basu, R. (2004b). A Flyvbjergian perspective on             Blodgett, J.H. (1893). The rural school problem.
+   public elementary school closures in Toronto: a             American Anthropologist, 6(1), 71-78.
+
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association               71
+   https://www.jstor.org/stable/658789                         ON: Council of Ministers of Education, Canada.
+Boddington, S. (2010). The Atlee school question: The          https://www.cmec.ca/299/education-in-canada-an-
+   effects of school consolidation in rural Alberta.           overview/index.html
+   Contemporary Issues in Education Research, 3(2),         Cristall, F. (2018). Resistance revisited: How student
+   17-27. https://www.proquest                                 activism around the PCVS school closure
+   .com/eric/docview/196353602/fulltext/CEAEA096               influenced youth’s life experiences, views on
+   21A140CBPQ/1?accountid=14771                                power, political engagement and personal agency.
+Borst, J. (2005). The Bigness of Small Ontario High            Unpublished Masters thesis. Trent University,
+   Schools. Education Today, 17(1), 18-21.                     Peterborough, ON.
+Brown, J. (1996). Grandy’s River Collegiate: Can a          Cristall, F., Rodger, S. & Hibbert, K. (2020). Where
+   rural school survive in an urban landscape? The             love prevails: Student resilience and resistance in
+   Alberta Journal of Educational Research, 42(3),             precarious places. In D. Gereluk & M. Corbett
+   238-251. https://eric.ed.gov/?id=EJ534714                   (Eds.), Rural Teacher Education: Connecting Land
+Christiaanse, S., & Haartsen, T. (2017). The influence         and People (pp.155-170). Springer.
+   of symbolic and emotional meanings of rural                 https://doi.org/10.1007/978-981-15-2560-5_7
+   facilities on reactions to closure: The case of the      DeYoung, A.J., & Howley, C.B. (1990). The political
+   village supermarket. Journal of Rural Studies,              economy of rural school consolidation. The
+   54(2019), 326-336.                                          Peabody Journal of Education, 67(4), 63-89.
+   https://doi.org/10.1016/j.jrurstud.2017.07.005              https://www.jstor.org/stable/1492681
+Corbett, M. (2001). A Protracted Struggle: Rural            Doern, G., & Prince, M. (1989). The political
+   Resistance and Normalization in Canadian                    administration of school closures: Administrators,
+   Educational History. Historical Studies in                  trustees and community groups. Canadian Public
+   Education, 13(1), 19-48.                                    Policy, 15(4), 450-469.
+   https://doi.org/10.32316/hse/rhe.v13i1.1845                 https://www.jstor.org/stable/3550360
+Corbett, M. (2006). Educating the country out of the        Duncombe, W., & Yinger, J. (2007). Does school
+   child and educating the child out of the country: An        district consolidation cut costs? Education Finance
+   excursion in spectrology. The Alberta Journal of            and Policy, 2(4), 341-375.
+   Educational Research, 52(4), 289-301.                       https://doi.org/10.1162/edfp.2007.2.4.341
+   https://doi.org/10.11575/ajer.v52i4.55175                Egelund, N., & Lausten, H. (2006). School closure:
+Corbett, M. (2014a). Toward a geography of rural               What are the consequences for the local society?
+   education in Canada. Canadian Journal of                    Scandinavian Journal of Educational Research,
+   Education, 37(3), 1-22. https://www.jstor.org               50(4), 429-439. https://doi.org/10.1080
+   /stable/canajeducrevucan.37.3.08                            /00313830600823787
+Corbett, M. (2014b). The ambivalence of community:          Ertl, H. & Plante, J. (2004). Connectivity and learning
+   A critical analysis of rural education’s oldest trope.      in Canada’s schools. Ottawa, ON: Statistics
+   Peabody Journal of Education, 89(5), 603-618.               Canada Science, Innovation and Electronic
+   https://doi.org/10.1080/0161956X.2014.956532                Information Division. https://www150.statcan.gc
+Corbett, M., & Helmer, L. (2017). Contested                    .ca/n1/pub/56f0004m/56f0004m2004011-eng.htm
+   geographies: Competing constructions of                  Foght, H. W. (1915). The School System of Ontario
+   community and efficiency in small school debates.           with Special Reference to the Rural Schools.
+   Geographical Research, 55(1), 47-57.                        Government Printing Office.
+   https://doi.org/10.1111/1745-5871.12209                  Fredua-Kwarteng, E. (2005). School Closures in
+Corbett, M., & Mulcahy, D. (2006). Education on a              Ontario: Who has the Final Say? Canadian Journal
+   human scale: Small rural schools in a modern                of Educational Administration and Policy,
+   context, Municipality of Cumberland County,                 46(2005), 1-26. https://journalhosting
+   Research Report 061. Acadia University Centre for           .ucalgary.ca/index.php/cjeap/article/view/42726
+   Rural Education.                                         Fulkerson, G.M., & Thomas, A.R. (Eds.). (2016).
+Corbett, M. & Tinkham, J. (2014). Small schools in a           Reimagining Rural: Urbanormative Portrayals of
+   big world: Thinking about a wicked problem.                 Rural Life. Lexington Books.
+   Alberta Journal of Educational Research, 60(4),          Gamson, D. (2019). Transitions from rural to urban
+   691-707. https://doi.org/10.11575/ajer.v60i4.55981          schooling. In J.L. Rury, & E. H. Tamura, (Eds.),
+Cork, C. (2003). Normanby Reflections: A History of            The Oxford Handbook of the History of Education
+   Normanby Township Volume II. Stan Brown                     (pp. 490-510). Oxford University Press.
+   Printers Limited.                                        Gidney, R.D. (1999). From Hope to Harris: The
+Council of Ministers of Education, Canada (2020).              Reshaping of Ontario’s Schools. University of
+   Elementary and Secondary Education. Toronto,                Toronto Press.
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association              72
+Gidney, R.D. & W.P.J Millar (2012). How Schools               student performance. Economics of Education
+   Worked: Public Education in English Canada,                Review, 29, 1034-1046. https://doi.org
+   1900-1940. McGill-Queen’s University Press.                /10.1016/j.econedurev.2010.05.003
+Gieling, J. (2019). Village facilities and social place    Looker, E., & Bollman, R. (2020). Setting the stage:
+   attachment in the rural Netherlands. Rural                 Overview of data on teachers and students in rural
+   Sociology, 84(1), 66-92.                                   and urban Canada. In D. Gereluk & M. Corbett
+   https://doi.org/10.1111/ruso.12213                         (Eds.), Rural Teacher Education: Connecting Land
+Golem, M. (2016, September 15). More school                   and People (pp. 21-73). Springer.
+   closures on the horizon. The Post.                         https://doi.org/10.1007/978-981-15-2560-5_2
+Greenough, R., & Nelson, S.R. (2015). Recognizing          Lucas, B. (1982). A rural perspective: School closure
+   the variety of rural schools. Peabody Journal of           and community protest. McGill Journal of
+   Education, 90, 322-332.                                    Education, 17(3), 251-262.
+   https://doi.org/10.1080/0161956X.2015.1022393              https://mje.mcgill.ca/article/view/7475
+Griffith, A.I. (2001). Texts, tyranny and                  Lyson, T. A. (2002). What does a school mean to a
+   transformation: Educational restructuring in               community? Assessing the social and economic
+   Ontario. In J.P. Portelli & R.P. Solomon (Eds.),           benefits of schools to rural villages in New York.
+   The Erosion of Democracy in Education: From                Journal of Research in Rural Education, 17(3),
+   Critique to Possibilities (pp. 83-98). Detselig            131-137. http://www.jrre.psu.edu/articles
+   Enterprises Ltd.                                           /v17,n3,p131-137,Lyson.pdf
+Gruenewald, D. A. (2003). Foundations of place: A          MacKinnon, D. (1998). A line in the sand: What’s
+   multidisciplinary framework for place-conscious            worth fighting for in rural education [Excerpts
+   education. American Educational Research                   from a keynote address to the Third National
+   Journal, 40(3), 619-654.                                   Congress on Rural Education]. Journal of
+   https://www.jstor.org/stable/3699447                       Educational Administration and Foundations,
+Hanushek, E., Peterson, P., & Woessmann, L. (2013).           13(1), 67.
+   Endangering Prosperity: A Global View of the            Maguire, M. (2019). Equality and justice in education
+   American School. Brookings Institution Press.              policy. Journal of Educational Policy, 34(3), 299-
+Harris, C. (2014). Schools that don’t close: Possible         301. https://doi.org/10.1080/02680939
+   places and spaces for progressive teaching,                .2019.1591709
+   learning and research. Alberta Journal of               Manzer, R. (2004). Public schools, democracy, and
+   Educational Research, 60(4), 656-673.                      historical trends. Education Canada, 44(4), 4-8.
+   https://doi.org/10.11575/ajer.v60i4.55979                  https://www.edcan.ca/articles/public-schools-
+Howley, C. B. (1997). Studying the rural in education:        democracy-and-historical-trends/
+   Nation-building, “globalization,” and school            Mulcahy, D.M. (1997). Rural education reform: The
+   improvement. Education Policy Analysis Archives,           consultation process. In The many faces of rural
+   5(12), 1-13. https://eric.ed.gov/?id=EJ580772              education: Proceedings of the 89th Annual NREA
+Irwin, B., & Seasons, M. (2012). School closure               Convention, Tuscon, AZ: NREA.
+   decision-making processes: Problems and                 Newton, E., & Knight, D. (Eds.). (1993). Understanding
+   prospects. Canadian Journal of Urban Research,             Change in Education: Rural and Remote Regions of
+   21(2), 45-67. https://www.jstor.org/stable/26193912        Canada. Detselig Enterprises Ltd.
+Irwin, B., Seasons, M., & Rappolt, R. (2017). School       Nordberg, K. (2020). Spatial justice and local capability
+   closures in the modern era: The hollowing out of           in rural areas. Journal of Rural Studies, 78, 47-58.
+   rural Canada? Municipal World, 127(4), 25-26, 44.          https://doi.org/10.1016/j.jrurstud.2020.06.008
+Kearns, R.A., Lewis, N., McCreanor, T., & Witten, K.       Oncescu, J. (2014). The impact of a rural school’s
+   (2009). ‘The status quo is not an option:                  closure on community resiliency. Leisure, 38(1),
+   Community impacts of school closure in South               35-52. https://doi.org/10.1080/14927713
+   Taranaki, New Zealand. Journal of Rural Studies,           .2014.932969
+   25(2019), 131-140.                                      Oncescu, J., & Giles, A. (2014). Rebuilding a Sense of
+   https://doi.org/10.1016/j.jrurstud.2008.08.002             Community through Reconnection: The Impact of
+Lauzon, A., & Leahy, D. (2001). Rural schools and             a Rural School’s Closure on Individuals without
+   educational reform: Should we keep rural schools           School-Aged Children. Journal of Rural and
+   open? A review of the literature, OMAFRA                   Community Development, 9(3), 295-318.
+   Research Report Project 023450. University of              https://journals.brandonu.ca/jrcd/article/view/743
+   Guelph School of Rural Extension Studies.               Ontario Ministry of Education. (2018). Pupil
+Leach, J., Payne, A. A., & Chan, S. (2010). The effects       accommodation review guideline. Queen’s Printer
+   of school board consolidation and financing on             for Ontario. http://www.edu.gov.on.ca/eng
+
+
+    Vol. 43, No. 2        The Rural Educator, journal of the National Rural Education Association              73
+   /policyfunding/pupil-accommodation-review-                  districts in rural communities. Research in Rural
+   guideline-en.pdf                                            Education, 4(3), 125-130. https://jrre.psu.edu
+Ontario Ministry of Health and Long-Term Care.                 /sites/default/files/2019-07/4-3_4.pdf
+   (2017). Rural and Northern Health Care                   Sell, R. S., Leistritz, F. L., & Thompson, J. M. (1996).
+   Framework. Queen’s Printer for Ontario.                     Socio-economic impacts of school consolidation on
+   https://www.health.gov.on.ca/en/public/programs/r           host and vacated communities, Agricultural
+   uralnorthern/framework.aspx                                 Economics Report No. 347. Fargo, North Dakota:
+Parkins, J.R., & Reed, M.G. (Eds.). (2013). Social             United States Department of Education.
+   Transformation in Rural Canada: Community,                  https://eric.ed.gov/?id=ED423100
+   Cultures, and Collective Action. UBC Press.              Sim, R. A. (1993). The changing culture of rural
+People for Education. (2016). The geography of                 Ontario. Occasional Papers in Rural Extension, 9,
+   opportunity: What’s needed for broader student              1-29. https://eric.ed.gov/?id=ED389478
+   success (Annual Report on Ontario’s Publicly             Sipple, J.W., Francis, J.D., & Fiduccia, P.C. (2019).
+   Funded Schools 2016). People for Education.                 Exploring the gradient: The economic benefits of
+   https://peopleforeducation.ca/wp-content/uploads            ‘nearby’ schools on rural communities. Journal of
+   /2017/06/P4E-Annual-Report-2016.pdf                         Rural Studies, 68(2019), 251-263.
+Peters, D.J. (2019). Community resiliency in declining         https://doi.org/10.1016/j.jrurstud.2019.02.018
+   small towns: Impact of population loss on quality        Smith, C. (2007). Country school days 1830s-1960s.
+   of life over 20 years. Rural Sociology, 84(4), 635-         Ferguson Graphics.
+   668. https://doi.org/10.1111/ruso.12261                  Smitheram, V. (1982). Development and debate over
+Pini, B., Carrington, S., & Adie, L. (2015). Schooling         school consolidation. In V. Smitheram, D. Milne &
+   elsewhere: rurality, inclusion and education.               S. Dasgupta (Eds.), The Garden Transformed:
+   International Journal of Inclusive Education,               Prince Edward Island, 1945-1980. Ragweed Press.
+   19(7), 677-684.                                          Statistics Canada. (2016). Canadian Census 2016.
+   https://doi.org/10.1080/13603116.2014.964489                Ottawa, ON. https://www12.statcan.gc.ca/
+Pollett, G. (2008). The impacts of bus time on child        Stout, R. T., Tallerico, M., & Scribner, K. P. (1994).
+   and youth health, Report 135-08. London, ON:                Values: The ‘what’ of the politics of education. In
+   Middlesex-London Health Unit.                               J. D. Scribner & D. H. Layton (Eds.), The study of
+Prest, A. (2013). Challenges and place-based                   educational politics (pp. 5-20). Falmer Press.
+   responses for music education in rural British           Thompson, L. (1982). The academic, social and
+   Columbia: A UBC Study. Canadian Music                       physical effects of daily transportation on pupils: A
+   Educator, 55(2), 11-19.                                     review of literature. Regina, SK: Saskatchewan
+Ramage, B., & Howley, A. (2005). Parents’                      School Trustees Association.
+   perceptions of the rural school bus ride. Rural          Tinkham, J. (2014). We’re small enough to close but
+   Educator, Fall, 15-25.                                      big enough to divide: The complexities of the Nova
+   https://doi.org/10.35608/ruraled.v27i1.500                  Scotia school review process. Alberta Journal of
+Ribchester, C. & Edwards, B. (1999). The centre and            Educational Research, 60(4), 726-740.
+   the local: Policy and practice in rural education           https://doi.org/10.11575/ajer.v60i4.55984
+   provision. Journal of Rural Studies, 15(1), 49-63.       Van Brenk, D. (2016, Nov 22). Seeking solutions for
+   https://doi.org/10.1016/S0743-0167(98)00048-5               rural schools. The London Free Press.
+Roberts, P. (2006). The place of social justice in rural    Wallin, D. C. (2007). Policy window or hazy dream?
+   education discourse. Society for the Provision of           Policy and practice innovations for creating effective
+   Education in Rural Australia, 226-239.                      learning environments in rural schools. Canadian
+Rural Ontario Municipal Association. (2011). A Voice           Journal of Educational Administration and Policy, 63,
+   for Rural and Northern Ontario. Rural Ontario               1-22. https://eric.ed.gov/?id=EJ806978
+   Municipal Association. https://www.roma.on.ca            Young, J., Levin, B., & Wallin, D. (2007).
+   /ROMA-Docs/Reports/2011                                     Understanding Canadian schools: An introduction
+   /AVoiceforRuralNorthernOntario2011Oct.aspx                  to educational administration (4th ed.). Thomson
+Sederberg, C.H. (1987). Economic role of school                Nelson.
+
+Author:
+Michael Haynes is a Doctoral Candidate in the Educational Leadership and Policy Program at the Ontario Institute
+   for Studies in Education at the University of Toronto (OISE/UT). Contact:mike.haynes@mail.utoronto.ca
+
+Suggested Citation: Haynes, M. (2022). The impacts of school closure on rural communities in Canada: A review.
+   The Rural Educator, 43(2), 60-74. https://doi.org/10.55533/2643-9662.1321
+
+
+    Vol. 43, No. 2         The Rural Educator, journal of the National Rural Education Association             74
+

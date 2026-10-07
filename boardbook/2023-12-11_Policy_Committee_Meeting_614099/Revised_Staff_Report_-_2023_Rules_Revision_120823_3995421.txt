@@ -1,0 +1,187 @@
+                                       STAFF REPORT
+
+Date:            December 8, 2023
+
+To:              School Board Policy Committee
+
+From:            Emily Courtnage, Director of Purchasing & Contracting
+
+Subject:         Update to Public Contracting Rules
+
+
+
+In 2010, Portland Public Schools developed and adopted a substantial and comprehensive
+revision to its Public Contracting Rules. These rules were updated in 2012, 2016, and 2019 to
+reflect legislative changes to the state Public Contracting Code (ORS Chapter 279A, 279B, and
+279C) and revisions to the Attorney General's Model Public Contracting Rules ("Model Rules").
+An update and revision to the District’s Public Contracting Rules is necessary to reflect
+legislative changes to the Public Contracting Code in 2023, as well as improve internal
+alignment, efficiency, and effectiveness, as further detailed below.
+
+      I.     Updates to Public Contract Rules to Reflect Legislative Changes
+
+      a. Updates to Competitive Procurement Thresholds
+
+In the spring of 2023, the Oregon legislature adopted the following changes to competitive
+procurement thresholds that had been in place for well over a decade:
+
+      1. Raised the small procurement threshold (i.e., the dollar amount below which no
+         competition is required) from $10,000 to $25,000 for Construction contracts
+      2. Raised the small procurement threshold for Goods and Services contracts from $10,000
+         to $25,000
+      3. Raised the formal procurement threshold (i.e., the dollar amount above which the District
+         must conduct a formally advertised, public Request for Proposals or Invitations to Bid
+         solicitation process) for Goods and Services contracts from $150,000 to $250,000
+
+Per Senate Bill 1047, these changes to the Oregon Public Contracting Code are effective
+January 1, 2024. Staff recommends updating the District’s Public Contracting Rules to reflect
+these legislative changes on or as soon as possible after January 1, 2024. See PPS 47-0250(c)
+and (d).
+
+Local Contract Review Boards (at Portland Public Schools, this is the School Board) have
+discretion to adopt their own thresholds for Personal Services contracts. (Personal Services are
+those services that “require specialized technical, creative, professional, or communication skills
+or talents, unique and specialized knowledge, or the expertise of discretional judgment skills,
+
+                                               1 of 4
+and for which the quality of Services depends on attributes that are unique to the service
+provider.” PPS 46-0500(2)). The District’s current formal procurement threshold for Personal
+Services contracts is $150,000, which was made to align with the existing Goods and Services
+formal procurement threshold established by the legislature in 2003. Staff recommends
+increasing the District’s formal procurement threshold for Personal Services to $250,000 to align
+with the new 2023 legislative update to the formal procurement threshold for Goods and
+Services.1 See PPS 46-0505. These changes will also align with the formal procurement
+thresholds applicable to (1) procurements for contracts expending federal grant or pass-through
+funds, and (2) procurements for architecture, engineering, and related services contracts.
+
+      b. Other Minor Updates to Oregon Public Contracting Code and the Attorney
+         General’s Model Public Contracting Rules
+
+Staff recommends the following additional changes to bring the District’s Public Contracting
+Rules into alignment with new legislation and the Attorney General’s Model Rules. Staff
+recommends adhering to the Model Rules language throughout the District’s Public Contracting
+Rules, as the Model Rules promote consistency across Oregon public agencies, ease of
+administration and interpretation by staff, and common expectations among contractors who
+work with Oregon public agencies.
+
+      (1) Adoption of the Model Rule regarding the informal selection procedures for Architecture,
+          Engineering, and Related Services contracts not exceeding $250,000 (PPS 48-0210)
+
+      (2) Adoption of a new Model Rule in the Attorney General’s Model Rules regarding protests
+          and judicial review of qualified products lists decisions (PPS 47-0745)
+
+      (3) Change to the Public Hearing mandate for exemptions from competitive bidding for
+          public improvement contracts (PPS 49-0630(7). In 2021, the Oregon legislature
+          amended ORS 279C.335(5) to require that interested parties must be given an
+          opportunity to request a hearing. The District no longer needs to hold a public hearing
+          unless one is requested. The Board will continue to vote on all requests for exemption
+          from competitive bidding and use of alternative contracting methods for public
+          improvement projects (such as Request for Proposals or Construction Manager/General
+          Contractor).
+
+      (4) Numerous minor language changes and additions throughout to ensure alignment with
+          Model Rules.
+
+      II.     Updates to Reflect Changes in Pricing/Buying Power
+
+      a. Raise Small Procurement Threshold for Personal Services Contracts from $50,000
+         to $75,000 (PPS 46-0525(1))
+
+Staff recommends increasing the threshold at which a three-quote or informal competition
+process is required for Personal Services contracts. The $50,000 threshold has been in place
+for over a decade, during which time the buying power of $50,000 has significantly decreased.
+Further, if the Board raises the formal procurement threshold for Personal Services from
+
+1
+    $150,000 in 2003 is equivalent to $257,802 in 2024.
+                                                   2 of 4
+$150,000 to $250,000, as described above, it makes sense to also shift the small procurement
+threshold. With these changes, Personal Services contracts could be negotiated without
+competition if $75,000 or less, with a three-quote or informal Request for Proposals process if
+between $75,001 and $250,000, and with a formal, publicly advertised Request for Proposals
+process if above $250,000.
+
+   III.    Removal of Administratively Burdensome Mandates That Do Not Align with the
+           Oregon Public Contracting Code or Attorney General’s Model Rules
+
+   a. Removal of the Amendment Cap for Personal Services contracts (PPS 46-0535(4))
+
+In 2016, the Board adopted an amendment cap for Personal Services contracts that prohibits
+contract amendment to add scope or funds that would cause the total contract price to exceed
+125% of the original contract price except in limited circumstances. See PPS 46-0535(4). This
+arbitrary amendment cap is not required by or included in the Oregon Public Contracting Code
+or the Model Rules. In the years since this cap has been in place, staff has observed
+significant, unintended adverse consequences of this amendment cap:
+
+        (1) In many cases, a small contract (e.g., for a few sessions of professional development
+or a few hours of artist-in-residence time with students) cannot be amended to add additional
+days or sessions when it is determined that such addition is in the District’s and/or students’
+interests. This forces the requesting school or department to draw up a new contract to add, for
+example, one new session at $300 to a $1000 contract. This strict rule serves no purpose but
+does add paperwork, time delay, and administrative burden.
+
+        (2) The rule encourages a series of contracts with the same contractor rather than a
+single amended contract with additional scope. As such, it can inadvertently promote skirting of
+procurement thresholds and/or Board approval processes that would apply to any single
+contract with an amendment that caused it to cross a competitive procurement or Board
+approval threshold. For example, a $120,000 personal services contract amended to add an
+additional $35,000 would cross the current $150,000 Board approval threshold, as well as the
+formal procurement threshold. Purchasing & Contracting staff would review the proposed
+amendment for procurement compliance and put the amendment on the next Board contracts
+agenda. With the amendment cap in place preventing such amendment, the originating
+contract manager is likely to simply submit a new contract with the same contractor for $35,000,
+and such a low-dollar contract will likely not be funneled through the Board approval process or
+reviewed for formal procurement threshold compliance.
+
+Staff has been unable to identify any countervailing positive results of the amendment cap and
+therefore recommends removing it.
+
+   IV.     New or Revised Direct Negotiation and Special Class Procurement Rules
+
+   a. New Rule to Allow Direct Negotiation of Medical Services (46-0525(14))
+
+Staff recommends that the Board adopt a new rule allowing direct negotiation of contracts “for
+services provided by those in the medical community including, but not limited to, doctors,
+physicians, psychologists, nurses, laboratory technicians and those with specific license or
+unique skill to administer treatments for the health and well-being of people.” In practice, the
+                                              3 of 4
+District always exempts medical services from competition under PPS 46-0525(3) (allowing
+direct negotiation where “the work is not project-driven but requires an ongoing, long term
+relationship of knowledge or trust”) or PPS 46-0525(4) (allowing direct negotiation where “the
+contractor possesses unique knowledge and/or expertise in a specialized service area, making
+competition impractical”). However, both of these more general exceptions require direct
+negotiation justification paperwork to explain the applicability of one or more of these provisions.
+To cut down on unnecessary paperwork, staff recommends adopting a clear direct negotiation
+rule for medical services. The language of the rule is taken from a similar direct negotiation rule
+adopted by Metro.
+
+    b. Revised Special Class Procurement Rules for Copyrighted Materials and Creative
+       Works (PPS 47-0288(4)) and Software and Hardware Maintenance, License,
+       Subscriptions, and Upgrades (PPS 47-0288(11))
+
+Staff recommends updating the District’s special class procurement rule allowing direct
+purchase without competition of copyrighted materials and creative works to more clearly cover
+curriculum materials in all modern electronic forms. Contracts for the procurement and
+distribution of textbooks have long been exempted from the public contracting code per statute
+(ORS 279A.025) and public contracting rule (PPS 46-0130). However, over time the use of
+traditional textbooks has diminished as the use of digital and online curriculum resources has
+increased, and this special class procurement was adopted to reflect that modern reality. The
+revision to this special class procurement clarifies the language to ensure it covers all curriculum
+materials that are available from only one source.
+
+For similar reasons, staff recommends updating the District’s special class procurement rule
+allowing direct purchase without competition of software and hardware licenses and
+subscriptions available from only one source. The revision clarifies the language to ensure it
+covers all digital resources, including cloud-based programs and applications.
+
+
+
+
+ATTACHMENTS
+   A. Redline of 2019 Public Contracting Rules
+
+
+
+
+                                                 4 of 4
+

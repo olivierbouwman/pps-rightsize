@@ -1,0 +1,64 @@
+CONCEPTUAL BUDGETS
+The budgets included in this document are conceptual. They are provided to illustrate general cost ranges to facilitate bond planning discussion. They are not final cost estimates.
+
+                                                                             Cost Range
+                                                                      (see staff memo for detail)                Sample #1         Sample #2          Sample #3           Sample #4
+Physical Facility Improvements                                                                                 $75,000,000      $564,000,000       $507,000,000      $1,069,000,000
+    Critical Systems
+          Deferred Maintenance Backlog (Reduce FCI)               $700,000,000 1        $1,000,000,000 2         $75,000,000      $400,000,000       $400,000,000       $650,000,000
+          Roof                                                        incl above                 incl above        incl above        incl above         incl above         incl above
+          Mechanical                                                  incl above                 incl above        incl above        incl above         incl above         incl above
+          Capital Asset Renewal                                                $0       $1,700,000,000                    $0                $0                 $0                 $0
+    Seismic                                                                    $0       $1,000,000,000                    $0       $30,000,000        $25,000,000       $100,000,000
+    ADA                                                             $57,000,000           $138,000,000                    $0       $25,000,000        $25,000,000        $60,000,000
+    Security                                                      $140,000,000            $225,000,000                    $0       $25,000,000        $25,000,000        $60,000,000
+    Outdoor Spaces                                                  $68,000,000           $103,000,000                    $0       $25,000,000                 $0        $60,000,000
+    Athletics                                                       $84,000,000           $206,000,000                    $0       $25,000,000        $20,000,000        $85,000,000
+    All Gender Restrooms                                             $3,000,000            $15,000,000                    $0        $4,000,000                 $0         $3,000,000
+    Other Examples
+          Decarbonization                                                    TBD                      TBD                 $0       $20,000,000                 $0        $25,000,000
+          Emergency Capital                                                  TBD                      TBD                 $0       $10,000,000        $12,000,000        $26,000,000
+
+
+Educational & Technology Improvements                                                                          $27,000,000      $178,000,000       $105,000,000       $248,000,000
+    Technology
+          ERP                                                                  $0          $40,000,000           $22,000,000       $40,000,000        $40,000,000        $40,000,000
+          Device Refresh                                                       $0          $65,000,000                    $0       $50,000,000        $25,000,000        $65,000,000
+          Cyber Security                                                       $0            $5,000,000           $5,000,000        $5,000,000         $5,000,000         $5,000,000
+          Data Center / Classroom Tech / Etc                                   $0          $50,000,000                    $0       $25,000,000        $10,000,000        $50,000,000
+          Tech: HVAC & Energy Sustainability                                   $0          $13,000,000                    $0       $13,000,000        $10,000,000        $13,000,000
+    Physical Education                                              $10,000,000            $77,000,000                    $0       $15,000,000        $10,000,000        $25,000,000
+    Other Examples
+          Curriculum                                                         TBD                      TBD                 $0       $10,000,000         $5,000,000        $25,000,000
+          Performing Arts                                                    TBD                      TBD                 $0       $10,000,000                 $0        $15,000,000
+          Career Technology Education                                        TBD                      TBD                 $0       $10,000,000                 $0        $10,000,000
+
+
+Capacity                                                                                                                  $0     $10,000,000                   $0      $10,000,000
+    RHS - Phase 5                                                            TBD                      TBD                 $0                $0                 $0                 $0
+    Enrollment Changes                                                       TBD                      TBD                 $0       $10,000,000                 $0        $10,000,000
+
+
+Modernizations                                                                                                $650,000,000                  $0     $715,000,000                   $0
+    Jefferson High School                                                    TBD                      TBD 3             TBD                 $0                TBD                 $0
+    Cleveland High School                                         $250,000,000            $300,000,000 4        $300,000,000                $0       $300,000,000                 $0
+    Ida B Wells High School                                       $250,000,000            $300,000,000 4        $300,000,000                $0       $300,000,000                 $0
+    Harriet Tubman MS                                               $20,000,000            $50,000,000           $50,000,000                $0        $50,000,000                 $0
+    K-5 Learning Lab                                                $30,000,000            $65,000,000                    $0                $0        $65,000,000                 $0
+    Prophet Center                                                             $0                       $0                $0                $0                 $0                 $0
+
+
+Admin + Contingency                                                                                            $97,760,000       $97,760,000       $172,510,000       $172,510,000
+    Administration 3%                                               $48,000,000           $161,000,000           $22,560,000       $22,560,000        $39,810,000        $39,810,000
+    Contingency 10%                                               $161,000,000            $535,000,000           $75,200,000       $75,200,000       $132,700,000       $132,700,000
+
+
+TOTAL                                                           $1,821,000,000          $6,048,000,000          $849,760,000      $849,760,000      $1,499,510,000     $1,499,510,000
+Rounded                                                                                                       $850,000,000      $850,000,000      $1,500,000,000     $1,500,000,000
+
+  1 Estimated amount needed to move average FCI from "poor" to "fair" (see staff memo for details)
+  2 Estimated amount needed to address all FCA noted deficiencies (see staff memo for details)
+  3 Estimated costs to complete the Jefferson High School modernization are currently being developed
+
+  4 Updated project costs estimates are currently being developed
+

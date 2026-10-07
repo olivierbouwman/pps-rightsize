@@ -1,0 +1,95 @@
+Patte Sullivan (Zone 3; Audit Committee chair) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296 (launch rightsizing): YES (passed 5-2). Seconded Engelsman's motions to add "boundary changes" (passed 6-0-1) and to change "will" to "may" (failed 2-5; Sullivan and Engelsman yes); YES on La Forte's added-recitals amendment (failed 3-4 per the minutes' own roll call and the video at ~02:13:01; the draft minutes' summary line says 'passed 4-3' - internal inconsistency); suggested bringing the amendment back in two weeks. Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles 7-0.
+- 2026-09-29 Res. 7382 bond-audit responses: NO on DePass Rec. 28 amendment (failed 3-4; inferred from tally); YES on La Forte strike of "budget availability" (4-3); SECONDED Splitt's Rec. 4 amendment (6-1); YES on Wang "additional auditor" wording (5-2); YES on striking Rec. 34 budget caveat and YES on Rec. 34 as amended (both 4-3).
+- 2026-10-06: seconded Res. 7383 budget calendar (7-0) and consent agenda (7-0).
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:57:43 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7063s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (staff summary 02:49:18: "I heard from [Patte] that you are definitely interested in wanting to have great schools... potentially means go big as well"; KATU and WW 9/1-9/3 attribute the same quotes to Sullivan)
+  topic: supports rightsizing to equalize schools
+  "it's important to me that they all look good. And if that means we have to do some uh right sizing then I'm really wanting to look at it because I have visited schools where things look really really bad and I don't think there should be that difference. So if right [...] sizing means as one person who sent me an email said increased stability and improve student learning and experience across the system and in [...] every school. If that's what it means, I'm for it."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:59:46 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7186s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: K-8 vs middle school; listening
+  "I have a question about K8 schools. So many of them seem to work really, really well. [...] everybody wants their neighborhood school and everybody wants a focus school. [...] we really need to put out the definition of fully resourced school [...] are you listening to the right people or are you only listening to the people who have the [...] ability to come to these meetings [...] I'm definitely for going further."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:21:20 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15680s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (follows Splitt; last director before superintendent wrap-up; references DePass on grief; consistent with her 10/6 remarks)
+  topic: honesty that schools won't be fully resourced immediately; closures don't save much
+  "I was still in my head, oh, we're going to now have even better resource schools. And when I realized that's probably not the case right away, I just kind almost felt sick. [...] I think people will adjust, but they have to know that [...] Honest about how we really have to close the schools and also honest about we're really not saving money by that. We're just being able to keep them open with the money we have [...] I guess with me it's the big H for honesty and not trying to make it easy. [...] is there any thought about if enrollment goes up? [...] are we prepared at all for opening more schools?"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:42:03 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=16923s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (chair: "I think I'm in agreement with Director Sullivan... difference between what's allowable versus what's best practice")
+  topic: span-of-control resolution - board should not direct
+  "I don't not against having it done. I don't think the board is the person to ask to have it done. I think we [select] a superintendent and we trust them to get the people they need to make the school work. So, I don't think it's a bad thing. I just don't think it's something for us to demand."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:58:32 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17912s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (Chase-Miller next: "I agree with Director Sullivan and Director Splitt"; chair: "Director Sullivan took the words out of my mouth")
+  topic: Engelsman budget-savings resolution
+  "most everything on here we're going to be talking about when we do the budget [...] working with a cola freeze on anybody you're probably going to deal with the union. [...] I do think securing the exact numbers of students living in poverty to present to the legislature is a great idea, but I don't think we need a resolution. [...] We don't have to do a resolution for every idea we have."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:16:33 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=993s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director DePass and then we'll go to Director Sullivan"; Sullivan chairs the Audit Committee)
+  topic: follow-through on past bond-audit recommendations
+  "the internal auditor set that up [...] which committee might be the best to work on it. mainly because nobody was following through at all on [...] audit recommendations and was hoping that would help. [...] I don't [...] care too much how the wording is as long as we know somebody is making sure that those get followed up and not just ignored."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:43:56 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2636s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte and then Director Sullivan")
+  topic: supports hiring an internal bond auditor
+  "I definitely think it's a good idea to hire an internal bond auditor, somebody who's specifically looking at bonds. And I think we'd probably end up saving money by having one. [...] I would like to leave it as it is and in fact I also agree with taking that [...] depend on [budget] availability [out]"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:12:58 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11578s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director Sullivan" / "Dr. Sullivan... Oh, I'm next")
+  topic: Scenarios A/B - status quo is not acceptable
+  "I'm concerned about what will happen if we don't do this. And it would be easy to say, "Oh, everybody is so happy with their school. Let's keep it the way it is." Well, I know everybody isn't really as happy with their school as they're saying right now. I was at Maplewood the other day, fourth grade class of 32. [...] if we keep things the way that they are, and there's more blends and there's big classrooms, you're not all going to just say [...] "Oh, it's wonderful. [...] Don't change our school.""
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:14:59 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11699s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: something must be done; Cesar Chavez K-8 example
+  "Dr. Engelsman brought up a lot of things that could be problems and maybe we'll want to make changes, but it's [...] not something that we can ignore. [...] Cesar Chavez has been struggling ever since I got on the board [...] There's no way they can handle both the Spanish immersion all the way up and neighborhood. They don't have the resources. They're not big enough. [...] I feel very strongly that something needs to be done. If we ignore it, it's going to happen later to be really difficult."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:16:21 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11781s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: response to audience criticism
+  "please don't give me the we're not doing any work or we're not doing any research or we're not looking at things or we don't care. [...] We do care and we're working hard, but we're listening, too. [...] I also appreciate this work has to be done."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:27:56 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=16076s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: POSSIBLE (unnamed; Sullivan raised housing on surplus land on 9/1)
+  topic: reuse of closed buildings for housing
+  "the [teachers'] union has some ideas too about building low-income housing [...] on our land and but we have to of course work through lots of lawyers [...] I'd love to see us do social housing."

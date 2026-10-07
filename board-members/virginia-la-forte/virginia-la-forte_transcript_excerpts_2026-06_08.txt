@@ -1,0 +1,88 @@
+Virginia La Forte (Zone 5; FIOC chair 2025-26) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. La Forte: moved Res. 7324; author of the travel-freeze (passed 7-0), OIPA-funding (failed 3-4) and generative-AI pause (passed 7-0) amendments; NO on 7342 (1-6 tally); YES on 7326.
+- 2026-07-07 officer election (Engelsman absent): Wang re-elected chair 6-0 (moved by presiding Vice Chair DePass per caption 'And I will move', seconded by Chase-Miller); Chase-Miller elected vice chair 6-0 (moved by Splitt, seconded by Sullivan). On 6/9 the chair announced that Wang AND Engelsman had filed intent to run for chair and Chase-Miller for vice chair; Engelsman withdrew her chair bid on 7/7.
+- 2026-08-04 Engelsman draft resolution 'sports for Creston Elementary graduates attending Hosford MS' (moved by La Forte, seconded by Engelsman) FAILED 1-4-1 (one late abstention; Sullivan apparently absent - no caption references; student rep Sandell no). Individual yes/no/abstain not identifiable from captions; the lone yes was most likely Engelsman (author). La Forte moved it and spoke sympathetically but asked staff for a root-cause fix.
+- 2026-06-11: chaired the TLE committee in place of Chase-Miller.
+
+EXCERPTS
+
+[2026-06-11 Teaching, Learning & Enrollment Committee - Alternative & Focus Option School overview]
+  time 01:20:22 | https://www.youtube.com/watch?v=SoDAXHeJW3Y&t=4822s
+  source: transcripts/text/2026-06-11_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SoDAXHeJW3Y.txt
+  attribution: CONFIRMED (chairing: "I'm Virginia Leaf Fort [...] standing in for um committee chair" at 00:01:03)
+  topic: focus/alternative option overview
+  "This is my favorite topic ever and we're so over time. [...] I might figure out how to follow up since we don't really have time for many questions"
+
+[2026-06-11 Teaching, Learning & Enrollment Committee - Alternative & Focus Option School overview]
+  time 01:44:46 | https://www.youtube.com/watch?v=SoDAXHeJW3Y&t=6286s
+  source: transcripts/text/2026-06-11_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SoDAXHeJW3Y.txt
+  attribution: CONFIRMED (acting chair closing the meeting)
+  topic: Jefferson 'is rising' update; instructional-time exemptions
+  "There is a document, uh, called Jefferson is rising, an update for sunsetting dual assignment. [...] We are currently exempting twothirds of our high school seniors from full schedules and I'd like to see a breakdown of the exemptions that the district is applying"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:12:12 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=7932s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (chair: "let's start with Director LaFrance's amendments"; she introduces it)
+  topic: travel-freeze amendment; savings to classroom FTE
+  "my first amendment is to um amend our proposed budget to implement a one-year freeze on discretionary travel for the Board of Education and PPS leadership [...] and to um reallocate those budget savings to classroom-based FTE positions. [...] in a year like this um we don't need to be we don't need to be traveling."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:31:27 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=9087s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (amendment author responding to Splitt's questions)
+  topic: symbolism of cutting travel while classrooms are cut
+  "we're taking such heavy hits in the classroom. Um I don't want to be sitting up here uh voting to send someone somewhere [...] when I just feel like it's inherently wrong. And I think it sends a message that, you know, we're in this with everybody."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:34:32 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=9272s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (OPB attributes the "$5" line to La Forte; Councilor Koyama Lane later cites "Director LaForte's attitude that saving $5")
+  topic: any savings worth it
+  "I've asked for all sorts of breakdowns, so I you know, I'm not too I if it's $5, it's worth passing for me."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:39:08 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=16748s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: POSSIBLE (unnamed; contract-renegotiation theme matches her 7/7 remarks)
+  topic: renegotiate contracts; delay vote to June 30
+  "when I think about ideas, I would love to go back to all of our personal services and outside contracts and renegotiate um our contracts. I um if this isn't a five-alarm fire, I don't know what is. So, I guess if we were to push the vote to June 30th, that That give us time"
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 00:56:13 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=3373s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (chair: "have director Lefort and then director split")
+  topic: multi-year not-to-exceed service contracts escape annual board review
+  "there are a significant number of contracts, the not to exceed multi-year contracts that run over like five years. [...] the individual annual contracts don't come back to this board for any sort of approval. [...] I sense that that is also in terms of transparency some of the frustration we're hearing from those that are critical of our personal services contracts. And I think it's a fair criticism."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:19:37 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=4777s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (chair: "go ahead director Lefor")
+  topic: public check register for spending transparency
+  "the city of Portland does an incredible job. [...] It is essentially a checkbook. It's a check register of every check that the city of Portland has cut to anyone that is searchable and it's broken down by fund."
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:11:14 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=7874s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (chair: "We'll start with Director Le Fort")
+  topic: split feeders (Creston vs Bridlemile)
+  "Crestston is the only one and I know you're going to talk about Bridal Mile. [...] It's weird and it's no fault of marshalss. It's no fault of the students, but it's odd. [...] So, Marshall, I'm asking you like what is what is the root cause and what is the solution?"
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:39:36 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=9576s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: PROBABLE (mover of the resolution; second turn before vote; distinct from Engelsman, who speaks next)
+  topic: fold middle-school athletics clusters into rightsizing; rejects 'vocal minority' framing
+  "what I would like to ensure is that the athletics, the cluster model athletics structure is part of what we are considering when we go through right sizing [...] I don't necessarily agree with this, you know, a small vocal minority because that's what our board tends to do. I totally disagree [...] we're open to committing to incorporating the structure of our cluster athletics program into our restructuring of our K8s and middle schools."

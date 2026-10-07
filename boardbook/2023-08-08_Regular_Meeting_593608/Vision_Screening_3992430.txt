@@ -1,0 +1,109 @@
+                                                Vision Screening
+
+   Performance Standard
+   1302.42
+   (b) Ensuring up-to-date child health status.
+        (2) Within 45 calendar days a er the child ﬁrst a ends the program or, for the home-based program op on,
+            receives a home visit, a program must either obtain or perform evidence-based vision and hearing screenings.
+
+
+ Procedure
+ PPS Head Start promotes childhood vision by providing annual screenings with a Plusop x vision screening
+ machine. PPS partners with the OHSU Casey Eye ELKS, a local non-proﬁt program that provides vision
+ screenings as well as follow up for families who give consent. The ELKS assist in the beginning of the school
+ year with vision screenings in classrooms, and reach out to families to oﬀer support for children who had a
+ ‘refer’ result.
+
+ Enrollment
+     ● At enrollment, Family Service Workers/Community Agents (FSW/CA) will explain the Casey Eye/ Elks
+       Preschool Vision Screening Program to the parent/guardian and complete the ELKS consent form..
+           ○ Consent forms must be completed legibly and include complete address.
+           ○ Parents check one of the boxes re: data collec on study (yes/no) and sign. Those who check
+              “yes” will also be oﬀered referral follow up from Elks Vision Program/Casey Eye.
+     ● Signed consent forms are kept on site in ﬁles per classroom, accessible during site visits.
+
+ Vision Screening at Sites
+     ● Health Team will send Head Start Teachers a sign-up form with me choices ahead of visit day.
+     ● The ELKS staﬀ will be accompanied by a Health Team staﬀ member, with the consent forms for each
+       class.
+     ● Ideally, screenings are completed in the classroom. The screener and the child each sit on chairs
+       opposite each other, about four(4) feet apart.
+            ○ Light may need to be dimmed in the classroom.
+     ● Classroom staﬀ are asked to iden fy children and send them to the screening area.
+     ● Results forms will be le at the site for families on the same day.
+     ● If a Head Start child is absent on screening day, Health Team staﬀ will return to site on a later date for
+       screening comple on.
+
+  Results & Follow Up: Head Start Children
+     ● Documenta on of screening results will be provided to the family on the same day. If a child had a
+       ‘refer’ result, a list of local possible vision providers that see pediatric pa ents will also be shared with
+
+Vision Screening (rev. 4/26/23)                                                                                   1
+       the family.
+           ○ If a child has a ‘refer’ result, Health Team staﬀ will no fy the FSW/CA and Teacher.
+     ● FSW/CA will make a phone call or face-to-face contact with parent/guardian within one week to inform
+       them of referral results and encourage them to schedule an appointment for a Dilated Vision exam.
+           ○ FSW/CA will assist family in making appointment as needed.
+           ○ If there are issues iden ﬁed as part of follow up (i.e., payment for glasses), FSW/CA will contact
+              the Health Team.
+           ○ If screening was done by Casey Eye, ELKS will also contact family to facilitate follow up with a
+              vision provider if permission was granted.
+     ● FSW/CA will follow-up monthly un l referral has been completed.
+           ○ FSW/CA will document all communica on with family as ‘ac ons’ in Vision ChildPlus event (see
+              data entry script below). Iden fy clinic where the child is seen for appointment/treatment and
+              appointment/treatment dates.
+     ● FSW Manager and Health Team will monitor follow-up reports monthly.
+
+
+ Data Entry Script
+ _______________________________________________________________________________________
+ Health Coordinator Data Entry:
+
+       ●   Go to the Health Services Tab
+       ●   Click on the Events Tab
+       ●   Click Add Event, then select Vision
+       ●   Event Date: Enter the date the screening was completed
+       ●   Select a Status:
+                  o Absent on Screening Date (for use when a empt was made at site but child was absent)
+                  o Follow-up Needed (refer results)
+                  o Needs Re-Screening
+                  o No Consent Signed
+                  o Parent Refused Permission- Not Screened
+                  o Pass
+       ●   Descrip on: Write in appropriate descrip on (ELKS, PhotoOp x, etc)
+       ●   Results: Write an appropriate ac on needed (i.e., ‘refer’)
+       ●   Agency Worker: FSW name
+       ●   Parental No ﬁca on: Complete this sec on if a screening result was provided to family
+       ●   Click the clock and add any per nent notes as needed
+       ●   Click Save
+       ●   Check ‘Treatment Received’ box in ‘ac on’ sec on of Vision event, as well as ‘Vision problems’ in the
+           ‘Chronic Condi ons’ sec on, if glasses/another type of vision therapy were prescribed for child.
+       ●   Upload vision form into ‘a achments’ tab tled ‘Vision Exam’
+
+ Family Service Worker/Community Agent Data Entry:
+
+ For Vision events with a ‘Follow-Up Needed’ status:
+
+ This is where you will be documen ng your work and the progress if follow-up is needed. Add a new ‘ac on’
+ each me communica on occurs around follow up (phone call, resource given, appointment made, etc.)
+
+
+Vision Screening (rev. 4/26/23)                                                                           2
+       ●   Open the child’s Vision Event in ChildPlus
+       ●   Click: Add Ac on
+       ●   Ac on Type: Choose appropriate type
+       ●   Scheduled Date: LEAVE BLANK
+       ●   Ac on Date: Date follow up occurred
+       ●   Descrip on: Write in what follow up was regarding
+       ●   Status: Choose an appropriate status
+       ●   Ac on Notes: Click the clock, document notes as needed
+       ●   Agency Worker: choose your name
+
+ Status of Vision event can be changed to ‘Follow Up Completed’ when informa on is received that child was
+ seen for a vision exam, and results are conﬁrmed.
+
+
+
+
+Vision Screening (rev. 4/26/23)                                                                      3
+

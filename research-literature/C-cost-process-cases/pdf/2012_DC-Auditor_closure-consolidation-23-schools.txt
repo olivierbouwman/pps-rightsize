@@ -1,0 +1,1512 @@
+019:1 2:i~G:cm
+
+
+
+
+                     Audit of the Closure and Consolidation
+                     of 23 D.C. Public Schools
+
+                     September 6,2012
+
+
+                     A Re port by the Office of the D.C. Auditor
+                     Yoianda Branche, D. C. Auditor
+
+
+
+
+           717 14th Street, N.W., Suite 900, Washington, D.C. 20005 (202) 727-3600
+        Table of Contents
+
+
+
+
+                             Acknowledgements ...................... Page 2
+
+
+                             Agency Accomplishments .............. Page 3
+
+
+                             Executive Summary ...................... Page 4
+
+
+                             Introduction .................................. Page 6
+
+
+                             Objectives, Scope and
+                             Methodology ............................... '" Page 6
+
+
+                             Background .................................. Page 7
+
+
+                             Findings and Recomlnendations .... Page 11
+
+
+                             Conclusion .................................... Page 18
+
+
+                             Summary of Potential Savings ........ Page 20
+
+
+                            Agency Comments ......................... Page 23
+
+
+                            Auditor's Response to
+                            Agency Comments ......................... Page 28
+
+
+                            Appendix 1.. .................................. Page 34
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                      Page 1
+         Acknowledgements
+
+
+
+                           The D.C. Auditor (Auditor) would like to thank the staff of the
+                           following agencies for their time, information, insight, and
+                           cooperation during the audit process: District of Columbia Public
+                           Schools (DCPS), the former Office of Public Education Facilities
+                           Modernization (OPEFM), now the Department of General Services,
+                           the former Department of Real Estate Services (ORES) I, Office of
+                           the Chief Financial Officer (OCFO), D.C. Metropolitan Police
+                           Department (MPD), and the Office of the State Superintendent of
+                           Education (OSSE).
+
+
+
+
+                           1 Since the completion of the audit, pursuant to D.C. Law 19-0021, "Fiscal Year
+                           2012 Budget Support Act of 2011," the Department of General Services assumed
+                           the functions of the Office of Public Education Facilities Modernization and the
+                           Department of l~eal Estate Services.
+
+
+
+
+Audit of the Closure and Consolidation 01'23 D.C. Public Schools
+Office of the District: of Columbia Auditor
+September 6, 2012                                                                                             Page 2
+Agency Accomplishments
+
+
+              In September 2010, D.C. Public Schools published a report titled,
+              "3 Years of Progress", noting the following accomplishments for
+              DCPS:
+
+                          •      Achieved dramatic gains in reading and math for
+                                 elementary and secondary students according to
+                                 the D.C. Comprehensive Assessment System;
+
+                          •      Doubled the percentage of African American
+                                 secondary students achieving advanced status in
+                                 reading and math;
+
+                          •      Doubled the percentage of special          education
+                                 students achieving proficient status;
+
+                          •     Ratified a union contract for teachers increasing the
+                                compensation f01" highly effective teachers in high·
+                                poverty schools, making it possible for DCPS to
+                                recruit) hire, and retain the very best teachers;
+
+                          •      Implemented a rigorous new teacher evaluation
+                                 system (IMPACT);
+
+                          •      Spent $156 million on school construction in Ward
+                                 5 and $133 million on school construction in Ward
+                                 8;
+
+                          •      Linked online access to more than 6,300 new
+                                 school· based computers for teachers and school
+                                 staff;
+                         •       Upgraded 51 school health suites;
+                         •       Created Early Stages, an innovative diagnostic
+                                 cen ter for children between the ages of two and five
+                                 years old, helping parents identify any delays that
+                                 a child might have and to provide appropriate
+                                 services for help in addressing those delays; and
+                         •       Added   more     than  1,300    preschool,     pre·
+                                 Kindergarten, and Head Start seats across all eight
+                                 wards,
+
+
+
+
+    Audit of the Closure and Consolidation of 23 D.C. Public Schools
+    Office of the District of Columbia Auditor
+    September 6, 2012                                                                    Page 3
+         Executive Summary
+
+
+                             In 2008, then Mayor Adrian Fenty announced a plan that
+                             required the closure and consolidation of 23 District of Columbia
+                             Public Schools.      The mayor described the closure and
+                             consolidation of the 23 schools as an effort to "consolidate
+                             resources in fully-functioning schools instead of spreading them
+                             out across buildings that are half-empty." The Office of Public
+                             Education Facilities Modernization (OPEFM) managed the closure
+                             and consolidation of the 23 schools with the support of
+                             contractors.
+
+                            The objective of this audit was to determine the cost of the
+                            closure and consolidation of the 23 schools.
+
+                             OPEFM reported to the Council of the District of Columbia that
+                             capital costs to facilitate the closure and consolidation of the 23
+                             schools were $9.7 million.        During the audit, we identified
+                             $8 million of additional costs associated with school closures and
+                             consolidations for a total of $17.7 million of costs that the District
+                             incurred to close and consolidate schools. Additionally, we found
+                             that school closures resulted in capital asset "impainnent losses"
+                             of $21.8 million. Including capital costs of $9.7 million identified
+                             by OPEFM, additional costs of $8 million identified by the Auditor
+                             and $21.8 million of impairment losses, the cost for the closure
+                             and consolidation of 23 D.C. Public Schools totaled $39.5 million.
+
+                            The following are additional key findings from the audit:
+                               1. OPEFM incorrectly reimbursed $112,691 to Management
+                                    Alternatives, Inc. (MAl) for project managers and move
+                                    supervisors costs.
+                               2. OPEFM expanded the scope of contract services and
+                                    increased the contract value by $550,000 without
+                                    executing a proper contract document.
+                               3. OPEFM improperly awarded MAl a $32,307 bonus.
+                               4. The contractors, MAl and Motir Services, Inc. (Motir), did
+                                    not provide D.C. Public Schools with a complete and
+                                    accurate inventory of the furnishings, fixtures, equipment,
+                                    and educational materials for the 23 closed schools, as
+                                    required by their contracts.
+                               5. OPEFM paid $5.8 million to contractors that failed to
+                                    submit documentation to support invoices.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                      Page 4
+                          To address the key audit findings, we recommend that the
+                          Director of the Department of General Services (successor agency
+                          to OPEFM):
+                              1. Develop and implement a training program for contract
+                                 adn1inistrators,      contracting       officer    technical
+                                 representatives and contract administrators/monitors that
+                                 provides instructions on the (1) monitoring/documenting
+                                 of contract deliverables, (2) monitoring/ documenting of
+                                 contractor performance, and (3) certification and
+                                 authorization of contractor invoices.
+                              2. Contact the District of Columbia Attorney General
+                                 regarding repayment by MAl of $112,691 that the District
+                                 improperly reimbursed MAl for the cost of project
+                                 managers and move supervisors.
+                              3. Develop a training program to instruct contracting
+                                 officers, contracting officer technical representatives and
+                                 contract administrators/lTIOnitors on properly executing
+                                 contract award processes and requirelnents.
+                              4. Contact the District of Columbia Attorney General
+                                 regarding the repayment by MAl of the $32,307 bonus
+                                 that the District improperly paid MAl.
+
+
+                          Given the $39.5 million cost to close and consolidate schools, it
+                          was imperative that OPEFM properly managed school closure and
+                          consolidation contracts for compliance with all contract terms.
+                          We found that OPEFM did not consistently ensure that all school
+                          closure and consolidation contracts were properly, efficiently and
+                          effectively managed. As a result, the closure and consolidation
+                          process exposed the resources of the District of Columbia to
+                          waste and malfeasance.
+
+
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                               Page 5
+        Introduction
+
+
+                          The audit of the June 2008 closure and consolidation of 23
+                          District of Columbia Pnblic Schools was part of the District of
+                          Columbia Auditor's (Auditor) discretionary authority to examine
+                          the operations and activities of District government agencies and
+                          instrumentalities.
+
+
+        Objectives, Scope, and Methodology
+
+
+                          Audit Objective
+                          The Auditor conducted an audit of the closure and consolidation
+                          of 23 District of Columbia Public Schools (DCPS) for School Years
+                          (SY) 2007 through SY 2009 to determine the cost of the closure
+                          and consolidation of the 23 schools.
+
+                          Audit Scope
+                          The initial audit period was SY 2007 through SY 2009; however,
+                          the scope was extended through September 30, 2010.
+
+                          Audit Methodology
+
+                          In conducting this examination, we reviewed the following:      (1)
+                          relevant provisions of the D.C. Official Code (D.C. Code) and D.C.
+                          Municipal Regulations (DCMR); (2) relevant documentation; (3)
+                          DCPS and Office of Public Education Facilities Modernization
+                          (OPEFM) emails; and (4) written materials from the Office of the
+                          State Superintendent of Education, Department of Real Estate
+                          Services, Management Alternatives Inc., and D. C. Metropolitan
+                          Police Department. We interviewed DCPS and OPEFM staff,
+                          including: the DCPS Chief of Staff; DCPS Director of Compliance;
+                          OPEFM's Contracts and Procurement staff; OPEFM's Financial
+                          Systems Manager; OPEFM's Project Manager; and OPEFM's
+                          Program Director.
+
+                          We conducted this audit in accordance with generally accepted
+                          government aUditing standards. Those standards require that we
+                          plan and perform the audit to obtain sufficient, appropriate
+                          evidence to provide a reasonable basis for our findings and
+                          conclusions based on our audit objectives. We believe that the
+                          evidence obtained provides a reasonable basis for our findings
+                          and conclusions based on our audit objectives.
+
+
+
+
+Audit of the Closure and Consolidatjon of23 D,C. Public Schools
+Office of tJ1C District of Columbia Auditor
+September 6, 2012                                                                               Page 6
+         Background
+
+                             The mission of DCPS is to educate children in the District of
+                             Columbia by providing the knowledge a nd s kills they n eed to
+                             achieve academic s uccess and to choose a rewarding professional
+                             pa th.
+
+                             In 2008, then Mayor Adrian Fenty announced a plan that
+                             required the closure and consolidation of 23 schools.        He
+                             described the closure and consolidation of the 23 schools as an
+                             effort to "consolidate r esources in fully-functioning schools
+                             ins tead of spreading them out across buildings that are
+                             half-empty."
+
+
+
+
+                             SCHOOL CLOSURE AND CONSOLIDATION
+
+                             The 23 schools that were identified for closure were: Backus
+                             Middle, Benning Elementary, Bowen Elementary, Brookla nd
+                             Elementary, Bruce-Monroe Elementary, Choice and Taft Center,
+                             Clark Elementary, Douglass Transition Academy, Gage-Eckington
+                             Elementary, Gibbs Elementary, Hine Middle, J.F. Cook
+                             Elementary, M. M. Washington High, Merritt Middle, Meyer
+                             Elementary, Moten Elementary, P.R. Harris Education Center,
+                             Rudolph Elementary, Shaw Elementary, Slowe Elementary,
+                             Stevens Elementary, Turner Elementary, and Young Elementary.
+                             OPEFM' managed the clos ure a nd consolidation of the 23
+
+
+                   2 Effective September 14, 20 11 , pursuant to D.C . Law 19-0021 entitled, the "Fisca l Year 2012 Budget
+                    Support Act of 20 11 ," OPEFM was eliminated as a District agency and the Department of General
+                    Services (OGS) was established. DOS assumed the Department of Real Estate Services (ORES), Office of
+                    Public Education Facilities Modernization (OPEFM), Municipal Facilities: Non-Capital agency, and the
+                    capital construction and real property management functions of several other District agencies.
+
+
+Audit of th e Closure and Consolid ation of 23 D.C. Public Sch ools
+Office of the District of Columbia Audi tor
+September 6, 2012                                                                                                  Page 7
+                           schools. The school closures and consolidations were scheduled
+                           to be completed in August 2008. However, the school closures
+                           and consolidations were not completed until November 20, 2008,
+                           because OPEFM amended the Inventory, Relocation, and Storage
+                           services contracts to expand the scope of services, increase the
+                           contractual amount, and extend the period of performance.
+
+                           SCHOOL CLOSURE AND CONSOLIDATION COSTS
+
+                           OPEFM reported to the Council of the District of Columbia
+                           (Council) that OPEFM had capital costs of $9.7 million to
+                           facilitate the closure and consolidation of the 23 schools. We
+                           verified the capital costs that OPEFM reported to the Council. We
+                           also identified $7,999,295 of additional costs associated with
+                           school closures and consolidations that OPEFM did not report to
+                           the Council. Detailed information regarding these costs for the
+                           closure and consolidation of 23 D.C. Public Schools is presented
+                           in Table 1.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                               Page 8
+                           Table I.               Total Costs for the Closure and Consolidation
+                                                  of 23 D.C. Public S c hools
+
+                      Service       I                   Description of Service                          Cost
+                                                        Costs Reported to Council
+                                        ·   Movin g sc hool assets from closed schools to a
+                                            wareh ouse;
+                    Inventory,          •   Moving items from the warehouse to receiving sch ools;
+                                            and
+                    Relocation ,
+                    and Storage         • Decommissioning3 t h e warehouse and moving
+                                            furnishings, fixtures, equipment, and educational
+                                            materials (FFE&EM) to Shaw Middle School for storage
+                                            a fter the warehouse was decommissioned.                  $9,746,737
+                                                      Co sts Identified by Auditor
+
+                     Inventory.
+                    Relocation,
+                                        · costs
+                                          Moving and relocation expenses for school closing
+                                                funded under the Intra·District agreement
+                    and Storage             between DCPS and OPEFM.                                   $3,098,447
+
+                     Demolition         ·• Demolition of Gage-Eckington in Dece mber 2009.
+                                           Demolition of Bruce-Monroe in May 2010.                    $3,345,748
+
+                      Security          · schools
+                                           Cost for D.C. Protective Services to patrol closed
+                                                  in FY 2009.                                            $38,870
+
+                        Bus             • Transpo rtat ion of displaced students from closed
+                  Tran sportation           sch ools to a ltern ate sc h ools (receiving schools):
+                                            Brookland to Bunker Hill; Bruce-Monroe to Park View;
+                   to Receiving
+                                            Meyer to ICC. Lewis; and Turner to Green for August
+                      Schools               2008 throu gh September 2009.                             $1 ,5 16,230
+
+                                   Total Additional Costs Identified by Auditor                       $7,999,295
+                         Total Costs for the Closure and Consolidation of 23 schools                 $ 17,746,032
+
+
+                           IMPAIRMENT LOSS
+                           In addition to th e $17.7 million of costs that the Dis trict incurred
+                           to close and consolidate schools, we found t hat the District a lso
+                           inc urred capital asset "impa irment losses" of $2 1. 8 million. A
+                           capital asset is conside red impa ired when t he service utility of the
+                           capital asset declined s ignifican tly and u nexpected ly. The closure
+                           of eight schools: Benning Elementary, Bruce- Monroe Elementary,
+                           Choice and Taft Center, Clark Elementary , Douglass Transition
+                           Academy, Gage-Eckington Elementary, J.F. Cook Elementary,
+                           and Slowe Elementary School resulted in permanent asset
+                           impa irment, which required the value of the assets to be reduced
+                           from book value to fair market value.             Table II presents
+                           impairment losses for 8 closed schools.
+
+
+
+                           3 To decommission means to remove from service.
+
+
+
+Audit of the Closure and Con solidation of 23 D.C. Public Schools
+Office o f the District of Columbia Auditor
+September 6,2012                                                                                       Page 9
+                             Table II. Public School Closures and Resulting Impairment
+                                       Losses
+
+                                         School                             2008                    2009
+                                                                        Impairment              Impairment
+                                                                            Loss                    Loss
+                                                                         (dollars in             (dollars in
+                                                                                                thou
+                       Benning Elementary School                           $1,641                  $3,275
+                       Bruce-Monroe ElementalY School                         0                    $1,523
+                       Choice and Taft Cen ter                             $3,084                     0
+                       Clark Elemen tary School                            $2,098                   $768
+                       Douglass Transition Academy                            0                    $1,275
+                       Gagc-Eckington Elementary School                       0                    $2,927
+                       cJ. F. Cook Elementary School                       $1,667                   $768
+                       Slm:ve Elementary                                   $2,742                     0
+
+
+
+
+                                 Total FY 2008 and FY 2009                Losses
+                     Source: FY 2008 and FY 2009 D.C. Comprehensive Annual Financial Report, Note 5, Capital
+                     Assets, pp. 86 and 82, respectively.
+
+                     Including capital costs of $9.7 million identified by OPEFM, additional
+                     costs of $8 million identified by the Auditor and $21.8 million of
+                     impairment losses, costs for the closure and consolidation of 23 D.C.
+                     Public Schools, totaled $39.5 million.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                    Page 10
+       Findings and Recommendations
+
+
+                          OPEFM Incorrectly Reimbursed $112,691 to MAl
+                          for Project Managers and Move Supervisors Costs
+
+                          The OPEFM contract with Management Alternatives Inc. (MAl)
+                          provides that, "It]he cost of project managers and supervisors shall
+                          not be reimbursable and is included in the Inventory and
+                          Relocation Fee, , .. "
+
+                          We reviewed 24 invoices submitted by MAl to OPEFM for payment
+                          for the period of June 2008 to February 2009. MAl submitted the
+                          invoices for project managers and move supervisors to OPEFM and
+                          OPEFM paid the amount invoiced by MAL Out of the 24 invoices
+                          MAl submitted, 4 invoices included costs for project managers and
+                          move supervisors totaling $112,691. Table III presents invoices
+                          totaling $112,691 for non-reimbursable costs for project managers
+                          and move supervisors.
+
+
+
+
+Audit of the Closure and Consolidation of23 D,C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                          Page 11
+                            Table III.          Project Managers and Move Supervisors Costs
+                                                                      --                                                                --
+                             Invoice Date         9/30/08                  9/10/08             9/30/08    10/5/08
+                                                  8/1 /08-                 8/16/08-            9/1/08-    9/16Tos-:-
+                             Work Dates
+                                                  8/15/08                  8/31/08             9/15/08    9/30/08               TOTAL
+                                Project
+                               Managers                  $1,040              $           314    $   165                        $    1,519
+                                  Cost          .__ .. _---_.                                                                  -----~
+
+
+
+                                 Move
+                             Supervisors                 $      950          $68,751            $27,951              $13,520   $111,172
+                                Cost                --            -                                       ~   ....                  -~~
+
+
+                              Total Non-
+                             reimbursable                $1,990              $69,065            $28,116              $13,520 $112,691
+                                 Cost     ---                                '-'   ..-                                     .... _.- --
+                           Source: MAl invoices.
+
+
+                           We determined that the incorrect payments were made for
+                           non-reimbursable costs because the Program Director, an OPEFM
+                           consultant, failed to properly review MAl's invoices_
+
+
+                           We recommend that the DOS Director:
+
+                           1. Develop and implement a training program for contract
+                               administrators,      contracting     officer    technical
+                               representatives and contract administrators/monitors
+                               that      provides     instructions     on    the      ( 1)
+                               monitoring/ documenting      of   contract   deliverables,
+                               (2) monitoring/ documenting of contractor performance,
+                               and (3) certification and authorization of contractor
+                               invoices.
+
+                           2. Contact the District of Columbia Attorney General
+                              regarding repayment by MAl of $112,691 that the District
+                              improperly reimbursed MAl for the cost of project
+                              managers and move supervisors.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                                                         Page 12
+                          OPEFM Expanded the Scope of Contract Services and
+                          Increased the Contract Value by $550,000 Without
+                          Executing a Proper Contract Document
+
+                          D.C. Official Code, (2001) Ed. § 2-359.01 (a) provides that "[a]
+                          District employee shall not enter into an oral agreement with a
+                          contractor to provide goods or services to the District government
+                          without a valid written contract. A violation of this paragraph
+                          shall be cause for termination of employment of the District
+                          employee." D.C. Official Code, (2001) Ed. § 2-359.01 (c) provides
+                          that "[e]xcept as authorized under subsection (d) of this section, a
+                          contractor who enters into an oral agreement with a District
+                          employee to provide goods or services to the District government
+                          without a valid written contract shall not be paid [Auditor's
+                          Emphasis]. If the oral agreement was entered into by a District
+                          employee at the direction of a supervisor, the supervisor shall be
+                          terminated .. ,,"
+
+                          The original OPEFM contract with MAl provided for the inventory,
+                          relocation, and storage of furnishings, fixtures, equipment, and
+                          educational Inaterials (FFE&EM) from the 23 closed and
+                          consolidated schools.    Subsequently, OPEFM issued Change
+                          Order Number 1) \\Ihich increased the original contract value by
+                          $550,000 and expanded the original contract scope of services.
+                          Change Order Number 1, although written, was not signed or
+                          dated by OPEFM or MAL
+
+                          OPEFM's Executive Director, who was also the Contracting
+                          Officer, did not ensure that Change Order Number 1 was properly
+                          executed. The OPEFM Senior Contract Specialist stated that at
+                          the time OPEFM issued Change Order Number 1, the
+                          organization was in its infancy. As a result, OPEFM had not
+                          implemented all the necessary systems and processes to ensure
+                          that all contracting actions were properly executed. Additionally,
+                          we found that OPEFM did not have written policies and
+                          procedures that required the Contracting Officer to verify that
+                          contracting documents; such as change orders, \vere signed.
+                          During the course of our audit, OPEFM issued policies and
+                          procedures that required the Contracting Officer to ensure and
+                          verify that contracting documents; such as change orders are
+                          signed.
+
+                          OPEFM violated District law by expanding the scope of contract
+                          services and increasing the value of the original contract by
+                          $550,000 without a valid contracting document.     Without a
+                          properly executed contract, the District cannot verify that
+                          accurate payrpents were made.
+
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                          Page 13
+                           We recommend that the DGS Director:
+
+                           3. Develop a training program to instruct contracting
+                              officers, contracting officer technical representatives and
+                              contract    administrators/ monitors     on   the    proper
+                              execution of contract awards and contract processes and
+                              requirements.
+
+
+
+                           OPEFM Improperly Awarded MAl a $32,307 Bonus
+
+                           Section 3.5, referred to as "Project Goals" of the Moving,
+                           Relocation and Storage Services contract between OPEFM and
+                           MAl, stated that OPEFM would pay MAl an incentive bonus if MAl
+                           relocated FFE&EM from closed schools to receiving schools by
+                           August 20, 2008. The contract specifically stated that the project
+                           goal must be achieved by August 20, 2008, regardless of whether
+                           failure to mcet the project goal was attributable to the contractor,
+                           its subcontractors, OPEFM or any third party.
+
+                           We found that OPEFM paid MAl a $32,307 bonus even though
+                           MAl did not finish relocating FFE&EM from the closed schools
+                           until October 2008, two months after the August 20, 2008,
+                           project goal.
+
+                           The contract between MAl and OPEFM was signed on June 25,
+                           2008. On July 3, 2008, OPEFM issued a "stop work order" that
+                           halted MAl's performance until July 16, 2008. In addition to the
+                           stop work order, OPEFM also issued Change Order Number 2,
+                           which extended the contract's period of performance to October
+                           20, 2008. However, OPEFM did not amend or modify the original
+                           contract provision that required MAl to meet the project goal by
+                           August 20, 2008 in order to be paid the bonus. Consequently,
+                           the terms of awarding MAl the bonus remained unchanged.
+
+                           The MAl invoice, dated November 28, 2008, included a request for
+                           the bonus payment. The invoice stated that MAl conducted work
+                           through October 21, 2008. The Program Director, an OPEFM
+                           consultant, improperly authorized and certified the November 28
+                           invoice for payment. As a result, the Program Director failed to
+                           properly adhere to the terms of the contract regarding meeting
+                           the August 20,2008 project goal. Consequently, MAl received
+                           payment for a $32,307 bonus that MAl was not entitled to
+                           receIve.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                            Page 14
+                           We recommend tha t the DGS Director:
+
+                            4. Develop and implement a training program for contract
+                               administrators,       contracting      officer    technical
+                               representatives and contract administrators/ monitors
+                               that        provides        instructions       on       the
+                               (1) monitoring/ documenting of contract deliverables,
+                               (2 ) monitoring/ documenting of contractor performance,
+                               and (3 ) certification and authorization of contractor
+                               invoices .
+
+                            5 . Contact the District of Columbia Attorney General
+                                regarding the repayment by MAl of the $32,307 bonus
+                                that the District improperly paid MAL
+
+
+
+                            The Contractors Did Not Provide DCPS with a
+                            Complete     and Accurate     Inventory of the
+                            Furnishings, Fixtures, Equipment, and Educational
+                            Materials for the 23 Closed Schools As Required by
+                            Their Contracts
+
+                           As provided in their r espective Inve ntory, Relocation a nd Storage
+                           service cont ract s, Motir Services, Inc. (Moti r) a n d MAl we re
+                           requi red to prepar e a n inve ntory s u rvey of th e furni s hings,
+                           fixtures, equipmen t, a nd education a l m ate ria ls (FFE&EM)
+                           rem oved from the 23 closed schools .4
+
+                            Motir a nd MAl were required to prepa re a n inve n tory su rvey tha t
+                            included :
+                            •   Tagging ea ch item or box of furnis hings, fixtures, equipmen t,
+                                and educationa l m a teria ls with a ba r code;
+                            •   Prepa ring a log of th e FFE&EM tha t included , at a minimum ,
+                                (1) a description of the item; (2) its current location ; a nd (3 ) a
+                                description of th e item 's condition (i. e. whether it is u seable,
+                                u n- u seable or needs repa ir); a nd
+                            •   Ma inta inin g a n inven tory log in a compute r da ta base, capable
+                                of being open ed a nd accessed by Microsoft Access software.
+
+                           We requested t h a t OPEFM provide documen tation to ve rify
+                           whet h er Motir and MAl complied with th e inventory survey
+                           provis ions of their respective con tracts. We determined th a t
+
+                            4 An inve ntory s u rvey is the total piece count of each FFE&EM category, s u ch as: the
+                            n u m ber of cha irs, tables, m usical instruments, comp uters, a nd desks. An inven tory
+                            survey does not include individ u a l identification of each piece of FFE&EM, bu t the
+                            tota l pieces in specific categories.
+
+
+
+Audit of the Clos ure a nd Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                                            Page 15
+                                neither Motir nor MAl fully complied with the inventory survey
+                                provIsIons. Specifically, an inventory survey was not conducted
+                                for 9 of 23 schools. Fifteen schools did not have their items bar-
+                                coded. Twenty-three schools did not have a description of the
+                                items and the condition noted. Eighteen schools' inve ntories were
+                                not logged into a database. Table IV presents a summary of
+                                Motir's and MAl 's performance.
+
+
+
+                               Table IV. Motir's and MAl's Performance Regarding the
+What does this                           Requirements of the Inventory Survey
+mean to you?
+                                                              Inventory   Barcode   Log Included       Inventory
+                                                                Survey              a description;       logged
+The District does                                             conducted                current            Into a
+   not have an                                                    of                location; and       database
+ accurate record                                               FFE&EM                "condition"
+ of furnishings,               Number of schools that
+     fixtures,                  Motir/MAI c omplied
+ equipment and                   with requirements                 14        8            0                    5
+   education a l               Number of s chools that
+  materials that                 Motir/MAI did not
+  were removed                     comply with
+from closed D.C.                  re quire m e nts                 9        15           23                18
+ Public Schools.
+                                  Tota l Closed a nd
+                                Consolidate d Schools             23        23           23                23
+
+                               The Program Director , an OPEFM consu ltant, stated that MAl and
+                               Motir were unable to m eet the contract requirements because
+                               DCPS did not have the necessary staff to facilitate dead lines
+                               imposed by OPEFM. Another issu e was the size of the relocation
+                               project.
+
+                               Since MAl and Motir did not fully comply with contract terms by
+                               properly conducting an inventory of furnishings , fixtures ,
+                               equipment, and educational materials, DCPS did not have an
+                               accurate inventory of the assets removed from the 23 closed
+                               schools. Without an accurate inventory, neither the Auditor nor
+                               OPEFM could properly and acc urately account for all FFE&EM.
+
+
+                               We recommend that the DGS Director:
+                               6. Develop and implement a training program for contract
+                                  administrators, contracting officer technical representatives
+                                  and    contract     administrators/ monitors  that   provides
+                                  instructions on the (1) monitoring/ documenting of contract
+                                  deliverables,   (2) monitoring/ documenting of contractor
+                                  performance, and (3) certification and authorization of
+                                  contractor invoices.
+
+
+
+
+     Audit of the Closure and Consolidation 0[23 D.C. Public Schools
+     Office of the District of Columbia Auditor
+     September 6, 2 012                                                                              Page 16
+                           OPEFM Paid $5.8 Million to Contractors That Failed
+                           to Submit Documentation to Support Invoices
+                           OPEFM contracts with Motir and MAl required that invoices be
+                           accompanied by supporting documentation, such as; time sheets for
+                           reimbursable labor, truck logs, and packing materials lists.
+
+                           We found that MAl did not submit timesheets, truck logs, or packing
+                           materials lists for 19 of 24 invoices. Motir submitted timesheets for
+                           only 1 of 10 invoices. Additionally, Motir did not submit truck logs or
+                           packing materials lists for any of the 10 invoices. Consequently, the
+                           Auditor could not determine whether OPEFM properly paid $1.9
+                           million to Motir and $3.9 million to MAL
+
+                           The Project Manager, an OPEFM consultant, stated that MAl and
+                           Motir did not submit certified payroll time sheets.     The Project
+                           Manager stated that he observed Motir and MAl employees working.
+                           The Project Manager also stated that his observations were sufficient
+                           to support the conclusion that the contractors worked the hours
+                           reported.
+
+                           OPEFM's failure to require the contractors to provide supporting
+                           documentation for invoice paylnent was in direct violation of their
+                           contract terms and exposed the District to possible fraudulent billing.
+
+
+                           We recommend that the DGS Director:
+
+                           7. Develop and implement a training program for contract
+                              administrators, contracting officer technical representatives
+                              and    contract     administrators/monitors   that   provides
+                              instructions on the (1) monitoring/documenting of contract
+                              deliverables,   (2) monitoring/ documenting   of contractor
+                              performance, and (3) certification and authorization of
+                              contractor invoices.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                           Page 17
+         Conclusion
+
+
+
+                            In 2008, then Mayor Adrian Fenty announced a plan that
+                            required the closure and consolidation of 23 District of Columbia
+                            Public Schools.      The mayor described the closure and
+                            consolidation of the 23 schools as an effort to "consolidate
+                            resources in fully-functioning schools instead of spreading them
+                            out across buildings that are half-empty."
+
+                            The Office of Public Education Facilities Modernization (OPEFM) 5
+                            managed the closure and consolidation of the 23 schools. OPEFM
+                            reported to the Council of the District of Columbia that capital
+                            costs to facilitate the closure and consolidation of the 23 schools
+                            were $9.7 million. During the audit, we identified $8 million of
+                            additional costs associated with school closures and
+                            consolidations for a total of $17.7 million of costs that the District
+                            incurred to close and consolidate schools. Additionally, we found
+                            that school closures resulted in capital asset "in1pairment losses"
+                            of $21.8 million. Including capital costs of $9.7 million identified
+                            by OPEFM, additional costs of $8 million identified by the Auditor
+                            and $21.8 million of impairment losses, the cost for the closure
+                            and consolidation of 23 D.C. Public Schools totaled $39.5 million.
+
+                            During the closure and consolidation process, OPEFM paid
+                            contractors $5.8 million without the required documentation to
+                            verify that work was actually performed, failed to properly execute
+                            a $550,000 change order and did not have contractors provide
+                            D.C. Public Schools with the required inventory of the
+                            furnishings, fixtures, equipment, and educational materials that
+                            were removed from the 23 schools. Given the $39.5 million cost
+                            to close and consolidate schools, it was imperative that OPEFM
+                            properly managed school closure and consolidation contracts for
+                            compliance with all contract terms.
+
+
+
+
+                  S Effective September 14, 2011, pursuant to D.C. Law 19-0021 entitled, the "Fiscal Year 2012
+                  Budget Support Act of 2011" OPEFM was eliminated as a District agency and the Department
+                                               J
+
+
+                  of General Services (DOS) was established. DGS assumed the Department of Real Estate
+                  Services (DRES), Office of Public Education Facilities Modernization (OPEFM), Municipal
+                  Facilities; Non-Capital agency, and the capital construction and real property management
+                  functions of several other District agencies.
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                      Page 18
+                            We found tha t OPEFM did n ot con s istently ensure tha t all sch ool
+                            closure and con s olida tion contra cts were properly, efficiently a nd
+                            effectively ma n aged. As a resul t , the closure a nd consolida tion
+                            process expo sed th e resources of the Dis trict of Columbia to
+                            waste a n d m a lfeasance .
+
+                                                                 Sincerely,
+
+
+
+                                                                 Yolanda Bra n che
+                                                                 Dis trict of Columbia Auditor
+
+
+
+
+Audi t ofthc Closure and Con solid ation of 23 D.C. Public Schools
+Office of the District of Columbia Aud itor
+September 6, 20 12                                                                               Page 19
+                          Summary of Potential Cost Savings, Increased Revenue, and
+                          Improved Efficiency Resulting From the Audit
+
+
+                                                                                          Increased                          Improved
+                            Finding                       Recommendation                   Revenue         Cost Savings      Efficiency
+
+    1               OPEFM Incorrectly               Develop and implement a                                                         x
+                    Reimbursed $112,691 to          training program for contract
+                    MAl for Project Managers        administrators, contracting
+                    and Move Supervisors            officer technical representatives
+                    Costs                           and contract
+                                                    administrators/monitors that
+                                                    provides instructions on the
+                                                    (1) monitoring/documenting of
+                                                    contract deliverables,
+                                                    (2) monitoringJ documenting of
+                                                    contractor performance, and
+                                                    (3) certification and
+                                                    authorization of contractor
+                                                    invoices.
+                                                                                        --------------            ~-~~-    --""~--
+
+
+
+
+                                                    Contact the District of                                  $112,691
+                                                    Columbia Attorney General
+                                                    regarding the repayment by
+                                                    MAl of $112,691 that the
+                                                    District improperly reimbursed
+                                                    MAl for the cost of project
+                                                    managers and move
+                                                    supervisors .
+.
+-~--    ..- .. "   _._-
+    2               OPEFM Expanded the              Develop a training program to                                                   x
+                    Scope of Contract               instruct contracting officers,
+                    Services and Increased          contracting officer technical
+                    the Contract Value by           representatives and contract
+                    $550,000 Without                administrators/monitors on
+                    Executing a Proper              the proper execu tion of
+                    Contract Document               contract awards and contract
+                                                    processes and requirements.
+                                             _._. _....                                                  ---~-~----~""~~--~----"--
+
+
+
+
+               Audit of the Closure and Consolidation of23 D.C. Public Schools
+               Office of the District of Columbia Auditor
+               September 6, 2012                                                                                          Page 20
+                                                      - - - - , - - - - . - c - - - - . - - , . - - -.. -
+                                                                    Increased                   Improved
+              Finding                        Recommendation          Revenue    Cost Savings    Efficiency
+
+3   OPEFM Improperly                 Develop and implement a                                          x
+    Awarded MAl a $32,307            training program for contract
+    Bonus                            administrators, contracting
+                                     officer technical
+                                     representatives and contract
+                                     administrators/monitors that
+                                     provides instructions on the
+                                     (1) monitoring/documenting of
+                                     contract deliverables,
+                                     (2) monitoring/documenting of
+                                     contractor performance, and
+                                     (3) certification and
+                                     authorization of contractor
+                                     invoices.
+
+                                     Con tact the District of                           $32,307
+                                     Columbia Attorney General
+                                     regarding the repayment by
+                                     MAl of the $32,307 bonus that
+                                     the District improperly paid
+                                     MAL
+                        - _... - ...- - . - - - - . - . -..   ~-----    .....•.   -.~
+
+
+
+
+    The Contractors Did Not          Develop and implement a                                          x
+    Provide DCPS with a              training program for can tract
+    Complete and Accurate            administrators, contracting
+    Inventory of the                 officer technical
+    Furnishings, Fixtures,           representatives and contract
+    Equipment, and                   administrators/monitors that
+    Educational Materials for        provides instructions on the
+    the 23 Closed Schools As
+    Required by Their                (1) monitoring/ documen ting of
+                                     contract. deliverablcs,
+    Contracts
+                                     (2) monitoring/ documenting of
+                                     contractor performance, and
+                                     (3) certification and
+                                     authorization of contractor
+                                     invoices.
+
+
+
+
+     Audit of the Closure and Consolidation of 23 D.C. Public Schools
+     Office of the District of Columbia Auditor
+     September 6, 2012                                                                            Page 21
+                                                                            Increased                  Improved
+              Finding                       Recommendation                   Revenue    Cost Savings   Efficiency
+
+5   OPEFM Paid $5.8 Million          Develop and implement a                                               x
+    to Contractors That              training program for con tract
+    Failed to Submit                 administrators, contracting
+                                     officer technical
+    Documentation to
+                                     representatives and contract
+    Support Invoices                 administrators /monitors that
+                                     provides instructions on the
+                                     (1) monitoring / documenting
+                                     of contract deliverables,
+                                     (2) monitoring/ documenting of
+                                     contractor performance, and
+                                     (3) certification and
+                                     authorization of contractor
+                                     invoices.
+
+
+
+
+                                                    --""-~--"-   "--~-~   -.~~--~-- --""-----"----~
+
+
+
+
+          TOTAL                                                                            $144,998
+
+
+
+
+     Audit of the Closure and Consolidation of 23 D.C. Public Schools
+     Office of the District of Columbia Auditor
+     September 6, 2012                                                                                 Page 22
+         Agency Comments
+
+                            On May 21, 2012, the Office of the District of Columbia Auditor
+                            submitted the draft report titled, "Audit of the Closure and
+                            Consolidation of 23 D.C. Public Schools" for review and comment
+                            to the Director of the Department of General Services.
+
+                            The Auditor received supplemental (revised) written comments
+                            from DGS on July 10, 2012. The supplemental written comments
+                            are attached to this report.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                       Page 23
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          DEPARTMENT OF GENERAL SERVICES
+
+
+
+
+Office of the Director
+
+July 10,2012
+
+Via Email
+Yolanda Branche
+District of Columbia Auditor
+717 14'h Street NW, Suite 900
+Washington, DC 20005
+
+                 RE:     DGS Comments to Draft Report Entitled - Supplemental Response
+                         Audit of the Closure and Consolidation of23 D.C. Public Schools
+
+Dear Ms. Branche:
+
+        This correspondence serves as a follow-up to this agency's prior response dated June 13,
+2012. As noted at that time, the agency's responses to Recommendations I and 6 required
+additional follow-up and a review of agency records to determine the accuracy of the
+information. We have concluded our review and supplemented our responses as provided in the
+attached summary table.
+
+       Please do not hesitate to contact Camille D. Sabbakhan, DGS Interim General Counsel, if
+you have questions or require additional information. She can be reached at 202.724.4170.
+Thank you again for the opportunity to provide comments in this matter.
+
+
+
+
+                                                  li~R:
+                                                    Brian J. Hanlon,
+                                                    Acting Director
+
+
+cc:      Camille D. Sabbakhan, Interim General Counsel
+         Scott Burrell, Chief Operating Officer
+         Desiree Townes, Acting Chief of Staff
+         Ronald Gaskins, ODCA
+         Lawrence Perry, ODCA
+      Audit of the Closure and Consolidation of 23 D.C. Public Schools
+      Recommendations Summary Table - REVISED
+      Department af General Services
+      June 28, 2012
+
+                I                                                         Agency Agrees                                          Agency Disagrees
+           #                          RECOMMENDATION                      Date Agency will Implement                             Alternative
+                                                                          Recommendation                                         Recommendation
+           1       Develop and implement a training program for contract The agency agrees with the importance of staff          Finding No.1 SUlllllemental
+                   administrators, contracting officer technical          training to ensure that contracting staff members      Resllonse:
+                 I representatives and contract administrators/monitors   possess the requisite knowledge to administer          OPEFM did not "incorrectly           I
+                                                                                                                                                                      I
+                   that provide instruction on:                         ! contracts. All OPEFM contracting and                   reimburse $112,691 to MAl for        I
+
+                   (1) Monitoring/documenting contract deliverables,    I procurement staff completed DCSS training              project managers and move
+                   (2) Monitoring/documenting contractor performance,     through OCP as of August 30, 2011.                     supervisor costs." Our subsequent
+                   and                                                                                                           detailed review of cited invoices
+                   (3) Certifying and authorizing contractor invoices.    The agency will require additional time to             confirms that costs are associated
+                 I
+                 I                                                        conduct an exhaustive review of invoices to verify     with approved change order work. i
+                 I
+                                                                          whether MAl was paid improperly or whether             The project management fee was I
+                                                                          some valid contractual basis existed for payment       only intended to cover work
+                                                                          of the $112,691 for project manager and move           within the base contract. The
+                                                                          supervisor costs. This review will be completed by     change order provided a modified
+      I                                                                   June 30, 2012.                                         scope of work and payments           I
+      !                                                                                                                                                               I
+                                                                                                                                 made by OPEFM for project            i
+                                                                                                                                 managers and move supervisors
+                                                                                                                                 reflect permitted costs for the
+                                                                                                                                 modified scope of work as
+                                                                                                                               I negotiated and paid under the
+                                                                                                                               I approved change order. Each
+                                                                                                                                 invoice package makes specific
+                                                                                                                                 reference to the change order
+                                                                                                                                 work ("525 Requests, 6th Grade
+                                                                                                                                 Transitions,. . ). Additionally, the
+                                                                                                                                 project management and move
+                                                                                                                                 supervisor costs are also
+                                                                                                                                 appropriate equitable
+                                                                                                                                 adjustments under the Changes
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6, 2012                                                                                                                                           Page 24
+                                                                             ,
+                                                                             I Agency Agrees                                                 Agency Disagrees
+           #                         RECOMMENDATION                          I Date Agency will Implement                                    Alternative
+                                                                             I Recommendation                                                Recommendation
+                                                                                                                                             section of the Contract.
+
+
+
+                                                                                                                                         I
+           2        Contact the District of Columbia Attorney General            To the extent the agency's review of the invoices       I Please see above response for this
+                    regarding repayment by MAl of $112,691 that the              reveals that MAl was paid $112,691 improperly,              Recommendation associated with       I
+                    District improperly reimbursed MAl for the cost of the       the agency agrees to initiate appropriate action            Finding No.1                         I
+                    project managers and move supervisors                        to recover improperly paid funds, including
+                                                                                 referral to the Office of the Attorney General for
+                                                                                 collection, within thirty (30) days of conclusion of
+                                                                                 our review of invoices.
+                I
+           3    I Develop a training program to instruct contracting                                                        -    --      I
+
+                !, officers technical representatives and contract                                                                    rs
+                                                                                                                                         I
+                                                                                                                                                                                  ,i
+                I administrators/monitors on properly executing                                                                                                                   I
+                    contract award processes and requirements.               I
+
+
+
+
+      II        !                                                                                                                        I
+                                                                                 current DGS procurement policies and
+                                                                                 procedures require the Contracting Officer to
+                                                                                 verify that contracting documents are executed
+                                                                                 prior to contract performance.
+           4        Contact the District of Columbia Attorney General                                                                      Finding No.3 Response: Although
+                    regarding the repayment by MAl of the $32,307 bonus                                                                    changes in the performance
+                    that the District improperly paid MAL                                                                                  requirements necessary to receive
+                                                                                                                                           the bonus should have been
+                                                                                                                                         I reflected in a contract
+                                                                                                                                           modification, MAl satisfied the
+                                                                                                                                           agency's revised timeline and
+                                                                                                                                           deliverables as communicated to
+                                                                                                                                           MAl by the agency, and
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                                                                                        Page 25
+                                                                             Agency Agrees                                       Agency Disagrees
+           #                         RECOMMENDATION                          Date Agency will Implement                          Alternative
+                                                                             Recommendation                                      Recommendation
+                                                                                                                                 accordingly, the bonus was
+                                                                                                                                 deemed appropriate. Therefore,      I
+
+                                                                                                                                 legal action to now collect the     I
+                                                                                                                                 bonus from MAl would not be         I
+                                                                                                                                 appropriate. In the future, the
+                                                                                                                                 agency will reflect such changes as
+                                                                                                                                 a modification of the contract
+                                                                                                                                 signed by the Contracting Officer.
+
+           S    I Formally designate in writing the assignment of a          The agency agrees with formal designation of a      Finding No.4 Response:
+      I,          contracting officer technical representative and the       COTR to assist in contract administration.          The agency disagrees with the
+                  respective roles and responsibilities of the contracting                                                       finding and basis for the            I
+                  officer technical representative.                          However, the agency disagrees with the finding      recommendation. Neither DCPS
+                                                                             and basis for the recommendation. Neither DCPS      nor OPEFM intended to or
+                                                                             nor OPEFM intended to or required an inventory      required an inventory of all assets.
+      ,
+                                                                             all assets. The District required and the           The District required and the
+                                                                             contractors inventoried only those assets           contractors inventoried only those
+                                                                             retained by DCPS. Going forward, the agency will    assets retained by DCPS.
+                                                                             more clearly provide the contract requirements in
+                                                                             the scope of services to avoid ambiguity related
+                                                                             to e actual services provided by the contractors.
+           6      To correct the deficiencies noted in Findings 3,4 and 5,   The agency agrees with the importance of staff      Finding No. S Supplemental
+                I we recommend that DGS develop and implement a              training to ensure that contracting staff members   Response:
+                I training program for contract administrators,              possess the requisite knowledge to administer       Detailed review of invoices
+                I contracting officer technical representatives and          contracts. All OPEFM contracting and                confirms that the 'RFP Template'
+                  contract administrators/monitors that provide              procurement staff completed DCSS training as of     was used as the basis for
+                  instruction on:                                            August 30, 2011.                                    evaluating and approving
+                                                                                                                                 payments.
+                       (1) Monitoring/documenting contract deliverables,     However, the agency disagrees with the basis for    Contractor's proposal included a
+                      (2) Monitoring/documenting contractor                  the recommendation and the finding that OPEFM       'loaded' RFP Template for each
+                      performance, and                                       paid $5.8 million to contractors who failed to      school which established the
+                                                                             provide documentation for invoices. Contrary to     expected cost 'baseline' for each
+                I Certifying and authorizing contractor invoices.            the assertion provided in the Report, OPEFM         school, and the original NTE value
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                                                                            Page 26
+                                                                   Agency Agrees                                     i Agency Disagrees
+           #                          RECOMMENDATION               Date Agency will Implement                          Alternative
+                                                                   Recommendation                                      Recommendation                      I
+                                                                   utilized an RFP template, not certified payroll     of the base contract.
+                                                                   timesheets, as documentation for payments.
+                                                                   OPEFM paid invoices based on the costs of tasks     A copy of the 'RFP Template' is     I
+                                                                   reflected in the RFP template. The agency will      attached; the contract's Unit Rates i
+                                                                   require additional time to conduct an exhaustive    are established via this Exhibit C.
+                                                                   review of agency records to confirm that
+                                                                   contractors submitted the requisite
+                                                                   documentation to support invoices in the amount
+                                                                   of $5.8 million. This review will be completed by
+                                                                   June 30, 2012.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                                                                                 Page 27
+         Auditor's Response to the Comments of the Department of
+         General Services
+
+                           The Auditor appreciates the comments provided                        by    the
+                           Department of Oeneral Services on the draft report.
+                           Specifically, the Auditor requested that the Director of DOS:
+
+                           •   address each recommendation included in the report;
+                           •    indicate whether         DOS       agreed   or   disagreed   with    each
+                                recommendation;
+                           •    if DOS agreed with the recommendation, provide a timeframe
+                                for the implementation of the recommendation; and
+                           •    if DOS disagreed with the recommendation, suggest an
+                                alternative recommendation to address the audit finding.
+
+                           The Auditor offers the following responses to comments provided
+                           by DOS.
+                           1. Develop and implement a training program for contract
+                              administrators,      contracting     officer    technical
+                              representatives and contract administrators/monitors
+                              that     provide      instructions     on     the      (1)
+                              monitoring/ documenting      of   contract   deliverables;
+                              (2) monitoring/documenting of contractor performance;
+                              and (3) certification and authorization of contractor
+                               invoices.
+
+                           The Department of General Services' Response:
+
+                           The agency agrees with the importance of staff training to ensure
+                           that contracting staff members possess the requisite knowledge to
+                           administer contracts. All OPEFM contracting and procurement
+                           staff completed DCSS training through OCP as of August 30,
+                           2011.
+                           Auditor's Response:
+                           According to the Office of Contracting and Procurement website,
+                           the District of Columbia Supply Schedule (DCSS) " .. .is the city's
+                           multiple award schedule procurement program for providing
+                           commercial products and services to District government
+                           agencies." DCSS training is focused on successful operation of
+                           the DCSS program. The Auditor stands by the recommendation
+                           for training focused on monitoring/ documenting contract
+                           deliverables      and      contractor      performance,       and
+                           certifying/authorizing contractor invoices for all DOS contract
+                           awards.
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+Sept-embel" 6,2012                                                                                    Page 28
+                           2. Contact the District of Columbia Attorney General
+                              regarding repayment by MAl of $112,691 that the District
+                              improperly reimbursed MAl for the cost of the project
+                              managers and move supervisors.
+
+                           The Department of General Services' Response:
+
+                           OPEFM did not "incorrectly reimburse $112,691 to MAl for
+                           project managers and move supervisor costs." Our subsequent
+                           detailed review of cited invoices confirms that costs are associated
+                           with approved change order work. The project management fee
+                           was only intended to cover work within the base contract. The
+                           change order provided a modified scope of work and payments
+                           made by OPEFM for project managers and move supervisors
+                           reflect permitted costs for the modified scope of work as
+                           negotiated and paid under the approved change order. Each
+                           invoice package makes specific reference to the change order
+                           work ("525 Requests, 6"' Orade Transitions, .. ). Additionally, the
+                           project managelnent and lllove supervisor costs are also
+                           appropriate equitable adjustments under the Changes section of
+                           the con tract.
+
+                           Auditor's Response:
+                           The Auditor does            not    accept   DOS'   response   to   this
+                           recommendation.
+
+                           DOS maintains that the project management fee was only
+                           intended to cover work within the base contract and that
+                           payments made for project managers and move supervisors were
+                           permitted based on a change order that provided a modified scope
+                           of work.
+
+                          In the referenced change order (Change Order Number One),
+                          Section 3 Revised Scope of Work provides, "The Contractor's
+                          scope of work is revised to include the work as identified in the
+                          Change Proposal, and in general, includes the inventorying,
+                          packing, and relocating of existing assets at the 6'" Orade
+                          Reconfiguration and NCLB Reconstituted Schools."
+
+
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                               Page 29
+                          While Change Order Number One increased the contract's value
+                          by $550,000 to cover the additional work, the Change Proposal
+                          makes no mention of project managers or move supervisors.
+                          Further, in the change order, Section 1 Prior Agreement provides,
+                          "Except as expressly set forth herein, the Contract, as the
+                          same may have been amended from time to time prior
+                          hereto, shall remain unaffected and all of its terms,
+                          conditions and provisions shall remain in full force and effect
+                          (Auditor's emphasis)."
+
+                          Accordingly, the Auditor concludes that if the contractual
+                          prohibition on reimbursing the costs of project managers and
+                          lllove supervisors \vas no longer intended to apply \vhen the
+                          change order was in1plclnented, such language would have been
+                          clearly indicated in the change order. We also note that the
+                          change order was not executed, as required, by the contractor or
+                          the Chief Contracting Officer. When we requested an executed
+                          copy of the change order, DGS replied that, "The Project Manager
+                          was not able to locate the executed copy ... "
+
+                          Regarding Do-S' assertion that "project Inanagclnent and 1110ve
+                          supervisor costs are also appropriate equitable adjustments
+                          under the Changes section of the contract," we note that such
+                          assertion is invalid because the $112,691 payment was not made
+                          through the equitable adjustment process.
+                          3. Develop a training program to instruct contracting
+                             officers, contracting officer technical representatives and
+                             contract administrators/monitors on properly executing
+                             contract award processes and requirements.
+
+
+                          The Department of General Services' Response:
+                          The same response made in recommendation 1.
+
+
+                          Auditor's Response:
+                          According to the Office of Contracting and Procurement website,
+                          the District of Columbia Supply Schedule (DCSS) " ... is the city's
+                          multiple award schedule procurement program for providing
+                          commercial products and services to District government
+                          agencies." DCSS training is focused on successful operation of
+                          the DCSS program. The Auditor stands by the recommendation
+                          for training focused on monitoring/documenting contract
+                          deliverables       and      contractor     performance,       and
+                          certifying/ authorizing contractor invoices for all DGS contract
+                          awards.
+
+
+
+Audit of the Closure and Consolidation 0[23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                          Page 30
+                           4. Develop and implement a training program for contract
+                              administrators,      contracting     officer    technical
+                              representatives and contract administrators/monitors
+                              that       provide        instructions       on       the
+                              (1) monitoring/documenting of contract deliverables,
+                              (2) monitoring/ documenting of contractor performance,
+                              and (3) certification and authorization of contractor
+                              invoices.
+
+
+                          The Department of General Services' Response:
+                           DGS did not provide a response to this recommendation.
+
+
+                          Auditor's Response:
+                          The Auditor stands by the recommendation.
+                          5. Contact the District of Columbia Attorney General
+                             regarding the repayment by MAl of the $32,307 bonus
+                             that the District improperly paid MAL
+
+
+                          The Department of General Services' Response:
+                          Although changes in the performance requirements necessary to
+                          receive the bonus should have been reflected in a contract
+                          modification, MAl satisfied the agency's revised timeline and
+                          deliverables as communicated to MAl by the agency, and
+                          accordingly, the bonus was deemed appropriate. Therefore, legal
+                          action to now collect the bonus from MAl would not be
+                          appropriate. In the future, the agency will reflect such changes
+                          as a modification of the contract signed by the Contracting
+                          Officer.
+
+
+                          Auditor's Response:
+                          The Auditor does             not    accept   DGS'   response   to   this
+                          recommendation.
+
+                          DGS acknowledges that a contract modification should have been
+                          in place to support the bonus payment. Absent the required
+                          contract modification, there is no documentation of a "revised
+                          timeline" that MAl allegedly met. MAl was duly paid for relocating
+                          FFE&EM in accordance with the contract and should not have
+                          received an incentive bonus payment when the contract had not
+                          been modified.
+
+
+
+
+Audit of the Closure and Consolidation of23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                               Page 31
+                           Also, in stating that "... MAI satisfied the agency's revised timeline
+                           and deliverables as communicated to MAl by the agency ... ," the
+                           implication is that the bonus payment was made based on an oral
+                           agreement. Per D.C. Official Code, (2001) Ed. § 2·359.01, an oral
+                           agreement without a valid written contract (a written contract
+                           modification in this case) is prohibited.
+                           6. Develop and implement a training program for contract
+                              administrators,      contracting      officer     technical
+                              representatives and contract administrators/monitors
+                              that      provide      instructions     on      the      (1)
+                              monitoring/ documenting      of    contract    deliverables,
+                              (2) monitoring/ documenting of contractor performance,
+                              and (3) certifying and authorizing contractor invoices.
+
+
+                           The Department of General Services' Response:
+                           However, the agency disagrees with the basis for the
+                           recommendation and the finding that OPEFM paid $5.8 million to
+                           contractors \vho failed to provide documentation for invoices.
+                           Contrary to the assertion provided in the Report, OPEFM utilized
+                           an RFP template, not certified payroll timesheets, as
+                           documentation for payments. OPEFM paid invoices based on the
+                           costs of tasks reflected in the RFP template.
+
+                           Detailed review of invoices confirms that the "RFP Template" was
+                           used as the basis for evaluating and approving payments.
+                           Contractor's proposal includes a "loaded" RFP Template for each
+                           school which established the expected cost "baseline" for each
+                           school, and the original NTE value of the base contract. A copy of
+                           the "RFP Template" is attached; the contract's Unit Rates are
+                           established via this Exhibit C.
+                           Auditor's Response:
+                           According to the Office of Contracting and Procurement website,
+                           the District of Columbia Supply Schedule (DCSS) "... is the city's
+                           multiple award schedule procurement program for providing
+                           commercial products and services to District government
+                           agencies." DCSS training is focused on successful operation of
+                           the DCSS program. The Auditor stands by the recommendation
+                           for training focused on monitoring/documenting contract
+                           deliverables       and      contractor     performance,      and
+                           certifying/ authorizing contractor invoices for all DGS contract
+                           a\lI,lards.
+
+
+
+
+Audit of the Closure and Consolidat.ion of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                              Page 32
+                           The Auditor stands by the recommendation. The invoice payment
+                           provision under both the Motir and MAl contracts, Section 7.2
+                           Supporting Documentation provides, "With the exception of the
+                           first progress payment, the Contractor shall submit with each
+                           invoice cost backup related to the immediately prior progress
+                           payment (i.e., the backup information submitted with the July
+                           14th invoice shall be applicable to the time period covered by the
+                           July 1,t invoice). Such back-up information shall include: (I)
+                           time sheets for all reimbursable labor; (2) logs showing the trucks
+                           and other reimbursable equipment used during that period; and
+                           (3) a log of all packing materials used during that period ... "
+
+                           Based on the contract, both contractors were required to provide
+                           supporting documentation to support invoice cost. Additionally,
+                           proper In on ito ring required DGS to revie\v the invoices and
+                           supporting documentation prior to making payment. Neither
+                           contract referenced utilizing a "RFP Template," as the basis for
+                           making payments. Further, the DGS RFP Template is actually a
+                           schedule of the contractually agreed upon reimbursable costs
+                           hourly and unit rates for field labor, truck and equipment costs,
+                           packing materials, and warehouse space. The OPEFM "RFP
+                           Template" is included in Appendix I as "Exhibit C" unit rates.
+
+
+
+
+Audit of the Closure and Consolidation of 23 D.C. Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                                           Page 33
+         Appendix 1
+
+
+
+
+Audit of the Closure and Consolidation of23 D.C, Public Schools
+Office of the District of Columbia Auditor
+September 6,2012                                                  Page 34
+Exhibit C
+
+Unit Rates
+& MATERIAL RATES
+
+
+                   Over-Time Labor
+Labor for Inventory,      oving & Packing
+     I
+
+
+
+
+'The overtime charge for the above categories (not including the professional trades)
+applies after 5 p.m. and before 8:00 a.m. Monday -Friday; all day onSaturday,
+Sundays and Holidays.
+

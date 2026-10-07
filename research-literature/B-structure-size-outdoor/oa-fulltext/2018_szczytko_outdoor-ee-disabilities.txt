@@ -1,0 +1,631 @@
+                                                                                                                                               ORIGINAL RESEARCH
+                                                                                                                                               published: 19 June 2018
+                                                                                                                                        doi: 10.3389/feduc.2018.00046
+
+
+
+
+                                               Impacts of Outdoor Environmental
+                                               Education on Teacher Reports of
+                                               Attention, Behavior, and Learning
+                                               Outcomes for Students With
+                                               Emotional, Cognitive, and Behavioral
+                                               Disabilities
+                                               Rachel Szczytko 1*, Sarah J. Carrier 2 and Kathryn T. Stevenson 1
+                                               1
+                                                Department of Parks, Recreation, and Tourism Management, College of Natural Resources, North Carolina State University,
+                                               Raleigh, NC, United States, 2 Teacher Education and Learning Sciences, College of Education, North Carolina State
+                                               University, Raleigh, NC, United States
+
+
+
+                                               There are over 4 million students with reported emotional, cognitive, and behavioral
+                                               disabilities (ECBD) in the United States. Teachers most frequently situate instruction
+                         Edited by:
+                          Ming Kuo,            inside, however, outdoor environmental education (EE) can improve academic and
+              University of Illinois at        affective outcomes for many students, including students with ECBD. In North Carolina,
+   Urbana-Champaign, United States
+                                               U.S.A., an EE program utilizes outdoor science instruction for fifth-grade students. The
+                         Reviewed by:
+                                               program takes place over four to 10 full-school days across the year, and instruction
+                         Mats Granlund,
+        Jönköping University, Sweden           occurs in both schoolyards and natural areas. The program aligns outdoor EE with
+                        Martha Monroe,         state and national science education standards. Using a quasi-experimental design, the
+    University of Florida, United States
+                                               present study examined the impacts of the program on indicators of ECBD (e.g., student
+                   *Correspondence:
+                      Rachel Szczytko          behavior, attention span), science efficacy, nature of science, and academic achievement
+           rachel.szczytko@gmail.com           for students with ECBD. We measured these factors using online surveys from both
+                                               students identified with ECBD and their classroom teachers, as well as students with
+                    Specialty section:
+          This article was submitted to
+                                               ECBD from matched control schools and their respective teachers. Students in both
+              Educational Psychology,          treatment (n = 99) and control (n = 62) classrooms took the survey two times over
+                a section of the journal
+                                               the school year. Quantitative data revealed teachers perceived students had significantly
+                 Frontiers in Education
+                                               improved attention spans and decreased disruptive behaviors when learning outdoors.
+         Received: 02 February 2018
+            Accepted: 31 May 2018              Students in the treatment group maintained measures of nature of science, science
+           Published: 19 June 2018             efficacy and science grades, keeping in line with their peers in the control group. We
+                             Citation:         supplemented survey data with teacher interview data about their impressions of the
+            Szczytko R, Carrier SJ and
+     Stevenson KT (2018) Impacts of
+                                               outdoor program and the experiences of their students identified with ECBD. Teacher
+ Outdoor Environmental Education on            interview responses supported quantitative findings. These findings indicate that outdoor
+        Teacher Reports of Attention,
+                                               EE has the potential to be at least as effective a method for science instruction as
+ Behavior, and Learning Outcomes for
+  Students With Emotional, Cognitive,          classroom teaching, and in the case of addressing indicators of ECBD, outdoor EE may
+            and Behavioral Disabilities.       be a successful strategy for student learning.
+                    Front. Educ. 3:46.
+     doi: 10.3389/feduc.2018.00046             Keywords: environmental education, attention, behavior, classroom, schoolyard, learning impairment, disability
+
+
+
+
+Frontiers in Education | www.frontiersin.org                                         1                                                 June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                Environmental Education and Students With Disabilities
+
+
+
+INTRODUCTION                                                                 Environmental education (EE) may be a particularly
+                                                                         promising strategy for helping ECBD students, as it has potential
+Throughout the United States, there are 4 million public school          to combine time outdoors with instructional practices shown
+students (i.e., 18 and under) identified with emotional,                 to be effective with ECBD students. The United States’ EPA
+cognitive, and behavioral disabilities (ECBD) (National                  (2018) defines environmental education (EE) as “a process that
+Center for Education Statistics, 2017). The phrasing                     allows individuals to explore environmental issues, engage in
+“emotional/behavioral/learning disability” under the Individuals         problem solving, and take action to improve the environment”
+with Disabilities Education Act (IDEA) (108th Congress, 2004)            (para 1). EE is characterized by being inquiry-based, hands-on,
+includes students with a variety of emotional, behavioral, and           experiential, and often, outdoors (Hanna, 1995; Crawford, 2000;
+cognitive impairments-such as Attention Deficit Hyperactivity            Haney et al., 2007; Peterson, 2011; Ruiz-Gallardo et al., 2013;
+Disorder (ADHD), autism, and dyslexia. While the number of               Zint et al., 2014)-which are all strategies that have been found
+students identified as ECBD in the United States has been on the         to boost attitudes and learning among students with ECBD.
+rise since the 1970s (National Center for Education Statistics,          In particular, the inquiry-based aspects of EE programming
+2017), there have been variable efforts among states and school          has been shown to improve learning outcomes for students
+districts, both in terms of funding and training, to better assist       with ECBD (Aydeniz et al., 2012; Kaldenberg et al., 2015). EE
+these students (Baker et al., 2012, 2017; Alexander et al., 2015).       programs for children can range from a single lesson in school to
+However, these students consistently lag behind their non-ECBD           residential-weeklong experiences; they can even span the entire
+peers academically (Cawley et al., 2002). This points to the need        school year (North American Association for Environmental
+for creative ways to assist students who have been identified with       Education, 2010). Because of this variety of both program type
+emotional, behavioral, or cognitive disabilities, through reducing       and length, EE is uniquely situated to be flexibly integrated
+ECBD students’ challenges and increasing learning outcomes.              into education to increase both outdoor time and hands-on,
+   One such creative way to reduce ECBD students’ challenges             inquiry-based instruction for students in schools.
+to learning includes time in the outdoors. Benefits of outdoor               Outdoor EE that targets science instruction may be an
+experiences have been explored most deeply in research on                especially effective approach for integrating EE into curriculum
+students with ADHD. Kuo and Faber Taylor, in particular,                 while decreasing indicators of ECBD. Outdoor EE can integrate
+have researched this topic and have found green space to be              well with science instruction through its authentic environment
+highly beneficial for students identified with ADHD (Kuo and             and direct interaction with the outdoors. Building on Brown
+Faber Taylor, 2004; Faber Taylor and Kuo, 2011). In a 2004               et al.’s (1989) situated learning theory, students’ learning can be
+nationwide study that collected parent ratings of their children’s       enhanced by their engagement with topics such as ecosystems
+experiences in green outdoor settings, researchers found that            through direct interactions in the context of study (i.e., in the
+playing in green spaces significantly reduced symptoms of                outdoors). Science instruction in US classrooms is rarely situated
+ADHD for youth of all income levels, locations, and community            in the outdoors, despite the noted benefits in both cognitive
+types (Kuo and Faber Taylor, 2004). In a similar study,                  and affective domains for students when they learn outside
+Faber Taylor and Kuo (2011) also found that for children                 (Rickinson et al., 2004; Dyment, 2005; Carrier et al., 2013, 2014;
+with Attention Deficit Disorder (ADD) and/or ADHD, their                 Fägerstam and Blom, 2013; Rios and Brewer, 2014). Research
+attention spans improved when they participated in routine               on EE programming has found that science efficacy, science
+play (i.e., majority of days in the week) in green spaces.               knowledge, and science achievement improve for all students
+Furthermore, playing in open green spaces (e.g., fields) was             after the experience (Tamir, 1991; Hiller and Kitsantas, 2014;
+more successful in reducing hyperactivity for students with              Saribas et al., 2014; Dettweiler et al., 2015; Ardoin et al., 2017).
+ADHD than playing indoors or in built outdoor environments.              Accordingly, outdoor EE may work to decrease indicators of
+Other researchers have found similar effects: green space near           ECBD (e.g., short attention spans and disruptive behaviors) as
+homes and schools is associated with improved concentration,             well as enhance learning, especially in science.
+better attention, and less hyperactivity among children (Wells,              In our literature review, we located only two studies that
+2000; Mårtensson et al., 2009; Van den Berg and van den                  have specifically examined how EE may be particularly helpful
+Berg, 2011; Amoly et al., 2014; Flouri et al., 2014; Markevych           to students with ECBD. One such study focused on the
+et al., 2014; Kuo et al., 2018). Other research has revealed the         effects of a garden-based learning program on students with
+benefits of the outdoors for individuals with other forms of             disruptive behavior disorder in Spain. The year-long program
+EBCD. For instance, Farnham and Mutrie (2003) found that                 had students working outside over half of their school hours
+outdoor education significantly reduced anxiety and improved             and was purposefully hands-on and project-based. A 6-year
+trust and group cohesion for a range of students with mild               analysis revealed that the intervention led to a significant
+to moderate learning disabilities. Similarly, Melber and Brown           decrease in dropout rates, a significant increase in classes
+(2008) reported on the benefits of informal education for students       passed, and an increase in overall behavior and attitude (Ruiz-
+who receive special education services, ranging from learning            Gallardo et al., 2013). In a study by Moore et al. (2016),
+disabilities to motor impairment. Melber (2004) emphasizes               experienced EE practitioners took a class of students on an
+that science taught with hands-on, inquiry practices such as             experiential nature hike where they used technology to engage
+in the schoolyard, are especially accessible to students with            with the outdoors. Researchers conducted additional interviews
+disabilities.                                                            and observations of two students with ADHD. The study revealed
+
+
+Frontiers in Education | www.frontiersin.org                         2                                              June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                        Environmental Education and Students With Disabilities
+
+
+
+that the students with ADHD had positive, enriching learning                asked about students whose Individual Education Plans identify
+experiences; teachers noted these students had greatly improved             them as ECBD, and we included those students in this study. As
+their participation when compared to their participation in the             we only included classes with teachers that that had identified
+traditional classroom. Additionally, these students, who typically          students with ECBD, we had usable data from 14 teachers
+fell behind in academic achievement, scored as well as their peers          (associated with 62 students) in the control group and 28 teachers
+on the environmental knowledge assessment after the program.                (associated with 99 students) in the treatment group. Although
+While these studies reveal a possible connection between outdoor            self-selection bias may exist among teachers, students should
+EE and improved learning and behavioral outcomes, neither                   not be affected as students are assigned to teachers regardless
+involved a control group.                                                   of their environmental interests or attention and behavior. In
+    As few studies exist investigating the potential benefits of            order to establish that our sample was representative of the
+outdoor EE on students with ECBD and none include a control                 general student population in North Carolina, we compared our
+group, the purpose of this study was to examine the impacts                 final sample of students (n = 112) with the North Carolina
+of an outdoor environmental education program on students                   population of students with Individual Education Plans as a
+with ECBD, utilizing a quasi-experimental design. Specifically, we          whole using z-tests for proportions of gender (i.e., male vs.
+tested the impacts of an outdoor-and science-based EE program               female) and a binary indicator of ethnicity (i.e., white vs. non-
+on both ECBD students’ challenges to learning (behavior,                    white). We found no significant differences (p = 0.55 and
+attention span) and learning outcomes (science efficacy, nature             p = 0.54, respectively) (Russell, 2016). Of our sample, 33%
+of science, science academic achievement) during the 2016–2017              students were female, 50% identified as non-Hispanic white, 11%
+school year. We hypothesized that for students identified with              as black, 4% as Hispanic/Latino, 2% as Asian/Pacific Islander,
+ECBD, their participation in an EE program would: (1) result in             13% as Native American, 16% as other, and 5% identified with
+teachers reporting longer attention spans and fewer disruptive              two or more races. There were no differences in distributions
+behaviors in a classroom setting compared to a control group;               of gender, race, or socioeconomic status across treatment and
+(2) result in teachers reporting longer attention spans and fewer           control groups (Table 1). All students whose parents provided
+disruptive behaviors outdoors when compared to their attention              consent were included in the study.
+and behavior in a classroom setting; and (3) increase learning
+outcomes (i.e., nature of science, science efficacy, and science            Treatment
+academic achievement) for students in the treatment group as                This study was part of a larger program evaluation for an
+compared to a control group.                                                environmental education program in the southeastern U.S.A.
+                                                                            The EE program that took place over the course of the 2016–2017
+                                                                            school year focuses on experiential, outdoor science learning,
+METHODS
+                                                                            environmental literacy, and connection to the natural world.
+Sampling                                                                    Schools participate in the program 4 to 10 full school days
+Our sample consisted of 161 fifth-grade students with ECBD in               throughout the school year with an average of six lessons spread
+North Carolina, U.S.A. Students ages ranged from 9 to 12 years              across the school year (e.g., one per month). The program took
+old, with a median age of 10 years old. We focused on fifth-grade           place both in the schoolyard and nearby natural areas, like state
+students, since they are in the late stages of middle childhood             parks. Assuming teachers followed state guidelines, students also
+(ages 6–12) and approaching adolescence (ages 12–18)-a critical             received indoor instructional time on each of the related state
+period for developing ethical and ecological knowledge necessary            standard topics for approximately four, 1-h weekly sessions,
+for influencing environmental education outcomes, such as                   which last 4–6 weeks for each of the science standard’s unit of
+environmental engagement (Kellert, 1985). We sampled in two                 study.
+stages: teachers, then, students. Treatment group teachers were
+recruited through an environmental education program in the
+southeastern U.S. (28 teachers, 99 students). Control group                 TABLE 1 | Demographic comparison of treatment and control groups.
+teachers were randomly selected from a list of matched control
+schools in the same geographic area. Schools were matched by                                          Treatment                 Control                p-value
+
+percent of free-reduced lunch, percent of students that were
+                                                                            GENDER
+white, location (e.g., in the same district or an adjacent district),
+                                                                              Male                    71.2% (57)               56.3% (18)               0.935
+and by charter or traditional distinction. We then created a
+                                                                              Female                  28.8% (23)               43.7% (14)
+sample frame of schools associated with those matched schools
+                                                                            RACE
+and invited a random subset of teachers from those schools to
+                                                                              White                   51.3% (41)               46.9% (15)               0.400
+participate. We contacted 263 teachers, and 63 teachers agreed
+                                                                              Non-white               48.8% (39)               53.1% (17)
+to participate as control, representing a 24% response rate. As
+                                                                            ATTEND TITLE I
+we contacted these teachers a few months in advance of the
+                                                                              Yes                     85.0% (68)               93.7% (30)               0.895
+study, a subset dropped out of the study prior to the pretest
+                                                                              No                      15.0% (12)                6.3% (2)
+due to switching grade levels, moving schools, retiring, or other
+reasons. Forty-two teachers participated in the pretest as a                Percentage of total students reported with actual number of students in parentheses.
+control. Teachers in both treatment and control groups were                 Two-sample t-test results reported.
+
+
+
+
+Frontiers in Education | www.frontiersin.org                            3                                                     June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                  Environmental Education and Students With Disabilities
+
+
+
+    The EE program targets fifth-grade students and centers                behavior is common practice in elementary school classrooms—
+on essential state science standards for this grade level. The             especially for required documentation for ECBD student records
+first lesson in the EE program is an introduction to outdoor               (Finn, 1993; Friend and Bursuck, 2002)—and has been used in
+learning. This introductory day highlights skills and safety               numerous similar studies (Doucette, 2004; Kam et al., 2004; Kuo
+procedures for outdoor learning, scientific tools and uses (e.g.,          and Faber Taylor, 2004; McFarland et al., 2013; Amoly et al.,
+compass, hand lens), and science practices. Subsequent lessons             2014). We also asked teachers to report science achievement as
+highlight North Carolina’s science standards that address the              traditional grades (e.g., A to F). Although rating this method
+following topics: terrestrial and aquatic ecosystems; weather;             likely allowed for variance among teachers (i.e., different teachers
+ecosystem interactions; forces and motion; inheritances and                may assess the same student differently), our analysis focused on
+adaptation; living systems; and matter and energy (Department              changes over time, which relied on the same teachers assessing
+of Public Instruction, 2015). Teachers choose from these topics            the same students over the course of the year. Teacher data were
+to correspond with their scheduled science program to best                 checked for errors (e.g., reverse coding, non-numerical) by two
+supplement classroom instruction. The lessons last 4–6 h and               independent researchers and cross-referenced with the teacher, if
+typically involve a hike, a hands-on science experiment, science           necessary.
+journaling, nature exploration, and group reflection. Students are            To gain further information on teachers’ impressions of the EE
+split into small groups (maximum 12 students) for each lesson,             outdoor program and experiences for students in the program,
+which are supervised by a chaperone (e.g., parent/guardian,                we interviewed eight teachers who agreed to follow-up interviews
+teacher, principal) and taught by the EE program instructor. The           in summer 2017. We recorded, transcribed, and coded teacher
+EE program instructors are all trained in hands-on, inquiry-based          interviews to document their impressions of the outdoor EE
+techniques and standards-based science content. Classroom                  program and its impact on their students, including students with
+teachers typically rotate between small groups within or between           ECBD, to enhance our understanding of the program experience
+lessons.                                                                   for these students. Aliases were given to all teachers for the
+                                                                           analysis and interpretation.
+Data Collection
+Teachers administered online surveys in school during fall 2016            Data Analysis
+and the winter and spring of 2017. We provided each teacher with           We analyzed our data using Stata software, version 14.2. We
+a survey protocol that they were asked to follow. This protocol            relied on paired t-tests to compare changes over time within
+had a script for providing instructions to students, information           the treatment group and ANCOVA (analysis of covariance)
+on helping students, and details on accessing and taking their             between the treatment and control group, respectively. We
+own survey. In addition to surveys, we interviewed teachers to             used these tests because they allowed for a direct comparison
+provide a rich picture of the students’ EE experiences during              of individual students between their pre- and post-tests. As
+the program. We measured students’ science efficacy and the                each student was compared against him-or herself, students not
+nature of science through a 14-item student survey (Table 2),              taking either the pre- or post-test due to school absences on
+which drew on the S-STEM (Unfried et al., 2015) and NOSI-E                 the day teachers administered the surveys were not included in
+(Peoples et al., 2013) instruments, respectively. Scales were edited       the analysis. Because of this, our final sample comprised 112
+to facilitate a shorter instrument and to better align with the EE         students, 80 treatment students and 32 control students. We
+program goals. We pilot tested the full evaluation in spring 2016          compared students taking only the pre- or post-test to the rest
+with 609 students and 31 teachers. Both scales were valid and              of the sample and found no differences in terms of outcome
+reliable (Table 2).                                                        variables.
+    Teachers reported on student behavior, attention span,                     We originally included a covariate for both taking students
+and academic achievement in science through teacher surveys                outside and amount of time spent outside during the school
+administered before and after the EE program. To compare                   year (apart from the treatment associated with this study). Fifty
+data over time while maintaining anonymity, all students were              percent of control and 71% of treatment teachers reported that
+given teacher-generated, anonymous ID numbers. Teachers then               they took students outside during the school year. Both control
+utilized these ID numbers when filling out their surveys. We               and treatment teachers had similar rates of taking students
+asked all teachers to rate each student’s attention span and               outside (14 days per year and 12 days per year, respectively). As
+disruptive behavior in their classroom at the beginning and end            there was no relationship between these indicators of time spent
+of the study period (before and after enrollment in the outdoor            outside during the school year and learning outcomes (attention,
+EE program for treatment teachers, respectively). In addition,             science achievement, etc.), we omitted this in the final analysis of
+we asked treatment teachers to rate each student’s attention               our results.
+and disruptive behavior for the outdoor EE program, including
+their expectations of student attention and behavior in the                RESULTS
+program (pre-test) and observed attention and behavior in the
+program by the end of the year (post-test). Teachers characterized         Quantitative Data
+students’ attention spans on each survey in a range from short             Prior to attending the outdoor EE program, teachers reported
+(1) to long (5); and disruptive behaviors from frequent problems           moderate attention spans (M = 3.65, SD = 1.19) and low
+(1) to none (5). This method of rating student attention and               levels of disruptive behavior (M = 4.25, SD 1.10) for their
+
+
+Frontiers in Education | www.frontiersin.org                           4                                              June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                              Environmental Education and Students With Disabilities
+
+
+
+TABLE 2 | Item-level statistics for science efficacy and nature of science scales among students identified as ECBD (n = 112).
+
+Item Wording                                                                                    Mean                SD               Cronbach’s alpha                  Factor loadings
+
+Science efficacy                                                                                                                             0.83
+I feel good about myself when I do science                                                      3.99               0.84                      0.80                             0.77
+I might choose a career in science                                                              3.04               1.18                      0.81                             0.68
+I like learning about science                                                                   4.07               0.92                      0.80                             0.73
+I think about science when I’m not at school                                                    3.23               1.27                      0.81                             0.68
+Science is one of my favorite subjects                                                          3.73               1.24                      0.81                             0.71
+In the future, I will be able to do more advanced science work                                  3.52               1.22                      0.81                             0.70
+I talk to my family or friends outside of school about what I’ve learned                        3.30               1.22                      0.80                             0.69
+about science
+Nature of science                                                                                                                            0.76
+A good way to know if something is true is to do an experiment                                  3.88               1.01                      0.75                             0.50
+Experiments are used to see what happens in nature                                              3.88               0.84                      0.72                             0.64
+Science helps answer questions about how something works                                        4.13               0.84                      0.71                             0.72
+Scientists use what they found in the past to help explain their new findings                   3.94               0.93                      0.72                             0.70
+Conclusions can change when new evidence is found                                               3.85               0.92                      0.70                             0.75
+Scientists create different types of experiments to answer their questions                      4.16               0.79                      0.71                             0.71
+If we do the same experiment many times, we may get different results                           3.74               0.95                      0.76                             0.45
+
+All items were coded from 1 (strongly disagree) to 5 (strongly agree). Scale-level Cronbach’s alpha displayed in first row, and item-level alpha measures represent the resulting alpha, if
+the item were removed. Factor loadings calculated through principle component analysis and verimax rotation.
+
+
+
+students in the classroom, as well as moderately high science                                   there were no significant differences in pre- and post-scores for
+grades (M = 76.5%, SD = 12.70). Among the treatment group,                                      either measure in either group. However, among the treatment
+teachers expected shorter attention spans (M = 1.94, SD = 2.29)                                 group, we found that teacher reports for both attention and
+and more disruptive behaviors (M = 1.81, SD = 2.13) when                                        behavior significantly improved for the outdoor EE program
+students were learning outside. Student responses on the pre-                                   (Figure 1). Although prior to seeing students in the EE program
+test indicated relatively high levels of science efficacy (M = 24.90                            teachers expected relatively short attention spans (M = 1.81
+out of 35, SD 5.98) and understanding of the nature of science                                  out of 5, SD = 2.13) and frequent disruptive behaviors (M =
+(M = 27.57, SD = 4.02). We found acceptable levels of reliability                               1.94 out of 5, SD = 2.29) outdoors, their appraisal of these
+and validity for both the science efficacy and nature of science                                measures was significantly higher (i.e., longer attention spans,
+scales (Table 2). We also note that there were no significant                                   improved behavior) at the end of the study period (attention:
+differences in pre-test scores for all student-reported variables                               pre/post mean difference = 2.48, t = 5.70, p = 0.000; behavior:
+(science efficacy and nature of science) between treatment and                                  pre/post mean difference = 2.55, t = 5.50, p = 0.000). Further,
+control groups. However, teachers reported higher levels on every                               both of these measures exceeded similar classroom levels at
+measure for the treatment group vs. the control group on the                                    the time of the post-test in the treatment group (attention:
+pre-test scores (attention: mean difference = 0.78, t = 3.08,                                   outdoor/indoor mean difference = 0.54, t = 5.23, p = 0.000;
+p = 0.003; behavior: mean difference = 0.62, t = 2.56, p = 0.01;                                behavior: outdoor/indoor mean difference = 0.25, t = 2.95,
+science grades: mean difference = 7.53, t = 2.88, p = 0.005).                                   p = 0.002).
+This may reflect a difference among teachers in appraisal of                                       We found partial support for hypothesis three that the
+their students. However, our analysis related to hypothesis testing                             outdoor EE program significantly increased learning outcomes
+compared within group changes, with the same teachers assessing                                 for students. Science efficacy and science grades remained
+the same students at the time of the pre- and post-test, which                                  the same over the study period for students in both the
+should mitigate any challenges comparing treatment and control                                  treatment and control groups (Figure 2). The nature of science
+groups.                                                                                         significantly increased for students in the treatment group, while
+    We found support for hypotheses two, but not hypothesis                                     the understanding of nature of science for students in the control
+one, as there were no differences in changes in teacher reports                                 group stayed the same (treatment: pre/post mean difference =
+of classroom attention and behavior when comparing treatment                                    0.90, t = 1.85, p = 0.034; control = pre/post mean difference
+and control groups [attention: F (1, 94) = 0.20, p = 0.653; behavior:                           = −0.22, t = −0.27, p = 0.605). However, ANCOVA results
+F (1, 94) = 0.04, p = 0.845]; however, teacher reports of students’                             detected no differences between treatment and control groups
+attention and behavior levels when in the outdoor EE program                                    across any measure. Students with IEPs did not make significant
+improved over the course of the EE program to exceed classroom                                  gains in nature of science scores [F (1, 111) = 0.14, p = 0.710] nor
+levels. Teacher reports of classroom attention and behavior                                     in teacher-reported academic achievement in science [F (1, 96) =
+remained stable for both the treatment and control groups, as                                   1.58, p = 0.214].
+
+
+
+Frontiers in Education | www.frontiersin.org                                                5                                                         June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                      Environmental Education and Students With Disabilities
+
+
+
+
+ FIGURE 1 | Classroom and outdoor attention behavior among the treatment group. Teachers provided estimates of attention span and behavior levels from short (1)
+ to long (5) and poor (1) to excellent (5), respectively. Error bars represent standard error. Paired t-tests indicate that differences between the teacher-reported pre- and
+ post-test scores for attention and behavior while outdoors were significant (attention: t = −5.70, p = 0.000; behavior: t = −5.50, p = 0.000) as well as differences
+ between the post-test scores in the classroom vs. outdoor settings (attention: t = −5.23, p = 0.000; behavior: t = –295, p = 0.003).
+
+
+
+
+ FIGURE 2 | Change in science efficacy, nature of science, and science grades among treatment and control groups. All measures are represented by percentages of
+ the maximum score. Error bars represent standard errors.
+
+
+
+
+Qualitative Data                                                                          ECBD) were attentive and fully interacted with the activities.
+Interview data about teachers’ impressions of the outdoor                                 They felt they were successful which does not happen much in
+EE program and experiences of their students with ECBD                                    the regular classroom.” Negative cases emerged as well. Some
+during the program are shown in Table 3. An overall theme                                 teachers reported obstacles to outdoor learning with the weather
+that emerged from one teacher interview (Bailey) was the                                  such as when was rainy or cold. Taylor described students’
+“value of getting kids outside more.” Another teacher (Davis)                             distress when they were asked to spend outdoor time writing in
+elaborated saying, “Children just don’t go outside anymore. My                            their journals rather than moving and exploring. When asked
+personal favorite thing is getting them outside and exposing                              what part of the environmental education program students
+them to doing something outside.” In line with hypothesis                                 disliked, Taylor described students’ initial complaints about
+two—participation in the outdoor EE program significantly                                 physical activity that they clearly overcame. “The first couple of
+decreases challenges to learning (i.e., disruptive behaviors and                          times when we were having to do all that walking...not being able
+short attention span)—teachers saw students with ECBD become                              to sit in front of something with a screen. They’re used to passive
+more engaged when learning outside: “They (students with                                  learning but by the fourth time they were sad and crying that it’s
+
+
+
+Frontiers in Education | www.frontiersin.org                                          6                                                     June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                      Environmental Education and Students With Disabilities
+
+
+
+TABLE 3 | Emergent themes from interviews with teachers.
+
+Teacher      Theme-Outdoors                                                                     Theme-ECBD students
+
+Jessie       You don’t have to go really far away, just use what you have. Use what’s in        Even (Students who) are really rough and tough, you would find them out
+             our backyard…using the plants around you.                                          there playing with leaves and you know, just enjoying it.
+                                                                                                (In describing reluctant student) She’s not an outdoorsy type person, but
+                                                                                                she just embraced it and enjoyed it when she gave it a trial.
+Bailey       (in the outdoors) you can intertwine living systems, genetics, and body
+             systems…weather, terrestrial ecosystems, and then we always do aquatic             (ECBD students) so unique, full of energy and unique. They have their own
+             ecosystems.                                                                        way of looking at the world, and when they got in that creek, it was just one
+                                                                                                of the happiest moments. I mean they’re all picking up rocks and looking at
+                                                                                                them and so excited.
+                                                                                                They were just loving it…you never know what lessons that they connect to
+                                                                                                …definitely activities that connect well to different identities and groups.
+                                                                                                (Instructors) work really hard to connect with each group.
+                                                                                                Seems to be the easiest curriculum to teach. There’s no science anxiety like
+                                                                                                you hear about reading or math anxiety.
+Casey        Just to appreciate and understand what’s going on outside…I mean I love            They make it a little not so scary for (ECBD students) who really don’t like
+             that part of it.                                                                   (classroom) science. I think they make it at least more fun and more
+                                                                                                interesting and engaging, and not so frightening.
+Davis        (Strongest features) integration of the science curriculum with the forest.        They (ECBD) were attentive and fully interacted with the activities. They felt
+                                                                                                they were successful which does not happen much in the regular classroom
+
+
+
+
+over,” thus emphasizing the impact of repeated, science-aligned                            attention and behavior, and both measures did actually improve
+experiences.                                                                               over the course of the outdoor sessions with more exposure to
+                                                                                           outdoor EE. This third explanation aligns with past research
+DISCUSSION                                                                                 on the effects of green space on students with ECBD, which
+                                                                                           suggests that time outdoors can improve attention and reduce
+The present study adds to the literature on the impact of outdoor                          hyperactivity (Ruiz-Gallardo et al., 2013; Amoly et al., 2014;
+environmental education on students with ECBD utilizing                                    Flouri et al., 2014; Moore et al., 2016; Kuo et al., 2018).
+a quasi-experimental, mixed methods design. Although past                                  Our qualitative results show some evidence of each of these
+literature has supported a possible connection between outdoor                             explanations, as some teachers expressed surprise at how engaged
+EE and improved outcomes, in this study, we employed control                               ECBD students were outdoors; others seemed to transform how
+groups to determine the potential of repeated, science-aligned,                            they viewed behavior as appropriate or not; and others reported
+outdoor EE programming for improving student outcomes.                                     changes in the students themselves. Although teacher perceptions
+    Our results related to students’ attention and behavior suggest                        may have shifted rather than actual student attention and
+that teachers of ECBD students should consider the outdoors                                behavior, this perception shift is beneficial. Teacher perceptions
+as a useful setting to increase attention and diminish disruptive                          can influence academic achievement well-into a student’s future
+behaviors. Although teachers expected students to have difficulty                          (Alvidrez and Weinstein, 1999; Sorhagen, 2013; Baker et al.,
+paying attention and avoiding disruptive behaviors outdoors,                               2015), and a shift in perceptions around student attention
+they reported longer attention spans and less disruptive behaviors                         and behavior outdoors may reduce any apprehensions around
+outdoors for these students by the end of the year. We offer                               outdoor instruction. We did not find treatment effects associated
+three possible explanations. First, teachers may have expected                             with classroom attention and behavior, but future research should
+short attention spans and disruptive behaviors outdoors prior                              continue to examine the possibility that our findings may transfer
+to the program and were pleasantly surprised from the first                                to impacts in the classroom. As recent research finds increased
+day outside onward. Secondly, teachers’ perceptions of the                                 classroom engagement after lessons in nature (Kuo et al., 2018),
+behaviors themselves could have changed so that behaviors they                             future research may find similar trends among with ECBD,
+previously considered disruptive (i.e., interrupting an instructor                         particularly with a larger sample size than our study. We suggest
+with a question) were considered as acceptable or indicative of                            further research that replicates this study include more objective
+high engagement. These two explanations are plausible in the                               measures of student attention and behavior to further identify
+context of prior research reporting that few teachers perceive                             ways in which outdoor instruction may relate to ECBD student
+the outdoors as an acceptable location for formal instruction                              attention and behavior in the outdoors and in the classroom.
+beyond the preschool years (Ernst and Tornabene, 2012) and                                    In addition to addressing indicators of ECBD, teachers
+teachers in both United States and in the United Kingdom have                              should consider outdoor EE a viable instructional strategy for
+concerns about student behavior and classroom management                                   science teaching, as it appears as least as effective in supporting
+when teaching outdoors (Fox and Avramidis, 2003; Ernst,                                    science learning for students with ECBD than traditional science
+2009). However, it is possible that teachers’ expectations at                              instruction. Elementary school teachers often feel challenged
+the beginning of the study period aligned with actual student                              to differentiate their instruction in classrooms that include
+
+
+Frontiers in Education | www.frontiersin.org                                          7                                                     June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                          Environmental Education and Students With Disabilities
+
+
+
+students with a range of academic and behavioral strengths, and                              only appears to decrease indicators of ECBD, but it also facilitates
+these challenges are often exacerbated when teaching science                                 science learning on par with classroom techniques. Previous
+(Southerland and Gess-Newsome, 1999; Tobin and Tippet, 2014).                                literature suggests outdoor EE can have similar impacts on all
+Opportunely, other studies have demonstrated that outdoor EE                                 students, and our study indicates that these findings could extend
+has led to gains in science knowledge for all students (Jon                                  specifically to those with ECBD. As the number of students with
+Schneller et al., 2015; Wells et al., 2015). In our study, those                             ECBDs continues to increase, teachers need creative solutions
+findings seem to hold true for ECBD students specifically,                                   to instruct these students. We suggest outdoor EE that is
+suggesting outdoor EE can help teachers supplement science                                   repeated throughout the school year and aligned with standards
+instruction for all students using a single approach. Additionally,                          may prove an invaluable tool to enhance science instruction
+outdoor EE has been shown to positively impact science interest                              for all students and, specifically, to reach those identified as
+and efficacy (Mohr-schroeder et al., 2012; Hiller and Kitsantas,                             ECBD.
+2014; Dettweiler et al., 2015). As nature of science, science efficacy
+and science grades appeared to remain stable in both treatment                               ETHICS STATEMENT
+and control groups, outdoor EE instruction appears just as
+effective for students with ECBDs as classroom instruction in                                The protocol was approved as exempt from the ethics review
+maintaining these measures. Since educators may cite concerns                                process by the Institutional Review Board for the Protection of
+that outdoor EE may take away from instructional time (Carrier                               Human Subjects in Research of North Carolina State University
+et al., 2014), these results are particularly encouraging. Instead                           (IRB Protocol #6533). We provided teachers with a choice
+of taking away from instructional time, outdoor EE seems to                                  of using an active or passive informed consent form for
+contribute to sustaining science efficacy and performance, even                              students and parents, in accordance with the requirements of
+at an age when interest in science tends to wane (Cheung,                                    the school districts. Active consent required parent consent and
+2009). Although some teachers are not aware that outdoor EE                                  student assent signatures, while passive consent required similar
+is effective (Ernst, 2007), it can be as rigorous and effective                              signatures if students and/or parents wanted to opt out of the
+as indoor instruction and has potential to improve test scores                               study. Consent was obtained from all research participants and
+(Volk and Cheak, 2003; Danforth, 2005; State Education and                                   from the parents/legal guardians by the method chosen by the
+Environment Roundtable (SEER), 2005; McFarland et al., 2013).                                teachers/schools.
+Future research is needed that focuses on students with ECBD
+to compare their progress with that of their peers when students                             AUTHOR CONTRIBUTIONS
+experience more frequent outdoor EE. Additionally, as all data
+were self-reported, there are potential biases both from teachers                            RS was involved in study design, quantitative data acquisition,
+and students. The researchers attempted to lessen this bias by                               data analysis, and manuscript writing. SC was involved in
+not disclosing the specific details of this research apart from                              qualitative data acquisition, data analysis, and manuscript
+the larger program evaluation. However, teachers’ perceptions of                             writing. KS was involved in study design, quantitative data
+factors beyond our control, such as the outdoors as a learning                               analysis, and manuscript writing.
+environment, could have influenced ratings of attention and
+behavior (Pas and Bradshaw, 2014).                                                           FUNDING
+    We suggest future research continue to explore outdoor EE
+as a teaching opportunity to engage students with ECBD. There                                Funding was provided through Muddy Sneakers environmental
+are a host of benefits for students learning in nature, from                                 education program.
+improved classroom engagement (Kuo et al., 2018) to decreasing
+hyperactivity and inattention (Faber Taylor and Kuo, 2011;                                   ACKNOWLEDGMENTS
+Moore et al., 2016). The bulk of this research centers on indicators
+of ECBD (e.g., attention and behavior), and our results align                                We appreciate the staff at Muddy Sneakers, their partner schools,
+with findings suggesting that time outdoors can mitigate these                               field sites, and teachers and students who made this study
+indicators. In this study, repeated outdoor, science-based EE not                            possible.
+
+
+
+REFERENCES                                                                                      barcelona schoolchildren: the BREATHE Project. Environ. Health Perspect. 122,
+                                                                                                1351–1358. doi: 10.1289/ehp.1408215
+108th Congress (2004). Individuals with Disabilities Education Act of 2004.                  Ardoin, N. M., Bowers, A. W., Roth, N. W., and Holthuis, N. (2017).
+   Washington, DC: 108th Congress.                                                              Environmental education and K-12 student outcomes: a review and analysis
+Alexander, K., Salmon, R. G., and Alexander, F. K. (2015). Financing Public Schools:            of research. J. Environ. Educ. 49, 1–17. doi: 10.1080/00958964.2017.1366155
+   Theory, Policy, and Practice. New York, NY: Routledge.                                    Aydeniz, M., Cihak, D. F., Graham, S. C., and Retinger, L. (2012). Using inquiry-
+Alvidrez, J., and Weinstein, R. S. (1999). Early teacher perceptions and later student          based instruction for teaching science to students with learning disabilities. Int.
+   academic achievement. J. Educ. Psychol. 91, 731–746.                                         J. Spec. Educ. 27, 189–206.
+Amoly, E., Dadvand, P., Forns, J., López-Vicente, M., Basagaña, X., Julvez,                  Baker, B., Farrie, D., Johnson, M., Luhm, T., and Sciarra, D. G. (2017). Is School
+   J., et al. (2014). Green and blue spaces and behavioral development in                       Funding Fair? A National Report Card.
+
+
+
+
+Frontiers in Education | www.frontiersin.org                                             8                                                      June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                        Environmental Education and Students With Disabilities
+
+
+
+Baker, B., Sciarra, D., and Farrie, D. (2012). Is School Funding Fair? A National          Haney, J. J., Wang, J., Keil, C., and Zoffel, J. (2007). Enhancing teachers’
+   Report Card.                                                                               beliefs and practices through problem-based learning focused on pertinent
+Baker, C. N., Tichovolsky, M. H., Kupersmidt, J. B., Voegler-lee, M. E., and Arnold,          issues of environmental health science. J. Environ. Educ. 38, 25–33.
+   D. H. (2015). Teacher (Mis) perceptions of preschoolers’ academic skills :                 doi: 10.3200/JOEE.38.4.25-33
+   predictors and associations with longitudinal outcomes. J. Educ. Psychol. 107,          Hanna, G. (1995). Wilderness-related environmental outcomes of adventure
+   805–820. doi: 10.1037/edu0000008                                                           and ecology education programming. J. Environ. Educ. 27, 21–32.
+Brown, J. S., Collins, A., and Duguid, P. (1989). Situated cognition the culture of           doi: 10.1080/00958964.1995.9941968
+   learning. Educ. Res. 18, 32–42.                                                         Hiller, S. E., and Kitsantas, A. (2014). The effect of a horseshoe crab citizen science
+Carrier, S. J., Thomson, M. M., and Tugurian, L. P. (2014). Elementary science                program on middle school student science performance and STEM career
+   education in classrooms and outdoors: stakeholder views, gender, ethnicity,                motivation. Sch. Sci. Math. 114, 302–311. doi: 10.1111/ssm.12081
+   and testing. Int. J. Sci. Educ. 36, 2195–2220. doi: 10.1080/09500693.2014.              Jon Schneller, A., Schofield, C. A., Frank, J., Hollister, E., and Mamuszka, L.
+   917342                                                                                     (2015). A case study of indoor garden-based learning with hydroponics
+Carrier, S. J., Tugurian, L. P., and Thomson, M. M. (2013). Elementary science                and aquaponics: evaluating pro-environmental knowledge, perception,
+   indoors and out: teachers, time, and testing. Res. Sci. Educ. 43, 2059–2083.               and behavior change. Appl. Environ. Educ. Commun. 14, 256–265.
+   doi: 10.1007/s11165-012-9347-5                                                             doi: 10.1080/1533015X.2015.1109487
+Cawley, J., Hayden, S., Cade, E., and Baker-Kroczynski, S. (2002). Including               Kaldenberg, E. R., Watt, S. J., and Therrien, W. J. (2015). Reading instruction in
+   students with disabilities into the general education science classroom. Except.           science for students with learning disabilities: a meta-analysis. Learn. Disability
+   Child. 68, 423–436. doi: 10.1177/001440290206800401                                        Q. 38, 160–173. doi: 10.1177/0731948714550204
+Cheung, D. (2009). Students’ attitudes toward chemistry lessons: The                       Kam, C.-M., Greenberg, M. T., and Kusché, C. A. (2004). Sustained effects
+   interaction effect between grade level and gender. Res. Sci. Educ. 39, 75–91.              of the PATHS curriculum on the social and psychological adjustment
+   doi: 10.1007/s11165-007-9075-4                                                             of children in special education. J. Emotion. Behav. Dis. 12, 66–78.
+Crawford, B. A. (2000). Embracing the essence of inquiry: New roles for                       doi: 10.1177/10634266040120020101
+   science teachers. J. Res. Sci. Teach. 37, 916–937. doi: 10.1002/1098-                   Kellert, S. R. (1985). “Attitudes toward animals: age-related development among
+   2736(200011)37:9<916::AID-TEA4>3.0.CO;2-2                                                  children,” in Advances in Animal Welfare Science, eds M. W. Fox and L. D.
+Danforth, P. (2005). An evaluation of the National Wildlife Federation’s                      Michley (Dordrecht: Springer), 43–60.
+   Schoolyard Habitat Program in the Houston Independent School District, thesis,          Kuo, F. E., Faber Taylor, A. (2004). A potential natural treatment for attention-
+   Environmental Education, Integrated Curriculums and Academic Standards.                    deficit/hyperactivity disorder: evidence from a national study. Am. J. Public
+Department of Public Instruction (2015). North Carolina Essential Standards 3-5               Health 94, 1580–1586. doi: 10.2105/AJPH.94.9.1580
+   Science. Raleigh, NC: Department of Public Instruction.                                 Kuo, M., Browning, M. H. E. M., and Penner, M. L. (2018). Do lessons in nature
+Dettweiler, U., Ünlü, A., Lauterbach, G., Becker, C., and Gschrey, B.                         boost subsequent classroom engagement? Refueling Students in Flight. Front.
+   (2015). Investigating the motivational behavior of pupils during outdoor                   Psychol. 8, 1–15. doi: 10.3389/fpsyg.2017.02253
+   science teaching within self-determination theory. Front. Psychol. 6:125.               Markevych, I., Tiesler, C. M., Fuertes, E., Romanos, M., Dadvand, P.,
+   doi: 10.3389/fpsyg.2015.00125                                                              Nieuwenhuijsen, M. J., et al. Heinrich, J. (2014). Access to urban green spaces
+Doucette, P. A. (2004). Walk and Talk: an intervention for behaviorally challenged            and behavioural problems in children: results from the GINIplus and LISAplus
+   youths. Adolescence 39, 373–388.                                                           studies. Environ. Int. 71, 29–35. doi: 10.1016/j.envint.2014.06.002
+Dyment, J. E. (2005). Green school grounds as sites for outdoor learning:                  Mårtensson, F., Boldemann, C., Söderström, M., Blennow, M., Englund, J.
+   barriers and opportunities. Int. Res. Geogr. Environ. Educ. 14, 28–45.                     E., and Grahn, P. (2009). Outdoor environmental assessment of attention
+   doi: 10.1080/09500790508668328                                                             promoting settings for preschool children. Health Place 15, 1149–1157.
+EPA, U. (2018). What is Environmental Education? Available online at: https://                doi: 10.1016/j.healthplace.2009.07.002
+   www.epa.gov/education/what-environmental-education.                                     McFarland, A. L., Glover, B. J., Waliczek, T. M., and Zajicek, J. M. (2013). The
+Ernst, J. (2007). Factors Associated With K-12 teachers’ use of environment-based             effectiveness of the national wildlife federation’s schoolyard habitat program:
+   education. J. Environ. Educ. 38, 15–32. doi: 10.3200/JOEE.38.3.15-32                       fourth-grade students’ standardized science test scores and science grades.
+Ernst, J. (2009). Influences on US middle school teachers’ use of                             Horttechnology, 23, 187–193.
+   environment-based education. Environ. Educ. Res. 15, 71–92.                             Melber, L. (2004). Inquiry for everyone: authentic science experiences for students
+   doi: 10.1080/13504620802710599                                                             with special needs. Teach. Except. Child. Plus 1, n2.
+Ernst, J., and Tornabene, L. (2012). Preservice early childhood educators’                 Melber, L., and Brown, K. D. (2008). “Not like a regular science class”: informal
+   perceptions of outdoor settings as learning environments. Environ. Educ. Res.              science education for students with disabilities. Clear. House J. Educ. Strategies
+   18, 643–664. doi: 10.1080/13504622.2011.640749                                             Issues Ideas 82, 35–39. doi: 10.3200/TCHS.82.1.35-39
+Faber Taylor, A., and Kuo, F. E. M. (2011). Could exposure to everyday green               Mohr-schroeder, M. J., Miller, M., Little, D. L., Schooler, W., Jacson, C., Walcoot,
+   spaces help treat adhd? Evidence from children’s play settings. Appl. Psychol.             B., et al. (2012). Developing middle school students interests in STEM via
+   3, 281–303. doi: 10.1111/j.1758-0854.2011.01052.x                                          summer learning experiences : see blue STEM camp. Sch. Sci. Math. 114,
+Fägerstam, E., and Blom, J. (2013). Learning biology and mathematics outdoors:                291–301. doi: 10.1111/ssm.12079
+   effects and attitudes in a Swedish high school context. J. Adv. Educ. Outdoor           Moore, A., Lynn, K., and Thomas, A. K. (2016). Engaging students in science
+   Learn. 13, 56–75. doi: 10.1080/14729679.2011.647432                                        through a nature hike : a case of two students with ADHD. Am. J. Undergrad.
+Farnham, M., and Mutrie, N. (2003). Research section: the potential benefits of               Res. 13, 73–80.
+   outdoor development for children with special needs. Br. J. Special Educ. 24,           National Center for Education Statistics (2017). Children and youth with
+   31–38. doi: 10.1111/1467-8527.00008                                                        disabilities, 1–5. doi: 10.1177/1049732312468063
+Finn, J. D. (1993). School Engagement & Students at Risk. Washington, DC:                  North American Association for Environmental Education (2010). Guidelines
+   National Center for Education Statistics.                                                  for Excellence: Preparation & Professional Development, ed L. Mann III.
+Flouri, E., Midouhas, E., and Joshi, H. (2014). The role of urban neighbourhood               Washington, DC: NAAEE.
+   green space in children’s emotional and behavioural resilience. J. Environ.             Pas, E. T., and Bradshaw, C. P. (2014). What affects teacher ratings
+   Psychol. 40, 179–186. doi: 10.1016/j.jenvp.2014.06.007                                     of student behaviors? the potential influence of teachers’ perceptions
+Fox, P., and Avramidis, E. (2003). An evaluation of an outdoor education                      of the school environment and experiences. Prev. Sci. 15, 940–950.
+   programme for students with emotional and behavioural difficulties.                        doi: 10.1007/s11121-013-0432-4
+   Emotion. Behav. Difficul. 8, 267–283. doi: 10.1080/136327503005                         Peoples, S. M., O’Dwyer, L. M., Shields, K. A., and Wang, Y. (2013). With
+   07025                                                                                      hiccups and bumps: the development of a Rasch-based instrument to measure
+Friend, M., and Bursuck, W. D. (2002). Including Students with Special Needs: A               elementary students’ understanding of the nature of science. J. Appl. Meas. 14,
+   Practical Guide for Classroom Teachers. Boston, MA: Pearson Education, Inc.                57–78.
+
+
+
+
+Frontiers in Education | www.frontiersin.org                                           9                                                      June 2018 | Volume 3 | Article 46
+Szczytko et al.                                                                                                          Environmental Education and Students With Disabilities
+
+
+
+Peterson, K. M. (2011). Nature, Nurture, Knowledge: The Promise of Experiential               Unfried, A., Faber, M., Stanhope, D. S., and Wiebe, E. (2015). The development
+   Learning for Students with Special Needs (No. 3495792). Boston, MA: ProQuest                  and validation of a measure of student attitudes toward science, technology,
+   LLC.                                                                                          engineering, and math (S-STEM). J. Psychoeduc. Assess. 33, 662–639.
+Rickinson, M., Dillon, J., Teamey, K., Morris, M., Choi, M. Y., Sanders, D.,                     doi: 10.1177/0734282915571160
+   et al. (2004). A Review of Research on Outdoor Learning. Shrewsuby: National               Van den Berg, A. E., van den Berg, C. G. (2011). A comparison of children with
+   Foundation for Educational Research and King’s College London.                                ADHD in a natural and built setting. Child Care Health Dev. 37, 430–439.
+Rios, J. M., and Brewer, J. (2014). Outdoor education and science                                doi: 10.1111/j.1365-2214.2010.01172.x
+   achievement.      Appl.      Environ.    Educ.     Commun.        13,     234–240.         Volk, T. L., and Cheak, M. J. (2003). the effects of an environmental education
+   doi: 10.1080/1533015X.2015.975084                                                             program on students, parents, and community. J. Environ. Educ. 34, 12–25.
+Ruiz-Gallardo, J.-R., Verde, A., and Valdés, A. (2013). Garden-based learning: an                doi: 10.1080/00958960309603483
+   experience with “at risk” secondary education students. J. Environ. Educ. 44,              Wells, N. M. (2000). Effects of “ Greenness ” on children’ s cognitive functioning.
+   252–270. doi: 10.1080/00958964.2013.786669                                                    Environ. Behav. 32, 775–795. doi: 10.1177/00139160021972793
+Russell, G. D. (2016). Section 504 : Ensuring Equitable Services for All. Raleigh, NC.        Wells, N. M., Myers, B. M., Todd, L. E., Barale, K., Gaolach, B., Ferenz, G.,
+Saribas, D., Teksoz, G., and Ertepinar, H. (2014). The relationship                              et al. (2015). The effects of school gardens on children’s science knowledge: a
+   between environmental literacy and self-efficacy beliefs toward                               randomized controlled trial of low-income elementary schools. Int. J. Sci. Educ.
+   environmental education. Procedia Soc. Behav. Sci. 116, 3664–3668.                            37, 2858–2878. doi: 10.1080/09500693.2015.1112048
+   doi: 10.1016/j.sbspro.2014.01.820                                                          Zint, M., Kraemer, A., and Kolenic, G. (2014). Evaluating meaningful watershed
+Sorhagen, N. S. (2013). Early teacher expectations disproportionately affect                     educational experiences: an exploration into the effects on participating
+   poor children’s high school performance. J. Educ. Psychol. 105, 465–477.                      students’ environmental stewardship characteristics and the relationships
+   doi: 10.1037/a0031754                                                                         between these predictors of environmentally responsible behavior. Stud. Educ.
+Southerland, S., and Gess-Newsome, J. (1999). Preservice teachers’ views of                      Eval. 41, 4–17. doi: 10.1016/j.stueduc.2013.07.002
+   inclusive science teachings as shaped by images of teaching, learning, and
+   knowing. Sci. Educ. 83, 131–150.                                                           Conflict of Interest Statement: The authors declare that the research was
+State Education and Environment Roundtable (SEER) (2005). California Student                  conducted in the absence of any commercial or financial relationships that could
+   Assessment Project Phase Two: The Effects of Environment-Based Education on                be construed as a potential conflict of interest.
+   Student Achievement. Poway, CA.
+Tamir, P. (1991). Factors associated with the relationship between formal,                    Copyright © 2018 Szczytko, Carrier and Stevenson. This is an open-access article
+   informal, and nonformal science learning. J. Environ. Educ. 22, 34–42.                     distributed under the terms of the Creative Commons Attribution License (CC
+   doi: 10.1080/00958964.1991.9943052                                                         BY). The use, distribution or reproduction in other forums is permitted, provided
+Tobin, R., and Tippet, C. D. (2014). Possibilities and potential barriers                     the original author(s) and the copyright owner are credited and that the original
+   learning to plan for differentiated instruction in elementary science.                     publication in this journal is cited, in accordance with accepted academic practice.
+   Int. J. Sci. Math. Educ. 12, 423–443. doi: 10.1007/s10763-013-9                            No use, distribution or reproduction is permitted which does not comply with these
+   414-z                                                                                      terms.
+
+
+
+
+Frontiers in Education | www.frontiersin.org                                             10                                                     June 2018 | Volume 3 | Article 46
+

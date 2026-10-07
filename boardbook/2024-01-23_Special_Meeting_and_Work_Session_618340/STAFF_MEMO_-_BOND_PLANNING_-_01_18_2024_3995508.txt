@@ -1,0 +1,953 @@
+                            PORTLAND PUBLIC SCHOOLS
+                            OFFICE OF OPERATIONS
+                            501 North Dixon Street / Portland, OR 97227
+                            Telephone: (503) 916-2000
+                            Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+                                               STAFF MEMO
+
+Date:           January 18, 2024
+
+To:             Board of Education
+
+From:           Dan Jung, Chief Operating Officer
+
+Subject:        General Obligation Bond Planning
+
+
+
+
+Introduction
+The next general obligation bond (GO bond) is anticipated to be presented to voters in November 2024.
+In order to refer a GO bond package, the District must determine:
+
+      1. The amount of the GO bond
+      2. The financing plan
+      3. The scope of work
+
+To meet the November 2024 goal, a GO bond referral must be made no later than August. It will be
+important that these decisions be made quickly to allow time for further scope refinement, review by
+the Bond Accountability Committee and community input.
+
+Below is a sample GO bond development schedule.
+
+
+
+
+                                                                                                        1
+The District has numerous guiding documents that can help inform these decisions as a number of
+variables need to be considered when making decisions about bond planning, including PPS’s priority
+capital needs, existing GO bond debt, district and market capacity, future maintenance obligations and
+more.
+
+The following information is designed to lay groundwork for the building of a future bond package by
+providing capital scope and financial data to inform the community and Board’s work.
+
+
+    Note: it may be helpful to answer the bond planning questions in sequential order
+       1. What is the desired amount of the GO bond?
+       2. How should the bond be financed?
+       3. What are the scopes of work that should be included?
+
+
+
+
+GO Bond Financing
+PPS began its capital improvement program in 2012 guided by a sustainable financing model that
+prioritized using short-term debt financing. The benefits of short-term debt are largely two-fold:
+
+           (i) total interest is comparatively low; and
+           (ii) retiring debt in short-term intervals creates revenue capacity for additional/future bonds
+
+These benefits, in combination, allow the District to pursue a regular series of GO bonds while
+maintaining a consistent tax levy rate.
+
+The downside of short-term debt is that the bond principal amount is relatively low.1
+
+This model was a “pay as you go” plan such that the length of the debt would match the approximate
+time it took to complete the funded improvements. For example, it assumed that an 8-year bond would
+take approximately 8 years to complete the majority of the work and the debt would be retired in 8
+years. When the work was complete, the debt would be paid off, and the district could repeat the cycle.
+1
+    The original model estimated the first four GO bonds in the $350M - $450M range
+
+
+                                                                                                             2
+The short-term financial model also proposed overlapping bonds to maintain a consistent rate of project
+completion, and modeled small overlapping 8-year GO bonds that would be voter approved every 4
+years. This is where the concept of pursuing a GO bond at every presidential election derived.
+
+Over the course of 3 GO bonds, PPS has moved away from using short-term debt in favor of long-term
+debt. Long-term debt provides the benefit of larger bond principal amounts, however it also increases
+the length of the debt term and the interest costs, and does not create the same revenue capacity for
+the next GO bond in the series.
+
+Currently PPS has bond debt that requires large portions of PPS’s tax revenue to pay down. It’s
+important to understand how this debt impacts the District’s future GO bond financing options.
+
+Sample GO Bond Financing Scenarios
+The District’s financial advisor has provided a number of sample financial scenarios. The scenarios are
+intended to highlight the dependencies of financial variables and help guide Board decision making.
+
+Variables in the below scenarios are:
+    1. Approximate Bond Amount (Principal) - the total principal amount of the bond
+    2. Estimated Total Interest - the total estimated interest payments over the life of the bond
+    3. Total Revenue Needed - the total amount of taxes needed
+    4. Approximate Interest as % of Principal - the calculation of the amount of total interest against
+        the principal amount
+    5. Approximate Length of the Debt - estimation of how long the debt will need to be financed to
+        achieve the principal amount - typically the longer the length of debt, the higher the principal
+        amount and the higher the % of interest - similar to a conventional mortgage
+    6. Maximum Levy Rate - the estimate tax levy rate per $1000 of assessed value
+    7. Timing of Potential Next Bond Election - estimated next time PPS would ask voters to approve a
+        GO bond based on current debt, levy rate, work load, etc.
+
+Sample Scenarios
+            Scenario A: Retain the current estimated levy rate maximum2 and identify the desired length of debt
+                - Independent Variables:                Estimated Levy Rate | Length of Debt
+                - Dependent Variables:                  Principal Amount | Interest
+            Scenario B: Identify the principal bond amount ($1.5B) and the desired levy rate
+                - Independent Variables:               Principal Amount | Estimated Levy Rate
+                - Dependent Variables:                 Interest | Length of Debt
+            Scenario C: Identify the principal bond amount ($1.5B) and the desired the length of debt
+                - Independent Variables:               Principal Amount | Length of Debt
+                - Dependent Variables:                 Interest | Estimated Levy Rate
+
+2
+    $2.50 per thousand of taxable assessed value
+
+
+
+
+                                                                                                                  3
+        Scenario D: Retain the levy rate, identify the bond amount ($1.5B), and the desired the length of debt
+            - Independent Variables:                  Estimated Levy Rate | Principal Amount | Length of Debt
+            - Dependent Variables:                    Interest
+
+
+Sample Scenario Table
+
+
+
+
+Note: the District has $422M remaining to be sold for the 2020 bond authorization. PPS is planning to sell these
+remaining funds in 2025.
+
+
+As you will notice, as the principal amount gets larger, the tradeoffs are either (i) increased interest; (ii)
+increased estimated levy rates; and/or (iii) increased length of time to the next GO bond election, which
+in turn impacts the options and capacity for the next GO bond in the series.
+
+In other words, larger principal bond amounts have the benefit of including more projects in the GO
+bond for the next round, however the larger bonds impacts PPS’s capacity to continue to request future
+bonds and maintain a consistent levy rate.
+
+
+
+
+Guiding Documents
+The following documents quantify the District’s asset portfolio under a number of different
+measurements in order to assess investment pace and volume to maintain a defined physical and
+functional condition.
+
+Facility Condition Assessment
+
+
+
+
+                                                                                                                   4
+PPS’s Facility Condition Assessment (FCA) - completed in 2021 - documented the condition of the
+District’s building assets.3 Nearly three-quarters of all assets were categorized as "Aged – Exceeded
+Design Life." Assets with the highest associated costs were related to heat-generating systems, followed
+by elevators, lifts, and electrical distribution systems.4
+
+The Facility Condition Index (FCI) is the ratio of a building’s maintenance costs relative to replacing the
+building at current construction costs. FCI values range from 0.00 (Good) to 1.00 (Critical). A higher FCI
+indicates a greater need for remedial funding, relative to the facility’s replacement value. The District
+average FCI is 0.13 or “Poor.” Sixty-two (62) facilities rated Poor or Critical of the ninety-four (94) sites
+assessed, indicating a critical need to invest in existing facilities.
+
+Facility Capital Improvement Plan
+The highest return on investment is to replace systems before they reach failure. The APPA (formerly the
+Association of Physical Plant Administrators) is an organization focused on education facility
+management; resources and information from the APPA are used for benchmarking investment needs
+for facilities maintenance and capital renewals.
+
+Current Replacement Value (CRV) is a fundamental component of the APPA-calculated standards; the
+CRV is derived by multiplying new construction costs per gross square foot ($/GSF)5. The expected
+lifespan of facilities is derived by averaging the life of a building structure, systems, components, fixtures,
+and equipment. The percentage in the benchmark refers to the percentage of facilities’ CRV that should
+be invested annually to maintain school buildings in good condition as recommended by the APPA and
+discussed in the State of Our Schools: America’s K–12 Facilities 2016 (“State of our Schools”) study which
+addresses the specific capital planning needs of K-12 facilities6.
+
+Benchmark investment calculations use CRV to estimate expected facility costs of ownership. PPS’s CRV
+for the entire facility portfolio was $4.2 billion in 2021. The APPA benchmark for annual investment into
+maintenance and refurbishment is 3% of CRV for a ten-year total investment of $2.4 billion7, with an
+average expenditure of $171 million per year. This high-level calculator assumes buildings are already in
+“good” condition, so the number for PPS would, under this planning calculation, be even higher.
+
+Performing preventive maintenance is critical to minimizing asset life cycle costs and extending asset life
+span.
+
+
+3
+  Assessments were performed per ASTM E2018 guidelines and based on “rapid visual inspection.” Data was collected without
+intrusion, relocation, removal of materials, exploratory probing, use of specialized protective clothing, or any special equipment
+and did not necessitate lockout-tag-out procedures.
+4
+  The FCA is a high-level review of many critical building systems, but it is not a comprehensive building assessment. The FCA
+includes the critical building systems: exterior enclosure, roofing, plumbing, HVAC, fire protection, and electrical. However the
+FCA does not include other systems such as seismic or security.
+5
+  APPA Facilities Terms and Definitions Database, n.d. http://tnd.appa.org/detail/6988
+6
+  Filardo, Mary "State of Our Schools: America’s K–12 Facilities 2016" Washington, D.C.: 21st Century School Fund.
+2016. https://eric.ed.gov/?id=ED581630 Web September 2022.
+7
+  This estimated investment includes both capital costs and non-capital routine maintenance.
+
+
+                                                                                                                                 5
+ The Facility Condition Assessment and Capital Improvement Plan highlight the importance of
+ investing in existing school buildings.
+
+
+
+Long-Range Facilities Plan
+The Long-Range Facilities Plan (LRFP), required by the state, falls within a sequence of steps
+recommended by the state before capital bond planning. This document relies on the multi-year FCA and
+enrollment forecasts outlining student population trends for the next fifteen (15) years. Building on
+these efforts, this plan documents capital forecasts in the context of educational vision, building
+condition, and building capacity.
+
+The contents of this document are primarily informational. Recommendations, where they exist, were
+developed in collaboration with District academic program leaders, district stakeholders, and community
+voice.
+
+This document offers information on all major categories, but does not outline specific project scopes or
+timelines. Further study is necessary to determine project feasibility within the future budget
+parameters.
+
+Community voice was central throughout the LRFP development process, and continued dialogue with
+community members will be essential. The project team sought student input through close
+coordination with District elementary, middle and high school teachers, and student groups. Affinity
+groups were organized to enable groups of people to come together around common social identities,
+including race and cultural backgrounds, fostering a sense of comfort in sharing stories and generating
+ideas to inform long-range facility planning efforts. These approaches supported inclusive engagement
+through empowering the voice of historically excluded or tokenized communities in traditional outreach
+methods.
+
+The Long-Range Facility Plan project team met with District academic leaders from eleven (11) program
+areas to document programmatic capital priorities. Program representatives were provided with a list of
+questions before the interviews, allowing them to consult with their colleagues in developing responses.
+The questions were intended to elevate the District’s social justice and racial equity goals in the context
+of each respective program vision. All questions were inflected based on the specific academic program
+area. Following the interviews, the project team organized responses into three sections: Program
+Vision, Facility Constraints, and Capital Forecasts. The capital forecasts were further divided into high,
+moderate, and low priorities. Each program leader then had the opportunity to review, comment, and
+edit the text prior to appearing in this Plan.
+
+
+
+
+                                                                                                          6
+For reference, below are the high priority capital forecasts provided for each program. It is not
+anticipated that the next bond will include all of the below work, rather the below scopes are a starting
+point for further discussion to determine feasibility and priority within budget parameters.
+
+
+ The below projects are verbatim from the LRFP. They are provided to highlight the priorities
+ identified during the development of the plan in 2021. It is expected that prior to inclusion of any
+ scope in a GO bond, specific scopes of work would be further vetted, updated and refined. In other
+ words, the LRFP is a good place to look for initial priorities, but not final determinations.
+
+
+        Early Childhood Education
+        High Priority
+            ★ Addition of one (1) Pre-k Partner Program to Holladay Annex for 2023/24 school year
+            ★ Addition of two (2) Pre-K classrooms to Rosa Parks for 2023/24 School year
+            ★ Addition of two (2) pre-k classrooms at Lent and one (1) at MLK Jr. for the 2022-23
+                school year.
+            ★ Addition of two (2) pre-k classrooms on the southwest side. The program director has
+                identified Markham Elementary as a potential location (based on neighborhood
+                demand). Markham is projected to be at 73% utilization during the 2021-22 school year
+                with fairly stable enrollment projected over the next five years. As such, there is
+                sufficient space to convert two existing general classrooms into pre-k classrooms at this
+                location.
+            ★ Addition of two (2) pre-k classrooms on the west side. The program director has
+                identified Chapman Elementary as a potential location (based on neighborhood
+                demand). Chapman is projected to be at 70% utilization during the 2021-22 school year;
+                enrollment is projected to increase over the next five years, with an anticipated
+                utilization rate of 74% by 2025-26. Even with the enrollment increase, there appears to
+                be sufficient space to convert two existing general classrooms into pre-k classrooms at
+                this location.
+            ★ Addition of at least two (2) pre-k classrooms at an inner southeast elementary school.
+                Marysville K-5, Woodmere K-5, and Arleta K-5 are examples of schools in this area with
+                low utilization and declining enrollment. As such, they might be potential candidates for
+                pre-k classroom placement over the next five (5) years.
+
+        Elementary Schools
+        High Priority
+            ★ Add or re-purpose space to provide a dedicated family resource center at every
+                elementary school.
+            ★ Provide new flexible classroom furnishings and student seating options to allow
+                elementary teachers to easily reconfigure spaces to accommodate a variety of activities.
+            ★ Create an outdoor learning area at each elementary school to support STEM instruction
+                and project based learning.
+
+
+                                                                                                            7
+Middle Schools
+High Priority
+    ★ Conduct accessibility upgrades to ensure that all middle schools are accessible to
+        students, teachers, and visitors with physical disabilities. This will allow all students to
+        enter the building via the main entry and navigate all essential programming within the
+        building.
+    ★ Conduct site improvements at middle school campuses, including the addition of
+        accessible, age-appropriate recreational play equipment and a covered play structure.
+    ★ Invest in flexible furnishings (e.g., student seating, desks) that support collaboration and
+        the ability to quickly and easily reconfigure spaces for purposeful grouping, reteaching,
+        and interventions.
+    ★ Align the Long-Range Facility Plan and Educational Specifications with the final Middle
+        School Redesign plan, ensuring that middle school facilities support the District’s vision
+        for reimagining the middle school experience for PPS students.
+
+High Schools
+High Priority
+    ★ Complete modernization projects of remaining high schools.
+    ★ Add dedicated space(s) for community programs at each high school.
+    ★ Add space(s) to support social emotional health at every high school (e.g. calming
+        room).
+
+Athletics
+High Priority
+    ★ Develop Jackson, Marshall, and Whitaker-Adams as athletic hubs.
+    ★ Athletic upgrades at four (4) middle schools: Lane, Ockley Green, George, and West
+        Sylvan. Each site should at minimum have a multipurpose turf field with a track, an
+        appropriately sized main gym and an auxiliary gym.
+    ★ Access to turf baseball and softball fields for all high schools (e.g., Franklin, Marshall).
+
+Career Technical Education
+High Priority
+    ★ Implement interim CTE upgrades at Jefferson, Cleveland, Ida B. Wells-Barnett, and
+        Alliance to increase the usability of career technical spaces until these facilities can be
+        fully modernized.
+    ★ Upgrade dust collection systems in all district wood shops to meet latest safety
+        standards.
+
+Multiple Pathways to Graduation
+High Priority
+    ★ Identify a location for the Virtual Scholars program, as well as a PPS Virtual School.
+
+
+                                                                                                      8
+    ★ Construction of new MPG building at Benson.
+
+Physical Education
+High Priority
+    ★ For the nine (9) elementary schools without dedicated gyms, add or re-purpose space
+        for a structured movement room (2,000 SF). Prioritize Title I schools in the order of
+        construction. Currently, of the nine (9) schools without a dedicated gym, two (2) are Title
+        I schools: Boise Eliot K-5 and Vestal K-5. If space for a structured movement area is
+        unavailable, consider a covered play structure even if one already exists.
+    ★ Incorporate the recommendations of the PPS All Gender Task Force with regard to locker
+        rooms (once finalized).
+
+Playspaces
+High Priority
+    ★ Playspace improvements aligned with district standards at all Title I, TSI, and CSI
+        elementary schools.
+
+Security Services
+High Priority
+    ★ Complete all 2020 bond-funded security projects including installation of new classroom
+        door locks, as well as new or expanded security camera systems and intrusion alarm
+        systems in non-modernized schools.
+
+Special Education
+High Priority
+    ★ Conduct an analysis to determine enrollment and capacity impacts of fully implementing
+        an inclusion model while accommodating most students with disabilities within their
+        neighborhood schools.
+    ★ All buildings must support a continuum of services for students with disabilities
+    ★ Evaluate spatial impacts of adopting a SPED inclusion model as part of the PPS Middle
+        School Redesign and/or Educational Specifications processes.
+    ★ Add a dedicated sensory motor support room to every PPS school building (where not
+        already present).
+    ★ Provide a minimum of one (1) multipurpose SPED focus classroom at every elementary
+        school in the district, equipped with a sink (where possible) as well as a restroom per
+        district Ed Specification.
+    ★ SPED focus classroom renovations and/or additions at the middle and high schools to
+        create a dedicated series of multipurpose spaces that can be adapted to serve a range of
+        needs and services per district Ed Specification.
+
+Visual & Performing Arts
+High Priority
+
+
+                                                                                                 9
+            ★ One (1) music classroom configured and equipped per current Ed Specifications at every
+              elementary school.
+            ★ One (1) visual arts space configured and equipped per current Ed Specifications with a
+              working, properly ventilated kiln at every elementary school.
+            ★ Addition of art exhibition space or area at every elementary, middle and high school.
+            ★ Black box theater or flexible performance space in every middle school.
+            ★ Centralized VAPA storage facility to house art equipment and supplies, consumables,
+              class sets of musical instruments, theater costumes and props, and other items.
+
+It is important to note that the LRFP does not make commitments that will require future Board action or
+make specific recommendations for future bonds, and not all of the LRFP priorities can be included in the
+2024 bond. Rather these facility priorities provide the foundation for dialogue around bond package
+development and the District’s vision for the built environment.
+
+
+ The LRFP includes high-level information on enrollment forecasts and school utilization. Current
+ school utilization rates are approximately 60%, indicating that PPS (at a high-level at least) has
+ adequate existing space for District educational needs.
+
+
+
+
+Scope of Bond-Funded Projects
+General obligation bonds often consist of a mix of scope and projects. Bonds often include five
+categories of work:
+    ● Physical Facility Improvements
+    ● Educational Improvements
+    ● Capacity
+    ● Modernization
+    ● Contingency and Administration
+
+
+
+
+                                                                                                      10
+Physical Facility Improvements
+Physical Facility Improvement often consists of repairing or replacing building systems that are beyond
+their useful life. Examples include roof replacements, asbestos remediation, accessibility (ADA)
+improvements, etc. There is not always a bright line between Physical Facility Improvements and
+Educational Facility Improvements, but one can think of this category as more akin to fixing broken
+things (such as replacing a leaking roof) or making building system improvements (such as adding an
+elevator).
+
+Critical Systems / Deferred Maintenance
+PPS’s Capital Improvement Plan (CIP) is the first step in identifying and prioritizing data-driven
+capital needs to help guide future investment. FCI, or Facility Condition Index, is a ratio of
+documented repair costs to facility replacement costs; the most current collective FCI score of
+District (based on the 2021 FCA) assets is 0.13 or “Poor”.
+
+Staff estimates the cost to address all noted FCA deficiencies over a 10-year period would cost $992
+million; about $100 million per year. Staff estimate that to reduce the FCI from “poor” to “fair” or
+.074 (the midpoint of FCI “fair” range .05 to .1), over a ten-year period, would require a total
+investment of approximately $700 million, or $70 million per year. These calculations are based
+solely on the deficiencies identified in the FCA and do not account for additional asset failures or
+other increases in the deferred maintenance backlog after completion of the FCA.8
+
+Additional needs for building maintenance which are not captured in the FCA include exterior
+improvements such as asphalt repair or renewal and exterior mechanical and site utilities; projects in
+these areas may include drive aisle replacement, and stormwater system repairs. Schoolyard play
+equipment replacements, outdoor covered play areas, and turf system refresh work are not captured in
+the FCA.
+
+Play equipment replacement is anticipated to cost $37 million over 10 years. Outdoor covered play areas
+are anticipated to cost $33 million over ten years. Synthetic turf systems require a surfacing system
+refresh every eight years which is anticipated to cost approximately $65 million for the current high
+school fields; an additional $65 million is needed for the middle school fields turf refresh over a ten year
+period once those are implemented.
+
+Seismic system structural work such as improving roof diaphragms and structural supports, as well as
+building lateral system strengthening are also excluded from the FCA. Current roofing replacement work
+has included the related seismic retrofit work for that portion of the buildings’ structural system.
+Planning for the remainder of seismic retrofit work is currently underway and includes schools in the City
+of Portland’s Unreinforced Masonry (URM) database, as well as those not addressed through the roofing
+replacement work. Both mechanical and seismic information is anticipated to be complete in early 2024.
+
+8
+  The deferred maintenance calculations include roof repairs and building mechanical systems. Staff are in the process of
+completing detailed roof and mechanical assessments which will update these assumptions.
+
+
+                                                                                                                            11
+Capital Asset Renewal
+As noted above the in the Facility Capital Improvement Plan section, the APPA benchmark for annual
+investment into maintenance and refurbishment is 3% of CRV for a ten-year total investment of $2.4
+billion9, with an average expenditure of $171 million per year.
+
+Seismic
+Although all new and modernized facilities meet seismic code requirements, and a number of PPS sites
+have received incremental seismic improvements in recent years via roof replacement projects or other
+targeted improvements, few of PPS current buildings meet current seismic code.
+
+Seismic deficiencies were not a scope within the FCA, however reviewing previous cost estimates places
+the total cost to bring all PPS sites up to current seismic code at over $1 billion. In addition to being
+costly, seismic retrofits are also very invasive, and time consuming; often larger scale projects cannot be
+completed over a single summer.
+
+2012 Expected Seismic Performance (EPR) Ratings were compiled by James G. Pierson, Inc. Consulting
+Structural Engineers in spring 2012 and are modeled on the University of California at Berkeley
+classification system. These classified Portland Public School facilities, by campus, into general groupings
+to describe their expected performance in an earthquake, using Good, Fair, and Poor. The ratings were
+used in 2012 bond development and planning as a general seismic guide for expected performance and
+prioritization. All “Poor” EPR schools in operation during bond planning were scheduled to receive
+seismic improvements as part of the 2012 school construction bond.
+
+The performance rating system takes into account seismic risk score, previous seismic improvement
+work, the building class, age of construction, vertical and horizontal irregularities, building site, number
+of stories and any documented condition of the structural materials. It should be noted that school
+facilities are often a combination of additions and different building types that have been constructed
+over many years. Many schools have more than one building class/construction type.
+
+Since the seismic performance ratings were completed in 2012, PPS has passed three bond measures
+that have provided funds for a range of incremental and full seismic improvements. This work has been
+focused on school buildings that are on the City of Portland's list of Unreinforced Masonry (URM)
+buildings. While the presence of a building on the URM list is not a singular predictor of its performance
+in a seismic event, various code requirements and grant opportunities have been tied to a building's
+presence on the list. PPS has been using bonds, grants and other funds to bring its URM-listed buildings
+up to the current seismic code.
+
+
+
+
+9
+    This estimated investment includes both capital costs and non-capital routine maintenance.
+
+
+                                                                                                           12
+PPS is currently working on a complete seismic re-assessment of all District schools, including cost
+estimates to bring buildings to current seismic code where needed. Additional information will be
+provided here when the assessment is complete.
+
+Accessibility - the PPS ADA Transition Plan
+Title II of the Americans with Disabilities Act (ADA) requirements state that a public entity must
+reasonably modify its policies, practices, or procedures to avoid discrimination against people with
+disabilities. Developing a transition plan to remove barriers to program access is a proactive step to
+ensure PPS’s compliance with the ADA. Taken together with Portland Public Schools Racial Educational
+Equity Policy 2.10.010-P LINK, the PPS ADA Transition Plan LINK defines scope for barrier removal and
+multi-level access throughout the District.
+
+The transition plan’s primary purpose is to provide an actionable and coordinated work plan for
+removing architectural barriers across the district’s buildings and grounds. Prioritization criteria were
+developed through a thorough stakeholder engagement and review process which identified the order of
+importance for barrier removal across the district. The process identified the first priority as main level
+barrier removal across the district; that work is currently being implemented through the 2020 bond.
+The second tier of barrier removal will include the installation of elevators at the multi-story schools
+which have not been modernized, as well as barrier removal in restrooms that are on upper and lower
+levels of the multi-story schools.
+
+Implementation costs are estimated to range from approximately $138 million for 29 elevators and
+related restroom work to $57 million for those improvements at 12 schools.
+
+Security
+PPS takes a layered approach to minimizing risks and creating safe and secure learning environments.
+This approach includes both adopting new physical security measures and systems, as well as improving
+capacity of existing measures and systems. Through a system-based approach which includes equipment
+and technology, site and building design, personnel, policies and procedures, and a comprehensive
+training program PPS can address the unique circumstances and safety needs of our campuses. The
+CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY | K-12 SCHOOL SECURITY GUIDE | 3rd Edition
+identifies four main layers that schools should consider when planning for physical security measures:
+     ● Ground perimeter layer - the outer boundary of a school campus
+     ● School ground layer - fields, playgrounds, and parking lots
+     ● Building perimeter - walls enclosing the inside of the school building
+     ● Building interior layer - all spaces inside the school building
+
+The following security improvements have been identified for PPS schools: secured vestibules, perimeter
+fencing, opaque interior and exterior window blinds, and improved surveillance camera coverage.
+
+Secured vestibules provide protection by adding a secured space at the main entrance to a school and
+slow the entrance of people into the school. To add secured vestibules to 73 schools is anticipated to
+
+
+                                                                                                         13
+cost approximately $158 million. Focusing improvements on 45 schools will cost approximately $96
+million. In each case, site configuration is unique and the design of the secured vestibule will be adapted
+in order to provide the preferred entry sequence and control. Ideally, fencing installation can be
+incorporated into vestibule work to provide a complete perimeter.
+
+Fences provide access control, enable natural surveillance, and regulate foot traffic while establishing a
+school’s perimeter. While fences help to establish the perimeters of school grounds, they have the
+additional benefit of creating a sense of community and belonging among students. 75,000 lf of fencing
+around all K-5, K-8 and Middle Schools $20.2 million; a more consolidated schoolyard layout would
+incorporate 50,500 linear feet of fencing around 58 campuses at a cost of approximately $10 million.
+
+Unprotected or uncovered windows that allow for line of sight into a classroom can make classrooms an
+easy target. If an intruder is unable to see occupants in a room they are less likely to attempt to breach
+the room to cause harm. Costs to upgrade all schools to have opaque window coverings at both exterior
+and interior windows is anticipated to be approximately $25 million; updating only lower level exterior
+windows to opaque shades would cost approximately $16 million.
+
+2020 Bond security work is implementing surveillance updates in all schools, however additional camera
+views are needed and some of the older camera equipment is outdated which impedes clear image
+rendering. Costs for these improvements include a full update, adding cameras to each non-modernized
+school for approximately $10 million; alternatively, adding cameras and adjusting existing equipment in
+order to ensure full coverage will cost approximately $6 million.
+
+It is vital to our District’s security of our schools that the 2k legacy card readers are upgraded. Some
+locations are currently using physical keys which get expensive each time the lock needs to be re-keyed
+when the physical keys are lost. This project would include school-wide card readers, cabling, new
+panels, as well as the card readers for the server rooms. Not only does upgraded card reader access
+allow for easy access and re-programming when a new card is needed, it allows the security team to see
+the historial entrance and exists with a timestamp across the district’s schools. In addition, it also allows
+the school to lock-down access to specific areas of the school by the security department. This project
+implementation is supported by multiple different departments including OTIS and the physical security
+team. In addition the implementation would positively impact FAM, and the custodial staff, and on-site
+school staff. This project would need to be overseen by a project manager and would require
+approximately 1 year for implementation. This implementation cost would be approximately $12.6
+million.
+
+Outdoor Spaces (Schoolyards)
+Across the district there are schoolyards which include a diverse array of features, from covered play
+structures to playground equipment, gardens, trees, and sports courts. Wear and tear is especially
+prevalent with play equipment which should generally be on a 20-year replacement cycle. Currently, 74
+of the 107 play equipment zones are over 10 years old.
+
+
+
+                                                                                                           14
+Along with aging equipment, one characteristic shared by the majority of schoolyards across the district
+is the extensive use of asphalt surfacing. The total asphalt area across the District is approximately 127
+acres; asphalt in schoolyards across the district accounts for 44%, or 59 acres, of that total.
+
+Asphalt areas lack the essential tree canopy and vegetation that can offer shade and natural cooling.
+Currently, schoolyards only have a 10% tree canopy, which is significantly lower than The City of
+Portland's overall tree canopy goal of 33%. Furthermore, there is a substantial volume of stormwater
+runoff generated by asphalt covered area; each year district asphalt generates approximately 49 million
+gallons of runoff that flows into local creeks and drainageways.
+
+District schoolyards are composed of a diverse array of elements, and bond funding can play a crucial
+role in fulfilling District objectives. To effectively tackle environmental challenges and make a significant
+community impact, investment would be directed towards fundamental schoolyard components. This
+targeted allocation will serve as a catalyst for securing future grants and fundraising opportunities to
+further enhance schoolyards. Fundamental components for investment include:
+    ● Covered Play Structures - 23 of the 59 K-5 and K-8 schoolyards across the district have a covered
+         play area greater than 3,000 square feet. The remaining 35 (61%) schoolyards are in need of a
+         covered play structure.
+    ● Play Equipment Replacement - Incorporating inclusive and ADA-compliant play equipment is a
+         key element of a complete schoolyard. Across the district play equipment has a range of ages.
+         Typically, the safe maintenance of playgrounds requires play equipment to be managed on a
+         twenty-year replacement cycle. Coordinating this life cycle with a ten year investment period,
+         replacement of equipment that is currently ten years or more old is the minimum standard
+         included in the scenarios below.
+    ● Asphalt Replacement - Asphalt surfacing is necessary in some areas of PPS schoolyards to
+         support operations and safe circulation for students as well as vehicles as well as some parts of
+         play areas. Currently the condition of district asphalt is highly variable in quality and condition,
+         with the majority of it being under-engineered for typical uses which in turn creates the need for
+         more repairs.
+    ● Schoolyard Reclamation (asphalt removal, aka “depaving”) - Currently there is an average of 116
+         square feet of asphalt per student in K-5 and K-8 schoolyards in the district. An extensive
+         examination of national schoolyard standards reveals that numerous districts maintain a
+         standard asphalt area closer to 50 square feet per student. Using this benchmark as a planning
+         goal, PPS could potentially eliminate more than 33 acres, or 56% of the total asphalt area in K-5
+         and K-8 schoolyards.
+    ● Vision and Planning - Schoolyard projects are unique and require both program level and project
+         level vision planning. The right process provides an opportunity to shape the schoolyard in
+         collaboration with the community in order to direct investment where it is most needed in
+         support of equitable student learning and play.
+
+
+
+
+                                                                                                          15
+These elements are combined into “good”, “better”, and “best” scenarios for bond investment within
+PPS K-5 / K-8 schoolyards and middle school campuses. Following is a summary of improvement
+scenarios:
+
+Scenario 1:               $103 million
+   ● Construction of all (35) covered play structures
+   ● Replacement of all Title 1A playground equipment older than 5 years and non-Title 1A that is
+        older than 5 years (Total - 30 Title 1A and 52 Non-Title 1A)
+   ● Replacement of 22 acres of asphalt
+   ● Reclamation of 27 acres of schoolyard
+   ● Vision plans for all schoolyards
+
+Scenario 2:                $82 million
+   ● Construction of all (35) covered play structures
+   ● Replacement of all Title 1A playground equipment older than 5 years and non-Title 1A that is
+        older than 10 years (76 total - 30 Title 1A and 46 Non-Title 1A)
+   ● Replacement of 12 acres of asphalt
+   ● Reclamation of 18 acres of schoolyard
+   ● Vision plans for 28 schoolyards
+
+Scenario 3:              $68 million
+   ● Construction of all Title 1A and 8 Non-Title 1A (20) covered play structures
+   ● Replacement of all playground equipment older than 10 years. (72 playgrounds, 26 Title 1A and
+        46 Non-Title 1A)
+   ● Replacement of 12 acres of asphalt
+   ● Reclamation of 14 acres of schoolyard
+   ● Vision plans for 20 schoolyards
+
+Athletics
+Currently, both youth and high school sports regularly practice on non-PPS sites. Even with projected
+declining enrollment, which was incorporated into the Long Range Facility Plan (LRFP) issued in 2021, the
+scheduling need for student athletics exceeds PPS field capacity. The LRFP identified three PPS sites,
+Jackson, Whitaker, and Marshall, as athletic hubs which would support projected program need and
+relieve scheduling challenges. The LRFP also identified eight middle schools for field and facility
+improvements which would further reduce scheduling on non-PPS sites.
+
+Implementation of three hubs over ten years would require an investment of $114,000,000 and
+implementation of eight middle school facility improvements over ten years would require an
+investment of $92,000,000 for a total of $206,000,000. This approach realizes the full intent for program
+support identified in the Long Range Facility Plan.
+
+Alternatively, implementation of two hubs over ten years would require an investment of $76,000,000
+
+
+
+                                                                                                       16
+and implementation of six middle school facility improvements over ten years would require an
+investment of $69,000,000 for a total of $145,000,000.
+
+Finally, implementation of one hub over ten years would require an investment of $38,000,000 and
+implementation of four middle school facility improvements over ten years would require an investment
+of $46,000,000 for a total of $84,000,000.
+
+All Gender Restrooms
+In order to improve equity and inclusion at Portland Public Schools, staff identified the need for a pilot
+project to add all-gender restrooms to schools that do not have them and which also do not have
+existing single-occupancy restrooms which could be used to support the need on an interim basis. To
+support this, PPS established an All-Gender Restroom Task Force during the 2020/2021 school year. This
+group included school-based staff members, central office staff, parents and students, as well as
+members of the larger LGBTQ2SIA+ communities. The culmination of this work was the Restroom Equity
+Plan LINK which was presented to Operations and Student Support during summer 2021.
+
+Options for implementation range from $15 million to $2.6 million as follows:
+            ● $15,000,000 - Staff estimates this amount would support implementation of all gender
+                restrooms District-wide as described in each of the prioritization categories above. The
+                advantage of this option is the implementation would be District-wide and in full
+                alignment with the PPS Restroom Equity Plan.
+            ● $6,000,000 - Staff estimates this amount would allow the District to implement all
+                gender restrooms in middle schools and K-8s and the locations with zero all gender
+                restrooms.
+            ● $2,600,000 - Staff estimates this amount would support the implementation of all
+                gender restrooms in the priority locations which currently have zero all gender restroom
+                facilities.
+
+Other potential physical facility scopes of work
+   ● Decarbonization - PPS is currently developing a decarbonization plan that will lead us on a path
+       to improve student and staff health, building efficiency, and campus resilience with the intent of
+       reducing our carbon footprint, operating costs, and disruptions from school days. The PPS
+       Climate Crisis Response, Climate Justice and Sustainable Practices Policy sets PPS on a trajectory
+       to reduce the greenhouse gas emissions of our district’s critical infrastructure by 50 percent by
+       2030, using the 2018-2019 school year baseline, and reach net zero emissions by 2040. Working
+       with a diverse team led by PAE Consulting Engineers, PPS is developing a district-wide
+       decarbonization road map. This road map will help PPS understand how to effectively allocate
+       resources and prioritize projects over the next 20 years by answering the question: “How can
+       PPS most efficiently implement GHG emissions reduction measures to give us the best chance of
+       meeting our emissions goals, given financial, industry, and facility constraints, while considering
+       historic inequities in the distribution of resources across PPS?”
+
+
+
+                                                                                                        17
+    ●   Emergency Capital - PPS occasionally faces unanticipated emergency circumstances that require
+        immediate response. Funds could be set aside to respond to unplanned instances that are not
+        otherwise included in the bond language.
+
+
+Educational & Technology Improvements
+Educational improvements typically focus on improvements to classrooms and other dedicated learning
+spaces. The goal of Educational Improvements is to bring dated classroom or teaching instruments up to
+modern standards.
+
+Technology Improvements
+    ● The ERP system is the backbone of the HR and all financial systems for the district. In Bond 2020
+       the ERP was earmarked for the planning stages, but did not have enough funding for the full
+       implementation costs. This request includes the additional funding for the purchase and the staff
+       for implementation of that system as well as transitioning the district off of the previous ERP
+       system.
+            ○ ERP Software and 7 PPS Staff for Implementation $40.5 Million (no inflation costs, but
+                 includes 10% contingency)
+    ● Staff and student device refresh: Currently, there are no funds for a district-wide device
+       replacement for students and staff since the original deployment in 2020-2021. We would like to
+       ensure staff and students have up to date technology for usage in classrooms and for homework
+       assignments.
+            ○ Device replacement students and staff with 1 dedicated PM staff overseeing deployment
+                 $65 Million (includes 25% inflation costs and 10% contingency on hardware costs)
+    ● As we know K-12 cyber attacks are unfortunately extremely common across the country and
+       therefore there needs to be updated systems in place to prevent cyber security attacks for our
+       district.
+            ○ Cyber Security Improvement Systems and 1 dedicated PM $5.5 Million (includes 25%
+                 inflation costs and 10% contingency on hardware costs)
+    ● Currently the PPS Data Center is earmarked for end of life in 2025 and will need funds to keep it
+       running. The data center is critical and is the central hub to our infrastructure across the district.
+            ○ Data Center Maintenance (end of life replacement for chiller and UPS) and 1 dedicated
+                 PM $685,900 (includes 25% inflation costs and 10% contingency on hardware costs).
+    ● Bond 2020 did not include scope for replacing classroom tech or infrastructure in any of the
+       Bond 2012 or 2017 schools. The Bond 2012 schools technology is now outdated and will need to
+       be replaced to be inline with the District’s tech standards. Although Bond 2017 schools
+       technology is relatively new in comparison to Bond 2012 the Wifi system will be at the end of life
+       between 2025-2027 and therefore needing additional funds for replacement.
+            ○ End of life Classroom Tech and Infrastructure Replacement for Bond 2012 schools,
+                 asbestos abatement for 4 schools is estimated at $31.1 Million (includes 25% inflation
+                 costs and 10% contingency on hardware costs)
+
+
+
+
+                                                                                                          18
+            ○    End of life Wireless Infrastructure in the 3 oldest (Kellogg, Lincoln, McDaniel) Bond 2017
+                 schools plus LV contractors: $3.5 Million (includes 25% inflation costs and 10%
+                 contingency on hardware costs).
+    ●   Wireless for boiler rooms: The facilities team has asked OTIS to provide an estimate on how
+        much it would cost for the boiler rooms in each school to have wifi installed, including asbestos
+        abatement. This would allow the facilities team to use their ipads in the boiler rooms and also
+        for future maintenance equipment to be Smart enabled in the future for remote tracking and
+        pre-sets.
+             ○ This is estimated at $10.5 Million (includes 25% inflation costs and 10% contingency on
+                 hardware costs).
+    ●   Project management costs to oversee the end of life gear projects in the data center and also
+        Bond 2012 and 2017 schools. In addition, the wireless for boiler room project.Scope would
+        include project schedule, PM oversight during implementation with LV contractors for updated
+        infrastructure and classroom technology, project documentation and subject matter experts in
+        electrical and design backgrounds would be an estimated $3.3 Million.
+
+HVAC and Energy Sustainability
+Server room HVAC System Installation:
+Currently there are 403 server rooms and 325 of those server rooms do not have a mini-split cooling
+system in place which resulted in server room temps over the accepted range (80 degrees and over 100
+degrees) during a 2 week window of testing in 2023. When equipment temperatures stray outside the
+accepted ranges, stressful situations can occur for the entire school and other district departments. For
+instance, when the environment is too warm, overheating can occur, which can result in unexpected
+server downtime as well as the school’s physical cameras and other critical infrastructure systems. It is
+possible for servers to be too cool, as well. While this may not result in any server downtime, data center
+managers may not want to look at their electricity bill if they're keeping their computing rooms at certain
+chillier temperatures. The environmental impact of keeping servers this cool is also certainly not
+negligible. Keeping server rooms below the maximum temperature and above the minimum is important
+for business continuity and efficiency in the long run. The installation of mini-splits is more energy
+efficient which connects back to the district's energy and sustainability goals. This project
+implementation has the approval from OTIS, the physical security team, and FAM since it directly impacts
+school-wide operations. The installation will cost approx $12.6 Million and currently some of that would
+be eligible for the Federal Infrastructure Plan rebate for mini-splits. This is proposed as a 2 year project
+and would include project management oversight.
+
+Physical education (e.g., covered play areas)
+Physical Education instructional spaces are in need of improvement and expansion of teaching stations.
+This includes the addition of outdoor covered play spaces for 35 schools and the conversion of interior
+school space to Movement Labs in 26 schools.
+
+The total anticipated need for Outdoor Covered Play Spaces is approximately $33 million for 35 schools;
+12 of those, or just over $11 million in costs, are identified as Title 1 schools.
+
+
+                                                                                                         19
+The total anticipated need for Movement Labs is approximately $44 million for 35 schools. At least 6
+sites, or approximately $10 million in costs, are identified as Title 1 schools.
+
+Other potential scopes of work
+   ● Curriculum - The 2020 Bond included $53M for the adoption of comprehensive and current
+       instructional materials, across core subject areas, including language arts, math, science, the arts
+       and social emotional learning.
+
+    ●   Performing Arts - PPS Visual and Performing Arts programming includes a full arts education
+        across grade ranges. Significant instructional space needs are in performing arts including
+        theater front and back of house spaces and instructional spaces for music and dance.
+
+    ●   Career Technology Education - Typical CTE facility upgrades include significant additions to
+        building mechanical system capacity and the installation of dust hazard control systems. In
+        addition these instructional spaces require additional electrical design and service, unique
+        plumbing systems, and larger interior spaces for curriculum support.
+
+
+Capacity
+Growing school districts regularly categorize new schools as “capacity” investments. Capacity can also
+include improvements to support enrollment changes. The 2020 bond PPS set aside $10 million to
+respond to student relocation needs stemming from the South East Guiding Coalition. An additional $2
+million was allocated for future expansion of Roosevelt High School.
+
+Potential Capacity scope of work includes:
+    ● Roosevelt High School phase 5 (increase school capacity to 1700 students)
+    ● Support of future enrollment changes
+
+
+Modernizations
+School modernizations are a mix of physical facility improvements, educational facility improvements
+and (in some cases) capacity. For facilities with high FCI scores, full modernization is the most
+cost-effective avenue to address all needs. The 2020 bond includes planning funds for Cleveland High
+School and Ida B Wells High School.
+
+Potential modernization options include:
+    ● Cleveland High School
+    ● Ida B Wells High School
+    ● Tubman Middle School relocation
+
+
+
+
+                                                                                                        20
+Harriet Tubman Middle School
+PPS is also planning for the relocation of Harriet Tubman Middle School. The State of Oregon has
+provided $120 million to support the relocation effort, however the most recent cost estimates forecast
+a total project budget ranging from $195 million to $238 million.10
+
+K-5 Learning Lab
+
+
+Contingency & Administration
+Program contingency is a risk management tool used to buffer against unanticipated costs such as:
+    ● Higher than anticipated escalation costs
+    ● Building code or zoning code changes
+    ● Emergency facility needs
+    ● Or any other unanticipated cost; discretionary or nondiscretionary
+
+Throughout the course of bond programs, contingency funds are transferred to other scores of work.
+Bond programs end with a zero dollar contingency balance. We do not recommend budgeting
+contingency below 10% of total bond principal.
+
+Administration funds the resources needed to carry out the bond work, including staff, bond issuance
+costs, insurance, etc.
+
+
+
+
+Bond Implementation Constraints
+Bond planning takes into account the communities priorities as assessed against real-world constraints,
+including District bonding capacity, market capacity, implementation capacity, and community support.
+
+The majority of bond work required physical construction and the ability to complete capital
+construction projects work has limits. Market capacity and operational capacity must be considered
+when planning for GO bonds.
+
+Often the ability to complete the work in a specific timeline is dependent on the type of work. Since
+2016 PPS has averaged about $200M in capital spending per year. Annual spending fluctuates with some
+years closer to $100M, and another year that exceeded $250M. When the District is in the construction
+phase on multiple large projects (such as modernizations) the annual spending is closer to the top end of
+this range, when active projects are smaller in scale (and can only be completed in summer months) the
+annual spending is closer to the lower end of the range. Acknowledging anticipated future cost
+escalation, for planning purposes estimating a total capital outlay between $150 million and $250 million
+annually is reasonable.
+
+
+10
+     The current Tubman relocation option includes construction of a new middle school and K-5 learning lab.
+
+
+                                                                                                               21
+Note: PPS will have approximately $650M available funds remaining of the 2020 bond in November
+2024. Staff anticipates completing all 2020 bond work in 2028.
+
+
+
+
+Maintenance Considerations
+Per Oregon statute, ordinary maintenance and repair costs can not be funded by GO bonds. Therefore
+an important consideration when planning GO bond projects are expected ongoing costs that must be
+absorbed by the District’s general fund, or other fund source. Sample scopes of work that require
+non-GO bond funds include new technology or additional square footage.
+
+
+
+
+Resources
+   ●   Long-Range Facilities Plan - Vol. 1 - LINK
+   ●   Long-Range Facilities Plan - Vol. 2 - LINK
+   ●   Long-Range Facilities Plan Presentation - F&O Committee - 04 15 2021 - LINK
+   ●   Long-Range Facilities PlanPresentation - F&O Committee - 10 27 2021 - LINK
+   ●   Long-Range Facilities PlanPresentation - Board Work Session - 11 09 2021 - LINK
+   ●   Bond Planning Introduction - F&O Committee - 08 21 2023 - LINK
+
+
+
+
+                                                                                                 22
+

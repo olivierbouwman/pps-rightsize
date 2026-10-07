@@ -1,0 +1,122 @@
+Stephanie Engelsman (Zone 6) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. Engelsman: author/mover of Res. 7342 (YES, lone vote); YES on the Chase-Miller reserve sub-amendment; moved to postpone the budget a week (failed 3-4); ABSTAINED on Res. 7326; seconded the travel 'all->these' sub-amendment.
+- 2026-06-09: filed intent to run for board chair against Wang (announced by chair); withdrew 7/7; absent from the 7/7 meeting.
+- 2026-08-04 Engelsman draft resolution 'sports for Creston Elementary graduates attending Hosford MS' (moved by La Forte, seconded by Engelsman) FAILED 1-4-1 (one late abstention; Sullivan apparently absent - no caption references; student rep Sandell no). Individual yes/no/abstain not identifiable from captions; the lone yes was most likely Engelsman (author). Author; seconded her own resolution.
+
+EXCERPTS
+
+[2026-06-09 Regular Meeting - ACCESS transportation budget trade-offs / other business]
+  time 04:07:56 | https://www.youtube.com/watch?v=YPG-igPVma0&t=14876s
+  source: transcripts/text/2026-06-09_Board_of_Education_Regular_Meeting__YPG-igPVma0.txt
+  attribution: CONFIRMED (chair at 04:03:51: "Thank you, Director Englesman. And then Vice Chair Pass."; same turn continues)
+  topic: ACCESS (TAG alternative program) bus hubs vs neighborhood-school after-school slots
+  "I do want to voice um some concern at the request that after school programs and neighborhood schools accept access students. I would be concerned that we might end up in a world where a neighborhood school student [...] is suddenly no longer able to get into their own after school program. And so I would hope that there is a caveat in there that only if there is space [...] we have to prioritize neighborhood schools after school programs."
+
+[2026-06-15 Policy Committee - purchasing & contracting rules]
+  time 01:09:12 | https://www.youtube.com/watch?v=tiDNz3CYxyM&t=4152s
+  source: transcripts/text/2026-06-15_Board_of_Education_s_policy_Committee__tiDNz3CYxyM.txt
+  attribution: CONFIRMED (staff: "maybe you director Englesman that had a question"; she answers)
+  topic: oversight of contract amendments (central spending)
+  "contract amendments of anything from one anything from 100.01% all the way to 124.99% just simply don't have any oversight. [...] at a contract that we might approve for 10 million, an amendment of 101% is a large amendment."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:10:48 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15048s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (introduces and reads her own Res. 7342; WW/OPB quote the same line)
+  topic: $13.12M staff-restoration amendment: whose job is it to find money
+  "a few people have [clears throat] asked me [...] where does this money come from? First, it's not my job or our job to come up with finding the money. It's our job to protect the students."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:11:49 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15109s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: fund schools first, then everything outside schools
+  "We should be fully staffing each and every school to at least the 2025-26 level, and I would argue we probably should add even more [...] And once we've properly and fully staffed every school, then we ask, where do we get the money for everything else outside of the schools?"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:12:50 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15170s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: cuts drive enrollment loss (her 'math')
+  "13,120,000, the cost of cutting the educators and the staff inside these buildings divided by that 7,200 is 1,822 students. [...] Which we have been losing about 700 each year before we make these cuts. So if we lose 1,822 students or 1,823 students next year, we will have saved nothing"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:13:50 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15230s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn; WW quotes)
+  topic: no more budgets balanced on students
+  "So we cannot balance another budget on the back of our students. We did it last year with cuts. We did it this spring with furlough days."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:15:51 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15351s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: alternatives: outside contracts, AI contracts
+  "We could look at outside contracts that are not bond funded. What if we reduced all of them by 7% 10%? What do we get? [...] We had a Lumi AI contract last year that was for $149,000 which could have been one teacher."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:17:52 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15472s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: class sizes; family flight; asks for a week's delay
+  "There are middle schools out there with 45 kids in their classes where they're trying to learn. There are third graders in a class of 34 [...] We can't be surprised if people leave [...] we don't have to do this today. We could spend a week looking, unearthing, turning stones"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:13:31 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18811s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: PROBABLE (speaker who then seeks to table/postpone the budget for a week; counsel later: "two lawyers agree" at 05:43:56)
+  topic: pressure Salem to open the Education Stability Fund in an election year
+  "I do not think that it is a foregone conclusion that the senators and the representatives and the governor who are seeking re-election can't be persuaded to look into, dip into, open up the education stability fund."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:41:55 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20515s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: PROBABLE (same speaker as 05:13-05:17 postponement request; motion to postpone failed 3-4)
+  topic: motion to postpone budget a week
+  "I move to table this entire conversation, the amendment, the budget decision for a week and then direct the superintendent to spend a week turning stones, asking questions, looking places, see if we see anything."
+
+[2026-08-04 Regular Meeting - SE Enrollment & Program Balancing (SEGC) equity audit / rightsizing update]
+  time 01:10:10 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=4210s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (chair: "Director Englesman.")
+  topic: family retention after closures/boundary changes
+  "What did you find about family retention um after the changes? How many families did PPS lose as a result of school closure boundary change? This that's my one of my main questions."
+
+[2026-08-04 Regular Meeting - SE Enrollment & Program Balancing (SEGC) equity audit / rightsizing update]
+  time 01:15:16 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=4516s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (same turn, follow-up to Splitt's DLI question)
+  topic: DLI/lottery seats vs neighborhood access
+  "So, a kid who lives across from an entirely lottery based school who could enter a kindergarten may not get to enter kindergarten even though they could throw a stone to that school. [...] why don't we just let everyone in who wants to get in to that other school"
+
+[2026-08-04 Regular Meeting - SE Enrollment & Program Balancing (SEGC) equity audit / rightsizing update]
+  time 01:45:50 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=6350s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: POSSIBLE (unnamed director; content matches her 6/23 and 9/15 class-size and 'does it save anything' arguments)
+  topic: QEM school-size prototypes must include class-size prototypes
+  "I would like to hear a commitment that the district, we the district are going to follow the all of the QEM suggestions or prototypes. [...] if we're having a school of 450, we should have 20 25 students per class. And that seems to be something that the district just doesn't get behind. [...] do we end up saving anything if we're following through with what we know is smaller classes are sometimes better."
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 01:51:58 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=6718s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (introduces "my resolution"; chair: "the Englesman draft resolution")
+  topic: SEGC K-8-to-K-5 conversion left a split feeder
+  "Cresten was a K through eight and there were conversations about leaving it as a K through8 and then Cresten ended up being a K moved to a K through five. [...] It is the only elementary school neighborhood school where a cluster of kids who go together K through five are then split and sent to different middle schools"
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 01:59:03 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=7143s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (same turn)
+  topic: temporary fix pending rightsizing boundary change
+  "The fix that I'm proposing is entirely temporary. I'm not asking this to be long-term. I'm just asking for the school year of 26 to 27 that the Crescent kids whose boundary I've had confirmed is going to be amended as part of this right sizing process."

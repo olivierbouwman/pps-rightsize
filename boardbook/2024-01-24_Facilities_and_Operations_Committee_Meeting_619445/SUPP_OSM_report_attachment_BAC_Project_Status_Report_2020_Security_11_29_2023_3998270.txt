@@ -1,0 +1,77 @@
+2020 Infrastructure: Security                                                                                                                     PPS Team Leads: Eric Naes, Ellen Cusick
+November 2023                                                                                                                         Number of Completed Projects: 0
+                                                                                                                                         Number of Active Projects: 4
+
+STATUS AT A GLANCE
+                                                                                                                       As Planned              Caution                 Impacts
+Legend:                                                                                      Budget                            X
+                   As planned: no concerns                                                   Equity*                                                   X
+                   Caution: requires attention                                               Schedule                                                  X
+                   Impacts: impacts occurring                                                Overall                                                   X
+
+BUDGET
+                                                        BUDGET                                    FUNDING                                       PROGRESS                                  FORECAST
+                                                                                                                                   Actuals To Date     Additional               Estimate At
+                                          Original Budget       Current Budget       Security Funds        Other Funds               (all funds*)     Encumbered                Completion       Over/Under
+                  Unallocated Funds            25,900,000             13,362,382          13,362,382                       -                       -                       -                    -   (13,362,382)
+          Hardware Upgrades-5999                            -          4,306,814           2,741,595             1,565,219               2,248,470               1,094,870            4,306,814                -
+     Harrison Park - MS Conv - 5706                         -            52,000                52,000                      -                       -               52,000               52,000                 -
+  Cameras & Intrusion Design-6067                           -          4,694,550           4,694,550                       -              213,482                1,277,461            1,790,943      (2,903,607)
+    Cameras & Intrusion Install Ph 1                        -          5,049,473           5,049,473                       -                       -             1,909,842            2,909,842      (2,139,631)
+                2020 Security Totals                                  27,465,219          25,900,000             1,565,219               2,461,952               4,334,173            9,059,599     (18,405,620)
+
+
+
+EQUITY*            Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                                MBE       WBE       SDVBE       ESB        N-C           TOTAL                  goal               MIN      goal           FEM      goal       APPR       req
+              Consultants        0.00%      0.00%      0.00%     0.00%      0.00%           0.00%               18%
+              Contractors        0.00%      0.00%      0.00%     0.00%      0.00%           0.00%               18%
+                   Overall       0.00%      0.00%      0.00%     0.00%      0.00%           0.00%               18%
+
+               Workforce                                                                                                            0%      25%            0%       14%        0%        20%
+
+* There have been no construction payments to date. Equity data shown only through 7/31/2023 due to PeopleSoft system error currently being addressed.
+
+
+
+
+                                                                                                                                                                      2020 Infrastructure: Security, November 2023
+                                                                                                                                                                                                         page 1 of 2
+2020 Infrastructure: Security                                                                                                        PPS Team Leads: Eric Naes, Ellen Cusick
+November 2023                                                                                                            Number of Completed Projects: 0
+                                                                                                                            Number of Active Projects: 4
+
+SCHEDULE
+                                                                           2023                                                                           2024
+                          PROJECT       MAY       JUN       JUL      AUG          SEP    OCT      NOV        DEC       JAN      FEB       MAR       APR          MAY   JUN        JUL      AUG
+          Hardware Upgrades-5999
+  Cameras & Intrusion Design-6067
+    Cameras & Intrusion Install Ph 1
+
+                  Baseline                               Planning                               Design                        Construction
+
+
+PROJECT NOTES
+Progress:
+ - Construction has started on Phase 1 sites and is expected to be completed in January 2024.
+ - Design for Phase 2 schools is underway and will be completed in January 2024. Phase 2 sites construction will start in February 2024.
+ - Design for Phase 3 sites will start in January 2024 and complete in February, with construction starting in May 2024.
+ - Classroom door locks (Hardware Upgrades 5999) are being installed in conjunction with accessible door handles and managed by the 2020 ADA project manager. Door hardware has been
+replaced at all sites, excluding hazmat doors (approximately 250 doors at 35 sites). Please see 2020 ADA project status update for additional information.
+
+Accomplishments:
+- Site walk design reviews have been completed for all Phase 2 schools for security camera and intrusion detection systems.
+- Classroom door hardware has been replaced at all sites, other than hazmat doors.
+
+Risks:
+ - Camera installation work requires additional rack space within technology support spaces, but new technology installations that are part of 2020 Technology-funded scope do as well. This is
+requiring close coordination, particularly when one scope of work is being installed prior to the other.
+ - Design reviews with school administrators is taking longer to coordinate than expected (but is important for confirming camera siting needs).
+
+
+
+
+                                                                                                                                                      2020 Infrastructure: Security, November 2023
+                                                                                                                                                                                         page 2 of 2
+

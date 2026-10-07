@@ -1,0 +1,695 @@
+ Portland Public Schools
+   Preliminary Financial Report
+        Fiscal Year 2023-24
+For the Period Ended March 31, 2024
+DATE:           May 10, 2024
+TO:             Portland Public Schools Board of Education
+FROM:           Leslie O’Dell, Interim Chief of Staff
+SUBJECT:        Preliminary Financial Update for the Period Ended March 31, 2024
+
+
+This Preliminary Financial Update is an overview of Portland Public School’s financial operations
+for the Period Ended March 31, 2024.
+Included in this report:
+
+         Financial Schedules
+              o General Funds
+              o Special Revenue Funds
+              o Debt Service Funds
+              o Capital Project Funds
+              o Internal Service Funds
+         Cash Management and Investment Update
+This report provides an overview of financial operations of District funds for the three months
+ended March 31, 2024. Amounts reported are from the financial records of the District and are
+unaudited.
+
+
+As you review the Third Quarter Financial Schedules, please keep in mind that the “Annual
+Forecast” column for each fund includes our current estimate of final revenues and expenditures,
+utilizing the best information available. The March 31, 2024, financial statements reflect the
+results of negotiations.
+                                                   Fund 100        GENERAL FUND
+The General Fund includes all activities of the District that are supported by the State School Fund, including Property Taxes. The General
+Fund is considered a Major Governmental Fund and is unrestricted.
+
+                                             Fund 200        SPECIAL REVENUE FUND
+
+The Special Revenue Fund includes Federal and State grants, as well as Student Body Funds. The Special Revenue Fund is a restricted fund.
+
+
+                                                Fund 300        DEBT SERVICE FUND
+The Debt Service Fund accounts for the accumulation of financial resources to pay long-term debt principal, interest and related costs. The
+Debt Service Fund is a restricted fund.
+
+                                             Fund 400       CAPITAL PROJECTS FUND
+The Capital Projects Fund accounts for financial resources used to acquire technology or for major renovation or constrution of capital
+facilities. The Capital Projects Fund is a restricted fund.
+
+                                            Fund 600        INTERNAL SERVICE FUND
+The Internal Service Fund accounts for all workers' compensation activities, as well as risk management. The Internal Service Fund is a
+restricted fund.
+                                                  General Funds | By Function
+                                            For the Period Ending March 31, 2024
+
+                                                         Current Year                   % of      Annual        Variance Over
+                                          Prior YTD        Budget        Current YTD   Budget    Forecast        / (Under)
+Operating Revenues
+Local Sources                             425,171,463     457,283,696    452,037,683     98.9%   480,084,687      22,800,991
+Intermediate Sources                        5,246,839      10,892,270      2,873,227     26.4%     7,146,293      (3,745,977)
+State Sources                             204,408,120     273,437,898    218,530,649     79.9%   279,900,646       6,462,748
+Federal Sources                                   -            15,000            -        0.0%           -           (15,000)
+Other Sources                                  46,094       1,800,000         18,989      1.1%        42,494      (1,757,506)
+Total Operating Revenue                   634,872,516     743,428,864    673,460,549     90.6%   767,174,120      23,745,256
+Beginning Fund Balance                     98,804,092     105,496,959    105,496,818    100.0%   105,496,818            (141)
+
+Operating Expenditures
+Instruction                               265,138,258     424,734,403    290,143,502     68.3%   414,491,357     (10,243,046)
+Support Services                          236,894,669     371,354,748    259,644,171     69.9%   368,552,761      (2,801,987)
+Enterprise and Community Services           2,352,816       4,194,476      2,906,315     69.3%     4,277,679          83,203
+Facilities Acquisition and Construction           -               -              468      0.0%           468             468
+Other Uses                                  1,226,407       1,802,790      1,000,000     55.5%     1,802,790             -
+Total Operating Expenditures              505,612,151     802,086,417    553,694,456     69.0%   789,125,055     (12,961,362)
+Contingencies                                              46,839,406                                            (46,839,406)
+
+OPERATING SURPLUS / (DEFICIT)             129,260,365     (58,657,553)   119,766,093             (21,950,935)     36,706,618
+
+Ending Fund Balance                       228,064,457              -     225,262,910              83,545,883      83,545,883
+EFB as % of Total Operating Revenues                              0.0%                                 10.9%
+                                                   General Funds | By Object
+                                         For the Period Ending March 31, 2024
+
+                                                         Current Year                   % of      Annual        Variance Over
+                                       Prior YTD           Budget        Current YTD   Budget    Forecast        / (Under)
+Operating Revenues
+Local Sources                          425,171,463        457,283,696    452,037,683     98.9%   480,084,687      22,800,991
+Intermediate Sources                     5,246,839         10,892,270      2,873,227     26.4%     7,146,293      (3,745,977)
+State Sources                          204,408,120        273,437,898    218,530,649     79.9%   279,900,646       6,462,748
+Federal Sources                                -               15,000            -        0.0%           -           (15,000)
+Other Sources                               46,094          1,800,000         18,989      1.1%        42,494      (1,757,506)
+Total Operating Revenue                634,872,516        743,428,864    673,460,549     90.6%   767,174,120      23,745,256
+Beginning Fund Balance                  98,804,092        105,496,959    105,496,818    100.0%   105,496,818            (141)
+
+Operating Expenditures
+Salaries                               285,568,261        438,928,693    308,679,257     70.3%   438,558,394        (370,300)
+Associated Payroll Costs               132,503,913        223,135,890    149,180,747     66.9%   212,556,094     (10,579,796)
+Purchased Services                      67,396,733        111,087,038     72,960,546     65.7%   107,960,546      (3,126,492)
+Supplies and Materials                  10,231,864         14,428,581     11,971,386     83.0%    16,133,823       1,705,242
+Capital Outlay                           1,533,370          3,091,908      1,430,494     46.3%     2,353,779        (738,129)
+Other Objects                            7,151,602         10,339,307      8,472,027     81.9%    10,506,794         167,487
+Transfers                                1,226,407          1,075,000      1,000,000     93.0%     1,055,626         (19,374)
+Total Operating Expenditures           505,612,151        802,086,417    553,694,456     69.0%   789,125,055     (12,961,362)
+Contingencies                                              46,839,406                                            (46,839,406)
+
+OPERATING SURPLUS / (DEFICIT)          129,260,365        (58,657,553)   119,766,093             (21,950,935)     36,706,618
+
+Ending Fund Balance                    228,064,457                 -     225,262,910              83,545,883      83,545,883
+EFB as % of Total Operating Revenues                              0.0%                                 10.9%
+                                                            General Funds | By Function
+                                                        For the Period Ending March 31, 2024
+
+                                                                      Variance        Variance
+                                          Prior YTD     Current YTD   Amount         Percentage                    Primary Change Drivers
+Operating Revenues
+                                                                                                   Property tax collections and increased interest on
+Local Sources                             425,171,463   452,037,683   26,866,220             6.3% investments
+Intermediate Sources                        5,246,839     2,873,227   (2,373,611)          -45.2%
+State Sources                             204,408,120   218,530,649   14,122,529             6.9% State School Fund higher than anticipated
+Federal Sources                                     -             -            -             0.0%
+Other Sources                                  46,094        18,989      (27,105)          -58.8% Fewer sales of Fixed Assets
+Total Operating Revenue                   634,872,516   673,460,549   38,588,033             6.1%
+Beginning Fund Balance                     98,804,092   105,496,818    6,692,725             6.8%
+
+Operating Expenditures
+                                                                                                   Negotiated collective bargaining agreements and
+                                                                                                  increases in Alternative Ed (Community-Based
+Instruction                               265,138,258   290,143,502   25,005,243             9.4% Organizations (CBOs))
+                                                                                                   Negotiated collective bargaining agreements and
+Support Services                          236,894,669   259,644,171   22,749,502             9.6% increase in Liability Claims, Property/Fire Loss, Utilities
+Enterprise and Community Services           2,352,816     2,906,315      553,499            23.5% Increase in Community Services
+Facilities Acquisition and Construction             -           468          468             0.0%
+Other Uses                                  1,226,407     1,000,000     (226,407)          -18.5% Decreased overall transfers to other funds
+Total Operating Expenditures              505,612,151   553,694,456   48,082,305             9.5%
+Contingencies
+
+OPERATING SURPLUS / (DEFICIT)             129,260,365   119,766,093    (9,494,273)          -7.3%
+
+Ending Fund Balance                       228,064,457   225,262,910    (2,801,547)          -1.2%
+                                                    General Fund | By Object
+                                              For the Period Ending March 31, 2024
+
+                                                            Variance        Variance
+                                Prior YTD     Current YTD   Amount         Percentage                   Primary Change Drivers
+Operating Revenues
+                                                                                         Property tax collections and increased interest on
+Local Sources                   425,171,463   452,037,683   26,866,220             6.3% investments
+Intermediate Sources              5,246,839     2,873,227   (2,373,611)          -45.2%
+State Sources                   204,408,120   218,530,649   14,122,529             6.9% State School Fund higher than anticipated
+Federal Sources                         -             -              -             0.0%
+Other Sources                        46,094        18,989      (27,105)          -58.8% Fewer sales of Fixed Assets
+Total Operating Revenue         634,872,516   673,460,549   38,588,033             6.1%
+Beginning Fund Balance           98,804,092   105,496,818    6,692,725             6.8%
+
+Operating Expenditures
+                                                                                         Negotiated collective bargaining agreements driving
+Salaries                        285,568,261   308,679,257   23,110,995             8.1% salary increases
+                                                                                         Increase to PFMLA, PERS and Health along with
+Associated Payroll Costs        132,503,913   149,180,747   16,676,834            12.6% negotiated collective bargaining agreements
+                                                                                         Increases in Alternative Ed (Community-Based
+Purchased Services               67,396,733    72,960,546    5,563,813             8.3% Organizations (CBOs))
+Supplies and Materials           10,231,864    11,971,386    1,739,522            17.0% Increase in Computer Software and general supplies
+                                                                                         Decrease in purchases including vehicles and Capital
+Capital Outlay                    1,533,370     1,430,494     (102,876)           -6.7% Bus Improvements
+                                                                                         Property Insurance Premiums and Deductible
+Other Objects                     7,151,602     8,472,027    1,320,425            18.5% Insurance Loss
+Transfers                         1,226,407     1,000,000     (226,407)          -18.5% Decreased overall transfers to other funds
+Total Operating Expenditures    505,612,151   553,694,456   48,082,305             9.5%
+Contingencies
+
+OPERATING SURPLUS / (DEFICIT)   129,260,365   119,766,093    (9,494,273)          -7.3%
+
+Ending Fund Balance             228,064,457   225,262,910    (2,801,547)          -1.2%
+                                             Special Revenue Funds | By Function
+                                            For the Period Ending March 31, 2024
+
+                                                         Current Year                     % of      Annual       Variance Over
+                                          Prior YTD        Budget        Current YTD     Budget    Forecast       / (Under)
+Operating Revenues
+Local Sources                              11,470,824      13,710,135     10,449,240       76.2%    19,555,215      5,845,080
+Intermediate Sources                           90,440       6,162,080        113,702        1.8%       700,747     (5,461,333)
+State Sources                              52,289,606      72,090,471     41,580,116       57.7%    78,776,016      6,685,545
+Federal Sources                            49,051,303     108,750,504     53,778,905       49.5%   131,653,300     22,902,796
+Other Sources                                     -           975,000            -          0.0%       975,000            -
+Total Operating Revenue                   112,902,173     201,688,190    105,921,963       52.5%   231,660,277     29,972,087
+Beginning Fund Balance                     35,068,864      54,532,901     36,665,214       67.2%    36,665,214    (17,867,687)
+
+Operating Expenditures
+Instruction                                56,445,258     113,020,444     54,190,158       47.9%   101,718,400    (11,302,044)
+Support Services                           53,757,274      87,523,304     57,202,767       65.4%    95,265,908      7,742,604
+Enterprise and Community Services          22,350,184      33,244,876     17,216,700       51.8%    29,920,388     (3,324,488)
+Facilities Acquisition and Construction     9,312,365         605,748         46,317        7.6%       302,874       (302,874)
+Other Uses                                        -               -              -          0.0%           -              -
+Total Operating Expenditures              141,865,080     234,394,372    128,655,941       54.9%   227,207,570     (7,186,802)
+Contingencies                                               1,200,000                                              (1,200,000)
+
+OPERATING SURPLUS / (DEFICIT)             (28,962,907)    (32,706,182)    (22,733,979)               4,452,707     37,158,889
+
+Ending Fund Balance                         6,105,957      20,626,722     13,931,236                41,117,921     20,491,203
+EFB as % of Total Operating Revenues                            10.2%                                    17.7%
+                                           Special Revenue Funds | By Object
+                                         For the Period Ending March 31, 2024
+
+                                                      Current Year                     % of      Annual       Variance Over
+                                       Prior YTD        Budget        Current YTD     Budget    Forecast       / (Under)
+Operating Revenues
+Local Sources                           11,470,824      13,710,135     10,449,240       76.2%    19,555,215      5,845,080
+Intermediate Sources                        90,440       6,162,080        113,702        1.8%       700,747     (5,461,333)
+State Sources                           52,289,606      72,090,471     41,580,116       57.7%    78,776,016      6,685,545
+Federal Sources                         49,051,303     108,750,504     53,778,905       49.5%   131,653,300     22,902,796
+Other Sources                                  -           975,000            -          0.0%       975,000            -
+Total Operating Revenue                112,902,173     201,688,190    105,921,963       52.5%   231,660,277     29,972,087
+Beginning Fund Balance                  35,068,864      54,532,901     36,665,214       67.2%    36,665,214    (17,867,687)
+
+Operating Expenditures
+Salaries                                62,970,379      85,672,603     63,312,748       73.9%   105,423,276     19,750,673
+Associated Payroll Costs                29,511,338      45,570,248     30,934,207       67.9%    50,980,994      5,410,746
+Purchased Services                      20,738,813      51,162,846     18,238,640       35.6%    42,243,701     (8,919,145)
+Supplies and Materials                  23,081,360      43,445,273     11,337,410       26.1%    21,007,809    (22,437,464)
+Capital Outlay                             707,257       1,865,315        542,474       29.1%       190,015     (1,675,300)
+Other Objects                            4,855,934       6,678,087      4,290,462       64.2%     7,361,775        683,688
+Transfers                                      -               -              -          0.0%           -              -
+Total Operating Expenditures           141,865,080     234,394,372    128,655,941       54.9%   227,207,570     (7,186,802)
+Contingencies                                            1,200,000                                              (1,200,000)
+
+OPERATING SURPLUS / (DEFICIT)          (28,962,907)    (32,706,182)    (22,733,979)               4,452,707     37,158,889
+
+Ending Fund Balance                      6,105,957      20,626,722     13,931,236                41,117,922     20,491,203
+EFB as % of Total Operating Revenues                         10.2%                                    17.7%
+                                               Debt Service Funds | By Function
+                                            For the Period Ending March 31, 2024
+
+                                                        Current Year                    % of      Annual        Variance Over
+                                          Prior YTD       Budget         Current YTD   Budget    Forecast        / (Under)
+Operating Revenues
+Local Sources                             198,218,650    247,083,830     216,840,755     87.8%   248,231,752       1,147,922
+Intermediate Sources                              -              -               -        0.0%           -               -
+State Sources                                     -              -               -        0.0%           -               -
+Federal Sources                                 6,510            -               -        0.0%           -               -
+Other Sources                               1,234,727        619,000         618,751    100.0%       618,751            (249)
+Total Operating Revenue                   199,459,887    247,702,830     217,459,506     87.8%   248,850,504       1,147,674
+Beginning Fund Balance                     13,705,136     10,000,000      18,303,405    183.0%    18,303,405       8,303,405
+
+Operating Expenditures
+Instruction                                       -              -               -        0.0%           -                -
+Support Services                                  -              -               -        0.0%           -                -
+Enterprise and Community Services                 -              -               -        0.0%           -                -
+Facilities Acquisition and Construction           -              -               -        0.0%           -                -
+Other Uses                                 31,468,114    252,016,465      40,284,321     16.0%   250,868,883       (1,147,582)
+Total Operating Expenditures               31,468,114    252,016,465      40,284,321     16.0%   250,868,883       (1,147,582)
+Contingencies                                                    -                                                        -
+
+OPERATING SURPLUS / (DEFICIT)             167,991,773      (4,313,635)   177,175,185              (2,018,379)      2,295,256
+
+Ending Fund Balance                       181,696,909      5,686,365     195,478,590              16,285,026      10,598,661
+EFB as % of Total Operating Revenues                            2.3%                                    6.5%
+                                             Debt Service Funds | By Object
+                                         For the Period Ending March 31, 2024
+
+                                                     Current Year                    % of      Annual        Variance Over
+                                       Prior YTD       Budget         Current YTD   Budget    Forecast        / (Under)
+Operating Revenues
+Local Sources                          198,218,650    247,083,830     216,840,755     87.8%   248,231,752       1,147,922
+Intermediate Sources                           -              -               -        0.0%           -               -
+State Sources                                  -              -               -        0.0%           -               -
+Federal Sources                              6,510            -               -        0.0%           -               -
+Other Sources                            1,234,727        619,000         618,751    100.0%       618,751            (249)
+Total Operating Revenue                199,459,887    247,702,830     217,459,506     87.8%   248,850,504       1,147,674
+Beginning Fund Balance                  13,705,136     10,000,000      18,303,405    183.0%    18,303,405       8,303,405
+
+Operating Expenditures
+Salaries                                       -              -               -        0.0%           -                -
+Associated Payroll Costs                       -              -               -        0.0%           -                -
+Purchased Services                             -              -               -        0.0%           -                -
+Supplies and Materials                         -              -               -        0.0%           -                -
+Capital Outlay                                 -              -               -        0.0%           -                -
+Other Objects                           31,468,114    252,016,465      40,284,321     16.0%   250,868,883       (1,147,582)
+Transfers                                      -              -               -        0.0%           -                -
+Total Operating Expenditures            31,468,114    252,016,465      40,284,321     16.0%   250,868,883       (1,147,582)
+Contingencies                                                 -                                                        -
+
+OPERATING SURPLUS / (DEFICIT)          167,991,773      (4,313,635)   177,175,185              (2,018,379)      2,295,256
+
+Ending Fund Balance                    181,696,909      5,686,365     195,478,590              16,285,026      10,598,661
+EFB as % of Total Operating Revenues                         2.3%                                    6.5%
+                                             Capital Projects Funds | By Function
+                                            For the Period Ending March 31, 2024
+
+                                                         Current Year                     % of       Annual        Variance Over
+                                          Prior YTD        Budget        Current YTD     Budget     Forecast        / (Under)
+Operating Revenues
+Local Sources                              23,248,721      16,839,267     34,115,187      202.6%    44,476,007       27,636,740
+Intermediate Sources                          229,808             -              -          0.0%           -                -
+State Sources                             120,636,286     122,600,000      2,903,346        2.4%     3,953,769     (118,646,231)
+Federal Sources                                   -               -              -          0.0%           -                -
+Other Sources                                 610,000       1,000,000      2,000,000      200.0%     2,000,000        1,000,000
+Total Operating Revenue                   144,724,815     140,439,267     39,018,533       27.8%    50,429,776      (90,009,491)
+Beginning Fund Balance                    521,838,656     730,749,587    730,550,504      100.0%   730,550,504         (199,083)
+
+Operating Expenditures
+Instruction                                       -               -              -          0.0%           -                -
+Support Services                            1,137,291       2,384,891      1,121,837       47.0%     2,384,891              -
+Enterprise and Community Services                 -               -              -          0.0%           -                -
+Facilities Acquisition and Construction   187,364,232     868,184,963    207,008,362       23.8%   520,910,978     (347,273,985)
+Other Uses                                    618,319         619,000        618,751      100.0%       618,751             (249)
+Total Operating Expenditures              189,119,843     871,188,854    208,748,950       24.0%   523,914,620     (347,274,234)
+Contingencies                                                     -                                                         -
+
+OPERATING SURPLUS / (DEFICIT)             (44,395,028)   (730,749,587)   (169,730,417)             (473,484,844)    257,264,743
+
+Ending Fund Balance                       477,443,627             -      560,820,086               257,065,659      257,065,659
+EFB as % of Total Operating Revenues
+                                           Capital Projects Funds | By Object
+                                         For the Period Ending March 31, 2024
+
+                                                      Current Year                     % of       Annual        Variance Over
+                                       Prior YTD        Budget        Current YTD     Budget     Forecast        / (Under)
+Operating Revenues
+Local Sources                           23,248,721      16,839,267     34,115,187      202.6%    44,476,007       27,636,740
+Intermediate Sources                       229,808             -              -          0.0%           -                -
+State Sources                          120,636,286     122,600,000      2,903,346        2.4%     3,953,769     (118,646,231)
+Federal Sources                                -               -              -          0.0%           -                -
+Other Sources                              610,000       1,000,000      2,000,000      200.0%     2,000,000        1,000,000
+Total Operating Revenue                144,724,815     140,439,267     39,018,533       27.8%    50,429,776      (90,009,491)
+Beginning Fund Balance                 521,838,656     730,749,587    730,550,504      100.0%   730,550,504         (199,083)
+
+Operating Expenditures
+Salaries                                 3,374,315       5,435,629      3,546,013       65.2%     5,435,629              -
+Associated Payroll Costs                 1,344,272       2,488,887      1,421,317       57.1%     2,488,887              -
+Purchased Services                      22,391,095     126,478,414     21,207,774       16.8%    88,534,890      (37,943,524)
+Supplies and Materials                  29,658,919      46,828,731     13,015,179       27.8%     9,110,625      (37,718,106)
+Capital Outlay                         127,702,477     683,110,148    165,971,365       24.3%   411,497,794     (271,612,354)
+Other Objects                            4,030,445       6,228,045      2,968,551       47.7%     6,228,045              -
+Transfers                                  618,319         619,000        618,751      100.0%       618,751             (249)
+Total Operating Expenditures           189,119,843     871,188,854    208,748,950       24.0%   523,914,622     (347,274,232)
+Contingencies                                                  -                                                         -
+
+OPERATING SURPLUS / (DEFICIT)          (44,395,028)   (730,749,587)   (169,730,417)             (473,484,846)    257,264,741
+
+Ending Fund Balance                    477,443,627             -      560,820,086               257,065,658      257,065,658
+EFB as % of Total Operating Revenues
+                                             Internal Service Funds | By Function
+                                            For the Period Ending March 31, 2024
+
+                                                        Current Year                   % of      Annual      Variance Over
+                                          Prior YTD       Budget        Current YTD   Budget    Forecast      / (Under)
+Operating Revenues
+Local Sources                               2,637,039      3,834,195      3,043,954     79.4%    3,940,445         106,250
+Intermediate Sources                              -              -              -        0.0%          -               -
+State Sources                                 295,579            -          317,454      0.0%      459,835         459,835
+Federal Sources                                   -              -              -        0.0%          -               -
+Other Sources                                     -              -              -        0.0%          -               -
+Total Operating Revenue                     2,932,618      3,834,195      3,361,408     87.7%    4,400,280         566,085
+Beginning Fund Balance                      3,303,139      5,163,413      4,148,353     80.3%    4,148,353      (1,015,060)
+
+Operating Expenditures
+Instruction                                       -              -              -        0.0%          -              -
+Support Services                            2,067,820      4,646,608      2,290,260     49.3%    3,594,094     (1,052,514)
+Enterprise and Community Services                 -              -              -        0.0%          -              -
+Facilities Acquisition and Construction           -              -              -        0.0%          -              -
+Other Uses                                        -              -              -        0.0%          -              -
+Total Operating Expenditures                2,067,820      4,646,608      2,290,260     49.3%    3,594,094     (1,052,514)
+Contingencies                                              4,351,000                                           (4,351,000)
+
+OPERATING SURPLUS / (DEFICIT)                 864,798       (812,413)     1,071,148                806,186      1,618,599
+
+Ending Fund Balance                         4,167,936            -        5,219,501              4,954,538      4,954,538
+                                    Internal Service Funds | By Object
+                                  For the Period Ending March 31, 2024
+
+                                              Current Year                   % of      Annual      Variance Over
+                                Prior YTD       Budget        Current YTD   Budget    Forecast      / (Under)
+Operating Revenues
+Local Sources                     2,637,039      3,834,195      3,043,954     79.4%    3,940,445         106,250
+Intermediate Sources                    -              -              -        0.0%          -               -
+State Sources                       295,579            -          317,454      0.0%      459,835         459,835
+Federal Sources                         -              -              -        0.0%          -               -
+Other Sources                           -              -              -        0.0%          -               -
+Total Operating Revenue           2,932,618      3,834,195      3,361,408     87.7%    4,400,280         566,085
+Beginning Fund Balance            3,303,139      5,163,413      4,148,353     80.3%    4,148,353      (1,015,060)
+
+Operating Expenditures
+Salaries                            171,547        246,851        201,903     81.8%      280,421         33,570
+Associated Payroll Costs             66,345        110,927         78,490     70.8%      109,013         (1,914)
+Purchased Services                  211,092        737,643        208,941     28.3%      329,011       (408,632)
+Supplies and Materials               34,637         70,500         34,475     48.9%       65,052         (5,448)
+Capital Outlay                          -              -              -        0.0%          -              -
+Other Objects                     1,584,199      3,480,687      1,766,451     50.8%    2,810,597       (670,090)
+Transfers                               -              -              -        0.0%          -              -
+Total Operating Expenditures      2,067,820      4,646,608      2,290,260     49.3%    3,594,094     (1,052,514)
+Contingencies                                    4,351,000                                           (4,351,000)
+
+OPERATING SURPLUS / (DEFICIT)       864,798       (812,413)     1,071,148                806,186      1,618,599
+
+Ending Fund Balance               4,167,936            -        5,219,501              4,954,538      4,954,538
+                                                 Cash Management and Investment Update
+The PPS investment portfolio as of March 31, 2024 continues to reflect the high-grade characteristics of the portfolio within the tolerances authorized in the
+Board approved policy and Oregon Revised Statutes. The Portfolio consists of 45% Treasury and government agency securities, which is the same as December
+2023 (45%). The cash and cash equivalent portion of the portfolio increased to 38% of the total portfolio from December 2023 of 31% (Vs 36% March prior FY)
+due to higher bank and LGIP rates to comparable security yields.
+
+Market rates have shifted upward slightly from December with 90-day Treasury securities increasing by 0.06%, and 1-year and 2-year Treasury securities
+increasing by 0.24% and 0.36% respectively. The recent increasing rate environment reflects inflation concerns and that the Federal Reserve may delay rate
+decreases in 2024. The yield curve remains inverted in maturities greater than 1 year (interest rates are less in longer maturities than shorter maturities) due to
+market concerns of lower rates in the future and potential recession. Rates are higher than one year ago with 90 day T-Bill higher by 0.61% and 1-year Treasury
+securities higher by 0.39%.
+
+                                                                       US Treasury Rates
+
+                                                                3/31/2023              12/31/2023               3/31/2024
+
+                                           90 Day T-Bill              4.85%                  5.40%                  5.46%
+
+                                           1 Year T-Bill              4.64%                  4.79%                  5.03%
+
+                                           2 Year Note                4.06%                  4.23%                  4.59%
+
+                                           Source: Federal Reserve H15 Constant Maturitiy Treasury Securities
+
+
+
+Securities purchased since December 2023 ($138 million) were primarily reinvestments of maturing securities of general and capital funds not spent during the
+quarter. No securities were sold prior to maturity during the quarter.
+
+The total portfolio of Cash and Investments ($1,225 million) decreased by $88 million since December 2023 from operating and capital spending in the quarter.
+The LGIP and US Bank PERS balance of $67 million increased by $20 million from December due to monthly intercept payments from the state.
+
+We continue to maintain adequate cash and equivalent balances to meet our ongoing obligations and monitor the balances of the various Fund’s cash position.
+We have regular meetings with the Facilities Asset Management team regarding guidance on expected expenditures and cash balances and the need to sell
+additional securities.
+                                                                                      Portland Public Schools
+                                                                                    Total Cash and Investments
+                                                                                          March 31, 2024
+                                                                                          ($ in thousands)
+                                                                                                                                                       Maximum %
+                                                                                                                                            % of                         Average    Yield to
+Investments                                                         Cost Value         Par Value      Market Value          Book Value                 Allowed per
+                                                                                                                                          Portfolio                     Days Term   Maturity
+                                                                                                                                                          Policy*
+
+Corporate Notes                                                 $       209,192    $      213,722     $    212,009      $      212,141      17.3%          35%              61       5.23%
+
+Federal Agencies
+     Federal Agricultural Mortgage Corp (FarmerMac)             $        30,000    $       30,000     $     30,045      $       30,000      2.4%           50%             213       5.45%
+     Federal Farm Credit Banks                                           48,197            48,000           47,818              48,097      3.9%           50%             291       4.50%
+     Federal Home Loan Banks                                            111,419           112,000          111,543             111,832      9.1%           50%             136       4.74%
+     Tennessee Valley Authority (TVA)                                     8,763             9,395            8,953               9,047      0.7%           50%             410       4.23%
+       Sub Total Federal Agencies                               $       198,379    $      199,395     $    198,359      $      198,976      16.2%          100%            198       4.76%
+
+US Treasury Securities                                          $       341,967    $      353,289     $    344,920      $      345,681      28.2%          100%            358       4.88%
+
+Municipal Bonds                                                 $           -      $          -       $        -        $          -        0.0%           30%
+     Sub Total Investments                                      $       749,538    $      766,406     $    755,288      $      756,798
+
+Cash and Equivalents
+
+     Cash and Cash Equivalents                                          400,325           400,325          400,325             400,325      32.7%          100%             1        4.76%
+     LGIP & US Bank PERS (Restricted)**                                  67,479            67,479           67,479              67,479      5.5%            N/A             1        5.18%
+      Sub Total Cash and Equivalents                            $       467,804    $      467,804     $    467,804      $      467,804
+
+Total Cash and Investments                                      $     1,217,342    $    1,234,210     $   1,223,092     $     1,224,602     100%                           144       4.90%
+
+
+
+*Board Policy 8.20.010-P restricts investments in single entity- Government Agencies (50%), Corporates (5%) and Banks (10%) in addition to category total
+**LGIP Public Employees Retirement System account and US Bank Account is used to pay pension debt obligations only by a Trustee Bank not available for operating or capital needs
+Memo: Fossil Fuel based investments were none as of this reporting date
+Definitions:
+ Cost Value is the price paid at purchase for the Principal amount of the bond or fixed income security
+ Par Value is the amount of money repaid to bondholders at the maturity of the bond and the dollar value the coupon payments are based.
+ Market Value is an estimate of the price at which a bond would trade in a competitive marketplace.
+ Book Value is the balance sheet account balance based on the original cost adjusted for amortization of any purchase premium or discount over its expected maturity.
+ Yield to Maturity is the expected total return on a bond held to maturity based on the purchase price paid and coupon interest rate to be received until maturity
+                                                                                                                                                                                    5/12/2024
+                           Portland Public Schools
+                         Total Cash and Investments
+                               March 31, 2024
+
+                                  LGIP PERS
+                                    5.5%                          Corporate Notes
+                                                                      17.3%
+
+
+
+
+Cash and Equivalents
+       32.7%
+
+                                                  Federal Agencies
+                                                       16.2%
+
+
+
+
+       Municipal Bonds
+            0.0%                                      US Treasury Securities
+                                                             28.2%
+                                                             Real Estate Update
+
+The Real Estate Report provides the BOE an overview of the existing contracts that provide dedicated PPS facilities (both in schools and in
+administrative buildings) to non-PPS entities during school hours. These contracts range from Real Property Leases and Licenses that provide
+dedicated space (often in exchange for rent) to Intergovernmental Agreements that provide dedicated space for non-PPS staff who provide services
+to our PPS students.
+
+Most of these contracts are multi -year agreements and will not change substantially from quarter to quarter. Any changes that do occur are shown
+in red. Such changes include the extension or expiration of existing contracts and the addition of new contracts.
+
+Since the last report, there have been no significant changes.
+Portland Public Schools: Real estate contracts for dedicated space during school hours (Excludes Civic Use of Buildings Permits)
+4/01/2024 - (CONTRACT/RELATIONSHIP OWNER) shown in parenthesis. Changes since last report shown in red.
+LEASE (PPS REAL ESTATE MANAGER)
+                                                                                                               Current        30 Day
+                                                                                            Initial Lease      Contract     Termination     Current
+         Building                          Tenant        Tenant Type       Square Feet     Commencement       Expiration*     Notice      Monthly Rent        Contract Type      Comments
+                                                                                                                                                                                 Pays 11.9% of monthly BESC operating costs and capital
+BESC                    Multnomah County                     Office           38,250            2000             2099           N             Rent Prepaid        Lease
+                                                                                                                                                                                 improvements.
+                                                                                                                                                                                 Termination on June 30 with 5 year notice. PPS pays FMV of
+COLLINS VIEW            Riverdale SD, Land lease only       School          6.02 acres          2001             2026           N         $        20,683       Land Lease       improvements exclusive of land. Rent escalation 3% annually on July 1.
+                                                                                                                                                                                 Fair Market rent adjustment July 1, 2026.
+
+EDWARDS                 Trillium Family Services         Clinic/School        20,500            2011             2026           N         $        14,781      Master Lease      Rent increases to $15,224.40 September 2024.
+
+                                                          Affordable
+FOSTER                  NAYA                                                3.57 acres          2013             2078           N         $             1       Land Lease
+                                                           Housing
+                                                         PPS Charter
+HUMBOLDT                KairosPDX                                             43,141            2016             2030           N         $             1      Master Lease
+                                                           School
+
+LANE                    Multnomah County                     Office         1.24 acres          1994             2034           N         $             1       Land Lease
+
+                                                                                                                                                             Telecommunication   180 day termination notice by PPS. Rent increases to $923 in May
+SKYLINE                 City of Portland                 COP Antenna            NA              1997             2027           N         $           896
+                                                                                                                                                                   Lease         2024.
+LICENSE - Simple lease for small amount of space and small contract value. (PPS REAL ESTATE MANAGER)
+                                                                            Square Feet                        Current        30 Day
+                                                                           or Number of     Initial License    Contract     Termination     Current
+         Building                          Tenant        Tenant Type          Rooms        Commencement       Expiration      Notice      Monthly Rent        Contract Type      Comments
+
+APPLEGATE               NAYA                            Early Head Start       1,358            2021             2024           Y         $             1     License and IGA
+
+BENSON@MARSHALL         OHSU                             Health Clinic         1,200            2016             2024           Y         $             1     License and IGA
+
+CLARENDON               Albina Early Head Start         Early Head Start       1,425            2015             2024           Y         $             1     License and IGA
+
+CLEVELAND HS            Multnomah County                 Health Clinic         720              2017             2025           Y         $             1     License and IGA
+
+DUNIWAY                 Duniway After Care                 Preschool           705              2018             2024           Y         $           900         License
+
+FAUBION                 Albina Early Head Start         Early Head Start       1,395            2017             2024           Y         $             1     License and IGA
+
+FRANKLIN HS             Multnomah County                 Health Clinic         1,418            2017             2025           Y         $             1     License and IGA
+
+GREEN THUMB             Portland State University       Garden Program     1 Green House        2010             2024           N         $           457         License
+
+IDA B. WELLS            Hillsdale Farmer's Market       Farmer's Market         NA              2006             2024           Y         $           708         License
+
+HOLLADAY ANNEX          CAIRO                              Preschool           1,400            2023             2024           Y         $             1         License
+
+IRVINGTON               Irvington Extended Care            Preschool           2,180            2015             2024           Y         $         2,010         License
+
+JEFFERSON HS            Multnomah County                 Health Clinic         800              2017             2025           Y         $             1     License and IGA
+
+KING NEIGHBORHOOD
+                        NECN                                 Office            3,298            2008             2027           N         $         2,750         License        Rent increases to $2,833 October 2024.
+FACILITY (City Owned)
+                                                          Suicide Call
+MCDANIELS               Lines for Life                                         1,000            2023             2024           Y         $             1     License and IGA
+                                                            Center
+
+MCDANIELS               Multnomah County                 Health Clinic         1,668            2017             2025           Y         $             1     License and IGA
+
+MARKHAM                 Neighborhood House Head Start     Head Start           1,160            2008             2024           Y         $             1     License and IGA
+
+ROOSEVELT               Multnomah County                 Health Clinic         1,475            2017             2025           Y         $             1     License and IGA
+
+VESTAL                  CAIRO                              Preschool           1,400            2022             2024           Y         $             1         License
+
+
+
+
+                                                                                                                                                                                                                   Reported as of 5/12/2024
+COLLABORATION AGREEMENT (PPS REAL ESTATE MANAGER)
+                                                                                                            Current       30 Day
+                                                                                           Initial Lease    Contract    Termination     Current
+         Building                  Tenant              Tenant Type       Square Feet      Commencement     Expiration     Notice      Monthly Rent     Contract Type    Comments
+
+                                                                                                                                                                        120 day termination notice by either party. PP&R owns and maintains
+IDA B. WELLS        Portland Parks & Recreation         Locker Room           NA               1956          2023           N                           Collaboration
+                                                                                                                                                                        pool.
+                                                                                                                                      $        -         Agreement
+
+IGA (VARIOUS - SEE COMMENTS)
+                                                                          Square Feet                       Current       30 Day
+                                                                         or Number of      Initial Lease    Contract    Termination     Current
+         Building                  Tenant              Tenant Type          Rooms         Commencement     Expiration     Notice      Monthly Rent     Contract Type    Comments
+                    MECP - Multnomah Early Childhood
+BEACH               Program, administered by David       Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+                    Douglas School District (DOSD)
+
+CRESTON             MECP - DDSD                          Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+
+                                                                         Office &Speech
+JACKSON             MECP - DDSD                        Office & Speech                       Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+                                                                              Clinic
+RICE (PP&R Land)    Portland Parks and Recreation      Meeting Space          NA             Unknown                        N         $            -     Ordinance      Mutual termination clause (PPS REAL ESTATE MANAGER)
+
+SABIN               MECP - DDSD                          Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+
+WHITMAN             MECP - DDSD                          Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+
+WOODLAWN            MECP - DDSD                          Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+
+WOODMERE            MECP - DDSD                          Preschool        1 classroom        Unknown                        N         $            -        IGA         (LISA GROTTING, Program Director)
+
+SERVICES CONTRACT (VARIOUS - SEE COMMENTS)
+                                                                          Square Feet                       Current       30 Day
+                                                                         or Number of      Initial Lease    Contract    Termination     Current
+         Building                  Tenant              Tenant Type          Rooms         Commencement     Expiration     Notice      Monthly Rent     Contract Type    Comments
+
+                                                        Teen Parent                                                                                                     Currently inactivate at the new Benson@Marshall campus. (CHERYL
+BENSON@MARSHALL     Albina Early Head Start                                 300 SF           Unknown                                  $            -      Contract
+                                                         Services                                                                                                       JAMES, Teen Parent Program)
+
+                                                                                                                                                                        Deaf and hard of hearing students; PPS holds contract for multiple
+CRESTON             Columbia Regional Programs           Grades K-5       4 classrooms       Unknown                                  $            -      Contract
+                                                                                                                                                                        counties. (LISA MCCONACHIE)
+
+                                                        Teen Parent                                                                                                     Infant, Crawler and Toddler rooms. (CHERYL JAMES, Teen Parent
+FRANKLIN            Albina Early Head Start                                 2105 SF          Unknown                                  $            -      Contract
+                                                         Services                                                                                                       Program)
+
+                                                        Teen Parent                                                                                                     Infant, Crawler and Toddler rooms. (CHERYL JAMES, Teen Parent
+GRANT               Albina Early Head Start                                 2423 SF          Unknown                                  $            -      Contract
+                                                         Services                                                                                                       Program)
+
+JEFFERSON HS        SEI                                Student Support    3 classrooms       Unknown                                  $            -      Contract      (Director of Equity and Partnerships)
+                                                        Teen Parent                                                                                                     Infant, Crawler and Toddler rooms. (CHERYL JAMES, Teen Parent
+LINCOLN HS          TBD                                                                                                               $            -      Contract
+                                                         Services                                                                                                       Program)
+                                                        Teen Parent                                                                                                     Infant, Crawler and Toddler rooms. (CHERYL JAMES, Teen Parent
+MCDANIELS           Albina Early Head Start                                 2958 SF          Unknown                                  $            -      Contract
+                                                         Services                                                                                                       Program)
+                                                                                                                                                                        Deaf and hard of hearing students; PPS holds contract for multiple
+MT. TABOR           Columbia Regional Program            Grades 6-8       1 classroom        Unknown                                  $            -      Contract
+                                                                                                                                                                        counties. (LISA MCCONACHIE, Senior Director)
+                                                        Teen Parent                                                                                                     Infant, Crawler and Toddler rooms. (CHERYL JAMES, Teen Parent
+ROOSEVELT           Albina Early Head Start                                 1860 SF          Unknown                                  $            -      Contract
+                                                         Services                                                                                                       Program)
+
+                                                                                                                                                                        PPS holds contract for multiple counties. (LISA MCCONACHIE, Senior
+WILCOX              Columbia Regional Program              Office          19102 SF          Unknown                                  $            -      Contract
+                                                                                                                                                                        Director)
+
+WILCOX              Columbia Regional Program            Preschool        2 classrooms       Unknown                                  $            -      Contract      Deaf and hard of hearing students; PPS holds contract for multiple
+                                                                                                                                                                        counties. (LISA MCCONACHIE, Senior Director)
+
+                                                                                                                         TOTAL
+                                                                                                                                      $     43,201
+                                                                                                                        MONTHLY
+
+
+
+
+                                                                                                                                                                                                            Reported as of 5/12/2024
+                                                                                                                                    TOTAL ANNUAL $      518,417
+
+
+
+
+MISCELLANEOUS (PPS REAL ESTATE MANAGER)
+                                                                                                                        Current        30 Day
+                                                                Tenant/Owner                           Initial Lease    Contract     Termination     Current
+        Building                     Tenant/Owner                   Type            Square Feet       Commencement     Expiration      Notice      Monthly Rent    Contract Type    Comments
+
+MULTIPLE SITES            PGE                                    Solar Facilities       NA                 2015          2040            N         $       1,165    Solar License   Rent increase.
+
+
+JEFFERSON HS              DEQ                                  DEQ Air Monitors         NA                 2001                          Y         $          -    Site Agreement
+
+MULTIPLE SITES            DEQ                                  DEQ Air Monitors         NA                 2020          2025            Y         $          -    Site Agreement   Benson, Lane, Lincoln, McDaniel, Roosevelt.
+
+MULTIPLE SITES            City of Portland - BES                  Rain Gauges           NA                 2009          2028            Y         $          -         IGA         30 day termination notice.
+
+                                                                    Storage
+MULTIPLE SITES            Multiple Organizations                                        NA               Unknown         Varies        Varies      $          -                     Not all containers have formal contracts.
+                                                                   Containers
+
+
+
+* Some contracts provide terms and rights for contract renewal beyond the current termination date.
+
+
+
+
+                                                                                                                                                                                                                        Reported as of 5/12/2024
+

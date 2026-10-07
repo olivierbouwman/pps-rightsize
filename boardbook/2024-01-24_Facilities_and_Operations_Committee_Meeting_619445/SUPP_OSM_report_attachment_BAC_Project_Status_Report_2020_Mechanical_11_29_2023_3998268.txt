@@ -1,0 +1,83 @@
+2020 Infrastructure: Mechanical                                                                                                                  PPS Team Leads: Steve Simonson, Robert Jole
+November 2023                                                                                                                        Number of Completed Projects: 0
+                                                                                                                                        Number of Active Projects: 5
+
+STATUS AT A GLANCE
+                                                                                                                      As Planned              Caution                 Impacts
+Legend:                                                                                     Budget                                                                            X
+                  As planned: no concerns                                                   Equity                            X
+                  Caution: requires attention                                               Schedule                                                  X
+                  Impacts: impacts occurring                                                Overall                           X
+
+BUDGET
+                                                        BUDGET                                   FUNDING                                      PROGRESS                                       FORECAST
+                                                                                                                                  Actuals To Date    Additional                    Estimate At
+                                         Original Budget       Current Budget        Mech Funds           Other Funds               (all funds)     Encumbered                     Completion       Over/Under
+                  Unallocated Funds            75,000,000            22,030,547          22,030,547                       -                       -                       -                        -   (22,030,547)
+    2020 Bond Mech Assess - 5626                           -             83,720               83,720                      -               67,800                   2,000                   67,800          (15,920)
+      Bridger-Mech Upgrades-5827                           -          9,024,798           9,024,798                       -              762,399                7,031,553                9,024,798               -
+    Harrison Park - MS Conv - 5706                         -         11,500,000          11,500,000                       -             3,092,577                         -            11,500,000                -
+          Kelly-Mech Upgrades-5828                         -         13,570,579          13,570,579                       -              918,503               10,668,750              13,570,579                -
+          Lent-Mech Upgrades-5829                          -         11,713,089          11,713,089                       -             1,034,442               8,903,429              11,713,089                -
+   Controls Upgrades Phase 1-6216                          -          7,077,267           7,077,267                       -                5,496                5,496,210                7,077,267               -
+           2020 Mechanical Totals                                    75,000,000          75,000,000                       -             5,881,217              32,101,942              52,953,533      (22,046,467)
+
+
+EQUITY*           Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                               MBE        WBE      SDVBE       ESB        N-C           TOTAL                  goal               MIN      goal           FEM      goal           APPR       req
+             Consultants         0.05%    24.77%      0.00%     0.00%      0.00%          24.82%               18%
+             Contractors         0.00%     0.00%      0.00%     0.00%      0.00%            0.00%              18%
+                  Overall        0.05%    24.77%      0.00%     0.00%      0.00%          24.82%               18%
+
+              Workforce                                                                                                            0%      25%            0%       14%            0%        20%
+
+ *There have been no construction payments to date. Equity data shown only through 7/31/2023 due to PeopleSoft system error currently being addressed.
+
+
+
+
+                                                                                                                                                                  2020 Infrastructure: Mechanical, November 2023
+                                                                                                                                                                                                       page 1 of 2
+2020 Infrastructure: Mechanical                                                                                            PPS Team Leads: Steve Simonson, Robert Jole
+November 2023                                                                                                  Number of Completed Projects: 0
+                                                                                                                  Number of Active Projects: 5
+
+SCHEDULE
+                                                                     2023                                                                    2024
+                        PROJECT      MAY      JUN      JUL     AUG          SEP   OCT     NOV      DEC      JAN      FEB      MAR      APR          MAY   JUN       JUL     AUG
+    2020 Bond Mech Assess - 5626
+      Bridger-Mech Upgrades-5827
+    Harrison Park - MS Conv - 5706
+         Kelly-Mech Upgrades-5828
+         Lent-Mech Upgrades-5829
+   Controls Upgrades Phase 1-6216
+
+                 Baseline                           Planning                            Design                     Construction
+
+
+PROJECT NOTES
+Progress:
+ - Mechanical upgrades projects at Bridger, Kelly, and Lent are under contract after successful bidding in Summer 2023.
+ - Contractors on Bridger, Kelly, and Lent mechanical projects are procuring long lead equipment, working through submittals, developing shop drawings, and detailed
+schedules, with actual construction starting in mid to late May 2024. Planned completion for Bridger is Winter 2024, and Fall 2025 for Kelly and Lent.
+ - Design has started on the first round of controls upgrade work throughout the District. The District has pursued a pilot use of the existing Energy Performance contracts to
+perform the upgrades. This first phase of work is on 9 sites and will start construction in Spring 2024 with completion in Summer 2025. Controls are anticipated to be
+upgraded at roughly 85 school sites.
+ - Mechanical upgrades at Harrison Park are ongoing, with turnover of first phase of mechanical work late December 2023. Phase 2 of mechanical work will then begin and
+complete in Fall 2024.
+
+
+Accomplishments:
+- Mechanical upgrades for Bridger, Kelly, and Lent are under contract with permits issued for Lent and permits near issuance for Bridger and Kelly.
+- Harrison Park Mechanical Upgrades Ph 1 is on schedule for on-time turnover of work and start of Phase 2.
+
+Risks:
+ - There is still concern over mechanical and electrical equipment lead times due to manufacturer backlog. Early submittal and procurements have helped with this, but given
+the length of time between order and delivery, there are potential unforeseen risks.
+ - There is risk for a shortened summer work schedule in summer 2024 due to potential makeup time requirements as a result of the teacher strike. This would affect all
+mechanical projects.
+
+                                                                                                                                      2020 Infrastructure: Mechanical, November 2023
+                                                                                                                                                                           page 2 of 2
+

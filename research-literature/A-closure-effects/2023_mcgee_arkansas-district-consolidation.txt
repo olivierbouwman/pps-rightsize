@@ -1,0 +1,1033 @@
+EdWorkingPaper No. 21-347
+
+
+           The Effect of School District Consolidation
+           on Student Achievement: Evidence from
+           Arkansas
+           Josh B. McGee                            Jonathan N. Mills                         Jessica S. Goldstein
+           University of Arkansas                   University of Arkansas                    University of Arkansas
+
+
+
+
+           School district consolidation is one of the most widespread education reforms of the last century,
+           but surprisingly little research has directly investigated its effectiveness. To examine the impact of
+           consolidation on student achievement, this study takes advantage of a policy that requires the
+           consolidation of all Arkansas school districts with enrollment of fewer than 350 students for two
+           consecutive school years. Using a regression discontinuity model, we find that consolidation has
+           either null or small positive impacts on student achievement in math and English Language Arts
+           (ELA). We do not find evidence that consolidation in Arkansas results in positive economies of scale,
+           either by reducing overall cost or allowing for a greater share of resources to be spent in the
+           classroom.
+
+
+
+
+           VERSION: January 2021
+
+
+
+           Suggested citation: McGee, Josh B., Jonathan Mills, and Jessica Goldstein. (2021). The Effect of School District
+           Consolidation on Student Achievement: Evidence from Arkansas. (EdWorkingPaper: 21-347). Retrieved from
+           Annenberg Institute at Brown University: https://doi.org/10.26300/q9j5-x653
+The Effect of School District Consolidation on Student Achievement:
+                       Evidence from Arkansas*
+                                              Josh B. McGee†
+                                           University of Arkansas
+
+                                             Jonathan N. Mills
+                                           University of Arkansas
+
+                                            Jessica S. Goldstein
+                                           University of Arkansas
+
+                                               January 26, 2021
+
+
+Abstract
+
+        School district consolidation is one of the most widespread education reforms of the last
+
+century, but surprisingly little research has directly investigated its effectiveness. To examine the
+
+impact of consolidation on student achievement, this study takes advantage of a policy that requires
+
+the consolidation of all Arkansas school districts with enrollment of fewer than 350 students for
+
+two consecutive school years. Using a regression discontinuity model, we find that consolidation
+
+has either null or small positive impacts on student achievement in math and English Language
+
+Arts (ELA). We do not find evidence that consolidation in Arkansas results in positive economies
+
+of scale, either by reducing overall cost or allowing for a greater share of resources to be spent in
+
+the classroom.
+
+
+Keywords: consolidation, district size, regression discontinuity
+
+
+
+
+* We thank seminar participants at the Association for Education Finance and Policy Annual Meetings, along with
+Lori Taylor and Eric Brunner for their helpful comments and suggestions. In addition, we would like to thank Gary
+Ritter and the Arkansas Department of Education for their help in obtaining the data for this study.
+† Corresponding author: Address: 201 Graduate Education Building, University of Arkansas, Fayetteville AR,
+
+72701; E-mail address: JoshMcGee@uark.edu
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                  1
+
+
+                                                1. Introduction
+
+           District consolidation has been one of the most prevalent education reforms over the last
+
+century. As a result of consolidation efforts, the number of public school districts in the U.S.
+
+declined from 117,108 to 13,551 between 1940 and 2018.1 Despite the scale of this reform effort,
+
+relatively little rigorous research explores the effect of district and school consolidation on student
+
+achievement. For example, a 2002 literature review by Andrews, Duncombe, and Yinger shows
+
+most prior research focuses on the financial costs and benefits of consolidation, rather than student
+
+achievement. The studies included in this review find some evidence that district consolidation
+
+results in positive economies of scale.
+
+           While much of the early research exploits existing variation on school or district enrollment
+
+to estimate the effects of district size, several recent papers have looked more specifically at
+
+consolidation as an intervention. Here too, many authors have chosen to focus on outcomes other
+
+than achievement such as costs, housing prices, and teacher reactions (see Hu & Yinger, 2008;
+
+Duncombe & Yinger, 2007; and Nitta, Holley, & Wrobel, 2010). The few papers that investigate
+
+the impact of consolidation on student achievement have found mixed results regarding the
+
+direction, magnitude, and longevity of effects (see Liu et. al., 2010; Engberg et. al., 2012; Cooley
+
+& Floyd, 2013; Brummet, 2014; Humlum & Smith, 2015; de Hann, Lueven, & Oosterbeek, 2016;
+
+and Beuchert, et. al., 2016).
+
+           Unfortunately, the majority of these studies, both those examining existing variation in
+
+district and school size as well as those examining consolidation-induced changes in size, are
+
+susceptible to endogeneity issues. Existing variation in district and school enrollment is not
+
+randomly assigned. For example, some districts and schools are larger or smaller as a function of
+
+
+
+1   Table 214.10 in NCES's 2019 Digest of Education Statistics
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                              2
+
+
+their academic quality, a correlation implying biased estimation of the impacts of scale on
+
+achievement. In addition, districts and schools are rarely selected at random for consolidation. In
+
+such cases, unobserved characteristics associated with their academic quality are likely to be
+
+associated with the probability that a district or school is consolidated.
+
+           This paper leverages a natural experiment to understand the effects of consolidation on
+
+student achievement. Arkansas Act 60, passed in 2004, requires the consolidation of all districts
+
+with enrollment of less than 350 students for two consecutive years. We leverage the exogenous
+
+variation created by this policy change and the policy’s clear enrollment threshold to learn about
+
+the effects of consolidation on student outcomes and district finances.
+
+           The remainder of this paper proceeds as follows. Section 2 provides some of the history
+
+and important details about Arkansas Act 60, which implemented mandatory district consolidation.
+
+Section 3 outlines the data used in this study. Section 4 describes our empirical method and Section
+
+5 provides our results. Section 6 concludes.
+
+                                                2. Arkansas Act 60
+
+           The latest wave of school consolidation in Arkansas arose in response to school finance
+
+litigation that occurred throughout the late 1990s and early 2000s. The decade-long litigation
+
+culminated in 2003 with the Arkansas Supreme Court ruling that the state’s school funding system
+
+was unconstitutional in Lake View School District vs. Huckabee.2
+
+           Governor Mike Huckabee responded to the court’s decision by convening the State
+
+Legislature in the Second Extraordinary Session of 2003. Governor Huckabee proposed large-
+
+scale school district consolidation to reduce district administrative costs and provide greater
+
+educational opportunity for students. Governor Huckabee's original proposal would have resulted
+
+
+
+2   https://encyclopediaofarkansas.net/entries/lake-view-school-district-no-25-v-huckabee-4167/
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                 3
+
+
+in three-fold reduction in the number of school districts in Arkansas. Compromise legislation was
+
+passed in early 2004. The Public Education Reorganization Act, Arkansas Act 60, required the
+
+consolidation of any district with average daily attendance of fewer than 350 students for two
+
+consecutive school years.3
+
+         The final enrollment threshold of 350 students, while not as drastic as the Governor’s
+
+original proposal, did result in a substantial number of district consolidations in the years that
+
+followed. Table 1 presents the number of district consolidations occurring each year beginning
+
+with the 2004-05 school year. In the first year the law was in effect, 59 school districts were
+
+required to consolidate. Although Act 60 continues to have an impact as enrollments decline in
+
+rural districts, only a few districts have been required to consolidate since the initial wave in 2005.
+
+                                                  [Table 1 here]
+
+         Figure 1 shows the geographic location and district borders of the 99 districts that were
+
+either a consolidated or receiving district in the 2004-05 school year. The map depicts district
+
+borders in the year prior to consolidation and districts are color-coded to indicate which districts
+
+combined due to Act 60. The initial round of consolidations was relatively widespread across the
+
+state, affecting districts in every region. Districts subject to Act 60 enjoy some autonomy in
+
+determining which other district to merge with; however, the overwhelming majority have merged
+
+with adjoining district.
+
+                                                  [Figure 1 here]
+
+         While Act 60 does not specifically require school closure following a consolidation,
+
+closures often occur to eliminate redundant course offerings and take advantage of potential
+
+economies of scale. Table 2 presents the number of school closures that occurred following a
+
+
+3 For the remainder of this paper, when we refer to Act 60 or an enrollment level of 350, we are specifically referring
+to a district’s enrollment in the two years prior to the enactment Act 60.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                               4
+
+
+district consolidation. Unsurprisingly, consolidation has had a non-trivial impact on school
+
+closures. In total there 105 school closures occurred between 2005 and 2011.
+
+                                                 [Table 2 here]
+
+                                              3. Data
+
+        Our analysis uses a rich panel of demographic and performance data for all students who
+
+took the Arkansas mathematics and English Language Arts (ELA) Benchmark exams between the
+
+2001-04 and 2007-08 school years. We also have data on district and school enrollment collected
+
+from the Arkansas Department of Education (ADE) as well as information on district consolidation
+
+and school closure compiled with the help of ADE and district officials. We merge these data to
+
+create a master panel that includes roughly 200,000 records per year across grades three through
+
+eight, with multiple records for students across school years.
+
+        While consolidation occurs at the district level, our analysis is conducted using student-
+
+level data. We identify students as effected by consolidation if they were in a district that was
+
+forced to consolidate due to Act 60 in the 2004-05 school year, the first year the law was in effect,
+
+and continue to identify them as such for the remainder of their appearance in the data.
+
+        Arkansas did not begin testing third grade students until the 2004-05 school year. Since
+
+our empirical model, described in the section below, controls for previous year’s test score,
+
+students in the fourth grade in 2003-04 are the youngest cohort in our analysis. Our study sample
+
+includes data from the 2003-04 school year through the 2007-08 school year, allowing us to follow
+
+all consolidation affected students through their last year of testing (i.e., 8th grade).4
+
+
+
+
+4
+ Ending our study sample in 2007-08 drops a small number observations for students who appear in the data in
+subsequent years for various unknown reasons (e.g., grade repeaters). However, including these observations does
+not affect our results.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                       5
+
+
+                                             4. Empirical Model
+
+        Endogeneity concerns prevent us from directly examining the effects of consolidation on
+
+student outcomes. In most cases, district consolidation occurs through selection - districts
+
+voluntarily choose to consolidate for any number of reasons such as perceived cost benefits or to
+
+take advantage of state financial incentives. Unfortunately, the very nature of this selection makes
+
+it likely that results in simple models comparing consolidated districts to unaffected districts will
+
+be biased. For example, if a poor performing district consolidates with a larger, higher performing
+
+district to take advantage of fiscal incentives, one might expect a decline in the overall average
+
+performance in the resulting district. This decline will be reflected in the estimated coefficients
+
+from a standard ordinary least squares (OLS) model but cannot be attribute to the causal effects of
+
+the consolidation itself. Fortunately, the natural experiment created by Act 60 allows us to use a
+
+regression discontinuity (RD) model to mitigate endogeneity concerns.
+
+Estimating the achievement impacts of consolidation via regression discontinuity design
+
+        We examine the impacts of consolidation on student performance using a standard RD
+
+approach.5 The explicit enrollment cut-off designated by Act 60 allows us to employ a sharp RD
+
+model whereby students in districts with enrollment of less than 350 in the two years immediately
+
+prior to the passage of Act 60 are assigned to the treatment group and students in the remaining
+
+districts represent the control group. If districts were able to game the forcing variable by either
+
+purposely avoiding or making themselves subject to the consolidation mandate, then it would
+
+undermine the sharp RD design. By limiting our analysis to consolidations that occurred in 2005,
+
+we eliminate the possibility of gaming because these consolidations were determined shortly after
+
+
+
+
+5For a more general treatment of regression discontinuity models, see Imbens, G.W. & Lemieux, T. (2008).
+Regression Discontinuity Designs: A Guide to Practice. Journal of Econometrics, 142.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                      6
+
+
+the law passed in 2004 and were based on 2002 and 2003 enrollment data, which districts had no
+
+ability to alter.
+
+        Figure 2 shows district assignment to treatment (i.e., consolidation) based on enrollment in
+
+the 2001-02 and 2002-03 school years. Three types of districts are represented in Figure 2: red
+
+circles represent districts forced to consolidate by Act 60 (“sending” districts); blue dots represent
+
+larger districts that merged with the consolidated districts (“receiving” districts); and black circles
+
+represent districts that were not affected by Act 60 consolidations. Districts in the lower left
+
+quadrant were below the Act 60 enrollment cutoff in both 2002 and 2003, and all of the red circles
+
+are in this quadrant. The clear division between the red circles and the other two types of districts
+
+in Figure 2 illustrates our ability to implement a sharp RD design.
+
+                                              [Figure 2 here]
+
+        We estimate the achievement impacts of consolidation via RD using the following model:
+
+                         𝑌𝑖𝑡 = 𝛽0 + 𝛽1 𝑌𝑖,𝑡−1 + 𝛽2 𝐶𝑖𝑡 + 𝑬𝜽 + 𝑿𝜸 + 𝜌 + 𝜖𝑖𝑡                          (1)
+
+In this equation, Y represents student i's standardized scale score on a state exam, C is an indicator
+
+variable for district consolidation due to Act 60, X is a vector of individual level controls (ethnicity,
+
+gender, etc.), ρ contains a set of grade and year indicators, and ε is random error. E is the “forcing”
+
+or “assignment” variable that determines whether or not one is subject to the treatment (Imbens &
+
+Lemieux, 2008; Reardon & Robinson, 2012). In our model, E is Euclidean distance based on
+
+student i's district enrollment in the two years prior to the passage of Act 60 (i.e., 2001-02 and
+
+2002-03) where the zero point is defined as enrollment of 350 in both years.6 In order to fully
+
+capture any potential curvature in the relationship between district enrollment and achievement, E
+
+
+
+6 Specifically, 𝐸 = √(𝐸𝑛𝑟𝑜𝑙𝑙02 − 350)2 + (𝐸𝑛𝑟𝑜𝑙𝑙03 − 350)2 . See Reardon and Robinson (2012) for more
+information on this method.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                             7
+
+
+includes both linear and quadratic terms. β2 represents our estimate of the effect of consolidation
+
+on student achievement. We estimate this model using a multilevel analysis in which students are
+
+nested within districts.
+
+        A key component of RD models is defining the local neighborhood around the cut-off
+
+within which we can reasonably assume local randomization. We face an important trade-off when
+
+setting the enrollment band that will define our sample: the wider the chosen band, the less
+
+appropriate the control group; the smaller the band, the less generalizable the results. We employ
+
+two mechanical bandwidth selection procedures to help inform our decision. 7 Based on the results,
+
+our preferred bandwidth is a distance of ± 380. Figure 3 presents the distribution of districts by
+
+values of the forcing variable, E. The mechanical bandwidth selection recommendation of 380
+
+includes most of the districts affected by Act 60 in 2005. As a robustness check, we also provide
+
+results for distances of ± 60 and ± 120.
+
+                                               [Figure 3 here]
+
+Study sample
+
+        Using an RD procedure requires that we assume the exogenous Act 60 enrollment cut-off
+
+approximates random assignment of districts to the consolidation treatment in the immediate
+
+neighborhood of the cut-off. If this assumption is accurate, districts just above the Act 60
+
+enrollment cut-off should be essentially the same as the consolidated districts just below the cutoff.
+
+We test this hypothesis, presenting averages for several key demographic variables for students in
+
+both the treatment and control groups for the ± 60 and ± 380 bandwidths in Table 3. The table also
+
+provides differences and the standard errors for those differences.
+
+
+
+
+7We performed mechanical bandwidth selection calculations based on Calonico, Cattaneo, and Titiunik (2014a, b)
+and Ludwig and Miller (2007). Calculation results available upon request.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                               8
+
+
+                                           [Table 3 here]
+
+       White students represent the majority in both samples and bandwidths, but for the smaller
+
+bandwidth, the treatment group has significantly fewer minority students compared to the control
+
+group. Both the treatment and control groups are relatively similar on the remaining variables for
+
+the ± 60 bandwidth. For the larger, preferred bandwidth, the treatment group has significantly
+
+fewer Hispanic students relative to the control group, and notably, has significantly lower ELA
+
+performance than the control group as well.
+
+       Even if our particular RD approximates random assignment at the level of school districts,
+
+it may not necessarily do so at the student level. Each district has a particular demographic profile
+
+and those just above and below the consolidation threshold may differ in important ways. While
+
+the differences between treatment and control group documented in Table 3 suggest caution in
+
+interpreting the RD results, they are not large enough to undermine the entire analysis.
+
+                                         5. Results
+
+Achievement impacts
+
+       First, we investigate if there is graphical evidence of a discontinuity in student achievement
+
+around the enrollment threshold one year after consolidation was implemented. Figure 3 displays
+
+both linear and quadratic fits of 2005 district-level Math and ELA achievement by our forcing
+
+variable. We generated similar plots for 2004-05 achievement gains that were quite similar to these
+
+plots (see Appendix Figure A1). While Figure 4 shows some evidence of a slight positive
+
+discontinuity at the enrollment threshold for both subjects, the difference in all cases appears
+
+relatively modest (i.e., less than 0.2 standard deviations).
+
+                                           [Figure 4 here]
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                               9
+
+
+         To investigate the magnitude of these discontinuities, we use a multilevel mixed-effects
+
+model which allows students to be nested within districts. Table 4 presents estimates of the average
+
+impact of consolidation on student mathematics and ELA achievement, respectively. Coefficient
+
+estimates are presented with standard errors in parentheses. For each bandwidth, we include three
+
+separate models: 1) a simple model that only includes a consolidation indicator and linear version
+
+of the forcing variable, E, 2) a more complex model that adds lagged achievement and student
+
+level controls, and 3) a preferred specification which also adds the quadratic form of the forcing
+
+variable. Each of the regressions presented in Table 4 include grade and year fixed effects to
+
+control for systematic differences in student performance across these domains. 8 Table 4 includes
+
+students attending receiving districts (those that merged with Act 60 consolidated districts). As a
+
+robustness check, we estimated models that exclude students from receiving districts and find
+
+substantively similar results (see Appendix Table A2).
+
+                                                  [Table 4 here]
+
+         The estimated effect of consolidation on math is positive and marginally significant for the
+
+preferred 380 student bandwidth. Despite being marginally significant, the point estimate is
+
+relatively small (0.04 standard deviation units). A similar pattern is exhibited for the ELA results
+
+- insignificant results for smaller bandwidths and statistically significant, albeit practically small,
+
+positive effects (0.06 standard deviation units) for the preferred bandwidth of 380 students. Results
+
+are generally similar when we restrict the E bandwidth to ±120; however, we observe statistically
+
+significant negative results in math for some models in the smallest bandwidth of E≤ ±60. We
+
+
+
+
+8
+  The estimated coefficients have been omitted from our reported results for the sake of space and are available upon
+request. Estimated coefficients for demographic variables and forcing variables are available in Appendix Tables
+A1a and A1b.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                              10
+
+
+recommend caution in interpreting the latter results given the number of statistically significant
+
+differences in student characteristics presented in Table 3 for the smallest bandwidth.
+
+       It is possible that the impacts of consolidation vary over time especially if students require
+
+several years to adjust to their new surroundings. In Table 5, we examine how time impacts the
+
+estimated consolidation coefficient using a series of dummy variables that allow us to examine the
+
+non-linear impacts of time. As the results in Table 5 show, the consolidation impacts do not vary
+
+much over time. The results for math are mostly insignificant, except in the second year after
+
+consolidation in the largest bandwidth specification. For ELA, however, the coefficient is
+
+consistently positive and significant in the largest bandwidth and preferred model, which includes
+
+the quadratic form of the forcing variable. Here too, however, the coefficients are modest, ranging
+
+between 0.05 and 0.08 standard deviation units.
+
+                                          [Table 5 here]
+
+       In general, our preferred models—which include controls for student demographics—
+
+indicate impacts that are either null or small and positive. We find small positive statistically
+
+significant results, especially for ELA, when using the largest bandwidth and including the
+
+quadratic form of the forcing variable.
+
+Economies of Scale
+
+       The primary motivation that policymakers articulated for consolidating smaller school
+
+districts in Arkansas was to achieve cost savings through economies of scale. Even if consolidation
+
+only had null-to-small positive effects on achievement, Act 60 would still be considered a success
+
+if consolidation reduced administrative and other spending outside of the classroom, freeing up
+
+resources for additional classroom spending or to be redirected toward other important public
+
+purposes.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                               11
+
+
+       Unfortunately, we cannot leverage the sharp enrollment threshold used in the previous
+
+analysis because districts subject to Act 60, in many cases, merged with districts above the
+
+threshold, and it is impossible to disentangle the finances of one from the other after consolidation.
+
+A difference-in-difference analysis has the potential to help us estimate causal impacts, but we
+
+need to secure better pre-consolidation finance trend data before that is feasible.
+
+
+       Instead, to investigate whether districts affected by consolidation experienced positive
+
+economies of scale we descriptively compare district-level spending trends before and after
+
+consolidation occurred. Table 6 presents a summary of financial information for districts affected
+
+by consolidation and Arkansas averages for the 2004 to the 2008 school years.
+
+
+                                               [Table 6 here]
+
+       In 2004, prior to consolidation, districts that would be forced to consolidate by Act 60 spent
+
+more on average, a lesser share on classroom teachers, and a greater share on other certified staff
+
+like administrators than did other school districts in Arkansas (see Columns 1-3 of Table 6). On
+
+the surface, this supports the argument that consolidation had the potential to deliver improvements
+
+through greater economies of scale.
+
+       The appropriate counterfactual, however, is to compare expenditure trends for districts
+
+affected by consolidation (both consolidated and receiving) to unaffected districts to see if affected
+
+districts exhibit substantial changes after consolidation that deviate from broader state trends.
+
+Columns 4-11 of Table 6 shows that Act 60 affected districts exhibit consistent resource allocation
+
+over time to both classroom staff and other certified staff (see last two rows of Table 6). While
+
+affected districts experienced increased spending per pupil, that trend did not deviate meaningfully
+
+from the overall state trend. Based on this simple, descriptive analysis we do not find evidence that
+
+Act 60 resulted in substantial positive economies of scale for affected districts.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                               12
+
+
+6. Conclusion
+
+       This paper adds to our understanding of the effects of consolidation on student achievement
+
+and district finances by taking advantage of a natural experiment in Arkansas which occurred when
+
+policymakers required the consolidation of all districts with fewer than 350 students for two
+
+consecutive years. We find that consolidation had either null or small positive effects on the
+
+achievement of students whose districts were consolidated. In addition, we find no evidence that
+
+Act 60 resulted in positive economies of scale for affected districts. Overall, Act 60 does not appear
+
+to have helped Arkansas students much, but on the other hand, it did not harm them either.
+
+       It is important to note that our analysis treats all consolidations as homogenous, rather than
+
+heterogeneous, events. This is largely because our paper offers an analysis of the effect of a
+
+statewide mandatory consolidation policy rather than a study of individual district mergers.
+
+Nevertheless, we note that the evidence presented in this paper largely focuses on the average
+
+effect of consolidation on different types of students; and that these effects may certainly differ
+
+across district mergers.
+
+       It is possible that reducing the number of administrative units will pay dividends in the
+
+future, but it is also possible that larger districts are less responsive to the needs of individual
+
+communities, harming students down the line. These longer-term effects are as of yet unknown
+
+and could be a fruitful area for future study.
+
+       Other areas for future work include building out a causal analysis around cost, investigating
+
+the effect of consolidations on receiving districts, and investigating the impact of school closures
+
+that result from consolidation.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                              13
+
+
+7. References
+
+Alesina, A., Baqir, R., & Hoxby, C. (2004). Political jurisdictions in heterogeneous communities.
+       Journal of Political Economy, 112(2): 348-396.
+
+Andrews, M., Duncombe, W., & Yinger, J. (2002). Revisiting economies of size in American
+      education: Are we any closer to a consensus? Economics of Education Review, 21: 245-
+      262.
+
+Arkansas 84th General Assembly. (2003). “Act 60 of the 2nd Extraordinary Session.” Retrieved
+      from http://www.arkleg.state.ar.us.
+
+Arkansas Department of Education. (2006). Rule governing the consolidation or annexation of
+      public school districts and boards of directors of local school districts. Retrieved from
+      http://www.arkansased.org.
+
+Arkansas Bureau of Legislative Research. (2006). Educating Rural Arkansas: Issues of Declining
+      Enrollment, Isolated Schools, and High-Poverty Districts. Research Project 06-137
+      (August 2006). Prepared for the Adequacy Study Oversight Subcommittee of the
+      Arkansas Senate and House Committees on Education.
+
+Barnett, J.H., Ritter, G.W., & Lucas, C.J. (2002). Educational reform in Arkansas: Making sense
+       of the debate over school consolidation. Arkansas Education Research & Policy Studies
+       Journal. 2 (2): 1-21.
+
+Brasington, D. M. (2003). Size and school district effects: Do opposites attract? Economica,
+       70(280): 673-690.
+
+Berry, C.R. & West, M.R. (2008). Growing pains: The school consolidation movement and
+       student outcomes. The Journal of Law, Economics, & Organization, 26(1).
+
+Duncombe, W. & Yinger, J. (2007). Does school district consolidation cut costs? Education
+     Finance and Policy. 2(4): 341-375.
+
+Gordon, N. & Knight, B. (2006). The causes of political integration: An application to school
+      districts (NBER Working Paper No 12047). Cambridge, MA: National Bureau of
+      Economic Research.
+
+Hu, Y. & Yinger, J. (2008). The impact of school district consolidation on housing prices.
+       National Tax Journal, 61(4): 609-633.
+
+Imbens, G.W. & Lemieux, T. (2008). Regression discontinuity designs: A guide to practice.
+      Journal of Econometrics. 142(2): 615-635.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                             14
+
+
+Nitta, K.A., Holley, M. J., & Wrobel, S. L. (2010). A phenomenological study of rural school
+        consolidation. Journal of Research in Rural Education, 25(2), 1-19. Retrieved from
+        http://www.jrre.psu.edu/articles/25-2.pdf.
+
+Reardon, S. F. & Robinson, J. P. (2012) Regression discontinuity designs with multiple rating-
+      score variables. Journal of research on educational effectiveness, 5(1): 83-104.
+
+Staiger, D. & Stock, J. H. (1997). Instrumental variables regression with weak instruments.
+        Econometrica, 65: 557-586.
+
+Walberg, H.J. & Fowler, W.J. (1987). Expenditure and size efficiencies of public school
+      districts. Educational Researcher, 16(7): 5-13.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT          15
+
+
+8. Tables and Figures
+
+
+Figure 1
+
+Map of Districts Consolidated due to Act 60
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                        16
+
+
+Figure 2
+
+Consolidation Treatment Assignment by Two-Year Enrollment
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                17
+
+
+Figure 3.
+
+Distribution of forcing variable (E) district types
+
+
+
+
+Note. Figure presents histograms of forcing variable, E, for three district types: [1] districts that
+
+were not affected by Act 60 in 2005 (dark gray), [2] districts forced to consolidate (i.e., "Sending
+
+districts") (light gray), and [3] districts who accepted sending districts in mergers (i.e.,
+
+"Receiving districts") (white). Histogram bar width = 25.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                 18
+
+
+Figure 4:
+District achievement by forcing variable
+
+
+
+
+Note. Figure presents distribution of standardized achievement in 2005 (i.e., one year post consolidation) by forcing variable, E.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                        19
+
+
+Table 1.
+Districts affected by Act 60
+      First Year After             Consolidated Due to Enrollment   Consolidated and Receiving
+        Consolidation                                                        Districts
+             2005                               59                              99
+             2006                                2                               4
+             2007                                4                              14
+             2008                               --                              --
+             2009                               --                              --
+             2010                                1                               2
+             2011                                4                              15
+Source: Arkansas Department of Education
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                    20
+
+
+Table 2.
+School closures in consolidated districts
+                                                     Number of Schools Closed
+ First Year Since Consolidation
+                                        Elementary    Middle      Secondary     Total
+               2005                          5          --            11         16
+               2006                          8          --            13         21
+               2007                         16          4             15         35
+               2008                          2          --             4          6
+               2009                          8          --             1          9
+               2010                          5          1              3          9
+               2011                          4          --             5          9
+ Source: Arkansas Department of Education
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                                                  21
+
+
+Table 3.
+Descriptive statistics for students in consolidated and non-consolidated districts
+                                                              Distance ≤ |60|                                                Distance ≤ |380|
+                                         Consolidated            Other                                   Consolidated          Other
+                                           districts            districts                                  districts          districts
+                                          (N=599)              (N=1137)             Diff         s.e.     (N=2932)           (N=7140)         Diff             s.e.
+
+                                              Avg.                Avg.                                        Avg.              Avg.
+
+ Female                                        0.53                0.51             0.02        0.02           0.51              0.49           0.02*          0.01
+ Ethnicity
+   Black                                       0.02                0.24           -0.22**       0.08           0.17              0.13            0.04          0.05
+   Hispanic                                    0.00                0.02          -0.02***       0.01           0.01              0.03          -0.02**         0.01
+   White                                       0.98                0.74           0.24***       0.08           0.80              0.83           -0.03          0.05
+   Other                                       0.00                0.00             0.00        0.00           0.02              0.01            0.01          0.01
+ Grade
+   Fourth                                      0.31                0.30             0.01        0.02           0.31              0.32           -0.01          0.01
+   Sixth                                       0.36                0.36             0.00        0.02           0.35              0.33            0.01          0.01
+   Eighth                                      0.33                0.34            -0.01        0.01           0.34              0.35            0.00          0.01
+ Standardized achievement
+   Math                                       0.10                -0.08            0.18         0.13         -0.04              0.01            -0.06   0.06
+   ELA                                        0.00                -0.05            0.05         0.11         -0.12              0.01           -0.13**  0.05
+ Forcing variable: E                         -34.04               39.74         -73.78***       5.72        -126.05            186.91        -312.96*** 15.22
+Note. Analysis restricted to students in the 2003-04 school year. s.e. = standard errors that account for clustering of students within districts. Achievement is
+standardized within grade and year across all students in the testing data. *** - p<.01, ** - p<.05, * - p<.10
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                                              22
+
+
+Table 4.
+Impacts of district consolidation on student achievement
+                                         Distance ≤ |60|                                Distance ≤ |120|                              Distance ≤ |380|
+                                   (1)           (2)       (3)                      (4)       (5)        (6)                   (7)         (8)         (9)
+ Panel A. Impacts on standardized math scores
+  Consolidated                 -0.784*** -0.239*** -0.304                         0.024          -0.007        -0.011        -0.032       0.017         0.042*
+                                 (0.156)      (0.090)    (0.306)                 (0.074)        (0.039)       (0.076)       (0.030)      (0.016)        (0.025)
+  Unique students                 4,369         3,597     3,597                   9,053           7,452         7,452       26,057       21,288         21,288
+  Unique districts                 198           191       191                     248             242           242          261          260            260
+ Panel B. Impacts on standardized ELA scores
+  Consolidated                 -0.696***       -0.085     0.035                   -0.023         0.015         0.058         -0.030       0.009        0.063***
+                                 (0.158)      (0.071)    (0.245)                 (0.076)        (0.033)       (0.065)       (0.032)      (0.014)        (0.023)
+  Unique students                 4,369         3,597     3,597                    9,053         7,452         7,452        26,057       21,288         21,288
+  Unique districts                 198           191       191                      248           242           242           261          260            260
+
+ Student characteristics                                  X             X                          X              X                          X              X
+ Linear forcing variable                  X               X                          X             X                           X             X
+ Quadratic forcing variable                                             X                                         X                                         X
+Note. Unit of analysis is student-year. All models include grade and year fixed effects. Multi-level standard errors account for nesting within student and district.
+*** - P<.01, ** - p<.05, * - p<.10. Source: Authors' calculations.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                                         23
+
+
+Table 5.
+Do results vary over time?
+                                              Distance ≤ |60|                           Distance ≤ |120|                         Distance ≤ |380|
+                                                         Quadratic                                  Quadratic                                Quadratic
+                                       Linear model                              Linear model                             Linear model
+                                                           model                                     model                                    model
+                                     (1)                          (2)                  (3)                 (4)                  (5)                  (6)
+ Panel A. Impacts on standardized math scores
+ First year of consolidation    -0.2901***                      -0.3498             -0.0530              -0.0557             -0.0269              -0.0018
+                                  (0.0971)                     (0.3082)            (0.0455)             (0.0791)            (0.0218)             (0.0288)
+ Second year of consolidation   -0.2438***                      -0.3034              0.0021              -0.0009            0.0452**            0.0705***
+                                  (0.0926)                     (0.3074)            (0.0414)             (0.0770)            (0.0180)             (0.0262)
+ Third year of consolidation    -0.2433***                      -0.3029             -0.0155              -0.0186             -0.0028               0.0225
+                                  (0.0924)                     (0.3070)            (0.0413)             (0.0770)            (0.0181)             (0.0262)
+ Fourth year of consolidation    -0.2046**                      -0.2639              0.0118               0.0087              0.0257             0.0510*
+                                  (0.0934)                     (0.3075)            (0.0414)             (0.0772)            (0.0181)             (0.0262)
+ Panel B. Impacts on standardized ELA scores
+ First year of consolidation       -0.0398                      0.0778               0.0190              0.0627              0.0333*            0.0864***
+                                  (0.0777)                     (0.2459)            (0.0400)             (0.0686)             (0.0202)            (0.0266)
+ Second year of consolidation      -0.0970                      0.0210              -0.0044              0.0396               0.0086             0.0618**
+                                  (0.0730)                     (0.2449)            (0.0359)             (0.0664)             (0.0166)            (0.0241)
+ Third year of consolidation       -0.1045                      0.0132               0.0049              0.0491               0.0093            0.0624***
+                                  (0.0730)                     (0.2445)            (0.0359)             (0.0665)             (0.0167)            (0.0241)
+ Fourth year of consolidation      -0.0638                      0.0540               0.0412              0.0855               0.0003             0.0535**
+                                  (0.0739)                     (0.2449)            (0.0360)             (0.0666)             (0.0167)            (0.0241)
+ Unique students                    3,597                        3,597                7,452               7,452               21,288              21,288
+ Unique districts                    191                          191                  242                 242                  260                 260
+Note. Unit of analysis is student-year. All models include lagged student performance, student demographics, and grade and year fixed effects. Multi-level
+standard errors account for nesting within student and district. *** - P<.01, ** - p<.05, * - p<.10. Source. Authors’ calculations.
+ CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                                    24
+
+
+ Table 6.
+ Summary of district financial information
+                                                        2004                       2005                 2006                 2007                  2008
+                                                        All                   All                  All                  All                   All
+                                             Act 60 Affected AR Avg         Affected AR Avg      Affected AR Avg      Affected AR Avg      Affected AR Avg
+                                               (1)      (2)         (3)       (4)        (5)       (6)        (7)       (8)        (9)       (10)       (11)
+Number of Districts                              59         99        308         46       254         46       252         46       245          46       245
+Median Area                                     115       148         147       343        166       343        166       351        171        351        171
+Total Enrollment                             13,370    63,712 422,787        62,917 426,136       62,885 432,371       62,252 433,952       62,139 433,333
+Median Enrollment                               232       288         678       946        887       911        891       920        943        909        924
+Expenditures/Pupil                           $7,573    $6,363     $6,475     $7,335     $7,307    $7,575     $7,687    $7,883     $7,992    $8,057      $8,256
+Certified Teachers Share                     40.9%     44.5%       45.4%      43.1%     43.4%      42.6%     42.4%      42.6%     42.5%      42.4%      42.1%
+Other Certified (e.g., administration) Share  7.7%       6.3%        5.6%      6.3%       5.8%      6.0%       5.7%      6.2%       6.1%      6.2%       6.1%
+Source. Arkansas Department of Education and authors' calculations
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                      25
+
+
+9. Appendix
+
+Figure A1.
+District achievement gains by forcing variable
+
+
+
+
+Note. Figure presents distribution of standardized achievement gains in 2005 (relative to 2004) by forcing variable, E.
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                  26
+
+
+Table A1a.
+Impacts of district consolidation on student standardized math scores
+                                  E ≤ |60|                                E ≤ |120|                               E ≤ |380|
+                        (1)           (2)            (3)         (4)        (5)           (6)          (7)          (8)           (9)
+                    -0.784***    -0.239***         -0.304      0.024      -0.007        -0.011       -0.032        0.017       0.042*
+ Consol.
+                      (0.156)      (0.090)        (0.306)     (0.074)    (0.039)       (0.076)      (0.030)      (0.016)       (0.025)
+                                 0.729***        0.728***               0.729***      0.729***                  0.735***      0.735***
+ Lagged achieve.
+                                   (0.008)        (0.008)                (0.005)       (0.005)                   (0.003)       (0.003)
+                                  0.032**         0.033**               0.037***      0.037***                  0.036***      0.036***
+ Female
+                                   (0.013)        (0.013)                (0.009)       (0.009)                   (0.005)       (0.005)
+                                 -0.105***      -0.105***              -0.099*** -0.098***                     -0.105*** -0.104***
+ Black
+                                   (0.025)        (0.026)                (0.016)       (0.016)                   (0.010)       (0.010)
+                                    0.091           0.088                  0.042         0.043                  0.066***      0.066***
+ Hispanic
+                                   (0.059)        (0.059)                (0.040)       (0.040)                   (0.019)       (0.019)
+                                    0.040           0.041                 -0.011        -0.010                     0.016         0.017
+ Other
+                                   (0.038)        (0.038)                (0.027)       (0.027)                   (0.014)       (0.014)
+                                 -0.106***      -0.106***              -0.112*** -0.112***                     -0.095*** -0.095***
+ FRL
+                                   (0.015)        (0.015)                (0.010)       (0.010)                   (0.006)       (0.006)
+                                    0.036           0.031                  0.025         0.025                    -0.037        -0.036
+ ELL
+                                   (0.154)        (0.155)                (0.093)       (0.093)                   (0.034)       (0.034)
+                      -0.003*     -0.002*           0.008     0.002**      0.001         0.000       0.000         0.000         0.000
+ E
+                      (0.002)      (0.001)        (0.005)     (0.001)    (0.000)       (0.001)      (0.000)      (0.000)       (0.000)
+                    -0.014***       -0.002         -0.022     -0.002*    -0.001*         0.000     0.000**       0.000**      0.001**
+ Consol. X E
+                      (0.004)      (0.002)        (0.017)     (0.001)    (0.001)       (0.002)      (0.000)      (0.000)       (0.000)
+                                                   0.000*                                0.000                                   0.000
+ E^2
+                                                  (0.000)                              (0.000)                                 (0.000)
+                                                    0.000                                0.000                                   0.000
+ Consol. X E^2
+                                                  (0.000)                              (0.000)                                 (0.000)
+ Unique students       4,369         3,597          3,597      9,053       7,452         7,452      26,057        21,288       21,288
+ Unique districts       198           191            191        248         242           242         261           260           260
+Note. Unit of analysis is student-year. All models include grade and year fixed effects. Multi-level standard errors account for nesting
+within student and district. *** - p<.01, ** - p<.05, * - p<.10
+Source. Authors' calculations
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                  27
+
+
+Table A1b.
+Impacts of district consolidation on student standardized ELA scores
+                                      E ≤ |60|                               E ≤ |120|                             E ≤ |380|
+                           (1)           (2)            (3)          (4)         (5)         (6)          (7)        (8)          (9)
+                       -0.696***       -0.085         0.035        -0.023      0.015       0.058        -0.030      0.009     0.063***
+ Consol.
+                         (0.158)      (0.071)        (0.245)      (0.076)     (0.033)     (0.065)      (0.032)    (0.014)      (0.023)
+                                    0.775***       0.776***                 0.773*** 0.773***                    0.782*** 0.782***
+ Lagged achieve.
+                                      (0.007)        (0.007)                  (0.005)     (0.005)                 (0.003)      (0.003)
+                                    0.106***       0.106***                 0.094*** 0.094***                    0.097*** 0.097***
+ Female
+                                      (0.013)        (0.013)                  (0.009)     (0.009)                 (0.005)      (0.005)
+                                    -0.102***      -0.103***                -0.111*** -0.112***                 -0.099*** -0.098***
+ Black
+                                      (0.022)        (0.022)                  (0.015)     (0.015)                 (0.009)      (0.009)
+                                     0.109**        0.108**                    0.051       0.051                  0.042**      0.042**
+ Hispanic
+                                      (0.054)        (0.054)                  (0.038)     (0.038)                 (0.018)      (0.018)
+                                       -0.010         -0.009                   -0.007      -0.009                   0.005        0.006
+ Other
+                                      (0.034)        (0.034)                  (0.025)     (0.025)                 (0.013)      (0.013)
+                                    -0.097***      -0.097***                -0.093*** -0.093***                 -0.083*** -0.083***
+ FRL
+                                      (0.014)        (0.014)                  (0.009)     (0.009)                 (0.006)      (0.006)
+                                       -0.159         -0.163                   -0.044      -0.045               -0.102*** -0.101***
+ ELL
+                                      (0.140)        (0.140)                  (0.087)     (0.087)                 (0.032)      (0.032)
+                           0.000       0.001          0.003      0.002**       0.001       0.002        0.000       0.000     0.001***
+ E
+                          (0.002)     (0.001)        (0.004)      (0.001)     (0.000)     (0.001)      (0.000)    (0.000)      (0.000)
+                        -0.018***    -0.004**         -0.002    -0.003***    -0.001*       -0.002      0.000*       0.000        0.000
+ Consol. X E
+                          (0.004)     (0.002)        (0.014)      (0.001)     (0.000)     (0.002)      (0.000)    (0.000)      (0.000)
+                                                      0.000                                0.000                               0.000**
+ E^2
+                                                     (0.000)                              (0.000)                              (0.000)
+                                                      0.000                                0.000                              0.000***
+ Consol. X E^2
+                                                     (0.000)                              (0.000)                              (0.000)
+ Unique students           4,369        3,597         3,597        9,053       7,452       7,452       26,057      21,288       21,288
+ Unique districts           198          191           191          248         242         242          261         260          260
+Note. Unit of analysis is student-year. All models include grade and year fixed effects. Multi-level standard errors account for nesting
+within student and district. *** - p<.01, ** - p<.05, * - p<.10
+Source. Authors' calculations
+CONSOLIDATION IMPACTS ON ACHIEVEMENT                                                                                                                                             28
+
+
+Table A2.
+Robustness check: What happens when we exclude students in receiving districts?
+                                    Distance ≤ |60|                         Distance ≤ |120|                                                    Distance ≤ |380|
+                                   With Receiving             Receiving             With Receiving            Receiving             With Receiving             Receiving
+                                      Districts            Districts Omitted           Districts           Districts Omitted           Districts            Districts Omitted
+                                         (1)                       (2)                    (3)                      (4)                    (7)                       (8)
+ Panel A: Math results
+ Linear model                         -0.2392***                -0.1283*                 -0.0071                  -0.0185                 0.0167                  0.0109
+                                        (0.0900)                (0.0748)                (0.0388)                 (0.0336)                (0.0156)                (0.0147)
+ Quadratic model                         -0.3044                -0.4359*                 -0.0114                   0.0042                0.0418*                  0.0201
+                                        (0.3062)                (0.2489)                (0.0756)                 (0.0655)                (0.0245)                (0.0229)
+ Unique students                          3,597                   3,219                   7,452                     7,211                 21,288                  18,755
+ Unique districts                          191                     198                     242                       247                   260                      261
+ Panel B: ELA results
+ Linear model                            -0.0846                 -0.0667                 0.0145                   0.0139                  0.0094                  0.0141
+                                        (0.0705)                (0.0641)                (0.0333)                 (0.0296)                (0.0143)                (0.0134)
+ Quadratic model                          0.0349                  -0.181                 0.0575                   0.0278                0.0627***                0.0452**
+                                        (0.2445)                (0.2143)                (0.0651)                 (0.0576)                (0.0225)                (0.0209)
+ Unique students                           3,597                   3,219                  7,452                    7,211                  21,288                  18,755
+ Unique districts                           191                     198                    242                      247                    260                      261
+Note. Unit of analysis is student-year. Linear model controls for forcing variable with a linear specification. Quadratic model controls for forcing variable with a quadratic
+specification. All models include grade and year fixed effects. Multi-level standard errors account for nesting within student and district. Source. Authors' calculations.
+

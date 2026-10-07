@@ -1,0 +1,200 @@
+                               Health History/Nutri on Screening
+
+
+ Performance Standards
+ 1302.41 Collabora on and communica on with parents.
+     (a) For all ac vi es described in this part, programs must collaborate with parents as partners in
+         the health and well-being of their children in a linguis cally and culturally appropriate manner
+         and communicate with parents about their child’s health needs and development concerns in a
+          mely and eﬀec ve manner.
+             (1) Obtain advance authoriza on from the parent or other person with legal authority for
+                  all health and developmental procedures administered through the program or by
+                  contract or agreement, and maintain wri en documenta on if they refuse to give
+                  authoriza on for health services.
+ 1302.42 Child health status and care.
+     (a) Source of health care. (1) A program, within 30 calendar days a er the child ﬁrst a ends the
+         program or, for the home-based program op on, receives a home visit, must consult with
+         parents to determine whether each child has ongoing sources of con nuous, accessible health
+         care- provided by a health care professional that maintains the child’s ongoing health record
+         and is not primarily a source of emergency or urgent care- and health insurance coverage.
+             (2) If the child dies not have such a source of ongoing care and health coverage access or
+                 access to care through the Indian Health Service, the program must assist families in
+                 accessing a source of care and health insurance that will meet these criteria, as quickly
+                 as possible.
+     (4) A program must iden fy each child’s nutri onal health needs, taking into account available
+          health informa on, including the child’s health records, and family and staﬀ concerns, including
+          special dietary requirements, food allergies, and community nutri on issues as iden ﬁed
+          through the community assessment or by the Health Services Advisory Commi ee.
+
+
+
+Procedure
+Family Service Workers (FSW) are responsible for comple ng the ‘Health History/Nutri on’
+tab as part of the enrollment process. This will gather important health informa on, as well
+as capture the permission requirements for Head Start services.
+Family Service Workers will assist families in iden fying a medical and dental home in the
+community for their child, and to apply for insurance if needed.
+  o FSWs will ask parents/guardians these ques ons for each enrolled child’s ChildPlus ﬁle
+      (see instruc ons below).
+  o Once the FSW saves the event, the Health Coordinator will review and create the
+
+
+Health History.Nutri on Screening (rev. 3/14/23)                                                        1
+    correla ng events as needed (Health History, Health Insurance, Nutri on, Medical
+    Home, Dental Home, etc.).
+ o This tab is completed every year- at enrollment for new children, and annually for
+    returning children.
+
+
+ Family Service Worker Data Entry Steps:
+     ● Open ChildPlus
+     ● Select Services tab in the upper le corner
+     ● Click on the child’s name from the list on the le , then
+     ● Go to the Health Tab
+     ● Click on the Health History/Nutri on Tab
+     ● Click on Add Health History/Nutri on
+     ● Date of Assessment: Enter date the assessment was completed with the parent
+     ● Family Service Worker: Choose your name from the drop down menu
+     ● Parent/Guardian Name: Type the name of the parent who answered the ques ons
+     ● Informed Consent sec on: Choose Agree or Do Not Agree
+     ● Health Insurance Informa on sec on: Complete all areas. Click the clock and add any
+       addi onal notes as needed.
+        o Medical Home- loca on where the child goes for well child exams; primary care
+          doctor
+        o Dental Home- loca on where the child goes for rou ne dental exams; den st
+         o Note: it is important that we gather the correct medical and dental home
+           informa on.
+                   •   This would be used in case of an emergency, and will appear on the 1520
+                       reports for classroom staﬀ. Email the Health Coordinator if you need help
+                       to ﬁnd the correct clinic.
+         o Date of Last Well Child Exam & Last Dental Exam: Write in approximate date, if
+           known
+                   •   If appointment was within the past year:
+                        ○ Does parent have documenta on at home? Or are they able to access
+                          child’s records online? See ‘Online Records’ script.
+                        ○ If not, Release of Informa on form is best way to get records we need
+                          on family’s behalf.
+                   •   If it has been over a year since the child’s last appointment, or if there is an
+                       appointment scheduled already, give the parent a blank Health Exam form
+                       to bring to the next appointment.
+
+
+Health History.Nutri on Screening (rev. 3/14/23)                                                   2
+       ● Permissions sec on: Choose ‘Yes, I give consent’ or ‘No, I do not give consent’ from
+         parent’s answer
+           o Note: Detailed descrip ons are available here if the parent would like further
+             informa on. These are all Head Start performance standards that are required, and
+             many are done as a classroom ac vity (i.e., children may feel sad if they do not get to
+             join others for screenings).
+       ● Health History sec on: Check any appropriate boxes for health condi ons/concerns, or
+         ‘None’. Click the clock and add any addi onal notes needed.
+       ● Asthma sec on: Choose yes or no from drop down ques ons, and add addi onal notes
+         if needed.
+       ● Allergy/Food Informa on sec on: Complete all areas, and check any appropriate boxes.
+         Add any addi onal notes in this sec on as needed.
+       ● Nutri on sec on: Complete all areas, and check any appropriate boxes. Add any
+         addi onal notes in this sec on as needed.
+       ● Click Save on the top right
+
+  _______________________________________________________________________________
+
+
+  Family Service Worker Follow Up
+
+  FSW will follow up on events with a status of ‘Incomplete’ (Medical Home, Health Insurance,
+  Dental Home) or ‘Follow Up Needed’ (Nutri on).
+  FSW will add a new ‘ac on’ in the corresponding event each me communica on occurs around
+  follow up (phone call, resource given, appointment made, etc.)
+      ➢ Health Insurance/Medical Home/Dental Home:
+             ○ Email Health Coordinator when these are iden ﬁed. HC will update status when
+                 informa on is received.
+      ➢ Nutri on:
+             ○ FSW will u lize the shared ‘Nutri on Resources’ drive folder if family would like
+                 informa on on a par cular topic
+             ○ FSW will encourage family to apply for WIC services if child is not already enrolled
+                 (must be under age 5). Pregnant parents are also eligible for WIC.
+             ○ FSW will complete an Internal Program Referral (IPR) to the Registered Die cian if
+                 a family requests addi onal support
+
+  _______________________________________________________________________________
+
+
+  Health Coordinator Responsibili es
+⮚ Health Coordinator will monitor newly completed Health History/Nutri on events. HC is
+  responsible for reviewing all informa on answered, and crea ng appropriate events for
+
+
+  Health History.Nutri on Screening (rev. 3/14/23)                                              3
+    documenta on of comple on and/or follow up if needed. HC will refer results to Registered
+    Nurse (RN) or Registered Die cian (RD) if further specialized follow up may be needed.
+
+    Health Coordinator Data Entry Steps
+       ● Open ChildPlus
+       ● Select Services tab in the upper le corner
+       ● Click on the child’s name from the list on the le
+       ● Go to the Health History/Nutri on tab, click on most recent event. Review all answers
+           completed by staﬀ.
+       ● Click Save As A achment for a record of the assessment to be saved in child’s CP ﬁle
+       ● Go to the A achments Tab
+           o Click on the newly saved a achment tled ‘Data Entry Screen Snapshot’
+           o Click Edit Details on top right
+                    • Service Area: Health
+                    • A achment Type: Health History/Nutri on
+                    • Descrip on: Add notes around any permissions denied (Ex: ‘Denied
+                        hearing’). If any permissions are denied, a green ﬂag should also be added
+                        to the child’s CP ﬁle with the details of the denial as well.
+                    • Click Save
+       ● Go to the Health Services Tab
+       ● Click on the Event Tab
+       ● Click Add Event, then select:
+           o Health History (sub groups Dental Home, Health Insurance, & Medical Home will
+              automa cally populate)
+           o Nutri on
+       ● Event Date: Enter the date the screening was completed
+       ● Select a Status:
+           o Completed
+           o Incomplete (not considered for requirements) (For missing informa on)
+       ● Agency Worker: FSW name
+       ● Click Save
+            ➢ For ‘Incomplete’ event statuses, status of event should be changed to ‘Completed’
+               when informa on is received and event date should be changed to reﬂect.
+
+   Registered Nurse (RN) Data Entry: Chronic Health Condi ons:
+⮚ RN will create events to document chronic health condi ons, as well as ensure per nent PIR
+  ques ons are answered.
+               o   If a child has a diagnosed chronic condi on, the appropriate PIR box should be
+                   chosen. A ‘Follow Up’ Ac on Type should be created so the ‘Treatment Received
+                   for a Diagnosed Chronic Condi on’ box can be checked as well for PIR purposes.
+                   See below for example.
+               o RN should also ensure that per nent health informa on is listed in the ‘Cri cal
+                 Health Notes’ and ‘Allergy Problems’ areas of the ‘Health Informa on’ tab, and
+
+
+
+   Health History.Nutri on Screening (rev. 3/14/23)                                            4
+                any needed ﬂags are selected on top of the child’s CP ﬁle.
+    ● Click Add Event, then select as needed:
+          o       Asthma
+          o       Cardiac
+          o       Diabetes
+          o       Seizure
+    ● Event Date: Enter the date the HH screening was completed or informa on was received
+    ● Select a Status:
+          o       Completed
+          o       Medica on in Classroom, Staﬀ Trained
+          o       Ongoing (if no medica on needed in classroom)
+          o Follow-up Needed (if any concerns or follow up was noted, training is needed,
+              form needed, etc.)
+              • Change status to ‘Follow Up Completed’ when no further ac on is needed
+          o       Descrip on: Write in appropriate descrip on
+          o       Results: Write an appropriate ac on needed (i.e., ‘RN to train staﬀ’, etc.)
+    ● Agency Worker: FSW name
+    ● Event Notes: Click the clock to add details as needed. ‘Ac ons’ can also be added for
+      addi onal follow up.
+    ● Click Save
+
+
+
+
+Health History.Nutri on Screening (rev. 3/14/23)                                         5
+

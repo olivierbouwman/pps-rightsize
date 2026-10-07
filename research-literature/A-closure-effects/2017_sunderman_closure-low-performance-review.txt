@@ -1,0 +1,898 @@
+          S chool C losure as a S trategy
+          to R emedy L ow P erformance
+
+
+Gail L. Sunderman                                Erin Coghlan                                                                      Rick Mintrop
+    University of                     University of California,                                                        University of California,
+     Maryland                                Berkeley                                                                         Berkeley
+
+
+                                                              May 2017
+
+
+
+
+             National Education Policy Center
+                    School of Education, University of Colorado Boulder
+                                  Boulder, CO 80309-0249
+                                      (802) 383-0058
+                                    nepc.colorado.edu
+
+
+
+
+                           GREAT LAKES                       This brief is made possible in part by funding from the Great Lakes
+                             CENTER
+                          GREAT LAKES                        Center
+                                                           This brieffor Education
+                                                                      is made      Research
+                                                                              possible in partand Practice:from the
+                                                                                               by funding   greatlakescenter.org
+                                                                                                                    Great Lakes
+                            CENTER
+                       For Education Research & Practice
+                                                           Center for Education Research and Practice: greatlakescenter.org
+                     For Education Research & Practice
+Kevin Welner
+Project Director
+
+William Mathis
+Managing Director
+
+Don Weitzman
+Academic Editor
+
+Alex Molnar
+Publishing Director
+
+
+
+
+Briefs published by the National Education Policy Center (NEPC) are blind peer-reviewed by
+members of the Editorial Review Board. Find NEPC publications at http://nepc.colorado.edu.
+NEPC editorial board: http://nepc.colorado.edu/editorial-board.
+
+Suggested Citation:
+Sunderman, G.L., Coghlan, E., & Mintrop, R. (2017). School Closure as a Strategy to Remedy Low
+Performance. Boulder, CO: National Education Policy Center. Retrieved [date] from http://nepc.
+colorado.edu/publication/closures
+                    School Closure as a Strategy
+                    to Remedy Low Performance
+
+                     Gail L. Sunderman, University of Maryland
+                   Erin Coghlan, University of California, Berkeley
+                   Rick Mintrop, University of California, Berkeley
+
+
+                                 Executive Summary
+This brief investigates whether closing schools and transferring students for the purpose of
+remedying low performance is an option educational decision makers should pursue.
+
+The logic of closing schools in response to low student performance goes like this: By closing
+low-performing schools and sending students to better-performing ones, student achieve-
+ment will improve. The new, higher-performing schools will give transfer students access
+to higher-quality peer and teacher networks, which in turn will have a beneficial effect on
+academic outcomes. The threat of closure may motivate low-performing schools (and their
+districts) to improve in order to preempt school closure.
+
+To investigate this logic, we draw on an evidence base that consists of peer-reviewed re-
+search studies and well-researched policy reports, but relatively few of these exist for school
+closures. We ask:
+
+     1. How often do school closings occur and for what reasons?
+
+     2. What is the impact on students of closing schools for reasons of performance?
+
+     3. What is the impact of closing schools on the public school system in which closure
+        has taken place?
+
+     4. What is the impact of school closures on students of various ethnic and socioeco-
+        nomic backgrounds, and on local communities and neighborhoods?
+
+
+Recommendations
+
+The relatively limited evidence base suggests that school closures are not a promising strat-
+egy for remedying low student performance.
+
+     •   Even though school closures have dramatically increased, jurisdictions largely shun
+         the option of “closure and transfer” in the context of the federal School Improve-
+         ment Grant (SIG) program. Policy and district actors should treat the infrequency
+         of this turnaround option as a caution.
+
+     •   School closures have at best weak and decidedly mixed benefits; at worst they have
+         detrimental repercussions for students if districts do not ensure that seats at high-
+         er-performing schools are available for transfer students. In districts where such
+         assignments are in short or uncertain supply, “closure and transfer” is a decidedly
+         undesirable option.
+     •   School closures seem to be a challenge for transferred students in non-academic
+         terms for at least one or two years. While school closures are not advisable for a
+         school of any grade span, they are especially inadvisable for middle school students
+         because of the shorter grade span of such schools.
+
+     •   The available evidence on the effects of school closings for their local system tells
+         a cautionary note. There are costs associated with closing buildings and transfer-
+         ring teachers and students, which reduce the available resources for the remaining
+         schools. Moreover, in cases where teachers are not rehired under closure-and-re-
+         start models, there may be broader implications for the diversity of the teaching
+         workforce. Closing schools to consolidate district finances or because of declining
+         enrollments may be inevitable at times, but closing solely for performance has un-
+         anticipated consequences that local and state decision makers should be aware of.
+
+     •   School closures are often accompanied by political conflict. Closures tend to differ-
+         entially affect low-income communities and communities of color that are politi-
+         cally disempowered, and closures may work against the demand of local actors for
+         more investment in their local institutions.
+
+In conclusion, school closures as a strategy for remedying student achievement in low-per-
+forming schools is a high-risk/low-gain strategy that fails to hold promise with respect to ei-
+ther student achievement or non-cognitive well-being. It causes political conflict and incurs
+hidden costs for both districts and local communities, especially low-income communities of
+color that are differentially affected by school closings. It stands to reason that in many in-
+stances, students, parents, local communities, district and state policymakers may be better
+off investing in persistently low-performing schools rather than closing them.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                           4 of 19
+                     School Closure as a Strategy
+                     to Remedy Low Performance
+
+
+                                       Introduction
+Accountability policies in education—most prominent in federal laws such as the newly en-
+acted Every Student Succeeds Act (ESSA), or the former No Child Left Behind Act (NCLB)—
+have trained the spotlight on schools that are identified as the lowest performing based
+mainly on standardized test scores. Included in the federal and state reforms that have
+been enacted to “turn around” these low-performing schools is the option to simply close
+the doors of persistently failing schools and send their students elsewhere. Traditionally,
+districts have pursued the option of school closure when declining enrollment or concerns
+about school size and fiscal efficiency led to school and district consolidation 1. The option
+of closing schools as a mechanism to improve student achievement and school quality is
+relatively new.
+
+School closure has been advanced as a reform policy at the federal level through mechanisms
+such as the School Improvement Grants (SIG) program, which provides targeted grants to
+states and schools that use school closure as a strategy to lift student performance. 2 At the
+state level, Louisiana, Michigan, and Tennessee have experimented with state takeover of
+academically failing schools by instituting special state-run school districts that have the
+option to close schools 3. At the local level, so-called parent-trigger laws enacted across seven
+states allow parents to petition to change school governance and staffing, or in some cases,
+close the doors of low-performing schools.4 Such policies focus the public eye on low-per-
+forming schools and have the potential to lead to school closure, but other factors such as
+state policies that broaden access to charter schools 5 may also contribute to declining enroll-
+ment in traditional public schools and thereby to an increase in school closures, especially in
+urban areas.6
+
+The logic of closing schools for reasons of student performance goes like this: by closing
+low-performing schools and sending their students to better-performing schools, student
+achievement will improve. The new, higher-performing schools will give the transfer stu-
+dents access to higher-quality peer and teacher networks, which will have a beneficial ef-
+fect on academic outcomes.7 In theory, the threat of closure will motivate low-performing
+schools (and their districts) to improve. The reality, our review of research finds, is more
+complex and nuanced. School closures are difficult to implement well, putting their purport-
+ed beneficial effect in doubt.
+
+Supporters of school closure and student transfer programs argue that it is a matter of ur-
+gency to close failing schools and transfer students into better-performing ones, and claim
+this urgency is rooted in a quest for equalizing opportunities to learn.8 Critics emphasize
+that closing schools most often impacts low-income and minority communities in large ur-
+ban cities in a jolting process of “shock therapy,” noting that closures often undermine dem-
+ocratic localism and community involvement while doing little to improve student achieve-
+
+
+
+http://nepc.colorado.edu/publication/closures                                             5 of 19
+ment.9
+
+This policy brief reviews the existing literature on public school closures. We make poli-
+cy recommendations based on the research findings to date for policymakers who may be
+considering closures as an option to improve academic performance. We review research
+studies that address what happens when schools are closed and students are sent elsewhere,
+including research on schools closed for low performance and schools closed because of de-
+clining enrollment. We do not review cases where schools are closed and “reopened” under
+another operator, such as a charter school, nor do we focus on charter school closures. The
+research base is small, especially with respect to peer-reviewed sources. While we give pref-
+erential consideration to peer-reviewed research, we also include findings from policy re-
+ports by think thanks and policy centers that ground conclusions on strong evidence-based
+criteria. Specifically, we address four questions:
+
+     1. How often do school closings occur and for what reasons?
+
+     2. What is the impact on students of closing schools for reasons of performance?
+
+     3. What is the impact of closing schools in the public school system in which closure
+        has taken place?
+
+     4. What is the impact of school closures on students of various ethnic and socioeco-
+        nomic backgrounds, and on local communities and neighborhoods?
+
+
+                              Review of the Literature
+
+
+1. How often do school closings occur and for what reasons?
+
+The number of public school closures per year has nearly doubled since 1995. 10 Data from
+the National Center for Education Statistics (NCES) show that throughout the 1990s, school
+closures across the country averaged fewer than 1,000 per year, but following the passage
+of NCLB that number increased dramatically, with an average of 1,500-2,000 closures an-
+nually since the early 2000s. Using the NCES data, researchers from the Urban Institute
+found that since the early 2000’s, about 2% of U.S. schools are closed each year and never
+reopened, affecting more than 200,000 students annually.11 Moreover, they found that in
+the 2012-13 school year, over 53% of school closures occurred in suburban districts, 26% in
+rural areas, and 21% in urban areas.
+
+This proliferation of school closures may be attributed to federal, state and local policy ini-
+tiatives. At the federal level, school closure was first incorporated into education policy in
+2001 when the Federal Government reauthorized the Elementary and Secondary Education
+Act, known as No Child Left Behind (NCLB). NCLB outlined a new School Improvement
+Grant (SIG) program that provided financial incentives for low-performing schools and dis-
+tricts to implement one of four strategies prescribed by the legislation. In the “turnaround”
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                           6 of 19
+strategy, school leadership and faculty would be fundamentally reconfigured; in the “trans-
+formation” strategy, schools would implement a more stringent performance management
+system for teachers and administrators; in the “restart” strategy, underperforming schools
+would be temporarily closed and reopened under new governance (e.g., charter school oper-
+ators); lastly, in a school “closure and transfer’” strategy, schools would be closed and their
+students sent elsewhere.
+
+According to U.S. Department of Education data, the school “closure and transfer” strategy
+was the least popular and least-used option by SIG grantees, accounting for less than 2% of
+all grants awarded to schools over three years.12 Federal grants for school closures went to
+just 21 schools in the states of California, Colorado, Missouri, Pennsylvania, South Carolina,
+Virginia, Washington, and Wisconsin between 2010-11 and 2012-13.13
+
+While school closure was the least used SIG strategy under NCLB, it is possible that school
+closures will continue to be used as a reform policy under the newly enacted Every Student
+Succeeds Act (ESSA), which replaces NCLB. ESSA mandates that states intervene in the
+lowest-performing schools that fail to improve over time, but it gives states flexibility to de-
+sign their own accountability policies to regulate school and student performance. 14 Several
+states have indicated that they may continue to use school closure or charter conversion as
+school improvement strategies in their next-generation accountability plans. 15
+
+At the state level, states have included the option to close schools as an improvement strategy
+in special state-run school districts. The intent of special school districts is to give the state
+the authority to intervene in low-performing schools (often, those schools in the bottom
+five percent of statewide performance) and to override local school board decisions. 16 Often,
+state-run school districts authorize “turnaround” strategies similar to those outlined in the
+federal SIG program, such as replacing the principal and/or teachers, transferring the school
+                                      to a charter operator, or simply closing the         door of
+ Several states have                  a low-performing school and sending students elsewhere.
+ indicated that they may The states of Louisiana, Michigan, and Tennessee were
+ continue to use school               the first to create such districts, but the reform has been
+ closure or charter                   introduced in other states, including Arkansas, Georgia,
+ conversion as school                 Nevada, and Pennsylvania.17 Likewise, policies at the
+ improvement strategies. local level such as “parent trigger laws” that operate in
+California, Connecticut, Indiana, Louisiana, Mississippi, Ohio, and Texas give parents the
+ability to petition for the implementation of similar SIG strategies when they are dissatisfied
+with their local school’s performance.18 While special state-run school districts and parent
+trigger laws may contribute to the rising number of school closures, we found no conclusive
+data that quantifies the closures resulting from such reforms.
+
+Other factors that may influence school closure, especially in urban areas, include declining
+enrollments in traditional public schools19 and increasing enrollments in charter schools.20
+The increasing enrollment in charter schools often entails lost revenue for traditional pub-
+lic schools, which may trigger further closures.21 However, this point should be interpreted
+with caution. Other factors, such as overall declining state spending on public education 22
+or demographic changes and geographic mobility between districts 23 may also lead to school
+
+
+
+http://nepc.colorado.edu/publication/closures                                              7 of 19
+closures. As noted earlier, an analysis of school closures in the 2012-13 school year found
+that the majority occurred in suburban and rural areas.24 There is no conclusive empirical
+evidence yet that points to the causes of school closure in non-urban areas.
+
+In sum, public school closures have dramatically increased, but the use of the “closure and
+transfer” option as a strategy to deal with poor test performance of schools is very infre-
+quent.
+
+
+2. What is the effect of school closure and transfer on students?
+
+
+Student academic performance
+There are only a few studies addressing the impact of school closure on students, and the ev-
+idence from this research is mixed. We identified four studies (three are peer-reviewed, and
+one is from a university-based research center) that analyze student achievement data to de-
+termine whether performance improved for students who moved to new schools after their
+home school closed. Three of the studies focused on urban elementary and middle schools, 25
+while one focused on an urban high school.26 These results should be interpreted with cau-
+tion, given the paucity of research examining how school closure impacts different types of
+schools (elementary, middle, or high school) in different areas (urban, suburban, or rural).
+
+The schools in these studies were designated for closure at the end of one school year, with
+their students transferred to another school the following academic year. Closure decisions
+were based on a mix of factors, such as the overall condition of the school buildings, loca-
+tion, and enrollment, but the studies report that district officials often chose to make stu-
+dent achievement a major factor in determining which schools to close. In each of the four
+studies, increases in student achievement for displaced students are possible only if dis-
+placed students are transferred to higher-performing schools. However, important nuances
+complicate this finding.
+
+Three of these studies highlight student achievement in the year directly leading up to
+school closure, including after the closures were announced. Using longitudinal statewide
+student-level administrative data of test scores for all students in grades 3-8, Brummet 27
+analyzed over 200 elementary and middle school closures in Michigan, finding that student
+math scores dropped during the last year the school was open compared to the three years
+prior to closure. De la Torre & Gwynne 28 use student test scores from displaced students
+at 18 elementary schools in Chicago, and also look at test scores from a comparison group.
+These authors found similar results to Brummet, noting that the school closures caused
+significant stress in the lives of students and teachers, with negative effects on both reading
+and math scores during the last year of school operation. In both the Brummet and de la
+Torre & Gwynne studies, the authors identified students who exited the public school system
+after the closure decision was made. While both studies found that some students enrolled
+in charter or private schools and some families moved out of their school district, the major-
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                           8 of 19
+ity of students re-enrolled in another public school.
+
+In a 2010 study, Kirschner and colleagues29 find similar results. Looking at school closure
+in one large urban high school in the southwest, they compared longitudinal student stan-
+dardized achievement scores from students in a closed high school (the “treatment group”)
+with those of two groups: students who attended the high school in years prior to closure,
+and all students in the district who never attended the closed high school. They found that
+test scores in both reading and math began to drop for the treatment group compared to the
+comparison groups after the closure was decided. Moreover, Kirschner and colleagues found
+increased dropout rates and a significant decline in graduation rates after closure had been
+announced compared to the non-treatment groups.
+
+These studies reveal unintended “fadeout” effects during the last year(s) that the underper-
+forming schools were in operation, ranging from a drop in test scores to changes in dropout
+and graduation rates at the high school level. The findings indicate that school closure may
+have detrimental unintended consequences for students during the last years that a school
+remains open prior to its closure.
+
+Students are           These studies also examine what happens to student achievement af-
+not necessarily        ter students are transferred to new schools. Even if they’re transferred
+transferred to         to higher-performing schools, several studies found that transfer stu-
+better schools.        dents experienced a drop in achievement during their first year at the
+                       new school. Math and reading scores tend to improve in years two and
+three after the transfer to a higher-performing school, but these gains tend to be marginal
+and not significantly different from their expected level of learning had those students not
+transferred.30 The studies also found modest negative “spillover” effects on achievement at
+the receiving schools, meaning that the influx of new students had adverse effects on the
+math and reading test scores of students in the receiving schools, although these effects were
+not always statistically significant.
+
+In addition, students are not necessarily transferred to better schools. De la Torre & Gwyn-
+ne31 found that only 6% of students in their sample of 18 Chicago elementary schools trans-
+ferred into the top quartile of schools. In fact, 40% of displaced students enrolled in schools
+that were on probation, and 42% enrolled in schools that scored in the lowest quartile on the
+Iowa Tests of Basic Skills. Often, because there are no higher-performing schools within the
+neighborhood or local community, displaced students transfer to schools of equal or lower
+performance32. On a positive note, when the Chicago Public School district chose to close
+an additional 43 elementary schools in 2013, they assigned students to higher-performing
+schools in the district (district officials were influenced by the findings from the 2009 de la
+Torre & Gwynne report), resulting in 93% of displaced students attending a receiving school
+that was better than their closed school. 33 To date, there has been no follow-up research
+on the academic outcomes of the Chicago students who transferred to higher-performing
+schools.
+
+Lastly, in a 2015 report from the Research Alliance for New York City Schools, Kemple34 ex-
+amines high school closures that occurred as a “phase-out” process where students are given
+
+
+
+http://nepc.colorado.edu/publication/closures                                           9 of 19
+the option of remaining in their school until graduation or transferring before then (as was
+the case in the studies reviewed above). Analyzing data on 29 high school closures in New
+York City, Kemple found that there were no adverse effects on the academic performance
+of students who remained in schools slated to be “phased out” over time. Moreover, when
+these low-performing high schools were ultimately closed, it forced middle school students
+to choose alternatives and many ended up going to higher-performing schools, which led to
+modest improvements in attendance, progress towards graduation, and graduation rates.
+
+In sum, based on a limited number of rigorous studies, school closures have at best weak
+and decidedly mixed benefits, while at worst they have detrimental repercussions for stu-
+dents if districts do not ensure that seats at higher-performing schools are available for
+transfer students. In districts in which such assignments are in short or uncertain supply,
+“closure and transfer” is a decidedly undesirable option.
+
+
+Other school factors
+
+The 2009 Chicago elementary school closure study conducted by de la Torre & Gwynne 35 has
+the most extensive research on other school factors affected by school closure, further com-
+plicating the picture of what happens to daily student life when local neighborhood schools
+close. For instance, the authors found that displaced students were about twice as likely as
+students in a comparison group to change schools a second time after enrolling in a receiving
+school. Moreover, using survey data the authors determined the degree to which students
+perceived that their teachers at the transfer schools gave them individualized attention and
+the degree to which they trusted their relationship with new teachers. The survey data found
+that students experienced an initial drop in both perceived teacher personal attention and
+student-teacher trust when they first transferred, and that these measures did not improve
+until the end of the first school year. The school closures, however, did not influence whether
+or not students were retained in-grade at higher rates in their receiving school than students
+in the comparison group, nor were there significant changes in special education referrals
+for displaced students at their receiving school. Students who transferred at the end of their
+eighth grade year were just as likely to be on-track to graduate high school at the end of their
+freshman year in their new school as students in a comparison group. The study by Engberg
+and colleagues36 found a significant spike in student absenteeism for displaced students
+during the first year of transfer.
+
+In the Chicago study, de la Torre & Gwynne also noted the transportation challenges that
+displaced students encountered. They cite several contemporary newspaper articles high-
+lighting a surge in teen violence as students crossed rival gang lines in order to get to their
+transfer school. Other authors have also addressed issues associated with transportation,
+such as the financial burden on low-income families paying for public transportation, the
+limited ability of displaced students to participate in afterschool programs and sports, and
+the challenge for students to hold down an afterschool job if commuting to school becomes
+a significant time commitment.37
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                          10 of 19
+In sum, again based on a few studies, it seems that school closures are a challenge for
+transferred students in terms of a variety of other school factors at least the initial one or
+two years. At least for middle school students, because of the shorter grade span, school
+closures are therefore inadvisable.
+
+
+3. What is the effect of school closure on the local school systems where they
+occur?
+Closing schools is likely to affect how resources are distributed and used within districts,
+how staffing decisions are made, and how the system as a whole operates. Because studies
+that investigate the effect of “closure and transfer” on school systems are rare, we reviewed
+research on closing underutilized schools in major urban districts and in particular, a case
+study of the Detroit public school system. This provided us a base from which to infer po-
+tentially positive or negative systemic consequences of closing schools for reasons of per-
+formance. Then, we briefly review the existing findings on what happens to teacher employ-
+ment in local school systems once schools close.
+
+Districts may also close and/or consolidate schools when student enrollment drops and
+school buildings are underutilized rather than for academic reasons. Several large urban
+districts have seen significant decreases in student enrollments since the early 2000s, leav-
+ing urban districts with lower per-pupil spending having to support the same number of
+school facilities and the fixed costs associated with running them. Such is the case in cities
+such as Detroit,38 Chicago,39 and Philadelphia.40 After schools are closed for underutiliza-
+tion, the school building may be transferred to a charter or private school operator and
+reopened several years later, but it is also common for school buildings to be repurposed or
+sold for office space, homeless shelters, or churches. 41
+
+In many instances, the closed school building is either abandoned or eventually demolished.
+In an examination of 12 large urban districts, the Pew Charitable Trust42 found that since
+2005, these districts have sold, leased, or reused 267 properties, but still own at least 300
+closed school facilities that remain vacant, some of which have remained empty for a decade
+or more. When districts successfully sell the property, the Pew study found, it often sells well
+below valuation.
+
+A case study of Detroit, where nearly 200 schools have closed since 2000, provides a closer
+look at the costs of school closure on local school systems. 43 While the district’s original plan
+for school closure anticipated large cost savings, the district experienced several “hidden
+costs.” The district spent millions of dollars on expenses such as boarding up and securing
+closed buildings and accommodating the transfer of students to new schools. Moreover,
+textbooks, furniture, and computer equipment left in abandoned schools required an ad-
+ditional $4.5 million in 2008 to clear out closed school buildings and store and maintain
+the supplies. In some cases, after closing a school, the district spent additional resources
+to accommodate the integration of students into new schools, investing in renovations or
+new construction at the absorbing school. Ironically, a few schools that received multimil-
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                             11 of 19
+lion-dollar renovations ended up closing a few years later; between 1999 and 2012, the De-
+troit public schools spent over $78 million upgrading schools that were later closed. It also
+costs the district about $50,000 a year per closed school to cover costs associated with water
+pipe maintenance, police responses to break-ins, and miscellaneous repairs. Thus, the dis-
+trict experienced relatively little overall savings. Moreover, after closing schools, student en-
+rollment in traditional public schools continued to decline as parents chose to remove their
+students from the district or enroll them in private or charter schools, which continued the
+vicious cycle of revenue loss for public schools. In a 2007 study of several Michigan school
+districts, Coulson found that school consolidation across the state more often results in
+greater rather than fewer costs to districts. 44 After closing schools, districts spend money on
+transportation for students and increase spending to manage the consolidation process and
+cover capital construction costs. In sum, closing schools using low performance as the sole
+criterion may only add to the problem of surplus properties that cities and urban districts
+have to manage, and may lead districts to incur hidden management costs.
+
+There are a few studies in the literature on closing schools that address the issue of teacher
+employment when schools close. Research from the Chicago Public School system found
+that teachers (often African American) affected by school closures were in almost all cases
+not rehired or retained in “closure and restart” models, and instead were replaced by White
+teachers.45 If this pattern were repeated beyond the population that de la Torre and col-
+leagues studied, it would have broad implications for the diversity of the teaching workforce.
+Brummet46 found that when schools closed, the schools that absorbed displaced teachers
+saw a drop in overall performance during the first few years as teachers integrated into the
+school, a finding seen in other research as well. 47 Since research on what happens to teachers
+during school closures is very thin, this is an area that requires further investigation.
+
+In sum, the available evidence on effects of school closings for the local system in which
+they occur tells a cautionary note. Hidden costs for closed schools and transfers reduce
+the available resources for the remaining schools. Closing schools to consolidate district
+finances may be inevitable at times, but closures for performance reasons only may have
+unanticipated consequences, especially on the teaching profession, that local and state de-
+cision makers should be aware of.
+
+
+4. What is the impact of school closures on students from various ethnic and
+socioeconomic backgrounds and on local communities and neighborhoods?
+Using a national dataset, researchers from the Urban Institute 48 found that school closures
+in urban and suburban areas tend to disproportionately involve students from low-income
+and minority backgrounds. Within urban school closures, 61% of impacted students are Af-
+rican American, even though on average, African American students make up about 31% of
+urban school populations. This finding resonates with other reports on urban school clo-
+sures.49 In addition, researchers from the Urban Institute found that while Black students
+typically account for 14% of student enrollment in suburban schools, school closures dispro-
+portionately impact these students, who account for 29% of students in suburban closures.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                           12 of 19
+In both urban and suburban areas, school closures also disproportionately impact students
+living in poverty. In sum, school closures tend to disproportionately affect low-income stu-
+dents and students of color.
+
+School closures often generate political conflict in poor and minority neighborhoods when
+these communities lose neighborhood schools, especially when community members are
+left out of the decision-making process leading to closure. 50 In a 2012 ethnographic study
+of a Midwestern high school serving mostly African American students, Ayala & Galletta 51
+found that community members reported weak communication channels between district
+and community actors as a reason for rising political tensions, as district administrators
+and community members saw the problem of low school performance in different ways.
+While parents and community members were concerned about the performance of their lo-
+cal school, they wanted more resources and effort invested into school improvement before
+resorting to school closure, a desire that was not clearly addressed by the district adminis-
+trators. Briscoe & Khalifa52 also found differences in perspectives between district and com-
+munity actors in the proposed closure of a predominately Black urban high school. African
+American community members saw school closure as part of ongoing and historical racial
+oppression and felt that district administrators were not considering their viewpoints. In
+contrast, district administrators focused on school problems and declining enrollment and
+attempted to insulate themselves from local political conflict by employing bureaucratic
+communication procedures. In other research, a 2012 study of a mid-sized urban district by
+Finnigan & Lavner53 found that higher-income community members were more successful
+at influencing the closure process through formal and informal mechanisms that influenced
+the school board decision-making process, while low-income groups had far less power to
+affect decisions through these channels. 54
+
+Closing schools has the most direct impact on the daily lives, academics, and social net-
+works of students, yet their voices are often ignored in the decision-making process. 55 Using
+open-ended surveys, peer interviews, and focus groups, Kirschner and colleagues 56 found
+that students saw the closure of their high school as an unwanted externally imposed man-
+date. Students expressed strong connections to their home school and had developed strong
+relationships with teachers, other students, and the local neighborhood. Those relationships
+were severely disrupted when their home school closed. Students felt that they were not
+included in the school-closure conversation, and many questioned the rationale for the de-
+cision, noting that they did not need to be rescued from a failing school. Moreover, students
+reported disruptions to their peer social networks and found it difficult to fit in with the
+other students at the transfer school. They also felt adversely labeled by negative stereotypes
+they encountered in their new school.
+
+In sum, school closures tend to disproportionately affect low-income students and students
+of color. In addition, school closures are often accompanied by political conflict, often dif-
+ferentially affect low-income communities and communities of color, may go against the
+demand of local actors for more investment in their local institutions, and may be contrary
+to student desires.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                          13 of 19
+                                   Recommendations
+The purpose of this policy brief is to investigate the evidence and make recommendations on
+the use of school closure as a strategy to remedy low student performance. Our interpreta-
+tion of the relatively limited evidence base suggests that school closures are not a promising
+strategy for the purpose of remedying low student performance.
+
+Our judgment is based on the following findings:
+
+     •   Even though school closures have dramatically increased, jurisdictions largely
+         shunned the option of “closure and transfer” in the context of the federal School
+         Improvement Grant (SIG) program. Policy and district actors should treat the in-
+         frequency of this turnaround option as a caution.
+
+     •   School closures have at best weak and decidedly mixed benefits; at worst they have
+         detrimental repercussions for students if districts do not ensure that seats are avail-
+         able at higher-performing schools for transfer students. In districts where such
+         assignments are in short or uncertain supply, “closure and transfer” is a decidedly
+         undesirable option.
+
+     •   School closures seem to be a challenge for transferred students in non-academic
+         terms for at least the initial one or two years. While school closures are not ad-
+         visable for a school of any grade span, they are especially inadvisable for middle
+         schools because of the shorter grade span of such schools.
+
+     •   The available evidence on the effects of school closings for the local system in which
+         they occur tells a cautionary note. Hidden costs for closed-down buildings and
+         transfers of teachers and students reduce the available resources and capacities for
+         the remaining schools. Moreover, closure and restart models in which teachers are
+         not rehired may have broader implications for the diversity of the teaching work-
+         force. Closing schools to consolidate district finances may be inevitable at times,
+         but closings for reasons of performance only have unanticipated consequences that
+         local and state decision makers should be aware of.
+
+     •   School closures are often accompanied by political conflict. Closures tend to dif-
+         ferentially affect low-income, politically disempowered communities and commu-
+         nities of color, and closures may run against the demand of local actors for more
+         investment in their local institutions.
+
+In conclusion, school closures as a strategy for remedying student achievement in low-per-
+forming schools is a high-risk/low-gain strategy that fails to hold promise for improving
+student achievement and non-cognitive well-being. It has the tendency to cause political
+conflict and incur hidden costs for both districts and local communities, especially low-in-
+come communities of color that are differentially affected by school closings. In many in-
+stances, students, parents, local communities, district and state policymakers may be better
+off investing in persistently low-performing schools than closing them.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                           14 of 19
+                                        Notes and References
+
+1    Howley, C., Johnson, J., & Petrie, J. (2011, February). Consolidation of schools and districts: What the
+     research says and what it means. Boulder, CO: National Education Policy Center.
+
+2    U.S. Department of Education (2016). School Improvement Grants. Retrieved February 1, 2017, from
+     https://www2.ed.gov/programs/sif/index.html
+
+3    Duke, D. (2016). The children left behind: America’s struggle to improve its lowest performing schools.
+     Lanham, MD: Rowman & Littlefield.
+
+4    Rogers, J., Lubienski, C., Scott, J. & Welner, K.G. (2015). Examining the parent trigger as a strategy for school
+     reform and parental engagement. Teachers College Record, 117, 1-36.
+
+5    Holyoke, T.T., Henig, J.R., Brown, H., & Lacireno-Paquet, N. (2009). Policy dynamics and the evolution of
+     state charter school laws. Policy Sciences 42(1), 33-55.
+
+6    Baker, B. (2016, November). Exploring the consequences of charter school expansion in U.S. cities.
+     Washington, DC: Economic Policy Institute.
+
+7    Hanushek, E.A., Kain, J.F., & Rivkin, S.G. (2004). Disruption versus Tiebout improvement: The costs and
+     benefits of switching schools. Journal of Public Economics, 88(9), 1721-1746.
+
+8    Steiner, L. (2009). Tough decisions: Closing persistently low-performing schools. Lincoln, IL: Center on
+     Innovation & Improvement.
+
+9    Lipman, P. & Haines, N. (2007). From accountability to privatization and African American exclusion:
+     Chicago’s “Renaissance 2010.” Educational Policy, 21(3), 471-502.
+
+     Sunderman, G.L. & Payne, A. (2009, December). Does closing schools cause educational harm? A review of
+     the research. Bethesda, MD: Mid-Atlantic Equity Center.
+
+     Trujillo, T. & Renée, M. (2012, October). Democratic school turnarounds: Pursuing equity and learning from
+     evidence. Boulder, CO: National Education Policy Center.
+
+10 U.S. Department of Education, National Center for Education Statistics. (2016). Digest of Education Statistics,
+     2015 (NCES 2016-014), Chapter 2. Retrieved February 1, 2017, from
+     https://nces.ed.gov/fastfacts/display.asp?id=619
+
+11   Urban Institute (2017). Subtracting schools from communities. Washington, DC: Urban Institute. Retrieved
+     April 1, 2017, from http://www.urban.org/features/subtracting-schools-communities
+
+12   U. S. Department of Education (2015). School Improvement Grants national summary: School year 2012-13.
+     Retrieved February 1, 2017, from
+     https://www2.ed.gov/programs/sif/data/school-impro-grants-nat-sum-sy1213.pdf
+
+13   U.S. Department of Education (2016). School Improvement Grants. Retrieved February 1, 2017, from
+     https://www2.ed.gov/programs/sif/index.html
+
+14 U.S. Department of Education (2017). Every Student Succeeds Act (ESSA). Retrieved February 1, 2017, from
+     https://www.ed.gov/essa?src=rn
+
+15   For example, see:
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                                                15 of 19
+     Massachusetts Department of Education (2017, February). Massachusetts consolidated state plan under the
+     Every Student Succeeds Act (ESSA). Retrieved March 1, 2017, from
+     http://www.mass.gov/edu/government/departments-and-boards/ese/programs/accountability/financial-
+     support/title-i-and-other-federal-support-programs/essa-every-student-succeeds-act/essa-state-plan.html
+
+     Ohio Department of Education (2017). Every Student Succeeds Act (ESSA). OH: Ohio Department of
+     Education. Retrieved March 1, 2017, from
+     http://education.ohio.gov/Topics/Every-Student-Succeeds-Act-ESSA
+
+     Tennessee Department of Education (2017). Every Student Succeeds Act (ESSA). TN: Tennessee Department
+     of Education. Retrieved April 3, 2017, from http://www.tennessee.gov/education/section/essa
+
+16 Duke, D. (2016). The children left behind: America’s struggle to improve its lowest performing schools.
+     Lanham, MD: Rowman & Littlefield.
+
+17   Duke, D. (2016). The children left behind: America’s struggle to improve its lowest performing schools.
+     Lanham, MD: Rowman & Littlefield.
+
+18 Rogers, J., Lubienski, C., Scott, J., & Welner, K.G. (2015). Examining the parent trigger as a strategy for school
+     reform and parental engagement. Teachers College Record, 117, 1-36.
+
+19 National Alliance for Public Charter Schools (2014, December). A growing movement: America’s largest
+     charter school communities. Washington, DC: National Alliance for Public Charter Schools.
+
+20 U.S. Department of Education, National Center for Education Statistics (2017). Public charter school
+     enrollment. Retrieved February 1, 2017, from https://nces.ed.gov/programs/coe/indicator_cgb.asp
+
+21   Baker, B. (2016, November). Exploring the consequences of charter school expansion in U.S. cities.
+     Washington, DC: Economic Policy Institute.
+
+22 U.S. Department of Education, National Center for Education Statistics. (2017). Public school revenue sources.
+     Retrieved February 1, 2017, from https://nces.ed.gov/programs/coe/indicator_cma.asp
+
+23 U.S. Census Bureau (2010). 2010 Census: urban and rural classification and urban area criteria. Retrieved
+     February 1, 2017, from https://www.census.gov/geo/reference/ua/urban-rural-2010.html
+
+24 Urban Institute (2017). Subtracting schools from communities. Washington, DC: Urban Institute. Retrieved
+     April 1, 2017, from http://www.urban.org/features/subtracting-schools-communities
+
+25 Brummet, Q. (2014). The effect of school closings on student achievement. Journal of Public Economics, 119,
+     108-124.
+
+     de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+     Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+     Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student
+     outcomes depend on which schools are closed? Journal of Urban Economics, 71, 189-203.
+
+26 Kirshner, B., Gaertner, M. & Pozzoboni, K. (2010). Tracing transitions: The effect of high school closure on
+     displaced students. Educational Evaluation and Policy Analysis, 32(3), 407-429.
+
+27 Brummet, Q. (2014). The effect of school closings on student achievement. Journal of Public Economics, 119,
+     108-124.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                                               16 of 19
+28 de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+     Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+29 Kirshner, B.; Gaertner, M. & Pozzoboni, K. (2010). Tracing transitions: The effect of high school closure on
+     displaced students. Educational Evaluation and Policy Analysis, 32(3), 407-429.
+
+30 Brummet, Q. (2014). The effect of school closings on student achievement. Journal of Public Economics, 119,
+     108-124.
+
+     Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student
+     outcomes depend on which schools are closed? Journal of Urban Economics, 71, 189-203.
+
+     de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+     Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+31   de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+     Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+32 See also:
+
+     Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student
+     outcomes depend on which schools are closed? Journal of Urban Economics, 71, 189-203.
+
+33 de la Torre, M., Gordon, M.F., Moore, P., & Cowhy, J. (2015, January). School closings in Chicago:
+     Understanding families’ choices and constraints for new school enrollment. Chicago, IL: The University of
+     Chicago Consortium on Chicago School Research.
+
+34 Kemple, J. (2015, November). High school closures in New York City: Impacts on students’ academic
+     outcomes, attendance, and mobility. New York, NY: The Research Alliance for New York City Schools.
+
+35 de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+     Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+36 Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student
+     outcomes depend on which schools are closed? Journal of Urban Economics, 71, 189-203.
+
+37 Kirshner, B., Van Steenis, E., Pozzoboni, K., & Gaertner, M. (2016). The costs and benefits of school closure for
+     students. In W.J. Mathis & T.M. Trujillo (Eds.), Learning from the federal market-based reforms: Lessons for
+     the Every Student Succeeds Act (ESSA) (pp. 201-215). Charlotte, NC: Information Age Publishing Inc.
+
+     Weiss, E. & Long, D. (2013, April). Market-oriented education reforms’ rhetoric trumps reality: The impacts
+     of test-based teacher evaluations, school closures, and increased charter school access on student outcomes
+     in Chicago, New York City, and Washington, D.C. Washington, DC: Economic Policy Institute.
+
+38 Grover, J. & van der Velde, Y. (2015). A School District in Crisis: Detroit’s public schools 1842-2015. Detroit,
+     MI: Loveland Technologies.
+
+39 de la Torre, M., Allensworth, E., Jagesic, S., Sebastian, J., Salmonowicz, M., Meyers, C., & Gerdeman, R.D.
+     (2013, February). Turning around low-performing schools in Chicago. Chicago, IL: The University of Chicago
+     Consortium on Chicago School Research.
+
+40 Pew Charitable Trusts (2013, February). Shuttered public schools: The struggle to bring old buildings new
+     life. Washington, DC: Pew Charitable Trusts.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                                               17 of 19
+41 Pew Charitable Trusts (2013, February). Shuttered public schools: The struggle to bring old buildings new
+    life. Washington, DC: Pew Charitable Trusts.
+
+42 Pew Charitable Trusts (2013, February). Shuttered public schools: The struggle to bring old buildings new
+    life. Washington, DC: Pew Charitable Trusts.
+
+43 Grover, J., & van der Velde, Y. (2015). A School District in Crisis: Detroit’s public schools 1842-2015. Detroit,
+    MI: Loveland Technologies.
+
+44 Coulson, A. (2007). School district consolidation, size and spending: An evaluation. Midland, MI: Mackinac
+    Center for Public Policy.
+
+45 de la Torre, M., Allensworth, E., Jagesic, S., Sebastian, J., Salmonowicz, M., Meyers, C., & Gerdeman, R.D.
+    (2013, February). Turning around low-performing schools in Chicago. Chicago, IL: The University of Chicago
+    Consortium on Chicago School Research.
+
+46 Brummet, Q. (2014). The effect of school closings on student achievement. Journal of Public Economics, 119,
+    108-124.
+
+47 Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student
+    outcomes depend on which schools are closed? Journal of Urban Economics, 71, 189-203.
+
+48 Urban Institute (2017). Subtracting schools from communities. Washington, DC: Urban Institute. Retrieved
+    April 1, 2017, from http://www.urban.org/features/subtracting-schools-communities
+
+49 Bross, W., Harris, D.N., & Liu, L. (2016, October). Extreme measures: When and how school closures and
+    charter takeovers benefit students. New Orleans: Education Research Alliance for New Orleans.
+
+    de la Torre, M., Allensworth, E., Jagesic, S., Sebastian, J., Salmonowicz, M., Meyers, C., & Gerdeman, R.D.
+    (2013, February). Turning around low-performing schools in Chicago. Chicago, IL: The University of Chicago
+    Consortium on Chicago School Research.
+
+    Grover, J., & van der Velde, Y. (2015). A School District in Crisis: Detroit’s public schools 1842-2015. Detroit,
+    Michigan: Loveland Technologies.
+
+50 Ayala, J. & Galletta, A. (2012). Documenting disappearing spaces: Erasure and remembrance in two high
+    school closures. Peace and Conflict: Journal of Peace Psychology, 18(2), 149-155.
+
+    Briscoe, F.M. & Khalifa, M.A. (2015). ‘That racism thing’: A critical race discourse analysis of a conflict over
+    the proposed closure of a black high school. Race Ethnicity and Education, 18(6), 739-763.
+
+    de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago
+    Public Schools. Chicago, IL: The University of Chicago Consortium on Chicago School Research.
+
+    Finnigan, K.S. & Lavner, M. (2012). A political analysis of community influence over school closure. Urban
+    Review, 44, 133-151.
+
+    Johnson, A.W. (2012). “Turnaround” as Shock Therapy: Race, neoliberalism, and school reform. Urban
+    Education, 48(2), 232-256.
+
+    Kretchmar, K. (2014). Democracy (in)action: A critical policy analysis of New York City public school closings
+    by teachers, students, administrators, and community members. Education and Urban Society, 46(1), 3-29.
+
+    Lipman, P. & Haines, N. (2007). From accountability to privatization and African American exclusion:
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                                                18 of 19
+     Chicago’s “Renaissance 2010.” Educational Policy, 21(3), 471-502.
+
+51   Ayala, J. & Galletta, A. (2012). Documenting disappearing spaces: Erasure and remembrance in two high
+     school closures. Peace and Conflict: Journal of Peace Psychology, 18(2), 149-155.
+
+52 Briscoe, F.M. & Khalifa, M.A. (2015). ‘That racism thing’: A critical race discourse analysis of a conflict over
+     the proposed closure of a black high school. Race Ethnicity and Education, 18(6), 739-763.
+
+53 Finnigan, K.S. & Lavner, M. (2012). A political analysis of community influence over school closure. Urban
+     Review, 44, 133-151.
+
+54 See also:
+
+     Hess, F.M. & Leal, D. (2001). The opportunity to engage: How race, class, and institutions structure access to
+     educational deliberation. Educational Policy, 15(3), 474-490.
+
+55 Kretchmar, K. (2014). Democracy (in)action: A critical policy analysis of New York City public school closings
+     by teachers, students, administrators, and community members. Education and Urban Society, 46(1), 3-29.
+
+     Toneff-Cotner, G. (2015). The political and structural exclusion of student voice in the school closure process.
+     Journal of Peace Education and Social Justice, 9(2), 55-65.
+
+56 Kirshner, B., Gaertner, M., & Pozzoboni, K. (2010). Tracing transitions: The effect of high school closure on
+     displaced students. Educational Evaluation and Policy Analysis, 32(3), 407-429.
+
+     Kirshner, B. & Pozzoboni, K.M. (2011). Student interpretations of a school closure: Implications for student
+     voice in equity-based school reform. Teachers College Record, 113(8), 1633-1667.
+
+
+
+
+http://nepc.colorado.edu/publication/closures                                                               19 of 19
+

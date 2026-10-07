@@ -1,0 +1,100 @@
+                                             Hearing Screening
+
+ Performance Standard
+ 1302.42 Child health status and care.
+     (b) Ensuring up-to-date child health status.
+          (2) Within 45 calendar days a er the child ﬁrst a ends the program or, for the home-based program op on,
+              receives a home visit, a program must either obtain or perform evidence-based vision and hearing
+              screenings.
+
+
+Procedure
+Hearing screenings will be done using an OtoAcous c Emission Screener (OAE), and results entered into
+ChildPlus. Parents receive results form a er any/all screening and rescreening. In Head Start, the Health
+Team is responsible for hearing screenings.
+
+   1. Newly enrolled children will be screened within 45 days of their start date.
+         ● Pass = OAE indicates pass in both ears.
+         ● Rescreen = OAE indicates refer in one or both ears.
+   2. If a rescreen is needed, the child will be screened again within a few weeks to rule out eﬀects of illness.
+           ● Pass= Follow up is complete.
+           ● Refer = OAE indicates refer on either or both ears at me of Rescreen.
+   3. If a child does not pass the second screening, a referral is made to the child's Primary Care Provider
+      (PCP) for further evalua on.
+           ● Family Service Worker/Community Agent will follow up with the family about scheduling a
+               medical appointment to address possible concerns, and document communica on as ‘ac ons’
+               in the ChildPlus Hearing event.
+   4. Upon return from a PCP visit, if notes indicate no medical concerns but no addi onal hearing tes ng
+      was done, the child will be screened again at the site with OAE.
+         ● Pass = OAE indicates pass on both ears.
+         ● Refer = OAE indicates refer on one or both ears.
+   5. If a referral is needed a er the third screening, Head Start Program RN will coordinate referral to
+      Audiologist or ENT in consulta on with parents for Head Start children.
+           ● FSW/CA will be no ﬁed of any referral to Primary Care Provider/or ENT and/or Audiologist to
+               oﬀer family support as needed. FSW/CA communicates follow up and sends results to Health
+               Team.
+
+
+
+Hearing Screening (rev. 4/26/23)                                                                                1
+Data Entry Script
+___________________________________________________________________________________
+Health Coordinator Data Entry:
+
+     ●   Go to the Health Services Tab
+     ●   Click on the Events Tab
+     ●   Click Add Event, then select Hearing
+     ●   Event Date: Enter the date the screening was completed
+     ●   Select a Status:
+              ○ Absent on Screening Date (for use when a empt was made at site but child was absent)
+              ○ Follow-up Needed (refer results)
+              ○ Needs Re-Screening
+              ○ No Consent Signed
+              ○ Parent Refused Permission- Not Screened
+              ○ Pass
+     ●   Descrip on: Write in appropriate descrip on (OAE)
+     ●   Results: Write an appropriate ac on needed (i.e., ‘refer’, ‘rescreen R ear’)
+     ●   Agency Worker: FSW/CA name
+     ●   Parental No ﬁca on: Complete this sec on if a screening result was provided to family
+     ●   Click the clock and add any per nent notes as needed
+     ●   Click Save
+
+           ➢ If child passes a rescreen, change event status to ‘PASS’
+           ➢ If follow up is needed from a medical provider (PCP, audiologist, etc), change status to ‘follow up
+             completed’ when all appointments and any documenta on are completed.
+           ➢ If child needed any type of treatment for hearing (such as placement of PE tubes, hearing aids,
+             etc.), check ‘Treatment Received’ box in ‘ac on’ sec on of Hearing event, as well as ‘Hearing
+             problems’ in the ‘Chronic Condi ons’ sec on (see below for example).
+
+
+
+
+Hearing Screening (rev. 4/26/23)                                                                            2
+_______________________________________________________________________________________
+
+
+Family Service Worker/Community Agent Data Entry:
+
+For Hearing events with a ‘Follow-Up Needed’ status:
+
+This is where you will be documen ng your work and the progress if follow-up is needed. Add a new ‘ac on’
+each me communica on occurs around follow up (phone call, resource given, appointment made, etc.)
+
+     ●   Open the child’s Vision event in ChildPlus
+     ●   Click: Add Ac on
+     ●   Ac on Type: Choose appropriate type
+     ●   Scheduled Date: LEAVE BLANK
+     ●   Ac on Date: Date follow up occurred
+     ●   Descrip on: Write in what follow up was regarding
+     ●   Status: Choose an appropriate status
+     ●   Ac on Notes: Click the clock, document notes as needed
+     ●   Agency Worker: choose your name
+
+
+
+
+1302.42(b)(2)
+Caring for our Children (CFOC): 2.1.1.4. Monitoring Children’s Development/Obtaining Consent for Screening
+
+Hearing Screening (rev. 4/26/23)                                                                         3
+

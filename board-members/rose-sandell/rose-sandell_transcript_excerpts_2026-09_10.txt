@@ -1,0 +1,33 @@
+Rose Sandell (Student Representative 2026-27) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- Student representative votes are unofficial/symbolic. 2026-05-26 (as student representative-elect) voted YES on Res. 7307 rightsizing guiding principles and Res. 7308 budget approval.
+- 2026-10-06: YES (unofficial) on Res. 7383 budget calendar and consent agenda (incl. Res. 7387 legislative principles).
+
+EXCERPTS
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 01:20:12 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4812s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair checks in with "our student representatives"; addressed as student representative)
+  topic: bond program
+  "you mentioned the Benson lawsuit that's been ongoing. [...] is there any progress or details on that that you can share?"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:05:26 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14726s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (student-centered questions; DePass later: "student representative Sandell reminded me")
+  topic: special education and student experience under Scenarios A/B
+  "I had some questions about [...] what was going to happen with the special education classrooms at these schools that are moving and [...] how is it going to affect the students and are like para educators like following students [...] how are we going to evaluate the impact of each scenario on like students' success and like extracurricular activities and like their sense of belonging[?] [...] How are you getting student perspective during this right sizing process? [...] how did we choose 14 in scenario A and 11 in scenario B[?]"
+
+NOTES
+Sandell's 2025-26 predecessor, Student Representative Ian Ritorto, voted NO (unofficial) on Res. 7296 launching rightsizing on 2026-04-14 and supported changing "will" to "may". Student questions at the 9/8 TLE committee (~00:26-00:34, staff impacts, safe travel, enrollment effects) came from a student representative whose identity could not be confirmed from captions.

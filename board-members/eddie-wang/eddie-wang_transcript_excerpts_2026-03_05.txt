@@ -1,0 +1,189 @@
+Eddie Wang (Board Chair, Zone 7) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: CO-INTRODUCED with Splitt; YES on final (5-2). NO on La Forte framework amendment (failed 3-4); NO on "will"->"may" (failed 2-5); ABSTAINED on both "boundary changes" wording motions (6-0-1) and voted yes on restoring D.b (all per minutes roll call). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (Wang YES)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+
+EXCERPTS
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:00:51 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10851s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (next speaker: "what director Wong just said about the longer we wait" -- matches this turn)
+  topic: board must make hard decisions; lessons from SGC narrowing
+  "Dr. Franco, you said that this process in boundary and districtricting and right sizing is not new. What is would be new is if we have a board that's willing to make hard decisions. >> True. In February 2021 when the decision was made to narrow the scope of the SGC, it was a very preient I forget. I think it was Rita Moore and and and Scott Bailey said that if we're not willing to make some people unhappy, we're going to be right back here in a couple years. And here we are."
+  (note: ">> True." is a staff interjection)
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:03:54 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11034s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: speed; whole district for equity; program losses at small schools
+  "I think the longer you drag it, the more uncertainty there is. It's just not fair for families and people to go through. So timeliness is important. Uh in order to do it equitably, it needs to be a whole district. And I hope that we have the courage to make hard decisions [...] the longer we wait, the longer that a K through five doesn't have a full-time librarian, >> right? Doesn't have a full-time art teacher. the longer we wait, the the longer that a middle schooler is not going to have compacted math or band."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion (observing board chair)]
+  time 01:11:00 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4260s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (committee chair: "So, um, Chair Wong, do you have anything?" - he answers "How much time do I have?")
+  topic: convert K-8s; unintended consequences of past boundary change (SEGC)
+  "I think if there's opportunities for K through eights to be turned into middle school and elementary school, I think this is a great time to do it. But I also understand that there are some exceptions that make it very difficult. [...] I love the statement about um the unintended consequences to make sure that we're very blunt and forward with that. Um one perfect example was like our uh we had public comment today from a teacher when the SEGC was rolled out. It didn't consider in the fact that you know the athletics program was lagging behind [...] which leads into my one big concern I have is um the split feeder situation."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:12:00 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4320s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same continuous remarks; personal family detail omitted)
+  topic: focus options drawing unevenly / racial makeup; Title I equity
+  "I think that in terms of focus option schools I do agree 100% agree everything needs to be on the table I'm not I'm kind of undecided whether one way the other however I do think that there is an issue where some focus options are drawing from some schools more than others causing issues especially when we have some focus option schools that are I'm just going to be blunt whiter than their neighborhood. [...] And I want to make sure that we are centering equity and making sure that um the kids from T1 schools are not suffering because of choice, quote unquote choice."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:13:00 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4380s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same continuous remarks)
+  topic: whole-district scope incl. high school balancing
+  "100% agree that everything needs to be on the table. We really need to look at the whole district. Um, especially like high school balancing enrollment. I mean, I think there's some needs to be shuffling around there. I mean, probably not for long and probably because of the downward enrollment like Grant is overenrolled, right? and and Franklin is also pretty stuffed and so things like that need it's a great opportunity to fix fix things."
+
+[2026-03-31 Board Special Meeting and Work Session - Growing Great Schools (rightsizing) pair-share report-out]
+  time 01:46:01 | https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6361s
+  source: transcripts/text/2026-03-31_Board_or_Education_Special_Meeting_and_Work_Session__QIfmGcbkkLE.txt
+  attribution: PROBABLE (Wang was in the Oregon PTA group with Chase-Miller and Ritorto. He adds to his partner's report: "cuz you took a little liberties". Staff later restate it as Wang's point: "As Chair Wong has said, who has been impacted recently? Are we impacting the same communities over and over again?")
+  topic: equity guardrail; weigh communities already hit by repeated change
+  "Okay, just add something to cuz you took a little liberties, I just want to add one more thing. It's also to also put some weight to communities that have suffered a lot of change in the last decade or two. As the it's as as the amount of changes around the district has not necessarily been equally distributed."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 introduction]
+  time 00:58:04 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3484s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "this resolution, uh which I am introducing along with uh Director Split, uh is Resolution 7296")
+  topic: why a resolution; 7-12 month timeline; SEGC lesson
+  "Uh number one, the board has never really officially voted on this direction. [...] Uh number two, having this resolution also commits us to a timeline. As we learned from our previous uh information sessions and and looking at other districts, one of the things I was considered best practice in consolidation processes is that a timeline about 7 to 12 months is is considered best practice. I mean, more kind of prolongs anxiety among families and things like that. Again, lesson learned from our SEGC process, which lasted 2 plus years"
+
+[2026-04-14 Board Regular Meeting - Res. 7296 introduction]
+  time 00:59:04 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3544s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (same continuous chair introduction; "the reason why I asked Director Split to to uh co-introduce this")
+  topic: all schools/programs included; exclusions led to inequity
+  "one of the most important things, and also one of the pitfalls that uh I experienced in doing SUGS was that when certain areas or schools are excluded from right-sizing process, it leads to inequitable outcomes. And the this clearly makes a bold statement that all schools, all programs are going to be considered, will be considered uh during this right-sizing process."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion (answering Engelsman's "why today?")]
+  time 01:45:34 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6334s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: PROBABLE (speaks as the resolution's author: "the reason why I have DA, all districts and schools must be included"; earlier chair referenced his own SEGC experience)
+  topic: binding commitment to resist privileged pushback; "board caved" in SESGC
+  "uh during the SESGC process, the reason why I have DA, all districts and schools must be included, was because of there was a lot of vocal pushback, especially from areas with a lot of privilege, and those areas got excluded from the process because the board caved. [...] It also holds us accountable because maybe one of us are going to get cold feet because we heard a lot from one community and in order to be equitable, we do have to consider the whole picture, and this is why um you know, I'm a very strong proponent of DA."
+
+[2026-04-20 Rightsizing Public Engagement Session (virtual) - board closing remarks]
+  time 01:23:49 | https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5029s
+  source: transcripts/text/2026-04-20_Rightsizing_-_Board_of_Education_Public_Engagement_Session__jBUIkfQZu-k.txt
+  attribution: CONFIRMED (continuation of chair's closing, before hand-off to DePass)
+  topic: goal of consolidation = well-resourced schools; enrollment vs. number of schools
+  "The goal here is that we are trying to create a system where every school in our district is well resourced. Right? We have 6,000 less kids than we did back in 2016, but we have the same number of schools. Uh, and and so, right now the system doesn't fit. [...] every elementary school has a full-time librarian, has a full-time special ed teacher that doesn't have to switch from one school half-time and another school another half-time. Uh I want middle schools that have all the robust programming [...] these are kind of what what the goals are for consolidation, to make sure that our system fits what our students currently are right now."
+
+[2026-04-22 Rightsizing Public Engagement Session (Ida B. Wells) - academics station Q&A]
+  time 00:38:24 | https://www.youtube.com/watch?v=h_0YMlJnXPk&t=2304s
+  source: transcripts/text/2026-04-22_Rightsizing_-_Board_of_Education_Public_Engagement_Session__h_0YMlJnXPk.txt
+  attribution: CONFIRMED (host says "Um, Director Wong." immediately before he says "Oh, can I just add to that really quick?")
+  topic: different problems by grade band; small elementaries; high schools = feeder patterns, not closure
+  "Every age grade has a different problem we're trying to solve. Like for example, our elementary schools, we have some elementary schools are over 500 students and some that only are 160. And so obviously the ones with 160 have a hard time having a full-time librarian and things like that. [...] At the same time, when we consider high schools, it like the discussion has more been about like feeder patterns, right? not necessarily closing a heist, but just like who's going where, right?"
+
+[2026-04-22 Rightsizing Public Engagement Session (Ida B. Wells) - board closing remarks]
+  time 01:47:12 | https://www.youtube.com/watch?v=h_0YMlJnXPk&t=6432s
+  source: transcripts/text/2026-04-22_Rightsizing_-_Board_of_Education_Public_Engagement_Session__h_0YMlJnXPk.txt
+  attribution: PROBABLE (last director to close: "the bummer about going last [...] director Lefor said everything I wanted to say"; then wonders if he is "supposed to close it off"; content echoes his chair framing; only male director present)
+  topic: budget outlook grim; consolidation and class size
+  "Consolidation is scary. Budget cuts are scary. [...] we are not looking at a bright budget outlook for the next three years. our state legislators have told us that hey don't expect us to do anything for you probably for the next couple of years maybe three or four years [...] bigger schools don't necessarily mean bigger class sizes it often means the opposite because the less personnel can go much farther if you add a teacher it helps um reduce classes for three other classes instead of just one [...] and we can also try to solve the problem for getting that small school feel"
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:34:27 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16467s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (the chair sets up the item, "today is more just uh the board quickly going around", then says "I guess it's my turn to go first"; matches his 3/10 neighborhood-school advocacy; staff then summarizes his point back to him)
+  topic: unheard voices; engagement changed his mind on focus options
+  "I also know that there's a lot of people who were not able to show up and it's very difficult to get their voices. It's sometimes impossible because um as we know it takes staff, time and money to to do outreach to everybody and and I'm very concerned about uh the voices that we have not heard from. Uh I do one thing I do want to reflect on is uh how these engagement sessions have changed my mind. Um I have been someone who has been very adamant and vocal about um supporting our neighborhood schools. And one thing that I heard from uh these games [engagement] sessions is that there are kids that go to focus option schools because they needed something different for their kid."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:35:28 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16528s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker, continuing; the superintendent replies "you're looking no longer at more so programdriven decisions but the balance of enrollment of sites" and he answers "Yes. Exactly.")
+  topic: focus option vs neighborhood impact; lottery/policy fix rather than closure
+  "the ones that really spoke to me are the ones that said like uh that they they weren't able to find these services in their neighborhood schools. So I would like to um pursue but at the same time impact this the impact that some focus option schools on some neighborhood programs is very real. So one of the things I would like to explore is it may not be again I want to be very careful about my words not a closure solution but potentially maybe a um how the lottery is done or a policy solution to mitigate the impact that um that our neighborhood schools are concerned about. [...] I just want to be very um creative in solving for the problem"
+
+[2026-05-05 Board of Education Retreat - trustee vs representative / "different hats"]
+  time 01:11:20 | https://www.youtube.com/watch?v=QaqhAhHyy7M&t=4280s
+  source: transcripts/text/2026-05-05_Board_of_Education_Retreat__QaqhAhHyy7M.txt
+  attribution: CONFIRMED (the facilitator recognizes him right before: "Yeah. Eddie.")
+  topic: board should act as trustees on budget and policy decisions, not defer to single-school views
+  "we have representative that works not direct because you get elected, you know, you learn about you know how the whole system works and therefore you can make decisions while still like holding up front the community's priorities versus direct democracy and you know not everyone who goes to you know local school here or there ABC knows exactly the whole picture. It may make decisions that could actually make >> things worse. [...] when we are voting on the budget when we are uh debating policy and and passing policy and making decisions we should be acting like trustees"
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:33:06 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16386s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (next speakers: "I agree with Eddie. Show me the scenarios" and "pretty much um what Eddie said"; chair role)
+  topic: keep principles flexible; against fear-based constraints; equity requires bold moves
+  "I like this document as is. I'm going to be easy. [...] if you have too many things, then maybe you can't even do the best plan [...] one thing to ask always is is this choice coming from a place of courage or is this choice coming from a position of fear and I want to make sure that we uh be very cautious about putting guiding principles that come from a position of fear because then then we become very um constrained in our creativity and thinking and potentially even doing the right thing like um equity. It's going to take some bold moves to make sure the plan is equitable and I that's one of my top priorities."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles, straw poll (round 2)]
+  time 05:09:51 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18591s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (DePass immediately after: "pretty much um what Eddie said")
+  topic: splitting communities can create new communities; SEGC continuation/sibling policies; Title I recently impacted
+  "they become new communities. [...] It's a place of fear that we're joining a new community, but or sorry like courage to join new community, place of fear not to split it. [...] I remember there's a policy that allows people who start in a certain school to continue in their school in their path [...] the other thing is also the sibling too. [...] The other issue I did bring up which was about the um impact to title one schools have recently seen impact. I think that falls under the equity clause [...] I am fine with this as is."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:49:42 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6582s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: CONFIRMED (staff reply to this speaker: "Appreciate that, Chair Wang")
+  topic: equity impact analysis for recently impacted and Title I communities
+  "I want to highlight and apprecia- lift up and also appreciate under work plan four Roman numeral [...] three. Assesses impact on school communities that have recently been impacted by recent enrollment and program changes as well as Title One school communities. Uh I want to thank you for putting that in cuz that is a very real anxiety among a lot of uh school communities that suffered a lot of change recently."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:50:42 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6642s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: CONFIRMED (same speaking turn. Staff: "Appreciate that, Chair Wang")
+  topic: walkability vs. consolidation trade-off; number of schools
+  "it ends with and prioritize walkability and safe routes to school. [...] I do want to kind of note that there is slight contradiction involved in this phrase. For example, prioritize like how high do you prioritize? If we prioritize walkability as number one, then that means keeping the maximum amount of schools open, which means that we don't do anything. [...] At the same time, safe routes to school, the more we close, you could, you know, if all things being equal, that could also mean that we have more buses to serve per school."
+
+[2026-05-26 Board Special Meeting - Res. 7308 budget committee approval, board discussion]
+  time 02:54:36 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=10476s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: CONFIRMED (continuation of the same turn)
+  topic: avoiding staff cuts now; bigger changes after consolidation
+  "I think the alternative is worse is that it when we're not risky, and that means we're cutting more staff and then finding out we didn't have to. Uh is not something that I [...] am not in favor of. I'm okay with taking a little bit of risk this year because I know the following year after consolidations we will be more our system should be more robust to take uh bigger changes and things like that."

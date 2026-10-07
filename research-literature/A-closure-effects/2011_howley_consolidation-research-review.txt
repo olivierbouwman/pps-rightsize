@@ -1,0 +1,1306 @@
+C ONSOLIDATION OF S CHOOLS AND D ISTRICTS
+
+   WHAT THE RESEARCH SAYS AND WHAT IT MEANS
+
+
+  Craig Howley, Jerry Johnson, and Jennifer Petrie
+                                Ohio University
+
+                                 February 2011
+
+
+
+        National Education Policy Center
+            School of Education, University of Colorado at Boulder
+                           Boulder, CO 80309-0249
+                          Telephone: 303-735-5290
+                              Fax: 303-492-7090
+
+                             Email: NEPC@colorado.edu
+                             http://nepc.colorado.edu
+
+
+
+
+          This is one of a series of briefs made possible in part by funding from
+              The Great Lakes Center for Education Research and Practice.
+
+
+
+
+                           http://www.greatlakescenter.org
+                        GreatLakesCenter@greatlakescenter.org
+Kevin Welner
+Editor
+
+Patricia Hinchey
+Academic Editor
+
+William Mathis
+Managing Director
+
+Erik Gunn
+Managing Editor
+Briefs published by the National Education Policy Center (NEPC) are blind peer-reviewed by members of
+the Editorial Review Board. Visit http://nepc.colorado.edu to find all of these briefs. For information on
+the editorial board and its members, visit: http://nepc.colorado.edu/editorial-board.
+
+Publishing Director: Alex Molnar
+
+
+
+Suggested Citation:
+Howley, C., Johnson, J., & Petrie, J. (2011). Consolidation of Schools and Districts:What the Research
+Says and What It Means. Boulder, CO: National Education Policy Center. Retrieved [date] from
+http://nepc.colorado.edu/publication/consolidation-schools-districts.
+ C ONSOLIDATION OF S CH OOLS AND D ISTRIC TS :
+W H AT THE R ESEARCH S AYS AND W HAT I T M EANS
+       Craig Howley, Jerry Johnson, and Jennifer Petrie, Ohio University
+
+
+
+
+                               Executive Summary
+Arguments for consolidation, which merges schools or districts and centralizes their
+management, rest primarily on two presumed benefits: (1) fiscal efficiency and (2) higher
+educational quality. The extent of consolidation varies across states due to their
+considerable differences in history, geography, population density, and politics. Because
+economic crises often provoke calls for consolidation as a means of increasing
+government efficiency, the contemporary interest in consolidation is not surprising.
+
+However, the review of research evidence detailed in this brief suggests that a century of
+consolidation has already produced most of the efficiencies obtainable. Indeed, in the
+largest jurisdictions, efficiencies have likely been exceeded—that is, some consolidation
+has produced diseconomies of scale that reduce efficiency. In such cases, deconsolidation
+is more likely to yield benefits than consolidation. Moreover, contemporary research
+does not support claims about the widespread benefits of consolidation. The
+assumptions behind such claims are most often dangerous oversimplifications. For
+example, policymakers may believe “We’ll save money if we reduce the number of
+superintendents by consolidating districts;” however, larger districts need—and usually
+hire—more mid-level administrators. Research also suggests that impoverished regions
+in particular often benefit from smaller schools and districts, and they can suffer
+irreversible damage if consolidation occurs.
+
+For these reasons, decisions to deconsolidate or consolidate districts are best made on a
+case-by-case basis. While state-level consolidation proposals may serve a public relations
+purpose in times of crisis, they are unlikely to be a reliable way to obtain substantive
+fiscal or educational improvement.
+
+
+Recommendations
+
+As is evident in the above summary, findings based on available research suggest that
+decision makers should approach consolidation cautiously. Specifically, we recommend
+that policymakers:
+
+   •   Closely question claims about presumed benefits of consolidation in
+       their state. What reason is there to expect substantial improvements, given that
+       current research suggests that savings for taxpayers, fiscal efficiencies, and
+       curricular improvements are unlikely?
+•   Avoid statewide mandates for consolidation and steer clear of
+    minimum sizes for schools and districts. These always prove arbitrary and
+    often prove unworkable.
+•   Consider other measures to improve fiscal efficiency or educational
+    services. Examples include cooperative purchasing agreements among districts,
+    combined financial services, enhanced roles for Educational Service Agencies,
+    state regulations that take account of the needs of small districts and schools,
+    recruitment and retention of experienced teachers for low-wealth districts,
+    distance learning options for advanced subjects in small rural schools, smaller
+    class sizes for young students, and effective professional development programs.
+•   Investigate deconsolidation as a means of improving fiscal efficiency
+    and improving learning outcomes.
+ C ONSOLIDATION OF S CH OOLS AND D ISTRICTS :
+W H AT THE R ESEARCH S AYS AND W HAT I T M EANS
+
+
+                                     Introduction
+This policy brief has five goals: (1) to explain what consolidation is and what it entails;
+(2) to describe what proponents expect from consolidation; (3) to synthesize the several
+strands of evidence related to both the experience and the results of consolidation; (4) to
+state the major research findings; and, finally, (5) to offer recommendations based on
+the findings.
+
+School and district consolidation have once again been brought to the fore as a timely
+school-reform strategy. This seems to occur whenever state revenues fall. That is
+certainly the current context, with the near-collapse of the world banking system and the
+subsequent and ongoing economic crisis. State legislatures around the nation have been
+urged by various policymakers and state officials to trim the number of school districts
+and schools. Thus a brief examining the relevant research is timely for legislative staff,
+state school leaders, citizens, parents and other interested stakeholders. Recent efforts,
+for instance, have been enacted or proposed in Arizona, Arkansas, Indiana, Kansas,
+Maine, Nebraska, New York, and Vermont.
+
+Because of the way the literature is divided between econometric studies and school
+quality studies, an introductory observation is needed. Econometric studies of district
+consolidation tend not to include the value of important educational contingencies such
+as extracurricular participation rates, parental involvement, and community support.
+These are what economists consider “externalities”—they don’t count in the analysis.
+This tendency is, for example, even evident in the good work of the economists of the
+Duncombe team cited throughout this brief.
+
+
+                              What Is Consolidation?
+Consolidation is a familiar strategy used by business management to reduce costs and
+increase uniformity.1 In education, the term usually refers to (a) combining districts and
+(b) closing schools and sending students from the closed schools to other schools (or
+building a new and larger school).
+
+Although district consolidation is sometimes referred to as “district reorganization” and
+distinguished from school consolidation, this brief follows the common usage of the
+word to refer to combining either schools or districts.2 This is an important point to keep
+in mind and helps explain the presentation of research throughout this brief. With a
+single exception, the recent literature on school consolidation is essentially research on
+school size. This means that the focus is on educational effectiveness rather than
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                1 of 24
+economic efficiency. In contrast, recent research on district consolidation explores the
+reform as an efficiency measure. And the attempts to gain efficiency through district
+consolidation are often through school consolidation—thus the overlap. Accordingly, in
+the discussion that follows, research that is specifically applicable to district
+consolidation (or school consolidation) will be identified as such. Where no distinction is
+made, the discussion applies to the strategy of consolidation in general. As an historical
+note, the efficiencies secured by consolidation were generally intended to improve
+educational inputs that were believed (historically) to lead to improvements in
+educational outcomes. Also, in the early days of consolidation, most schools existed in
+single-school districts, so the distinction between school and district consolidation was
+initially small.
+
+Centralization is a close synonym, referring to the combination of previously separate
+functions or entire enterprises under a single administration. Managers in education
+have often adopted business practices perceived to be successful,3 and consolidation and
+centralization are among the earliest such adoptions.4 Within that context, older
+research—from the 1930s to the 1970s—aimed to discover the benefits of consolidation,
+which had been put on the agenda a decade earlier, around 1920. Benefits were usually
+affirmed by research in that era, which was the time of major consolidation in American
+schooling (see Figures 1 and 2 for trend depictions of change in the number of U.S.
+schools and districts). These benefits included single-grade classes (age-grading),
+specialized subject-matter teachers, more intense professional supervision and
+leadership, and, increasingly, free transportation to and from school.
+
+
+
+
+  140,000
+
+  120,000
+
+  100,000
+
+   80,000                                               Total Number of Public
+                                                        School Districts
+   60,000
+
+   40,000
+
+   20,000
+
+        0
+            1931   1937   1943   1949   1955   1961   1967   1973   1979   1985   1991   1997
+
+
+
+ Figure 1. Total Number of Public School Districts, 1931-19975
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                      2 of 24
+  600,000
+
+
+                   Total Number of Public Schools
+  500,000
+
+                   Total Number of Public School
+  400,000          Students (X 100)
+
+
+  300,000
+
+
+  200,000
+
+
+  100,000
+
+
+        0
+            1869 1879 1889 1899 1909 1919 1929 1939 1949 1959 1969 1979 1989 1999
+
+
+ Figure 2. Total Number of Public Schools, 1869-19996
+
+
+
+Perhaps the most famous report of those decades was James Conant’s 1959 book, The
+American High School Today. Conant argued that high schools needed at least 400
+students in grades K-12 to offer a “comprehensive” curriculum.7 The last major report to
+argue for larger sizes for districts or schools, however, appeared in 1970.8 Since that
+time—that is, subsequent to the aggressive consolidation of the American K-12 system—
+the contemporary research, as a body and almost to a study, has not recommended
+consolidation either to save tax dollars or to improve the outcomes or quality of
+schooling.9 This research literature suggests that consolidation has exceeded the goals
+set by past leaders like Conant. Indeed, in the past 25 years, five state-level studies (in
+Indiana, Louisiana, Michigan, Montana, and North Carolina) reached this conclusion.10
+
+In any case, in both business and schooling, reduction in the “span of control” is the clear
+result of centralization and consolidation. A narrow span of control is generally easier to
+manage than a wide one,11 and by definition school and district consolidation reduces the
+number of administrative units that higher-level managers must deal with: it yields
+fewer schools and districts than formerly prevailed. After school consolidation,
+superintendents have fewer schools to manage, and after district consolidation, State
+Education Agencies have fewer districts to manage. District consolidation does yield
+more schools for a central district office to manage, but consolidated districts often close
+schools, and they often employ or add middle-managers. Very large districts employ
+large central office staffs—a significant diseconomy of scale—for just such a purpose.
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                3 of 24
+For educational and industrial management, both consolidation and centralization have
+evident benefits—but only to a point.12 Just as the well-known endpoint of business
+consolidation is monopoly, extreme school consolidation could potentially produce some
+ill effects associated with lack of competition, as one recent study suggests.13 This
+concern is particularly relevant given the historical record of extensive consolidation and
+the creation of extremely large districts and schools.14
+
+
+                   Recent Developments and Expectations
+Notwithstanding the concerns about consolidation, a number of states have promoted
+wide-scale school and district consolidation in recent years through various combinations
+of incentives, disincentives, and direct policy interventions.15 Offering state funds to build
+new consolidated schools that meet minimum size requirements has been a popular
+inducement in states like Kentucky, West Virginia and Ohio, where many smaller school
+districts have limited fiscal capacity and depend on state dollars for capital construction
+projects.16 Other states (including Idaho, Illinois, Kansas, and New York) have offered
+direct financial inducements to consolidating districts, via one-time incentive grants or
+multi-year commitments, purportedly to cover the costs of consolidating.17
+
+Policy disincentives that make the operation of smaller and community-based schools
+and districts difficult include: (1) facilities construction policies mandating minimum
+enrollments or disallowing renovations of existing structures (in Alabama, Kentucky,
+Ohio, North Carolina, Tennessee, Virginia, and West Virginia, for example), or both;18
+and (2) unfunded mandates related to staffing, curriculum offerings, or graduation
+requirements that result in the need for additional and specialized staffing that smaller
+districts cannot readily afford (as in California, New York and Texas).19 Because the
+trend has been toward larger and larger units, state policies are most often formulated
+with larger schools and districts in mind.
+
+In a more direct approach, Arkansas recently enacted and has actively enforced
+legislation that simply eliminated all districts with enrollments below an arbitrary
+number (350 students), forcing voluntary mergers or forced annexations.20 Similar
+legislation has been debated or is still under consideration in a number of other states.21
+
+Particularly in states with many districts and smaller schools, it seems self-evident that
+reducing the number of schools and districts will reduce administrative costs. Yet as the
+next section demonstrates, research offers remarkably little support for that position.22
+Reforming and improving educational opportunities is a somewhat distant second
+motivation for consolidation, based on the assumption that offering a greater variety of
+courses equates with expanding opportunities for students. However, this once widely
+held belief, made especially popular by Harvard president James Conant, is also
+contradicted by the evidence.23
+
+ Given the combination of an economic downturn (manifested particularly sharply at the
+state level where education is governed and where it often constitutes the largest budget
+item) and the aggressiveness of contemporary education reform, the push for
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                   4 of 24
+consolidation is no surprise. Indeed, consolidation may assume an even higher profile
+across the states if genuine economic recovery remains elusive in the coming months and
+years. But do the empirical assumptions underlying the push find evidentiary support?
+
+
+                                        Evidence
+This section considers reports on the history, experience, and results of consolidation. We
+know that school and district consolidation play a strong public relations role in times of
+crisis (supplying policymakers and educational leaders with ready-made talking points for
+discussions about belt-tightening and school reform, for example). Less obvious, however,
+is whether or not there is good evidence to predict that increasing consolidation is likely to
+improve efficiency and student opportunities—or to save tax dollars in an economic
+emergency. This segment reviews evidence relative to those concerns.
+
+
+History of Consolidation
+
+In the decentralized system of U.S. schooling, organizational variation is substantial.24
+Schools are configured with all sorts of grade levels, and in all sizes from very small
+(several students) to extremely large (up to 5,000). School districts exhibit similar
+variation in size and configuration. Many states, for example, maintain separate
+elementary and high-school districts.25 Hawaii operates just one district (the entire
+state), while Texas operates more than 1,000 districts. Many states maintain hundreds of
+districts; for example, New Jersey, which is geographically small but highly populated,
+maintains more than 600. Not surprisingly, this considerable organizational variation
+has produced notable differences among states with regard to school and district size
+(see Figure 3, which shows state variability for district size only).
+
+Such variation is neither accidental nor permanent. Rather, it reflects ongoing changes
+in population dispersion, adaptation to geography (e.g., island or desert schools), and the
+outcomes of professional, political, and popular struggles.26 As late as 1930, more than
+262,000 public schools enrolled students (compared with 86,470 now), but many of
+these schools existed as the only school in a district. Tens of thousands of dispersed one-
+teacher schools (and one-school districts) were systematically closed between 1930 and
+1960.27 As of the 2008-2009 school year, the U.S. public system operated just 13,879
+districts (housing the 86,470 schools), serving a much larger student population (e.g.,
+about 49 million public school students in 2005, as compared to about 26 million in
+1929) in many more communities and neighborhoods.28 The size of the average district
+increased ten-fold, and the size of the average school increased five-fold.29
+
+Although the historical trajectory has been toward ever-larger schools and districts,
+substantial variability persists within and among states. Originally, the colonies and then
+the young nation had no public education system. Schools were subsequently established
+and governed locally. Evolving legal provisions, however, beginning with 1789
+Constitution’s de facto delegation of educational responsibility to the states, began the
+slow systematization of a public enterprise. Fiscal responsibility throughout the 19th and
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                   5 of 24
+early 20th century, though, remained a substantially local one.30 In many states today, in
+fact, the local share of education funding remains greater than the state share.31
+
+
+
+  45,000
+
+  40,000
+
+  35,000
+
+  30,000
+
+  25,000
+                           Mean School District …
+  20,000
+
+  15,000
+
+  10,000
+
+   5,000
+
+       0
+
+
+
+
+ Figure 3. Average Enrollment (in Regular School Districts) by State, 2008-0932
+
+Note: Hawaii excluded because it is organized as a single district.
+
+
+
+
+Perhaps the major event that enabled the systemic transformation of American
+schooling, and the associated consolidation of districts, was the arrival of the automobile.
+Improved roads and motorized vehicles meant children could be moved over greater
+distances to ever-more-distant “central” schools. Roads and automobiles created widely
+distributed suburbs, especially after the Second World War, and in those years new,
+larger schools were built to serve the suburbs.
+
+In cities, separate school districts were consolidated very early on, starting at least in the
+mid-19th-century. Centralization was similarly regarded as a best practice suitable for
+“scaling up” in rural places and in towns and villages that were becoming more suburban.33
+Not coincidentally, the largest districts operated the largest schools, then as now, both in
+cities and in suburbs: today, the 500 largest school districts are so large that they enroll
+43% of public school students nationwide; the remaining 17,453 enroll the remainder.34
+
+For rural areas, where one-teacher schools were most common, county-level consolidation
+was first proposed in 1922.35 That configuration has been fully realized in some states
+(such as West Virginia), substantially realized in others (such as Virginia), and less
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                  6 of 24
+systemically realized elsewhere. In general, the more impoverished and exploited a rural
+region, the greater the apparent likelihood of county-level consolidation.36 For example,
+although Ohio has hundreds of township-sized districts, county-level consolidations are
+common in its Appalachian region. Historical circumstances have influenced both the
+realization of consolidation and successful resistance to it.37
+
+
+Experience of Consolidation
+
+Reports of subjective experiences with consolidation highlight the variable and even
+contradictory nature of its impact on students, families, educators, and community
+members—particularly according to the individual’s role (as teacher, student, or parent,
+for example) and orientation to the consolidation (that is, affiliation with the receiving
+school or with the closed school).38 One recent study,39 for example, found that students
+adjusted to consolidation somewhat more readily than did teachers and administrators;
+for all three groups, individuals associated with the receiving school reported a less
+negative experience than did those associated with the closed school.
+
+An extensive account40 of West Virginia students and their families depicts the experience
+as inflicting considerable harm. After the school consolidation (closures), students
+attended larger schools where they received less individual attention, endured longer bus
+rides to and from school (and hence longer days), and had fewer opportunities to
+participate in co-curricular and extracurricular activities (a result of both increased
+competition for limited spots and transportation issues). Families’ experiences included
+fewer opportunities to participate in formal school governance roles (as members of site-
+based leadership teams, for example) and increased barriers to participating informally in
+their children’s education: increased travel time, for example, proved a barrier to
+volunteering, visiting classrooms, and taking part in parent-teacher conferences.
+
+As compared to reports of superintendents’ successful leadership of consolidation
+efforts, studies of the experience of district consolidation from community and teacher
+perspectives are rare, yet remain classics in the education literature.41 In contrast to West
+Virginia, one recent inquiry42 that investigated the perceptions of Ohio parents and
+students eight years following a school district consolidation reported overall satisfaction
+with outcomes. Notably in that case, the consolidation resulted from a local decision and
+was not part of a sweeping state mandate.
+
+Accounts of educators suggest that consolidation may result in professional benefits
+(such as improved professional development opportunities, increased salaries and
+enhanced job security), but that it may also result in personal costs (including increased
+stress, loss of confidence and heavier reliance on support networks).43 Accounts of
+educational leaders’ experiences tend to focus on the processes involved and to
+emphasize lessons learned, often offering advice for managing future consolidation
+efforts, most particularly with regard to public relations.44 In general, such accounts
+suggest that negative feelings about consolidation can be mitigated when leaders actively
+attempt to understand community cultures and actively seek to involve parents and
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                 7 of 24
+community members in the process. Needless to say, such consultation and involvement
+is an opportunity for citizens to voice objections, and the process of citizen involvement
+is therefore usually limited, in that it is very carefully managed and contained by
+educational leaders and policymakers.45
+
+
+Results of Consolidation
+
+Even in the early 21st century, consolidation is still promoted as a way to reduce costs
+through economies of scale and to improve teaching and learning. The early waves of
+consolidation did produce arguable improvements: graded schools, special teachers,
+professional administration, and more solid buildings (wooden schools have all but
+disappeared).46 The two purported benefits are, however, potentially contradictory,47
+because economies of scale can undermine teaching and learning. Indeed, the
+originators of consolidation warned that its purpose was not to save money, but to
+improve schools. Ideally, the resources rescued with internal efficiencies (if economies of
+scale are actually obtained) would be redirected to other—possibly better—purposes. It
+was precisely such redirection of resources that early reformers sought and obtained
+with the creation of graded schools, specialized teachers and professional administrators.
+Whether or not these changes improved learning outcomes is unknown, although an
+important new longitudinal study of earnings provides unique historical (1920-1949)
+evidence on the question. It looked at school consolidation and determined that earnings
+for white males in a particular age range were substantially higher in states that had
+sustained smaller schools than in those that did not.48
+
+Research on the effects of contemporary consolidation suggests that new consolidation is
+likely to result in neither greater efficiency nor better instructional outcomes—especially
+when it results from state policy that implements large-scale forced consolidation. The
+window of opportunity for useful state-level efficiencies seems to have closed because the
+desired systemic benefits were substantially realized in earlier consolidation pushes. The
+consolidation strategy seems to have reached the point at which markedly diminished
+returns should be anticipated.
+
+While cost analyses seem to validate predictions of increased fiscal efficiencies resulting
+from some consolidations,49 the opportunities are small and now involve only the smallest
+districts (those enrolling very few students).50 Even if efficiencies somehow cut the costs
+per student in half, the overall benefit to the state would be minimal since the number of
+affected students is so small. Further, the available research comparing pre- and post-
+consolidation expenditures finds that district consolidation does not on average reduce
+educational expenditures.51 Indeed, other studies report increased costs, as operational
+budgets are affected by diseconomies of scale resulting from increased expenditures for
+transportation, operation, management and supervision, security, and guidance.52 Related
+research that predicts the likely result of making schools or districts larger through
+consolidation is more nuanced, indicating that efficiencies can be achieved in some
+expenditure areas and for certain types of schools or districts, but also suggesting caution
+for policymakers pursuing consolidation in the hope of cutting costs.53
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                 8 of 24
+In terms of its influence on teaching and learning, contemporary school consolidation
+efforts often fail to deliver the promised enhancement of academic offerings.54 Even
+when consolidation does produce a wider menu of educational experiences for students,
+evidence suggests that large school and district size negatively affects desirable academic
+outcomes.55 A sizable body of research investigating school size has consistently found
+larger size (after moving beyond the smallest schools) to be associated with reduced rates
+of student participation in co-curricular and extracurricular activities, more dangerous
+school environments, lower graduation rates, lower achievement levels for impoverished
+students, and larger achievement gaps related to poverty, race, and gender.56 In
+particular, moreover, larger district size has been shown to be negatively associated with
+the achievement of impoverished students.57 It is fair to note here that this research is
+correlational; that is, while the studies show that large schools often exhibit these
+negative trends, they do not demonstrate that size itself causes them. In addition, the
+correlations are largest for the most impoverished students. The overall pattern is
+nonetheless clearly negative and is sufficient to raise serious doubts that substantial
+benefits will accrue from making a given school or district larger—especially in terms of
+academic outcomes for poor and minority students. The doubts are much more serious
+for a statewide policy that makes schools and districts larger without regard to or
+allowance for their specific characteristics and constraints.
+
+As noted at the beginning of this discussion, economists’ studies of district consolidation
+tend not to count important educational contingencies. For patrons of school districts,
+however, such contingencies do count in reality. This is true even if no cost, or capital
+value, is easily estimated for them. Indeed, sociologists refer to such things as “cultural
+capital.”58 In this sense, econometric studies of district consolidation can be faulted for
+underestimating the associated costs, and this possible underestimate could be especially
+relevant in the very districts identified as the likeliest candidates for consolidations. As
+previously noted, small district size is associated with higher achievement for poor and
+minority students.59
+
+Still more cause for concern comes from one very recent school-size study by an
+economist that did directly link the effects of changes in size to student achievement.
+This study, which examined “shocks to enrollment” (increases and decreases, via either
+consolidation with another school or by removing grades), found that increasing the size
+of Indiana elementary schools (partly by school consolidations) lowered student
+achievement significantly, with a predictable future economic cost that, according to the
+researcher, far outweighed the marginal fiscal savings of sustaining smaller schools.60
+
+The influence of school and district consolidations on the vitality and well-being of
+communities may be the most dramatic result, if the one least often discussed by
+politicians or education leaders. Put simply, the loss of a school erodes a community’s
+social and economic base—its sense of community, identity and democracy—and the loss
+permanently diminishes the community itself, sometimes to the verge of abandonment.61
+The comparative silence surrounding this issue is likely the result of its frequent rural
+character—the block of affected voters is both numerically small and politically and
+economically insignificant.62
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                9 of 24
+By contrast, massive city systems are still with us, and despite the evident challenges of
+mammoth (and likely diseconomies of) scale and contingent organizational
+dysfunctions, no movement of deconsolidation has seriously arisen.63 This urban legacy
+is only rarely acknowledged to also be an efficiency problem bequeathed by
+consolidation. Possibly the urban consolidation issue is so intertwined with numerous
+other difficult urban legacies (such as racism, economic inequality and environmental
+degradation) that addressing it proves impossible.64
+
+Finally, the results of consolidation need to be understood symbolically as well as
+literally. For instance, whether it plays out at the school level or district level,
+consolidation has both literal and symbolic importance. The literal results are very clear:
+schools and districts get larger. Although district consolidation often results in school
+closures several years down the line,65 it also regularly involves the immediate closing of
+one or more schools. Either way, district consolidation means schools are closed and
+children are sent elsewhere (most often to a different community). For local people, this
+literal result predictably carries substantial symbolic import66 that policymakers must
+understand and take seriously.67
+
+Symbolism aside, the reality is that those consolidations that are most likely to generate
+efficiencies of scale have long been realized, at least according to available state-level
+efforts that have examined the issue systematically.68 In those rare instances where this
+is not the case, it makes more sense to consider school and district consolidation on an
+individual basis, and not as a widespread state mandate.69
+
+An additional argument for making decisions on a case-by-case basis rather than
+through a blanket state policy is that experience has shown markedly different
+consolidation outcomes for communities with markedly different socio-demographic
+characteristics. Specifically, low-wealth and minority populations tend to be inordinately
+and negatively affected by consolidation initiatives.70 Consolidation proposals involving
+low-wealth and minority communities especially need to be very carefully reviewed, with
+community participation strongly cultivated. Similarly, any deconsolidation should be
+done with an eye toward enhancing community and family well-being in poor and
+minority communities.71
+
+
+                   Findings and Policy Recommendations
+Once again we want to stress the historically divided nature of the research on
+consolidation. First, education leaders set an agenda for consolidation, basically closing
+America’s one-teacher schools, but as another part of the movement creating huge urban
+districts and, in many cases, huge suburban districts. Second, between about 1930 and
+1970, research efforts tended to confirm the results of larger size—for instance, longer
+school years, students sorted by age into classrooms, greater professionalism for the role
+of teacher, professional leadership (more principals and superintendents), and
+ultimately a much larger proportion of the population attending high schools. Most of
+these were major historical achievements, but they represent alterations in inputs and
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts               10 of 24
+processes desired by previous generations of reformers—and they have already been
+accomplished. Early consolidations, in other words, achieved efficiencies but did not
+save taxpayer money. Instead they improved inputs and processes—which, though
+desired at the time, cannot be confirmed as having improved outputs that are of interest
+today (e.g., achievement levels or achievement growth).
+
+Achieving more of the same is not what contemporary reformers or policymakers are
+after. And no wonder: the circumstances of the early 21st century are remarkably
+different from those that prevailed in the early 20th century. The current interest in
+smaller schools and districts—in schools and districts that are not so large as to damage
+learning, especially among impoverished students—reflects the changed priorities and
+circumstances because the current generation of reformers is focusing on improving
+outcomes, especially higher achievement. Curiously, so far as the interest in outcomes
+goes, even before the big push for consolidation, education reformers did have some
+research on hand that might have made them more cautious: some of the early 20th
+century school-size researchers studied the key outcome of achievement and, as a result
+of focusing on outcomes instead of inputs and processes, recommended schools that
+were half the size of those recommended by authors of input studies.72
+
+From a contemporary outcomes-based approach, recent studies such as Kuziemko’s
+“shocks-to-enrollment” study73 and Berry’s “school-inflation” study74 are among the most
+revealing, but studies dating from the late 1980s and 1990s showed that larger districts
+and schools lower achievement for students in low-wealth communities.75 Additionally,
+very large districts (those enrolling 15,000 or more students—the 500 largest among all
+17,953 districts in the U.S.) are quite likely to be fiscally inefficient, according to the work
+of the Duncombe team.76 This new wave of studies provides evidence supporting the view
+that consolidation has already proceeded beyond the point of a favorable cost-benefit ratio.
+
+
+Findings
+
+    •   In many places, schools and districts are already too large for fiscal
+        efficiency or educational quality; deconsolidation is more likely than
+        consolidation to achieve substantial efficiencies and yield improved
+        outcomes.
+    •   Financial claims about widespread benefits of consolidation are
+        unsubstantiated by contemporary research about cost savings
+        (mostly, but not exclusively, from research on district consolidation)
+        and learning (mostly, but not exclusively, from school-size research).
+        The assumptions behind such claims are most often dangerous
+        oversimplifications. For example, policymakers may believe “We’ll save money if
+        we reduce the number of superintendents by consolidating districts”; larger
+        districts, however, need—and usually hire—more mid-level administrators.77
+        School closures often result in extra costs due to added expenses of
+        transportation, management, and the like.
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                   11 of 24
+   •   Claims for educational benefits from systematic statewide school and
+       district consolidation are vastly overestimated and have already been
+       maximized. Schools that are too large result in diminished academic and social
+       performance, and some evidence suggests that the same conclusion applies to
+       districts that are too large.
+   •   Which deconsolidations would likely produce improvement can be
+       judged only on a case-by-case basis, with attention to the devilish
+       details that sweeping state policies cannot provide. The same is true for
+       the few consolidations involving very small numbers of administrators, teachers,
+       and students that might seem advisable.
+   •   Impoverished places, in particular, often benefit from smaller schools
+       and districts, and can suffer irreversible damage if consolidation
+       occurs.
+   •   Overall, state-level consolidation proposals appear to serve a public
+       relations purpose in times of fiscal crisis, rather than substantive
+       fiscal or educational purposes.
+
+
+Recommendations
+
+Writing in the Journal of Education Finance in 2002, Jacob Adams and Michael Foster
+gave some good advice to policymakers: “Assume nothing and analyze much when
+considering [consolidation] proposals. Purported benefits of larger organizational units
+do not materialize automatically. Context is important, and issues of efficiency, cost,
+student performance, educational climate, and community relations must be
+addressed.”78
+
+The best available evidence supports this counsel for two fundamental reasons: First, the
+industrial benefits of larger scale were likely fully achieved during the 20th century.
+Remaining efficiencies from consolidation are very likely not systemic, but spotty and
+marginal: the cost-benefit ratio is at best doubtful. Second, the 20th century’s extensive
+consolidation has likely gone too far and has likely violated efficiency requirements,
+thereby producing widespread diseconomies of scale. Moreover, during this expansion,
+consolidation reforms were driven by a different set of circumstances with a state policy
+focus on inputs. Today, however, the reform agenda is focused on higher test scores—and
+consolidation appears to be a very unlikely contributor (and more probably an
+impediment) to improved outcomes.
+
+Given these many consideration, we specifically recommend that policymakers:
+
+   •   Closely question claims about presumed benefits of consolidation in
+       their state. What reason is there to expect substantial improvements, given that
+       current research suggests that savings for taxpayers, fiscal efficiencies, and
+       curricular improvements are unlikely?
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts             12 of 24
+   •   Avoid statewide mandates for consolidation and steer clear of
+       minimum sizes for schools and districts. These always prove arbitrary and
+       often prove unworkable.
+   •   Consider other measures to improve fiscal efficiency or educational
+       services. Examples include cooperative purchasing agreements among districts,
+       combined financial services, enhanced roles for Educational Service Agencies,
+       state regulations that take account of the needs of small districts and schools,
+       recruitment and retention of experienced teachers for low-wealth districts,
+       distance learning options for advanced subjects in small rural schools, smaller
+       class sizes for young students, and effective professional development programs.
+   •   Investigate deconsolidation as a means of improving fiscal efficiency
+       and improving learning outcomes.
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts           13 of 24
+                                          Notes and References
+
+
+
+
+1 Timar, T. & Tyack, D. (1999). The invisible hand of ideology: Perspectives from the history of school governance.
+Denver, CO: Education Commission of the States (ERIC Document Reproduction Service No. ED433609).
+
+2 As subsequent discussion shows, district consolidation often leads to school closures (consolidation). The two
+phenomena can be studied separately, and they have been. More than that, as the discussion shows, they have been
+studied separately in different ways. At root, however, consolidation at all levels centralizes operations and
+management, often in the expectation of improved efficiency, inputs, processes, and outcomes. The American
+national system, for instance, remains far less consolidated than other national systems because a national ministry is
+not in charge of schooling in the U.S. Rather, the authority for schooling still rests with the several states as a
+“reserved” constitutional right of states. Obviously, consolidation to the national (federal) level could become a more
+explicit goal of education reform.
+
+2 Callahan, R. (1962). Education and the cult of efficiency. Chicago: University of Chicago Press.
+
+4 Strang, D. (1987). The administrative transformation of American Education: School district consolidation, 1938-
+1980. Administrative Science Quarterly, 32(3), 352-366.
+
+5 Berry, C. (2004). School inflation. Education Next, 4(4), 56-62.
+
+6 Berry, C. (2004). School inflation. Education Next, 4(4), 56-62.
+
+7 Conant, J. (1959). The American high school today. New York: McGraw-Hill.
+
+8 see Meeker, R. & Weiler, D. (1970). A new school for the cities. Santa Monica, CA: System Development
+Corporation. Retrieved from ERIC database. (ED104977); Gregory (2000) claims that Meeker and Weiler (1970) was
+the last such report; see School reform and the no-man's-land of high school size. Retrieved from ERIC database.
+(ED451981).
+
+9 Current research is conducted with more careful methods and with greater safeguards against statistical bias than
+was the case for the earlier studies—this is a matter of progress in research methods. In general, we tend to agree that
+consolidation has indeed succeeded; recent research (Duncombe and colleagues—cited later) tends to show that many
+districts are far too large to be fiscally efficient. The consolidation agenda has likely over-reached its aims, in this
+view.
+
+10 See (1) Coulson, A. (2007). School district consolidation, size, and spending: An evaluation. Midland, MI:
+Mackinac Center for Public Policy. Retrieved January 28, 2011, from
+http://www.mackinac.org/archives/2007/s2007-06.pdf;
+(2) Louisiana Department of Education (2003). Small school districts and economies of scale. Baton Rouge, LA:
+Author. Retrieved January 28, 2011, from
+http://www.louisianaschools.net/lde/uploads/3475.pdf;
+(3) Schwinden, T. & Brannon, L. (1993). School reorganization in Montana: A time for decision. Helena, MT:
+Montana School Boards Association. Retrieved from ERIC database. (ED444769);
+(4) Spradlin, T., Carson, F., Hess, S., & Plucker, J. (2010). Revisiting school district consolidation issues (Education
+Policy Brief). Bloomington, IN: Center for Evaluation and Education Policy, Indiana University. Retrieved January
+28, 2011, from
+http://www.indiana.edu/~ceep/projects/PDF/PB_V8N3_Summer_2010_EPB.pdf;
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                  14 of 24
+and (5) Sher, J. (1986). Heavy meddle: A critique of the North Carolina Department of Public Instruction's plan to
+mandate school district mergers throughout the state. Raleigh, NC: North Carolina School Boards Association.
+(ERIC Document Number ED270245).
+
+11 Gulick, L. & Urwick, L. (Eds.). (1937). Papers on the science of administration. New York: Institute of Public
+Administration.
+
+12 In education, see, for example:
+Ornstein, A. C. (1993). School consolidation vs. decentralization: Trends, issues, and questions. Urban Review, 25(2),
+167-74;
+and Bjork, L. G. & Blase, J. (2009). The micropolitics of school district decentralization. Educational Assessment,
+Evaluation and Accountability, 21(3), 195-208.
+
+13 Brasington, D. (2003). Size and school district consolidation: Do opposites attract? Economica, 70, 673-690.
+Brasington argues that school consolidation tends to reduce school quality by reducing competition among schools.
+
+14 See, for example, Lee, V. & Smith, J. (1997). High school size: Which works best, and for whom? Educational
+Evaluation and Policy Analysis, 19(3), 205-227. Lee and Smith argue that high schools enrolling 600-900 students.
+Metropolitan high schools are very often much larger than 900 students 9-12.
+See also Brasington, D. (2003). Size and school district consolidation: Do opposites attract? Economica, 70, 673-690.
+
+15 Buchanan, B. (2004, July). What consolidation could mean for your district. American School Board Journal,
+191(7), 1-18.
+New York State Commission on Local Government Efficiency and Competitiveness (2008). School district
+consolidation in other states. Albany: Author. Retrieved January 28, 2011, from
+http://www.nyslocalgov.org/pdf/School_District_Consolidation_in_Other_States.pdf.
+Rural School and Community Trust. (2006, March); Anything but research-based: State initiatives to consolidate
+schools and districts. Rural Policy Matters. Retrieved January 28, 2011, from
+http://www.ruraledu.org/articles.php?id=2034.
+
+16 Hughes, B. (2003). Surviving closings and consolidations. School Administrator, 60(7), 16-18;
+Richard, A. (2005, November 24). West Virginia Governor cool to school consolidation. Education Week, 24(31), 28,
+36.
+
+17 Rodine, K. (2010, October 3). Idaho school districts consolidations are often discussed, rarely embraced. Idaho
+Statesman. Retrieved January 28, 2011, from
+http://www.idahostatesman.com/2010/10/03/1365005/school-mergers-often-discussed.html;
+Ryden, K. (2010, October 22). School boards learn consolidation brings financial incentives. The Daily Register.
+Retrieved January 28, 2011, from
+http://www.dailyregister.com/newsnow/x2030537011/School-boards-learn-consolidation-brings-financial-
+incentives;
+Tonn, J. (2007, March 28). Savings from school consolidation plans uncertain. Education Week, 26(29), 10;
+Yount, L. & Mann, F. (2010, February 14). Report: Savings from school district consolidation not as great as thought.
+Wichita Eagle. Retrieved January 28, 2011, from
+http://www.kansas.com/2010/02/14/1180733/report-savings-from-school-district.html.
+
+18Lawrence, B.K. (2001, June 23) as cited in Howley, C. (2002) Small schools. In A. Molnar (Ed.) School reform
+proposals: The research evidence. Boulder, CO: National Education Policy Center. Retrieved December 30, 2010,
+from
+http://nepc.colorado.edu/publication/school-reform-proposals-the-research-evidence.
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                15 of 24
+19 Association of California School Administrators. (2008). State sued over unfunded mandates. Sacramento, CA:
+Author. Retrieved January 28, 2011, from
+http://www.acsa.org/FunctionalMenuCategories/AboutACSA/Councils/Superintendency/Statesuedoverunfundedma
+ndates.aspx;
+Boulat, E. (2010, July 30). Are unfunded mandates suffocating our public schools? Rivertowns Patch. Retrieved
+January 28, 2011, from
+http://rivertowns.patch.com/articles/are-unfunded-mandates-suffocating-our-public-schools;
+Kappes, H. (2010, May 30). Schools seek help on unfunded state mandates. Galveston County Daily News. Retrieved
+January 28, 2011, from
+http://galvestondailynews.com/story/157437.
+
+20 Office for Education Policy. (2010, September 15). Act 60: The past, present, and future of school consolidation in
+Arkansas. Fayetteville, AR: University of Arkansas. Retrieved January 28, 2011, from
+http://www.uark.edu/ua/oep/policy_briefs/2010/Consolidation.pdf.
+
+21 For an unusually thoughtful report of a North Carolina example from the 1980s, see
+Sher, J. (1986). Heavy meddle: A critique of the North Carolina Department of Public Instruction's plan to mandate
+school district mergers throughout the state. Raleigh, NC: North Carolina School Boards Association. (ERIC
+Document Number ED270245);
+for a list of state actions as of summer 2010, see
+Spradlin, T., Carson, F., Hess, S., & Plucker, J. (2010). Revisiting school district consolidation issues (Education
+Policy Brief). Bloomington, IN: Center for Evaluation and Education Policy, Indiana University. Retrieved January
+28, 2011, from
+http://www.ceep.indiana.edu/projects/PDF/PB_V8N3_Summer_2010_EPB.pdf.
+
+22 Actual research literature offers little in the way of empirical support for what otherwise seems so self-evident, as
+described later in this brief.
+
+23 Conant, J. (1959). The American high school today. New York: McGraw-Hill.
+The contrary evidence is given by David Monk and colleagues in the following excellent studies:
+Monk, D. & Haller, E. (1993). Predictors of high school academic course offerings: The role of school size. American
+Educational Research Journal, 30(1), 3-21;
+Haller, E., Monk, D., Bear, A., Griffith, J., & Moss, P. (1990). School size and program comprehensiveness: Evidence
+from high school and beyond. Educational Evaluation and Policy Analysis, 12(2), 109-120.
+
+24 Ready, D., Lee, V. & Welner, K. G. (2004). Educational equity and school structure: School size, overcrowding, and
+schools-within-schools. Teachers College Record, 106(10), 1989-2014.
+
+25 Consolidating elementary and high school districts has been on the agenda in Arizona recently, but many other
+states (e.g., Nebraska and New Jersey) also maintain elementary-only districts and “regional high school districts”
+(e.g., New Jersey).
+
+26 DeYoung, A., & Howley, C. (1992). The political economy of rural school consolidation. Peabody Journal of
+Education, 67(4), 63-89;
+Strang, D. (1987). The administrative transformation of American Education: School district consolidation, 1938-
+1980. Administrative Science Quarterly, 32(3), 352-366;
+Tyack, David (1974). The one best system. Cambridge, MA: Harvard University Press.
+Policy in this realm has seldom, if ever, been based on scientific—or even systematic—knowledge.
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                  16 of 24
+27 U.S. Department of Commerce. (1960). Public school systems in 1960. Washington, DC: Author.
+The Department reported a decrease of 20 percent from 1958 to 1960 alone, and estimated that the 1960 figure
+represented a two-thirds decline since 1942.
+
+28 Data on schools and districts from 2008-2009 Common Core of Data (CCD), delimited to regular schools and LEA
+code 1 and 2 (Local School District and Local School District component of a supervisory union). CCD data are
+available from the National Center for Education Statistics at
+http://nces.ed.gov/ccd/ccddata.asp.
+Current enrollment data from U.S. Department of Education. (2005). Digest of education statistics. Washington, DC;
+Author. Retrieved January 28, 2011, from
+http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2006030.
+Historical data from Snyder, T. (Ed.). (1993). 120 years of American education: A statistical portrait. Washington,
+DC: National Center for Education Statistics, U.S. Department of Education. Retrieved January 28, 2011, from
+http://nces.ed.gov/pubs93/93442.pdf.
+
+29 Lawrence, B., Bingler, S., Diamond, B., Hill, B., Hoffman, J., Howley, C., Mitchell, S., et al. (2003). Dollars and
+sense: The cost effectiveness of small schools. Retrieved January 28, 2011, from
+http://www.ruraledu.org/user_uploads/file/Dollars_and_Sense.pdf.
+
+30 Strang, D. (1987). The administrative transformation of American Education: School district consolidation, 1938-
+1980. Administrative Science Quarterly, 32(3), 352-366;
+Tyack, D. (1974). The one best system. Cambridge, MA: Harvard University Press.
+
+31 Total general funds derived from local sources exceeds total general funds derived from state sources in 22 states
+(in order from the lowest proportional state contribution, starting at 33%: MO, IL, NV, NE, PA, SD, NH, CT, ND, NJ,
+RI, FL, VA, MA, MD, CO, NY, ME, OH, TX, IA, GA). Computed by the authors from 2008-2009 Common Core of
+Data (CCD), delimited to LEA code 1 and 2 (Local School District and Local School District component of a
+supervisory union). CCD data are available from the National Center for Education Statistics at
+http://nces.ed.gov/ccd/ccddata.asp.
+
+32 Computed by the authors from 2008-09 Common Core of Data (CCD), delimited to regular schools and LEA code
+1 and 2 (Local School District and Local School District component of a supervisory union) and excluding Hawaii
+(which operates as single district). Puerto Rico, a U.S. territory that has not become a state, also operates as a single
+school district.
+
+33 Tyack, D. (1974). The one best system. Cambridge, MA: Harvard University Press.
+
+34 See U.S. Department of Education. (2010). Characteristics of the 100 largest public elementary and secondary
+school districts in the United States: 2008-2009. Washington, DC: Author. Retrieved January 28, 2011, from
+http://nces.ed.gov/pubs2011/2011301.pdf;
+enrollment in these districts ranged from 16,000 students (smallest of the 500) to about 1 million students (New York
+City).
+For an earlier and more scholarly analysis see
+Ornstein, A. C. (1993). School consolidation vs. decentralization: Trends, issues, and questions. Urban Review, 25(2),
+167-74.
+Using 1988 data, Ornstein reported that though 1% of the nation’s school districts enrolled at least 25,000 students,
+these districts accounted for 28% of all enrollments.
+
+35 Cubberley, E. (1922). Rural life and education: A study of the rural-school problem as a phase of the rural-life
+problem. Boston, MA: Houghton Mifflin. (ERIC Document No. ED392559).
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                   17 of 24
+36 We are not aware of any empirical research that confirms this claim, which is based on the authors’ personal
+experience in Arkansas, West Virginia, Kentucky, and Ohio.
+
+37 Full support of this claim cannot be given due to space limitations. For relevant scholarly detail see
+(1) DeYoung, A. J. (1995). The life and death of a rural American high school: Farewell Little Kanawha. New York:
+Garland;
+(2) Strang, D. (1987). The administrative transformation of American Education: School district consolidation, 1938-
+1980 Administrative Science Quarterly, 32(3), 352-366;
+(3) Tyack, David (1974). The one best system. Cambridge, MA: Harvard University Press.
+For sharply contrasting views, eastern and western, in original source documents, see
+(1) Cubberley, E. (1922). Rural life and education: A study of the rural-school problem as a phase of the rural-life
+problem. Boston, MA: Houghton Mifflin. (ERIC Document No. ED392559) [eastern]
+and (2) Kennedy, J. (1915). Rural life and the rural school. New York: American Book Company. Retrieved from
+ERIC database. (ED392531).
+
+38 Reports of administrators who have successfully consolidated schools, for instance, are very common in the
+literature; they typically contain advice on how to close schools and reorganize districts. These sorts of reports have
+value, but their evidence is always personal and very local. The individual actors take committed positions and have
+experiences that result from those commitments. These commitments, moreover, are not usually formed on the basis
+of evidence, but on the basis of interest. The interests of community members opposing a closure and a
+superintendent pushing it through are, of course, very different—and so their accounts, too, are dramatically
+different. In short, though valuable as reports of experience, the basis of evidence behind the reports is very slender.
+Additionally, the pre-existing commitments and the nature of the experiences preclude the skepticism that actual
+research requires. The accounts are, in general, quite properly biased—and most are not research.
+
+39 Nitta, K., Holley, M., & Wrobel, S. (2010). A phenomenological study of rural school consolidation. Journal of
+Research in Rural Education, 25(2), 1-19. Retrieved January 28, 2011, from
+http://www.jrre.psu.edu/articles/25-2.pdf.
+
+40 Eyre, E. & Finn, S. (2002, August-October). Closing Costs: School Consolidation in West Virginia. Charleston
+Gazette.
+
+41 See, e.g.,
+(1) DeYoung, A. (1995). The life and death of a rural American high school: Farewell, Little Kanawha. New York:
+Garland;
+(2) Peshkin, A. (1982). The imperfect union. Chicago: University of Chicago Press.
+
+42 Self, T.L. (2001, October). Post-consolidation evaluation: The effects eight years later. Paper presented at the
+Annual Meeting of the Mid-Western Educational Research Association, Chicago, IL.
+
+43 Nitta, K., Holley, M., & Wrobel, S. (2010). A phenomenological study of rural school consolidation. Journal of
+Research in Rural Education, 25(2), 1-19. Retrieved January 28, 2011, from
+http://www.jrre.psu.edu/articles/25-2.pdf.
+Nitta and colleagues cite two studies for this claim:
+Kiracou, C. & Harriman, P. (1993). Stress-busting for teachers. Cheltenham, UK: Nelson Thornes Ltd.;
+and McHugh, M. & Kyle, M. (1993). School Merger: A stressful challenge? School Organization, 13(1), 3-21.
+
+44 Chance, E., & Cummins, C. (1998). School/community survival: Successful strategies used in rural school district
+consolidations. Rural Educator, 20(2), 1-7;
+Ward, J.G., & Rink, F.J. (1992). Analysis of local stakeholder opposition to school district consolidation: An
+application of interpretive theory to public policy making. Journal of Research in Rural Education, 8(2), 11-19.
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                 18 of 24
+45 Maine recently mandated widespread consolidation, with districts given the option of selecting “partners” for
+consolidation. Though the goal was to reduce the number of districts from 290 to 80, as of May 2010, 215 districts
+persist. See
+Cronin, J. (2010). A case study of school district consolidation, School Administrator, 67, 19-23.
+In Kentucky, when members of the Harlan County School District’s Local Facilities Planning Committee (a decision-
+making body established as part of the Kentucky Education Reform Act and tasked with making recommendations
+regarding capital construction projects) was unable to reach the required super-majority to approve a plan to
+consolidate its three high schools, the state Board of Education simply overruled them. See
+Johnson, J. (2007). School size, social justice, and conflicting state objectives: An investigation of achievement
+distributions among Kentucky public schools. Education Leadership Review, 8(1), 51-64.
+
+46 We have, however, occasionally seen modern wooden school buildings on our travels in rural places.
+
+47 The contradiction lies in the professional intention, as Cubberley (1922) insisted it ought, that consolidation would
+redirect available funds to more educationally productive purposes, rather than reducing taxes. See
+Cubberley, E. (1922). Rural life and education: A study of the rural-school problem as a phase of the rural-life
+problem. Boston, MA: Houghton Mifflin. (ERIC Document No. ED392559)
+
+48 Berry, C. (2004). School inflation. Education Next, 4(4), 56-62.
+For the academic version of this study, see
+Berry, C., & West, M. (2007). Growing pains: The school consolidation movement and student outcomes (Harris
+School Working Paper Series 07.03). Chicago: Harris School, University of Chicago.
+Economists and many others argue that returns-to-education (income) are the ultimate educational outcome. This
+rare historical-economic analysis examines the school-size-related returns to education for white males born between
+1920 and 1949. No similar study exists in the literature.
+
+49 Andrews, M. Duncombe, W. & Yinger, J. (2002). Revisiting economies of size in American Education: Are we any
+closer to a consensus? Economics of Education Review, 3(21), 245-262;
+Dumcombe, W. & Yinger, J. (2005, January). Does school district consolidation cut costs? Syracuse, NY: Center for
+Policy Research, Maxwell School of Citizenship and Public Affairs. Retrieved January 28, 2011, from
+http://www.njleg.state.nj.us/propertytaxsession/opi/does_school.pdf.
+
+50 Results vary somewhat by state, but the advantages are generally realized in consolidating districts that are quite
+small by contemporary standards. Zimmer and colleagues (2009, p. 111) found that district enrollment levels in
+Indiana within 5% of optimum cost enrolled from just 547 students to 6,889 students. Larger districts are almost as
+inefficient as very small ones—but they enroll far, far more students than districts with fewer than 547 students, so
+the absolute magnitude of the associated diseconomies actually does have arguable statewide significance in Indiana.
+As Duncombe & Yinger (2010, p. 13) observe in the case of New York, “Even though consolidation-induced cost
+savings may be large for an individual district, they are inevitably small for the state as a whole because only the
+smallest districts in the state are involved.” See
+Duncombe, W. & Yinger, J. (2010). School district consolidation: The benefits and costs. The School Administrator,
+67(5), 10-17.
+
+51 Cox, B. & Cox, B. (2010). A decade of results: A case for school district consolidation? Education, 131(1), 83-92;
+Groan, R., & Murray, V. (2004). Competition or consolidation? The school district consolidation debate revisited.
+Center for Educational Opportunity. Goldwater Institute Policy Report # 89. Retrieved January 28, 2011, from
+http://www.goldwaterinstitute.org/Common/Files/Multimedia/401.pdf;
+Streifel, J.S., Foldesy, G., & Holman, D.M. (1991). The financial effects of consolidation. Journal of Research in Rural
+Education, 7(2), 13-20.
+A conservative position on expenditures is to accept what researchers call the “null hypothesis”—that is, on average,
+no significant difference in expenditures pre- and post-consolidation. Single cases, as always, can be exceptions to the
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                 19 of 24
+general state of affairs. In a 2007 article about New York’s consolidation from 1985-1997, Duncombe and Yinger
+answered the question “Does it cut costs?” with a yes—but only for the smallest New York districts. Further, they
+found that among the associated adjustment costs were some, especially capital expenditures, that steeply reduced
+the “savings”—dramatically so in the case of combining two 1,500 student districts to produce one 3,000-student
+district. See
+Duncombe, W. & Yinger, J. (2007). Does school district consolidation cut costs? Education Finance and Policy, 2(4),
+341-375.
+
+52 Coulson, A. (2007). Savings from school district consolidation would be limited and difficult to capture, study
+finds. Mackinac Center for Public Policy. Retrieved January 28, 2011, from
+http://www.mackinac.org/article.aspx?ID=8618.
+See also:
+(1) Andrews, M. Duncombe, W. & Yinger, J. (2002). Revisiting economies of size in American Education: Are we any
+closer to a consensus? Economics of Education Review, 3(21), 245-262,
+and (2) Duncombe, W. & Yinger, J. (2010). School district consolidation: The benefits and costs. The School
+Administrator, 67(5), 10-17.
+Andrews and colleagues conclude that cost efficiencies are maximized in districts at about 2,000-4,000 students and
+that “sizeable diseconomies of size may begin to emerge for districts above 15,000 students” (p. 246). In 2008-2009,
+about 4% (n=500) of all U.S. regular school districts had enrollments of 15,000 or more. As noted elsewhere, those
+500 districts enrolled 43% of all students in the nation. See
+U.S. Department of Education. (2010). Characteristics of the 100 largest public elementary and secondary school
+districts in the United States: 2008-2009. Washington, DC: Author. Retrieved January 28. 2011, from
+http://nces.ed.gov/pubs2011/2011301.pdf.
+
+53 Alpsaugh, J. (1994). The relationship between school size, student teacher ratio, and school efficiency. Education,
+114, 593-597.
+Andrews, M. Duncombe, W. & Yinger, J. (2002). Revisiting economies of size in American Education: Are we any
+closer to a consensus? Economics of Education Review, 3(21), 245-262.
+
+54 For example, consolidated schools in West Virginia failed to fulfill their promises of maintaining AP courses and
+foreign language courses; see
+Eyre, E. & Finn, S. (2002, August-October). Closing Costs: School Consolidation in West Virginia. Charleston
+Gazette.
+
+55 Monk, D., & Haller, E. (1993). Predictors of high school academic course offerings: The role of school size.
+American Educational Research Journal, 30(1), 3-21. Monk’s work shows that high schools of 400 students are
+sufficiently large offer a comprehensive curriculum (recall that 400 was Conant’s advised minimum size for
+comprehensive high schools), but that smaller schools can focus on academics and provide excellent offerings. Too
+often, Monk shows, large size results in the proliferation of remedial courses, which can be understood as setting up a
+system of low expectations. One might theorize that larger high schools widen achievement gaps in just this way (that
+is, by tracking low-achieving students into increasingly lower comparative levels of achievement). More recent work
+includes the following:
+(1) Johnson, J. (2006). More doesn't mean better: Larger high schools and more course offerings do not boost
+student achievement in Iowa. Arlington, VA: The Rural School and Community Trust. (ERIC Document
+Reproduction Service No. ED497981);
+(2) Lee, V. E., Croninger, R. G., & Smith, J. B. (1997). Course-taking, equity, and mathematics learning: Testing the
+constrained curriculum hypothesis in U.S. secondary schools. Educational Evaluation and Policy Analysis, 19(2), 99-
+121;
+(3) Uerling, D. F. & Dlugosh, L. (1999). Selected indicators of a quality high school: program offerings and student
+participation. Paper Presented at the 8th Annual Conference on Creating Quality Schools in Memphis, TN.
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                               20 of 24
+56 Cotton, K. (1996). Affective and social benefits of small-scale schooling. Charleston, WV: ERIC Clearinghouse on
+Rural Education and Small Schools. (ERIC Document Reproduction Service No. ED401088).
+Bickel, R. & Howley, C. (2000). The influence of scale on student performance: A multi-level extension of the
+Matthew principle. Educational Policy Analysis Archives, 8(22). Retrieved January 28. 2011, from
+http://epaa.asu.edu/epaa/v8n22/;
+Howley, C. & Howley, A. (2004). School size and the influence of socioeconomic status on student achievement:
+Confronting the threat of size bias in national data sets. Educational Policy Analysis Archives, 12(52). Retrieved
+January 28. 2011, from
+http://epaa.asu.edu/epaa/v12n52/;
+Johnson, J. (2007). School size, social justice, and conflicting state objectives: An investigation of achievement
+distributions among Kentucky public schools. Education Leadership Review, 8(1), 51-64;
+Klein, R. & Johnson, J. (2010, October). On the use of locale in understanding the mathematics achievement gap. In
+P. Brosnan (Ed.), Proceedings of the 32nd Annual Meeting of the North American Chapter of the International
+Group for the Psychology of Mathematics Education. Columbus, Ohio: PMENA;
+Pittman, R.B. & Haughwout, P. (1987). Influence of high school size on dropout rate. Educational Evaluation and
+Policy Analysis, 9(4), 337-343;
+Raywid, M.A. (1999). Current literature on small schools. Charleston, WV: ERIC Clearinghouse on Rural Education
+and Small Schools. (ERIC Document Reproduction Service No. ED425049).
+
+57 See, e.g.,
+(1) Bickel, R., & Howley, C. (2000). The influence of scale on school performance: A multilevel extension of the
+Matthew principle. Education Policy Analysis Archives., 8(22). Retrieved January 28. 2011, from
+http://epaa.asu.edu/epaa/v8n22/;
+(2) Friedkin, N., & Necochea, J. (1988). School system size and performance: A contingency perspective. Educational
+Evaluation and Policy Analysis, 10(3), 237-249.;
+(3) Howley, C. (1996). Compounding disadvantage: The effects of school and district size on student achievement in
+West Virginia. Journal of Research in Rural Education, 12(1), 25-32.
+
+58 See, e.g.,
+(1) Coleman, J. (1988). Social capital in the development of human capital: The ambiguous position of private
+schools;
+(2) Putnam, R. (2000). Bowling alone: The collapse and revival of American community. New York: Simon &
+Schuster.
+
+59 For the classic account of such damage in several small districts, see
+Peshkin, A. (1982). The imperfect union. Chicago: University of Chicago Press. For the achievement costs, see above.
+
+60 Kuziemko, I. (2006). Using shocks to school enrollment to estimate the effect of school size on student
+achievement. Economics of Education Review, 25(1), 63-75.
+Kuziemko calculates the cost-benefit figures for decreasing the size of elementary schools by a full 50%. On the basis
+of her model (pp. 72-73), which includes the cost of constructing and financing many thousands of new schools, the
+estimated net per-pupil return to this investment would be about $3,300.
+
+61 For an empirical study of these phenomena, see
+Lyson, T. (2002). What does a school mean to a community? Assessing the social and economic benefits of schools to
+rural villages in New York. Journal of Research in Rural Education, 17(3), 131-137;
+for a fictional rendering, see
+Berry, W. (2001). Jayber Crow. Washington, DC: Counterpoint.
+The classic study, again, is
+Peshkin, A. (1982). The imperfect union. Chicago: University of Chicago Press. .
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                21 of 24
+62 Some policymakers and educators argue that the well-being of local communities. should not concern public
+schooling; see, for example, the perspective presented by the superintendent in
+DeYoung, A.J. (1995). The life and death of a rural American high school: Farewell Little Kanawha. New York:
+Garland.
+
+63 The conclusions of the best and most current review—Andrews, M. Duncombe, W. & Yinger, J. (2002)—directly
+warrant this inference: such systems are far beyond the sizes at which efficiency is maximized. Diseconomies of large
+systems include increased expenditures for transportation (greatest in rural areas), for additional levels of central
+office management, specialized positions such as guidance and counseling, and security. In smaller systems,
+according to one hypothesis, the typically unacknowledged and un-costed social capital of parent and community
+involvement and support provides the related goods and services in small systems. Coulson, in a Michigan study,
+estimated that the projected “savings” from deconsolidation of very large districts in that state would exceed by 12
+times the projected “savings” from consolidating small districts; see
+Coulson, A. (2007). School district consolidation, size, and spending: An evaluation. Midland, MI: Mackinac Center
+for Public Policy. Retrieved January 28. 2011, from
+http://www.mackinac.org/archives/2007/s2007-06.pdf.
+
+64 Deconsolidation has rarely if ever been attempted, even in rural districts, and though urban decentralization
+schemes of one sort and another have been adopted, they cannot address issues related to diseconomies of scale
+simply because they do not alter district operational scale. Decentralization is perhaps the district-level practice
+analogous to the creation of schools-within-schools in schools that are too large. Both are after-the-fact attempts to
+undo the disadvantages of huge scale. Neither has proven very effective. See, e.g.,
+Lee, V., & Ready, D. (2007). Schools within schools: Possibilities and pitfalls of high school reform. New York:
+Teachers College Press.
+
+65 Whether or not policymakers intentionally deploy district consolidation as a shoehorn for school consolidation (as
+some community activists believe), the empirical fact is that school closings regularly follow from district
+consolidations.
+
+66 The classic study of what closures mean to a community is Alan Peshkin’s Imperfect Union, which documented a
+decades-long struggle for both district de-consolidation and keeping schools open.
+Peshkin, A. (1982). The Imperfect Union. Chicago: University of Chicago Press.
+See also DeYoung, A. (1995). The life and death of a rural American high school: Farewell, Little Kanawha. New
+York: Garland.
+
+67 In the view of the authors of this brief, the chief utility of consolidation proposals is not improved efficiency or
+improved education, but improvement in public relations for the state—which is a symbolic purpose. Sticking with the
+symbolic rather than the literal results (which are at best dubious), if the public relations strategy produces
+substantial backlash, even the symbolic state purpose in floating the proposals fails. See
+DeYoung, A., & Howley, C. (1992). The political economy of rural school consolidation. Peabody Journal of
+Education, 67(4), 63-89.
+
+68 State-level investigations of the benefits of consolidation in recent years have concluded the benefits were vastly
+exaggerated. See
+(1) Coulson, A. (2007). School district consolidation, size, and spending: An evaluation. Midland, MI: Mackinac
+Center for Public Policy. Retrieved January 28. 2011, from
+http://www.mackinac.org/archives/2007/s2007-06.pdf;
+(2) Louisiana Department of Education. (2003). Small school districts and economies of scale. Baton Rouge, LA:
+Author. Retrieved January 28. 2011, from
+http://www.doe.state.la.us/lde/uploads/3475.pdf;
+(3) Schwinden, T., & Brannon, L. (1993). School reorganization in Montana: A time for decision. Helena, MT:
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                 22 of 24
+Montana School Boards Association. Retrieved from ERIC database. (ED444769);
+and (4) Spradlin, T., Carson, F., Hess, S., & Plucker, J. (2010). Revisiting school district consolidation issues
+(Education Policy Brief). Bloomington, IN: Center for Evaluation and Education Policy, Indiana University. Retrieved
+January 28. 2011, from
+http://www.ceep.indiana.edu/ projects/PDF/PB_V8N3_Summer_2010_ EPB.pdf.
+Each of these studies—in quite different states—concludes that very little would be gained by closing remaining small
+schools and districts, many of which exist in sparsely populated areas. The authors of the Louisiana study offer a
+particularly harsh assessment of early research on consolidation, which they call “biased” because, they claim, so
+many of the studies start by intending to prove the benefits of consolidation and larger size. Spradlin and colleagues
+(p. 4) provide a list of 16 recent state-level consolidation proposals across the nation.
+
+69 Though many states likely harbor a few cases where advantages might be predicted for consolidation, each state
+likely offers more promising opportunities to secure efficiency and educational benefits from deconsolidation.
+
+70 In Arkansas, for instance, school consolidation started immediately following implementation of the state law
+mandating district consolidations (immediately, that is, after the conclusion of a one-year moratorium on school
+closings). Johnson showed that (1) nearly all closed schools were ones in districts that went out of existence (and so
+lost their school boards) and (2) both district annexations and school closures were disproportionally forced on low-
+wealth and African-American communities. See Johnson, J. (2006). District reorganization leads to school closures
+in Arkansas, especially in high poverty and African-American Communities. Arlington, VA: The Rural School and
+Community Trust. Retrieved January 28. 2011, from
+http://www.ruraledu.org/articles.php?id=2029;
+Jimerson, L. (2005). The impact of Arkansas Act 60 consolidation on African-American school leadership and the
+racial composition of school districts. Arlington, VA: The Rural School and Community Trust.
+
+71 Such considerations make the dissolution of gargantuan districts in the name of improved efficiency problematic
+indeed precisely because these huge urban districts, on average, enroll students from highly segregated and
+impoverished neighborhoods. The proportion of black and Hispanic students in the 100 largest school districts
+nationally is 63%, and these districts (many of the suburban) also exhibit higher subsidized meal rates than other
+districts; see
+U.S. Department of Education. (2010). Characteristics of the 100 largest public elementary and secondary school
+districts in the United States: 2008-2009. Washington, DC: Author. Retrieved January 28. 2011, from
+http://nces.ed.gov/pubs2011/2011301.pdf.
+
+72 The best summary of this early research is Stemnock, S. (1974). Summary of research on size of schools and school
+districts. Arlington, VA: Educational Research Service.
+
+73 Kuziemko, I. (2006). Using shocks to school enrollment to estimate the effect of school size on student
+achievement. Economics of Education Review, 25(1), 63-75.
+
+74 Berry, C. (2004). School inflation. Education Next, 4(4), 56-62.
+
+75 Andrews, M. Duncombe, W., & Yinger, J. (2002). Revisiting economies of size in American Education: Are we any
+closer to a consensus? Economics of Education Review, 3(21), 245-262.
+Duncombe, W. & Yinger, J. (2005, January). Does school district consolidation cut costs? Syracuse, NY: Center for
+Policy Research, Maxwell School of Citizenship and Public Affairs. Retrieved January 28, 2011, from
+http://www.njleg.state.nj.us/propertytaxsession/opi/does_school.pdf.
+Berry, C. (2004). School inflation. Education Next, 4(4), 56-62. For the academic version of this study, see:
+Berry, C. & West, M. (2007). Growing pains: The school consolidation movement and student outcomes (Harris
+School Working Paper Series 07.03). Chicago: Harris School, University of Chicago.
+Friedkin, N., & Necochea, J. (1988). School system size and performance: A contingency perspective. Educational
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                23 of 24
+Evaluation and Policy Analysis, 10(3), 237-249.
+Howley, C. (2002) Small schools. In A. Molnar (Ed.) School reform proposals: The research evidence. Boulder, CO:
+National Education Policy Center. Retrieved December 30, 2010, from
+http://nepc.colorado.edu/publication/school-reform-proposals-the-research-evidence.
+Kuziemko, I. (2006). Using shocks to school enrollment to estimate the effect of school size on student achievement.
+Economics of Education Review, 25(1), 63-75.
+
+76 See (1) Andrews, M. Duncombe, W., & Yinger, J. (2002). Revisiting economies of size in American Education: Are
+we any closer to a consensus? Economics of Education Review, 3(21), 245-262;
+(2) Dumcombe, W. & Yinger, J. (2005, January). Does school district consolidation cut costs? Syracuse, NY: Center
+for Policy Research, Maxwell School of Citizenship and Public Affairs. Retrieved January 28, 2011, from
+http://www.njleg.state.nj.us/propertytaxsession/opi/does_school.pdf;
+and (3) Duncombe, W. & Yinger, J. (2010). School district consolidation: The benefits and costs. The School
+Administrator, 67(5), 10-17.
+
+77 Again, according to Duncombe and Yinger (2010, p. 13), “Even though consolidation-induced cost savings may be
+large for an individual district, they are inevitably small for the state as a whole because only the smallest districts in
+the state are involved.” The proportionately “large” savings referred to here thus concern the smallest operating
+budgets in a state system. In absolute terms, as Duncombe and Yinger write, the savings are very small. Again, the
+traction from deconsolidation—where very large budgets are concerned—seems more substantial.
+Duncombe, W. & Yinger, J. (2010). School district consolidation: The benefits and costs. The School Administrator,
+67(5), 10-17.
+
+78 Adams, J.E., & Foster, E.M. (2002). District size and state educational costs in Kentucky: Should consolidation
+follow school finance reform. Journal of Education Finance, 27, 833-855.
+
+
+
+
+http://nepc.colorado.edu/publication/consolidation-schools-districts                                    24 of 24
+

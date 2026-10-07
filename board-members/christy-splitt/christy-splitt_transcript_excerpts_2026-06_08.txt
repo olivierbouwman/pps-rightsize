@@ -1,0 +1,122 @@
+Christy Splitt (Zone 1) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. Splitt: moved Res. 7325 and the 'out-of-state' travel sub-amendment; spoke for the OIPA amendment; NO on 7342 ('I can't say that I'm going to be yes on this'); YES on 7326; floated a smaller reserve draw (4-4.75%) but not 3.4%.
+- 2026-07-07 officer election (Engelsman absent): Wang re-elected chair 6-0 (moved by presiding Vice Chair DePass per caption 'And I will move', seconded by Chase-Miller); Chase-Miller elected vice chair 6-0 (moved by Splitt, seconded by Sullivan). On 6/9 the chair announced that Wang AND Engelsman had filed intent to run for chair and Chase-Miller for vice chair; Engelsman withdrew her chair bid on 7/7. Splitt moved Chase-Miller's nomination.
+- 2026-08-04 Engelsman draft resolution 'sports for Creston Elementary graduates attending Hosford MS' (moved by La Forte, seconded by Engelsman) FAILED 1-4-1 (one late abstention; Sullivan apparently absent - no caption references; student rep Sandell no). Individual yes/no/abstain not identifiable from captions; the lone yes was most likely Engelsman (author). Splitt said she was not ready to vote and proposed an athletics appeal process instead.
+
+EXCERPTS
+
+[2026-06-09 Regular Meeting - ACCESS transportation budget trade-offs / other business]
+  time 04:13:04 | https://www.youtube.com/watch?v=YPG-igPVma0&t=15184s
+  source: transcripts/text/2026-06-09_Board_of_Education_Regular_Meeting__YPG-igPVma0.txt
+  attribution: CONFIRMED (superintendent at 04:18:09: "as you suggested director split")
+  topic: layoff/seniority process as future policy/bargaining issue
+  "I would love to um have a better understanding of our layoff process in general. [...] maybe it would be good if somebody who's been working in a school for 11 years in one capacity goes and gets a different license and in a different role and then becomes all of the sudden not protected by seniority"
+
+[2026-06-11 Teaching, Learning & Enrollment Committee - Alternative & Focus Option School overview]
+  time 01:22:23 | https://www.youtube.com/watch?v=SoDAXHeJW3Y&t=4943s
+  source: transcripts/text/2026-06-11_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SoDAXHeJW3Y.txt
+  attribution: PROBABLE (staff noted "Director Split [...] in route"; she joined in person; not the acting chair or student rep; theme matches her 10/6 focus-option concerns)
+  topic: focus-option class sizes
+  "one piece of information that I would have liked to have seen and didn't was just like class size compared to [...] for those schools because I have a sinking suspicion they might have lower class sizes, but I'm not I just don't really know for sure."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 02:27:23 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=8843s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (next speakers: "I share some of Director Splitt's concerns"; La Forte: "what Dr. Split was saying")
+  topic: travel freeze: protect Salem advocacy
+  "I do worry about it preventing people from like going to Salem to advocate [...] I know some people feel really strongly about professional development, and I support that, which is why a 1-year pause doesn't really bother me, because it's just 1 year. [...] taking a year off to me, given our budget dynamic, makes sense."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:20:53 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15653s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (OPB/press: Splitt described her child's teacher being laid off in this turn; personal portion omitted)
+  topic: fiscal cliff; one-time funds
+  "I've testified before I was on the board about protecting student-facing positions at all costs. I remember my predecessor literally talking to me from the dais [...] trying to teach me about fiscal responsibility with fiscal cliffs and one-time spending. Um and we are falling off the fiscal cliff that he referenced."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:22:56 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15776s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: cannot find another $13M; schools-first in principle
+  "I just like don't know where we could cut another $13 million. [...] even though everything in my core is like first do the schools and then do the district office. Like I actually totally agree with that. Like maybe for next year [...] we instead reverse it and say, okay, how much can we possibly give to schools and still be able to like function as a really big, maybe too big school district."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:25:57 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15957s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: house central special-ed administrators in schools
+  "we don't necessarily need to chop from the top, but what if the top actually like were housed in our schools? So that when we had a need there was a sped administrator that worked in the building"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:00:23 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18023s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (chair: "I think we're at director split")
+  topic: reserve options in numbers
+  "I personally, I think I already said I'd be a a no on the base amendment, no disrespect, but I just feel like it's too much. [...] We could go down to 4% reserves and have 8.2 million or do 4 and 1/2 and have 4.1."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:21:39 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=19299s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (self-reference "I did more algebra", continuing her 05:00 math; references her predecessor)
+  topic: small contingent reserve dip only
+  "I would support an amendment that has a small dip into the reserves that isn't guaranteed in the budget [...] for the purpose of adding back staff on like an as need basis [...] I wouldn't support going down to 3.4."
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:25:43 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=19543s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (same turn)
+  topic: Measures 5 & 50; use the next year to fix next year's $65M gap
+  "because of measures 5 and 50, our local governments are extremely cash-strapped. [...] we know we have a $65 million shortfall expected year, like let's spend the next year doing all the things we're talking about doing now, so that it can fix next year's budget"
+
+[2026-07-07 Regular Meeting - board leadership vote]
+  time 00:05:23 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=323s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: PROBABLE (unnamed; "I will never have the experience of being in leadership" fits her not seeking re-election; she moved Chase-Miller's nomination)
+  topic: leadership rotation / concentration of power
+  "while serving for a third year to me feels like not quite in line with what I'd want to see. Like I'd rather see like a more frequent turnover of leadership and less like centralized power among the board members."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:06:19 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=3979s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: CONFIRMED (superintendent: "I appreciate I appreciate that director split")
+  topic: look-back on contract spending vs educators
+  "I think probably a lot of us um have concerns that we may be continuing to invest in contracts for services that are valuable but maybe not as valuable as educators in our classrooms."
+
+[2026-07-07 Regular Meeting - Budget Q&A on PAT savings suggestions]
+  time 01:27:47 | https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=5267s
+  source: transcripts/text/2026-07-07_Board_of_Education_Regular_Meeting__r0e1Cx8ujLs.txt
+  attribution: PROBABLE (follows La Forte; "Thank you for getting mathematical with me" echoes her 6/23 algebra)
+  topic: who bore the cuts: top earners' furloughs/COLA
+  "I know that there was a lot of care put into trying to make sure that the highest income earners had the biggest hit down to the lowest income earners in the district having the lowest hit. But sometimes I'm not sure how well we've told that story."
+
+[2026-08-04 Regular Meeting - SE Enrollment & Program Balancing (SEGC) equity audit / rightsizing update]
+  time 00:52:56 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=3176s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (staff: "thanks for the question, director split")
+  topic: whole-school Spanish DLI: lottery or neighborhood
+  "The school that became in reading the materials, I wasn't quite sure how the school that we're not naming apparently that became a DLI school entirely. Is it lottery or do neighborhood kids just all go into"
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:20:20 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=8420s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (same turn)
+  topic: no 10-kid split feeders in future boundaries
+  "I think it's really important for us to not set up a system where we have 10 kids from an elementary school in each grade going to a different middle school and then coming back to the high school. That's just silly."
+
+[2026-08-04 Regular Meeting - Engelsman draft resolution: sports for Creston graduates at Hosford MS (SEGC split feeder)]
+  time 02:21:21 | https://www.youtube.com/watch?v=-qhL23TOZTs&t=8481s
+  source: transcripts/text/2026-08-04_Board_of_Education_Regular_Meeting__-qhL23TOZTs.txt
+  attribution: CONFIRMED (chair: "Thank you, Director Slit."; Chase-Miller: "like Director Split said")
+  topic: fix the root cause (split assignment) rather than the sports rule
+  "I'm not really that interested in solving this sports problem. I'm more interested in solving the root cause problem which is a very small number of kids being assigned to a different middle school."

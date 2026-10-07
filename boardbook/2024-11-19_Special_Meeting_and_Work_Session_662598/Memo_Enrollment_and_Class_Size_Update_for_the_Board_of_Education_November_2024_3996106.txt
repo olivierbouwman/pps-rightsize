@@ -1,0 +1,374 @@
+                         PORTLAND PUBLIC SCHOOLS
+                         OFFICE OF EQUITY AND ACCOUNTABILITY
+                         501 North Dixon Street / Portland, OR 97227
+                         Telephone: (503) 916-3200
+AUGUST                   Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+Date:         November 8, 2024
+
+To:           Board of Education Directors
+
+CC:           Dr. Kimberlee Armstrong, Superintendent
+
+From:         Renard Adams, Ed.D., Chief Accountability and Equity Officer
+
+Subject:      Enrollment and Class Size Update for November 2024
+
+
+
+This memorandum includes data on enrollment, school staffing, and class sizes based on
+school enrollment. Enrollment data are as of October 1, 2024. Class size and school staffing
+data are as of October 16, 2024.
+
+Each year, Portland Public Schools (PPS) monitors the count of actual students attending
+on October 1st. The October 1st enrollment data is shared with the Portland State
+University Population Research Center to update future enrollment forecasts and
+projections, which are used to forecast enrollment and staff schools for the next school
+year.
+
+Highlights of enrollment and class size data include the following:
+   • PPS’ overall October 1st enrollment for the 2024-2025 school year is 40,718, which
+       represents a decrease of 628 students (1.5%) from the 2023-2024 school year.
+   • Decreases in student enrollment are seen in all grades except grades 3, 6, 8 and 11
+       where enrollment increases are noted.
+   • 48 schools are under their projection and 33 schools are over their projection.
+   • Class sizes across PPS range from 10 students to 33 students.
+   • The average elementary class size is 22.4 students.
+
+
+
+
+                                               1
+Below are the PPS class size maximums that can be used when examining class size
+information:
+
+                                            KG   01    02   03   04    05
+                CSI                         24   26    29   30   33    33
+                Title not CSI               28   30    30   30   33    33
+                Other                       29   31    32   33   34    34
+
+Below are several enrollment and class size graphics to support your understanding of the
+current state of enrollment and class size in PPS.
+
+
+
+
+                                            2
+2024-25 Enrollment Comparison by Grade                                                                As of October 1, 2024
+                                               Actual                                                  Projected
+                                                                                                       Difference
+                                                                                                          from
+                                                    Change from                        2024-25          2024-25
+                    2023-24         2024-25          2023-24 to       Percent         Enrollment      Projection to    Percent
+    Grade           Students        Students          2024-25         change          Projection         Actual       Difference
+      KG                  2,802           2,647               -155         -5.5%              2,897            -250          -8.6%
+      01                  3,012           2,874               -138         -4.6%              2,946             -72          -2.4%
+      02                  3,145           3,008               -137         -4.4%              2,994              14           0.5%
+      03                  3,126           3,159                 33          1.1%              3,149              10           0.3%
+      04                  3,272           3,112               -160         -4.9%              3,113              -1           0.0%
+      05                  3,278           3,224                -54         -1.6%              3,258             -34          -1.0%
+      06                  3,100           3,178                 78          2.5%              3,250             -72          -2.2%
+      07                  3,222           3,094               -128         -4.0%              3,055              39           1.3%
+      08                  3,177           3,229                 52          1.6%              3,175              54           1.7%
+      09                  3,366           3,352                -14         -0.4%              3,248             104           3.2%
+      10                  3,445           3,313               -132         -3.8%              3,305               8           0.2%
+      11                  3,311           3,289                -22         -0.7%              3,274              15           0.5%
+      12                  3,090           3,239                149          4.8%              3,249             -10          -0.3%
+ District Total          41,346          40,718               -628         -1.5%            40,913             -195          -0.5%
+All Actual Enrollment Data are as of the first weekday in October.
+
+Alliance, Charters, CBO's, Headstarts, special programs, and PCC students are excluded from all of the data shown above, including
+Projections.
+
+The Enrollment Projections are provided by the PSU demographer, based on 2023-24 October 1st Enrollment, and adjusted for
+other factors affecting the population.
+2024-25 Enrollment Comparison by School and Grade                                                              As of October 1, 2024
+
+                                                                             Enrollment (Actual)               Enrollment (Projected)
+                                           2024-25        2024-25                                                            Change from
+                                         % Free Meals % Historically                                            2024-25        2024-25
+Title/ESSA Grade                           by Direct    Underserved 2023-24      2024-25       Change from     Enrollment    Projection to
+  School      Span School / Program      Certification     Race      Students    Students        2023-24       Projection       Actual
+               K-5 Abernethy                        10%          11%       330           284             -46             304             -20
+               K-5 Ainsworth                        10%          33%       585           584              -1             602             -18
+               K-5 Alameda                           5%          14%       521           496             -25             515             -19
+   Title I     K-5 Arleta                           34%          30%       274           252             -22             278             -26
+               K-5 Atkinson                         34%          45%       366           373               7             386             -13
+   Title I     K-5 Beach                            32%          46%       325           295             -30             310             -15
+Title I / TSI K-5 Boise-Eliot/Humboldt              65%          75%       308           315               7             313               2
+               K-5 Bridlemile                       14%          16%       446           419             -27             451             -32
+               K-5 Buckman                          35%          32%       371           308             -63             343             -35
+               K-5 Capitol Hill                     17%          21%       361           318             -43             349             -31
+   Title I     K-5 Chapman                          50%          36%       344           349               5             338              11
+   Title I     K-5 Clark                            65%          52%       341           331             -10             340              -9
+               K-5 Chief Joseph                     21%          23%       265           275              10             264              11
+               K-5 Creston                          28%          24%       238           241               3             232               9
+               K-5 Duniway                           9%           9%       409           387             -22             384               3
+               K-5 Forest Park                       5%          12%       321           303             -18             310              -7
+               K-5 Glencoe                          14%          20%       372           356             -16             364              -8
+   Title I     K-5 Grout                            47%          35%       302           294              -8             286               8
+               K-5 Hayhurst                         31%          27%       335           314             -21             328             -14
+               K-5 Irvington                        18%          28%       235           249              14             236              13
+   Title I     K-5 James John                       55%          64%       348           367              19             349              18
+Title I / TSI K-5 Kelly                             67%          43%       376           385               9             353              32
+   Title I     K-5 Lee                              47%          43%       288           257             -31             296             -39
+   Title I     K-5 Lent                             49%          72%       273           256             -17             261              -5
+               K-5 Lewis                            22%          21%       298           264             -34             265              -1
+               K-5 Llewellyn                        13%          16%       393           373             -20             397             -24
+               K-5 Maplewood                        22%          19%       301           295              -6             304              -9
+               K-5 Markham                          33%          39%       402           341             -61             396             -55
+Title I / TSI K-5 Marysville                        60%          45%       359           320             -39             354             -34
+   Title I     K-5 MLK Jr                           51%          62%       307           312               5             306               6
+   Title I     K-5 Peninsula                        35%          45%       234           235               1             232               3
+               K-5 Richmond                         10%          11%       537           530              -7             542             -12
+               K-5 Rieke                            17%          18%       288           278             -10             278               0
+   Title I     K-5 Rigler                           52%          68%       255           301              46             258              43
+Title I / CSI K-5 Rosa Parks                        84%          84%       177           172              -5             172               0
+               K-5 Rose City Park                   32%          16%       464           446             -18             472             -26
+     TSI       K-5 Sabin                            30%          33%       302           293              -9             289               4
+   Title I     K-5 Scott                            54%          58%       500           494              -6             491               3
+   Title I     K-5 Sitton                           62%          66%       335           339               4             332               7
+               K-5 Stephenson                        9%          15%       310           285             -25             298             -13
+   Title I     K-5 Vestal                           44%          42%       228           257              29             241              16
+   Title I     K-5 Whitman                          64%          55%       180           198              18             214             -16
+Title I / TSI K-5 Woodlawn                          49%          60%       299           306               7             280              26
+Title I / CSI K-5 Woodmere                          62%          50%       248           242              -6             235               7
+               K-5 Woodstock                        22%          13%       451           394             -57             433             -39
+                   K-5 Schools Total                                    15,202        14,683            -519          14,981           -298
+2024-25 Enrollment Comparison by School and Grade                                                                                        As of October 1, 2024
+
+                                                                                                 Enrollment (Actual)                     Enrollment (Projected)
+                                                       2024-25        2024-25                                                                          Change from
+                                                     % Free Meals % Historically                                                          2024-25        2024-25
+Title/ESSA Grade                                       by Direct    Underserved 2023-24               2024-25        Change from         Enrollment    Projection to
+  School      Span School / Program                  Certification     Race      Students             Students         2023-24           Projection       Actual
+               1-8 Access                                       10%          10%       329                    323               -6                 324              -1
+   Title I     K-8 Astor                                        28%          36%       375                    408               33                 358              50
+               K-8 Beverly Cleary                               10%          16%       560                    535              -25                 522              13
+               K-8 Bridger Creative Science                     27%          19%       515                    474              -41                 508             -34
+Title I / TSI K-8 César Chávez                                  66%          80%       481                    454              -27                 472             -18
+Title I / TSI K-8 Faubion                                       55%          70%       571                    589               18                 571              18
+               K-8 Laurelhurst                                  13%          15%       659                    656               -3                 653               3
+               K-8 Odyssey                                       4%          11%       227                    211              -16                 233             -22
+               K-8 Skyline                                      12%          19%       218                    226                8                 219               7
+               K-8 Sunnyside Environmental                      22%          20%       447                    461               14                 447              14
+               K-8 Vernon                                       30%          40%       578                    563              -15                 599             -36
+               K-8 Winterhaven                                  15%          12%       316                    322                6                 318               4
+                   K-8 Schools Total                                                 5,276                  5,222              -54               5,224              -2
+     TSI       6-8 Beaumont                                     23%          32%       434                    435                1                 420              15
+               6-8 da Vinci                                     30%          29%       407                    427               20                 416              11
+Title I / CSI 6-8 George                                        70%          74%       367                    404               37                 359              45
+               6-8 Gray                                         20%          19%       472                    438              -34                 449             -11
+Title I / TSI 6-8 Harriet Tubman                                40%          50%       320                    328                8                 302              26
+Title I / TSI 6-8 Harrison Park                                 52%          38%       321                    372               51                 400             -28
+               6-8 Hosford                                      26%          21%       517                    537               20                 541              -4
+               6-8 Jackson                                      22%          24%       711                    715                4                 706               9
+   Title I     6-8 Kellogg                                      46%          47%       677                    594              -83                 650             -56
+Title I / TSI 6-8 Lane                                          59%          45%       391                    418               27                 453             -35
+               6-8 Mt Tabor                                     15%          14%       503                    467              -36                 451              16
+Title I / TSI 6-8 Ockley Green                                  34%          46%       428                    410              -18                 434             -24
+Title I / TSI 6-8 Roseway Heights                               49%          46%       551                    565               14                 528              37
+               6-8 Sellwood                                     13%          14%       567                    576                9                 545              31
+               6-8 West Sylvan                                  15%          21%       722                    670              -52                 714             -44
+                   Middle School Total                                               7,388                  7,356              -32               7,368             -12
+              9-12 Benson                                       36%          45%       818                    896               78                 917             -21
+              9-12 Cleveland                                    15%          16%     1,474                  1,422              -52               1,330              92
+     TSI      9-12 Franklin                                     33%          32%     1,811                  1,809               -2               1,753              56
+              9-12 Grant                                        13%          19%     2,178                  2,149              -29               2,215             -66
+              9-12 Ida B. Wells-Barnett                         16%          19%     1,652                  1,650               -2               1,611              39
+Title I / TSI 9-12 Jefferson                                    56%          81%       525                    459              -66                 481             -22
+              9-12 Lincoln                                      12%          20%     1,579                  1,615               36               1,600              15
+     TSI      9-12 McDaniel                                     44%          48%     1,650                  1,686               36               1,658              28
+Title I / TSI 9-12 Roosevelt                                    47%          60%     1,457                  1,452               -5               1,445               7
+                   District High School Total                                       13,144                 13,138               -6              13,010            128
+              K-12 Metro. Learning Center                       18%          20%       336                    319              -17                 330             -11
+                   Alternative Schools Total                                           336                    319              -17                 330             -11
+
+                    District Total                                                        41,346            40,718              -628           40,913            -195
+ The Enrollment Data is as of the October 1, 2024 and excludes PK students.
+
+ PPS’ current definition of Historically Underserved Race includes Students with any of the following races, ethnicities, or ancestry:
+ Black, Latino/Hispanic, Native American, Pacific Islander
+
+ The Enrollment Projections are provided by the PSU demographer, based on 2023-24 October 1st Enrollment, and adjusted for other factors affecting population.
+                                       2024-25 K-5 class size distribution by school type
+                                                     CSI Title-I     Non-Title (<33% DC)               Title-I not CSI)
+
+                       50
+
+
+
+                       40
+
+
+
+
+      # of homerooms
+                       30
+
+
+
+                       20
+
+
+
+                       10
+
+
+
+                        0
+                            10   11   12   13   14   15   16   17   18    19     20   21    22    23   24   25     26   27   28   29   30   31   32   33
+
+
+
+                                            MIN of Class COUNTA of              MEDIAN of         MAX of           STDEV of
+grade and type                              Size         type                   Class Size        Class Size       Class Size
+Non-Title (<33% DC) 1st                               16.0           12.0                  25.0             29.0              4.2
+Non-Title (<33% DC) 2nd                               19.0               11.0              25.0             31.0              3.7
+Non-Title (<33% DC) 3rd                               20.0               11.0              25.0             30.0              3.5
+Non-Title (<33% DC) 4th                               17.0           12.0                  26.0             31.0              4.1
+Non-Title (<33% DC) 5th                               24.0               11.0              28.0             32.0              2.7
+Non-Title (<33% DC) KG                                17.0           12.0                  20.5             25.0              3.1
+Title-I not CSI) 1st                                  19.0                5.0              20.0             27.0              3.4
+Title-I not CSI) 2nd                                  19.0                6.0              21.0             24.0              1.6
+Title-I not CSI) 3rd                                  16.0                7.0              19.0             27.0              4.6
+Title-I not CSI) 4th                                  12.0                8.0              24.5             27.0              5.3
+Title-I not CSI) 5th                                  27.0                4.0              29.5             31.0              2.1
+Title-I not CSI) KG                                   13.0                6.0              19.5             26.0              5.0
+Grand Total                                           12.0          105.0                  24.0             32.0              4.5
+
+
+Class sizes are actual, based on Synergy SIS extract with an effective date of 10-16-2024.
+
+
+Standard deviation only calculated when there are more than one classroom per grade.
+K-5 Class Size Distribution, as of October 16, 2024
+
+
+      80                                                                                             KG
+                                                                                                     5th
+                                                                                                     4th
+
+      60                                                                                             3rd
+                                                                                                     2nd
+                                                                                                     1st
+
+      40
+
+
+
+
+      20
+
+
+
+
+       0
+           10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+
+                                              Class Size
+
+
+
+
+                                                                  AVERAGE
+                                        MIN of         MEDIAN of of Class        MAX of       STDEV of
+grade                                   Class Size     Class Size Size           Class Size   Class Size
+1st                                               10           22         21.6           31           4.0
+2nd                                               10           22         22.3           31           3.8
+3rd                                               10           23         23.2           33           4.2
+4th                                               10           25         23.8           33           4.6
+5th                                               10           25         24.1           33           4.6
+KG                                                11           20         19.8           28           4.1
+Grand Total                                       10           22         22.4           33           4.4
+
+
+Class sizes are actual, based on Synergy SIS extract with an effective date of 10-16-2024.
+Class size summary 2024-25 -- As of Oct 16, Actual Enrollment with Fall Balancing
+
+
+         AVERAGE of Class Size
+         type                       SchoolName       SubgroupCd       KG      1st   2nd   3rd    4th    5th
+         CSI Title-I                Rosa Parks       Program          16.5:1 15.0:1 25.0:1 28.0:1 17.0:1 12.5:1
+         CSI Title-I                Woodmere         Program          18.5:1 17.0:1 19.5:1 19.0:1 18.5:1 16.5:1
+         Non-Title (<33% DC)        Abernethy        Program          19.0:1 19.5:1 21.5:1 22.5:1 28.5:1 31.0:1
+         Non-Title (<33% DC)        ACCESS           Program                        19.0:1 21.5:1 23.5:1 25.0:1
+         Non-Title (<33% DC)        Ainsworth        Co-located       23.5:1 26.0:1 24.0:1 25.5:1 25.0:1 25.0:1
+         Non-Title (<33% DC)        Ainsworth        Program          19.5:1 28.0:1 20.0:1 21.0:1 26.0:1 28.5:1
+         Non-Title (<33% DC)        Alameda          Program          24.7:1 24.3:1 26.3:1 29.0:1 28.3:1 26.0:1
+         Non-Title (<33% DC)        Atkinson         Co-located       17.0:1 26.0:1 31.0:1 29.0:1 31.0:1 32.0:1
+         Non-Title (<33% DC)        Atkinson         Program          20.0:1 16.5:1 29.0:1 23.0:1 18.5:1 30.0:1
+         Non-Title (<33% DC)        Beverly Cleary   Program          23.5:1 18.0:1 24.5:1 27.5:1 25.0:1 30.0:1
+         Non-Title (<33% DC)        Bridger Creative Program          21.0:1 21.5:1 21.7:1 23.3:1 27.5:1 27.0:1
+         Non-Title (<33% DC)        Bridlemile       Program          15.0:1 23.7:1 24.3:1 22.3:1 24.0:1 22.3:1
+         Non-Title (<33% DC)        Buckman          Program          17.0:1 21.0:1 19.0:1 27.0:1 21.7:1 28.0:1
+         Non-Title (<33% DC)        Capitol Hill     Program          12.7:1 24.0:1 21.7:1 29.0:1 26.0:1 28.5:1
+         Non-Title (<33% DC)        Chief Joseph     Program          25.5:1 24.5:1 22.0:1 18.0:1 20.0:1 26.5:1
+         Non-Title (<33% DC)        Creston          Program          15.0:1 16.5:1 18.5:1 17.5:1 20.0:1 21.5:1
+         Non-Title (<33% DC)        Duniway          Program          25.5:1 30.5:1 29.0:1 27.7:1 30.0:1 24.7:1
+         Non-Title (<33% DC)        Forest Park      Program          22.5:1 21.0:1 26.0:1 21.0:1 26.0:1 23.0:1
+         Non-Title (<33% DC)        Glencoe          Program          21.5:1 22.5:1 24.0:1 23.0:1 31.5:1 33.0:1
+         Non-Title (<33% DC)        Hayhurst         Program          20.0:1 25.5:1 24.0:1 24.5:1 24.0:1 22.7:1
+         Non-Title (<33% DC)        Irvington        Program          21.5:1 21.5:1 20.5:1 21.0:1 20.0:1 20.0:1
+         Non-Title (<33% DC)        Laurelhurst      Program          27.0:1 19.3:1 23.7:1 31.0:1 28.0:1 26.0:1
+         Non-Title (<33% DC)        Lewis            Program          15.5:1 29.0:1 26.0:1 27.5:1 24.5:1 20.0:1
+         Non-Title (<33% DC)        Llewellyn        Program          22.0:1 21.5:1 21.0:1 24.0:1 31.0:1 25.0:1
+         Non-Title (<33% DC)        Maplewood        Program          18.0:1 23.0:1 27.0:1 25.5:1 21.5:1 31.0:1
+         Non-Title (<33% DC)        Markham          Program          15.7:1 17.7:1 21.5:1 22.3:1 22.0:1 20.0:1
+         Non-Title (<33% DC)        Metro. Learning Program           18.0:1 15.0:1 15.0:1 23.0:1 25.0:1 25.0:1
+         Non-Title (<33% DC)        Odyssey          Program          18.0:1 22.0:1 20.0:1 24.0:1 28.0:1 25.0:1
+         Non-Title (<33% DC)        Richmond         Co-located       25.3:1 22.5:1 29.3:1 29.0:1 28.0:1 26.3:1
+         Non-Title (<33% DC)        Rieke            Program          18.5:1 24.5:1 20.0:1 23.0:1 27.5:1 25.0:1
+         Non-Title (<33% DC)        Rose City Park Co-located         14.5:1 21.5:1 20.0:1 33.0:1 18.0:1 29.0:1
+         Non-Title (<33% DC)        Rose City Park Program            18.0:1 23.0:1 24.5:1 19.0:1 20.0:1 26.0:1
+         Non-Title (<33% DC)        Sabin            Program          24.0:1 22.0:1 15.0:1 27.0:1 24.5:1 24.5:1
+         Non-Title (<33% DC)        Skyline          Program          23.0:1 27.5:1 27.5:1 28.5:1 28.5:1 22.0:1
+         Non-Title (<33% DC)        Stephenson       Program          14.0:1 25.0:1 24.0:1 20.5:1 28.5:1 25.0:1
+         Non-Title (<33% DC)        Sunnyside EnviroProgram           24.0:1 19.0:1 25.0:1 19.0:1 25.5:1 22.0:1
+         Non-Title (<33% DC)        Vernon           Program          25.0:1 28.0:1 20.7:1 24.0:1 31.0:1 29.5:1
+         Non-Title (<33% DC)        Winterhaven      Program          26.0:1 28.0:1 27.0:1 30.0:1 28.0:1 30.0:1
+         Non-Title (<33% DC)        Woodstock        Co-located       14.5:1 21.0:1 30.0:1 18.0:1 29.0:1 20.0:1
+         Non-Title (<33% DC)        Woodstock        Program          21.0:1 24.0:1 15.0:1 20.5:1 18.0:1 18.5:1
+         Title-I not CSI)           Arleta           Program          14.0:1 21.5:1 20.0:1 17.5:1 24.5:1 27.5:1
+Class size summary 2024-25 -- As of Oct 16, Actual Enrollment with Fall Balancing
+
+
+         AVERAGE of Class Size
+         type                       SchoolName       SubgroupCd       KG      1st     2nd     3rd     4th   5th
+         Title-I not CSI)           Astor            Program           25.0:1 20.0:1 21.0:1 27.0:1 26.7:1 26.7:1
+         Title-I not CSI)           Beach            Co-located        19.0:1 27.0:1 22.0:1 19.5:1 19.0:1 31.0:1
+         Title-I not CSI)           Beach            Program           20.0:1 20.0:1 24.0:1 16.0:1 12.0:1 31.0:1
+         Title-I not CSI)           Boise-Eliot/HumbProgram            27.5:1 24.0:1 19.5:1 25.5:1 26.5:1 25.5:1
+         Title-I not CSI)           César Chávez     Co-located        16.5:1 21.5:1 24.0:1 29.0:1 23.0:1 16.0:1
+         Title-I not CSI)           César Chávez     Program           12.0:1 10.0:1 10.0:1 17.0:1 14.0:1 17.0:1
+         Title-I not CSI)           Chapman          Program           20.3:1 18.0:1 27.5:1 23.0:1 25.5:1 29.0:1
+         Title-I not CSI)           Clark            Co-located        11.0:1 14.0:1 18.0:1 10.0:1 10.0:1 10.0:1
+         Title-I not CSI)           Clark            Program           21.0:1 16.5:1 22.5:1 26.0:1 24.0:1 25.0:1
+         Title-I not CSI)           Faubion          Program           18.0:1 23.3:1 21.7:1 32.0:1 27.5:1 25.0:1
+         Title-I not CSI)           Grout            Program           20.5:1 23.5:1 27.0:1 20.5:1 27.0:1 22.5:1
+         Title-I not CSI)           James John       Co-located        26.0:1 23.0:1 23.0:1 22.0:1 25.0:1 24.0:1
+         Title-I not CSI)           James John       Program           21.5:1 15.5:1 18.5:1 20.0:1 23.5:1 23.0:1
+         Title-I not CSI)           Kelly            Co-located        21.0:1 18.0:1 30.0:1 30.0:1 21.0:1 22.0:1
+         Title-I not CSI)           Kelly            Program           24.5:1 22.0:1 17.0:1 22.0:1 18.5:1 18.0:1
+         Title-I not CSI)           Lee              Program           15.0:1 25.5:1 20.0:1 22.5:1 19.5:1 26.5:1
+         Title-I not CSI)           Lent             Co-located        16.0:1 21.0:1 19.0:1 23.0:1 27.5:1 22.0:1
+         Title-I not CSI)           Marysville       Program           21.5:1 20.5:1 18.3:1 19.0:1 20.7:1 20.7:1
+         Title-I not CSI)           MLK Jr           Co-located        15.0:1 17.0:1 21.0:1 21.0:1 30.0:1 21.0:1
+         Title-I not CSI)           MLK Jr           Program           16.0:1 21.0:1 19.0:1 17.0:1 27.0:1 29.0:1
+         Title-I not CSI)           Peninsula        Program           21.0:1 21.0:1 19.0:1 18.0:1 33.0:1 17.5:1
+         Title-I not CSI)           Rigler           Co-located        19.7:1 30.5:1 20.5:1 28.0:1 22.0:1 21.0:1
+         Title-I not CSI)           Scott            Co-located        19.0:1 25.5:1 22.0:1 16.0:1 17.0:1 20.0:1
+         Title-I not CSI)           Scott            Program           18.0:1 16.5:1 25.0:1 17.5:1 17.0:1 28.5:1
+         Title-I not CSI)           Sitton           Co-located        22.0:1 24.0:1 27.0:1 25.0:1 19.0:1 19.0:1
+         Title-I not CSI)           Sitton           Program           13.0:1 14.0:1 21.5:1 21.5:1 18.0:1 29.0:1
+         Title-I not CSI)           Vestal           Program           22.0:1 19.5:1 22.0:1 21.5:1 16.5:1 30.0:1
+         Title-I not CSI)           Whitman          Program           19.0:1 21.0:1 29.0:1 27.0:1 29.0:1 16.5:1
+         Title-I not CSI)           Woodlawn         Program           26.5:1 20.0:1 16.5:1 21.3:1 25.0:1 23.0:1
+
+
+
+         Blended grade classes shown with the lower grade, this explains why data maybe empty in some places.
+         Class sizes are actual, based on Synergy SIS extract with an effective date of 10-16-2024.
+

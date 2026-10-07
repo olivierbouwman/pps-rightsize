@@ -1,0 +1,778 @@
+                                                                                                                                                SYSTEMATIC REVIEW
+                                                                                                                                                published: 16 May 2022
+                                                                                                                                       doi: 10.3389/fpubh.2022.877058
+
+
+
+
+                                              Getting Out of the Classroom and
+                                              Into Nature: A Systematic Review of
+                                              Nature-Specific Outdoor Learning on
+                                              School Children’s Learning and
+                                              Development
+                                              Jeff Mann 1*, Tonia Gray 1 , Son Truong 1,2 , Eric Brymer 3 , Rowena Passy 4 , Susanna Ho 5 ,
+                                              Pasi Sahlberg 6 , Kumara Ward 7 , Peter Bentsen 8,9 , Christina Curry 1 and Rachel Cowper 10
+                                              1
+                                                School of Education, Western Sydney University, Kingswood, NSW, Australia, 2 School of Health and Human Performance,
+                                              Dalhousie University, Halifax, NS, Canada, 3 Discipline of Psychology, Southern Cross University, Bilinga, QLD, Australia,
+                                              4
+                                                Plymouth Institute of Education, University of Plymouth, Plymouth, United Kingdom, 5 SR Nathan School of Human
+                                              Development, Singapore University of Social Sciences, Singapore, Singapore, 6 Faculty of Education, Southern Cross
+                                              University, Lismore, NSW, Australia, 7 School of Education and Social Work, University of Dundee, Dundee, United Kingdom,
+                                              8
+                                                Department of Geosciences and Natural Resource Management, University of Copenhagen, Copenhagen, Denmark,
+                                              9
+                                                Center for Clinical Research and Prevention, Copenhagen University Hospital, Frederiksberg, Denmark, 10 Thrive Outdoors,
+                                              Inspiring Scotland, Edinburgh, United Kingdom
+
+
+
+                                              Background: The value of natural environments for developing children’s self-identity
+                          Edited by:
+                    Judie Arulappan,          and social skills has been known for some time, and more recently the potential
+      Sultan Qaboos University, Oman          of nature-specific (i.e., excluding built environments) outdoor learning for achieving
+                      Reviewed by:            academic outcomes has been explored. Connecting children with natural spaces
+                      Jim McKenna,
+            Leeds Beckett University,
+                                              has been shown to benefit their physical and mental health; however, the utility of
+                    United Kingdom            nature-specific outdoor environments as a setting for curricular and non-curricular
+                          Pip Lynch,
+                                              learning has yet to be clearly established. Our aim was to undertake a narrative synthesis
+           Norwegian School of Sport
+                   Sciences, Norway           of international evidence of nature-specific outdoor learning and its benefits for personal
+                   *Correspondence:           and social development, wellbeing and academic progress.
+                           Jeff Mann
+                j3ffmann1@gmail.com
+                                              Methods: This systematic review searched publications between 2000 and 2020
+                                              in nine academic databases for evidence of socio-emotional and academic benefits
+                    Specialty section:        of nature-specific outdoor learning in school-aged educational settings, using concise
+          This article was submitted to
+                                              search criteria registered with PROSPERO. The total search results of 17,886 records
+                   Children and Health,
+                a section of the journal      were initially screened by title, and then two reviewers made blind reviews of the title and
+              Frontiers in Public Health      abstract of 1,019 records.
+         Received: 16 February 2022
+            Accepted: 19 April 2022
+                                              Results: 147 original research studies meeting the criteria were identified. Learning
+            Published: 16 May 2022            settings ranged across outdoor adventure education, school gardens, field trips, and
+                             Citation:        traditional school subjects taught in natural environments. Study characteristics were
+ Mann J, Gray T, Truong S, Brymer E,
+                                              summarized, and risk-of-bias tools assessed quality of research as generally moderate,
+  Passy R, Ho S, Sahlberg P, Ward K,
+   Bentsen P, Curry C and Cowper R            although with a wide range. The reported benefits of learning in natural outdoor settings
+ (2022) Getting Out of the Classroom          include: increased student engagement and ownership of their learning, some evidence
+and Into Nature: A Systematic Review
+ of Nature-Specific Outdoor Learning
+                                              of academic improvement, development of social and collaborative skills, and improved
+   on School Children’s Learning and          self-concept factors.
+                         Development.
+      Front. Public Health 10:877058.         Conclusions: Nature-specific outdoor learning has measurable socio-emotional,
+    doi: 10.3389/fpubh.2022.877058            academic and wellbeing benefits, and should be incorporated into every child’s school
+
+
+Frontiers in Public Health | www.frontiersin.org                                    1                                             May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                          Nature-Based Learning Systematic Review
+
+
+
+                                              experience with reference to their local context. Teacher pre-service and in-service
+                                              education needs to include a focus on how natural settings can be used effectively for
+                                              learning. Further research is needed to clarify the conditions under which specific forms of
+                                              outdoor learning are most efficacious for various target outcomes. It is recommended that
+                                              future studies measuring outdoor learning adopt established methodologies to improve
+                                              the quality of research in this field.
+                                              Systematic      Review   Registration:                       https://www.crd.york.ac.uk/prospero/
+                                              display_record.php?RecordID=153171.
+
+                                              Keywords: academic improvement, education, learning outside the classroom, nature-specific, outdoor learning,
+                                              pro-environmental behavior, socio-emotional, wellbeing
+
+
+
+INTRODUCTION                                                                        and informal curricula, spanning a range of school student
+                                                                                    age groups.
+An international “renaissance of interest” (1) has emerged
+in learning outside the classroom in recent years, as the                           Benefits of Being in Nature
+shortcomings of a test-dominated model of education have                            A mounting body of research clearly indicates that spending
+become apparent. Sahlberg (2) for instance, commented that                          time in natural settings which have not been “hardened” or
+this narrowly focused test-oriented model of education reduces                      “improved” is good for human and planetary wellbeing (8, 13–
+the range of learning activity for students, and has the effect                     15). However, people in industrialized and urban settings are
+that “when educational performance is determined by students’                       spending less time outdoors (16). In particular, children are
+test scores in reading, mathematics, and science, it reduces                        moving indoors at a vital time in their growth and development
+focus on whole-child development due to decreasing time for                         when the evidence-base suggests they would benefit from time
+arts, music, drama, and sports” (p. 138). At the same time,                         outdoors (7, 17). This reduction of interaction with nature is
+there is an increasing body of research that demonstrates how                       reflected in the experiences of young people, and is becoming
+students can benefit from learning outside, not only in terms                       increasingly apparent in educational settings worldwide (8, 18).
+of the curriculum, but also with respect to social, personal, and                   Ensuring children have adequate access to nature is of critical
+physical development (3, 4). UNICEF’s report on the factors that                    importance for their health and wellbeing (13, 15, 19). However,
+shape child well-being in affluent countries lists “good mental                     while there has been an international recognition that schools
+well-being” as a “key aspect of quality of life”, and notes that                    are vital for enhancing wellbeing in young people (20) and
+“ore time playing outside is linked to much higher levels of                        for developing pro-environment attitudes and behaviors (21),
+happiness” (5). There is strong resonance with a frequently                         most schooling is guided by the concept of indoor learning and
+held principle in many Western, and especially Scandinavian,                        four-walled classrooms.
+countries, that nature must play an integral role in childhood
+education (6–9).                                                                    Nature, Wellbeing and Young People
+   This paper presents an examination of the literature on                          As noted above, student wellbeing has become an important
+nature-specific learning outside the classroom (NSLOtC) and                         aspect of education, and often refers to overall development and
+the types of benefits and/or impacts such opportunities have                        quality of life. While there is no one commonly agreed definition
+on children. Our scoping paper (10) used the term “outdoor                          of wellbeing, descriptions often focus on psychological notions
+learning”, however we have chosen the more precise term                             such as positive mental health, a sense of purpose and belonging,
+of NSLOtC. Following Atencio et al. (11), NSLOtC includes                           high life satisfaction and the ability to manage stress and life
+practical and experiential learning activities conducted outside                    challenges (22). General agreement, however, exists about the
+in school grounds and other locations such as parks, forests,                       minimum conditions of wellbeing, which include the presence
+residential camps/centers or on expeditions. Activities can be                      of positive emotions, life satisfaction, fulfillment and positive
+curricular or non-curricular, focus on different areas of cognitive,                functioning (23). There have been two main perspectives on
+social, emotional and moral development, and be related to                          wellbeing namely, hedonistic and eudemonic wellbeing. The
+indoor learning. This type of learning may take place during                        former relates to finding pleasure and avoiding pain, whilst the
+curricular time or outside school hours. It is narrower in scope                    latter refers to meaning and purpose. Though still in the early
+than generalized learning outside the classroom (LOtC), which                       development of hedonistic psychology, these were considered
+includes off-campus learning in natural or built environments                       to be distinct entities, and recent literature on wellbeing
+and/or visits to sites such as museums, galleries and/or historical                 has promoted a more holistic approach incorporating both
+monuments (12). Whilst there have been systematic reviews of                        approaches (22). Studies examining wellbeing in young people
+research on exposure to natural environments without regard                         have also included social (e.g., relationships), environmental (e.g.,
+to learning, and on LOtC irrespective of whether the setting                        integration with nature) and physical dimensions of wellbeing, as
+is natural or built, this paper draws together research on                          well as the importance of play, learning, a sense of belonging and
+various forms of learning in natural environments, across formal                    life satisfaction to the perception of wellbeing (24, 25). Wellbeing
+
+Frontiers in Public Health | www.frontiersin.org                                2                                       May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                 Nature-Based Learning Systematic Review
+
+
+
+is a complex, multi-dimensional construct, which cannot be                   The Emergence of Nature-Specific
+measured by using a single indicator in any given context (26).              Learning Outside the Classroom
+Research that measures student wellbeing needs to be based on                Most government policymakers, curriculum designers and
+the multi-dimensional nature of wellbeing, such as the right of              school leaders recognize the importance of psycho-social and
+children to happiness, and the importance of their ability to                wellbeing factors for students’ development as well as academic
+enhance their wellbeing in the present and in the future (27).               outcomes (34). An emerging interest in NSLOtC has led many
+    The multifaceted nature of wellbeing means that various                  schools and individual teachers to consider how learning in
+domains can differently affect students’ life satisfaction and               nature can realize these potential benefits. Indeed, across the
+wellbeing, with each domain operating as a condition for and a               world, NSLOtC is becoming increasingly common. For example:
+consequence of the other domains (28). It can therefore be argued            the “udeskole” Scandinavian philosophy of curriculum learning
+that the physical environment in which these domains operate                 in local outdoor settings (35), the outdoor adventure education
+has a considerable impact. Research shows that access to open                movement pioneered by Outward Bound (36), active learning
+and natural spaces supports improved physical health, with time              in Scotland (37), and experiential learning in school gardens
+outside in nature also having beneficial effects on cognitive and            (38). However, despite this growing interest, there is a dearth
+mental health (29).                                                          of guidance as to which NSLOtC approaches are appropriate
+    Several systematic reviews have assessed wellbeing outcomes              in various contexts, and what specific outcomes they might
+from interactions in natural environments for various                        achieve and for whom (33). This limits the potential leveraging of
+populations. For example, Gill (30) reviewed 71 studies                      NSLOtC settings to improve learning and health and wellbeing
+involving primary aged children’s experience of nature, and                  outcomes for children and young people, potentially leading to
+found benefits to mental health, emotional regulation and                    inefficient and ill–targeted investment decisions.
+environmental knowledge and attitudes. Holland et al. (31)                      This review provides clarification of the benefits of NSLOtC
+concluded that “wildland” recreation resulted in psychological,              experiences of school children across all ages, incorporating a
+social, and educational benefits, across 235 studies with mostly             range of curricular and non-curricular learning contexts. The
+adult participants. Tillman et al. (32) similarly explored the               aim is to provide a resource for decision-makers in government,
+effect of nature on mental health specifically in participants               university pre-service teacher education, school districts and
+aged 0–18 years old. An experience of nature positively                      other interested groups by outlining: possible interventions;
+influenced mental health across the 35 studies, however only                 the potential development, wellbeing and academic learning
+15 of these involved active engagement with nature rather than               outcomes of NSLOtC; and, the target beneficiaries.
+passive exposure.
+    Three systematic reviews shared the focus of this review
+on educational experiences in natural settings. Becker et al.                METHODS
+(3) reviewed 13 studies with regular weekly or fortnightly
+classes in the outdoors, and found emerging evidence for                     The search procedure was registered with the International
+social, academic, physical and psychological change. Mygind                  Prospective Register of Systematic Reviews (PROSPERO)
+et al. (19) examined immersive nature learning experiences,                  Number CRD42020153171. Figure 1 describes the screening
+most of which were secondary school aged participants                        process. Nine databases (ERIC, ProQuest, PSYCInfo, PubMed,
+in expedition and residential adventure programs. They                       Sage, Scopus, Taylor and Francis, Web of Science, Wiley) were
+identified 84 studies, and further analyzed 36 quantitative                  accessed by the international review team, yielding 17,886 hits
+studies, finding immediate benefits to a range of mental,                    with a keyword in the each of the three categories (education
+physical and social health outcomes. Finally, Miller et al. (33)             outside the classroom, learning, and wellbeing) and published
+investigated nature-based learning in primary aged children,                 between 2000 and 2020, outlined in our protocol paper (10).
+and observed positive evidence for social and educational                    Duplicates were removed in Endnote, and 13,148 unique records
+development, and emerging evidence for engagement, mental                    were copied to an online screening tool, Rayyan (https://www.
+health and wellbeing. Collectively, these reviews support                    rayyan.ai/).
+the value of nature immersion for people of all ages, and                       A detailed description of inclusion and exclusion criteria is
+various educational benefits of nature-specific learning for                 covered in Mann et al. (10). The criteria for inclusion in this
+students from particular age groups and outdoor learning                     systematic review were:
+settings. This review aims to build on these previous efforts
+                                                                             • School-aged participants (Kindergarten to Year 12).
+in order to clarify the socio-emotional and academic benefits
+                                                                             • Learning substantively based in a natural outdoor setting.
+of NSLOtC for all school aged children across a range of
+                                                                             • Regular sessions, or a multi-day residential program.
+outdoor contexts.
+                                                                             • A measurable learning outcome (academic, wellbeing or socio-
+    In summary, engaging with nature is important for the health
+                                                                               emotional).
+and wellbeing of young people, and providing opportunities that
+                                                                             • Original research published in English.
+best leverage this relationship is likely to have the greatest impact.
+NSLOtC could be a vital medium for developing wellbeing and                  The principal reviewer screened records by title to remove studies
+understanding how best to facilitate these experiences is essential          that clearly did not meet the inclusion criteria, yielding a total
+to ensure effective learning design.                                         of 1,019 records. Two reviewers then read the title and abstract
+
+
+Frontiers in Public Health | www.frontiersin.org                         3                                     May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                 Nature-Based Learning Systematic Review
+
+
+
+                                                                               A preliminary survey of the measured outcomes was
+                                                                            conducted before identifying outcome categories. The three
+                                                                            broad areas of learning defined in the literature search
+                                                                            (socio-emotional, academic and wellbeing) provided a lens for
+                                                                            determining these categories.
+
+                                                                            RESULTS
+                                                                            This systematic review of NSLOtC research began with a broad
+                                                                            reach and included a large number of primary studies, compared
+                                                                            with similar systematic reviews [e.g., 3, 19, 33]. A total of 147
+                                                                            studies were included in the final review.
+
+                                                                            Study Characteristics
+                                                                            The dataset included research conducted across 20 countries,
+                                                                            with most studies conducted in the United States of America (54).
+                                                                            Multiple studies were also conducted in the United Kingdom
+                                                                            (27), Australia (15), Canada (8), Denmark (6), New Zealand (6),
+                                                                            Spain (4), South Africa (4), Sweden (3), Germany (2), Singapore
+                                                                            (2) and Turkey (2). Frequency of research generally increased
+                                                                            over time, with the most studies published in 2018 (see Figure 2).
+                                                                                The number of participants in each study varied greatly,
+                                                                            from qualitative (M = 47, SD = 88) to quantitative (M =
+                                                                            208, SD = 200) and mixed method (M = 191, SD = 234)
+                                                                            research designs. Figure 3 provides a graphical representation
+                                                                            of participant numbers, grouped by tens then hundreds. The
+                                                                            majority of studies (60%) were conducted with secondary (Year
+                                                                            7–12) school aged participants, while 36% involved primary
+                                                                            (Year 3–6) and 4% were carried out with infants’ (Kindergarten—
+                                                                            Year 2) school aged children (see Table 1). Almost all studies
+                                                                            (127) had mixed gender participants, with only 11 female-only
+                                                                            studies, 5 studies in male-only settings, and 8 studies where
+                                                                            participant gender was not specified.
+ FIGURE 1 | Screening process.                                                  Categories for outdoor learning contexts were formed after
+                                                                            an initial survey of the dataset, and Table 1 shows that the most
+                                                                            common contexts were adventure education (25%), residential
+and made blind inclusion decisions, with any conflicts resolved             camps (22%), curricular lessons conducted in the outdoors
+collaboratively between them. This further reduced the list to              (20%) and school gardens (16%). Regular field trips (7%),
+243 records. Lastly, the full text of each article was read and             adventure therapy (3%) and school grounds (2%) were less
+screened by one member of the review team, with conflicts                   common contexts for research. Adventure education studies were
+resolved by the principal reviewer, resulting in a final total of 147       conducted almost exclusively with secondary students, which
+included records.                                                           may be reflective of practice in this field. In contrast, curricular
+   Reviewers recorded the study characteristics of each included            lessons in the outdoors and school garden learning were studied
+article and used established checklist tools to rate the qualitative        predominantly with primary students. Research into residential
+and/or quantitative research quality in the study. Quantitative             camps was well represented across both age groups, however
+studies were assessed using the CCEERC tool (39), which                     more studies were conducted with secondary students.
+rates factors including: participant selection and sample size,                 Learning outcome categories were similarly developed after
+operationalisation of concepts, appropriateness of statistical              a preliminary inspection of the data, informed by the three
+techniques and ethical standards. Qualitative studies were                  literature search areas (academic, socio-emotional, wellbeing).
+similarly assessed with the JBI Checklist (40), which incorporates:         The most common reported outcomes were so called “soft skills”,
+congruity between the research methodology with methods,                    relating to a student’s developing understanding of their self-
+analysis and interpretation of results, representation of the               concept and intrapersonal skills (e.g., self-confidence, resilience)
+participants’ voices, influence of the researcher, and ethics               and their social and interpersonal skills (e.g., communication,
+standards. These checklist tools require a rating of +1, 0 or −1            teamwork). Wellbeing (e.g., mood, positive self-concept, sense
+for each of 11 and 10 questions, respectively, and were adjusted            of calmness) was a pre-determined area of interest, and was
+to produce a score between −10 and +10. The full list of rating             combined with mental health (e.g., emotional health functioning,
+items and checklist references are included in Mann et al. (10).            self-determination factors) as these outcomes were intertwined.
+
+
+Frontiers in Public Health | www.frontiersin.org                        4                                      May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                       Nature-Based Learning Systematic Review
+
+
+
+
+ FIGURE 2 | Published studies by year.
+
+
+
+
+ FIGURE 3 | Participant number by research design type (grouped by tens then hundreds).
+
+
+
+
+As well as summative academic progress (e.g., reading level,                       academic outcomes, however a significant proportion of studies
+mathematics development), a number of studies focused on                           focused specifically in this area which justified its own outcome
+formative academic learning skills (e.g., planning, critical                       category. A recent report published by the Child and Nature
+thinking) and engagement with learning (e.g., motivation to be                     Network (41) examined the growing body of evidence that shows
+at school, classroom engagement), and a few studies measured                       how interactions with nature influence positive environmental
+school attendance after participation in NSLOtC.                                   behaviors. For example, stewardship and positive conservation
+   Environmental knowledge and attitudes (e.g., knowledge                          behavior can be promoted by spending time in nature, having
+about and interest in animals, environmental stewardship)                          role models in care for nature, and positive experiences in
+were not anticipated to be a discrete category from general                        nature. In order to support children and young people in
+
+
+
+Frontiers in Public Health | www.frontiersin.org                               5                                     May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                              Nature-Based Learning Systematic Review
+
+
+
+TABLE 1 | Outdoor learning contexts by participant age.
+
+                                                                            Infants                    Primary                  Secondary                          Total
+
+Adventure therapy (i.e., using adventure as a context for treatment)                                                                   4                            4
+Adventure education (e.g., canoeing expedition)                                                            2                           35                           37
+Regular field trips (e.g., environmental projects)                               1                         6                           4                            11
+Curricular lessons in local outdoors (e.g., writing poetry in the forest)                                 23                           6                            29
+Residential camp (e.g., science camp)                                                                     15                           23                           38
+School grounds (e.g., playground)                                                1                         1                           1                            3
+School gardens (located in the school, or in the local community)                2                        16                           8                            26
+Other                                                                            1                         2                           5                            8
+
+Total                                                                            5                        65                           86                          156
+
+Studies which had multiple ages were counted for each category.
+
+
+
+
+becoming agents of change, Chawla (42) proposed place-based                     TABLE 2 | Number of studies by outcome type and age.
+learning experiences and opportunities for agency and authentic
+                                                                                                                             Infants        Primary    Secondary
+participation in civic decision-making and actions related to the
+local environment. This is echoed by others who argue the need                  Self-concept and intrapersonal skills           2             8            40
+to go beyond cognitively-oriented engagement with the natural                   Social and interpersonal skills                 1             11           30
+world to include the affective domain and opportunities for                     Mental/ emotional health and wellbeing          3             9            15
+genuine agency (41, 43, 44). Prince (45) argued that outdoor                    Environmental knowledge/attitude                1             22           13
+learning facilitates pro-environmental behavior in children                     Engagement with learning (motivation)                         10               12
+through role modeling, the provision of mentors and modeling                    Academic Progress                               1             8                8
+actual practice in context. Echoing this, Brymer and Davids (46)                General Learning Skills                                       3                2
+highlighted the need to ensure that outdoor experiences designed
+                                                                                School attendance rate                          1                              2
+to enhance pro-environmental behaviors were directly related
+                                                                                Other                                                         4                2
+to the everyday context of the learner. This implies we need to
+reconsider the role of nature experiences in education and to                   Studies which had multiple outcomes and ages were counted for each category.
+recognize that successful implementation requires experiential
+approaches which engage all domains of learning in context.
+   Personal and social development outcomes were measured                       curricular (e.g., science camp) and others non-curricular (e.g.,
+most frequently (see Table 2), including: intrapersonal (24%) and               summer camp). Unsurprisingly, environmental knowledge and
+interpersonal (19%) development, along with the related factors                 attitude were common outcomes in field trips, residential camps
+of mental health and wellbeing (14%). Environmental knowledge                   and school gardens, where they were the predictable focus
+and attitudes were assessed in 17% of studies. Learning factors                 of learning.
+were less studied, including engagement with learning (11%),
+academic progress (9%), general learning skills (4%) and school                 Research Quality
+attendance (2%). When interrogated by age, Table 2 shows that                   Quantitative and qualitative research designs made up 40
+personal/social development and wellbeing has been studied                      and 37% respectively of the total studies, with fewer studies
+more with secondary aged participants, whereas environmental                    (23%) employing a mixed method design. Forty-four percent of
+knowledge and attitudes have been researched more with primary                  quantitative studies, 35% of mixed methods studies and 2% of
+aged children. Academic learning outcomes have been similarly                   qualitative studies utilized a comparison group. Average research
+studied across age groups.                                                      quality was rated at a medium level (5.28), with only 50% of
+   Learning outcomes were also explored across NSLOtC                           quantitative studies and 25% of qualitative studies given a high
+contexts (Table 3). Adventure therapy predictably focused                       (7 or above) rating (see Table 4).
+exclusively on intrapersonal and interpersonal development                          When research quality is assessed by outdoor learning context,
+outcomes, and adventure education was similar (although                         it can be seen in Table 5 that regular field trips had the lowest
+included some measurement of wellbeing and learning                             quality of research (especially in qualitative studies), along with
+engagement). Curricular programs such as field trips, curricular                quantitative research in school gardens. The strongest research
+outdoor lessons and school gardens had a mixed focus on                         quality was in outdoor curricular lessons.
+both personal development and academic learning outcomes.
+Residential camps focused more on personal development                          Research Outcomes
+outcomes, but also included some academic learning outcomes.                    Research variables were apportioned to broad learning categories
+This likely corresponds with the focus of some camps being                      as described in Table 2. Almost all studies reported some positive
+
+
+Frontiers in Public Health | www.frontiersin.org                            6                                               May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                                                                                                       Nature-Based Learning Systematic Review
+
+
+
+TABLE 3 | Number of studies by outdoor learning context and measured outcome.
+
+
+
+
+                                                                                                                                        Curricular lessons in local outdoors
+                                                      Adventure therapy          Adventure education            Regular field trips                                            Residential camp          School grounds         School gardens
+                                                                                                                                                                                                                                                           Other
+
+
+Self-concept and intrapersonal skills                     4                      25                                                          6                                    5                         1                      3                       3
+Social and interpersonal skills                           2                      12                                 1                        8                                 11                                                  3                       1
+Mental/ emotional health and wellbeing                                             6                                2                        6                                    5                         1                      4                       3
+Environmental knowledge/attitude                                                   3                                7                        3                                 10                                                  7                       3
+Engagement with learning (motivation)                                              4                                2                        6                                    2                                                5                       2
+Academic Progress                                                                                                   3                        7                                    3                                                4
+General Learning Skills                                                                                                                      3                                    3                         1                                              1
+School attendance rate                                                             1                                1                                                                                                              1
+Other                                                                              1                                                         1                                                                                     3
+
+Studies which had multiple outcomes were counted for each category.
+
+
+
+
+TABLE 4 | Research quality by study design.                                                                             TABLE 5 | Average research quality by study design and outdoor learning context.
+
+                                     Qualitative     Quantitative                               Mixed                                                                                                   Qualitative                              Quantitative
+                                                                                               methods
+                                                                                                                        Adventure therapy                                                                                                            5.3
+Number of studies                         54                              59                           34               Outdoor adventure education                                                                       5.6                        5.4
+Comparison group                          1                               26                           12
+                                                                                                                        Regular field trips                                                                               1.9                        3.8
+Average research quality (−10            5.39                             5.18
+                                                                                                                        Curricular lessons in local outdoors                                                              6.9                        5.7
+to +10)
+                                                                                                                        Residential camp                                                                                  5.7                        5.8
+Standard deviation of research           3.57                             2.84
+quality                                                                                                                 School grounds                                                                                    4.0                        5.5
+Research quality of 5 or greater         65%                              61%                                           School gardens                                                                                    5.7                        3.5
+Research quality of 7 or greater         25%                              50%                                           Other                                                                                             5.2                        5.1
+
+Mixed methods research quality was assessed separately for quantitative and                                             Mixed methods research quality was assessed separately for quantitative and
+qualitative components.                                                                                                 qualitative components.
+
+
+
+
+                                                                                                                        these higher quality quantitative studies, listed by outdoor
+change in the variables they measured; however, in some cases
+                                                                                                                        learning context:
+there were mediating factors or other complexities to these
+results. It is beyond the scope of this narrative synthesis to                                                          • Two of the three adventure therapy studies had a mix
+provide a statistical analysis of outcome effect sizes or to report on                                                    of positive and negative results, with the third showing
+the findings of every measured variable. More specific outcomes                                                           significantly increased resilience after the program. These
+in each outdoor learning context are outlined in Table 6.                                                                 ambivalent outcomes perhaps reflect the challenging
+    Further analysis was undertaken of studies with a higher                                                              population of at-risk youth with complex needs.
+quality rating (five or above), and 52 quantitative studies                                                             • Eighteen adventure education studies all showed significant
+met this criterion of research quality. Twenty six studies                                                                changes in self-concept and coping factors, specifically
+incorporated a comparison or control group, although                                                                      including: resilience (7), self-efficacy/self-esteem (4), life
+some compared two types of NSLOtC [e.g., (47)] or                                                                         effectiveness skills (3) and pro-social behaviors (3). A number
+different participant groups [e.g., (48)] rather than using                                                               of researchers found that the quality of group experience
+indoor classroom learning as the comparison group. The                                                                    was a moderating factor for these outcomes, and one study
+following statistically significant results were noted amongst                                                            (49) interestingly observed that participants with a lower
+
+
+Frontiers in Public Health | www.frontiersin.org                                                            7                                                                                        May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                              Nature-Based Learning Systematic Review
+
+
+
+TABLE 6 | Common research outcomes by outdoor learning context.                             Mathematics, Languages or Science performance at some time
+                                                                                            points but not others.
+Adventure therapy                  Self-concept, coping skills (e.g., resilience,
+                                   conflict management).                                  Fifty-three qualitative studies were rated with a research quality
+Adventure                          Social and teamwork skills, self-concept,              of five or higher. Outcome themes of these studies are
+education                          self-esteem, resilience.
+                                                                                          summarized by outdoor learning context:
+Regular field trips                Knowledge about the environment and
+                                   respect/appreciation for ecosystems.                   • Of the ten adventure education studies, five found
+Curricular lessons                 Academic improvement (mixed results),                    improvement in interpersonal skills, and other studies
+in local outdoors                  motivation/engagement, wellbeing/mental                  noted benefits to personal factors such as: resilience (2),
+                                   health, social skills, self-concept.
+                                                                                            wellbeing (2), self-concept (2). One study with disengaged
+Residential camp                   Connection to nature (mixed results), wellbeing,         high school students (53) found that regular adventure
+                                   self-concept and social skills.
+                                                                                            education sessions improved overall school attendance,
+School grounds                     No common findings.
+                                                                                            punctuality and engagement.
+School gardens                     Knowledge of and care for gardens,
+                                   engagement in learning, social skills and less
+                                                                                          • Three studies of regular field trips all focused on deeper
+                                   disruptive behavior.                                     environmental awareness, and one study also observed that the
+                                                                                            open-ended learning context of field trips facilitated students’
+                                                                                            development of agency, self-regulation and resilience (54).
+                                                                                          • In the thirteen studies of curricular lessons in the local
+                                                                                            outdoors, common outcome themes included: social and
+  national cultural identification gained less from the adventure                           teamwork skills (7), wellbeing (5), environmental awareness
+  education program.                                                                        (4), self-confidence (3) and learning-readiness skills such as
+• Three studies of field trips all observed significant                                     concentration and engagement (3). Whilst most studies did
+  improvement in environmental knowledge and attitudes,                                     not focus on academic achievement, one study of foreign
+  however none compared these gains with a similar group                                    language classes held in the outdoors found that students’
+  learning in the classroom.                                                                fluency improved as well as their confidence and motivation
+• Three of the nine studies of curricular lessons in the local                              to develop their spoken language skills (55).
+  outdoors focused on student wellbeing, with two of these                                • Environmental knowledge and attitudes were the focus of
+  noting significant improvement but only one including a                                   six of the thirteen residential camp studies. Fulfillment of
+  control group. Another three studies found curricular lessons                             basic psychological needs, as viewed through the lens of Self
+  in the local outdoors significantly improved motivation                                   Determination Theory (56), was regarded as a mediating
+  and engagement, two of which compared with a control                                      factor for motivation and wellbeing outcomes in three studies.
+  group. Academic progress was recorded in three studies,                                   A deeper understanding of STEM and increased interest
+  however the one which included a classroom control group                                  in science inquiry was the focus of one residential camp
+  found the same gains. This suggests whilst curricular lessons                             study (57).
+  in the local outdoors may not inhibit or accelerate academic                            • Across the twelve studies of school garden programs,
+  performance, they can particularly impact students’ wellbeing                             major themes included: self-confidence/self-esteem (6),
+  and engagement.                                                                           interpersonal skills (4), wellbeing (3), responsibility (3),
+• Twelve residential camp studies measured intrapersonal and                                independence (3), engagement (3), and environmental
+  interpersonal skills, as well as environmental attitudes. Five                            attitudes (3). A notable study of high school students with
+  of these studies found gains in self-concept factors across                               disruptive behaviors (58) found that a gardening program
+  the program, however only one out of three showed a                                       improved school attendance, responsibility for their work,
+  significant difference compared to a control group. Significant                           skills development and number of subject pass grades. Two
+  improvement in social skills was noted in six studies of                                  researchers contended that the student-centered pedagogical
+  residential camps, three of which included comparison with                                approach was a mediating factor in the positive outcomes
+  a control group. Two of four studies measured significant                                 they observed.
+  improvement in environmental attitudes, with one of these
+  including a control group. One study (50) found no
+  improvement in environmental attitudes but did show a                                   DISCUSSION
+  significant increase in environmentally responsible behaviors.
+  Another study observed that inclement weather during                                    This study set out to examine the literature in NSLOtC with the
+  the residential camp actually decreased students’ sense of                              particular purpose of examining the quality of research and the
+  connection to nature (51).                                                              potential for designing school-based learning and development
+• Two of the three studies of school garden programs                                      in nature contexts. Depending on the design of the program,
+  found significant improvement in nutritional attitudes and                              NSLOtC can enhance students’ health and wellbeing, curriculum
+  consumption compared to a control group. The third study                                and environmental knowledge. An analysis of the literature
+  (52) was a four year primary school gardening program, which                            reveals considerable diversity in terms of types of nature-specific
+  found significant gains (compared to a control group) in                                learning offered to school children, but NSLOtC in all its forms
+
+
+Frontiers in Public Health | www.frontiersin.org                                      8                                      May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                 Nature-Based Learning Systematic Review
+
+
+
+affords opportunities for enhanced health and wellbeing, social            the only environment where effective academic learning occurs,
+engagement and curriculum specific outcomes.                               not to mention the socio-emotional learning opportunities
+    Research within each outdoor context has generally been                provided by natural outdoor settings. While this needs to be
+conducted in isolation from others, reducing the global                    researched more thoroughly, the implications are that classroom
+understanding of NSLOtC across various learning contexts. The              teachers might benefit from initial teacher education curricula
+most commonly studied outdoor learning context was adventure               and professional development that enables them to deliver
+education, which was largely conducted with secondary age                  learning in nature-specific environments. Many of the NSLOtC
+students and measured personal and social development                      studies described a student-centered style of learning, and a
+outcomes. The lack of long-term follow-up also makes it hard               different student relationship with adult learning facilitators
+to determine if the outcomes measured impacted on learning                 compared to a regular classroom teacher. These learning-mode
+across curriculum and years. The other common area of NSLOtC               factors could mediate the effectiveness of NSLOtC, and research
+research was in the context of school gardens and curricular               comparing outdoor and indoor learning using similar teaching
+lessons, and these focused on primary aged students and explored           and learning approaches would help to tease out causal factors.
+learning and development factors. Wellbeing benefits were                  Future research could include studies examining the impact
+measured less often, however were represented across all outdoor           of different environments, as well the relationship between
+learning contexts. These results might be associated with ease of          environment and teaching and learning design. One size does not
+measurement and the convenience of captive participant groups,             fit all, so in the first instance research design will need to reflect
+rather than the value of the experience per se. At the same time, it       this contextual approach.
+is worth noting that delivery of each outdoor learning experience              The current body of research has established that various
+requires different skillsets.                                              manifestations of NSLOtC can effectively produce holistic
+    The quality of NSLOtC research varied greatly, as has                  learning, wellbeing and development outcomes; however,
+been noted in previous similar reviews (3, 19, 33). This                   comparison across outdoor learning contexts has been rarely
+could reflect the importance of the learning environment in                studied. Miller et al. (33) noted that it is currently unclear which
+facilitating the measured responses, especially considering the            elements of nature-based learning positively impact engagement
+impact of activities in natural environments on data collection.           and social outcomes. The next challenge for NSLOtC research
+Research examining regular field trips was of particularly                 is to explore the mechanisms of this demonstrated effectiveness,
+poor quality, most likely reflecting the potential confounding             in order to uncover foundational elements which are common
+variables of this type of experience. Most NSLOtC studies had              across outdoor learning settings, and other factors which are
+at least moderate quality, and curricular lessons in the local             context-specific. In calling for a unification in NSLOtC research,
+outdoors had the highest rigor across quantitative and qualitative         however, we caution against a “drag and drop” approach to
+research designs.                                                          NSLOtC practice, where an effective model in one context is
+    Interpreting the value of NSLOtC beyond the participant                replicated in another setting without regard to local educational,
+group being studied is constrained by participant cohorts and              environmental and cultural factors (59).
+cultural perspectives. As a significant number of studies were                 In order to achieve a high level of rigor, future NSLOtC
+conducted in North America and the United Kingdom, the                     research should incorporate the following elements:
+cultural impact of NSLOtC design and relevance of outcomes
+                                                                           • Thorough description of the NSLOtC intervention including:
+measured is unclear. Research across different cultures, and
+                                                                             participant background, contextual factors, frequency and
+that specifically considers diversity and inclusion within student
+                                                                             duration of sessions, pedagogical approach, students’
+groups, will enrich our understanding of how best to design
+                                                                             experience of the intervention, and justification for
+NSLOtC. While there is a small research base documenting
+                                                                             chosen measures.
+wellbeing and mental health benefits of outdoor learning, these
+                                                                           • A comparison or control group learning the same material in
+outcomes need to be studied more thoroughly across age
+                                                                             an indoor classroom setting or an alternate outdoor setting,
+groups and learning contexts. Outdoor curricular lessons and
+                                                                             to ascertain whether the chosen type of NSLOtC has any
+learning in school gardens have clear benefits for primary
+                                                                             additional benefit to the learning variables of interest.
+school aged students, and these also need to be studied in
+secondary settings. Conversely, the personal and social gains              • A mixed methods and/or longitudinal design, including
+secondary students experience from adventure education should                quantitative measures of objective change and/or in-depth
+be further researched for primary students. Pro-environmental                qualitative approaches.
+knowledge and attitude have mainly been studied in the contexts            • Conclusions which go beyond simply whether NSLOtC is
+of residential camps, field trips and school gardens; however,               effective, and rather present a more sophisticated picture of
+they also need to be studied in adventure and curricular outdoor             how it works most effectively for whom and in what settings.
+learning contexts to explore whether improvements can be
+                                                                           This review builds on evidence from previous systematic
+achieved in those settings also.
+                                                                           reviews which assessed research in natural environments (30–
+    There are a number of studies showing neutral or positive
+                                                                           32). In general, those reviews reflect the findings in the
+impacts for NSLOtC on academic outcomes for both primary and
+                                                                           current systematic review, where nature-based experiences
+secondary students, compared with control groups. This finding
+                                                                           enhance mental health, emotional regulation and environmental
+is intriguing as it suggests that the indoor classroom may not be
+
+
+Frontiers in Public Health | www.frontiersin.org                       9                                       May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                                    Nature-Based Learning Systematic Review
+
+
+
+knowledge and attitudes. Systematic reviews that focused on                                 professional development courses should be designed and
+educational experiences in natural settings (3, 19) similarly found                         delivered for in-service teachers.
+social and academic benefits. While previous reviews did not                             4. Future research in NSLOtC needs to be carefully designed
+focus on school-aged children alone or educational learning                                 following rigorous methodologies to evaluate and differentiate
+specifically, the current review adds to and consolidates this                              between nature-specific and classroom settings, various
+evidence base by reviewing natural outdoor learning experiences                             outcomes, and what elements contribute to these outcomes.
+across all school aged children, and incorporating curricular and                        5. Future researchers might also focus on designing effective
+non-curricular learning contexts.                                                           NSLOtC research studies, which lead to rigorous findings.
+   Although the large scale of this review suggests findings are                         6. Environments which are local to, and within, school
+indicative of widespread benefits, the current systematic review                            grounds need to provide opportunities for everyday
+had some limitations. Gray literature was not accessed due to                               NSLOtC experiences.
+the extensive size of the 16,000 items in the initial dataset,
+and although articles were double screened for inclusion, their                          CONCLUSION
+research quality was only rated by a single reviewer for each
+paper. Further, some databases (e.g., SPORTDiscus), which may                            This systematic review built upon the work of previous
+have yielded further NSLOtC research, were not accessed. One                             research reviews by incorporating wellbeing, socio-emotional
+criterion of inclusion was that articles were written in English,                        development and academic learning outcomes for school aged
+which would have excluded a small number of studies published                            children in various nature-based outdoor learning contexts. The
+in other languages and skewed the reported international spread                          147 included studies indicated significant support for the benefits
+of research and culturally specific interpretations. Even within                         of NSLOtC, particularly in personal and social development
+English speaking countries, there are a wide variety of cultural                         for secondary aged students in adventure education programs,
+and pedagogical contexts within which NSLOtC occurs, and                                 and in social and academic learning outcomes for primary
+therefore the general findings of this review should not be                              aged students in school garden and curricular outdoor learning
+applied to individual contexts without due regard to local                               settings. The review identified that most NSLOtC research has
+factors. The most significant limitation of the current review                           been conducted in North America and the United Kingdom,
+was that a statistical analysis of outcome effects was not                               and that research in each outdoor learning context tended to be
+possible due to the variety of study designs and broad range of                          clustered with specific outcome types and student age groups.
+measured outcomes.                                                                       The quality of research was moderate on average, although there
+   There is sufficient research evidence to show the importance                          was a wide range. Recommendations from this systematic review
+of NSLOtC experiences for school students. The following                                 include: the provision of NSLOtC in national and state curricula,
+recommendations are made by the international team which                                 subject-specific training in NSLOtC for pre-service and in-
+conducted this systematic review:                                                        service teachers, and rigorous design of future NSLOtC research.
+1. Educational policy-makers need to recognize that NSLOtC
+   is no longer a fringe “nice-to-have” approach to teaching                             DATA AVAILABILITY STATEMENT
+   and learning. Instead, NSLOtC is an effective pedagogical
+   approach for holistic growth, which means that resources                              The original contributions presented in the study are included
+   should be made available for implementation in curricula and                          in the article/supplementary material, further inquiries can be
+   learning design [(60), in press].                                                     directed to the corresponding author/s.
+2. All university pre-service teacher programs should include
+   skill development activities for the design and implementation                        AUTHOR CONTRIBUTIONS
+   of NSLOtC in the upcoming teacher’s subject area.
+3. Design and implementation of NSLOtC is an important                                   All authors listed have made a substantial, direct, and intellectual
+   part of current practicing teachers’ skill development, and                           contribution to the work and approved it for publication.
+
+
+
+REFERENCES                                                                                  learning, social and health dimensions. Int J Environ Res Public Health. (2017)
+                                                                                            14:485. doi: 10.3390/ijerph14050485
+ 1. Gilchrist M, Passy R, Waite S, Cook R. Exploring Schools’ Use of                     4. Yogman M, Garner A, Hutchinson J, Hirsh-Pasek K, Michnick Golinkoff
+    Natural Spaces. In Risk, Protection, Provision and Policy. (2016). p. 103–24.           R. The power of play: a pediatric role in enhancing development in
+    Berlin: Springer.                                                                       young children. Pediatrics. (2018) 142:e20182058. doi: 10.1542/peds.201
+ 2. Sahlberg P. The global educational reform movement and its impact on                    8-2058
+    schooling. In K. Mundy, A. Green„ and A. Verger, editors. The Handbook               5. United Nations Childrens Fund Office of Research - Innocenti. Worlds of
+    of Global Education Policy, Vol. 12 (2016). p. 128–44. Hoboken: Wiley-                  Influence: Understanding What Shapes Child Well-being in Rich Countries.
+    Blackwell. doi: 10.1002/9781118468005.ch7                                               (2020). Available at: http://202.1.196.72/jspui/bitstream/123456789/8646/1/
+ 3. Becker C, Lauterbach G, Spengler S, Dettweiler U, Mess F. Effects of regular            Worlds-of-Influence-understanding-what-shapes-child-well-being-in-rich-
+    classes in outdoor education settings: a systematic review on students’                 countries-2020..pdf (accessed April 30, 2022).
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                    10                                             May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                                        Nature-Based Learning Systematic Review
+
+
+
+ 6. Bentsen P, Ho S, Gray T, Waite S. A global view of learning outside the               26. Borgonovi F, Pál J. A framework for the analysis of student well-being in the
+    classroom. In Children Learning Outside the Classroom from Birth to Eleven.               PISA 2015 study: being 15 in 2015. OECD Education Working Papers, No. 140.
+    (2017). p. 53–66. UK: Sage.                                                               Paris: OECD Publishing (2016). Available online at: https://doi-org.ezproxy.
+ 7. Dowdell K, Gray T, Malone K. Nature and its influence on children’s outdoor               uws.edu.au/10.1787/5jlpszwghvvb-en
+    play. J Outdoor Environ Educ. (2011) 15:24–35. doi: 10.1007/BF03400925                27. Ben-Arieh A, Kaufman NH, Andrews AB, George RM, Lee BJ, Aber
+ 8. Gray T. Outdoor learning: not new, just newly important. Curriculum                       LJ. Measuring and Monitoring Children’s Well-Being (Vol. 7) (2013).
+    Perspect. (2018) 38:145–9. doi: 10.1007/s41297-018-0054-x                                 Berlin: Springer.
+ 9. Waite S, Passy R, Gilchrist M, Hunt A, Blackwell I. Natural Connections               28. Gillett-Swan JK, Sargeant J. Wellbeing as a process of accrual: beyond
+    Demonstration Project. 2012-2016: Final Report. (2016). Natural England                   subjectivity and beyond the moment. Soc Indic Res. (2015) 121:135–
+    Commissioned Reports. Available at: http://publications.naturalengland.org.               48. doi: 10.1007/s11205-014-0634-6
+    uk/publication/6636651036540928 (accessed April 30, 2022).                            29. Fyfe-Johnson AL, Hazlehurst MF, Perrins SP, Bratman GN, Thomas R, Garrett
+10. Mann, J, Gray, T, Truong, S, Sahlberg, P, Bentsen P, Passy R. et                          KA, et al. Nature and children’s health: a systematic review. Pediatrics. (2021)
+    al. A Systematic Review Protocol to Identify the Key Benefits and                         148:e2020049155. doi: 10.1542/peds.2020-049155
+    Efficacy of Nature-Based Learning in Outdoor Educational Settings.                    30. Gill T. The benefits of children’s engagement with nature: a
+    International Journal of Environmental Research and Public Health. (2021)                 systematic literature review. Child Youth And nviron. (2014)
+    18. doi: 10.3390/ijerph18031199                                                           24:10–34. doi: 10.7721/chilyoutenvi.24.2.0010
+11. Atencio M, Tan YSM, Ho S, Ching CT. The place and approach of outdoor                 31. Holland WH, Powell RB, Thomsen JM, Monz CA. A systematic review of the
+    learning within a holistic curricular agenda: development of Singaporean                  psychological, social, and educational outcomes associated with participation
+    outdoor education practice. J Adv Educ Outdoor Learn. (2015) 15:181–                      in wildland recreational activities. J Outdoor Recreat Educ Leader. (2018)
+    92. doi: 10.1080/14729679.2014.949807                                                     10:197–225. doi: 10.18666/JOREL-2018-V10-I3-8382
+12. Davis K. Exploring Student-Teacher Relationships Outside: An Ethnographic             32. Tillmann S, Tobin D, Avison W, Gilliland J. Mental health benefits of
+    Case Study of Two Alternative Education Centres. British Educational Research             interactions with nature in children and teenagers: a systematic review. J
+    Conference, Northumbria University (2018).                                                Epidemio Commun Health. (2018) 72:958–66. doi: 10.1136/jech-2018-210436
+13. Brymer E, Freeman E, Richardson M. Editorial: One Health: The Well-                   33. Miller NC, Kumar S, Pearce KL, Baldock KL. The outcomes
+    being Impacts of Human-Nature Relationships. Front Psychol. (2019)                        of nature-based learning for primary school aged children: a
+    10:1611. doi: 10.3389/fpsyg.2019.01611                                                    systematic review of quantitative research. Environ Educ Res. (2021)
+14. Gray T, Thomson C. Transforming Environmental Awareness of Students                       27:1115–40. doi: 10.1080/13504622.2021.1921117
+    Through the Arts and Place-Based Pedagogies. LEARNing Landscapes. (2016)              34. United Nations Educational Scientific and Cultural Organization. Rethinking
+    9:239–60. doi: 10.36510/learnland.v9i2.774                                                Education—Towards a Global Common Good. (2015). Paris: UNESCO
+15. Kahn PH, Kellert SR. Children and Nature: Psychological, Sociocultural,                   Publishing. Available at: http://unesdoc.unesco.org/images/0023/002325/
+    and Evolutionary Investigations. Cambridge: The MIT Press. Available at:                  232555e.pdf (accessed June 13, 2018).
+    http://ezproxy.uws.edu.au/login?url=https://search.ebscohost.com/login.               35. Bølling M, Otte CR, Elsborg P, Nielsen G, Bentsen P. The association between
+    aspx?direct=trueanddb=nlebkandAN=70947andsite=ehost-liveandscope=                         education outside the classroom and students’ school motivation: results
+    site doi: 10.7551/mitpress/1807.001.0001 (accessed April 30, 2022).                       from a one-school-year quasi-experiment. Int J Educ Res. (2018) 89:22–
+16. Larson LR, Szczytko R, Bowers EP, Stephens LE, Stevenson KT,                              35. doi: 10.1016/j.ijer.2018.03.004
+    Floyd MF. Outdoor time, screen time, and connection to nature:                        36. Hattie J, Marsh HW, Neill JT, Richards GE. Adventure Education and
+    troubling trends among rural youth? Environ Behav. (2019)                                 Outward Bound: Out-of-Class Experiences That Make a Lasting Difference.
+    51:966–91. doi: 10.1177/0013916518806686                                                  Rev Educ Res. (1997) 67:43–87. doi: 10.3102/00346543067001043
+17. Eun-Young L, Bains A, Hunter S, Ament A, Brazo-Sayavera J, Carson V,                  37. Sahlberg P, Doyle W. Let the Children Play: How More Play Will Save Our
+    et al. Systematic review of the correlates of outdoor play and time among                 Schools And Help Children Thrive. Oxford: Oxford University Press (2019).
+    children aged 3-12 years. Int J Behav Nutr Phys Activity. (2021) 18:1–                38. Wallace HD. Transdisciplinary learning in a kitchen garden: connecting to
+    46. doi: 10.1186/s12966-021-01097-9                                                       nature and constructing a path to ecoliteracy? Int Res Geogr Environ Educ.
+18. Selhub EM, Logan AC. Your Brain on Nature: The Science of Nature’s Influence              (2019) 28:309–23. doi: 10.1080/10382046.2019.1646013
+    on Your Health, Happiness and Vitality. (2012). Canada: John Wiley and Sons.          39. Child Care and Early Education Research Connections. Quantitative Research
+19. Mygind L, Kjeldsted E, Hartmeyer R, Mygind E, Bølling M, Bentsen                          Assessment Tool. (2019). Available at: https://www.researchconnections.org/
+    P. Mental, physical and social health benefits of immersive nature-                       sites/default/files/2021-04/quantitativeresearch.pdf (accessed February 03,
+    experience for children and adolescents: A systematic review                              2022).
+    and quality assessment of the evidence. Health Place. (2019)                          40. Briggs J. Critical Appraisal Checklist for Qualitative Research. (2017). Australia:
+    58:102136. doi: 10.1016/j.healthplace.2019.05.014                                         The Joanna Briggs Institute. Available at: https://joannabriggs.org/research/
+20. Thorburn M. Wellbeing, Education and Contemporary Schooling. (2017). UK:                  critical-appraisal-tools.html (accessed on November 1, 2020).
+    Routledge. Available at: http://ezproxy.uws.edu.au/login?url=https://search.          41. Charles C, Keenleyside K, Chappl R, Kilburn B, Salah van der Leest P, Allen D,
+    ebscohost.com/login.aspx?direct=trueanddb=nlebkandAN=1565047andsite=                      et al. Home to Us All: How Connecting With Nature Helps Us Care for Ourselves
+    ehost-liveandscope=site (accesssed April 30, 2022).                                       and the Earth. Minneapolis: Children and Nature Network (2018).
+21. Wals AEJ, Benavot A. Can we meet the sustainability challenges? The                   42. Chawla L. Growing up green: Becoming an agent of care for the natural world.
+    role of education and lifelong learning. Eur J Educ. (2017) 52:404–                       J Dev Process. (2009) 4:6–23.
+    13. doi: 10.1111/ejed.12250                                                           43. Rousell D, Cutter-Mackenzie-Knowles A, A. systematic review of climate
+22. Houge Mackenzie S, Brymer E. Conceptualizing adventurous nature                           change education: giving children and young people a “voice” and a
+    sport: A positive psychology perspective. Ann Leisure Res. (2020) 23:79–                  “hand” in redressing climate change. Children’s Geogr. (2020) 18:191–
+    91. doi: 10.1080/11745398.2018.1483733                                                    208. doi: 10.1080/14733285.2019.1614532
+23. Centers for Disease Control and Prevention. Health-Related Quality of                 44. Zylstra MJ, Knight AT, Esler KJ, Le Grange LLL. Connectedness as a core
+    Life. (2021). Available at: https://www.cdc.gov/hrqol/wellbeing.htm (retrieved            conservation concern: an interdisciplinary review of theory and a call for
+    October 1, 2021).                                                                         practice. Springer Sci Rev. (2014) 2:119–43. doi: 10.1007/s40362-014-0021-3
+24. Bretzel F, Vannucchi F, Romano D, Malorgio F, Benvenuti S, Pezzarossa B.              45. Prince HE. Outdoor experiences and sustainability. J Adv Educ
+    Wildflowers: From conserving biodiversity to urban greening—A review.                     Outdoor Learn. (2017) 17:161–71. doi: 10.1080/14729679.2016.12
+    Urban Forest Urban Green. (2016) 20:428–36. doi: 10.1016/j.ufug.2016.10.008               44645
+25. Fattore T, Mason J, Watson E. When children are asked about their well-               46. Brymer E, Davids K. Experiential learning as a constraint-led process: an
+    being: towards a framework for guiding policy. Child Indic Res. (2009)                    ecological dynamics perspective. J Adv Educ Outdoor Learn. (2014) 14:103–
+    2:57–77. doi: 10.1007/s12187-008-9025-3                                                   17. doi: 10.1080/14729679.2013.789353
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                     11                                                May 2022 | Volume 10 | Article 877058
+Mann et al.                                                                                                                       Nature-Based Learning Systematic Review
+
+
+
+47. O’Brien K, Lomas T. Developing a growth mindset through outdoor personal             57. Ghadiri Khanaposhtani M, Liu CJ, Gottesman BL, Shepardson D,
+    development: can an intervention underpinned by psychology increase the                  Pijanowski B. Evidence that an informal environmental summer camp
+    impact of an outdoor learning course for young people? J Adv Educ Outdoor                can contribute to the construction of the conceptual understanding
+    Learn. (2017) 17:133–47. doi: 10.1080/14729679.2016.1232199                              and situational interest of STEM in middle-school youth. Int
+48. De Dominicis S, Bonaiuto M, Carrus G, Passafaro P, Perucchini                            J Sci Educ Part B. (2018) 8:227–49. doi: 10.1080/21548455.20
+    P, Bonnes M. Evaluating the role of protected natural areas for                          18.1451665
+    environmental education in Italy. Appl Environ Educ Commun. (2017)                   58. Ruiz-Gallardo J-R, Verde A, Valdés A. Garden-based learning:
+    16:171–85. doi: 10.1080/1533015X.2017.1322014                                            an experience with “at risk” secondary education students.
+49. Purdie N, Neill JT, Richards GE. Australian identity and the                             J Environ Educ. (2013) 44:252–70. doi: 10.1080/00958964.20
+    effect of an outdoor education program. Aust J Psychol. (2002)                           13.786669
+    54:32–9. doi: 10.1080/00049530210001706493                                           59. Lloyd A, Truong S, Gray T. Place-based outdoor learning: more than
+50. Smith-Sebasto NJ, Semrau HJ. Evaluation of the Environmental Education                   a drag and drop approach. J Outdoor Environ Educ. (2018) 21:45–
+    Program at the New Jersey School of Conservation. J Environ Educ. (2004)                 60. doi: 10.1007/s42322-017-0002-5
+    36:3–18. doi: 10.3200/JOEE.36.1.3-18                                                 60. Mann J, Gray T, Truong S. Rediscovering the Potential of
+51. Talebpour LM, Busk PL, Heimlich JE, Ardoin NM. Children’s connection                     Outdoor Learning for Developing 21st Century Capabilities. In:
+    to nature as fostered through residential environmental education programs:              Jucker R, editor. High Quality Outdoor Learning. (2022). Berlin:
+    key variables explored through surveys and field journals. Environ Educ Res.             Springer Nature.
+    (2020) 26:95–114. doi: 10.1080/13504622.2019.1707778
+52. Camasso MJ, Jagannathan R. Nurture thru Nature: Creating                             Conflict of Interest: The authors declare that the research was conducted in the
+    natural science identities in populations of disadvantaged children                  absence of any commercial or financial relationships that could be construed as a
+    through community education partnership. J Environ Educ. (2018)                      potential conflict of interest.
+    49:30–42. doi: 10.1080/00958964.2017.1357524
+53. Price A. Improving School Attendance: Can Participation in Outdoor
+                                                                                         Publisher’s Note: All claims expressed in this article are solely those of the authors
+    Learning Influence Attendance for Young People with Social, Emotional
+    and Behavioural Difficulties? J Adv Educ Outdoor Learn. (2015) 15:110-122.           and do not necessarily represent those of their affiliated organizations, or those of
+    doi: 10.1080/14729679.2013.850732                                                    the publisher, the editors and the reviewers. Any product that may be evaluated in
+54. McCree M, Cutting R, Sherwin D. The Hare and the Tortoise go                         this article, or claim that may be made by its manufacturer, is not guaranteed or
+    to Forest School: taking the scenic route to academic attainment via                 endorsed by the publisher.
+    emotional wellbeing outdoors. Early Child Dev Care. (2018) 188:980–
+    96. doi: 10.1080/03004430.2018.1446430                                               Copyright © 2022 Mann, Gray, Truong, Brymer, Passy, Ho, Sahlberg, Ward, Bentsen,
+55. Myhre TS, Fiskum TA. Norwegian teenagers’ experiences of developing                  Curry and Cowper. This is an open-access article distributed under the terms
+    second language fluency in an outdoor context. J Adv Educ Outdoor Learn.             of the Creative Commons Attribution License (CC BY). The use, distribution or
+    (2020) 1–16. doi: 10.1080/14729679.2020.1769695                                      reproduction in other forums is permitted, provided the original author(s) and the
+56. Ryan RM, Deci EL. Self-determination theory and the facilitation of intrinsic        copyright owner(s) are credited and that the original publication in this journal
+    motivation, social development, and well-being. Am Psychol. (2000) 55:68–            is cited, in accordance with accepted academic practice. No use, distribution or
+    78. doi: 10.1037/0003-066X.55.1.68                                                   reproduction is permitted which does not comply with these terms.
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                    12                                                May 2022 | Volume 10 | Article 877058
+

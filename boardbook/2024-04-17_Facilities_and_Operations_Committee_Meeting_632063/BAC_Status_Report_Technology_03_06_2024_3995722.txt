@@ -1,0 +1,80 @@
+2020 Bond - Technology                                                                                                                            PPS Team Leads: Don Wolff, Derrick Brown
+March 2024
+
+
+STATUS AT A GLANCE
+                                                                                                                      As Planned             Caution              Impacts
+Legend:                                                                                     Scope                                                 X
+                   As planned: no concerns                                                  Budget                                                X
+                   Caution: requires attention                                              Schedule                                                                    X
+                   Impacts: impacts occurring                                               Overall                                                                     X
+
+
+BUDGET
+                                                     BUDGET                                     FUNDING                                    PROGRESS                                    FORECAST
+                                                                                                                                               Additional               Estimate At
+                                       Original Budget       Current Budget       Bond Funds           Other Funds            Actuals to Date Encumbered                Completion            Over/Under
+      Tech Program Admin - 5519               23,264,652             17,382,694          16,118,294              1,264,400            2,806,591             2,461,277             9,749,937            (7,632,758)
+  Classroom Modernization - 5516              24,780,325             23,793,677          23,743,677                50,000            13,864,637             1,620,630            34,662,120            10,868,443
+          Device Replacement - 5515           31,006,443             48,022,761          38,683,834              9,338,927           37,278,451             1,433,800            43,693,696            (4,329,065)
+ ERP Replacement Planning - 5518              11,107,080             14,961,427          10,756,427              4,205,000            3,204,282             1,114,220            19,109,590             4,148,162
+   Infrastructure & Security - 5517           38,041,500             38,486,773          38,041,500               445,273            22,189,951             1,087,024            36,191,535            (2,295,239)
+     Harrison Park MS Conv - 5706                        -             856,267             856,267                        -            266,223               590,044               856,267                       -
+                              Totals       128,200,000           143,503,600         128,200,000                15,303,600           79,610,135             8,306,995        144,263,144                 759,544
+
+
+SCHEDULE
+                                                         2024                                       2025                                       2026                                        2027
+                                         Q1        Q2           Q3        Q4        Q1         Q2          Q3        Q4         Q1        Q2           Q3       Q4          Q1        Q2          Q3        Q4
+      Tech Program Admin - 5519
+  Classroom Modernization - 5516
+                  Analysis/Planning
+                      Procurement
+                         Placement
+          Device Replacement - 5515
+ ERP Replacement Planning - 5518
+   Infrastructure & Security - 5517
+                  Analysis/Planning
+                      Procurement
+                         Placement
+
+                                                                                                                                                                                              2020 Technology, March 2024
+                   Baseline                                  Analysis/Planning                         Procurement                      Distribution                    Placement
+                                                                                                                                                                                                               page 1 of 2
+PROJECT NOTES
+Progress:
+Classroom Modernization 5516:
+School group 1 include the following % complete: Boise 97% completed, Lane 97% completed, George 88% completed, and Cesar 75% completed. All of school group 1 are about to start
+projector screen installations at George, Boise, Lane, which is their last item to be completed. Teaching station computer refresh has completed 63 of 92 stations.
+
+ERP Replacement Planning 5518:
+The 5518 ERP project foundational work is 68% completed.
+
+Infrastructure & Security 5517:
+School group 1 wifi installations include the following % complete: Boise 97% completed, Lane 97% completed, George 88% completed, Cesar 75% completed, Jefferson 100% completed.
+School Group 2: Cleveland is 98% completed and in the final walk throughs and QA testing. PPS Data Center Improvements 98% completed.
+
+5516 and 5517 projects are now using a different contracting method - ITB instead of IDIQ to get more low voltage contractors for school group 4 and beyond. The previous IDIQ
+companies were made up of only a handful of small companies and therefore moved slower schedule wise. Our hope is with the ITB for school group 4 we will be able to get firms that are
+able to tackle the work in a faster pace.
+
+
+Accomplishments:
+The 5515 Student 1:1 device project for 3-12th grade and 2:1 k-2nd grade completed in 2021. Administrator, teacher and support staff mobile device replacement completed in 2022. The
+5516 teaching station computer refresh has completed 63 schools already and we have 29 more to go with a wrap up November 2024! Jefferson is 100% completed (5517 infrastructure
+work only). District wide, classroom tech and infrastructure projects are 20% completed.
+
+Risks:
+The original 2020 Technology scope included installing 100" anti-glare whiteboards on top of existing whiteboards to work in conjunction with the new wall-mounted projectors. Existing
+whiteboards were to be left in place in order to avoid disturbing potential hazardous materials during a removal. In April 2022, the 2020 Technology scope was changed to include the
+removal of the existing whiteboards. The new scope started in July 2022 with five schools as a pilot to determine schedule and cost. During the work on these schools, it was determined
+the new scope would significantly increase budget and schedule. In January 2023 the decision was made to revise the scope from wall-mounted projectors with new anti-glare
+whiteboards, to ceiling-mounted projectors with pull-down projector screens in front of existing whiteboards. This updated scope (which is consistent with recent HS modernization work)
+will allow for work to be completed sooner and on budget, however it has still pushed the work out to 2029, later than the original forecast of project completion by end of 2025.
+
+
+
+
+                                                                                                                                                                      2020 Technology, March 2024
+                                                                                                                                                                                       page 2 of 2
+

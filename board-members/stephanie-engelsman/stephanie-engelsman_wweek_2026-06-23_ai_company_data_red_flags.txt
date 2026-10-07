@@ -1,0 +1,18 @@
+Source URL: https://www.wweek.com/news/schools/2026/06/23/ai-companys-data-collection-raises-red-flags-for-a-pps-board-member/
+Title: AI Company’s Data Collection Raises Red Flags for a PPS Board Member
+Author: Joanna Hou
+Published: 2026-06-23
+Fetched: 2026-10-07
+
+Like districts across Oregon, Portland Public Schools is working to align its policies with two newly passed state laws that will ensure children have access to high-quality education regardless of immigration or citizenship status.
+It took its first public step June 15, when officials introduced a draft policy to the district’s policy committee. The Protecting Student Access and Safe Schools policy includes detailed provisions about notifying families, refining how school staff respond to federal immigration officers and, notably, protecting student information.
+Under the policy, PPS would not disclose education records without appropriate legal authorization, including records that might disclose immigration or citizenship status.
+But School Board member Stephanie Engelsman told fellow committee members she had concerns about how PPS would regulate keeping information confidential. Specifically, she cited an active contract PPS has with Amira Learning, an artificial intelligence software that “listens, assesses and tutors in real time” to help students achieve reading proficiency, according to its website.
+The $5,160 contract that WW obtained through a public records request covered a pilot program at 10 PPS schools primarily for “supplemental literacy tutoring” in the 2025–26 academic year. Buried in the contract, however, is what Engelsman flagged: a long list of data the software collects from students.
+The list includes everything from place of birth and languages spoken to English language learner status, disability information, living situations (including homeless or foster care), and migrant status.
+“Federal immigration officers, if they get their hands on data that shows a family is a migrant family and/or where someone is born, they can get a judicial warrant based on that information,” Engelsman said.
+Sharon Toncray, the district’s chief legal officer, said she would revisit the contract. “It may be that we’re requiring them to deidentify the data,” she said. “They have to comply with our rules about it.” (The contract notes that Amira may not disclose or sell such data unless it has written authorization from the district, or as required by law.)
+Amira did not immediately respond to WW’s request for comment.
+The School Board has in recent weeks grown more concerned with finding a way to regulate AI in the district. It will discuss a potential pause on the use of generative AI on Tuesday night.
+When reached for comment, Engelsman told WW she would advocate for such a pause so the district could scrub any private and protected details from current AI contracts.
+“I have concerns about the district entering into AI contracts and bringing AI platforms into our classrooms without a board policy and specific guard rails,” she says.

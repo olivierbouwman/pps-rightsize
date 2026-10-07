@@ -1,0 +1,126 @@
+Michelle DePass (Zone 2; Vice-Chair 2024-25 and 2025-26; Policy Committee chair and FIOC member 2025-26) - transcript excerpts, PPS Board and committee meetings Jul 2025 - Feb 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (2026-01-30 retreat: local whisper.cpp
+transcription, no YouTube captions). Method: keyword search (rightsiz*, closure, consolidat*, enrollment, boundar*, K-8, middle
+school, focus option, lottery, immersion, seismic, deficit, Jefferson, capture rate, etc.) then reading the surrounding turns.
+Excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is or corrected in
+[brackets]); every quoted fragment was machine-checked against the source file. Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are the caption line start (quote may begin up to ~60s later).
+Caveat: the 2025-08-14 and 2025-09-18 TLE caption files read like machine re-translations ("school limits" = boundaries,
+"coverage/acquisition rate" = capture rate); quotes from them are verbatim to the file but should be checked against video.
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation, discipline or contract terms (incl. the superintendent's); names of private members of the public; for this
+director also: personal/family details volunteered in remarks (e.g., the MLC alumna reminiscences on 2/24/2026 are quoted only where they bear on policy).
+Period summary and cross-director context: BOARD_STATEMENTS_BY_PERIOD.md2025-07_2026-02_summary.md (13 excerpts below).
+
+RECORDED VOTES / MOTIONS
+- MOVED Res. 7187 (Jefferson modernization plan, 10/14/2025, 7-0); seconded Res. 7208 budget calendar (11/4/2025) and the Wang FIOC-charter amendment.
+- MOVED Res. 7216 Procedeo (12/2/2025, passed 5-2); voted NO on the La Forte/Engelsman postponement and amendment.
+- Co-MOVED Res. 7228 end of Jefferson dual assignment (1/13/2026, 7-0); YES on Res. 7229 (6-1). No remarks by her located in the 1/13 debate on 7229.
+- SECONDED the 1/27/2026 consent agenda (incl. Vernon/Winterhaven seismic design) despite stating "great discomfort" with how seismic schools were chosen.
+- 2/24/2026 MLC (her alma mater): no vote; accepted it as a budget "trade-off".
+- Context, related votes this period (all directors):
+  - 2025-07-22 Res. 7148 (PPS/Beaverton SD boundary transfer, ~12 homes in Zone 3): pulled from consent; motion to POSTPONE passed 7-0 (La Forte moved, Chase-Miller seconded). Source: captions S_rBf9XK-JM ~01:37 (no draft minutes in boardbook).
+  - 2025-08-05 Res. 7148: placed on table (DePass moved, Chase-Miller seconded); motion to POSTPONE pending a corrected fiscal-impact statement passed 7-0 (La Forte moved, Sullivan seconded). Source: captions oCxJzz7r-fk ~00:23-00:48. No later disposition found in boardbook through Feb 2026.
+  - 2025-09-09 seismic program approach (A/B/C): discussion only, NO vote (deferred to FIOC 9/16 and full board 9/30).
+  - 2025-10-14 Res. 7187 Jefferson HS modernization revised comprehensive plan 7-0 (DePass moved, Splitt seconded); Res. 7188 Cleveland HS plan 7-0 (Engelsman moved, La Forte seconded); Res. 7202 FIOC charter 7-0 (Sullivan moved, Splitt seconded) after Wang amendment ("approvals"->"recommendations"; Wang moved, DePass seconded) 7-0. Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_10_14_Regular_Board_Meeting_Draft_Minutes_3989403.txt
+  - 2025-11-04 Res. 7207 Ida B. Wells HS plan amendment (~$5.6M savings) 7-0 (Splitt moved, Sullivan seconded); Res. 7208 2026-27 budget calendar 7-0 (Chase-Miller moved, DePass seconded). Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_11_04_Regular_Board_Meeting_Minutes_-_Draft_for_Consideration_3996763.txt
+  - 2025-12-02 Res. 7216 Procedeo bond program-management contract (bond/seismic delivery) passed 5-2: Wang, DePass, Chase-Miller, Splitt, Sullivan YES; La Forte, Engelsman NO (Ritorto no, unofficial). DePass moved, Chase-Miller seconded. La Forte/Engelsman motion to postpone failed 2-5; their amendment (strike incentives, 1-yr term) failed 2-5. Splitt called the question (overridden by chair; appeal not seconded). Source: boardbook/2025-12-16_Work_Session_with_Vote_on_Consent_Agenda_722619/2025_12_02__Regular_Meeting_Minutes_-_Draft_for_consideration_3996787.txt
+  - 2026-01-13 Res. 7228 end Jefferson dual assignment / designate Jefferson a comprehensive HS from 2027-28: 7-0 (Chase-Miller and DePass moved, La Forte seconded; Ritorto yes, unofficial).
+  - 2026-01-13 Res. 7229 Jefferson attendance boundaries (Scenario C: Beach, Boise-Eliot/Humboldt, Chief Joseph, King, Faubion, Sabin, Vernon, Woodlawn -> Jefferson; Irvington -> Grant; Peninsula -> Roosevelt): passed 6-1 (Splitt moved, Sullivan seconded; Engelsman NO; Ritorto NO, unofficial). Engelsman motion to add a course-offering date was withdrawn without a second. Source: boardbook/2026-02-10_Regular_Meeting_730093/2026_01_13_Regular_Meeting_Minutes_-_Draft_for_Consideration_3996890.txt (incl. Engelsman statement for the record).
+  - 2026-01-27 consent agenda Res. 7241-7242 (7241 includes A&E design for Vernon and Winterhaven seismic rehabilitation, 2020 bond): 7-0 (Sullivan moved, Vice-Chair DePass seconded) after Splitt, Chase-Miller, DePass and La Forte voiced concern that seismic selection was preceding rightsizing. Source: boardbook/2026-02-24_Work_Session_with_Vote_on_Consent_Agenda_731954/2026_01_27_Special_and_WS_minutes-draft_for_consideration_3996963.txt; Resolution_7241 in boardbook/2026-01-27_Work_Session_and_Special_Meeting_728105/
+  - 2026-02-24 Metropolitan Learning Center grades 9-12 discontinued: NO board vote (staff decision presented at a work session; superintendent said it would be folded into the June budget vote; staff/legal said it is a program change, not a school closure under policy 6.10.030). Source: boardbook/2026-03-10_Regular_Meeting_734436/2026_02_24_Work_Session_Minutes_-_Draft_3997016.txt
+
+EXCERPTS
+
+[2025-08-12 Facilities Improvement & Oversight Committee - 2020/2025 bond programs, deferred maintenance]
+  time 01:17:07 | https://www.youtube.com/watch?v=_1vhKE_wSC4&t=4627s
+  source: transcripts/text/2025-08-12_Board_of_Education_s_Facilities_Oversight_Improvement_Committee___1vhKE_wSC4.txt
+  attribution: PROBABLE (FIOC members present: La Forte (chair), DePass, Chase-Miller, plus Chair Wang; speaker raises Portland Clean Energy Fund (DePass's city climate work) and an "algorithm" for decisions, the same framing DePass uses on 9/9 when staff credit "Director Depass's ... questions around right sizing")
+  topic: avoid investing in buildings that may be consolidated
+  "there's never enough money to do everything that this district needs. just it's that kind of leads to the question that I have which is how do we balance uh priorities for projects um when we also know we may be looking at consolidations and I'm thinking about putting a lot of money and resources into a school that [...] in not very long we end up recognizing needs like more than what we can give it and that's one of the schools that's going to consolidated. So, how are we caring for that tricky balance?"
+
+[2025-09-09 Regular Meeting - Seismic study report]
+  time 04:00:07 | https://www.youtube.com/watch?v=OZXNdCFV5Uk&t=14407s
+  source: transcripts/text/2025-09-09_Board_of_Education_Regular_Meeting__OZXNdCFV5Uk.txt
+  attribution: CONFIRMED that she spoke on right sizing here (staff at 04:03:07: "back to director Lefort and Director Depass's statement or questions around right sizing"); PROBABLE that this is her turn (second of the two consecutive speakers; "algorithm" framing as on 8/12)
+  topic: seismic spending must be sequenced with rightsizing; district won't keep every building
+  "I I I have similar concerns. So I in my mind the way to solve that would be to like build an algorithm. [...] we can't have this conversation in a vacuum because we've got 81 campuses because we're going to be kind of looking at boundaries in Northeast [...] ideally we would it'd be great to have every single building in the portfolio but we're not going to be inhabiting every single building. [...] Are there buildings that we know that's not going to happen to that are in the high risk?"
+
+[2025-09-09 Regular Meeting - Seismic study report]
+  time 04:12:16 | https://www.youtube.com/watch?v=OZXNdCFV5Uk&t=15136s
+  source: transcripts/text/2025-09-09_Board_of_Education_Regular_Meeting__OZXNdCFV5Uk.txt
+  attribution: CONFIRMED (chair calls "Depass"; self-reference "I work for the city", "climate mitigation during my day job")
+  topic: map vulnerable populations and resilience hubs when choosing seismic sites
+  "I'm thinking about climate resilience and looking at hubs [...] which ones can be can serve as resilience hubs in the case of a largecale emergency. [...] we can have multiple layers of a map that allow us to make the decisions that get to the most vulnerable people, the the renters, you know, the the the people that have less money, the people that are higher in poverty, and also look at what we have in terms of mapping out where our assets are"
+
+[2025-09-16 Facilities Improvement & Oversight Committee - HS modernization comprehensive plans]
+  time 00:43:36 | https://www.youtube.com/watch?v=ad4QXrU0m7w&t=2616s
+  source: transcripts/text/2025-09-16_Board_of_Education_s_Facilities_Improvement_and_Oversight_Committee__ad4QXrU0m7w.txt
+  attribution: PROBABLE (FIOC members present were La Forte (chair, asking the preceding questions), DePass and Chase-Miller; "build for 100 years" is DePass's recurring framing, cf. OPB 2026-01-28 and 10/14 below)
+  topic: build for 100 years despite enrollment projections
+  "100 years ago school board school leaders imagined a future they couldn't even imagine. They invested in 81 plus campuses and buildings when Portland had population of a less than a third of of what it is today. [...] And our board is tasked with the same type of future focused um decision-making where we can't see the population in front of us in 100 years. [...] we have to like the like the former board members take that leap of faith and design for, you know, into the 22nd century."
+
+[2025-10-14 Regular Meeting - Bond Accountability Committee report]
+  time 01:49:25 | https://www.youtube.com/watch?v=p6iGaRklgp0&t=6565s
+  source: transcripts/text/2025-10-14_Board_of_Education_Regular_Meeting__p6iGaRklgp0.txt
+  attribution: PROBABLE (same "100 years / leap of faith" argument as 9/16 FIOC; OPB 2026-01-28 quotes DePass "build for 100 years"; no name in captions)
+  topic: rejects BAC view that HS are oversized for declining enrollment
+  "I have a quick comment just about the uh building of three high schools at one time and the um risk of you know you're looking at the data the population projections um and it would be very easy to you know say let's don't do let's don't build Jefferson. [...] population does does dip and there there are rises and falls and they're not in the 5-year projections that the demographics um researchers uh predict for us. So I think you know let's build for the future. We have to build schools that are 100 years will last 100 years"
+
+[2025-12-16 Work Session - Jefferson HS academic programming / Scenario C]
+  time 02:22:55 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=8575s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: PROBABLE (self-references to having attended Jefferson, living in its catchment and being a "non-educator" match her 12/8 self-introduction; responds to Splitt's monitoring proposal)
+  topic: monitoring Jefferson; skeptical of 10-year monitoring horizon
+  "I want to appreciate the presentation. I did not understand those statistics at first and I appreciate you talking about how great Jefferson is because we've heard a lot about what it isn't. [...] I I agree that we should do some monitoring. I I don't know for 10 years like it's we have to trust that it'll you know I I hope that it'll be good and you know by the time we open fully. Um I think the regular progress updates would be great. I think to monitor it and hold it to a different standard than some of our schools is um saying something about uh what our expectations are."
+
+[2025-12-16 Work Session - Jefferson HS academic programming / Scenario C]
+  time 03:13:22 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=11602s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: PROBABLE ("very familiar with the history having attended it"; "I've been here a long time" = longest-serving director)
+  topic: wants 40-year history of Jefferson decisions in front of the board before the vote
+  "I I I'm very familiar with the history having attended it in historical times. [...] a community member sent a really um great historical record [...] about who is here and the impacts of the discussions that we've or the decisions we've made over the last 40 years actually. [...] we're going to be making a big decision for our community and >> monumental >> monumental. Um, and I think it might be helpful to understand the context because, you know, I've been here a long time. Some people maybe have only been here five years, 10 years."
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: seismic contracts]
+  time 01:35:14 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=5714s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair: "Vice Chair [DePass]"; chair later refers to "what vice chair depass raised")
+  topic: seismic picks = de facto "won't close"; whole-board, equity-lens decision
+  "we have a couple of school communities who have basically been told that they're going to get seismic improvements meaning that they won't close. But I think because uh in light of our budget [...] cuts that we're going to be making, I feel like it's prudent for the whole board, not just the committee to really um talk about systemwide looking at the impact [...] we don't hear from schools that are uh lower income, more kids of color, people living in poverty [...] it needs to be a communitywide conversation [...] as we're talking about consolidating schools. I feel like this um decision was kind of rushed"
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: seismic contracts]
+  time 01:47:27 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=6447s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair/staff: "vice [chair DePass] and then director Chase Miller")
+  topic: "right sizing conversation should happen first"
+  "I would encourage anybody that has questions to go visit Buckman and go to their cafeteria [...] The beams are failing [...] I'm not comfortable um moving forward as a board member seeing what I have seen, knowing what I know about seismic retrofits and also understanding the work in front of us to rightsize our [...] district. It it's it's almost like a chicken egg thing. [...] We have to have those difficult conversations in community first before promising buildings that will be completely seismically improved. [...] We can't put it off. We have to do them in concert and I would think that the right sizing conversation should happen first and then we have a pool of buildings that we then know what uh where to place investments."
+
+[2026-01-30 Board Retreat (whisper transcript) - governance / board-staff roles]
+  time 03:07:31 | https://www.youtube.com/watch?v=K5pmA0yK2eQ&t=11251s
+  source: transcripts/text/2026-01-30_Board_of_Education_Retreat__K5pmA0yK2eQ.txt
+  attribution: CONFIRMED (self-reference "over the six years"; facilitator: "thank you for that input michelle")
+  topic: deference to staff expertise
+  "the best way i can show up is is um to do what i do best and that might be to interrogate the what we're what i'm seeing in front of me and allowing the people that have phd level [...] and the 25 years of experience that i don't have [...] i place a tremendous amount of trust of what i what i'm hearing from the district i don't feel like i'm here to rubber stamp i've been able to like put my foot down a few times [...] but it's not an everyday questioning the competency of the executive team which creates low morale"
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:08:20 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=4100s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (self-identifies: "I'm Michelle and I actually graduated from MLC")
+  topic: MLC alumna accepts the trade-off; $50M deficit
+  "we can survive change. Um, people do it all the time. We can be resilient to change. [...] we are tasked with being up here thinking about 44,000 children including the 30 that are uh that are high school students here. [...] we care about all kids, including MLC kids, and we have a $50 million budget deficit this year. We had a $40 million last year, a 30 million be the year before that. Um, that does not come without trade-offs, and this is one of those trade-offs."
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:17:30 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=4650s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair: "I'll call on ... vice chair [DePass] first")
+  topic: "bouncing it down the road isn't going to help"
+  "we have a bunch of hard decisions in front of us and we're [...] going to have lots of trade-off. We're not going to be a able to um get everything that we hear from community. We've heard from Crestston [Creston] Ainsworth Dunaway [Duniway] Roosevelt um trying to think uh Woodlon [Woodlawn] Peninsula Cos Chavez. [...] We have really, really tough budget decisions and bouncing it down the road isn't going to help [...] The last few years I've been on the board, we cut fat. We're now into muscle and bone"
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:51:10 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=6670s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair immediately after: "vice chair[ DePass]'s request")
+  topic: asks for historical data on closures/busing harms to communities of color
+  "is there some way we can look at the historical uh outcomes from school closures and uh busing and some of those uh decisions that were made by I'll say all-white boards uh in the 70s and 80s up until very recently that resulted in uh kids from my community being bus[sed] out of the community, schools in my community and in my neighborhood being closed. [...] how these decisions that seemingly are neutral um how they end up disproportionately harming communities of color."

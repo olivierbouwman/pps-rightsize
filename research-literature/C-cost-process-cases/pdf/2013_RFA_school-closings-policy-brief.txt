@@ -1,0 +1,324 @@
+I.        Introduction
+The nation’s largest school districts have increasingly turned to building closures to address budget
+deficits, demographic shifts, and the movement of students to charter schools. Over the past decade, 70
+large or mid-sized cities closed schools—averaging 11 buildings per closure. 1 This trend shows no signs
+of slowing:
+
+      •   Washington, D.C. closed 23 buildings in 2008. Officials are currently considering another 15
+          closures. 2
+      •   New York City closed more than 140 schools since 2002; leaders recently announced plans to
+          shutter 17 more, beginning in 2013-14. 3
+      •   Chicago closed 40-plus buildings in the early 2000s. The district recently released a list of 129
+          schools to be considered for closure. 4
+
+Here in Pennsylvania, Philadelphia’s School Reform Commissioners are expected to vote in early March
+on a plan to close 29 schools, more than 10 percent of the district’s complement. Pittsburgh, the state’s
+second-largest district, has halved its building capacity since 1997. With school administrators in nearly
+100 districts statewide expecting to experience financial distress within three years, closure—and other
+approaches to cost-savings—hold relevance for the entire Commonwealth. 5
+
+This brief is designed to inform school closure debates and decisions with a summary of rigorous
+research on large-scale school closings and the experiences of major districts nationwide.
+
+
+II.       Pennsylvania Context
+While state lawmakers and school administrators have long employed school district consolidation as
+means to deal with structural challenges, large-scale building closures are increasingly central in
+educational accountability policies. Philadelphia’s superintendent, facing a $300 million annual debt
+payment and a $1 billion long-term deficit, characterizes closings as an academic necessity and financial
+imperative. 6 After years of piecemeal closing decisions, Pittsburgh used academic performance as its
+primary criteria for selecting which buildings to close during its largest single-year reduction.
+
+The process in Pittsburgh provides important insight on challenges and considerations associated with
+closings. In 1997, consultants examining operations in Pittsburgh Public Schools (PPS) recommended
+closing 21 buildings. Since then, the district has reduced the number of school buildings from 93 to 54
+in an attempt to match operations with a diminishing student population and persistent financial
+
+                                                                                                              1
+deficits. The following figure provides a timeline of decisions by district leaders during this period. As
+Figure 1 indicates, the district’s closing strategy, and criteria for selecting schools, has evolved. Despite
+the scale of closings over the past 15 years, PPS continues to encounter financial and academic
+pressures. While district officials are not currently planning additional closures, future closures are
+possible.
+
+Figure 1. 15 years of closings in Pittsburgh Public Schools 1
+
+
+
+
+Sources: Pittsburgh Post-Gazette & Pittsburgh Public Schools
+
+
+
+III.      School Closings: Frequently Asked Questions
+Q. What factors drive school closures?
+Policy decisions at the federal and state levels, lingering economic challenges, and student demographic
+shifts have contributed to the increase in school closures. Specifically:
+
+•      Federal policy from both Republican and Democratic administrations have emphasized school
+       closings as an accountability measure, and provided incentives to close buildings that lag on
+
+
+1 Information for this graphic was compiled from articles in the Pittsburgh Post-Gazette; RFA staff reviewed 60 articles and editorials from
+
+April 2001 to December 2012.
+
+                                                                                                                                               2
+    achievement indicators such as standardized test results. Closings were identified as remedies
+    through the No Child Left Behind Act; the U.S. Department of Education’s Race to the Top program,
+    which allocated $4.35 billion in competitive funding to states; and the Department’s School
+    Improvement Grants, which provided schools with $3.5 billion in 2010 alone. 7 8
+
+•   State education budgets, far more central to school funding than federal investments, have
+    tightened since the onset of the recession. In the 2012-13 school year, 26 states will spend less per
+    pupil than the previous year. After adjusting for inflation, 35 states are spending less than before the
+    recession. 9
+
+•   At the local level, many districts—especially in urban areas—are experiencing persistent declines
+    in enrollment as a result of population shifts and increasing charter school attendance. Nationwide,
+    charter enrollment has tripled since 2000 10 and this movement has been most pronounced in urban
+    districts as evidenced in Figure 2, below. Philadelphia saw an 18 percent decline in traditional
+    school enrollment from 2005 to 2012, while its charter enrollment nearly doubled to comprise
+    roughly a quarter of the district’s total.
+
+Figure 2. Charter school enrollment as percent of district total, 2005-2012
+
+
+
+
+Sources: National Center for Education Statistics, Pittsburgh Post-Gazette, National Alliance for Public Charter Schools
+
+
+Q. How do officials determine which schools to close?
+While the factors influencing closure policies are largely consistent across districts, the decisions about
+which buildings should close vary by locality. Table 1 highlights five cities that have recently managed
+significant closures, along with the main criteria used to select buildings.
+
+
+
+
+                                                                                                                           3
+Table 1. Comparison of closures in five cities
+
+
+
+
+                                                                                                                                             2
+
+
+
+Officials in Chicago, Washington, D.C., Pittsburgh, and Philadelphia used enrollment rates and building
+conditions to help identify which schools to close. New York City is a notable exception. Since taking
+office in the early 2000s, Mayor Bloomberg’s administration has closed dozens of large, low-performing
+high schools and replaced them with hundreds of new, small high schools. This policy has been aided by
+substantial contributions from philanthropic organizations. 11
+
+Q. Have charter schools been subject to closures?
+Charters are not typically included in mass closure plans. The process for charter closure also varies,
+depending on state law. Closure rates across all types of charter school authorizers (e.g., local districts,
+state agencies) are low; according to the National Association of Charter School Authorizers’ most
+recent survey, fewer than three percent of charter schools in operation in 2010-11 closed. The numbers
+increase to 6.2 percent when the population is narrowed to charter schools up for renewal. 12 Increasing
+enrollments among charters – coupled with low rates of charter closure – are factors that can
+contribute to decisions to shutter district-run schools.
+
+
+Q. What are the savings – and costs – typically experienced through school
+closings?
+Large-scale school closings are a relatively new policy prescription, which helps explain the paucity of
+rigorous research on long-term savings. A 2011 Pew analysis of six major districts nationwide found
+that average annual savings in the years immediately following closures were under $1 million per
+building. Specific district savings include $14.7 million from Pittsburgh’s closure of 22 buildings and
+$16.7 million from D.C.’s 23-school reduction. 13
+
+The majority of savings achieved through closings are derived from personnel reductions including
+principals and assistants and clerical, food service, and custodial employees. 14 The largest savings occur
+when closings are combined with extensive faculty layoffs, but these do not commonly accompany
+closings. 15 Notably, the School District of Philadelphia does not include teacher layoffs in its closure plans.
+
+
+*Refers to the additional schools proposed for closure as of this brief’s publication. (Philadelphia closed six public schools during the 2011-12
+school year. Building conditions and utilization rates were the primary criteria used to identify closure schools at that time; academic
+performance was not a primary factor.
+
+
+
+                                                                                                                                                    4
+Q. What factors lessen the savings accrued by school closings?
+Savings are mitigated by expenses such as maintaining vacant building sites, moving property, and
+transitioning and students and staff. 16 Costs inherent in building closings are sometimes unexpected. For
+example, D.C. officials initially reported approximately $10 million in implementation expenses
+associated with its 2008 closings. Yet a 2012 report by the District of Columbia Auditor reported costs
+exceeding $40 million due to higher outlays for transportation, moving and relocation, demolition, and
+the significant devaluation of several closed buildings. 17 Building re-sales have also proved problematic.
+Research on 12 cities—including Philadelphia and Pittsburgh—revealed that sales prices for most
+shuttered schools ranged from $200,000 to $1 million—frequently below initial projections—and found
+challenges due to real estate conditions and difficulty in finding suitable occupants in depopulated or
+declining areas. The report found charter schools to be the most common receiver of district buildings. 18
+
+Q. What do we know about student populations impacted by closings?
+Community groups in a number of cities, including Philadelphia, filed a civil rights complaint with the
+U.S. Department of Education arguing that closings have a disproportionate impact on African
+American and Hispanic students, and special needs students. 19 A study of closings in New York City
+found closing schools had greater numbers of economically disadvantaged, special needs, African
+American, and English language learner students compared to respective district averages. The same is
+projected for planned closures in Philadelphia. 20 21 In New York, several schools targeted for closure
+experienced dramatic increases in high-needs student populations in the five years prior to phase-out. 22
+Research on Chicago’s school turnaround efforts found that when a school closed and later reopened
+with new staff, the school tended to serve fewer special education students and more economically
+advantaged and higher achieving students. 23
+
+Q. How do mass closings impact student achievement and related factors?
+In studies of three cities, large-scale closings were seldom found to improve student performance, and
+in some instances showed long-term negative effects:
+
+•   A study of closings in Chicago found negative short-term effects on test scores for transferring
+    students, but no long-term negative impacts. The study reported larger academic gains for the 6
+    percent of displaced students sent to schools with high average achievement levels. 24
+•   Examination of Washington, D.C.’s closure and consolidation policy also found negative impacts on
+    test scores for displaced students in the year following closure. However, student performance
+    rebounding to rates similar to their unaffected peers in the next school year. 25
+•   Research on the effects of mass closings in an unnamed, medium-sized urban district found small,
+    persistently negative effects on test scores for displaced students. These negative effects were
+    smaller when students were sent to better achieving schools. 26
+•   New York City has seen increased graduation rates in its Small Schools of Choice policy that closed
+    large high schools and opened new high schools with approximately 100 students per grade. 27
+
+Beyond test scores, a body of research on student mobility indicates that students who change schools
+often tend to have higher dropout rates and lower graduation rates. 28 However, this research is limited
+and less consistent in relationship to closings’ impact on mobility in the years after closure. A Chicago
+Consortium on School Research report notes that displaced students “were more likely to change
+schools in the future.” Alternatively, research on Washington D.C.’s closings and consolidations did not
+find evidence that displaced students were more likely to change schools in subsequent years. 29
+
+
+
+
+                                                                                                          5
+Q. Under what school closing circumstances do students do best
+academically?
+Transferring displaced students to higher performing schools can minimize adverse effects or produce
+achievement gains, according to two rigorous studies that examined the impact of mass closings on
+student test scores in Chicago and another urban district. 30,31
+
+Q. What barriers prevent districts from transferring students to high-
+performing schools?
+In designing closure plans, school officials often set a goal of placing students in comparably- or higher-
+performing schools—or schools with enhanced programs and services. 32 Yet these intentions are often
+thwarted by logistical challenges or an insufficient number of seats in better-achieving sites. For
+example, RFA’s analysis of enrollment rates in Philadelphia found limited seats in the district’s highest
+performing schools. 33 In Chicago, displaced students who enrolled in low-performing schools largely
+remained in their resident attendance areas, while most students who enrolled in top-performing
+schools after closures traveled an average of 3.5 miles to do so. 34 This commute points to concerns
+raised by parents and community groups regarding the safety of students traveling large distances to
+attend school. 35
+
+Endnotes
+1 Engberg, J. Gill, B., Zamarro, G., Zimmer, R. (March, 2012). Closing schools in a shrinking district: Do student outcomes
+
+          depend on which schools are closed? Journal of Urban Economics, Volume 71, Issue 2. Pgs. 189-203.
+2 Emma Brown. (2013, January 17). “Chancellor Kaya Henderson names 15 D.C. schools on closure list.” The Washington Post.
+
+             Retrieved from: http://articles.washingtonpost.com/2013-01-17/local/36409973_1_charter-schools-schools-on-closure-list-
+             garrison-elementary
+3 Al Baker. (2013, January 7). “City names 17 schools slated to close.” The New York Times. Retrieved from:
+
+             http://cityroom.blogs.nytimes.com/2013/01/07/city-names-17-schools-slated-to-close/
+4 FitzPatrick, L. (2013, February 14). 129 CPS schools at risk of closing; West side parents vow to fight. Chicago Sun-Times.
+
+             Retrieved from: http://www.suntimes.com/news/metro/18187995-418/cps-chief-releases-list-of-129-schools-that-could-close-
+             most-on-south-and.html
+5 Pennsylvania School Boards Association. (2012). Student learning opportunities slashed across state as financial condition of
+
+             school districts continues to deteriorate [Press release]. Retrieved from:
+             http://www.pasbo.org/PressReleaseReportSurvey_FINAL.pdf
+6 William R. Hite (2013, February 25). Hite: Status quo can't continue. The Philadelphia Inquirer. Retrieved from:
+
+             http://articles.philly.com/2013-02-25/news/37291271_1_school-closures-moratorium-on-school-closings-school-district.
+7 U.S. Department of Education. (2009, November). Race to the top program: Executive Summary. Retrieved from:
+
+             http://www2.ed.gov/programs/racetothetop/executive-summary.pdf.
+8 U.S. Department of Education. School Improvement 2010 Grants. Retrieved from:
+
+             https://explore.data.gov/Education/School-Improvement-2010-Grants-Map-View/b5in-8tnq
+9 Oliff, P., Mai, C. & Leachman, M. (2012). New school year brings more cuts in state funding for schools. Center on Budget and
+
+             Policy Priorities. Retrieved from: http://www.cbpp.org/cms/index.cfm?fa=view&id=3825
+10 Dowdall, E. (2011, October). Closing Public Schools in Philadelphia: Lessons from Six Urban Districts. The Pew Charitable
+
+             Trust: Philadelphia Research Initiative. Retrieved from:
+             http://www.pewtrusts.org/uploadedFiles/wwwpewtrustsorg/Reports/Philadelphia_Research_Initiative/Closing-Public-Schools-
+             Philadelphia.pdf.
+11 Reckhow, S. (2013). Follow the Money: How foundation dollars change public school politics. Oxford University Press.
+12 NACSA, State of Charter School Authorizing, 2011.
+13 Dowdall, E. (2011).
+14 McMillin, E. (2010). “Closing a School Building: A Systematic Approach” National Clearinghouse for Educational Facilities.
+15 Dowdall, E. (2011).
+16 Ibid.
+17 Office of the District of Columbia Auditor. (September, 2012). Audit of the closure and consolidation of 23 D.C. public
+
+             schools. Retrieved from: http://dcauditor.org/sites/default/files/DCA192012.pdf
+18 Dowdall, E. and Warner, S. (2013). Shuttered public schools: The struggle to bring old buildings new life. The Pew Charitable
+
+             Trusts. Retrieved from:
+             http://www.pewtrusts.org/uploadedFiles/wwwpewtrustsorg/Reports/Philadelphia_Research_Initiative/Philadelphia-School-
+             Closings.pdf.
+19 Jon Hurdle. (2013, January 28). Education Dept. to Hear School Closing Complaints. The New York Times. Retrieved from:
+
+             http://www.nytimes.com/2013/01/29/education/education-department-to-hear-school-closing-complaints.html?smid=tw-
+             share&_r=2&
+20 New York City Working Group on School Transformation (April. 2012). The Way Forward: From Sanctions to Supports.
+
+
+
+
+                                                                                                                                        6
+             Annenberg Institute for School Reform at Brown University. Retrieved from:
+             http://annenberginstitute.org/pdf/SchoolTransformationReport.pdf;
+21 Research for Action (August 7, 2012). Description of Eight Philadelphia Schools Slated for Closure or Phase-Out. Memo to
+
+             Annenberg Institute for School Reform and Affiliated Organizing Groups.
+22 New York City Working Group on School Transformation (April. 2012).
+23 de la Torre, M., Allensworth, E., Jagešić, S., Sebastian, J., Salmonowicz, M., Meyers, C., and Gerdeman, R.D. (2012). Changes in
+
+             student populations and teacher workforce in low-performing Chicago schools targeted for reform. (Issues & Answers Re-port,
+             REL 2012–No. 123). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education
+             Evaluation and Regional Assistance, Regional Educational Laboratory Midwest. Retrieved from http://ies.ed.gov/ncee/edlabs.
+24 de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in chicago public
+
+             schools. Consortium on Chicago School Research. Retrieved from:
+             http://ccsr.uchicago.edu/sites/default/files/publications/CCSRSchoolClosings-Final.pdf.
+25 Ozek, U., Hansen, M., and Gonzalez, T. (2012). A leg up or a boot out? Student achievement and mobility under school
+
+             restructuring. National Center for Analysis of Longitudinal Data in Education Research. Retrieved from:
+             http://www.caldercenter.org/publications/upload/wp78.pdf.
+26 Engberg, J. Gill, B., Zamarro, G., Zimmer, R. (March, 2012).
+27 Bloom, H.S., and Unterman, R. (2012). Sustained positive effects on graduation rates produced by New York City’s Small
+
+             Public High Schools of Choice. MDRC. Retrieved from: http://www.mdrc.org/sites/default/files/policybrief_34.pdf.
+28 Government Accountability Office. (2010). Many challenges arise in educating students who change schools frequently.
+
+             Retrieved from: http://www.gao.gov/assets/320/312480.pdf.
+29 Ozek, U., Hansen, M., and Gonzalez, T. (2012).
+30 de la Torre, M. & Gwynne, J. (2009, October).
+31 Engberg, J., Gill, B., Zamarro, G., Zimmer, R. (March, 2012).
+32 Gill, B., Engberg, J. & Booker, K. (2005). Assessing the performance of public schools in Pittsburgh. RAND. Retrieved from:
+
+             http://www.rand.org/content/dam/rand/pubs/working_papers/2005/RAND_WR315-1.pdf
+33 Research for Action (December, 2012) School district of Philadelphia: Seats available by SPI quality index. Research Note.
+
+             Retrieved from: http://www.researchforaction.org/2012/12/13/rfa-publishes-analysis-of-seats-available-to-students-in-light-of-
+             phila-school-closing-plan/
+34 de la Torre, M. & Gwynne, J. (2009, October). When schools close: Effects on displaced students in chicago public
+
+             schools. Consortium on Chicago School Research. Retrieved from:
+             http://ccsr.uchicago.edu/sites/default/files/publications/CCSRSchoolClosings-Final.pdf
+35 Lipman, P. and Person, A. (2007). “Students as collateral damage? A preliminary study of renaissance 2010 school closings in
+
+             the Midsouth. Retrieved from: http://www.uic.edu/educ/ceje/articles/midsouth%20initial%20report%201-31-07.pdf
+
+
+
+
+                                                                                                                                          7
+

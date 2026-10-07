@@ -1,0 +1,36 @@
+# Local tooling
+.venv/
+.playwright-mcp/
+.idea/
+.DS_Store
+__pycache__/
+
+# Large, re-downloadable originals. Every PDF has an extracted .txt next to it,
+# and scripts/boardbook_scrape.py re-fetches them. (One PDF is over GitHub's 100 MB limit.)
+*.pdf
+*.png
+transcripts/raw_vtt/
+
+# Raw captured web pages. The cleaned .txt/.md versions are kept.
+*.html
+news/raw/fetch/
+
+# ORESTAR exports include individual donors' home addresses.
+# SUMMARY.md (no addresses) is kept.
+board-members/_campaign_finance/*.xlsx
+
+# --- If this repo is PUBLIC, also uncomment these. ---
+# Full-text copies of copyrighted news articles. news/INDEX.md keeps titles, links and short summaries.
+# news/*.txt
+# board-members/_shared/news/
+# board-members/*/*_wweek_*.txt
+# board-members/*/*_oregonian_*.txt
+# board-members/*/*_opb_*.txt
+# board-members/*/*_katu_*.txt
+# board-members/*/*_kptv_*.txt
+# board-members/*/*_koin_*.txt
+# board-members/*/*_kgw_*.txt
+# board-members/*/*_mercury_*.txt
+# board-members/*/*_tribune_*.txt
+# board-members/*/*_axios_*.txt
+# board-members/_browser_fetch/kgw_*.txt

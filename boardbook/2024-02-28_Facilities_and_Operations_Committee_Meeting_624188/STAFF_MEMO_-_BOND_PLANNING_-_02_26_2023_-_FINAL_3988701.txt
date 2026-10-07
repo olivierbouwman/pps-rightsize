@@ -1,0 +1,447 @@
+                            PORTLAND PUBLIC SCHOOLS
+                            OFFICE OF OPERATIONS
+                            501 North Dixon Street / Portland, OR 97227
+                            Telephone: (503) 916-2000
+                            Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+                                               STAFF MEMO
+
+Date:           February 26, 2024
+
+To:             Board of Education
+
+From:           Dan Jung, Chief Operating Officer
+
+Subject:        General Obligation Bond Planning
+
+
+
+
+Introduction
+The next general obligation bond (GO bond) is anticipated to be presented to voters in November 2024.
+In order to refer a GO bond package, the District must determine:
+
+      1. The amount of the GO bond
+      2. The financing plan
+      3. The scope of work
+
+To meet the November 2024 goal, a GO bond referral must be made no later than August. It will be
+important that these decisions be made quickly to allow time for further scope refinement, review by
+the Bond Accountability Committee and community input.
+
+Below is a sample GO bond development schedule.
+
+
+
+
+                                                                                                        1
+At the January 23, 2024 Board of Education Study Session, Directors reviewed staff materials and
+provided feedback on potential bond scope of work, financing and more. General takeaways from that
+meeting were that staff should consider:
+
+    ●   Pursuing a larger bond principal amount
+    ●   Continuing to prioritize high school modernization projects
+    ●   Allocating significant funds to address existing facility conditions
+    ●   Proceeding with planned technology improvements
+    ●   Retaining the existing levy rate
+
+Tonight Staff are providing an updated sample bond option for your review and consideration.
+
+
+
+        Sample Option Summary
+             Approximate Principal Amount:                          $1.8 billion
+             Estimated Levy Rate:                                   $2.50/1,000
+             Estimated Total Interest:                              $1 billion
+
+Cost Estimates
+All provided cost numbers are estimates and will change. Staff are actively working on a number of
+updates including for the modernizations, curriculum-related improvements, etc. Estimates will be
+updated as new cost data is obtained.
+
+
+
+
+Sample Option | Scope of Work
+Physical Facility Improvements
+Due to PPS’s overall physical condition needs, it is not feasible to address all building conditions in one
+bond. The sample option includes $400 million for physical facility improvements, to include deferred
+maintenance and capital asset renewal.
+
+
+
+
+                                                                                                              2
+            Deferred Maintenance
+            PPS’s Capital Improvement Plan (CIP) is the first step in identifying and prioritizing
+            data-driven capital needs to help guide future investment. FCI, or Facility Condition Index, is
+            a ratio of documented repair costs to facility replacement costs; the most current collective
+            FCI score of District assets based on the 2021 Facilities Condition Assessment (FCA) is 0.13
+            or “Poor”. Staff estimates the cost to address all noted FCA deficiencies over a 10-year
+            period would cost $992 million. Staff estimate that to reduce the FCI from “poor” to “fair”
+            or .074 (the midpoint of FCI “fair” range .05 to .1), over a ten-year period, would require a
+            total investment of approximately $700 million. These calculations are based solely on the
+            deficiencies identified in the FCA and do not account for additional asset failures or other
+            increases in the deferred maintenance backlog after completion of the FCA or capital asset
+            renewal needs.
+
+            Capital Asset Renewal
+            The APPA (formerly the Association of Physical Plant Administrators) benchmark for annual
+            investment into maintenance and refurbishment is 3% of current replacement value (CRV) for a
+            ten-year total investment of $2.4 billion.1 Allocating enough funds to move PPS’s facility
+            condition from poor to fair (over 10 years), and APPA’s benchmark for capital renewal, sums to
+            $2.4 billion over ten years; or $241 million annually.
+
+Staff recommend writing the GO bond language to cover a mix of physical facility improvements that
+address existing facility deficiencies that include known and unknown deferred maintenance items and
+capital renewal needs. Sample scope of work include plumbing, mechanical, electrical, fire suppression,
+roofing, exterior building skin (including windows), kitchen equipment, playground equipment, site work,
+etc. The intent of the funding is to complete work that addresses existing building conditions and
+improves the District’s overall FCI.
+
+$400 million would substantially improve many schools across the District. PPS would execute the work
+by using a 2-pronged approach of completing full building system replacements where feasible and
+bundling smaller scopes into larger projects. For example, large building systems - such as roof
+replacements or HVAC upgrades - may be executed as stand alone projects, often completed in one
+phase. For smaller scopes of work we will aim to bundle all work together in one project to complete as
+much as possible and practical at one location. Where feasible projects will be completed in summer
+and off hours, however larger scopes will need to be completed in multiple phases including
+concentrated summer work and work during the school year.
+
+PPS’s physical facility needs are extensive, and $400M is a substantial sum; however, it will not address
+all needs. For example:
+
+
+
+
+1
+    This estimated investment includes both capital costs and non-capital routine maintenance.
+
+
+                                                                                                              3
+   ●   Seismic - Modernized schools in the GO bond will meet current seismic code requirements,
+       however the sample option does not include dedicated funding for seismic improvements.
+       Currently few PPS buildings meet current seismic codes. The sample option will not materially
+       improve PPS’s seismic condition. See PPS’s Earthquake Preparedness at Portland Public Schools
+       website for more details: https://www.pps.net/Page/2246
+
+   ●   Americans with Disabilities Act (ADA) - Modernized schools in the GO bond will meet current
+       ADA requirements; however, the sample option does not include dedicated funding for ADA or
+       other accessibility improvements. PPS is in process of completing Phase 1 of the ADA transition
+       plan (main-level accessibility district-wide) via the 2020 bond but does not have funding to
+       complete Phase 2 or other priority accessibility projects. See PPS’s Accessibility website for more
+       details: https://www.pps.net/Page/2247
+
+   ●   Security - Staff have identified numerous capital security needs. The sample option does not
+       include dedicated funds for security improvements. For more details reference the Staff Memo:
+       General Obligation Bond Planning (01/18/24)
+
+   ●   Outdoor Spaces - The sample option does not include dedicated funds for outdoor or play space
+       upgrades. For more details reference the Staff Memo: General Obligation Bond Planning
+       (01/18/24)
+
+   ●   Athletics - Currently, both youth and high school sports regularly practice on non-PPS sites. Even
+       with projected declining enrollment, which was incorporated into the Long Range Facility Plan
+       (LRFP) issued in 2021, the scheduling need for student athletics exceeds PPS field capacity. The
+       sample option does not include dedicated funds for athletic improvements. For more details
+       reference the Staff Memo: General Obligation Bond Planning (01/18/24)
+
+
+
+Educational & Technology Improvements
+Educational improvements typically focus on improvements to classrooms and other dedicated learning
+spaces. The goal of Educational Improvements is to bring dated classroom or teaching instruments up to
+modern standards.
+
+Technology Improvements
+    ● Enterprise Resource Planning (ERP)/Business Modernization Plan - The ERP system is the
+       backbone of the HR and all financial systems for the district. In Bond 2020 the ERP was
+       earmarked for the planning stages but did not have enough funding for the full implementation
+       costs. This request includes the additional funding for the purchase and the staff for
+       implementation of that system as well as transitioning the district off of the previous ERP
+       system.
+
+
+
+
+                                                                                                        4
+●   Student and Staff Device Refresh - Investing in upgraded student devices and refreshed staff
+    computers is essential for our district to remain competitive, ensure a high-quality learning
+    environment, and attract and retain top-tier educators. This investment will directly enhance
+    student engagement, promote equitable digital access, streamline classroom workflows, and
+    improve teacher effectiveness. Modern devices enable seamless collaboration, foster
+    personalized learning paths, and facilitate the use of cutting-edge educational resources. Staff
+    and student devices are critical tools in accessing and teaching with the new curriculum
+    investments the district has made and continues to make. All of the adopted curricula have a
+    strong digital component that relies on effective technology available for both student and
+    teacher access. Furthermore, by equipping our staff with current technology, we demonstrate
+    our commitment to their professional development and create a work environment that
+    supports innovation. This investment translates to improved teacher satisfaction, increased
+    retention rates, and a reputation as a district that values its most important asset – its educators.
+
+●   Cybersecurity Investment - Continued funding for cybersecurity protections is essential due to
+    the increasing sophistication and frequency of cyberattacks targeting educational institutions.
+    Sensitive student data, financial records, and critical infrastructure are all at risk. A successful
+    breach can lead to identity theft, financial losses, disruption of essential services, damage to
+    reputation, and even legal repercussions and lower financial ratings that may negatively impact
+    the district’s bond program. Investing in cybersecurity measures such as firewalls, intrusion
+    detection systems, regular security audits, and comprehensive staff training is an absolute
+    necessity to safeguard our students, staff, and the integrity of our educational systems.
+
+●   Data Center and Classroom Technology Improvements - The PPS data center, the critical central
+    hub of all of our infrastructure and data systems across the district, is earmarked for end-of-life
+    in 2025 and will need funds to keep it running. While the district considers moving our
+    headquarters from its current location, all operations in the district rely upon the reliable and
+    constant uptime of the current data center. So while we may eventually relocate, upgrades are
+    critical now to the functions of all aspects of the district prior to a move.
+
+    Bond 2020 did not include scope for replacing classroom tech or infrastructure in any of the
+    Bond 2012 or 2017 schools. The Bond 2012 schools' technology is now outdated and will need to
+    be replaced to be compliant with the District’s tech standards and to be effective for
+    instructional purposes. Although Bond 2017 schools’ technology is relatively new in comparison
+    to Bond 2012, the Wifi system will be at the end of life between 2025-2027 and therefore need
+    additional funds for replacement.
+
+●   Wireless for boiler rooms - The facilities team has asked OTIS to provide the boiler rooms in each
+    school with wifi access. This would allow the facilities team to utilize the technology required in
+    the boiler rooms and to manage these systems controls while also providing the ability to utilize
+    smart technologies available for environmental controls. This work would include the required
+    asbestos abatement in areas affected, which is the primary cost driver for this project.
+
+
+                                                                                                           5
+    ●   Project Management - Project management and design costs to oversee the above-mentioned
+        projects. The scope would include project schedule, PM oversight during implementation with
+        low voltage contractors for updated infrastructure and classroom technology, project
+        documentation and subject matter experts in electrical and design backgrounds and as-built
+        documentation.
+
+    ●   HVAC and Energy Sustainability - Many of the network wiring/distribution closets do not
+        currently have sufficient cooling infrastructure in them if any at all. Investing in cooling and
+        environmental controls for critical network distribution closets is essential to prevent costly
+        equipment failures, network downtime, and security risks caused by overheating. This
+        investment safeguards the reliable operation of our digital infrastructure, directly protecting
+        student data, ensuring seamless educational experiences, and optimizing long-term technology
+        budgets. Ignoring the need for cooling structures translates to increased operational costs,
+        potential security breaches, and a negative impact on the learning environment. This would also
+        include adding security controls to many of the distribution closets that utilize old or
+        non-existent secure badge readers.
+
+Physical education (e.g., covered play areas)
+Physical Education instructional spaces are in need of improvement in order to bring existing facilities
+into closer alignment with the PPS Education Specification (Ed Spec) for the number of PE teaching
+stations and safety features in those spaces. Without the Ed Spec quantity of PE teaching stations,
+schools support PE instruction in spaces that are not suited to physical education, in particular due to
+space size (total occupant load for PE is larger than a general education class and can conflict with fire
+code limits), flooring type (PE spaces have padded and/or “sprung” floors) and a lack of safety features
+such as installed wall padding and increased ventilation. In addition, conducting PE in spaces which are
+not designed for it disrupts adjacent classes and student support activities due acoustic impacts. The
+count of PE instructional stations identified in the Ed Spec is coordinated with state requirements for the
+number of PE minutes required per student. The most economical way to bring the number of teaching
+stations into compliance with the Ed Spec is to build This includes the addition of outdoor covered play
+spaces for 35 schools and to the conversion of interior school space to Movement Labs in 26 schools.
+
+The total anticipated need for Outdoor Covered Play Spaces is approximately $33 million for 35 schools;
+12 of those, or just over $11 million in costs, are identified as Title 1 schools. The total anticipated need
+for Movement Labs is approximately $44 million for 35 schools. At least 6 sites, or approximately $10
+million in costs, are identified as Title 1 schools.
+
+The sample option includes $33 million to install covered play areas at 35 schools.
+
+For more details reference the Staff Memo: General Obligation Bond Planning (01/18/24)
+
+
+
+
+                                                                                                            6
+Curriculum
+A core component of a comprehensive education includes students and teachers engaging with
+well-organized, high-quality resources that can be adapted to the needs of each class. The sample
+option includes $20 million for curriculum adoptions; this number is currently being refined and will be
+updated.
+
+Capacity
+The sample option does not include funds for capacity.
+
+PPS’s total enrollment has been in decline for a number of years, and future decreases are forecasted.
+And though the District has enough student capacity to accommodate current and anticipated
+short-term enrollment, student enrollment is not uniform across the District and future enrollment shifts
+may require capital support.
+
+For example, PPS has 10 comprehensive high school campuses (including the Marshall campus) for a
+gross capacity of about 22,000 students and functional capacity2 of around 18,000; for an average
+student capacity of about 1,800 per school.3 PPS current high school enrollment is approximately
+13,500; or 1,350 per school. These are estimates and subject to change, however the high-level data
+point to PPS’s ability to accommodate current and forecasted enrollment with enrollment shifts instead
+of building new square footage.
+
+Of note, although the sample option does not include specific funds for capacity needs, it does result in
+additional capacity for PPS’s overall portfolio with additional capacity and District square footage with
+the K5 Learning Lab and larger Harriet Tubman Middle School.
+
+For more details on enrollment history and projects please reference the Research, Assessment and
+Accountability website: https://www.pps.net/Domain/207
+
+Modernizations
+Cleveland High School and Ida B Wells High School
+These two high school modernization projects were funded in the 2020 Bond for planning and design
+only. Each project was provided $20M to complete comprehensive plans and design documents for
+construction. Construction funds will need to be part of a future Bond measure.
+
+Each of these two projects went through a short Conceptual Master Plan process in 2019 to develop
+basic plans with community feedback, establish rough order magnitude costs for those plans, and
+determine how much funding might be necessary from a Bond measure. The conceptual master plans
+
+2
+  Functional capacity is an estimate of a school’s student capacity based on a number of variables including number of teaching
+stations, utilization rate, and more. School capacity fluctuates depending on unique programs, availability of teaching spaces,
+etc.
+3
+  Excluding the Marshall campus: gross capacity (20,000), functional capacity (16,000), average functional capacity (1750).
+
+
+                                                                                                                              7
+have helped inform starting points for comprehensive planning, which began in 2023. The prime
+architect for Cleveland High School Modernization is Mahlum Architects, and the prime architect for Ida
+B Wells High School Modernization is Bora Architecture & Interiors. Both projects anticipate using a
+Construction Manager/General Contractor (CM/GC) delivery model and are currently developing the
+documents to request Board approval of this alternative procurement methodology.
+
+Currently, both modernization projects are working on comprehensive plans, with substantial
+community engagement. Project teams are targeting April 2024 to bring those comprehensive plans to
+the Board for approval, prior to initiating design.
+
+Additional information on Cleveland can be found on the Cleveland Modernization Planning & Design
+Website: https://www.pps.net/Page/20964
+
+Additional information on Ida B Wells can be found on the Ida B Wells Modernization Planning & Design
+Website: https://www.pps.net/Page/21121
+
+Jefferson High School
+This high school modernization project was funded in the 2020 Bond for planning, design and
+construction. The current budget is $366M. The prime architect is Bora Architecture & Interiors, and
+Andersen Construction Co is the general contractor (utilizing a CM/GC delivery method).
+
+Similar to Cleveland and IBW, Jefferson went through a conceptual master plan process in 2019. During
+both that and the comprehensive planning that followed Bond measure passage, there was significant
+community input expressing desire to keep and modernize the primary building (“1909 Building”) on
+campus, due to its cultural significance to the community (the building is also considered a contributing
+structure within the Piedmont Conservation District). The comprehensive plan approved by the Board in
+2021 assumed modernization of that building while demolishing and building new structures around it.
+It also assumed keeping students on site in the building while the new structures were being built. After
+bringing the general contractor on board and doing substantial additional investigations, OSM
+determined that trying to keep students on site in that building would cost almost double the funding
+available (due to a complex mix of factors, including stabilization needed for the 4-story unreinforced
+masonry building, phasing costs, and building size increases for program duplication during
+construction). PPS determined that swinging students off-site during construction was the only way to
+stay within the available funding, however that was not well received by the community.
+
+OSM has since been directed by the Board to re-develop plans, to include demolishing the 1909 Building,
+keeping students on site during construction, and not co-locating any other schools or programs on the
+Jefferson site. The project team is working on new plans, with the intent of bringing them to the Board’s
+Facilities & Operations Committee Meeting in late March, and the full Board on April 2.
+
+Additional information on Jefferson can be found Jefferson Modernization Website:
+https://www.pps.net/Page/18661
+
+
+                                                                                                          8
+Harriet Tubman Middle School & K5 Learning Lab
+PPS continues to review and analyze Harriet Tubman MS relocation sites. The sample option includes
+funds in addition to those provided by the Oregon Governor’s Office to complete the relocation,
+including construction of a K5 Learning Lab.
+
+
+
+
+Contingency & Administration
+Program contingency is a risk management tool used to buffer against unanticipated costs such as:
+    ● Higher than anticipated escalation costs
+    ● Building code or zoning code changes
+    ● Emergency facility needs
+    ● Or any other unanticipated cost; discretionary or nondiscretionary
+
+The more scope-defined projects included in the GO bond package, the higher the risk of not completing
+all of the work within the GO bond funding. The sample includes a very large amount of scope-defined
+projects - the ERP and modernizations total close to $1 billion - therefore staff recommends a program
+contingency of 15% to manage future cost risks.
+
+Note: during execution of the GO bond work the program contingency funds are transferred to other
+scores of work. Bond programs end with a zero dollar contingency balance.
+
+Administration funds the resources needed to carry out the bond work, including staff, bond issuance
+costs, insurance, etc. The current estimate is 3% of total cost. This estimate will be refined as the scope
+of work becomes more clear.
+
+
+
+
+Bond Implementation Constraints
+The majority of GO bond work requires physical construction. Market capacity and operational
+constraints must be considered when planning for GO bonds. Since 2016 PPS has averaged about
+$200M in capital spending per year, with some years exceeding $250M and others down closer to
+$100M.
+
+Acknowledging anticipated future cost escalation, estimating a total capital outlay between $150 million
+and $250 million annually is reasonable.
+
+The sample option includes approximately $1.8B in principal. The 2020 GO bond will have approximately
+$600M in principal remaining at the end of 2024. Combined the total is about $2.4B.4
+
+
+4
+    Does not include non-bond capital funds, including for the relocation of Harriet Tubman Middle School
+
+
+                                                                                                            9
+   ●   Spending $2.4B at a rate of :
+          ○ $250M per year equates to spending all GO bond principal in 10 years, or by 2034
+          ○ $150M per year equates to spending all GO bond principal in 16 years, or by 2040
+
+
+
+
+The sample option includes a large amount of modernization projects, therefore it is reasonable to
+assume execution of the bond will see average yearly spending on the high side of the range; however,
+completing multiple modernizations consecutively has impacts on internal organization capacity as well
+as market capacity. Modernization projects will need to be carefully sequenced to be successful.
+
+
+
+
+Maintenance Considerations
+Per Oregon statute, ordinary maintenance and repair costs cannot be funded by GO bonds. Therefore an
+important consideration when planning GO bond projects are expected ongoing costs that must be
+absorbed by the District’s general fund, or other fund source. Sample scopes of work that require
+non-GO bond funds to maintain include new technology or additional square footage.
+
+
+
+
+                                                                                                     10
+Summary
+The above information is provided for review and discussion. Feedback and direction on preferred total
+bond amount, scope of work, financing, etc. is welcomed and will help inform the upcoming bond.
+
+
+
+
+Resources
+   ●   Long-Range Facilities Plan - Vol. 1 - LINK
+   ●   Long-Range Facilities Plan - Vol. 2 - LINK
+   ●   Long-Range Facilities Plan Presentation - F&O Committee - 04 15 2021 - LINK
+   ●   Long-Range Facilities PlanPresentation - F&O Committee - 10 27 2021 - LINK
+   ●   Long-Range Facilities PlanPresentation - Board Work Session - 11 09 2021 - LINK
+   ●   Bond Planning Introduction - F&O Committee - 08 21 2023 - LINK
+   ●   Staff Memo: General Obligation Bond Planning - Board Work Session - 01 23 2024 - LINK
+   ●   Sample Bond Financing Options - Board Work Session - 01 23 2024 - LINK
+   ●   Conceptual Bond Budgets - Board Work Session - 01 23 2024 - LINK
+   ●   Sample Bond Options - Board Work Session - 01 23 2024 - LINK
+
+
+
+
+                                                                                                    11
+

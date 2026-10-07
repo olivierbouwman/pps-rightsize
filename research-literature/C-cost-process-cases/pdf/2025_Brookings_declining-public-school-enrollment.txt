@@ -1,0 +1,427 @@
+                                                  AUGUST 2025
+
+
+
+
+DECLINING
+PUBLIC SCHOOL
+ENROLLMENT
+Dylan Council, Sofoklis Goulas, Faidra Monachou
+AUTHOR NOTES AND
+ACKNOWLEDGEMENTS
+Faidra Monachou acknowledges support from The Broad Center at the Yale School of Management. The
+views expressed in this paper are solely those of the authors and should not be interpreted as reflecting the
+views of the Federal Reserve Bank of Dallas of the Federal Reserve System or of any other person associat-
+ed with the Federal Reserve System.
+
+
+
+
+DISCLOSURES
+The Brookings Institution is committed to quality, independence, and impact. We are support-
+ed by a diverse array of funders. In line with our values and policies, each Brookings publica-
+tion represents the sole views of its author(s).
+   I. Introduction
+Researchers were already expecting a gradual enrollment slowdown before the onset of
+COVID-19. Public school enrollment edged up only 2% between 2012 and 2019, holding near
+50 million students (NCES 2024), while the U.S. total fertility rate had slipped to 1.71 births
+per woman—well below the replacement level—foreshadowing a smaller school-age cohort
+(Martin et al. 2021). The pandemic turned that slow decline into a sudden shock (Burtis and
+Goulas 2023). Studies document steep post-2020 losses in Massachusetts (Dee and Murphy
+2021), Virginia (Schueler and Miller 2024), Michigan (Musaddiq et al. 2022), and California
+(Warren and Lafortune 2020). Research at the national level shows similar trends in urban and
+high-poverty districts (Goulas 2024), and a surge in both homeschooling and private-schooling
+that still leaves millions of children “missing” from any formal roll (Dee 2023, Goulas and Pula
+2024).
+
+In addition to concerns around student progress, shrinking headcounts also create immediate
+fiscal stress because most state and federal aid flows on a per-pupil basis (Lee, Gutierrez, and
+Blagg 2020). District leaders have already considered adjusting school capacity, redistricting,
+or even closing campuses to balance budgets—steps that are often politically sensitive but
+considered in response to fiscal pressures (Grose 2023, Lafortune and Prunty 2023, Jacob-
+son, 2025). Recent evidence confirms that steeper enrollment losses measurably raise the
+odds of permanent closure (Goulas 2025).
+
+Enrollment shifts have not fallen evenly across student groups. Recent evidence shows that
+kindergarten enrollment fell most sharply for black and low-income children, whereas the
+smaller declines observed in later grades were concentrated among white and higher-income
+students already enrolled in public schools (Musaddiq 2022, Bassok and Shapiro 2021). Such
+patterns may heighten long-standing worries about potential re-segregation and resource
+inequality. Against this backdrop, policymakers and district officials are experimenting with
+strategies to stem further enrollment losses or mitigate their effects. Some, like New York
+City, have pledged to preserve school budgets even as rolls shrink (Rooney 2022). Others
+hope new curricula or enhanced parent outreach will attract students back (Amin 2022, The
+Education Trust 2023).
+
+This report provides detailed estimates of recent shifts in public school enrollment. By linking
+the latest National Center for Education Statistics data with federal population estimates, the
+report shows how enrollment shifts differ across districts with distinct racial and economic
+profiles. In addition, it projects how continued enrollment declines could drive future school
+closures and alter the number of seats traditional districts will need through 2050.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                 3
+   II. School
+                                                             student-poverty rate for 2016–19, which smooths out
+                                                             year-to-year fluctuations. We then divide the resulting
+
+   enrollment trends
+                                                             distribution into thirds: districts with poverty rates
+                                                             below 11.47% are classified as low-poverty, those with
+                                                             rates between 11.47 and 19.22% as medium-poverty,
+Our analysis draws on four complementary federal             and those above 19.22% as high-poverty.
+datasets. The Common Core of Data (CCD) from NCES
+provides annual, school-level counts of public-school        SHIFTS AWAY FROM TRADITIONAL PUB-
+students for every year, along with information on each      LIC EDUCATION
+school’s location and type. To gauge the size and so-
+cioeconomic makeup of the prospective student pool,          Figure 1 shows how the mix of schooling options has
+we obtain district-level counts of school-age children       shifted since 2016. Before the pandemic, the share
+and those in poverty from the Census Bureau’s Small          of students in traditional public schools (TPS) held
+Area Income and Poverty Estimates (SAIPE). We also           steady, hovering near 85% from 2016-17 through 2019-
+obtain forecasts of the school-age population through        20. The pandemic marks a clear turning point: The
+2100 from the Census Bureau’s Population Division.           TPS share fell as families moved toward alternative
+Because the CCD covers only public schools, we use           options. Charter schools expanded every year, rising
+the biannual Private School Universe Survey (PSS) to         from 5.0% of enrollment in 2016-17 to 6.0% in 2023-24.
+add national and state counts of private-school stu-         Alternative public schools (such as special-education
+dents for odd-numbered years from 2011 to 2021. We           schools) inched up from 1.3% to 1.5% over the same
+estimate private school enrollment for even-numbered         period. Virtual schools were a rarity pre-COVID (0.7%
+years, including 2022-23 and 2023-24, with a linear          in 2019-20) but nearly doubled to 1.2% in 2020-21 and
+trend fitted to private school enrollment through 2021-      have remained elevated since. Private school enroll-
+22. Merging CCD and PSS enrollment figures with              ment has held steady around 8.8% between 2016-17
+SAIPE/Census population baselines allows us to track         and 2023-24.
+shifts in public- and private-sector enrollment relative
+to the underlying school-age population. By contrast-        The most striking change is outside the public-school
+ing reported public and private school enrollments           sector. Combining private school enrollment with
+with Census estimates of total school-age population,        students who cannot be matched to any school in
+we gauge how many school-age children may not be             the CCD, the share of children outside public schools
+attending public or private schools.                         averaged 9.7% before COVID-19, jumped to 11.5% in
+                                                             2020-21, peaked at 13.1% in 2021-22, and has stayed
+To investigate the share of students outside traditional     well above pre-pandemic levels (11.8% in 2022-23 and
+public schools by race/ethnicity, we identify districts      12.6% in 2023-24). Given that private school enroll-
+where one racial or ethnic group accounts for at least       ment has remained relatively stable, the post-pandem-
+90% of 2016-17 enrollment. We use these racially             ic growth in the “outside public schools” group may
+homogeneous districts to approximate group-specific          come chiefly from students missing in federal data-
+patterns. Within each such district, we calculate the        sets rather than a spike in private-school rolls.
+share of students who enroll in private, charter, alterna-
+tive, or virtual public schools and treat the residual as    These trend-based estimates are probably conser-
+the share who are absent from all federal enrollment         vative. Since 2021-22, some states have expanded
+files. This allows us to overcome a data limitation:         voucher programs that should push private enroll-
+the Small Area Income and Poverty Estimates do not           ment higher (Modan 2025). Even with that caveat,
+report district-level school-age population by race.         the combined share of students in private schools or
+                                                             unaccounted for stands at 12.6% in 2023-24, a figure
+Moreover, to analyze enrollment by socioeconom-              derived directly from SAIPE population counts and
+ic status, we first compute each district’s average          CCD public-school files.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                                  4
+FIGURE 1
+
+
+
+
+ENROLLMENT SHIFTS BY GEOGRAPHY
+
+The maps (Figure 2) below display, for each state, the share and number of school-age chil-
+dren who do not appear in either public or private school enrollment records. In 2021-22, for
+example, these unknown or “missing” shares ranged from zero in Florida, Delaware, and the
+District of Columbia, meaning the estimated number of 5- to 17-year-olds does not exceed
+total reported enrollment, to about 12% in Oregon, the widest gap nationwide. Most states
+clustered well below that extreme: The median state, Wisconsin, had 5.5% of students unac-
+counted for.
+
+The bulk of the Southeast and mid-Atlantic, states such as Georgia, North Carolina, Alabama,
+Maryland, and Pennsylvania, sit in the 2.5–7.5% range. The industrial Midwest and central
+Plains (e.g., Illinois, Indiana, Iowa, Nebraska) also sit in this range. The largest gaps (higher
+than 7.5%) concentrate in the far West and northern tier—Oregon, Washington, Idaho, Mon-
+tana, North Dakota, Alaska—plus two Appalachian states, Kentucky and West Virginia.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                  5
+                FIGURE 2
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT   6
+SCHOOL ENROLLMENT SHIFTS BY RACE/ETHNICITY
+
+Figure 3 shows how the share of students outside traditional public schools has changed in
+districts composed predominately of a single racial or ethnic group. In districts that serve
+mostly black students, non-TPS enrollment has been both the highest and the fastest grow-
+ing. The share rose from 25.4% in 2015-16 to 34.1% in 2023-24, and the pandemic did not
+alter that trajectory. Predominantly Hispanic districts started with the lowest non-TPS share,
+reaching 12.0% in 2018-19 before the pandemic. After 2020 the proportion climbed noticeably,
+peaking at 17.4% in 2021-22 and standing at 17.6% in 2023-24. Predominantly white districts
+were remarkably stable prior to the pandemic, fluctuating between 12.8 and 13.7%, but their
+non-TPS share moved upward after 2020 and reached 17.5% in 2023-24.
+
+Overall, these trends indicate that students in districts serving mainly black populations con-
+tinue to leave traditional public schools at a faster rate than their peers in white or Hispanic
+districts. The post-pandemic increases among white and Hispanic districts are noticeable but
+more modest.
+
+
+FIGURE 3
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                 7
+SCHOOL ENROLLMENT SHIFTS BY DISTRICT POVERTY LEVEL
+
+Figure 4 shows how the share of students learning outside traditional public schools varies
+with the poverty level of their school district. Across every year in the series, high-poverty dis-
+tricts record the largest share of students outside the traditional public-school sector, followed
+by medium- and then low-poverty districts. Before the pandemic the share in high-poverty
+districts rose gradually from 19.3% in 2016-17 to 21.0% in 2019-20; after 2020 it accelerated,
+reaching 26.0% in 2023-24. Medium-poverty districts show a similar pattern, increasing from
+14.6% to 15.3% before the pandemic and then to 19.9% by 2023-24. Low-poverty districts
+moved in the opposite direction at first: Their non-TPS share slipped from 12.3% in 2016-17
+to 11.2% in 2019-20, but the pandemic reversed that decline, pushing the figure up to 15.9% in
+2023-24 after a peak of 16.9% in 2021-22.
+
+The post-2020 increase in non-TPS enrollment suggests that families across socioeconom-
+ic levels began exploring non-traditional options such as private, charter, or virtual schools.
+Because private-school counts for recent even-numbered years are extrapolated from earlier
+data, our estimates likely understate how much private enrollment has grown, especially in
+communities that can afford tuition. High-poverty districts may have lower access to private
+schools and fewer resources for homeschooling, yet they still experienced the largest abso-
+lute increase in students leaving traditional public schools.
+
+
+FIGURE 4
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                    8
+   III. Projecting seat demand in
+   traditional public schools to 2050
+The figure below (Figure 5) opens with two factual            the trend case, keep shrinking—they trace the largest
+baselines. A black line plots the Census Bureau’s pop-        seat shortfalls by 2050. Within each band, the top edge
+ulation projection of the school-age population (ages         marks the most optimistic outcome for that scenario
+5–17). The population projections assume a linear             and the bottom edge the most pessimistic, convey-
+convergence of age-specific fertility toward a com-           ing how sensitive future TPS capacity needs are to
+mon total fertility rate of 1.52—the level observed for       demographic headwinds and to whether the pandemic
+native-born white women in 2020—by the year 2123,             enrollment shock proves fleeting or enduring.
+not by mid-century. During that long period, fertility
+shifts to older maternal ages (rates fall below age 30        The blue and orange lines translate these population
+and rise above age 30) (Census 2022). The composi-            trends into projected TPS enrollment. The blue paths
+tion of net immigration is held constant at the 2015-19       assume the pandemic’s impact is temporary. The
+average, but annual levels change. We use the main            solid blue line holds the TPS share at its pre-pandemic
+(“main”) series scenario (total net immigration rises         average from 2011-12 to 2019-20, yielding the most
+from about 1.57 million immigrants in 2023 to roughly         conservative estimate of future losses. The dashed
+2.06 million in 2100) (Census 2023). Together, these          blue line extends the slight pre-pandemic decline in
+forces push the school-age population lower almost            the TPS share, calculated with a simple linear fit, and
+every year—most sharply between 2025 and 2035—                applies that declining share to the Census population
+before it stabilizes in the 2040s. A gray line overlays       projections.
+actual enrollment in traditional public schools (TPS)
+through 2023, revealing a stable pre-COVID plateau,           The orange paths reflect the possibility that the pan-
+a two-million-student drop in 2020-21, and a slower           demic permanently shifted family preferences. The
+decline thereafter.                                           solid orange line fixes the TPS share at the post-pan-
+                                                              demic average from 2020-21 to 2023-24. The dashed
+Against this backdrop, the figure introduces four enroll-     orange line projects a continued post-pandemic slide
+ment scenarios, shown as colored bands whose upper            in the TPS share, again using a linear fit to the most
+and lower edges bracket optimistic and pessimistic            recent data and applying that trend to the projected
+variants of the same logic. The blue scenarios assume         school-age population. This last series is the least
+the pandemic shock is temporary. In the “hold-steady”         optimistic, showing the steepest decline in enrollment
+version, the TPS share of students is frozen at its           by 2050.
+2011-12 to 2019-20 average and applied to the Cen-
+sus population projections, producing the shallowest          At the opening of the 2023-24 school year, the Com-
+future decline. In the “pre-trend” variant, a simple linear   mon Core of Data recorded 43.06 million students in
+fit to the gradual pre-COVID erosion in TPS share is          TPS out of 54.32 million school-age children. For 2025,
+extended forward, yielding a somewhat steeper loss.           the projections range from 41.16 million to 43.90 mil-
+                                                              lion TPS students, implying either a modest decline or
+The orange scenarios assume a permanent shift in              a partial rebound. By 2050, however, all scenarios point
+family preferences away from TPS. The “post-freeze”           downward, with TPS enrollment falling to between
+path locks the TPS share at its lower 2020-21 to 2023-        34.57 million and 40.84 million. In practical terms, our
+24 average, while the “post-trend” path projects that re-     estimates suggest that districts could potentially face
+cent slide forward with another linear fit. Because both      declines of roughly 2.91 to 6.59 million fewer students
+red cases begin with a smaller market share—and, in           over the next quarter century.
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                                  9
+FIGURE 5
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT   10
+   IV. Enrollment declines and permanent school closures
+We calculate permanent closure rates for brick-and-                                                                  we looked at how each school’s headcount changed
+mortar public schools by linking consecutive years of                                                                from year to year. Figure 6 illustrates our findings. It
+Common Core of Data files and identifying campuses                                                                   shows the one-year enrollment swings for all schools
+that were open for one year but listed as permanently                                                                from 2014-15 through 2023-24. The orange bars
+closed the next. Averaging these annual rates over                                                                   track schools that stayed open; the gray bars show
+2012-13 through 2023-24 gives an overall picture of                                                                  those that shut down. Most open schools saw small
+how frequently districts shutter schools. Appendix                                                                   changes, usually between a 15% loss and a 15% gain.
+Table S2 shows the results, revealing wide state-level                                                               Closed schools were different: Their numbers were
+variation. Several states—including Idaho, Montana,                                                                  spread out and tilted toward bigger drops in students.
+Nevada, Utah, Alaska, Hawaii, Virginia, Maryland, and                                                                The pattern is clear: Steep declines make closure
+New Hampshire—show average closure rates below                                                                       more likely but not certain. Plenty of shrinking schools
+0.5%. At the opposite end of the spectrum, Washing-                                                                  remain open, and some that closed were not losing
+ton, D.C. (2.06%), Mississippi (1.81%), and Arkansas                                                                 students at all. Decisions to shut a school site also
+(1.64%) experience the most frequent closures.                                                                       hinge on building costs, the ease of moving students
+                                                                                                                     to nearby schools, neighborhood politics, school com-
+Do big enrollment drops increase the likelihood of                                                                   petition, and state rules on low performance. In short,
+permanent closures? To find out, we flagged every                                                                    falling enrollment raises the risk, yet school closures
+brick-and-mortar public school that was open one                                                                     are rarely driven by one factor alone.
+year but listed as “permanently closed” the next. Then
+
+                FIGURE 6
+
+                                       Density of ∆enrollment t−1 by closure status
+                                       8
+
+
+
+                                       7
+                                                                                                                      Open
+                                       6
+
+
+
+
+             Percent of Observations
+                                       5
+
+
+
+                                       4
+
+
+
+                                       3
+
+
+
+                                       2
+
+
+
+                                       1
+
+                                                                  Closed
+                                       0
+
+                                             -75          -60           -45          -30           -15           0            15      30   45     60      75
+                                                                                           Percent Enrollment Change in Prior Year
+                                       Source: Common Core of Data (CCD), National Center for Education Statistics;
+                                       Authors’ Calculations.
+                                       Notes: ∆enrollment t−1 = (∆enrollment t−1 – ∆enrollment t−2)/∆enrollment t−2. Schools are
+                                       defined as closed if they were open in the previous year and reported permanent
+                                       school closure (status 2) in CCD data. This figure is limited to traditional public schools.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                                                                                        11
+   V. Discussion
+The COVID-19 pandemic forced millions of families to rethink where and how their children
+learn, and the effects continue to reshape American K-12 education. Between 2019-20 and
+2021-22, the last two years with complete private-school data, roughly 2.05 million additional
+students were newly missing from both public and private enrollment files, a 450% jump in the
+number of “missing” students. Traditional public schools accounted for 1.72 million of that to-
+tal. Projections to 2050 suggest that, even if families eventually return to pre-pandemic habits,
+overall population decline alone will trim public-school rolls by about 2.2 million students. If,
+however, parents keep choosing alternatives at the pace observed since 2020, traditional pub-
+lic schools could lose as many as 8.5 million students, shrinking from 43.06 million in 2023-24
+to as few as 34.57 million by mid-century.
+
+Due to enrollment declines, two distinct concerns about the quality of students’ educational
+experiences emerge. Students who exit public schools often move into settings that are less
+regulated and more variable in performance. Those who remain in shrinking districts inherit
+tighter budgets because state and federal aid is generally tied to enrollment. At the same
+time, the pandemic-era shift may prove less durable than it appears: Homeschooling demands
+intense parental effort, and as more adults return to on-site work, some families may decide
+that public schools once again offer the most practical option.
+
+This study draws on the newest district-level enrollment and population data to track where
+students are going, who is most affected, and how districts might respond. The evidence
+shows that the modest rebound in 2022-23 did not signal a broader recovery; instead, the
+number of students outside traditional public schools rose again in 2023-24. Understanding
+why parents leave, how administrators plan for continued declines, and which policy tools can
+preserve quality and equity will be essential as the education landscape continues to change.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                  12
+   References
+Amin, Reema. 2022. “What Is Going on with NYC’s Public School Enrollment? We Explain.” Chalkbeat, August 9,
+     2022. https://www.chalkbeat.org/newyork/2022/8/9/23298996/ny-enrollment-drops-budget-cuts-early-
+     grades-prek-students-parents/
+Bassok, Daphna and Anna Shapiro. 2021. “Understanding COVID-19-era Enrollment Drops Among Early-grade
+     Public School Students.” Brookings Institution, Washington, DC.
+Burtis, Eloise, and Sofoklis Goulas. 2023. “Declining School Enrollment Since the Pandemic.” The Hamilton
+     Project, Brookings Institution, Washington, DC.
+Dee, Thomas S. 2023. “Where the Kids Went: Nonpublic Schooling and Demographic Change during the Pandemic
+     Exodus from Public Schools.” Teachers College Record 125 (6): 119–129.
+Dee, Thomas S., and Mark Murphy. 2021. “Patterns in the Pandemic Decline of Public School Enrollment.”
+     Educational Researcher 50 (8): 566–569.
+Elsen Rooney, Michael. 2022. “As NYC’s School Enrollment Keeps Falling, Schools Won’t See Midyear Cuts for
+     Shortfalls.” Chalkbeat, November 7, 2022. https://www.chalkbeat.org/newyork/2022/11/7/23445935/nyc-
+     schools-enrollment-decline-midyear-budget-cuts/
+Goulas, Sofoklis. 2024. “Breaking Down Enrollment Declines in Public Schools.” The Hamilton Project, Brookings
+     Institution, Washington, DC.
+Goulas, Sofoklis. 2025. “Enrollment Declines and Permanent Closures in Public Schools.” IZA Discussion Paper
+     No. 17902, Institute of Labor Economics, Bonn, Germany.
+Goulas, Sofoklis, and Isabelle Pula. 2024. “Why Did Schools Lose Students after COVID 19?” The Hamilton Project,
+     Brookings Institution, Washington, DC.
+Grose, Jessica. 2023. “Soon We Won’t Have Enough Kids to Fill Our Schools. That’s a Problem.” New York Times,
+     June 14, 2023. https://www.nytimes.com/2023/06/14/opinion/declining-enrollment.html
+Jacobson, Linda. 2024. “Exclusive Data Highlights Paradox: As Enrollment Falls, Fewer Schools Close.” The 74
+     Million, May 12, 2025. https://www.the74million.org/article/the-school-closure-paradox-as-enrollment-
+     declines-fewer-buildings-are-shutting-their-doors/
+Lafortune, Julien, and Eric Prunty. 2023. “Factors and Future Projections for K 12 Declining Enrollment.” Public
+     Policy Institute of California, San Francisco, CA.
+Lee, Victoria, Emily Gutierrez, and Kristin Blagg. 2020. “Declining School Enrollment Spells Trouble for Education
+     Funding.” Urban Institute, Washington, DC.
+Martin, Joyce A., Brady E. Hamilton, Michelle J.K. Osterman, Anna K. Driscoll. 2021. “Births: Final Data for 2019.”
+     National Vital Statistics System, Center for Disease Control and Prevention, Atlanta, GA.
+Modan, Naaz. 2025. “States Lead the Charge in Expanding Private School Voucher Programs.” K-12Dive, May
+     13, 2025. https://www.k12dive.com/news/private-school-voucher-programs-expand-2025-texas-senate-
+     bill-2/748015/
+Musaddiq, Tareena, Kevin Stange, Andrew Bacher Hicks, and Joshua Goodman. 2022. “The Pandemic’s Effect
+     on Demand for Public Schools, Homeschooling, and Private Schools.” Journal of Public Economics 212:
+     104710.
+National Center for Education Statistics. n.d.-a. “Public Elementary/Secondary School Universe Survey (Common
+     Core of Data).” National Center for Education Statistics, U.S. Department of Education, Washington, DC.
+National Center for Education Statistics. n.d.-b. “Private School Universe Survey, Digest of Education Statistics
+     Tables 205.20, 205.80.” National Center for Education Statistics, U.S. Department of Education, Washington,
+     DC.
+National Center for Education Statistics. 2024. “Public School Enrollment. Condition of Education.” National
+     Center for Education Statistics, U.S. Department of Education, Washington, DC.
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                              13
+Schueler, Beth E., and Luke C. Miller. 2024. “Post Pandemic Onset Public School Enrollment and Mobility:
+     Evidence from Virginia.” Educational Evaluation and Policy Analysis 46 (4): 788–794.
+The Education Trust. 2023. “Shifting Student Populations: How New York Schools Can Address the Shifting Needs
+     and Priorities of Students and Families.” The Education Trust, New York, NY.
+U.S. Census. 2022. “Stable Fertility Rates 1990-2019 Mask Distinct Variations by Age.” U.S. Census Bureau
+     Suitland, MD.
+U.S. Census. 2023. “Methodology, Assumptions, and Inputs for the 2023 National Population Projections.” U.S.
+     Census Bureau Suitland, MD.
+U.S. Census. n.d.-a. “2023 National Population Projections Tables—Table 2.” U.S. Census Bureau Suitland, MD.
+U.S. Census. n.d.-b. “Small Area Income and Poverty Estimates (SAIPE).” U.S. Census Bureau, Suitland, MD.
+Warren, Paul, and Julien Lafortune. 2020. “Declining Enrollment in California Schools: Fiscal Challenges and
+     Opportunities in the Coming Decade.” Public Policy Institute of California, San Francisco, CA.
+
+
+
+
+DECLINING PUBLIC SCHOOL ENROLLMENT                                                                        14
+1775 Massachusetts Ave NW,
+Washington, DC 20036
+(202) 797-6000
+www.brookings.edu
+

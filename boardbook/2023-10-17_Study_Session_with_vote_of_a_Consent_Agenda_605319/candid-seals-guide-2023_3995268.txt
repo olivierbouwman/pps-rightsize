@@ -1,0 +1,226 @@
+2023 Seals of
+Transparency guide
+
+
+
+
+Best practices
+  •   Seals need to be earned in order. Start with Bronze and work your way to Platinum
+  •   Update your information at least once a year—otherwise your Seal will expire
+  •   We recommend you review all your fields to make sure they’re as up to date as possible
+  •   In Gold, the reported data must be from the latest available fiscal year (2021 or 2022)
+  •   In Platinum, at least one metric must be from 2023
+                  Bronze Seal
+                  Provide basic information to make sure donors find you
+
+
+                                       Required                                             Optional
+Identification information             Organization name                                    Telephone
+                                       EIN                                                  Fax
+
+Additional names                                                                            Also known as
+                                                                                            Doing business as
+                                                                                            Formerly known as
+
+Address                                Mailing address                                      Physical address
+                                                                                            International address
+
+Website                                Website URL (or "Don't have one")
+
+Primary contact                        Name                                                 Title
+                                       Email                                                Telephone
+
+Fundraising contact                                                                         Name
+                                                                                            Title
+                                                                                            Email
+                                                                                            Telephone
+
+
+Donation information                   Legal name                                           EIN of payable organization
+                                       Payment address
+
+Mission                                Mission statement                                    Keywords
+                                       Subject area
+
+Organization leader                    Name                                                 Title
+(+ option for co-leader)                                                                    Email
+                                                                                            Short biography
+                                                                                            LinkedIn URL
+
+
+
+                Silver Seal
+                Share program(s) information and brand details to guide funding decisions
+
+
+                                       Required                                             Optional
+Programs                               Organization target population                       Individual program target
+                                       Program name                                         population
+                                       Program information
+                                       Program description
+                                       Geographic area served
+Grantmaker status                      Does the organization make grants or donations?      If you selected “Yes”:
+                                       (Yes/No)                                             Grantmaker Information
+                                                                                            — Type of organization you are
+                                                                                            — Type of organization you fund
+                                                                                            — Support Strategies
+                                                                                            — Transaction Types
+                                                                                            Grant Application Information
+                                                                                            — Applications accepted (Y/N)
+                                                                                            — Application URL
+                                                                                            — Application policies
+                                                                                            — Application restrictions
+                                                                                            — Formal application requirement
+                                                                                            — Application deadlines
+                                                                                            — Deadline notes/comments
+
+Brand                                  Logo (or "Don't have one")                           Photos
+                                       Tagline (or "Don't have one")                        Videos
+                                       Social media user names (or "Don't have one")
+
+                                                                                         2023 Candid Seals of Transparency guide | 2
+                Gold Seal
+                Upload your financial details (Option A or B ), board chair name,
+                and leadership demographics to gain trust and support
+
+                                     Required                                              Optional
+Financials                            A Audited financial statement (2021 or 2022)         Population served
+                                                                                           Program service revenue
+                                      or                                                   Membership dues
+                                      B Fiscal year start date                             Net income from special events
+                                         Fiscal year end date (2021 or 2022)               Other revenue sources
+                                         Contributions, gifts, and grants                  Other revenue amount
+                                         Total revenue                                     Fundraising
+                                         Program expenses                                  Payments to affiliates
+                                         Administration expenses                           Other expenses and amounts
+                                         Total expenses
+                                         Total assets                                      If “Yes” on grantmaker question:
+                                         Total liabilities                                 Total Giving
+                                         Net assets or fund balance
+
+Board chair                          Name                                                  Company/organization
+(+ option for co-chair)                                                                    Term dates
+                                                                                           LinkedIn URL
+
+Board members                                                                              Name
+                                                                                           Company/organization
+
+Other staff                                                                                Type
+                                                                                           Name
+                                                                                           Title
+
+Leader demographics                  Race & ethnicity (or "Decline to state")
+                                     Gender identity (or "Decline to state")
+                                     Sexual orientation (or "Decline to state")
+                                     Disability status (or "Decline to state")
+                                     Go to bit.ly/nonprofitprofileDEI for demographic
+                                     questions and best practices and definitions
+
+
+
+
+                                                                                        2023 Candid Seals of Transparency guide | 3
+                Platinum Seal
+                Share your strategic plan, progress, and results (Option A or B )
+                to highlight your impact and boost your funding
+
+                                             Required                                                   Optional
+Strategy and goals                           A Strategic plan (Must be no older than 5 years)           Problem overview
+                                                                                                        Sustainable Development Goals
+                                             or                                                         Organization capabilities
+                                                                                                        Progress
+                                             B What is your organization aiming to accomplish?
+                                                  What are your strategies for making this happen?
+
+Metric indicators                            Quantitative metrics (at least 1 from 2023)                Quantitative metrics
+                                             — Assign type of metric                                    — Assign a program
+                                             — Assign direction of success                              — Assign a target population
+                                                                                                        — Add a context note
+
+
+
+Evaluation documents                                                                                    External evaluation document
+
+
+
+
+Additional sections
+Organization demographics                              Optional
+Leader, board members, senior staff, staff             Share the number of individuals in your organization according to each
+                                                       category. Report on the following demographic categories: Race & Ethnicity,
+                                                       Gender Identity, Sexual Orientation, and Disability Status
+
+                                                       Go to bit.ly/nonprofitprofileDEI for demographic questions and
+                                                       best practices and definitions
+
+
+
+Equity strategies                                      Go to bit.ly/nonprofitprofileDEI for Equity Strategies Checklist
+
+
+
+Board leadership practices                            Optional
+Not independently incorporated                         Opt-out for organizations not required to have a board
+Board orientation & education                          Yes/No: Does the board conduct a formal orientation for new board members
+                                                       and require all board members to sign a written agreement regarding their
+                                                       roles, responsibilities, and expectations?
+CEO oversight                                          Yes/No: Has the board conducted a formal, written assessment of the chief
+                                                       executive within the past year?
+Ethics & transparency                                  Yes/No: Have the board and senior staff reviewed the conflict-of-interest policy
+                                                       and completed and signed disclosure statements within the past year?
+Board composition                                      Yes/No: Does the board ensure an inclusive board member recruitment process
+                                                       that results in diversity of thought and leadership?
+Board performance                                      Yes/No: Has the board conducted a formal, written self-assessment of its
+                                                       performance within the past three years?
+
+
+                                                                                                     2023 Candid Seals of Transparency guide | 4
+Feedback practices         Optional
+Relevance                  Yes/No/NA: Does your organization collect feedback (i.e., perceptions, opinions,
+                           ideas, concerns) from the people you serve? Who are the people you serve with
+                           your mission? Describe briefly. (max 800 char)
+Practices                  Multiple choice: How is your organization collecting feedback?
+                           Multiple choice: How is your organization using feedback?
+                           Text: Please describe a recent change in your organization that resulted from
+                           feedback (max 800 char)
+                           Multiple choice: With whom does your organization share feedback?
+                           How has asking for feedback from the people you serve changed your
+                           relationship with them or shifted power—over decisions, resources, rules or in
+                           other ways—to them? (max 800 char)
+                           Multiple choice: Which of the following feedback practices does your
+                           organization routinely carry out?
+                           Multiple choice: What challenges does your organization face in collecting
+                           feedback?
+Resources                  Yes/No: Would you be interested in taking a 10-minute organizational quiz, with
+                           the answers private only to you, to better understand the maturity level of your
+                           feedback practices?
+                           Yes/No: Would you like to learn more about applying feedback practices in your
+                           organization by reviewing a resource page?
+
+
+
+Additional documents       Optional
+Organizational founding    Year founded
+
+                           Year of incorporation
+
+                           Letter of incorporation
+
+                           Letter of dissolution
+Annual report
+                           Recent Form 990
+IRS documents
+                           Form 990-T
+
+                           Form 1023 or 1024
+                           Affiliation
+Certifications
+                           Assessment or accreditation
+Other documents
+Notes from the nonprofit
+
+
+
+
+                                                                        2023 Candid Seals of Transparency guide | 5
+

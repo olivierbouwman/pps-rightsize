@@ -1,0 +1,132 @@
+Eddie Wang (Zone 7; Board Chair 2024-25, 2025-26, 2026-27) - transcript excerpts, PPS Board and committee meetings Jul 2025 - Feb 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (2026-01-30 retreat: local whisper.cpp
+transcription, no YouTube captions). Method: keyword search (rightsiz*, closure, consolidat*, enrollment, boundar*, K-8, middle
+school, focus option, lottery, immersion, seismic, deficit, Jefferson, capture rate, etc.) then reading the surrounding turns.
+Excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is or corrected in
+[brackets]); every quoted fragment was machine-checked against the source file. Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are the caption line start (quote may begin up to ~60s later).
+Caveat: the 2025-08-14 and 2025-09-18 TLE caption files read like machine re-translations ("school limits" = boundaries,
+"coverage/acquisition rate" = capture rate); quotes from them are verbatim to the file but should be checked against video.
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation, discipline or contract terms (incl. the superintendent's); names of private members of the public; for this
+director also: superintendent evaluation/contract matters; the 12/8/2025 listening-session apology for the 12/2 meeting (governance, not policy).
+Period summary and cross-director context: BOARD_STATEMENTS_BY_PERIOD.md2025-07_2026-02_summary.md (14 excerpts below).
+
+RECORDED VOTES / MOTIONS
+- Chair; YES on Res. 7216 Procedeo (12/2/2025), Res. 7228 and Res. 7229 (1/13/2026), and the 1/27/2026 seismic consent agenda.
+- 2025-10-14 MOVED the FIOC-charter amendment changing committee "approvals" to "recommendations" (7-0).
+- 2026-01-13 re-elected chair 7-0 (DePass re-elected vice chair 7-0).
+- 2026-02-24 MLC: no vote; said he was worried about changing policy in response to one community ("bends in rules ... when certain communities come out in full force").
+- Context, related votes this period (all directors):
+  - 2025-07-22 Res. 7148 (PPS/Beaverton SD boundary transfer, ~12 homes in Zone 3): pulled from consent; motion to POSTPONE passed 7-0 (La Forte moved, Chase-Miller seconded). Source: captions S_rBf9XK-JM ~01:37 (no draft minutes in boardbook).
+  - 2025-08-05 Res. 7148: placed on table (DePass moved, Chase-Miller seconded); motion to POSTPONE pending a corrected fiscal-impact statement passed 7-0 (La Forte moved, Sullivan seconded). Source: captions oCxJzz7r-fk ~00:23-00:48. No later disposition found in boardbook through Feb 2026.
+  - 2025-09-09 seismic program approach (A/B/C): discussion only, NO vote (deferred to FIOC 9/16 and full board 9/30).
+  - 2025-10-14 Res. 7187 Jefferson HS modernization revised comprehensive plan 7-0 (DePass moved, Splitt seconded); Res. 7188 Cleveland HS plan 7-0 (Engelsman moved, La Forte seconded); Res. 7202 FIOC charter 7-0 (Sullivan moved, Splitt seconded) after Wang amendment ("approvals"->"recommendations"; Wang moved, DePass seconded) 7-0. Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_10_14_Regular_Board_Meeting_Draft_Minutes_3989403.txt
+  - 2025-11-04 Res. 7207 Ida B. Wells HS plan amendment (~$5.6M savings) 7-0 (Splitt moved, Sullivan seconded); Res. 7208 2026-27 budget calendar 7-0 (Chase-Miller moved, DePass seconded). Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_11_04_Regular_Board_Meeting_Minutes_-_Draft_for_Consideration_3996763.txt
+  - 2025-12-02 Res. 7216 Procedeo bond program-management contract (bond/seismic delivery) passed 5-2: Wang, DePass, Chase-Miller, Splitt, Sullivan YES; La Forte, Engelsman NO (Ritorto no, unofficial). DePass moved, Chase-Miller seconded. La Forte/Engelsman motion to postpone failed 2-5; their amendment (strike incentives, 1-yr term) failed 2-5. Splitt called the question (overridden by chair; appeal not seconded). Source: boardbook/2025-12-16_Work_Session_with_Vote_on_Consent_Agenda_722619/2025_12_02__Regular_Meeting_Minutes_-_Draft_for_consideration_3996787.txt
+  - 2026-01-13 Res. 7228 end Jefferson dual assignment / designate Jefferson a comprehensive HS from 2027-28: 7-0 (Chase-Miller and DePass moved, La Forte seconded; Ritorto yes, unofficial).
+  - 2026-01-13 Res. 7229 Jefferson attendance boundaries (Scenario C: Beach, Boise-Eliot/Humboldt, Chief Joseph, King, Faubion, Sabin, Vernon, Woodlawn -> Jefferson; Irvington -> Grant; Peninsula -> Roosevelt): passed 6-1 (Splitt moved, Sullivan seconded; Engelsman NO; Ritorto NO, unofficial). Engelsman motion to add a course-offering date was withdrawn without a second. Source: boardbook/2026-02-10_Regular_Meeting_730093/2026_01_13_Regular_Meeting_Minutes_-_Draft_for_Consideration_3996890.txt (incl. Engelsman statement for the record).
+  - 2026-01-27 consent agenda Res. 7241-7242 (7241 includes A&E design for Vernon and Winterhaven seismic rehabilitation, 2020 bond): 7-0 (Sullivan moved, Vice-Chair DePass seconded) after Splitt, Chase-Miller, DePass and La Forte voiced concern that seismic selection was preceding rightsizing. Source: boardbook/2026-02-24_Work_Session_with_Vote_on_Consent_Agenda_731954/2026_01_27_Special_and_WS_minutes-draft_for_consideration_3996963.txt; Resolution_7241 in boardbook/2026-01-27_Work_Session_and_Special_Meeting_728105/
+  - 2026-02-24 Metropolitan Learning Center grades 9-12 discontinued: NO board vote (staff decision presented at a work session; superintendent said it would be folded into the June budget vote; staff/legal said it is a program change, not a school closure under policy 6.10.030). Source: boardbook/2026-03-10_Regular_Meeting_734436/2026_02_24_Work_Session_Minutes_-_Draft_3997016.txt
+
+EXCERPTS
+
+[2025-07-22 Work Session - board work plan / chair's priorities]
+  time 00:03:02 | https://www.youtube.com/watch?v=BZdKSNeHDaU&t=182s
+  source: transcripts/text/2025-07-22_Board_of_Education_Work_Session__BZdKSNeHDaU.txt
+  attribution: CONFIRMED (chair opening the work session: "my vision as a chair"; summarizing his one-on-one calls with each director)
+  topic: boundaries/enrollment named as one of the board's top priorities for 2025-26
+  "there were kind of four things that were were kind of brought up and were in common with with the majority of you [...] And then lastly and probably the most difficult one is um talking about school boundary and enrollment and ensuring that the way we do it is done equitably um and focus on in student outcomes of course."
+
+[2025-08-14 Teaching, Learning & Enrollment Committee - committee charter / role in enrollment & boundary work]
+  time 00:25:41 | https://www.youtube.com/watch?v=nIjDjAq71GE&t=1541s
+  source: transcripts/text/2025-08-14_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__nIjDjAq71GE.txt
+  attribution: PROBABLE (speaker cites personal experience of the "SCC" [SEGC, Southeast Guiding Coalition] process; Wang, present ex officio as chair, was a SEGC parent representative; machine-translated caption)
+  topic: lessons from SEGC; wants "guardrails" on enrollment-balancing outreach
+  "when the district does enrollment and balancing work , there is often a lot of outreach that needs to be done, and you invite specific groups, teachers and community members [...] Could this provide that forum? [...] But, coming from the SCC [SEGC] process, it can get very complicated very quickly. Therefore, I think it's also important to install some railings [guardrails]. [...] I have a whole list of things not to do that I'd love to share someday, but not right now."
+
+[2025-08-14 Teaching, Learning & Enrollment Committee - committee charter]
+  time 00:34:45 | https://www.youtube.com/watch?v=nIjDjAq71GE&t=2085s
+  source: transcripts/text/2025-08-14_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__nIjDjAq71GE.txt
+  attribution: CONFIRMED (next speaker: "what Eddie just said"; machine-translated caption)
+  topic: equity vs. equality under budget cuts
+  "There is often a difference between equity and equality. [...] if the goal of our board of directors is [...] reducing the performance gap, then in practice there will be a difference and it will not be equality; It will be fair, right ? And then, if you take into account, for example, budget cuts, that will look very different from equality, right?"
+
+[2025-09-09 Regular Meeting - Seismic study report (2025 bond seismic program approach A/B/C)]
+  time 04:09:13 | https://www.youtube.com/watch?v=OZXNdCFV5Uk&t=14953s
+  source: transcripts/text/2025-09-09_Board_of_Education_Regular_Meeting__OZXNdCFV5Uk.txt
+  attribution: CONFIRMED (DePass at 04:11:15: "Thank you um for your comments um Director Wong uh about equity")
+  topic: seismic hybrid approach; prioritize schools "safe from any consolidation"; equity-centered engagement
+  "just going through the staff memo, I I think C hybrid it's that makes the most sense to me. Um I also just want to just kind of shout out there that I mean while I am all for uh community engagement, I think we need to be very deliberate because too often in our history, you know, when we have community engagements, it's often the people who can show up that we hear from the most. [...] we have to be deliberate to make sure that we we focus and center equity. [...] if anyone knows which schools are definitely safe from any consolidation or whatever you would know and also how that overlaps with the ones with the most seismic needs. And I think I mean I assume most people agree those would be the priorities"
+
+[2025-09-30 Work Session - draft 2025-26 board work plan]
+  time 02:14:42 | https://www.youtube.com/watch?v=dVcyfTroSSI&t=8082s
+  source: transcripts/text/2025-09-30_Board_of_Education_Work_Session__dVcyfTroSSI.txt
+  attribution: CONFIRMED (speaks as chair: "second what director Chase Miller says", "repeating... vice chair [DePass]", then recognizes "Director Lefort")
+  topic: boundary vote expected ~Jan 2026; engagement workload
+  "I am very also very hesitant about adding things and here's why. Uh I am looking at boundaries and I think at some point off this chart there's going to be a vote whether that's this June or or next probably January of next school year at some point around then. And once we decide when that board vote is for approving the district boundaries, that thing is going to backfill like so many boxes in terms of like how many community engagements we have to do, how many meetings we have to do, how many maps we have to look at [...] I think we're going to be really busy."
+
+[2025-09-30 Work Session - draft 2025-26 board work plan]
+  time 02:18:49 | https://www.youtube.com/watch?v=dVcyfTroSSI&t=8329s
+  source: transcripts/text/2025-09-30_Board_of_Education_Work_Session__dVcyfTroSSI.txt
+  attribution: PROBABLE (author of the draft work plan - "I left it um kind of vague"; replying to La Forte's request to name rightsizing)
+  topic: "board town halls" in work plan are about rightsizing
+  "I think part of the reason we left it or I left it um kind of vague board town halls is because that discussion progresses. So like the first town hall may be about like what are your community's biggest priorities? You know, what are things that are worth protecting? [...] we haven't gotten there yet determining exactly what the town halls the like specific topics are going to be, but yes, it's about eventually right sizing."
+
+[2025-09-30 Work Session - draft 2025-26 board work plan]
+  time 02:48:18 | https://www.youtube.com/watch?v=dVcyfTroSSI&t=10098s
+  source: transcripts/text/2025-09-30_Board_of_Education_Work_Session__dVcyfTroSSI.txt
+  attribution: PROBABLE (chair-voice turn: "I want to be very careful that we're not getting into... management's job"; same student-outcomes test he applies elsewhere; no name given)
+  topic: boundary work = equal middle-school offerings, consolidating resources
+  "if we want to do boundary work right and here's the way I see it. Doing boundary work right is going to help our students. It centers our students and make sure that all our middle schools have you know uh all the course offerings that every other middle school has. Uh make sure that they have robust programming everywhere. uh consolidating our resources where they're needed and that that's students focused and I think focusing on a work plan on boundaries for example so that we do it well is going to improve outcomes for our students."
+
+[2025-12-16 Work Session - Jefferson HS academic programming / Scenario C]
+  time 03:22:55 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=12175s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: CONFIRMED (chair managing order "I want to kind of go through order"; Splitt replies "And director Wong, I would just if I were you...")
+  topic: amendments must be vetted; redistricting has unintended consequences
+  "if you have ideas for amendments that you please send that to staff ahead of time early enough because one of the as someone who has gone through redistricting there's a lot of unintended consequences that could happen that we may not have time to foresee if it hasn't been vetted thoroughly."
+
+[2026-01-13 Regular Meeting - Res. 7228 end Jefferson dual assignment]
+  time 01:07:01 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=4021s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: POSSIBLE (speaks right after student rep, then runs the vote; reference to having "gone through boundary changes" fits his SEGC role, but could be DePass)
+  topic: hurt of boundary change smaller than perceived
+  "having gone through boundary changes and and reassignment stuff. Uh, a lot of times the perception of the hurt is a lot bigger than the reality because often what happens in reality is people join new communities or bigger communities or bigger thriving communities [...] I'm really excited for this change. I think is uh well long overdue"
+
+[2026-01-13 Regular Meeting - Res. 7229 Jefferson HS attendance boundaries]
+  time 01:59:21 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=7161s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: CONFIRMED (chair "I'll take my turn"; self-reference to SEGC participation; La Forte next: "Chair Wong, to your point, looking forward towards right sizing")
+  topic: was a "big fan" of Scenario B, switched to C for flexibility; boundary change "not as scary"
+  "Before, you know, the decision was made, I was actually a big fan of scenario B. Um however through looking at all the data and all the points and especially when we're looking down the road in terms of um potential you know like redistricting and and all the stuff scenario C allows the flexibility so that our other high schools don't have as much danger of being underenrolled. [...] during the SEGC process. [...] we actually uh talked to a lot of other districts [...] redistricting high school boundaries was like almost like we just do it all the time. It's no big deal, right? [...] I'm also concerned about McDaniel because you know border schools have a hard time [...] change is not as scary as sometimes it seems."
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: seismic contracts]
+  time 01:37:14 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=5834s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair recognizes himself: "I had my hand raised [...] so I'll call myself"; then "thank you Director Lefor[te]")
+  topic: pushes back on board involvement in seismic selection; future reconfigurations
+  "I want to also push back on what was previously said. [...] some programs may change in the future as well. Like for example, we have some candidates that may be converted to middle school or elementary schools in the future or you know, focus options or vice versa [...] looking at what the schools are now compared to, you know, after consolidation what happened is a very complicated question. [...] one thing that has happened in other districts is that when board members do get involved in these decisions, sometimes you get into crazy things like turf wars and [...] politics and what vice chair depass raised was sometimes the loudest voices win instead of the right places to put the money in."
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:45:03 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=6303s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair; closes his turn with "I said my piece [...] we are at time"; teaching references match his bio)
+  topic: K-8 conversions precedent; warns against bending policy for loud communities; "zero sum game"
+  "When we went through, for example, DRA and the Southeast Guiding Coalition, a lot of schools in the last 5 years were changed from K through 8 to middle schools or changed through K through 5. And that wasn't [...] closing a school, but it was also diverting a lot of kids to a whole different bunch of schools. So, there is precedence for this. [...] oftentimes there's bends in rules or or or uh looking reooking [relooking] at the policy especially when certain communities come out in full force. And that often leads [...] places like uh in the outer southeast that serve historically disadvantaged uh families feeling unheard and unseen. [...] We are looking at a zero sum game [...] saving some here is going to take from somewhere else."
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:52:11 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=6731s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair: "let me make a request")
+  topic: requests 10-15-year history of schools hit by program/enrollment/boundary changes
+  "I think it would be nice to have in the last 10 maybe 15 years if you can um a list of all the schools have gone through programming or enrollment changes or boundary changes [...] after the SEGC after DRA I think it's really important to see which communities have really borne the brunt a lot of the brunt of uh these boundary changes"
+
+[2026-02-24 Work Session - graduation data / post-secondary readiness]
+  time 02:30:15 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=9015s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (same speaker ends "Thank you. Anyone else? [...] Director Lefort" - chair calling the next speaker)
+  topic: dual-language immersion may act as "another focus option"
+  "sometimes we have DI programs that are also self- selective, right? like the parents that are more involved in their kids [...] those kids have a high graduation rate period. Um, and whether our DLIs are actually serving our English language learners or just, you know, acting as another focus option. I think that that's one of my curiosities."

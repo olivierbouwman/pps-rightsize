@@ -1,0 +1,605 @@
+                                                                                                                                                         MINI REVIEW
+                                                                                                                                           published: 19 February 2019
+                                                                                                                                        doi: 10.3389/fpsyg.2019.00305
+
+
+
+
+                                            Do Experiences With Nature Promote
+                                            Learning? Converging Evidence of a
+                                            Cause-and-Effect Relationship
+                                            Ming Kuo 1* , Michael Barnes 2 and Catherine Jordan 3,4
+                                            1
+                                             Landscape and Human Health Laboratory, Department of Natural Resources and Environmental Sciences, University
+                                            of Illinois at Urbana-Champaign, Urbana, IL, United States, 2 Department of Forest Resources, University of Minnesota, Saint
+                                            Paul, MN, United States, 3 Department of Pediatrics, University of Minnesota, Minneapolis, MN, United States, 4 Children &
+                                            Nature Network, Minneapolis, MN, United States
+
+
+                                            Do experiences with nature – from wilderness backpacking to plants in a preschool,
+                                            to a wetland lesson on frogs—promote learning? Until recently, claims outstripped
+                                            evidence on this question. But the field has matured, not only substantiating
+                                            previously unwarranted claims but deepening our understanding of the cause-and-effect
+                                            relationship between nature and learning. Hundreds of studies now bear on this
+                                            question, and converging evidence strongly suggests that experiences of nature
+                          Edited by:        boost academic learning, personal development, and environmental stewardship. This
+                  Donald William Hine,      brief integrative review summarizes recent advances and the current state of our
+  University of New England, Australia
+                                            understanding. The research on personal development and environmental stewardship
+                        Reviewed by:
+                   Tristan Leslie Snell,
+                                            is compelling although not quantitative. Report after report – from independent
+         Monash University, Australia       observers as well as participants themselves – indicate shifts in perseverance, problem
+    Kathryn Jane Hoffmann Williams,
+                                            solving, critical thinking, leadership, teamwork, and resilience. Similarly, over fifty studies
+The University of Melbourne, Australia
+                                            point to nature playing a key role in the development of pro-environmental behavior,
+                  *Correspondence:
+                           Ming Kuo         particularly by fostering an emotional connection to nature. In academic contexts,
+                    fekuo@illinois.edu      nature-based instruction outperforms traditional instruction. The evidence here is
+                                            particularly strong, including experimental evidence; evidence across a wide range of
+                   Specialty section:
+         This article was submitted to      samples and instructional approaches; outcomes such as standardized test scores
+           Environmental Psychology,        and graduation rates; and evidence for specific explanatory mechanisms and active
+               a section of the journal
+               Frontiers in Psychology
+                                            ingredients. Nature may promote learning by improving learners’ attention, levels of
+      Received: 06 September 2018
+                                            stress, self-discipline, interest and enjoyment in learning, and physical activity and
+        Accepted: 31 January 2019           fitness. Nature also appears to provide a calmer, quieter, safer context for learning; a
+       Published: 19 February 2019
+                                            warmer, more cooperative context for learning; and a combination of “loose parts” and
+                            Citation:
+                                            autonomy that fosters developmentally beneficial forms of play. It is time to take nature
+      Kuo M, Barnes M and Jordan C
+  (2019) Do Experiences With Nature         seriously as a resource for learning – particularly for students not effectively reached by
+       Promote Learning? Converging         traditional instruction.
+      Evidence of a Cause-and-Effect
+ Relationship. Front. Psychol. 10:305.      Keywords: literature review, green space, instruction, teaching, environmental education, nature-based learning,
+      doi: 10.3389/fpsyg.2019.00305         green schoolyard
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                      1                                            February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                   Nature Promotes Learning
+
+
+
+
+INTRODUCTION                                                                assigned to classrooms with views of greenery perform better
+                                                                            on concentration tests than those assigned to purely “built”
+The intuition that “nature is good for children” is widely                  views or windowless classrooms (Li and Sullivan, 2016). Nature’s
+held, and yet, historically, the evidence for this intuition has            rejuvenating effects on attention have been found in students
+been uncompelling, with a distressing number of weak studies                going on field trips (van den Berg and van den Berg, 2011),
+and inflated claims. Now, however, an impressive body of                    Swedish preschoolers (Mårtensson et al., 2009), children in
+work has accrued and converging lines of evidence paint a                   Chicago public housing (Faber Taylor et al., 2002), and 5 to 18-
+convincing picture.                                                         year-olds with ADHD (e.g., Kuo and Faber Taylor, 2004), using
+   This integrative mini-review (see Supplementary Material for             measures of attention ranging from parent and teacher ratings
+methods) summarizes what we know about the role of nature                   (O’Haire et al., 2013) to neurocognitive tests (Schutte et al., 2015).
+experiences in learning and development. It draws on a wide
+array of peer-reviewed scientific evidence, ranging from research           Nature Relieves Stress
+in the inner city, to the study of Attention Deficit/Hyperactivity          The stress-reducing effects of nature have been documented in
+Disorder, to neurocognitive and physiological explorations. Our             adults in a large body of controlled experiments (see Kuo, 2015;
+overarching question was, “do nature experiences promote                    Supplementary Material for review) and the available evidence
+learning and child development?”                                            points to a similar effect in children. Nature has been related
+   Throughout our review, we took care to distinguish between               to lower levels of both self-reported and physiological measures
+evidence for cause-and-effect relationships and evidence for                of stress in children (Bell and Dyment, 2008; Chawla, 2015;
+associations; causal language (e.g., “affects,” “boosts,” “is reduced       Wiens et al., 2016). Recently, an experimental study showed
+by”) is used only where justified by experimental evidence.                 that a window view of vegetation from a high school classroom
+Where converging, but not experimental, evidence points to                  yields systematic decreases in heart rate and self-reported stress,
+a likely cause-and-effect relationship, our language is qualified           whereas built views do not (Li and Sullivan, 2016). Further,
+accordingly (e.g., “seems to increase”). Table 1 summarizes recent          students learning in a forest setting one day a week showed
+advances in this area and explains how those advances contribute            healthier diurnal rhythms in cortisol in that setting than a
+to our confidence in a cause-and-effect relationship between                comparison group that learned indoors – cortisol dropped over
+nature and learning and development.                                        the course of the school day when lessons were held in the
+   What emerged from this critical review was a coherent                    forest but not in the classroom – and these effects could not
+narrative (Figure 1): experiences with nature do promote                    be attributed to the physical activity associated with learning
+children’s academic learning and seem to promote children’s                 outdoors (Dettweiler et al., 2017).
+development as persons and as environmental stewards – and
+at least eight distinct pathways plausibly contribute to these              Contact With Nature Boosts
+outcomes. Below, we discuss the evidence for each of the eight              Self-Discipline
+pathways and then the evidence tying nature to learning, personal
+                                                                            In adults, the effects of viewing scenes of nature on self-discipline
+development, and the development of stewardship.
+                                                                            have been demonstrated experimentally using tests of impulse
+                                                                            control (Berry et al., 2014; Chow and Lau, 2015). In children,
+NATURE MAY BOOST LEARNING VIA                                               nature contact has been tied to greater self-discipline in children
+                                                                            from inner city Chicago (Faber Taylor et al., 2002) to residential
+DIRECT EFFECTS ON LEARNERS                                                  Barcelona (Amoly et al., 2014) and in experimental (Sahoo and
+Five of the eight plausible pathways between nature and learning            Senapati, 2014), longitudinal (Ulset et al., 2017), and large-scale
+we identified are centered in the learner. Learning is likely to            cross-sectional studies (Amoly et al., 2014). These benefits have
+improve when a learner is more attentive (Rowe and Rowe, 1992;              been shown for neurotypical children as well as for children with
+Mantzicopoulos and Morrison, 1994); less stressed (Grannis,                 ADHD (Sahoo and Senapati, 2014) and learning difficulties (Ho
+1992; Leppink et al., 2016); more self-disciplined (Mischel et al.,         et al., 2017). The types of self-discipline assessed include delay
+1988; Duckworth and Seligman, 2005); more engaged and                       of gratification (Faber Taylor et al., 2002) and parent ratings
+interested (Taylor et al., 2014 for review); and more physically            of hyperactivity (Flouri et al., 2014), and the types of “nature”
+active and fit (for reviews, see Álvarez-Bueno et al., 2017;                include not just “greenness” but contact with horses in animal-
+Santana et al., 2017). Evidence suggests that contact with nature           assisted learning (Ho et al., 2017). Note that impulse control
+contributes to each of these states or conditions in learners.              effects are not always statistically significant (e.g., Amoly et al.,
+                                                                            2014; Schutte et al., 2015). Nonetheless, in general, impulse
+Nature Has Rejuvenating Effects on                                          control is better during or after children’s contact with nature.
+Attention
+The rejuvenating effect of nature on mentally fatigued adults
+                                                                            Student Motivation, Enjoyment, and
+(e.g., Hartig et al., 1991; Kuo, 2001) and children has been                Engagement Are Better in Natural
+demonstrated in a large body of studies, including field                    Settings
+experiments (Faber Taylor and Kuo, 2009) and large-scale                    Student motivation, enjoyment, and engagement are better in
+longitudinal studies (Dadvand et al., 2015). Students randomly              natural settings, perhaps because of nature’s reliably positive
+
+
+Frontiers in Psychology | www.frontiersin.org                           2                                       February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                                          Nature Promotes Learning
+
+
+
+TABLE 1 | Do nature experiences promote learning? Advances in methodology and evidence.
+
+  We now know that...                           How this advance came about and why it matters
+
+  Nature-based instruction (NBI) is, on         Early research often compared outcomes before and after NBI, showing that students benefited from nature-based
+  average, more effective than traditional      instruction but not whether there was anything particularly helpful about NBI as compared to any other instruction. More
+  instruction (TI).                             recently, studies have begun comparing outcomes for NBI vs. TI, showing that incorporating nature adds value to
+                                                instruction (e.g., Ernst and Stanek, 2006; Camassao and Jagannathan, 2018).
+
+  The advantage of NBI over TI does not         Early research often compared learning in classrooms offering NBI vs. matched classrooms offering TI. But matching
+  simply reflect a tendency for better          does not address the likelihood that teachers (or schools) who choose to offer NBI may be more innovative, energetic, or
+  teachers, better schools, or better           well-funded than teachers (or schools) who do not, even if they serve similar students. Similarly, comparisons of students
+  students to choose NBI.                       who choose extracurricular NBI vs. students who do not will reflect pre-existing differences in the kinds of students who
+                                                sign up for extra instruction. Recently, researchers have begun using “waitlist controls” – identifying teachers, schools, or
+                                                students interested in NBI and then randomly assigning some of them to NBI and the rest to TI (e.g., Wells et al., 2015).
+                                                Guarding against pre-existing differences between the teachers, schools, and students being compared lends greater
+                                                confidence that any gains are due to the instruction itself.
+
+  The effects of NBI on academic learning       Early research often relied on subjective assessments of outcomes by persons who believe in NBI. Advocates,
+  are real; they do not simply reflect the      practitioners, and parents or children who choose NBI may perceive benefits in the absence of any real effects, whether
+  rosy assessments of biased observers.         consciously or unconsciously. More recent research guards against such bias by employing objective measures or
+                                                assessments made “blind to condition” – without knowing which students were in which condition (NBI or TI) (e.g., Ernst
+                                                and Stanek, 2006). In these studies, an advantage of NBI over TI cannot be attributed to wishful thinking.
+
+  NBI shows a “dose-response                    Early research relied on binary comparisons between learning settings with and without nature, or “low” and “high
+  relationship” – as the magnitude of the       nature,” leaving more room for alternative explanations. For instance, if students learn more outdoors than indoors, the
+  treatment (the dose) increases, so does       difference might be due to either differences in vegetation or other differences between the settings. More recent
+  the outcome.                                  research has compared multiple levels of nature (e.g., schoolyards with 0–40% tree cover, Sivarajah et al., 2018) or
+                                                multiple levels of NBI (Wells et al., 2015). When the response is proportional to the dose, that lends confidence that the
+                                                effect is attributable to the level of vegetation. Although a “dose-response relationship” does not prove causality, it
+                                                strengthens the case.
+
+  The nature-learning connection holds          As researchers have continued to conduct studies, the body of studies testing the nature-learning hypothesis has grown
+  up across topics, learners, instructors,      larger and more diverse (e.g., Faber Taylor et al., 2002; Maynard et al., 2013; O’Haire et al., 2013; Ruiz-Gallardo et al.,
+  pedagogies, places, and measures of           2013; Fremery and Bogner, 2014; Lekies et al., 2015; Swank et al., 2017; Kuo et al., 2018a; McCree et al., 2018;
+  learning.                                     Sivarajah et al., 2018). A robust association persisting across different contexts lends greater confidence in a
+                                                cause-and-effect relationship (Hill, 1965, p. 8).
+
+  The relationship between nature and           Over time, a greater variety of study designs have been employed, including true experiments (e.g., Wells et al., 2015),
+  learning holds up across different            quasi-experiments (e.g., Faber Taylor and Kuo, 2009; Benfield et al., 2015), large-scale correlational studies with
+  research designs.                             statistical controls (e.g., Kuo and Faber Taylor, 2004), and longitudinal studies (e.g., McCree et al., 2018). Findings
+                                                persisting across diverse study designs strengthen the case for causality.
+
+  The advantages of NBI over TI may             Previous reviews drew only upon studies examining the effects of NBI on learning. In this review, we expanded our reach
+  stem from both setting and pedagogy.          to include research on both the setting and the pedagogy of NBI, respectively. Educational psychologists working in the
+                                                classroom have found that active, hands-on, student-centered, and collaborative forms of instruction outperform more
+                                                traditional instructional approaches (Granger et al., 2012; Freeman et al., 2014; Kontra et al., 2015). Environmental
+                                                psychologists have found better learning in “greener” settings – even when the instruction does not incorporate the
+                                                nature (Benfield et al., 2015; Kuo et al., 2018b). These additional bodies of evidence converge to support and perhaps
+                                                explain the advantages of NBI over TI.
+
+  Nature experiences may promote                Again, previous reviews drew only upon direct tests of the nature-learning hypothesis – studies in which nature was the
+  learning via at least eight distinct          independent variable and learning was the dependent variable. In this review, we also examined studies in which nature
+  pathways.                                     was the independent variable but the dependent variable was a precursor to learning (for example, Li and Sullivan, 2016,
+                                                examines impacts of classroom views of nature on attention, which has long been established as an important precursor
+                                                to learning, e.g., Rowe and Rowe, 1992). Evidence of mechanism lends greater plausibility to a cause-and-effect
+                                                relationship between nature and learning. The multiple mechanisms identified here may also help explain the consistency
+                                                of the nature-learning relationship, as robust phenomena are often multiply determined.
+
+In recent years, the evidence for a cause-and-effect relationship between nature experiences and learning has advanced considerably. Some advances can be traced to
+the adoption of more rigorous research methods in individual studies (in green), others can be traced to the maturation of the field (in blue), and still, others stem from
+broadening the kinds of evidence considered in reviews (in purple).
+
+
+effects on mood (e.g., Takayama et al., 2014). In previous                                 in and around nature is associated with intrinsic motivation
+reviews (Blair, 2009; Becker et al., 2017) and recent studies                              (Fägerstam and Blom, 2012; Hobbs, 2015), which, unlike extrinsic
+(e.g., Skinner and Chi, 2014; Alon and Tal, 2015; Lekies et al.,                           motivation, is crucial for student engagement and longevity
+2015), students and teachers report strikingly high levels of                              of interest in learning. The positivity of learning in nature
+student engagement and motivation, during both student-elected                             seem to ripple outward, as seen in learners’ engagement in
+and school-mandated nature activities. Importantly, learning                               subsequent, indoor lessons (Kuo et al., 2018a), ratings of course
+
+
+Frontiers in Psychology | www.frontiersin.org                                          3                                              February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                                       Nature Promotes Learning
+
+
+
+
+  FIGURE 1 | Nature-based learning: exposures, probable mechanisms, and outcomes. This Figure summarizes the state of the scientific literature on nature and
+  learning. The items and pathways here emerged from our review as opposed to guiding our review; thus each item listed has been empirically associated with one or
+  more other items in the figure. Relationships for which there is cause-and-effect evidence are indicated with an asterisk; for example, “more able to concentrate” is
+  asterisked because experimental research has demonstrated that exposure to nature boosts concentration. Similarly, “increased retention of subject matter” is
+  asterisked because experimental research has demonstrated that exposure to nature in the course of learning boosts retention of that material. Here and throughout
+  this review, causal language (e.g., “affects,” “increases,” “boosts,” “is reduced by”) is used only where experimental evidence (the gold standard for assessing
+  cause-and-effect) warrants. Where converging evidence suggests a causal relationship but no experimental evidence is available, we use qualified causal language
+  (e.g., “seems to increase”). The green box lists forms of nature exposure that have been tied with learning, whether directly (nature -> learning) or indirectly, via one
+  or more of the mechanisms listed (nature -> mechanism -> learning). In this review, “nature” includes experiences of nature not only in wilderness but also within
+  largely human-made contexts. Thus a classroom with a view of trees offers an experience of nature not offered by its counterpart facing the school parking lot. This
+  review encompassed experiences of nature regardless of context – whether through play, relaxation, or educational activities, and in informal, non-formal and formal
+  settings. The blue boxes show probable mechanisms – intermediary variables which have been empirically tied to both nature and learning. For example, the ability
+  to concentrate is rejuvenated by exposure to nature and plays an important role in learning. Natural settings may affect learning both by directly fostering a learner’s
+  capacity to learn and by providing a more supportive context for learning. The purple box lists learning outcomes that have been tied to contact with nature. In this
+  review, “learning” encompasses changes in knowledge, skills, behaviors, attitudes, and values. A database of articles found in the three phases of the review
+  process (ending in 2018) is available at: https://goo.gl/FZ1CA9.
+
+
+
+curriculum, materials, and resources (Benfield et al., 2015) and                         to remain physically active as they got older (Pagels et al., 2014).
+interest in school in general (Blair, 2009; Becker et al., 2017),                        This pattern is echoed in later life: in older adults, physical
+as well as lower levels of chronic absenteeism (MacNaughton                              activity declines with age – but among those living in greener
+et al., 2017). Encouragingly, learning in nature may improve                             neighborhoods the decline is smaller (Dalton et al., 2016).
+motivation most in those students who are least motivated in
+traditional classrooms (Dettweiler et al., 2015).
+                                                                                         NATURE MAY BOOST LEARNING BY
+Time Outdoors Is Tied to Higher Levels                                                   PROVIDING A MORE SUPPORTIVE
+of Physical Activity and Fitness                                                         CONTEXT FOR LEARNING
+While the evidence tying green space to physical activity is
+                                                                                         In addition to its effects on learners, natural settings and features
+extremely mixed (see Lachowitz and Jones, 2011 for review),
+                                                                                         may provide a more supportive context for learning in at
+children’s time outdoors is consistently tied to both higher levels
+                                                                                         least three ways. Greener environments may foster learning
+of physical activity and physical fitness: the more time children
+                                                                                         because they are calmer and quieter, because they foster warmer
+spend outdoors, the greater their physical activity, the lesser
+                                                                                         relationships, and because the combination of “loose parts” and
+their sedentary behavior, and the better their cardiorespiratory
+                                                                                         relative autonomy elicits particularly beneficial forms of play.
+fitness (Gray et al., 2015). Importantly, cardiorespiratory fitness
+is the component of physical fitness most clearly tied to academic
+performance (Santana et al., 2017). Further, there is some
+                                                                                         Vegetated Settings Tend to Provide
+indication greener school grounds can counter children’s trend                           Calmer, Quieter, Safer Contexts for
+toward decreasing physical activity as they approach adolescence:                        Learning
+in one study, girls with access to more green space and                                  Both formal and informal learning are associated with a
+woodlands, and boys with access to ball fields, were more likely                         greater sense of calmness or peace when conducted in greener
+
+
+Frontiers in Psychology | www.frontiersin.org                                        4                                              February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                            Nature Promotes Learning
+
+
+
+settings (Maynard et al., 2013; Nedovic and Morrissey, 2013;           active play to cognitive, social and physical development
+Chawla et al., 2014). Problematic and disruptive behaviors             seem clear.
+such as talking out of turn or pushing among children
+are less frequent in natural settings than in the classroom
+(Bassette and Taber-Doughty, 2013; Nedovic and Morrissey,              OUTCOMES FOR LEARNING AND
+2013; O’Haire et al., 2013; Chawla et al., 2014). Further,             DEVELOPMENT
+in greener learning environments, students who previously
+experienced difficulties in traditional classrooms are better          In school settings, incorporating nature in instruction improves
+able to remove themselves from conflicts and demonstrate               academic achievement over traditional instruction. In a
+better self-control (Maynard et al., 2013; Ruiz-Gallardo et al.,       randomized controlled trial of school garden-based instruction
+2013; Swank et al., 2017). The social environment of the               involving over 3,000 students, students gained more knowledge
+classroom has long been recognized as important for learning           than waitlist control peers taking traditional classes; moreover,
+(Rutter, 2000). Calmer environments have been tied to greater          the more garden-based instruction, the larger the gains (Wells
+student engagement and academic success (Wessler, 2003;                et al., 2015). Further, among the over 200 other tests of nature-
+McCormick et al., 2015).                                               based instruction’s academic outcomes, the vast majority of
+                                                                       findings are positive (for reviews, see Williams and Dixon, 2013;
+Natural Settings Seem to Foster Warmer,                                Becker et al., 2017) – and here, too, the most impressive findings
+More Cooperative Relations                                             come from studies employing the largest doses of nature-
+Images of nature have prosocial effects in adults (e.g.,               based instruction (e.g., Ernst and Stanek, 2006). Findings have
+Weinstein et al., 2009) and greener settings are tied to               been consistently positive across diverse student populations,
+the development of meaningful and trusting friendships                 academic subjects, instructors and instructional approaches,
+between peers (White, 2012; Chawla et al., 2014; Warber                educational settings, and research designs.
+et al., 2015). Maynard et al. (2013) theorize that natural                 Interestingly, both the pedagogy and setting of nature-based
+settings provide a less restrictive context for learning than          instruction may contribute to its effects. Hands-on,
+the traditional classroom, giving children more freedom to             student-centered,       activity-based    and     discussion-based
+engage with one another and form ties. Indeed, learning in             instruction each outperform traditional instruction—even
+greener settings has been consistently tied to the bridging            when conducted indoors (Granger et al., 2012; Freeman et al.,
+of both socio-cultural differences and interpersonal barriers          2014; Kontra et al., 2015). And simply conducting traditional
+(e.g., personality conflicts) that can interfere with group            instruction in a more natural setting may boost outcomes.
+functioning in the classroom (White, 2012; Cooley et al., 2014;        In multiple studies, the greener a school’s surroundings,
+Warber et al., 2015). Finally, learning in nature facilitates          the better its standardized test performance – even after
+cooperation and comfort between students and teachers, perhaps         accounting for poverty and other factors (e.g., Sivarajah et al.,
+by providing a more level playing-field wherein the teacher            2018)—and classrooms with green views yield similar findings
+is seen as a partner in learning (Scott and Colquhoun,                 (Benfield et al., 2015; although c.f. Doxey et al., 2009). The
+2013). More cooperative learning environments promote student          frequency of positive findings on nature-based instruction
+engagement and academic performance (Patrick et al., 2007;             likely reflects the combination of a better pedagogy and a better
+McCormick et al., 2015).                                               educational setting.
+                                                                           In and outside the context of formal instruction, experiences
+                                                                       of nature seem to contribute to additional outcomes. First, not
+Natural Settings May Afford “Loose                                     only do experiences of nature enhance academic learning, but
+Parts,” Autonomy, and Distinctly                                       they seem to foster personal development – the acquisition
+Beneficial Forms of Play                                               of intrapersonal and interpersonal assets such as perseverance,
+In his “theory of loose parts,” Nicholson (1972) posited               critical thinking, leadership, and communication skills. While
+that the “stuff ” of nature – sticks, stones, bugs, dirt,              quantitative research on these outcomes is rare, the qualitative
+water – could promote child development by encouraging                 work is voluminous, striking, and near-unanimous (for reviews,
+creative, self-directed play. Indeed, teachers’ and principals’        see Cason and Gillis, 1994; Williams and Dixon, 2013; Becker
+observations suggest children’s play becomes strikingly                et al., 2017). Teachers, parents, and students report that
+more creative, physically active, and more social in                   wilderness and other nature experiences boost self-confidence,
+the presence of loose parts (e.g., Bundy et al., 2008,                 critical thinking, and problem-solving (e.g., Kochanowski and
+2009). Interestingly, it appears that nature, loose parts,             Carr, 2014; Truong et al., 2016) as well as leadership and
+and autonomy can each independently contribute to                      communication skills such as making important decisions,
+outcomes (see Bundy et al., 2009; Niemiec and Ryan, 2009;              listening to others, and voicing opinions in a group (e.g., Jostad
+Studente et al., 2016, respectively), raising the possibility          et al., 2012; Cooley et al., 2014). Students emerge more resilient,
+of synergy among these factors. Although the effects                   with a greater capacity to meet challenges and thrive in adverse
+of loose parts play on child development have yet to be                situations (Beightol et al., 2012; Cooley et al., 2014; Harun and
+quantitatively demonstrated (Gibson et al., 2017), the potential       Salamuddin, 2014; Warber et al., 2015; Richmond et al., 2017).
+contributions of more creative, more social, more physically           Interestingly, greener everyday settings may also boost positive
+
+
+Frontiers in Psychology | www.frontiersin.org                      5                                     February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                   Nature Promotes Learning
+
+
+
+coping (Kuo, 2001) and buffer children from the impacts of                   traditional instruction is ineffective? Although this review was
+stressful life events (Wells and Evans, 2003).                               not structured to systematically assess this question, the benefits
+    And second, spending time in nature appears to grow                      of nature-based learning for disadvantaged students were a
+environmental stewards. Adults who care strongly for nature                  striking leitmotif in our reading. Not only can nature-based
+commonly attribute their caring to time, and particularly play,              learning work better for disadvantaged students (McCree et al.,
+in nature as children – and a diverse body of studies backs                  2018; Sivarajah et al., 2018), but it appears to boost interest
+them up (for review, see Chawla and Derr, 2012). Interestingly,              in uninterested students (Dettweiler et al., 2015; Truong et al.,
+the key ingredient in childhood nature experiences that leads                2016), improve some grades (Camassao and Jagannathan, 2018),
+to adult stewardship behavior does not seem to be conservation               and reduce disruptive episodes and dropouts among “at risk”
+knowledge (knowledge of how and why to conserve). Although                   students (Ruiz-Gallardo et al., 2013). Nature-based learning may
+knowledge of how and why to conserve, which could presumably                 sometimes even erase race- and income-related gaps (e.g., Taylor
+be taught in a classroom setting, has typically been assumed                 et al., 1998). Further, anecdotes abound in which students who
+to drive stewardship behavior, it is relatively unimportant in               ordinarily struggle in the classroom emerge as leaders in natural
+predicting conservation behavior (Otto and Pensini, 2017). By                settings. If nature is equigenic, giving low-performing students
+contrast, an emotional connection to nature, which may be more               a chance to succeed and even shine, the need to document this
+difficult to acquire in a classroom, is a powerful predictor of              capacity is pressing. In the United States, where sixth graders
+children’s conservation behavior, explaining 69% of the variance             in the richest school districts are four grade levels ahead of
+(Otto and Pensini, 2017). Indeed, environmental attitudes may                children in the poorest districts (Reardon et al., 2017), this need
+foster the acquisition of environmental knowledge (Fremery                   is urgent.
+and Bogner, 2014) rather than vice versa. As spending time in                    Fully assessing and making use of the benefits of nature-
+nature fosters an emotional connection to nature and, in turn,               based instruction can serve all children. The available
+conservation attitudes and behavior, direct contact with nature              evidence suggests that experiences of nature help children
+may be the most effective way to grow environmental stewards                 acquire some of the skills, attitudes, and behaviors most
+(Lekies et al., 2015).                                                       needed in the 21st century. “Non-cognitive factors” such
+                                                                             as perseverance, self-efficacy, resilience, social skills,
+                                                                             leadership, and communication skills – so important in
+CONCLUSION AND IMPLICATIONS                                                  life beyond school (National Research Council, 2012) – are
+                                                                             increasingly recognized by the business community and
+Do experiences with nature really promote learning? A scientist              policy makers as essential in a rapidly changing world.
+sampling some of the studies in this area might well be dismayed             And for generations growing up in the Anthropocene,
+initially – as we were – at the frequency of weak research                   environmental stewardship may be as important as any
+designs and overly optimistic claims. But a thorough review                  academic content knowledge.
+reveals an evidence base stronger, deeper, and broader than                      We conclude it is time to take nature seriously as a resource for
+this first impression might suggest: weak research designs are               learning and development. It is time to bring nature and nature-
+supplemented with strong ones; striking findings are replicated              based pedagogy into formal education – to expand existing,
+in multiple contexts; the research on nature and learning                    isolated efforts into increasingly mainstream practices. Action
+now includes evidence of mechanisms; and findings from                       research should assess the benefits of school gardens, green
+entirely outside the study of nature and learning point to the               schoolyards and green walls in classrooms. Principals and school
+same conclusions.                                                            boards should support, not discourage, teachers’ efforts to hold
+   Robust phenomena are often robust because they are multiply               classes outdoors, take regular field trips, and partner with nearby
+determined. The eight likely pathways between exposure to                    nature centers, farms, and forest preserves. Teachers who have
+nature and learning identified here may account for the                      pioneered nature-based instruction should serve as models and
+consistency of the nature-learning connection. Certainly it seems            coaches, helping others address its challenges and take full
+likely that increasing a student’s ability to concentrate, interest in       advantage of its benefits.
+the material, and self-discipline simultaneously would enhance
+their learning more than any of these effects alone. Moreover,
+in a group setting, effects on individual learners improve the               AUTHOR CONTRIBUTIONS
+learning context; when Danika fidgets less, her seatmates Jamal
+and JiaYing experience fewer disruptions and concentrate better;             All authors co-wrote and edited the manuscript. MK provided
+when Danika, Jamal, and JiaYing are less disruptive, the whole               leadership for decisions of content, framing, and style and
+class learns better. These synergies – within and between                    led the creation of the Figure and Table. MB created
+students – may help explain how relatively small differences in              the SoNBL literature database on which this review is
+schoolyard green cover predict significant differences in end-of-            based. CJ serves as the principal investigator of the Science
+year academic achievement performance (e.g., Matsuoka, 2010;                 of Nature-Based Learning Collaborative Research Network
+Kuo et al., 2018b).                                                          project; in addition to initiating this project and substantially
+   An important question arose in the course of our review:                  shaping the Figure and Table, she solicited feedback from
+is nature-based instruction effective for students for whom                  Network members.
+
+
+Frontiers in Psychology | www.frontiersin.org                            6                                      February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                                               Nature Promotes Learning
+
+
+
+
+FUNDING                                                                                       and passion for connecting children to nature: Marc
+                                                                                              Berman, Judy Braus, Greg Cajete, Cheryl Charles, Louise
+This literature review was conducted under the auspices of                                    Chawla, Scott Chazdon, Angie Chen, Avery Cleary,
+the Science of Nature-Based Learning Collaborative Research                                   Nilda Cosco, Andrea Faber Taylor, Megan Gunnar, Erin
+Network (NBLR Network) supported by the National Science                                      Hashimoto-Martell, Peter Kahn, Sarah Milligan Toffler, Robin
+Foundation under Grant No. NSF 1540919. Any opinions,                                         Moore, Scott Sampson, David Sobel, David Strayer, Jason
+findings, and conclusions or recommendations are those of the                                 Watson, Sheila Williams Ridge, Dilafruz Williams, and
+authors and do not necessarily reflect the views of the National                              Tamra Willis.
+Science Foundation.
+
+                                                                                              SUPPLEMENTARY MATERIAL
+ACKNOWLEDGMENTS
+                                                                                              The Supplementary Material for this article can be found
+We thank the members of the NBLR Network for                                                  online at: https://www.frontiersin.org/articles/10.3389/fpsyg.
+their diverse contributions of expertise, skills, resources                                   2019.00305/full#supplementary-material
+
+
+REFERENCES                                                                                    Cason, D., and Gillis, H. L. (1994). A meta-analysis of outdoor adventure
+                                                                                                 programming with adolescents. J. Exp. Educ. 17, 40–47. doi: 10.1177/
+Alon, N. L., and Tal, T. (2015). Student self-reported learning outcomes of field                105382599401700109
+   trips: the pedagogical impact. Int. J. Sci. Educ. 37, 1279–1298. doi: 10.1080/             Chawla, L. (2015). Benefits of nature contact for children. J. Plan. Lit. 30, 433–452.
+   09500693.2015.1034797                                                                         doi: 10.1177/0885412215595441
+Álvarez-Bueno, C., Pesce, C., Cavero-Redondo, I., Sánchez-López, M., Garrido-                 Chawla, L., and Derr, V. (2012). “The development of conservation behaviors
+   Miguel, M., and Martínez-Vizcaíno, V. (2017). Academic achievement and                        in childhood and youth,” in The Oxford Handbook of Environmental and
+   physical activity: a meta-analysis. Pediatrics 140:e20171498. doi: 10.1542/peds.              Conservation Psychology, ed. S. D. Clayton (Oxford: Oxford University Press),
+   2017-1498                                                                                     527–555.
+Amoly, E., Dadvand, P., Forns, J., López-Vicente, M., Basagaña, X., Julvez, J.,               Chawla, L., Keena, K., Pevec, I., and Stanley, E. (2014). Green schoolyards
+   et al. (2014). Green and blue spaces and behavioral development in Barcelona                  as havens from stress and resources for resilience in childhood and
+   schoolchildren: the breathe project. Environ. Health Perspect. 122, 1351–1358.                adolescence. Health Place 28, 1–13. doi: 10.1016/j.healthplace.2014.
+   doi: 10.1289/ehp.1408215                                                                      03.001
+Bassette, L. A., and Taber-Doughty, T. (2013). The effects of a dog reading visitation        Chow, J. T., and Lau, S. (2015). Nature gives us strength: exposure to nature
+   program on academic engagement behavior in three elementary students with                     counteracts ego-depletion. J. Soc. Psychol. 155, 70–85. doi: 10.1080/00224545.
+   emotional and behavioral difficulties: a single case design. Child Youth Care                 2014.972310
+   Forum 42, 239–256. doi: 10.1007/s10566-013-9197-y                                          Cooley, S. J., Holland, M. J. G., Cumming, J., Novakovic, E. G., and Burns,
+Becker, C., Lauterbach, G., Spengler, S., Dettweiler, U., and Mess, F. (2017). Effects           V. E. (2014). Introducing the use of a semi-structured video diary room
+   of regular classes in outdoor education settings: a systematic review on students’            to investigate students’ learning experiences during an outdoor adventure
+   learning, social and health dimensions. Int. J. Environ. Res. Public Health                   education groupwork skills course. High. Educ. 67, 105–121. doi: 10.1007/
+   14:E485. doi: 10.3390/ijerph14050485                                                          s10734-013-9645-5
+Beightol, J., Jevertson, J., Gray, S., Carter, S., and Gass, M. A. (2012). Adventure          Dadvand, P., Niewenhuijsen, M. J., Esnaola, M., Forns, J., Basagaña, X., Alvarez-
+   education and resilience enhancement: a mixed methods study. J. Exp. Educ.                    Pedrero, M., et al. (2015). Green spaces and cognitive development in primary
+   35, 307–325.                                                                                  schoolchildren. Proc. Natl. Acad. Sci.U.S.A. 112, 7937–7942. doi: 10.1073/pnas.
+Bell, A. C., and Dyment, J. E. (2008). Grounds for health: the intersection of                   1503402112
+   school grounds and health-promoting schools. Environ. Educ. Res. 14, 77–90.                Dalton, A. M., Wareham, N., Griffin, S., and Jones, A. P. (2016). Neighbourhood
+   doi: 10.1080/13504620701843426                                                                greenspace is associated with a slower decline in physical activity in older adults:
+Benfield, J. A., Rainbolt, G. N., Bell, P. A., and Donovan, G. H. (2015). Classrooms             a prospective cohort study. SSM Popul. Health 2, 683–691. doi: 10.1016/j.ssmph.
+   with nature views: evidence of different student perceptions and behaviors.                   2016.09.006
+   Environ. Behav. 47, 140–157. doi: 10.1177/0013916513499583                                 Dettweiler, U., Becker, C., Auestad, B. H., Simon, P., and Kirsch, P. (2017). Stress
+Berry, M. S., Sweeney, M. M., Morath, J., Odum, A. L., and Jordan, K. E. (2014).                 in school. Some empirical hints on the circadian cortisol rhythm of children
+   The nature of impulsivity: visual exposure to natural environments decreases                  in outdoor and indoor classes. Int. J. Environ. Res. Public Health 14:475. doi:
+   impulsive decision-making in a delay discounting task. PLoS One 9:e97915.                     10.3390/ijerph14050475
+   doi: 10.1371/journal.pone.0097915                                                          Dettweiler, U., Ünlü, A., Lauterbach, G., Becker, C., and Gschrey, B. (2015).
+Blair, D. (2009). The child in the garden: an evaluative review of the benefits of               Investigating the motivational behavior of pupils during outdoor science
+   school gardening. J. Environ. Educ. 40, 15–38. doi: 10.3200/JOEE.40.2.15-38                   teaching within self-determination theory. Front. Psychol. 6:125. doi: 10.3389/
+Bundy, A. C., Luckett, T., Naughton, G. A., Tranter, P. J., Wyver, S. R., Ragen, J.,             fpsyg.2015.00125
+   et al. (2008). Playful interaction: occupational therapy for all children on the           Doxey, J., Waliczek, T. M., and Zajicek, J. M. (2009). The impact of interior
+   school playground. Am. J. Occup. Ther. 62, 522–527. doi: 10.5014/ajot.62.                     plants in university classrooms on student course performance and on student
+   5.522                                                                                         perceptions of the course and instructor. Hortic. Sci. 44, 384–391. doi: 10.21273/
+Bundy, A. C., Luckett, T., Tranter, P. J., Naughten, G. A., Wyver, S. R., Ragen, J.,             HORTSCI.44.2.384
+   et al. (2009). The risk is that there is ”no risk”: a simple innovative intervention       Duckworth, A. L., and Seligman, M. E. P. (2005). Self-discipline outdoes IQ in
+   to increase children’s activity levels. Int. J. Early Years Educ. 17, 33–45.                  predicting academic performance of adolescents. Psychol. Sci. 16, 939–944.
+   doi: 10.1080/09669760802699878                                                                doi: 10.1111/j.1467-9280.2005.01641.x
+Camassao, M. J., and Jagannathan, R. (2018). Nature thru nature: creating natural             Ernst, J., and Stanek, D. (2006). The prairie science class: a model for
+   science identities in populations of disadvantaged children through community                 re-visioning environmental education within the national wildlife refuge
+   education partnership. J. Environ. Educ. 49, 30–42. doi: 10.1080/00958964.2017.               system. Hum. Dimens. Wildl. 11, 255–265. doi: 10.1080/108712006008
+   1357524                                                                                       03010
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                             7                                                February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                                               Nature Promotes Learning
+
+
+
+Faber Taylor, A., Kuo, F., and Sullivan, W. (2002). Views of nature and self-                  Kuo, M., Browning, M. H. E. M., Sachdeva, S., Westphal, L., and Lee, K.
+   discipline: evidence from inner city children. J. Environ. Psychol. 22, 49–63.                  (2018b). Might school performance grow on trees? Examining the link between
+   doi: 10.1006/jevp.2001.0241                                                                     “greenness” and academic achievement in urban, high-poverty schools. Front.
+Faber Taylor, A., and Kuo, F. E. (2009). Children with attention deficits concentrate              Psychol. 9:1669. doi: 10.3389/fpsyg.2018.01669
+   better after walk in the park. J. Atten. Disord. 12, 402–409. doi: 10.1177/                 Lachowitz, K., and Jones, A. P. (2011). Greenspace and obesity: a systematic review
+   1087054708323000                                                                                of the evidence. Obes. Rev. 12, e183–e189. doi: 10.1111/j.1467-789X.2010.
+Fägerstam, E., and Blom, J. (2012). Learning biology and mathematics outdoors:                     00827.x
+   effects and attitudes in a Swedish high school context. J. Advent. Educ. Outdoor            Lekies, K. S., Lost, G., and Rode, J. (2015). Urban youth’s experiences of nature:
+   Learn. 13, 56–75. doi: 10.1080/14729679.2011.647432                                             implications for outdoor adventure education. J. Outdoor Recreat. Tour. 9, 1–10.
+Flouri, E., Midouhas, E., and Joshi, H. (2014). The role of urban neighbourhood                    doi: 10.1016/j.jort.2015.03.002
+   green space in children’s emotional and behavioural resilience. J. Environ.                 Leppink, E. W., Odlaug, B. L., Lust, K., Christenson, G., and Grant, J. E. (2016). The
+   Psychol. 40, 179–186. doi: 10.1016/j.jenvp.2014.06.007                                          young and the stressed: stress, impulse control, and health in college students.
+Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H.,                   J. Nervous Ment. Disord. 204, 931–938. doi: 10.1097/NMD.0000000000000586
+   et al. (2014). Active learning increases student performance in science,                    Li, D., and Sullivan, W. C. (2016). Impact of views to school landscapes on
+   engineering, and mathematics. PNAS 111, 8410–8415. doi: 10.1073/pnas.                           recovery from stress and mental fatigue. Landsc. Urban Plan. 148, 149–158.
+   1319030111                                                                                      doi: 10.1016/j.landurbplan.2015.12.015
+Fremery, C., and Bogner, F. X. (2014). Cognitive learning in authentic                         MacNaughton, P., Eitland, E., Kloog, I., Schwartz, J., and Allen, J. (2017).
+   environments in relation to green attitude preferences. Stud. Educ. Eval. 44,                   Impact of particulate matter exposure and surrounding “greenness” on chronic
+   9–15. doi: 10.1016/j.stueduc.2014.11.002                                                        absenteeism in Massachusetts public schools. Int. J. Environ. Res. Public Health
+Gibson, J. L., Cornell, M., and Gill, T. (2017). A systematic review of research                   14:E207. doi: 10.3390/ijerph14020207
+   into the impact of loose parts play on children’s cognitive, social and emotional           Mantzicopoulos, P. Y., and Morrison, D. (1994). A comparison of boys and
+   development. School Ment. Health 9, 295–309. doi: 10.1007/s12310-017-9220-9                     girls with attention problems: kindergarten through second grade. Am. J.
+Granger, E. M., Bevis, T. H., Saka, Y., Southerland, S. A., Sampson, V., and Tate,                 Orthopsychiatry 64, 522–533. doi: 10.1037/h0079560
+   R. L. (2012). The efficacy of student-centered instruction in supporting science            Mårtensson, F., Boldemann, C., Soderstrom, M., Blennow, M., Englund, J.-E., and
+   learning. Science 338, 105–108. doi: 10.1126/science.1223709                                    Grahn, P. (2009). Outdoor environmental assessment of attention promoting
+Grannis, J. C. (1992). Students’ stress, distress, and achievement in an                           settings for preschool children. Health Place 15, 1149–1157. doi: 10.1016/j.
+   urban intermediate school. J. Early Adolesc. 12, 4–27. doi: 10.1177/                            healthplace.2009.07.002
+   0272431692012001001                                                                         Matsuoka, R. H. (2010). Student performance and high school landscapes:
+Gray, C., Gibbons, R., Larouche, R., Sandseter, E. B., Bienenstock, A., Brussoni, M.,              examining the links. Landsc. Urban Plan. 97, 273–282. doi: 10.1016/j.
+   et al. (2015). What is the relationship between outdoor time and physical                       landurbplan.2010.06.011
+   activity, sedentary behaviour, and physical fitness in children? A systematic               Maynard, T., Waters, J., and Clement, C. (2013). Child-initiated learning, the
+   review. Int. J. Environ. Res. Public Health 12, 6455–6474. doi: 10.3390/                        outdoor environment and the “underachieving” child. Early Years 33, 212–225.
+   ijerph120606455                                                                                 doi: 10.1080/09575146.2013.771152
+Hartig, T., Mang, M., and Evans, G. W. (1991). Restorative effects of                          McCormick, M. P., Cappella, E., O’Conner, E. E., and McClowry, S. G. (2015).
+   natural environmental experiences. Environ. Behav. 23, 3–26. doi: 10.1177/                      Social-emotional learning and academic achievement: using causal methods
+   0013916591231001                                                                                to explore classroom-level mechanisms. AERA Open 1, 1–26. doi: 10.1177/
+Harun, M. T., and Salamuddin, N. (2014). Promoting social skills through outdoor                   2332858415603959
+   education and assessing its effects. Asian Soc. Sci. 10, 71–78. doi: 10.5539/ass.           McCree, M., Cutting, R., and Sherwin, D. (2018). The hare and the tortoise go
+   v10n5p71                                                                                        to forest school: taking the scenic route to academic attainment via emotional
+Hill, A. B. (1965). The Environment and Disease: Association or Causation? Proc.                   wellbeing outdoors. Early Child Dev. Care 188, 980–996. doi: 10.1080/03004430.
+   R. Soc. Med. 58, 295–300.                                                                       2018.1446430
+Ho, N. F., Zhou, J., Fung, D. S. S., Kua, P. H. J., and Huang, Y. X. (2017). Equine-           Mischel, W., Shoda, Y., and Peake, P. (1988). The nature of adolescent
+   assisted learning in youths at-risk for school or social failure. Cogent Educ.                  competencies predicted by preschool delay of gratification. J. Pers. Soc. Psychol.
+   4:1334430. doi: 10.1080/2331186X.2017.1334430                                                   54, 687–696. doi: 10.1037/0022-3514.54.4.687
+Hobbs, L. K. (2015). Play-based science learning activities: engaging adults and               National Research Council. (2012). Education for Life and Work: Developing
+   children with informal science learning for preschoolers. Sci. Commun. 37,                      Transferable Knowledge and Skills in the 21st Century. Washington, DC: The
+   405–414. doi: 10.1177/1075547015574017                                                          National Academies Press.
+Jostad, J., Paisley, K., and Gookin, J. (2012). Wilderness-based semester learning:            Nedovic, S., and Morrissey, A. (2013). Calm, active and focused: children’s
+   understanding the NOLS experience. J. Outdoor Recreat. Educ. Leadersh. 4,                       responses to an organic outdoor learning environment. Learn. Environ. Res. 16,
+   16–26. doi: 10.7768/1948-5123.1115                                                              281–295. doi: 10.1007/s10984-013-9127-9
+Kochanowski, L., and Carr, V. (2014). Nature playscapes as contexts for                        Nicholson, S. (1972). The theory of loose parts, an important principle for design
+   fostering self-determination. Chil. Youth Environ. 24, 146–167. doi: 10.7721/                   methodology. Stud. Des. Educ. Craft Technol. 4, 5–14.
+   chilyoutenvi.24.2.0146                                                                      Niemiec, C. P., and Ryan, R. M. (2009). Autonomy, competence, and relatedness
+Kontra, C., Lyons, D. J., Fischer, S. M., and Beilock, S. L. (2015). Physical experience           in the classroom: applying self-determination theory to educational practice.
+   enhances learning. Psychol. Sci. 26, 737–749. doi: 10.1177/0956797615569355                     Theory Res. Educ. 7, 133–144. doi: 10.1177/1477878509104318
+Kuo, F. E. (2001). Coping with poverty: impacts of environment and attention                   O’Haire, M. E., Mckenzie, S. J., McCune, S., and Slaughter, V. (2013). Effects of
+   in the inner city. Environ. Behav. 33, 5–34. doi: 10.1177/0013916012197                         animal-assisted activities with guinea pigs in the primary school classroom.
+   2846                                                                                            Anthrozoos 26, 455–458. doi: 10.2752/175303713X13697429463835
+Kuo, F. E., and Faber Taylor, A. (2004). A potential natural treatment for attention-          Otto, S., and Pensini, P. (2017). Nature-based environmental education of children:
+   deficit/hyperactivity disorder: evidence from a national study. Am. J. Public                   environmental knowledge and connectedness to nature, together, are related
+   Health 94, 1580–1586. doi: 10.2105/AJPH.94.9.1580                                               to ecological behaviour. Glob. Environ. Change 47, 88–94. doi: 10.1016/j.
+Kuo, M. (2015). How might contact with nature promote human health? Promising                      gloenvcha.2017.09.009
+   mechanisms and a possible central pathway. Supplemental material. Front.                    Pagels, P., Raustorp, A., Ponce De Leon, A., Mårtensson, F., Kylin, M., and
+   Psychol. 6:1093. doi: 10.3389/fpsyg.2015.01093                                                  Boldemann, C. (2014). A repeated measurement study investigating the impact
+Kuo, M., Browning, M. H. E. M., and Penner, M. L. (2018a). Do lessons in nature                    of school outdoor environment upon physical activity across ages and seasons
+   boost subsequent classroom engagement? Refueling students in flight. Front.                     in Swedish second, fifth and eighth graders. Biomed Central Public Health
+   Psychol. 8:2253. doi: 10.3389/fpsyg.2017.02253                                                  14:803. doi: 10.1186/1471-2458-14-803
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                              8                                               February 2019 | Volume 10 | Article 305
+Kuo et al.                                                                                                                                               Nature Promotes Learning
+
+
+
+Patrick, H., Ryan, A. M., and Kaplan, A. (2007). Early adolescents’ perceptions               Taylor, A. F., Wiley, A., Kuo, F. E., and Sullivan, W. C. (1998). Growing up
+   of the classroom social environment, motivational beliefs, and engagement.                    in the inner city: green spaces as places to grow. Environ. Behav. 30, 3–27.
+   J. Educ. Psychol. 99, 83–98. doi: 10.1037/0022-0663.99.1.83                                   doi: 10.1177/0013916598301001
+Reardon, S. F., Kalogrides, D., and Shores, K. (2017). The Geography of                       Taylor, G., Jungert, T., Mageau, G. A., Schattke, K., Dedic, H., Rosenfield, S., et al.
+   Racial/Ethnic Test Score Gaps (CEPA Working Paper No.16-10). Available                        (2014). A self-determination theory approach to predicting school achievement
+   at: Stanford Center for Education Policy Analysis: http://cepa.stanford.edu/                  over time: the unique role of intrinsic motivation. Contemp. Educ. Psychol. 39,
+   wp16-10                                                                                       342–358. doi: 10.1016/j.cedpsych.2014.08.002
+Richmond, D., Sibthorp, J., Gookin, J., Annorella, S., and Ferri, S. (2017).                  Truong, S., Gray, T., and Ward, K. (2016). “Sowing and growing” life skills
+   Complementing classroom learning through outdoor adventure education:                         through garden-based learning to re-engage disengaged youth. Learn. Landsc.
+   out-of-school-time experiences that make a difference. J. Advent. Educ. Outdoor               10, 361–385.
+   Learn. 18, 1–17.                                                                           Ulset, V., Vitaro, F., Brendgren, M., Bekkus, M., and Borge, A. I. H. (2017). Time
+Rowe, K. J., and Rowe, K. S. (1992). The relationship between inattentiveness                    spent outdoors during preschool: links with children’s cognitive and behavioral
+   in the classroom and reading achievement: part B: an explanatory study.                       development. J. Environ. Psychol. 52, 69–80. doi: 10.1016/j.jenvp.2017.05.007
+   J. Am. Acad. Child Adolesc. Psychiatry 31, 357–368. doi: 10.1097/00004583-                 van den Berg, A. E., and van den Berg, C. G. (2011). A comparison of children
+   199203000-00026                                                                               with ADHD in a natural and built setting. Child Care Health Dev. 37, 430–439.
+Ruiz-Gallardo, J., Verde, A., and Valdes, A. (2013). Garden-based learning: an                   doi: 10.1111/j.1365-2214.2010.01172.x
+   experience with “at risk” secondary education students. J. Environ. Educ. 44,              Warber, S. L., DeHurdy, A. A., Bialko, M. F., Marselle, M. R., and Irvine, K. N.
+   252–270. doi: 10.1080/00958964.2013.786669                                                    (2015). Addressing “nature-deficit disorder”: a mixed methods pilot study of
+Rutter, M. (2000). “School effects on pupil progress: research findings and policy               young adults attending a wilderness camp. Evid. Based Complement. Altern.
+   implications,” in Psychology of Education: Major Themes, Vol. 1, eds P. K. Smith              Med. 2015, 1–13. doi: 10.1155/2015/651827
+   and A. D. Pellegrini (London: Falmer Press), 3–150.                                        Weinstein, N., Przybylski, A. K., and Ryan, R. M. (2009). Can nature make us more
+Sahoo, S. K., and Senapati, A. (2014). Effect of sensory diet through outdoor                    caring? Effects of immersion in nature on intrinsic aspirations and generosity.
+   play on functional behaviour in children with ADHD. Indian J. Occup. Ther.                    Pers. Soc. Psychol. Bull. 35, 1315–1329. doi: 10.1177/0146167209341649
+   46, 49–54.                                                                                 Wells, N. M., and Evans, G. W. (2003). Nearby nature: a buffer of life stress among
+Santana, C. C. A., Azevedo, L. B., Cattuzzo, M. T., Hill, J. O., Andrade, L. P.,                 rural children. Environ. Behav. 25:311. doi: 10.1177/0013916503035003001
+   and Prado, W. L. (2017). Physical fitness and academic performance in youth:               Wells, N. M., Myers, B. M., Todd, L. E., Barale, K., Gaolach, B., Ferenz, G.,
+   a systematic review. Scand. J. Med. Sci. Sports 27, 579–603. doi: 10.1111/sms.                et al. (2015). The effects of school gardens on children’s science knowledge: a
+   12773                                                                                         randomized controlled trial of low-income elementary schools. Int. J. Sci. Educ.
+Schutte, A. R., Torquati, J. C., and Beattie, H. L. (2015). Impact of urban nature on            37, 2858–2878. doi: 10.1080/09500693.2015.1112048
+   executive functioning in early and middle childhood. Environ. Behav. 49, 3–30.             Wessler, S. L. (2003). Rebuilding classroom relationships – It’s hard to learn when
+   doi: 10.1177/0013916515603095                                                                 you’re scared. Educ. Leadersh. 61, 40–43.
+Scott, G., and Colquhoun, D. (2013). Changing spaces, changing relationships:                 White, R. (2012). A sociocultural investigation of the efficacy of outdoor education
+   the positive impact of learning out of doors. Aust. J. Outdoor Educ. 17, 47–53.               to improve learning engagement. Emot. Behav. Diffic. 17, 13–23. doi: 10.1080/
+   doi: 10.1007/BF03400955                                                                       13632752.2012.652422
+Sivarajah, S., Smith, S. M., and Thomas, S. C. (2018). Tree cover and species                 Wiens, V., Kyngäs, H., and Pölkki, T. (2016). The meaning of seasonal changes,
+   composition effects on academic performance of primary school students. PLoS                  nature, and animals for adolescent girls’ wellbeing in northern Finland.
+   One 13:e0193254. doi: 10.1371/journal.pone.0193254                                            A qualitative descriptive study. Int. J. Qual. Stud. Health Well-being 11:30160.
+Skinner, E. A., and Chi, U. (2014). Intrinsic motivation and engagement as “active               doi: 10.3402/qhw.v11.30160
+   ingredients” in garden-based education: examining models and measures                      Williams, D. R., and Dixon, P. S. (2013). Impact of garden-based learning on
+   derived from self-determination theory. J. Environ. Educ. 43, 16–36. doi: 10.                 academic outcomes in schools: synthesis of research between 1990 and 2010.
+   1080/00958964.2011.596856                                                                     Rev. Educ. Res. 83, 211–235. doi: 10.3102/0034654313475824
+Studente, S., Seppala, N., and Sadowska, N. (2016). Facilitating creative thinking
+   in the classroom: investigating the effects of plants and the colour green on              Conflict of Interest Statement: The authors declare that the research was
+   visual and verbal creativity. Think. Skills Creat. 19, 1–8. doi: 10.1016/j.tsc.2015.       conducted in the absence of any commercial or financial relationships that could
+   09.001                                                                                     be construed as a potential conflict of interest.
+Swank, J. M., Cheung, C., Prikhidko, A., and Su, Y.-W. (2017). Nature-based child-
+   centered play therapy and behavioral concerns: a single-case design. Int. J. Play          Copyright © 2019 Kuo, Barnes and Jordan. This is an open-access article distributed
+   Ther. 26, 47–57. doi: 10.1037/pla0000031                                                   under the terms of the Creative Commons Attribution License (CC BY). The use,
+Takayama, N., Korpela, K., Lee, J., Morikawa, T., Tsunetsugu, Y., Park, B. J.,                distribution or reproduction in other forums is permitted, provided the original
+   et al. (2014). Emotional, restorative, and vitalizing effects of forest and urban          author(s) and the copyright owner(s) are credited and that the original publication
+   environments at four sites in Japan. Int. J. Environ. Res. Public Health 11,               in this journal is cited, in accordance with accepted academic practice. No use,
+   7207–7230. doi: 10.3390/ijerph110707207                                                    distribution or reproduction is permitted which does not comply with these terms.
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                             9                                                February 2019 | Volume 10 | Article 305
+

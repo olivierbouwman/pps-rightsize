@@ -1,0 +1,83 @@
+                                                                                                                              2020 Infrastructure Funding Allocation
+                                                                                                                                                      February 2024
+
+                                                                                          Original   Current Funds   Spent To Date        Balance           Unalloc
+Bond Fund Category: DS014 - 2020 Capacity                                              10,000,000       35,673,561      16,933,591      18,739,970         Capacity
+ Project Name: 2020 Bond - Unallocated - Capacity - 5524                               10,000,000                -               -               -                -
+ Project Name: Harrison Park - Middle School Conversion - 5706 - FY22                            -      29,963,815      11,422,897      18,540,918
+Project Name: Terwilliger - Modifications for ACCESS - 5396 - FY21                               -       5,709,746       5,510,694         199,052
+Bond Fund Category: DS015 - 2020 ADA                                                   33,800,000       33,800,000      12,087,976      21,712,024             ADA
+ Project Name: 2020 Bond - Unallocated - ADA - 5525                                    33,800,000       10,922,347               -      10,922,347       10,922,347
+ Project Name: Multiple Sites - 2020 Bond - ADA Consultants - 5638                               -         100,000          44,630          55,370
+Project Name: Multiple Sites - ADA & SPED Upgrades - Bond - 6030 - FY23 - 6030                   -       4,474,623       3,219,978        1,254,645
+Project Name: Multiple Sites - ADA Signage Fab & Install-Bond - 5887 - FY22                      -          98,588          86,301          12,287
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-A - Bond - 6184 - FY23                     -       3,720,253       2,345,643        1,374,610
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-B - Bond - 6231- FY23                      -       5,317,650       1,748,277        3,569,373
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-C - Bond - 6232 - FY23                     -       3,086,012       1,751,701        1,334,311
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-D - Bond - 6230 - FY23                     -       4,515,308       2,273,167        2,242,141
+Project Name: Multiple Sites - Security & ADA Hardware Upgrades - Bond - 5999 - FY23             -       1,565,219         618,279         946,940
+Bond Fund Category: DS016 - 2020 SPED                                                  13,400,000       13,400,000       4,913,493        8,486,507           SPED
+ Project Name: 2020 Bond - Unallocated - SPED - 5526                                   13,400,000         445,668                -         445,668          445,668
+ Project Name: Harrison Park - Middle School Conversion - 5706 - FY22                            -         308,157                -         308,157
+Project Name: Multiple Sites - 2020 Bond - SPED Consultants - 5639                               -         100,000          20,040          79,960
+Project Name: Multiple Sites - ADA & SPED Upgrades - Bond - 6030 - FY23 - 6030                   -       1,557,408       1,116,459         440,949
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-A - Bond - 6184 - FY23                     -       2,266,963       1,437,652         829,311
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-B - Bond - 6231- FY23                      -         938,409         308,519         629,890
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-C - Bond - 6232 - FY23                     -       1,200,116         681,217         518,899
+Project Name: Multiple Sites - ADA/SPED Upgrades Pkg1-D - Bond - 6230 - FY23                     -         924,822         465,588         459,234
+Project Name: Multiple Sites - SPED Furniture - Bond - 6040 - FY23                               -       5,658,457         884,018        4,774,439
+Bond Fund Category: DS017 - 2020 Roof                                                  65,700,000       70,700,000      57,083,702      13,616,298             Roof
+ Project Name: 2020 Bond - Unallocated - Roofs - 5527                                  65,700,000           74,960               -          74,960           74,960
+ Project Name: Ainsworth - Annex - Re-Roof-Bond - 5792 - FY22                                    -       2,008,610       1,980,599          28,011
+Project Name: Chavez - Partial Re-Roof-Bond - 5791 - FY22                                        -       2,327,982       2,253,323          74,659
+Project Name: Duniway - Re-Roof Phase 1 Construction - 2020 Bond - 5667                          -       3,056,716       3,056,716                -
+Project Name: Duniway - Re-Roof Phase II-Bond - 5894 - FY22                                      -       8,292,418       6,878,454        1,413,964
+Project Name: Glencoe - Re-Roof-Bond - 5790 - FY22                                               -       7,524,511       6,438,652        1,085,859
+Project Name: Markham - Partial Re-Roof-Bond - 5896 - FY22                                       -       4,564,484       3,874,523         689,961
+Project Name: Meek - Re-Roof-Bond - 5895 - FY22                                                  -       6,928,394       5,857,925        1,070,469
+Project Name: MLC - Re-Roof Construction - 2020 Bond - 5668                                      -       3,117,330       3,117,330                -
+Project Name: Multiple Sites - 2020 Bond Roofing Assessments - 5578                              -         213,785         184,914          28,871
+Project Name: Richmond - Partial Re-Roof - Bond - 5911 - FY22                                    -       3,037,577       2,663,205         374,372
+
+
+
+
+                                                                                                                                                            Page 1 of 2
+                                                                                                                                            2020 Infrastructure Funding Allocation
+                                                                                                                                                                    February 2024
+
+                                                                                                    Original      Current Funds    Spent To Date          Balance          Unalloc
+Project Name: Rieke - Re-Roof-Bond - 5909 - FY22                                                           -           3,259,814       2,910,695          349,119
+Project Name: Skyline - Partial Re-Roof - Bond - 5912 - FY22                                                  -       3,590,424        3,128,930          461,494
+Project Name: Vernon - Partial Re-Roof - Bond - FY22 - 5913                                                   -       4,994,257        3,697,521         1,296,736
+Project Name: West Sylvan - Partial Re-Roof-Bond - 5789 - FY22                                                -      11,504,530        5,665,319         5,839,211
+Project Name: Winterhaven - Partial ReRoof - Bond - 5914 - FY22                                               -       6,204,208        5,375,596          828,612
+Bond Fund Category: DS018 - 2020 Mechanical                                                      75,000,000          75,000,000        7,887,621       67,112,379       Mechanical
+ Project Name: 2020 Bond - Unallocated - Mechanical - 5528                                       75,000,000          22,005,547                -       22,005,547       22,005,547
+ Project Name: Bridger - Mechanical Upgrades-Bond - 5827 - FY22                                            -          9,024,798          900,967        8,123,831
+Project Name: George - Boiler Rm-Boiler Failure-Emergency Declaration - Bond - 6048 -                         -          25,000                   -        25,000
+FY24
+Project Name: Harrison Park - Middle School Conversion - 5706 - FY22                                          -      11,500,000        4,774,631         6,725,369
+Project Name: Kelly - Mechanical Upgrades-Bond - 5828 - FY22                                                  -      13,570,579        1,104,179        12,466,400
+Project Name: Lent - Mechanical Upgrades-Bond - 5829 - FY22                                                   -      11,713,089        1,034,547        10,678,542
+Project Name: Multiple Sites - 2020 Bond Mechanical Assessments - 5626                                        -          83,720           67,800           15,920
+Project Name: Multiple Sites - Controls Upgrades Phase 1 - Bond - 6216 - FY24                                 -       7,077,267            5,496         7,071,771
+Bond Fund Category: DS019 - 2020 Security                                                        25,900,000          25,900,000        2,099,791       23,800,209          Security
+ Project Name: 2020 Bond - Unallocated - Security - 5529                                         25,900,000          13,362,382                -       13,362,382       13,362,382
+ Project Name: Harrison Park - Middle School Conversion - 5706 - FY22                                      -             52,000                 -          52,000
+Project Name: Multiple Sites - Security & ADA Hardware Upgrades - Bond - 5999 - FY23                          -       2,741,595        1,630,191         1,111,404
+Project Name: Multiple Sites - Security Cameras & Intrusion Design - Bond - 6067 - FY23                       -       4,694,550          416,246         4,278,304
+ Project Name: Multiple Sites - Security Cameras & Intrusion Systems - Phase 1 Construction -                 -       5,049,473           53,354         4,996,119
+ Bond - 6245 - FY23
+Bond Fund Category: DS020 - 2020 Seismic                                                         17,200,000          17,200,000        8,722,284        8,477,716          Seismic
+ Project Name: 2020 Bond - Unallocated - Seismic - 5530                                          17,200,000           6,163,939                -        6,163,939        6,163,939
+ Project Name: Creative Science - SRGP - 5712                                                              -          5,008,896        3,939,428        1,069,468
+Project Name: Lent - SRGP - 5421 - FY21                                                                       -       4,766,484        4,766,484                    -
+Project Name: Marysville - Seismic Upgrades Design - Bond - 6236 - FY23                                       -       1,260,681           16,371         1,244,310
+                                                                                                241,000,000        271,673,561      109,728,457       161,945,104       52,974,842
+
+
+
+
+                                                                                                                                                                           Page 2 of 2
+

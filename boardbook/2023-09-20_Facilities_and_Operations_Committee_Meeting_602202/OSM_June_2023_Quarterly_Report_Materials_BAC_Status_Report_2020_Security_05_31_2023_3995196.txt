@@ -1,0 +1,76 @@
+2020 Infrastructure: Security                                                                                                                     PPS Team Leads: Eric Naes, Ellen Cusick
+May 2023                                                                                                                              Number of Completed Projects: 0
+                                                                                                                                         Number of Active Projects: 3
+
+STATUS AT A GLANCE
+                                                                                                                       As Planned              Caution             Impacts
+Legend:                                                                                        Budget                          X
+                    As planned: no concerns                                                    Equity*
+                    Caution: requires attention                                                Schedule                        X
+                    Impacts: impacts occurring                                                 Overall                         X
+
+BUDGET
+                                                        BUDGET                                     FUNDING                                      PROGRESS                               FORECAST
+                                                                                                                                   Actuals To Date     Additional            Estimate At
+                                           Original Budget       Current Budget       Security Funds         Other Funds             (all funds*)     Encumbered             Completion       Over/Under
+                   Unallocated Funds           25,900,000              19,375,902         19,375,902                       -                       -                   -                     -     (19,375,902)
+           Hardware Upgrades-5999                            -          2,772,042          1,829,548              942,494                 251,856            1,489,961             2,772,042                  -
+  Cameras & Intrusion Design-6067                            -          4,694,550          4,694,550                       -               54,809             205,347              4,694,550                  -
+   Cameras & Intrusion Install Ph 1                          -                    -                      -                 -                       -                   -           5,049,473         5,049,473
+                2020 Security Totals                                   26,842,494         25,900,000              942,494                 306,665            1,695,309            12,516,065       (14,326,429)
+ * Hardware Upgrades 5999 Actuals to Date and Additional Encumbered for Security funds only.
+
+
+EQUITY*             Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                                  MBE      WBE      SDVBE        ESB        N-C          TOTAL                  goal               MIN      goal       FEM      goal       APPR        req
+              Consultants          0.00%    0.00%     0.00%       0.00%     0.00%              0.00%            18%
+              Contractors          0.00%    0.00%     0.00%       0.00%     0.00%              0.00%            18%
+                   Overall         0.00%    0.00%     0.00%       0.00%     0.00%              0.00%            18%
+
+               Workforce                                                                                                            0%      25%        0%       14%          0%       20%
+
+ * There is currently no data to report.
+
+
+
+
+                                                                                                                                                                           2020 Infrastructure: Security, May 2023
+                                                                                                                                                                                                        page 1 of 2
+2020 Infrastructure: Security                                                                                                        PPS Team Leads: Eric Naes, Ellen Cusick
+May 2023                                                                                                                 Number of Completed Projects: 0
+                                                                                                                            Number of Active Projects: 3
+
+SCHEDULE
+                                                                           2023                                                                           2024
+                          PROJECT       MAY       JUN       JUL      AUG          SEP    OCT      NOV        DEC       JAN      FEB       MAR       APR          MAY   JUN        JUL      AUG
+           Hardware Upgrades-5999
+  Cameras & Intrusion Design-6067
+    Cameras & Intrusion Install Ph 1
+
+                  Baseline                               Planning                               Design                        Construction
+
+
+PROJECT NOTES
+Progress:
+ - Design reviews are underway week of 5/22/23 for all Phase 1B schools for security camera and intrusion detection systems. Construction documents for Phase 1A and 1B are expected to be
+complete first week of June and to then go out to bid for installation. Design for phases 2 and 3 schools will start while Phase 1A/B is out to bid.
+ - Classroom door locks (Hardware Upgrades 5999) are being installed in conjunction with accessible door handles and managed by the 2020 ADA project manager (please see 2020 ADA project
+status update for additional information). This work is in progress.
+
+
+Accomplishments:
+- Design reviews have been completed for all Phase 1A schools for security camera and intrusion detection systems.
+- Classroom door hardware contract for installation is executed and work is underway.
+
+Risks:
+ - Camera installation work requires additional rack space within technology support spaces, but new technology installations that are part of 2020 Technology-funded scope do as well. This is
+requiring close coordination, particularly when one scope of work is being installed prior to the other.
+ - Design reviews with school administrators is taking longer to coordinate than expected (but is important for confirming camera siting needs).
+
+
+
+
+                                                                                                                                                            2020 Infrastructure: Security, May 2023
+                                                                                                                                                                                         page 2 of 2
+

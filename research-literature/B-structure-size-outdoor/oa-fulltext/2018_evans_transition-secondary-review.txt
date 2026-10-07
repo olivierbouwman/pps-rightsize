@@ -1,0 +1,1166 @@
+                                                                                                                                                           REVIEW
+                                                                                                                                          published: 29 August 2018
+                                                                                                                                     doi: 10.3389/fpsyg.2018.01482
+
+
+
+
+                                             A Review of the Academic and
+                                             Psychological Impact of the
+                                             Transition to Secondary Education
+                                             Danielle Evans 1* , Giulia A. Borriello 2† and Andy P. Field 1*
+                                             1
+                                              School of Psychology, University of Sussex, Brighton, United Kingdom, 2 Department of Psychology, The Pennsylvania
+                                             State University, University Park, PA, United States
+
+
+                                             The transition from primary to secondary education is one of the most stressful
+                                             events in a young person’s life (Zeedyk et al., 2003) and can have a negative impact
+                                             on psychological well-being and academic achievement. One explanation for these
+                                             negative impacts is that the transition coincides with early adolescence, a period during
+                           Edited by:
+                                             which certain psychological disorders (i.e., anxiety disorders) become more salient
+                Michael S. Dempsey,
+      Boston University, United States       (Kessler et al., 2005) and marked social, biological, and psychological development
+                        Reviewed by:         occurs (Anderson et al., 2000). This review evaluates the existing literature on the
+              Maria Pietronilla Penna,       psychological and academic impacts of the transition to secondary education on young
+ Università degli Studi di Cagliari, Italy
+                             J. E. Hall,
+                                             adolescents. We examine the factors that plausibly increase or mitigate the risk of
+           University of Southampton,        developing mental health issues and/or a decline in academic performance during the
+                      United Kingdom
+                                             transition to secondary education. We also review the interplay between psychological
+                   *Correspondence:
+                                             health and academic achievement across and beyond the transition. We conclude with a
+                        Danielle Evans
+                   de84@sussex.ac.uk         summary of what schools and parents can learn from these findings to support children
+                         Andy P. Field       in a successful transition into secondary education.
+                   andyf@sussex.ac.uk
+                   † Present address:        Keywords: school transition, anxiety, psychological health, academic achievement, secondary education, primary
+                                             education
+                   Giulia A. Borriello,
+    Human Development and Family
+          Studies, Purdue University,
+    West Lafayette, IN, United States        INTRODUCTION
+                   Specialty section:        The transition from primary to secondary education is a normative event for most children around
+         This article was submitted to       the world, which typically occurs when children are early adolescents (mostly between the ages
+             Educational Psychology,         of 10–14). Although most students change school at some point during their education, systems
+               a section of the journal      around the world vary significantly. For example, in England, children transition in Year 6 at age 11,
+               Frontiers in Psychology
+                                             whereas in the United States (US), the age and grade of transition differs per school and per state,
+            Received: 30 April 2018          with children transitioning between the ages of 10 and 14 to a middle or high school (5th and 8th
+            Accepted: 27 July 2018           grade, respectively). While it is the norm to transition, it is possible that children may also attend
+          Published: 29 August 2018
+                                             schools in which they complete their education in one institution, though these are uncommon
+                             Citation:       in the United Kingdom. To avoid switching between locale-specific terms, for the entirety of this
+   Evans D, Borriello GA and Field AP
+                                             review, primary education refers to schooling before children transition to a middle school, high-
+     (2018) A Review of the Academic
+       and Psychological Impact of the
+                                             school (United Kingdom), secondary school, or a gymnasium around the ages of 10–14, while
+   Transition to Secondary Education.        secondary education refers to schooling after this transition.
+                Front. Psychol. 9:1482.         Around two in five students fail to reach their expected progress following the transition to
+       doi: 10.3389/fpsyg.2018.01482         secondary education (Galton et al., 1999), with around 40% of students making no progress in
+
+
+Frontiers in Psychology | www.frontiersin.org                                     1                                             August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                    The Transition to Secondary Education
+
+
+
+English and reading (42 and 38%, respectively) and 34% making               they relate to the child’s environment or his/her internal
+no progress in maths from Year 6 (age 10–11) to Year 7 (age                 schema.
+11–12) (Galton et al., 1999). In the United Kingdom, Ofsted                     Within these categories, we have pulled together related
+(2002) concluded there was limited preparation available for                measures from the literature into superordinate constructs.
+the differences in teaching and learning children face after the            For example, researchers have looked at class size, teacher
+transition.                                                                 expectations, and academic goal orientation as predictors of a
+   The transition to secondary education has received increased             successful transition, all of which can logically be grouped as
+interest from researchers in recent years, with many researchers            part of the school environment. Similarly, a child’s set of beliefs
+regarding the change as one of the most stressful events young              about their social environment and her/his emotional responses
+adolescents will experience (Chung et al., 1998; Coelho and                 to them (which we have labeled social schema) encompasses peer
+Romão, 2016). Children report additional concerns during this               relations, teacher relations, affect to school (or belongingness),
+time, including fear of bullies, being lost, peer relationship              and social support more generally. The constructs identified are
+worries, and anxiety over coping with an increased workload                 not exhaustive or definitive, they are merely a convenient way to
+(Zeedyk et al., 2003). Additionally, the transition to secondary            organize the existing literature for the purpose of this review.
+education can directly impact educational attainment, with a                    Within the environment-level constructs, most of the
+reported interruption in students’ academic growth during the               literature relates to changes in the child’s school or home
+transition year (Akos et al., 2015).                                        environment. The overall school environment typically changes
+   Figure 1 shows an attempt to organize the various constructs             during the transition to secondary education. Children often
+that, based on research, contribute to a successful transition              move from a smaller, personal primary school where they are
+to secondary education. The first consideration is what is                  taught by a single teacher in, primarily, a single classroom, to a
+deemed a “successful” transition. Although the adjustment                   larger, more complex, impersonal secondary school where they
+to secondary education can be measured in various ways,                     attend lessons in different locations with different teachers, often
+most researchers regard it to encompass social, academic, and               with larger class sizes. Secondary school buildings tend to be
+emotional adaptation (Duchesne et al., 2012). Hall and DiPerna              larger, and individuals are often required to travel further afield,
+(2017) particularly note the importance of relationships with               often on public transport.
+peers, developing academic abilities, and a stable state of mental              Within the individual-level constructs, the literature focuses
+health as vital components of adjusting to secondary education.             on the belief systems in the child about their social position, their
+These components are not independent. Where there are                       learning, and their academic self-concept. For example, Cantin
+declines in emotional well-being, there are also declines in peer           and Boivin (2004) report a decrease in friendship network size
+relationship quality, and academic performance, though causality            following the transition, meaning children have fewer friends
+has yet to be established (e.g., Woodward and Fergusson, 2000;              post-transition. Similarly, Martínez et al. (2011) note a decline
+Reijntjes et al., 2010; Mundy et al., 2017; Rahman et al., 2018).           in both general social support and the support given by teachers
+Although many students adapt with relatively few issues, others             at this time. These findings are represented by social schema in
+find the transition impacts one, two, or all of these domains. It has       Figure 1.
+been argued that children who express more worries prior to the                 The constructs identified are, of course, not independent.
+transition are less likely to be well-adjusted in all three of these        The environment-level constructs could plausibly have a direct
+areas (Duchesne et al., 2012).                                              effect on a successful school transition, but also an indirect
+   In terms of what predicts a successful transition, Figure 1              effect by influencing any one of the individual-level constructs.
+organizes the key constructs into higher-order categories                   For example, the classroom goal structure alters post-transition
+of contextual, environment-, and individual-level constructs.               with higher importance placed on performance goals, where
+Contextual constructs are variables that could plausibly moderate           the focus is on demonstrating ability relative to others, as
+any of the relationships between the environmental-level                    opposed to mastery goals, where the focus is on increasing
+constructs, individual-level constructs and a successful transition.        competence relative to self-set standards (Madjar et al., 2018).
+The contextual constructs could all plausibly have a direct                 This shift in goals in turn negatively impacts social schema such
+impact on whether the transition is successful too. They have               as school belongingness/engagement (Madjar and Chohat, 2017).
+in common that they are either fixed during transition (e.g.,               Similarly, decreased emotional support in the classroom has been
+pre-transition academic attainment/emotional health, biological             reported following the transition (Shell et al., 2014), which is
+sex, whether we consider the model for a specific subject                   likely to impact social schema. The individual-level constructs are
+area such as maths), likely not to change (e.g., SES), or                   also likely to influence each other: social and learning schemas are
+the effect of change is likely to be fixed at the group level               both likely to influence academic self-concept and plausibly each
+(for example, we might consider the effects of puberty to                   other.
+be somewhat similar for all boys). The environment- and                         We aim to evaluate the academic and psychological impact
+individual-level constructs are ones that are highly likely                 of the secondary education transition, while examining risk and
+to change heterogeneously during transition to secondary                    protective factors that may amplify or lessen these effects. Based
+education (for example, there is likely to be considerable                  on Hall and DiPerna’s (2017) definition, we primarily review
+variability in how dramatically the school environment changes              the evidence concerning emotional well-being and academic
+for different children). They differ, self-evidently, in whether            performance. Because so little is known about the causal
+
+
+Frontiers in Psychology | www.frontiersin.org                           2                                        August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                           The Transition to Secondary Education
+
+
+
+
+  FIGURE 1 | Summary of the key constructs influencing a successful transition to secondary education.
+
+
+
+relationships between the identified constructs we believe it                        to lower levels of academic achievement. Low academic
+is misleading (not to mention messy) to make individual                              achievement during early adolescence is linked with various
+connections in Figure 1 between the various constructs that                          negative consequences, including early pregnancy and higher
+might imply causality. Instead, this review will highlight the                       delinquency rates (Kasen et al., 1998; Freudenberg and Ruglis,
+relationships between the constructs in the Figure 1 that have                       2007; Henry et al., 2012). Moreover, low achievement during
+been observed, but there may be other connections that, as yet,                      this period tends to be succeeded by school dropout and
+have not been explored empirically.                                                  low occupational achievement and income across the lifespan
+                                                                                     (Day and Newburger, 2002). In this section, we summarize
+                                                                                     research that has examined the impacts of the primary-to-
+THE EFFECTS OF THE TRANSITION TO                                                     secondary transition on academic-related outcomes in early
+SECONDARY EDUCATION ON                                                               adolescence.
+ACADEMIC ACHIEVEMENT                                                                    A number of United States studies indicate that the transition
+                                                                                     from primary to secondary education has a negative impact on
+The first indicator of a successful transition to secondary                          student grade point averages (GPA) and academic achievement
+education is academic achievement (Figure 1). Academic                               (Felner et al., 1981; Simmons et al., 1991; Seidman et al.,
+achievement is essential for individual well-being across the                        1994; Alspaugh and Harting, 1995; Gutman and Midgley, 2000;
+lifespan (Gottfredson, 2004; Fiscella and Kitzman, 2009).                            Dotterer et al., 2009). Illustratively, United States students who
+The primary-to-secondary transition is a critical period of                          moved from a primary to a secondary school experienced
+development in which many children are particularly vulnerable                       a decline in grades following the transition, unlike students
+
+
+Frontiers in Psychology | www.frontiersin.org                                    3                                      August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                  The Transition to Secondary Education
+
+
+
+who were in the same grade but had not transitioned to                    toward school (social schema), as discussed in the following
+secondary education (Felner et al., 1981). Alspaugh (1998) also           sections.
+found that U.S. children experience lower academic achievement
+after transitioning from primary school to secondary school.              Individual-Level Constructs
+Moreover, children who transitioned into secondary education              Academic Self-Concept
+where peers attended a variety of primary schools experienced             Academic self-concept, or self-perceptions regarding academic
+lower levels of achievement than children who transitioned                topics and learning, has various components, including a
+into secondary education with peers who attended the same                 cognitive component specific to academic competence and an
+primary school. Results from achievement at the high school               affective-motivational component (Marsh et al., 1991; Arens
+level indicated that U.S. children who transitioned multiple times,       et al., 2013a). Studies indicate that academic self-concept
+from primary to secondary school and from secondary school                decreases between the end of primary and the beginning of
+to high school, experienced higher declines in achievement than           secondary education (Wigfield et al., 1991; Arens et al., 2013a).
+those who had fewer school transitions. Alspaugh’s (1998) work            For example, Coelho et al. (2017) found decreases in students’
+is in line with other evidence (Rice, 2001) suggesting that the           academic self-concept from their last year in primary education
+transition from primary to secondary education can have long-             to the end of their first year in secondary education, along
+term negative consequences on academic outcomes.                          with lower levels of self-esteem. Although this sample included
+                                                                          Portuguese children who transitioned to secondary education
+Environment-Level Constructs                                              2 years earlier than students in the United Kingdom or the
+With respect to the environment-level constructs in Figure 1,             U.S. typically do, these findings are consistent with studies
+developmental psychologists have attempted to understand why              examining children who transition to secondary education at
+and how the transition to secondary education can negatively              a later age (Wigfield et al., 1991). In addition, Seidman et al.
+affect academic achievement. The stage-environment fit model              (1994) found that students’ academic self-perceptions declined
+(Eccles et al., 1993) suggests that a mismatch between children’s         even after adjusting for student age, grade level, and ability level.
+developmental needs at the time of the transition and the social          Together, these findings provide evidence that the transition
+context of secondary schools contributes to a decline in academic         process itself (i.e., the environment) as well as individual factors
+outcomes following the transition.                                        (e.g., developmental changes), likely play a role in changing
+   Several aspects of the secondary education school                      children’s academic self-concept.
+environment that differ from primary education may have                       However, there is inconsistency in the literature with not
+a particular effect on academic achievement following the                 all studies finding a decline in perceived academic competence
+transition; these include new academic environments (e.g.,                after the transition to secondary education. For example, Harter
+new, larger schools and classrooms) and different structural              et al. (1992) found no significant differences between children’s
+demands (e.g., switching classrooms, teachers, and classroom              perceptions of scholastic competence following the transition
+materials for each subject throughout the day). Children                  to secondary education compared to children who did not
+must also forge new student-teacher relationships and adjust              transition. There are also studies demonstrating increases, not
+to changes in teacher expectations and declines in student                decreases, in academic self-efficacy (Zimmerman and Martinez-
+autonomy.                                                                 Pons, 1990; Midgley et al., 1995). The variance in observed
+   Although teachers have more control over secondary                     changes in perceptions of academic competence across the
+education classrooms, academic standards tend to be higher                transition period must be explained by other factors, including
+in secondary education than in primary, and require more                  how much children value a particular academic domain and
+intrinsic motivation from adolescents (Harter et al., 1992).              their interest in it. Moreover, we might expect changes in
+Compared to primary education, secondary education classes                academic self-concept to differ by discipline. For example,
+place an increased emphasis on grades and teachers’ academic              Wigfield et al. (1991) found significant declines in children’s
+expectations of students tend to be higher (Eccles and Midgley,           perceived competence in English following the transition to
+1989; Wigfield et al., 1991). Moreover, children may perceive             secondary education, but only marginal declines in mathematics.
+classroom goals differently in primary and secondary education.           In the Section “Learning Schema,” we discuss student attitudes
+Cross-sectional work indicates that in primary education settings,        and interest in a select few academic domains.
+students report being more task oriented, or engaged in academic
+work for the sake of learning, whereas in secondary education             Learning Schema
+settings children report being more performance oriented,                 Students tend to hold more negative attitudes toward certain
+or engaged in academic work for the sake of demonstrating                 academic domains including mathematics and science, compared
+ability (Anderman and Midgley, 1997). A longitudinal study                to others, and to academic achievement, more broadly (Eccles
+found that following a transition from primary to secondary               et al., 1984). Student self-perceptions about their own abilities
+education, children perceived classroom climates to focus                 in and attitudes toward maths and science tend to decrease as
+more on competence and less on learning (Anderman                         children progress in school, and especially during the transition
+and Midgley, 1997). These changes subsequently influence                  to secondary education (Eccles et al., 1984; Midgley et al., 1989a).
+individual-level constructs such as adolescents’ academic self-           For example, a cross-sectional study by Barth et al. (2011) found
+concept, interest and engagement (learning schema), and affect            that children’s attitudes toward and self-efficacy in mathematics
+
+
+Frontiers in Psychology | www.frontiersin.org                         4                                        August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                 The Transition to Secondary Education
+
+
+
+and science declined during the transition. Similarly, student            that a positive school climate can benefit children’s mental
+interest in mathematics and science were lower after, rather than         health and academic outcomes, several studies have investigated
+prior to, the transition to secondary education. Furthermore,             whether changes in the school climate between primary
+Australian students reported less involvement in the classroom            and secondary education contributes to declines in academic
+and declining enjoyment and attitudes toward maths following              outcomes post-transition (Battistich et al., 2004). Illustratively,
+the transition relative to those yet to make the move over to             Riglin et al. (2013) examined bidirectional associations between
+secondary education (Deieso and Fraser, 2018).                            young adolescents’ (M age = 11.78 years) affect toward school
+    Differences in learning experiences surrounding science               and their academic achievement using a prospective, longitudinal
+and mathematics before and after the primary-to-secondary                 design. They found reciprocal associations between school liking
+transition may also influence changes in students’ academic               and academic achievement at the beginning and end of the
+attitudes and interests. Prior to the transition, for example,            first year of secondary education. However, after controlling
+students do not have a choice in the type of science or                   for conduct problems, degree of liking school predicted
+mathematics courses in which they enroll and instruction in these         later academic achievement, but early achievement no longer
+arenas is standardized across students. Following the transition to       predicted later school liking. These findings support the notion
+secondary education, students have more agency in the number              that affect toward school and a sense of belonging to school
+and type of mathematics and science courses they choose.                  are linked with academic achievement (Resnick et al., 1997;
+Moreover, student ability in these domains becomes more salient,          Roeser et al., 2000; McLaughlin and Clarke, 2010). However,
+and students tend to get grouped into courses with students               some studies have not found evidence to suggest that children’s
+who have similar abilities to their own. Moreover, as children            perceptions of the school climate differ prior to and following
+progress through school, teacher support decreases. Barth et al.          the school transition (Thornburg and Glider, 1984; Fenzel and
+(2011) investigated whether the role of teaching effectiveness and        Blyth, 1986; Hirsch and Rapkin, 1987; Crockett et al., 1989; Harter
+student perceptions of positive teaching strategies (i.e., teacher        et al., 1992), and other studies report positive child perceptions
+support, engaging instruction) contributed to decreases in                of the school climate post-transition (Schulenberg et al., 1984;
+student interest and attitudes toward maths and science. Findings         Nottelmann, 1987; Berndt and Mekos, 1995). These findings
+indicated that effective teaching and student perceptions of              indicate a need for more research to investigate links between
+positive teaching strategies strongly predicted changes in student        the school climate before and after the primary-to-secondary
+interest and self-efficacy in mathematics and science, particularly       education transition and its effects on academic achievement in
+during the transition to secondary education. Thus, one way               early adolescence and beyond.
+that negative attitudes toward and low self-efficacy and interest
+in mathematics and science across the transition period may be            Interplay Between Individual-Level Constructs
+counteracted is via teacher support.                                      It is important to understand the interplay between academic
+    The transition to secondary education also affects                    achievement, social schema, learning schema, and academic
+engagement and perceived control in learning. A study by                  self-concept because doing so provides clear target areas to
+Rudolph et al. (2001) examined whether student perceptions                help children to maintain academic achievement across the
+of control over their academic outcomes as well as student                transition to secondary education. The way that students cope
+investments in academic success influenced their ability to               with changes in academic achievement after the transition may
+successfully transition from primary to secondary education.              have long-term consequences for future achievement. If initial
+The researchers expected to find that high perceptions of                 decreases in grades or achievement post-transition leads some
+control and personal investment in academic success would                 students to alter their academic self-concept, they may become
+encourage academic engagement and ultimately, academic                    more disengaged with school and have more negative feelings
+achievement. Conversely, they expected that low levels of control         toward school, or increased feelings of disconnectedness. In turn,
+and investment would promote academic disengagement and                   teachers may interact with students in a more negative way and
+hinder academic achievement. Results indicated that, compared             these effects can snowball and lead to future decreases in student
+to students who did not transition from primary to secondary              achievement or engagement (Eccles et al., 1993; Fenzel, 2000).
+education, students who experienced a transition and reported             Conversely, it is also possible that for students with more
+lower levels of perceptions of control and personal investment            resources and personal investments in learning, initial declines
+in school also reported higher levels of stress and depressive            in grades following the transition may motivate them to become
+symptoms. The authors suggest that students with lower levels             more engaged at school and work harder to bring up their grades.
+of perceived control over and personal investment in academic             Thus, the ability of a young adolescent to continue doing well
+pursuits are more likely to become disengaged from school and             academically following a school transition is likely to depend on
+to find it easier to feel overwhelmed or particularly sensitive to        both the interplay between the individual-level factors and the
+any school-related issues.                                                environment-level factors that influence them.
+
+Social Schema                                                             Contextual Variables
+Student feelings of “belongingness” at school and how much they           So far, we have reviewed the environment- and individual-
+enjoy school may also be impacted by school transitions and               level factors affecting the transition from primary to secondary
+affect child achievement. Because intervention research suggests          education. However, a range of contextual variables have been
+
+
+Frontiers in Psychology | www.frontiersin.org                         5                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                   The Transition to Secondary Education
+
+
+
+identified as predictors of academic performance across the                    With respect to emotional traits, Qualter et al. (2007)
+transition to secondary education. For example, pubertal status             found that compared to students with below average emotional
+has been linked to changes in academic self-concept and self-               intelligence, those with average or higher levels of emotional
+representation, both of which are important for academic                    intelligence received better grades in school, and had fewer
+achievement (Schaffhuser et al., 2017). This section summarizes             teacher concerns regarding effort following the transition to
+what we know about some of the contextual variables identified              secondary education (age 11–12).
+in Figure 1.
+                                                                            SES and Ethnicity
+Gender                                                                      Because youth of lower socioeconomic status (SES) tend to have
+Few studies examining the school transition have reported                   lower academic achievement than higher SES youth (McLoyd,
+consistent evidence of gender differences impacting future                  1998), it is possible that the primary-to-secondary education
+academic outcomes (Wigfield et al., 1991; Harter et al., 1992;              transition is especially stressful for this group of children.
+Seidman et al., 1994). For example, Seidman et al. (1994) found             Moreover, because far more ethnic/racial minorities tend to
+that children’s grades declined following the transition regardless         live in poverty (Brooks-Gunn et al., 1996), it is also pertinent
+of gender. Studies examining motivation, attitudes toward, and              to consider how the transition may impact ethnic and racial
+self-concepts in specific academic domains have found that boys             minorities’ academic achievement. Illustratively, Simmons et al.
+tend to have more positive attitudes toward and higher self-                (1991) found that grades of African American students were
+concepts in maths than girls, whereas girls tend to have more               extremely low following the secondary education transition,
+positive attitudes toward and higher self-concept in English than           even though all students grades declined. Serbin et al. (2013)
+boys (Eccles et al., 1984; Marsh, 1989). However, research findings         investigated academic achievement across the secondary
+regarding effects of gender on self-concepts and attitudes toward           transition in an “at risk” sample of children from lower income
+academic achievement, and how these characteristics vary by                 families. Findings indicated that family resources and child
+gender across the transition period, are inconsistent.                      gender mattered: children from families with fewer resources had
+                                                                            lower achievement than those from families with more resources
+Cognitive and Emotional Traits                                              following the transition, and girls had higher grades than boys
+Studies have reported a number of cognitive or emotional                    following the transition. Moreover, multiple mediation analyses
+traits that influenced findings regarding the school transition             demonstrated that the link between gender and achievement was
+and academic outcomes (Petrides et al., 2004). For example,                 mediated by children’s social and academic skills (i.e., spelling),
+a longitudinal study examined the development of self-control               as well as the degree of support they received from parents prior
+during early adolescence, as children transitioned from primary             to the transition. Thus, social skills, academic skills, and support
+to secondary education, and found that students with higher                 from parents prior to the transition contributed to differences
+levels of self-control adjusted better following a school transition,       in boys’ and girls’ achievement following the transition into
+receiving higher grades in English, maths, and science courses              secondary education. Future work should focus on prevention
+(Ng-Knight et al., 2016).                                                   and intervention efforts for populations of children that may
+    Several studies suggest that how well children adapt to a               especially need help to navigate the secondary education
+new school environment and perform academically may depend                  transition and to excel in school.
+on ability level in academic domains prior to a transition. For
+example, Wigfield et al. (1991) examined students’ academic
+self-concept in mathematics prior to and following a secondary              THE EFFECTS OF THE TRANSITION TO
+education transition, and found that children’s mathematics                 SECONDARY EDUCATION ON
+self-concept following a school transition varied by level                  EMOTIONAL HEALTH
+of mathematics ability. For students with high mathematics
+ability, mathematics self-concepts declined over time following             The second key indicator of a successful transition to secondary
+the transition, while students with low mathematics ability                 education in Figure 1 is emotional health. Adolescence is a
+experienced slight increases in their mathematics self-concepts             significant period for the development of mental health disorders
+following the transition. Other studies have also reported                  with symptoms often increasing during this time (e.g., Kessler
+that academic ability level can help explain effects of school              et al., 2005). A report by the Office for National Statistics states
+transitions on young adolescents’ academic-related outcomes                 the prevalence of mental health disorders to be 12% in children
+(Midgley et al., 1989a,b; Anderman, 1998). For example, in a                aged 11–16, compared to 8% of those aged 5–10 (see Green
+longitudinal study (Midgley et al., 1989a) teacher influences               et al., 2005). The Australian National Survey of Mental Health
+on student perceptions of the importance of mathematics                     and Well-Being supports this figure reporting that at least 14%
+before and after the secondary transition depended on student               of adolescents younger than 18 were diagnosable with a mental
+mathematics achievement. Results indicated that, compared to                disorder (Sawyer et al., 2001). Given the high frequency of
+high achieving students, low achieving students had steeper                 disorders within this age range, it seems likely that the primary-
+declines in perceptions of mathematics importance if they                   to-secondary education transition could contribute to mental
+switched from more supportive teachers before the transition to             health issues among young adolescents. In this section, we review
+less supportive teachers following the transition.                          this possibility.
+
+
+Frontiers in Psychology | www.frontiersin.org                           6                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                The Transition to Secondary Education
+
+
+
+
+What Do We Mean by Emotional Health?                                      Grotpeter, 1995; Murray-Close et al., 2007). This may be an
+If we consider emotional health in terms of constructs identified         underlying mechanism of why girls experience greater social
+by mental health practitioners (APA, 2017a), then there are               anxiety compared to boys, given females place greater value
+broadly two categories of symptom clusters to consider:                   on close friendships, and greater fear of rejection and the loss
+symptoms that are largely internal to the person (manifest in             of relationships (for a review, see Rose and Rudolph, 2006).
+psychological constructs such as anxiety and depression) and              Additionally, Grills-Taquechel et al. (2010) reported lessened
+those that are external to the person (manifest in constructs such        impact of the transition on individuals with high self-worth and
+as conduct problems and attention-deficit and hyperactivity).             those who felt more socially accepted by their peers. Meanwhile,
+Before looking at predictors of these symptoms related to the             there also appears to be links between anxiety, stress, and the
+transition to secondary education, we will review these symptom           transition. Zandstra et al. (2015) reported a negative transition
+clusters.                                                                 experience was associated with declines in mental health well-
+                                                                          being, evident only in individuals with high awakening cortisol,
+Internalizing Symptoms                                                    a hormone important for stress reactivity. This association
+One of the most common childhood disorders is anxiety.                    suggests that some individuals may be predisposed to greater
+Anxiety disorders can take many forms and are generally                   emotional responses following a negative event such as the
+characterized as feelings of tension and worrisome thoughts               secondary education transition. This may help to explain why
+as well as physiological changes including an increased heart             some individuals transition successfully, while others do not.
+rate, increased perspiration and trembling among others (APA,                In a Canadian cohort of 11-year-old pupils, Duchesne
+2017a). Anxiety is reported to be the earliest disorder to emerge         et al. (2009) found that anxiety predicted both academic and
+in childhood, with 50% of anxiety disorders beginning by age 6 in         teacher worries preceding the transition to middle school.
+affected adolescents (Merikangas et al., 2010). Additionally, when        Further analysis suggests girls perceived themselves as being
+averaged across all subtypes of anxiety disorders, the median             more anxious and also reported greater worries about meeting
+age of onset is 11 years (Kessler et al., 2005). Furthermore, it          academic demands and establishing relationships with teachers.
+is one of the most common disorders faced by children; one                However, attachment predicted anxiety levels, with individuals
+meta-analysis of 41 studies spanning 27 countries conducted               reporting more ‘secure’ attachments showing lower anxiety levels.
+between 1985 and 2012 estimated the worldwide prevalence                  Alternatively, another study of over 200 English schoolchildren
+of any anxiety disorder to be 6.5% (Polanczyk et al., 2015).              (age 11) found similar levels of anxiety both at the start of
+Moreover, the lifetime prevalence of any anxiety disorder appears         secondary education and at the end of their first year (Riglin
+to be a staggering 31.9% (Merikangas et al., 2010). Childhood             et al., 2013). There were further gender differences with females
+anxiety also has a higher prevalence than depression, and is              experiencing higher general anxiety and school anxiety, greater
+diagnosed more frequently than behavioral issues such as conduct          school concerns, and increased school engagement compared
+disorder (Cartwright-Hatton et al., 2006).                                to males, whereas, conduct disorder was higher in males than
+   Most anxiety disorders are already established by early                females. However, there were no measures prior to the transition
+adolescence (Kessler et al., 2005) with little change in frequency        in this study (e.g., in Year 6) making it impossible to draw
+from age 13/14 up to age 17/18 (Merikangas et al., 2010). The             conclusions about the effect of the transition.
+transition to secondary education typically occurs just before this          Where evidence is inconsistent concerning the emergence of
+period of a child’s life and is arguably particularly important           general anxiety following the transition to secondary education,
+in this process. For example, students experiencing greater               there are links between the changeover and the development
+worries concerning the school environment and relationships               of one domain-specific type of anxiety: maths anxiety. Maths
+over the transition typically have heightened anxiety symptoms            anxiety is often defined as feelings of tension, apprehension,
+(Arowosafe and Irvin, 1992; Harter et al., 1992; Lucey and Reay,          or fear that may interfere with maths performance (Ashcraft,
+2000; Akos and Galassi, 2004). Greater school transition concerns         2002). Maths anxiety has been found to increase at the time
+both prior to and following the move have been associated with            of the changeover for students that transitioned to a new
+increased anxiety (Rice et al., 2011), though research to date has        secondary school compared to those that did not, and increased
+been somewhat sparse and inconsistent.                                    especially in females and high-achievers (Madjar et al., 2016).
+   A longitudinal study of U.S. schoolchildren aged 11–13,                Their analysis suggests there is a significant increase in maths
+showed a decrease in anxiety symptoms following the move to               anxiety toward to end of primary education, which remains high
+secondary education (Grills-Taquechel et al., 2010). This decrease        for some time, before decreasing at the end of their first year in
+in social anxiety was significant only in males. Furthermore,             secondary education back to initial levels. This suggests that the
+anxiety symptoms were predicted by global self-worth and                  transition to secondary education may be an important period
+social acceptance, with higher levels of both predicting greater          for interventions for these groups because maths anxiety has been
+decreases in anxiety, with males again showing greater declines.          linked to GPA and maths ability (Madjar et al., 2016).
+This finding suggests the transition could be particularly                   A second kind of internalizing disorder is depression.
+beneficial for male students in reducing their anxiety. One               Depression is closely associated with anxiety that manifests in
+reason proposed to explain this gender difference is that females         several symptoms most commonly including feelings of sadness,
+tend to participate in “relational” forms of bullying such as             lack of interest and pleasure in activities, lack of energy and
+gossiping, spreading rumors, and excluding peers (Crick and               concentration, feelings of worthlessness, and recurrent thoughts
+
+
+Frontiers in Psychology | www.frontiersin.org                         7                                      August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                   The Transition to Secondary Education
+
+
+
+of suicide (APA, 2017b). The prevalence of major depressive                 gender. However, the school transition occurs slightly earlier in
+disorder (MDD) by age 14 is 8.4% (Merikangas et al., 2010),                 Portugal: as young as 9 years old. Additionally, self-esteem has
+and a figure that almost doubles to 15.4% from age 13–14 to                 been found to decrease during transitionary years and continues
+age 17–18 suggesting that adolescence is a critical period for              to decline post-transition (Seidman et al., 2003; Arens et al.,
+developing depression. Further support for this argument comes              2013b). This decline is supported by Schaffhuser et al. (2017) who
+from reported increases in suicidal ideation at a similar age to the        also reported decreases in self-esteem as well as academic and
+transition to secondary education (Adrian et al., 2016).                    behavioral self-concepts over the transition. Moreover, student
+    Similar to the evidence regarding the transition to secondary           self-efficacy appears to be positively associated with teacher-
+education and anxiety symptoms, research on depression in                   rated overall school adjustment, as well as pupil-rated post-
+this context is also somewhat sparse. Nevertheless, depressive              transition relationships with teachers (Bailey and Baines, 2012).
+symptomology is highly stable throughout adolescence, however,              In addition, West et al. (2010) indicated self-esteem may act as
+stability significantly drops during the transition from 6th to 7th         a predictor of adjustment, with individuals low in self-esteem
+grade coinciding with the transition from primary to secondary              prior to the transfer experiencing a poorer transition to secondary
+education (Tram and Cole, 2006). Rice et al. (2011) further report          education with greater school and peer concerns. Despite a
+positive associations between depression and post-transition                general consistency in the transition having a negative effect on
+school concerns.                                                            self-esteem, Kingery et al. (2011) report the opposite: self-esteem
+    Additionally, in a study of over 2000 Scottish pupils, West             increased following the transition.
+et al. (2010) reported that poorer transitions at age 11 (including             To summarize, the evidence concerning the impact of the
+both school and peer concerns, such as increased workload and               transition on psychological outcomes has been inconsistent.
+bullying) predicted depression at age 13 and 15, while peer                 While some researchers have concluded the transition is
+concerns at age 13 was weakly associated with psychological                 detrimental to emotional well-being and psychological attributes,
+distress at age 18 (OR = 1.19). Their results contradict                    others disagree. One consistent finding across domains is
+Kingery et al. (2011) data showing depression significantly                 the effect of the transition is heightened for individuals
+decreases following the transition. However, the sample in                  expressing greater concerns before the changeover. It appears
+Kingery et al.’s (2011) study included mostly Caucasian children            that adolescents who express more worries regarding the
+residing in small, rural, suburban communities which may make               transition are more likely to suffer poorer transitions compared
+generalizability to children studying in urban districts, or those          to their peers. In addition, compared to boys, girls have been
+from ethnically diverse backgrounds, problematic.                           reported to experience a poorer transition, with heightened levels
+    While the conclusion is somewhat unclear, depressive                    of anxiety, and greater concerns over relationships and workload
+symptoms are important to keep in mind because Riglin                       (e.g., Duchesne et al., 2009; Riglin et al., 2013). In the Section
+et al. (2013) reported greater levels of depression at age 11               “Externalizing Symptoms and Anti-Social Behaviors,” we describe
+predicted academic achievement at the end of individuals’ first             a separate category of emotional health symptoms, externalizing
+year of secondary education. However, when controlling for                  symptoms, and predictors of these symptoms that relate to the
+conduct disorder, this effect was no longer significant. Additional         transition to secondary education.
+gender effects were evident with depression being significantly
+associated with poorer academic achievement for males only.                 Externalizing Symptoms and Anti-social Behaviors
+The mediating effect of conduct disorder between depression                 Externalizing disorders can include a range of disruptive
+and achievement further highlights that emotional problems                  behaviors including conduct disorder, aggression, attention
+and academic achievement are not independent outcomes, and                  deficit hyperactivity disorder (ADHD), and oppositional
+that declines in one area often coincides with declines in other            behavior. Although such issues can often be disruptive to the
+domains.                                                                    learning environment in the classroom itself, they are also
+    Although the evidence linking the transition to secondary               related to negative outcomes for the individual including low
+education to mental health outcomes is sparse, there is a larger            achievement, school dropout, and non-completion of further
+body of research linking it to psychological attributes such as self-       education (Adams et al., 1999; McLeod and Kaiser, 2004; Reid
+esteem, self-efficacy, and self-concept (e.g., Coelho et al., 2017).        et al., 2004; Finn et al., 2008).
+Though there are slight differences in meaning, these variables                 There is a lack of research examining externalizing disorders
+can be broadly defined as attitudes, beliefs, and models of a               and anti-social behaviors resulting from the primary-secondary
+person’s own abilities, and their capability to perform such                education transition, although evidence suggests that the
+behaviors in a given situation (APA, 2017c). These concepts may             transition is an important event that may exacerbate the effects
+be informative with respect to mental health outcomes because               of externalizing disorders on educational outcomes. For example,
+they have been linked to well-being, academic achievement, and              Palmu et al. (2017) reported associations between conduct
+other educational benefits (e.g., Diener and Diener, 1995; Marsh            disorder and ADHD on academic performance during the
+and Craven, 2006).                                                          transition to secondary education. In a study of over 300 12- to
+    In a study of over 1100 Portuguese students, Coelho et al.              13-year-old pupils in Finland, their results found externalizing
+(2017) reported decreases in academic self-concept, physical self-          behaviors were associated with a decrease in GPA, particularly,
+concept, and self-esteem after the primary-secondary education              ADHD before the transition negatively affected GPA post-
+transition. The effect remained significant when controlling for            transition. Riglin et al. (2013) support this link with conduct
+
+
+Frontiers in Psychology | www.frontiersin.org                           8                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                  The Transition to Secondary Education
+
+
+
+problems prior to the transition associating with academic                 and Chohat, 2017). These results suggest that the school
+achievement post-transition. Additional analyses suggested that            transition may increase competition between individuals, and not
+conduct problems pre-transition were also associated with a                always for the better (see Johnson et al., 1981). Transitioning
+decrease in school liking following the move.                              schools could focus more on continuing to provide a mastery
+   West et al. (2010) found higher levels of aggression were               goal structure given its importance for engagement, school
+associated with poorer school transitions, but better peer                 performance, and general learning (see Kaplan and Maehr, 2007).
+transitions. Furthermore, aggressive behavior predicted academic           Otherwise, this change in goal structure may increase the risk
+expectations for secondary education as well as academic                   of school disengagement post-transition, which can already be a
+functioning      post-transition     (Cillessen and Mayeux, 2007).         common issue as teens grow older.
+Aggression appeared to interact with peer status such that there               Duineveld et al. (2017), who studied the secondary education
+was no significant effect of aggressive behavior on academic               transition in Finland, reported decreased depressive symptoms,
+functioning in individuals with high popularity. Conversely,               decreased life satisfaction, and increased emotional exhaustion
+adolescents with low popularity and high aggressive behavior               following the transition. In terms of the home environment,
+were more likely to experience lower academic functioning.                 they found that mothers provided greater autonomy support
+   It is evident that there are individual differences. For                (i.e., supporting the child’s self-governance and control over their
+example, three types of aggressive behavior trajectories have been         life; Keller, 2016) compared to fathers prior to the transition.
+identified over the transition including low-stable, decreasing,           Moreover, Duineveld et al. (2017) reported greater levels of
+and increasing (Malti et al., 2015). Membership to a group was             autonomy support before the transition significantly predicted
+altered by the child’s views on friendships. Specifically, those who       a decline in depression after children moved to secondary
+had less of an understanding of the value of trust and reciprocity         education. This finding indicates that autonomous, supportive
+within friendships were more likely to be in the increasing                parenting that encourages independence may protect children
+trajectory group. This highlights the importance of relationships          from developing mental health disorders during the transition to
+with other individuals around the time of the school transition            secondary education.
+and may be a protecting factor against maladaptive outcomes.                   Related evidence provides support for child-mother
+                                                                           attachment predicting perceived academic competence and
+Predictors of Emotional Health                                             anxiety during the middle school transition (Maltais et al., 2017).
+The review above demonstrates that the school transition impacts           The protective power of attachment has also been argued to
+a wide range of emotional health outcomes and adolescent                   moderate the relationship between a social comparison learning
+behaviors; however, the success of the transition can also be              environment in the classroom on anxiety symptoms (Maltais
+influenced by a number of other factors under the categories               et al., 2015). Furthermore, in a study of transitioning students,
+identified in Figure 1. These additional influences can increase or        Booth-LaForce et al. (2012) reported that high-increasing
+decrease the risk of a poor transition and include the individual’s        growth in anxious withdrawal was predicted by low parental
+social network (family, peers, and teachers), special educational          autonomy, low time spent with the mother, both restrictive
+needs (SEN), as well as gender and pubertal status. Generally, the         and nurturing parenting, and peer exclusion. These findings
+children most at risk of poor transitions are children recognized          further support the links between a positive, supportive social
+as SEN and those with a poor social network.                               network, and adolescents’ behavioral outcomes during the
+                                                                           transition.
+Environment-Level Predictors
+As children progress to secondary education, they often face               Individual-Level Predictors
+a substantially different environment compared to the one                  Social support is vital for early development, learning, and
+that they have been used to. This environment includes larger              psychological well-being (e.g., Demaray and Malecki, 2002).
+classrooms and school buildings to navigate, and different                 Perceived social support can be very important during
+social networks. The move to secondary education also                      adolescence where individuals experience rapid changes
+leads to changes in the educational goal structure toward                  biologically, emotionally, and socially. In addition, a positive
+performance-based goals (Madjar et al., 2018). In a study of 415           social support network can also be protective of issues arising
+schoolchildren (aged 11–12), Madjar et al. (2018) investigated             during the transition to secondary education. As we have
+goal orientations following the transition to secondary education.         mentioned above, parental support may buffer children from
+At present there are three commonly identified academic                    the emotional effects of the transition to secondary education
+goals including: mastery-approach, which involves learning to              (presumably through positive effects on the child’s social
+acquire knowledge and skills; performance-approach, which                  schema). The vast majority of research looking at the emotional
+involves demonstrating greater skills relative to others; and              impacts of the transition to secondary education has looked at
+performance-avoidance, which involves avoiding demonstrating               variables that we have clustered as indicators of a child’s social
+such skills. Madjar et al. (2018) argue that the transition from           schema in Figure 1.
+primary to secondary education coincides with a change from                   First, peer relationships facilitate a positive transition on a
+a mastery goal structure, to a performance goal structure post-            range of adaptation measures. For example, Kingery et al. (2011)
+transition. Further research provides evidence for performance             found that pre-transition positive peer relationships (e.g., peer
+goal structures being detrimental to school engagement (Madjar             acceptance, friendship quality, number of friends) predicted
+
+
+Frontiers in Psychology | www.frontiersin.org                          9                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                    The Transition to Secondary Education
+
+
+
+various positive post-transition well-being measures including              form relationships with their new teachers as strong as those
+academic achievement, loneliness (or lack of), self-esteem,                 held previously. This change in their social network may be
+and school involvement. Cantin and Boivin (2004) reported                   detrimental given preadolescents’ need for guidance and support
+the transition to secondary education was associated with an                during this time (Eccles and Roeser, 2009). In addition, students
+increase of perceived social acceptance, as well as an increase in          have been found to possess a greater reliance on teacher support
+supportive relationships with their school friends. The increases           and a preference for external direction following the transition to
+reported were related to friends providing greater instrumental             secondary education (Robbers et al., 2018). This change in the
+support, informational support, and emotional support. The                  type of relationship with teachers has been notably recognized
+effects remained in the following 2 years of school following               as one of the concerns amongst children moving into secondary
+the move. These findings further highlight the importance of                education (Duchesne et al., 2009).
+friendships and peer relationships during the progression to                   Research findings concerning teacher relationships have been
+secondary education.                                                        somewhat mixed. Martínez et al. (2011) describes how both social
+    In addition to the reorganization of children’s friendship              and teacher support significantly decline over the transition.
+networks, there is also evidence that the transition may                    Bru et al. (2010) also reported a general decline in perceived
+provide new opportunities for victimized children. Wang                     teacher support over the school years, nevertheless, they argue
+et al. (2016) argued that victimization decreased for females               there is no obvious abrupt change during the time between
+following the school transition compared to girls that did not              primary and secondary education and criticize previous studies
+transition. Though, transition status made no difference in                 for not accounting for age-related differences. Despite mixed
+male victimization between the two time points. Additionally,               findings, teachers are likely to be an important part of the child’s
+exclusion and victimization have been argued to decrease                    social and support network, which we have seen is important
+following the transition on average, with those recognized as               for promoting well-being. Future research could therefore do
+anxious-solitary youth experiencing greater relative declines               more to look at the role of teachers within the child’s support
+(Shell et al., 2014). This idea supports the notion of secondary            network. For example, it would be beneficial to have research
+education providing a chance for children to alter their identity           evaluating whether making student-teacher relationships and
+as a victim which they may have been associated with in primary             student-teacher support networks similar to those experienced
+school, and also provides the opportunity for children to find new          in primary education leads to improved outcomes after the
+friends or change social groups to one which is more positive               transition to secondary education.
+and supportive. Cantin and Boivin (2004) also state that around
+61% of school peer ties identified prior to the transition no longer        Contextual Predictors
+remained following the move, further reinforcing the idea that              The previously described issues of declining social support and
+children renegotiate their social network.                                  the different school climate are faced by every student. However,
+    Overall, there is general support that a positive social network        it is clear some students face additional difficulties when adjusting
+is important for children’s well-being during the transition to             to secondary education, this includes children with SEN. SEN
+secondary education, but children also require support from their           refers to children who have learning problems or disabilities that
+teachers and school to feel more secure in their new environment.           may make it difficult to learn relative to other children their age.
+    A second protective factor against negative emotional                   This can include difficulties in reading and writing, behavioral
+outcomes includes school connectedness and belongingness                    issues, difficulty understanding or expressing themselves, as well
+(affect to school in Figure 1). For example, Vaz et al. (2014a)             as physical ability issues which may affect them while in school.
+studied 266 Australian pupils, and reported increases in school                  The school transition can be especially problematic for
+belongingness resulted in decreases in mental health problems,              children with SEN. For children with sensory or mobility
+even when controlling for prior mental health. Moreover, in a               difficulties, solely moving between classes can be challenging,
+comparison study between transitioning and non-transitioning                especially so in an unfamiliar environment such as a large,
+schools in Australia and Denmark, respectively, Nielsen et al.              novel secondary school. Children with behavioral or emotional
+(2017) reported no significant difference in school connectedness           issues may have difficulty establishing relationships with teachers
+in transitioning schools as pupils aged, whereas schools that               and peers, leaving them feeling isolated. With high importance
+did not transition experienced significant decreases in school              placed on discipline and obedience to authority in secondary
+connectedness over time. However, it may be important to                    education, children with behavioral or emotional difficulties may
+highlight that although the number of “disconnected” students               be perceived by teachers as acting out or “troublemakers” when
+in the transitioning sample was similar across all age groups, this         in fact they have different needs and requirements.
+was close to significance in the transition year with increased odds             Fortunately, recent research has attempted to investigate the
+of disconnectedness. This means that, although not statistically            effects of the school transition more thoroughly for children
+significant, there was a trend toward disconnectedness increasing           with SEN, with the aim of identifying the most common issues
+during the transition year.                                                 and difficulties they may encounter during this change. In a
+    A third aspect of social schema is the relationship to teachers.        systematic review examining the effects of the school transition
+After the transition to secondary education, children tend to have          for children with SEN, Hughes et al. (2013) investigated
+different teachers for each discipline, compared to having a single         psychosocial functioning including internalizing functioning,
+teacher in primary education. It can be difficult for children to           self-concept,      self-esteem,   self-confidence,      externalizing
+
+
+Frontiers in Psychology | www.frontiersin.org                          10                                        August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                   The Transition to Secondary Education
+
+
+
+functioning, and social functioning. They identified key                  maths anxiety increases for girls during this time it may also
+findings of a higher likelihood of victimization and bullying,            impact their later performance, which in turn may increase
+poorer social adjustment (i.e., loneliness) and lower levels              their anxiety toward maths. Schaffhuser et al. (2017) also argued
+of perceived social support relative to typically developing              females are more negatively impacted by the transition compared
+children. Furthermore, children reported additional concerns              to males. However, it is not entirely negative for females whereby
+and worries. These concerns referred to the provision for special         girls in fact report higher academic and social functioning post-
+needs in their new school, the ability to make friends, increased         transition relative to boys (Cillessen and Mayeux, 2007). On the
+workload, and greater worries of bullying relative to their peers         other hand, Kingery et al. (2011) reported no gender differences
+without SEN.                                                              in the overall adjustment to secondary education.
+   Since Hughes et al. (2013) conducted their review, a                       In addition, females tend to experience pubertal onset earlier
+number of additional studies have been published finding                  than males (Lee, 1980) which can have interesting interactions
+similar results. First, Akos et al. (2015) reported less growth           with the effect of the school transition. As described above,
+in both maths and reading during the transition year for SEN              females tend to experience greater stress levels around the
+students despite having the largest year-to-year growth in the            transition which is also around the time of pubertal onset. Koenig
+year prior to the changeover. Further research also reports               and Gladstone (1998) reported higher rates of depression among
+individuals with disabilities display significantly lower academic        developing females (i.e., those that had started or in the latter
+competence compared to their typically developing peers pre-              stages of pubertal development) during the transition years,
+and post-transition (Vaz et al., 2014b). Though interestingly,            whereas rates among males were stable over time. However, it is
+adolescents with a disability showed an improvement in academic           important to note that this was examined in a high school sample
+competence over the transition compared with other pupils.                as opposed to the earlier transition of middle school/secondary
+Conversely, disability status was linked to decreased mental              education. By the time of the transition in this sample, a large
+health functioning pre- and post-transition. It is evident that           number of females had already fully developed.
+adolescents with SEN have different requirements when moving
+to secondary education to ensure a successful transition. Neal
+et al. (2016) endorse a personal approach when designing                  DISCUSSION
+transition strategies especially for children with SEN.
+   With respect to other potential contextual variables, gender           The aim of this review was to assimilate the findings to
+has been found to predict adaptation to secondary education.              date concerning the impact of the primary-to-secondary
+This finding is not surprising given that (1) males and                   education transition on both academic and psychological
+females develop at different rates during adolescence; and (2)            outcomes. Overall, there appears to be some negative
+internalizing disorders are more prevalent in females than to             impacts of the transition, though it is difficult to conclude
+males (Kessler et al., 2005; Merikangas et al., 2010). Coelho             definitively because there are many inconsistencies in the data.
+and Romão (2016) found that females experienced significantly             These conflicts are not unexpected given the multitude of
+higher academic and peer-related stress during the school                 interacting factors that exacerbate or mitigate the impact of
+transition compared to their male peers, whereas males reported           the transition. However, there are still some findings worth
+higher stress regarding teachers and rules. Furthermore, females          noting.
+had significantly greater increases in peer-related stress during            Firstly, the transition to secondary education appears to
+the transition. Grills-Taquechel et al. (2010) supported this             have some negative consequences for academic achievement
+conclusion with results suggesting that males experienced a               (Felner et al., 1981; Alspaugh and Harting, 1995; Alspaugh,
+significant decrease in anxiety during the transition to secondary        1998; Gutman and Midgley, 2000). Upon transitioning, students
+education whereas girls did not. In addition, girls experienced           must adjust to larger schools and class sizes, greater academic
+significantly greater general and school anxiety pre- and post-           independence, navigating new teacher and peer relationships,
+transition. Females also reported a higher number of school               higher teacher expectations, and a bigger emphasis on grades
+concerns, but greater school liking and fewer conduct problems            and performance. These differences require children to adjust
+pre- and post-transition (Riglin et al., 2013). Rice et al. (2011)        to new academic expectations, norms, and evaluation criteria.
+also found school concerns were higher for females both prior             These differences can adversely impact young adolescents’
+to and following the transition. This finding is also supported by        academic motivation and engagement, academic self-concept
+Smyth (2016) who reported that girls were more likely than boys           or competence, affect toward school and learning, and their
+to experience transition difficulties.                                    intrinsic interest in school (Harter, 1981; Eccles et al., 1984; Eccles
+   Furthermore, girls are more likely to experience maths anxiety         and Midgley, 1989; Skinner et al., 1998). Individual difference
+over the transition to middle school. Madjar et al. (2016) found          factors including cognitive and emotional ability levels, gender,
+that girls reported higher maths anxiety following the transition         and SES can moderate associations between these factors and
+to secondary education which later decreased to initial levels            future academic achievement following the secondary education
+1-year post-transition, whereas maths anxiety reported by boys            transition.
+remained stable during this time. This is an important finding as            With respect to children’s emotional health, the evidence
+maths anxiety has been argued to have a bidirectional relationship        was inconsistent. Some researchers found significant negative
+with maths performance (Carey et al., 2015). Consequently, if             impacts on emotional well-being post-transition, while others
+
+
+Frontiers in Psychology | www.frontiersin.org                        11                                         August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                  The Transition to Secondary Education
+
+
+
+found positive outcomes, or negligible results. Clearly, we need            higher concerns regarding rules and teachers, as well as
+a better understanding of the interplay between the constructs              higher rates of behavioral and conduct problems compared to
+identified in Figure 1 to get a handle on what moderates the effect         females.
+of the transition on emotional health.
+    Several risk and protecting factors were identified to play an          Theoretical Explanations
+important role in the transition. First, things likely to affect the        Ideally, we need a theoretical model to explain how environment-
+child’s social schema were found to be particularly important               level constructs create changes in the child’s individual-
+over the transition, including social support received from                 level schema, how environment-level constructs directly affect
+parents, teachers, and peers. During the transition, children               academic and emotional outcomes, and how individual-level
+often renegotiate their friendship groups and report decreased              schema affect academic and emotional outcomes. It is a tall
+general social support during this time. Cohen and Wills                    order. There are too many potentially relevant theoretical
+(1985) reviewed two main explanations for the role of social                frameworks to cover in one paper, but we can use the example
+support during stressful situations: first, that social support             of anxiety to look at how theories of emotion might prove
+acts as a buffer against stress and second, that solely being               useful.
+part of a social network is helpful for the individual. Their                   First, we can look to these models to explain why the
+review found support for both explanations, suggesting social               transition to secondary education might increase anxiety.
+support provides various benefits during stressful events and               Recent research has found very little evidence for the genetic
+daily life. These ideas may also support the evidence discussed             transmission of anxiety, which implies that most risk comes
+in relation to the importance of social networks around the                 from environmental transmission (Eley et al., 2015). Given
+transition to secondary education. Due to the heightened stress             that children spend a considerable proportion of their day
+felt by children during this time, social support may help them             in school, the school environment is likely to be a potential
+feel more secure and socially accepted. Parents and teachers                anxiety trigger. Learning theories suggest that anxiety is
+should be made aware of the perceived decline in social                     acquired through an association-based system in which stimuli
+support reported by adolescents and aim to provide additional               and situations come to evoke fear through direct association
+support when required to allow for the best outcomes. Despite               with fear-evoking experiences, verbal threat information, and
+perceived declines in parental support and perceived increases              observational learning (Mineka and Zinbarg, 2006; Field and
+in peer support during the transition, it is parental support that          Purkis, 2011). The aforementioned shift to performance-based
+most accurately indicates emotional difficulties in adolescents             goals in secondary education, heightened teacher expectations,
+(Helsen et al., 2000). Waters et al. (2014) support this finding,           and lower teacher support may be associated with more verbal
+concluding that parental presence at home before and after                  threat information (“if you don’t perform well, you won’t get
+school is the most significant predictor of a positive transition           a good job”), more direct negative experiences (e.g., being told
+experience.                                                                 off, or social humiliation, when performance is below what is
+    Additionally, the school and class environment can elicit               expected), and more observational threat learning (observing
+negative outcomes. For example, children report higher                      others being told off or humiliated when they perform below
+performance-based goals in secondary education compared to                  expectations). Research supports the idea of performance-goal
+the mastery approach in primary education. A performance-                   structures creating anxiety: goal structure has been linked to
+approach increases competition between individuals whereas                  maths anxiety (Federici et al., 2015; Skaalvik et al., 2017) and
+a mastery approach focuses on learning and working with the                 Baudoin and Galand (2017) reported that performance-based
+purpose of gaining knowledge. This change can be harmful to                 goal structures were associated with feelings of shame and
+engagement which is an important aspect to sustain during the               anxiety in schoolchildren. These heightened expectations and
+transition.                                                                 associated threat messages at school may be mirrored in the
+    Furthermore, some individuals are more “at-risk” of a                   home environment, and may be exacerbated by certain parenting
+poor transition relative to their peers. Those most affected                styles known to increase anxiety, such as over-critical parenting
+include children with SEN. First, children with SEN may                     (Creswell et al., 2010).
+face additional difficulties during the move, including matters                 Given that there is a theoretical route through which the
+that may be seemingly straightforward such as transport and                 transition could create anxiety, then we can look at the effect
+mobility, an issue that is usually not as applicable to typically           that this anxiety might have on the individual-level constructs.
+developing children. Furthermore, the findings suggest children             Heightened anxiety is associated with patterns of information
+with SEN overall report higher victimization, poorer adjustment,            processing (Hadwin and Field, 2010) such as a tendency to
+lower levels of social support, and reduced academic growth                 interpret ambiguity in a threatening way (interpretation bias) and
+during the transitional year. There are also noteworthy gender              a tendency to attend to threat in the environment (attentional
+differences. The research suggests that females are arguably                bias to threat). As such, once anxiety is heightened students
+more affected by the transfer. Girls report higher rates of                 may attend more to both negative feedback about performance
+school concerns, as well as experiencing higher levels of                   (which may negatively affect learning schema and academic
+anxiety and depression (in line with other research findings                self-concept) and negative social cues (which will affect social
+of higher rates of emotional and mood disorders in the                      schema). Equally, ambiguity about academic and social matters
+adult population among females). Conversely, boys report                    may be interpreted more negatively. In short, the knock-on
+
+
+Frontiers in Psychology | www.frontiersin.org                          12                                      August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                 The Transition to Secondary Education
+
+
+
+effect of a transition that creates anxiety will be a processing          the impact of different school programs over the transition
+style that is likely to impact social schema, learning schema,            to investigate whether this makes the transfer easier for
+and academic self-concept. Those already prone to anxiety                 students. One study found systemic strategies (e.g., group
+are most likely to experience more anxiety, and greater biases            work on projects with future classmates and modules taught
+in their information processing, which would lead to more                 continuously over the transition) were associated with lower
+anxiety. This idea is supported by Lester et al. (unpublished)            school anxiety, though only in typically developing children
+who found that children with greater interpretation bias toward           (Neal et al., 2016). In addition, Rosenblatt and Elias (2008)
+threat experienced higher levels of anxiety before transitioning          found that U.S. children who took part in an intervention
+to secondary education. Of course, this theory also explains              focusing on social-emotional learning before transitioning had
+variance in the levels of anxiety following the transition (e.g.,         a smaller decline in GPA when receiving higher dosages
+Grills-Taquechel et al., 2010; Madjar et al., 2016; Lester et al.,        of the intervention compared to a low dosage group.
+unpublished), because there will be variance in the negativity            Furthermore, Shepherd and Roker (2005) investigated a
+in secondary environments and variance in children’s risk for             project run after-school which aimed to build self-esteem and
+anxiety.                                                                  resilience in particularly withdrawn and shy children and found
+    For children for whom the transition creates anxiety                  improvements in both self-esteem and social skills and fewer
+(and shifts in their schema and information processing), the              school concerns.
+attentional control theory, which suggests that anxiety impairs               While several interventions focus on social-emotional
+goal-directed attentional systems, offers a theoretical mechanism         development and improving social skills, only a small number
+for why academic performance would be affected (Eysenck et al.,           of studies have investigated ways to improve educational
+2007). One key assumption of this theory is that anxiety increases        achievement. One study conducted by Siddiqui et al. (2016)
+the attentional allocation toward threat-related stimuli including        evaluated a reading program following the transition that was
+both external and internal stimuli (i.e., worrisome thoughts).            undertaken by pupils who had not reached the expected level
+This theory can explain why the anxiety-inducing transition               for English in their final year of primary education. Their results
+impairs academic outcomes by reducing the attentional capacity            found that children receiving the intervention had higher reading
+available for cognitive tasks. For example, a child experiencing          scores compared to a control group. However, in an earlier study,
+anxiety because of the transition will allocate less attention            Siddiqui et al. (2014) evaluated a summer school program that
+to tasks in the lesson, and more attention toward worrisome               focused on literacy and numeracy skills and found it was not
+thoughts, and as a result will perform worse in class. This model         effective in improving the educational achievement of “at-risk”
+has been supported by research conducted on maths anxiety                 students.
+and performance (e.g., Carey et al., 2017). Maths performance                 While it is clear some of these programs have benefits
+is arguably more affected by anxiety as it requires significant           for students, much more research is needed to assess the
+executive function skills (Cragg and Gilmore, 2014), and as               effectiveness of different types of intervention programs with
+anxiety takes up the allocation available, the executive function         greater sample sizes and longitudinal investigation. Based on
+systems required to perform maths tasks efficiently are put under         the evidence presented, future programs should focus on
+strain and performance on the task diminishes, resulting in               increasing perceived social support (including that given by
+poorer academic achievement. The attentional control theory               parents, teachers, and peers), continuation of academic study,
+also supports the links found between emotional well-being and            such as introducing topics in the final year of primary
+academic performance.                                                     education that are continued through to secondary education,
+    The theories of anxiety we have used are illustrative of              and developing social-emotional interventions that can be
+how psychological theory can and, probably, should be used to             administered nationwide which are effective for typically
+try to construct parsimonious theoretical frameworks for the              developing children and those with SEN. In addition, the
+effects of the transition to secondary education. Of course, the          difficulties associated with the transitional period could be
+theories we chose offer little explanation of depressive symptoms,        eased by preparing children for the change in goal structure,
+conduct problems and so on. The point is simply that it is                or by secondary schools adopting a mastery environment,
+possible to build on well-established psychological theory to             which is arguably more beneficial for children’s learning
+explain the interplay between the constructs reviewed in this             (Meece et al., 2006).
+paper.
+                                                                          Limitations
+                                                                          Many of the studies presented here were conducted several
+Implications for School Intervention                                      years ago, often using longitudinal data collected years prior,
+Strategies                                                                which may decrease the relevance to education and schools
+The above findings have implications for school-based                     today. This limitation highlights the need for more research
+intervention programs that target the primary-to-secondary                to examine how the changes in our educational systems
+education transition. At present, these programs are free                 and the advancements made particularly in schooling and
+to vary between schools and districts and often attempt to                technology may impact both the well-being of students and
+improve self-confidence and problem-solving (e.g., Shepherd               their learning environment during the transition to secondary
+and Roker, 2005). To date, a few studies have examined                    education. For example, in comparison to transitional students
+
+
+Frontiers in Psychology | www.frontiersin.org                        13                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                 The Transition to Secondary Education
+
+
+
+that participated in studies conducted in the early 2000s, it             CONCLUSION
+is now the norm for adolescents to own, or have access to
+a mobile phone, computer, or tablet (Ofcom, 2017). To date,               The importance of emotional well-being, specifically within
+very few studies have investigated the use of the internet in             schools, has been acknowledged by the British Psychological
+transition interventions (e.g., Maher, 2010), and it appears              Society in a recent briefing paper (BPS, 2017). It is reported
+there is a lack of investigation into the effects of technology           that one in four children and adolescents display signs of a
+on well-being and achievement during the transitional years.              mental health difficulty, with up to three children in every
+Current investigation into this area is important for a number of         classroom experiencing a mental health issue that can be treated.
+reasons. One example to illustrate this is bullying. Advancements         Furthermore, only 25–40% of the young people affected by these
+in technology have made bullying an online activity resulting             issues receive support from a mental health professional early
+in around 49% of children being victims of cyberbullying                  enough in their development, if they receive any help at all. As
+(Raskauskas and Stoltz, 2007). As discussed previously, the               most of the disorders experienced in childhood and adolescence
+transition may help victimized children renegotiate their social          continue into adulthood, it is beneficial for everyone involved
+network to no longer be victims of bullying (e.g., Shell et al.,          to ensure interventions are administered as early as possible
+2014; Wang et al., 2016). However, it could be speculated                 not only for better emotional well-being but also because of the
+that if evidence of the bullying that occurred during primary             associations with academic achievement and social functioning,
+education was online, the renegotiation of their social network           all of which are important for a successful transition. To help
+would not be able to occur, and as such, victimized children              during this time, parents and schools could aim to provide more
+would continue to experience bullying throughout secondary                social support during and following the transition to increase the
+education. Another example is the use of the internet to                  perceived support felt by adolescents. Schools could also provide
+facilitate the transition in a practical manner, i.e., showing            transition strategies that focus on the worries of children such as
+interactive maps of the school environment and classrooms                 being lost or being bullied. In addition, schools could teach topics
+to prospective students. An online, interactive map may be                that can be carried on from primary to secondary education to
+beneficial as one of the worries reported by transitional students        help with the interruption of achievement. Furthermore, children
+was being lost (Zeedyk et al., 2003). Another potential use               with SEN should have additional support and provisions in place
+of technology is inviting classroom peers to get to know                  to ensure they transition with as few difficulties as possible.
+each other by using a monitored forum where children may                      Despite all the evidence presented, there are still gaps
+introduce themselves and ask their new teacher and a few                  in the literature. The research investigating internalizing and
+current students any questions they may have. Additional                  externalizing disorders is particularly sparse and should be
+homework to be completed over the summer prior to the                     the focus for future exploration. Furthermore, researchers
+transition could be made available on such a forum to help                should pilot transition strategies in schools based on the
+decrease the interruption in achievement found during the                 recommendations above. Additional research should aim to
+transitional years (Akos et al., 2015). While the above points            utilize longitudinal designs measuring a wide range of factors to
+made are based on speculation alone, future research examining            accurately assess the impact of the school transition on several
+some of these ideas could provide interesting insights into               outcomes including academic achievement and emotional well-
+the use of technology during the transition year to help                  being. Hopefully, future research will overcome the inconsistent
+facilitate a successful transition in terms of student well-              findings to date and will reliably identify factors that ensure
+being, social interaction, academic growth, and environmental             children become well-adjusted to their new environment. By
+practicalities.                                                           identifying predictive factors of importance for the primary-to-
+   Another limitation is the lack of cultural diversity within            secondary school transition, researchers can help enable every
+the research discussed. The studies presented here have                   child to have the opportunity to make a successful transition
+focused on particularly “western systems” such as those in                to secondary education and continue to develop academically,
+America, Europe and Australia. One reason for the lack                    socially, and emotionally.
+of diversity is the differences found in systems around the
+world. For example, children attending schools in places such
+as Mexico, Africa, or the Middle East, are less likely to                 AUTHOR CONTRIBUTIONS
+attend school past the age of 11 (UNESCO Institute for
+Statistics, 2010; Gibbs and Heaton, 2014), therefore making               All authors contributed to the inception of the paper. DE took the
+the secondary education transition a non-event. However, one              lead on the writing overall (notably the sections “Introduction,”
+of the Sustainable Development Goals set out to achieve by                “Discussion,” and the section “The Effects of the Transition
+2030 by the United Nations is to ensure all children complete             to Secondary Education on Emotional Health”), did the initial
+primary and secondary education. Hopefully, this increase in              planning, and coordinated the authors. GB took the lead on
+attendance worldwide allows for comparisons of the transition             writing the section “The Effects of the Transition to Secondary
+to be made in the future, allowing for research from a range              Education on Academic Achievement” and had input on all
+of culturally diverse countries to examine the issues children            drafts. AF supervised the project, commented on and edited the
+encounter during this time, and whether they differ between               first submission, and restructured and edited the revised version
+nations.                                                                  by introducing the conceptual framework in Figure 1.
+
+
+Frontiers in Psychology | www.frontiersin.org                        14                                       August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                                                  The Transition to Secondary Education
+
+
+
+
+REFERENCES                                                                                     BPS (2017). Briefing paper: Children and Young People’s Mental Health (CYPMH):
+                                                                                                   Schools and Colleges. Availbale at: https://www.bps.org.uk/sites/bps.org.uk/
+Adams, J. W., Snowling, M. J., Hennessy, S. M., and Kind, P. (1999). Problems                      files/Policy%20-%20Files/Briefing%20Paper%20-%20CYPMH%20Schools%
+   of behaviour, reading and arithmetic: assessments of comorbidity using the                      20and%20Colleges.pdf [April 26, 2018].
+   strengths and difficulties questionnaire. Br. J. Educ. Psychol. 69, (Pt 4), 571–585.        Brooks-Gunn, J., Klebanov, P. K., and Duncan, G. J. (1996). Ethnic differences
+   doi: 10.1348/000709999157905                                                                    in children’s intelligence test scores: role of economic deprivation, home
+Adrian, M., Miller, A. B., McCauley, E., and Vander Stoep, A. (2016). Suicidal                     environment, and maternal characteristics. Child Dev. 67, 396–408.
+   ideation in early to middle adolescence: sex-specific trajectories and predictors.              doi: 10.2307/1131822
+   J. Child Psychol. Psychiatry 57, 645–653. doi: 10.1111/jcpp.12484                           Bru, E., Stornes, T., Munthe, E., and Thuen, E. (2010). Students’ perceptions of
+Akos, P., and Galassi, J. P. (2004). Middle and high school transitions as viewed                  teacher support across the transition from primary to secondary school. Scand.
+   by students, parents, and teachers. Prof. Sch. Counsel. 7, 212–221. doi: 10.1007/               J. Educ. Res. 54, 519–533. doi: 10.1080/00313831.2010.522842
+   BF02088419                                                                                  Cantin, S., and Boivin, M. (2004). Change and stability in children’s social network
+Akos, P., Rose, R. A., and Orthner, D. (2015). Sociodemographic moderators of                      and self-perceptions during transition from elementary to junior high school.
+   middle school transition effects on academic achievement. J. Early Adolesc. 35,                 Int. J. Behav. Dev. 28, 561–570. doi: 10.1080/01650250444000289
+   170–198. doi: 10.1177/0272431614529367                                                      Carey, E., Devine, A., Hill, F., and Szûcs, D. (2017). Differentiating anxiety forms
+Alspaugh, J. W. (1998). Achievement loss associated with the transition to middle                  and their role in academic performance from primary to secondary school. PLoS
+   school and high school. J. Educ. Res. 92, 20–25. doi: 10.1007/s10935-008-0153-9                 One 12:e0174418. doi: 10.1371/journal.pone.0174418
+Alspaugh, J. W., and Harting, R. D. (1995). Transition effects of school grade-level           Carey, E., Hill, F., Devine, A., and Szücs, D. (2015). The chicken or the Egg? The
+   organization on student achievement. J. Res. Dev. Educ. 28, 145–149.                            direction of the relationship between mathematics anxiety and mathematics
+Anderman, E. M. (1998). The middle school experience: effects on the math and                      performance. Front. Psychol. 6:1987. doi: 10.3389/fpsyg.2015.01987
+   science achievement of adolescents with LD. J. Learn. Disabil. 31, 128–138.                 Cartwright-Hatton, S., McNicol, K., and Doubleday, E. (2006). Anxiety in
+   doi: 10.1177/002221949803100203                                                                 a neglected population: prevalence of anxiety disorders in pre-adolescent
+Anderman, E. M., and Midgley, C. (1997). Changes in achievement goal                               children. Clin. Psychol. Rev. 26, 817–833. doi: 10.1016/j.cpr.2005.12.002
+   orientations, perceived academic competence, and grades across the transition               Chung, H., Elias, M., and Schneider, K. (1998). Patterns of individual adjustment
+   to middle-level schools. Contemp. Educ. Psychol. 22, 269–298. doi: 10.1006/ceps.                changes during middle school transition. J. Sch. Psychol. 36, 83–101.
+   1996.0926                                                                                       doi: 10.1016/S0022-4405(97)00051-4
+Anderson, L. W., Jacobs, J., Schramm, S., and Splittgerber, F. (2000). School                  Cillessen, A. H. N., and Mayeux, L. (2007). Expectations and perceptions at school
+   transitions: beginning of the end or a new beginning? Int. J. Educ. Res. 33,                    transitions: the role of peer status and aggression. J. Sch. Psychol.y 45, 567–586.
+   325–339. doi: 10.1016/S0883-0355(00)00020-3                                                     doi: 10.1016/j.jsp.2007.05.004
+APA (2017a). Anxiety. Available at: http://www.apa.org/topics/anxiety/index.aspx               Coelho, V. A., Marchante, M., and Jimerson, S. R. (2017). Promoting a
+   [accessed April 26, 2018].                                                                      positive middle school transition: a randomized-controlled treatment study
+APA (2017b). Depression. Available at: http://www.apa.org/topics/depression/                       examining self-concept and self-esteem. J Youth Adolesc. 46, 558–569.
+   index.aspx (accessed April 26, 2018).                                                           doi: 10.1007/s10964-016-0510-6
+APA (2017c). Glossary of Psychological Terms. Available at: https://dictionary.apa.            Coelho, V. A., and Romão, A. M. (2016). Stress in Portuguese middle school
+   org/ [accessed April 26, 2018].                                                                 transition: a multilevel analysis. Span. J. Psychol. 19:E61. doi: 10.1017/sjp.
+Arens, A. K., Yeung, A. S., Craven, R. G., Watermann, R., and Hasselhorn, M.                       2016.61
+   (2013a). Does the timing of transition matter? Comparison of german students’               Cohen, S., and Wills, T. A. (1985). Stress, social support, and the buffering
+   self-perceptions before and after transition to secondary school. Int. J. Educ. Res.            hypothesis. Psychol. Bull. 98, 310–357. doi: 10.1037/0033-2909.98.2.310
+   57, 1–11. doi: 10.1016/j.ijer.2012.11.001                                                   Cragg, L., and Gilmore, C. (2014). Skills underlying mathematics: the role of
+Arens, A. K., Yeung, A. S., Nagengast, B., and Hasselhorn, M. (2013b). Relationship                executive function in the development of mathematics proficiency. Trends
+   between self-esteem and academic self-concept for German elementary and                         Neurosci. Educ. 3, 63–68. doi: 10.1016/j.tine.2013.12.001
+   secondary school students. Educ. Psychol. 33, 443–464. doi: 10.1080/01443410.               Creswell, C., Cooper, P., and Murray, L. (2010). “Intergenerational transmissionof
+   2013.772772                                                                                     anxious information processing biases,” in Information Processing Biases and
+Arowosafe, D. S., and Irvin, J. L. (1992). Transition to a middle level school: what               Anxiety: A Developmental Perspective, eds J. A. Hadwin and A. P. Field
+   kids say. Middle Sch. J. 24, 15–19. doi: 10.1080/00940771.1992.11495162                         (Chichester: Wiley-Blackwell), 279–295. doi: 10.1002/9780470661468.ch12
+Ashcraft, M. H. (2002). Math anxiety: personal, educational, and cognitive                     Crick, N. R., and Grotpeter, J. K. (1995). Relational aggression, gender, and
+   consequences. Curr. Direct. Psychol. Sci. 11, 181–185. doi: 10.1111/1467-8721.                  social-psychological adjustment. Child Dev. 66, 710–722. doi: 10.2307/1131945
+   00196                                                                                       Crockett, L. J., Petersen, A. C., Graber, J. A., Schulenberg, J. E., and Ebata, A. (1989).
+Bailey, S., and Baines, E. (2012). The impact of risk and resiliency factors on the                School transitions and adjustment during early adolescence. J. Early Adolesc. 9,
+   adjustment of children after the transition from primary to secondary school.                   181–210. doi: 10.1177/0272431689093002
+   Educat. Child Psychol. 29:18.                                                               Day, J. C., and Newburger, E. C. (2002). The Big Payoff: Educational Attainment
+Barth, J., McCallum, D. M., Todd, B., Guadagno, R. E., Roskos, B., Burkhalter, C.,                 and Synthetic Estimates of Work-Life Earnings. Washington, DC: Economics
+   et al. (2011). “Effects of engaging classroom strategies and teacher support on                 and Statistics Administration, 23–210.
+   student outcomes over school transitions,” in Proceedings of the American                   Deieso, D., and Fraser, B. J. (2018). Learning environment, attitudes and anxiety
+   Society for Engineering Education, Washington, D.C.                                             across the transition from primary to secondary school mathematics. Learn.
+Battistich, V., Schaps, E., and Wilson, N. (2004). Effects of an elementary school                 Environ. Res. 1–20. doi: 10.1007/s10984-018-9261-5
+   intervention on students’. Nance J. Primary Preven. 24, 243–262. doi: 10.1023/B:            Demaray, M. K., and Malecki, C. K. (2002). The relationship between perceived
+   JOPP.0000018048.38517.cd                                                                        social support and maladjustment for students at risk. Psychol. Sch. 39, 305–316.
+Baudoin, N., and Galand, B. (2017). Effects of classroom goal structures on                        doi: 10.1002/pits.10018
+   student emotions at school. Int. J. Educ. Res. 86, 13–22. doi: 10.1016/j.ijer.2017.         Diener, E., and Diener, M. (1995). Cross-cultural correlates of life satisfaction and
+   08.010                                                                                          self-esteem. J. Pers. Soc. Psychol. 68, 653–663. doi: 10.1037/0022-3514.68.4.653
+Berndt, T. J., and Mekos, D. (1995). Adolescents’ perceptions of the stressful and             Dotterer, A. M., McHale, S. M., and Crouter, A. C. (2009). The development and
+   desirable aspects of the transition to junior high school. J. Res. Adolesc. 5,                  correlates of academic interests from childhood through adolescence. J. Educ.
+   123–142. doi: 10.1207/s15327795jra0501_6                                                        Psychol 101, 509–519. doi: 10.1037/a0013987
+Booth-LaForce, C., Oh, W., Kennedy, A. E., Rubin, K. H., Rose-Krasnor, L., and                 Duchesne, S., Ratelle, C. F., Poitras, S.-C., and Drouin, E. (2009). Early adolescent
+   Laursen, B. (2012). Parent and peer links to trajectories of anxious withdrawal                 attachment to parents, emotional problems, and teacher-academic worries
+   from grades 5 to 8. J. Clin. Child Adolesc. Psychol. 41, 138–149. doi: 10.1080/                 about the middle school transition. J. Early Adolesc. 29, 743–766. doi: 10.1177/
+   15374416.2012.651995                                                                            0272431608325502
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                             15                                                   August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                                                  The Transition to Secondary Education
+
+
+
+Duchesne, S., Ratelle, C. F., and Roy, A. (2012). Worries about middle school                      middle school transition. J. Youth Adolesc. 29, 223–248. doi: 10.1023/A:
+   transition and subsequent adjustment: the moderating role of classroom goal                     1005108700243
+   structure. J. Early Adolesc. 32, 681–710. doi: 10.1177/0272431611419506                      Hadwin, J. A., and Field, A. P. (2010). Information Processing Biases and
+Duineveld, J. J., Parker, P. D., Ryan, R. M., Ciarrochi, J., and Salmela-Aro, K. (2017).           Anxiety: A Developmental Perspective. Chichester: Wiley-Blackwell.
+   The link between perceived maternal and paternal autonomy support and                           doi: 10.1002/9780470661468
+   adolescent well-being across three major educational transitions. Dev. Psychol.              Hall, G. E., and DiPerna, J. C. (2017). Childhood social skills as predictors of
+   53, 1978–1994. doi: 10.1037/dev0000364                                                          middle school academic adjustment. J. Early Adolesc. 37, 825–851. doi: 10.1177/
+Eccles, J. S., and Midgley, C. (1989). “Stage-environment fit: developmentally                     0272431615624566
+   appropriate classrooms for early adolescents,” in Research on Motivation in                  Harter, S. (1981). A new self-report scale of intrinsic versus extrinsic orientation in
+   Education, eds R. Ames and C. Ames (New York, NY: Academic Press),                              the classroom: motivational and informational components. Dev. Psychol. 17,
+   139–181.                                                                                        300–312. doi: 10.1037/0012-1649.17.3.300
+Eccles, J. S., Midgley, C., and Adler, T. (1984). “Grade-related changes in the                 Harter, S., Whitesell, N. R., and Kowalski, P. (1992). Individual differences in
+   school environment: effects on achievement motivation,” in The Development                      the effects of educational transitions on young adolescent’s perceptions of
+   of Achievement Motivation, ed. J. H. Nicholls (Greenwich, CT: JAI), 283–331.                    competence and motivational orientation. Am. Educ. Res. J. 29, 777–807.
+Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C. M., Reuman, D., Flanagan, C.,               doi: 10.3102/00028312029004777
+   et al. (1993). Development during adolescence. The impact of stage-                          Helsen, M., Vollebergh, W., and Meeus, W. (2000). Social support from parents
+   environment fit on young adolescents’ experiences in schools and in families.                   and friends and emotional problems in adolescence. J. Youth Adolesc. 29,
+   Am. Psychol. 48, 90–101. doi: 10.1037/0003-066X.48.2.90                                         319–335. doi: 10.1023/A:1005147708827
+Eccles, J. S., and Roeser, R. W. (2009). “Schools, academic motivation, and stage-              Henry, K. L., Knight, K. E., and Thornberry, T. P. (2012). School disengagement
+   environment fit,” in Handbook of Adolescent Psychology, Vol. 1, eds R. M. Lerner                as a predictor of dropout, delinquency, and problem substance use during
+   and L. D. Steinberg (Hoboken: Wiley), 404–434.                                                  adolescence and early adulthood. J. Youth Adolesc. 41, 156–166. doi: 10.1007/
+Eley, T. C., McAdams, T. A., Rijsdijk, F. V., Lichtenstein, P., Narusyte, J., Reiss, D.,           s11897-014-0247-z.Pathophysiology
+   et al. (2015). The intergenerational transmission of anxiety: a children-of-twins            Hirsch, B. J., and Rapkin, B. D. (1987). The transition to junior high school: a
+   study. Am. J. Psychiatry 172, 630–637. doi: 10.1176/appi.ajp.2015.14070818                      longitudinal study of self-esteem, psychological symptomatology, school life,
+Eysenck, M. W., Derakshan, N., Santos, R., and Calvo, M. G. (2007). Anxiety                        and social support. Child Dev. 58, 1235–1243. doi: 10.2307/1130617
+   and cognitive performance: attentional control theory. Emotion 7, 336–353.                   Hughes, L. A., Banks, P., and Terras, M. M. (2013). Secondary school transition for
+   doi: 10.1037/1528-3542.7.2.336                                                                  children with special educational needs: a literature review. Support Learn. 28,
+Federici, R. A., Skaalvik, E. M., and Tangen, T. N. (2015). Students’ perceptions of               24–34. doi: 10.1111/1467-9604.12012
+   the goal structure in mathematics classrooms: relations with goal orientations,              Johnson, D. W., Maruyama, G., Johnson, R., Nelson, D., and Skon, L. (1981). Effects
+   mathematics anxiety, and help-seeking behavior. Int. Educ. Stud. 8,                             of cooperative, competitive, and individualistic goal structures on achievement:
+   doi: 10.5539/ies.v8n3p146.                                                                      a meta-analysis. Psychol. Bull. 89, 47–62. doi: 10.1037/0033-2909.89.1.47
+Felner, R. D., Primavera, J., and Cauce, A. M. (1981). The impact of school                     Kaplan, A., and Maehr, M. L. (2007). The contributions and prospects of
+   transitions: a focus for preventive efforts. Am. J. Community Psychol. 9,                       goal orientation theory. Educ. Psychol. Rev. 19, 141–184. doi: 10.1007/s106
+   449–459. doi: 10.1007/BF00918175                                                                48-006-9012-5
+Fenzel, L. M. (2000). Prospective study of changes in global self-worth and                     Kasen, S., Cohen, P., and Brook, J. S. (1998). Adolescent school experiences and
+   strain during the transition to middle school. J. Early Adolesc0 20, 93–116.                    dropout, adolescent pregnancy, and young adult deviant behavior. J. Adolesc.
+   doi: 10.1177/0272431600020001005                                                                Res. 13, 49–72. doi: 10.1177/0743554898131004
+Fenzel, L. M., and Blyth, D. A. (1986). Individual adjustment to school transitions:            Keller, H. (2016). Psychological autonomy and hierarchical relatedness as
+   an exploration of the role of supportive peer relations. J. Early Adolesc. 6,                   organizers of developmental pathways. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+   315–329. doi: 10.1177/0272431686064003                                                          371, 1–9. doi: 10.1098/rstb.2015.0070
+Field, A. P., and Purkis, H. M. (2011). “The role of learning in the aetiology                  Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., and Walters,
+   of child and adolescent fear and anxiety,” in Anxiety Disorders in Children                     E. E. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV
+   and Adolescents: Research, Assessment and Intervention, 2nd Edn, eds W. K.                      disorders in the national comorbidity survey replication. Arch. Gen. Psychiatry
+   Silverman and A. P. Field (Cambridge: Cambridge University Press), 227–256.                     62, 593–602. doi: 10.1001/archpsyc.62.6.593
+Finn, J. D., Fish, R. M., and Scott, L. A. (2008). Educational sequelae of high school          Kingery, J. N., Erdley, C. A., and Marshall, K. C. (2011). Peer acceptance and
+   misbehavior. J. Educ. Res. 101, 259–274. doi: 10.3200/JOER.101.5.259-274                        friendship as predictors of early adolescents’ adjustment across the middle
+Fiscella, K., and Kitzman, H. (2009). Disparities in academic achievement and                      school transition. Merrill-Palmer Quart. 57, 215–243. doi: 10.1353/mpq.2011.
+   health: the intersection of child education and health policy. Pediatrics 123,                  0012
+   1073–1080. doi: 10.1542/peds.2008-0533                                                       Koenig, L. J., and Gladstone, T. R. G. (1998). Pubertal development and school
+Freudenberg, N., and Ruglis, J. (2007). Peer reviewed: Reframing school dropout as                 transition: joint influences on depressive symptoms in middle and late
+   a public health issue. Prevent. Chronic Dis. 4:A107.]                                           adolescents. Behav. Modif. 22, 335–357. doi: 10.1177/01454455980223008
+Galton, M., Gray, J., and Ruddock, J. (1999). The Impact of School Transitions and              Lee, P. A. (1980). Normal ages of pubertal events among American males and
+   Transfers on Pupil Progress and Attainment. London: DfEE.                                       females. J. Adolesc. Health Care 1, 26–29. doi: 10.1016/S0197-0070(80)80005-2
+Gibbs, B. G., and Heaton, T. B. (2014). Drop out from primary to secondary                      Lucey, H., and Reay, D. (2000). Identities in transition: anxiety and excitement
+   school in Mexico: a life course perspective. Inte. J. Educ. Dev. 36, 63–71.                     in the move to secondary school. Oxf. Rev. Educ. 26, 191–205. doi: 10.1080/
+   doi: 10.1016/j.ijedudev.2013.11.005                                                             713688522
+Gottfredson, L. S. (2004). Intelligence: is it the epidemiologists’ elusive                     Madjar, N., and Chohat, R. (2017). Will I succeed in middle school? A longitudinal
+   “fundamental cause” of social class inequalities in health? J. Pers. Soc. Psychol.              analysis of self-efficacy in school transitions in relation to goal structures
+   86, 174–199. doi: 10.1037/0022-3514.86.1.174                                                    and engagement. Educ. Psychol. 37, 680–694. doi: 10.1080/01443410.2016.117
+Green, H., McGinnity, A., Meltzer, H., Ford, T., and Goodman, R. (2005). Mental                    9265
+   Health of Children and Young People in Great Britain, 2004. Basingstoke:                     Madjar, N., Cohen, V., and Shoval, G. (2018). Longitudinal analysis of the
+   Palgrave, doi: 10.1037/e557702010-001                                                           trajectories of academic and social motivation across the transition from
+Grills-Taquechel, A. E., Norton, P., and Ollendick, T. H. (2010). A longitudinal                   elementary to middle school. Educ. Psychol. 38, 221–247. doi: 10.1080/
+   examination of factors predicting anxiety during the transition to middle                       01443410.2017.1341623
+   school. Anxiety Stress Coping 23, 493–513. doi: 10.1080/1061580090349                        Madjar, N., Zalsman, G., Weizman, A., Lev-Ran, S., and Shoval, G. (2016).
+   4127                                                                                            Predictors of developing mathematics anxiety among middle-school students:
+Gutman, L. M., and Midgley, C. (2000). The role of protective factors in supporting                a 2-year prospective study. Int. J. Psychol. doi: 10.1002/ijop.12403 [Epub ahead
+   the academic achievement of poor African American students during the                           of print].
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                              16                                                 August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                                                  The Transition to Secondary Education
+
+
+
+Maher, D. (2010). Supporting students’ transition from primary school to high                   Neal, S., Rice, F., Ng-Knight, T., Riglin, L., and Frederickson, N. (2016). Exploring
+  school using the Internet as a communication tool. Techno. Pedagogy Educ. 19,                    the longitudinal association between interventions to support the transition
+  17–30. doi: 10.1080/14759390903579216                                                            to secondary school and child anxiety. J. Adolesc. 50, 31–43. doi: 10.1016/j.
+Maltais, C., Duchesne, S., Ratelle, C. F., and Feng, B. (2015). Attachment to the                  adolescence.2016.04.003
+  mother and achievement goal orientations at the beginning of middle school:                   Ng-Knight, T., Shelton, K. H., Riglin, L., McManus, I. C., Frederickson, N.,
+  the mediating role of academic competence and anxiety. Learn. Ind. Diff. 39,                     and Rice, F. (2016). A longitudinal study of self-control at the transition
+  39–48. doi: 10.1016/j.lindif.2015.03.006                                                         to secondary school: considering the role of pubertal status and parenting.
+Maltais, C., Duchesne, S., Ratelle, C. F., and Feng, B. (2017). Learning climate,                  J. Adolesc. 50, 44–55. doi: 10.1016/j.adolescence.2016.04.006
+  academic competence, and anxiety during the transition to middle school:                      Nielsen, L., Shaw, T., Meilstrup, C., Koushede, V., Bendtsen, P., Rasmussen, M.,
+  parental attachment as a protective factor. Eur. Rev. Appl. Psychol. 67, 103–112.                et al. (2017). School transition and mental health among adolescents: a
+  doi: 10.1016/j.erap.2017.01.002                                                                  comparative study of school systems in Denmark and Australia. Int. J. Educ.
+Malti, T., McDonald, K., Rubin, K. H., Rose-Krasnor, L., and Booth-LaForce, C.                     Res. 83, 65–74. doi: 10.1016/j.ijer.2017.01.011
+  (2015). Developmental trajectories of peer-reported aggressive behavior: the                  Nottelmann, E. D. (1987). Competence and self-esteem during transition from
+  role of friendship understanding, friendship quality, and friends’, Aggressive                   childhood to adolescence. Dev. Psychol. 23, 441–450. doi: 10.1037//0012-1649.
+  Behavior. Psychol. Viol. 5, 402–410. doi: 10.1037/a0039685                                       23.3.441
+Marsh,     H.     W.      (1989).      Age    and     sex   effects    in      multiple         Ofcom. (2017). Children and Parents: Media Use and Attitudes Report. London:
+  dimensions           of       self-concept:      Preadolescence        to        early           Ofcom.
+  adulthood. J. Educ. Psycol. 81:417. doi: 10.1037/0022-0663.81.                                Ofsted. (2002). Changing Schools: Evaluation of the Effectiveness of Transfer
+  3.417                                                                                            Arrangements at Age 11. London: Office for Standards in Education. Available
+Marsh, H. W., and Craven, R. G. (2006). Reciprocal effects of self-concept and                     at: http://dera.ioe.ac.uk/10197/1/Changing_schools.pdf
+  performance from a multidimensional perspective: beyond seductive pleasure                    Palmu, I. R., Närhi, V. M., and Savolainen, H. K. (2017). Externalizing behaviour
+  and unidimensional perspectives. Perspect. Psychol. Sci. J. Assoc. Psychol. Sci. 1,              and academic performance – The cross-lagged relationship during school
+  133–163. doi: 10.1111/j.1745-6916.2006.00010.x                                                   transition. Emot. Behav. Diff. 23, 1–16. doi: 10.1080/13632752.2017.137
+Marsh, H. W., Craven, R. G., and Debus, R. (1991). Self-concepts of young children                 6968
+  aged 5 to 8: their measurement and multidimensional structure. J. Educ. Psychol.              Petrides, K. V., Frederickson, N., and Furnham, A. (2004). The role of trait
+  83, 377–392. doi: 10.1037/0022-0663.83.3.377                                                     emotional intelligence in academic performance and deviant behavior at school.
+Martínez, R. S., Aricak, O. T., Graves, M. N., Peters-Myszak, J., and Nellis, L. (2011).           Pers. Ind Diff. 36, 277–293. doi: 10.1016/S0191-8869(03)00084-9
+  Changes in perceived social support and socioemotional adjustment across the                  Polanczyk, G. V., Salum, G. A., Sugaya, L. S., Caye, A., and Rohde, L. A. (2015).
+  elementary to junior high school transition. J. Youth Adolesc. 40, 519–530.                      Annual research review: a meta-analysis of the worldwide prevalence of mental
+  doi: 10.1007/s10964-010-9572-z                                                                   disorders in children and adolescents. J. Child Psychol. Psychiatry 56, 345–365.
+McLaughlin, C., and Clarke, B. (2010). Relational matters: a review of the impact                  doi: 10.1111/jcpp.12381
+  of school experience on mental health in early adolescence. Educ. Child Psychol.              Qualter, P., Whiteley, H. E., Hutchinson, J. M., and Pope, D. J. (2007). Supporting
+  27, 91–103.                                                                                      the development of emotional intelligence competencies to ease the transition
+McLeod, J. D., and Kaiser, K. (2004). Childhood emotional and behavioral                           from primary to high school. Educ. Psychol. Pract. 23, 79–95. doi: 10.1080/
+  problems and educational attainment. Amer Sociol. Rev. 69, 636–658. doi: 10.                     02667360601154584
+  1177/000312240406900502                                                                       Rahman, M. A., Todd, C., John, A., Tan, J., Kerr, M., Potter, R., et al. (2018).
+McLoyd, V. C. (1998). Socioeconomic disadvantage and child development. Am.                        School achievement as a predictor of depression and self-harm in adolescence:
+  Psychol. 53, 185–204. doi: 10.1037/0003-066X.53.2.185                                            linked education and health record study. Br. J. Psychiatry 212, 215–221.
+Meece, J. L., Anderman, E. M., and Anderman, L. H. (2006). Classroom goal                          doi: 10.1192/bjp.2017.69
+  structure, student motivation, and academic achievement. Annu. Rev. Psychol.                  Raskauskas, J., and Stoltz, A. D. (2007). Involvement in traditional and electronic
+  57, 487–503. doi: 10.1146/annurev.psych.56.091103.070258                                         bullying among adolescents. Dev. Psychol. 43, 564–575. doi: 10.1037/0012-1649.
+Merikangas, K. R., He, J.-P., Burstein, M., Swanson, S. A., Avenevoli, S., Cui, L.,                43.3.564
+  et al. (2010). Lifetime prevalence of mental disorders in U.S. adolescents: results           Reid, R., Gonzalez, J. E., Nordness, P. D., Trout, A., and Epstein, M. H. (2004).
+  from the national comorbidity survey replication–adolescent supplement                           A meta-analysis of the academic status of students with emotional/behavioral
+  (NCS-A). J. Am. Acad. Child Adolesc. Psychiatry 49, 980–989. doi: 10.1016/j.                     disturbance. J. Spec Educ. 38, 130–143. doi: 10.1177/002246690403800
+  jaac.2010.05.017                                                                                 30101
+Midgley, C., Anderman, E. M., and Hicks, L. (1995). Differences between                         Reijntjes, A., Kamphuis, J. H., Prinzie, P., and Telch, M. J. (2010). Peer victimization
+  elementary and middle school teachers and students: a goal theory                                and internalizing problems in children: a meta-analysis of longitudinal studies.
+  approach. J. Early Adolesc. 15, 90–113. doi: 10.1177/027243169501500                             Child Abuse Neglect 34, 244–252. doi: 10.1016/j.chiabu.2009.07.009
+  1006                                                                                          Resnick, M. D., Bearman, P. S., Blum, R. W., Bauman, K. E., Harris, K. M.,
+Midgley, C., Feldlaufer, H., and Eccles, J. S. (1989a). Change in teacher efficacy                 Jones, J., et al. (1997). From harm longitudinal study. JAMA 278, 823–832.
+  and student self- and task-related beliefs in mathematics during the transition                  doi: 10.1001/jama.1997.03550100049038
+  to junior high school. J. Educ. Psychol. 81, 247–258. doi: 10.1037/0022-0663.81.              Rice, F., Frederickson, N., and Seymour, J. (2011). Assessing pupil concerns about
+  2.247                                                                                            transition to secondary school. Br. J. Educ. Psychol. 81, 244–263. doi: 10.1348/
+Midgley, C., Feldlaufer, H., and Eccles, J. S. (1989b). Student/teacher relations and              000709910X519333
+  attitudes toward mathematics before and after the transition to junior high                   Rice, J. K. (2001). Explaining the negative impact of the transition from middle to
+  school. Child Dev. 60, 981–992.                                                                  high school on student performance in mathematics and science. Educ. Admin.
+Mineka, S., and Zinbarg, R. (2006). A contemporary learning theory perspective on                  Quart. 37, 372–400. doi: 10.1177/00131610121969352
+  the etiology of anxiety disorders: it’s not what you thought it was. Am. Psychol.             Riglin, L., Frederickson, N., Shelton, K. H., and Rice, F. (2013). A longitudinal
+  61, 10–26. doi: 10.1037/0003-066X.61.1.10                                                        study of psychological functioning and academic attainment at the transition
+Mundy, L. K., Canterford, L., Kosola, S., Degenhardt, L., Allen, N. B., and                        to secondary school. J. Adolesc. 36, 507–517. doi: 10.1016/j.adolescence.2013.
+  Patton, G. C. (2017). Peer victimization and academic performance in                             03.002
+  primary school children. Acad. Pediatr. 17, 830–836. doi: 10.1016/j.acap.2017.                Robbers, E., Donche, V., Maeyer, S. D., and Petegem, P. V. (2018). A longitudinal
+  06.012                                                                                           study of learning conceptions on the transition between primary and secondary
+Murray-Close, D., Ostrov, J. M., and Crick, N. R. (2007). A short-term                             education. Res. Pap. Educ. 33, 375–392. doi: 10.1080/02671522.2017.1329337
+  longitudinal study of growth of relational aggression during middle childhood:                Roeser, R. W., Eccles, J. S., and Sameroff, A. J. (2000). Summary of research findings
+  associations with gender, friendship intimacy, and internalizing problems. Dev.                  early adolescents ’ development: a summary of research findings. Elemen. Sch.
+  Psychopathol. 19, 187–203. doi: 10.1017/S0954579407070101                                        J. 100, 443–471. doi: 10.1086/499650
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                              17                                                  August 2018 | Volume 9 | Article 1482
+Evans et al.                                                                                                                                 The Transition to Secondary Education
+
+
+
+Rose, A. J., and Rudolph, K. D. (2006). A Review of sex differences in peer                     Smyth, E. (2016). Social relationships and the transition to secondary education.
+   relationship processes: potential trade-offs for the emotional and behavioral                   Econ. Soc. Rev. Dublin 47, 451–476.
+   development of girls and boys. Psychol. Bull. 132, 98–131. doi: 10.1037/                     Thornburg, H. D., and Glider, P. (1984). Dimensions of early adolescent social
+   0033-2909.132.1.98                                                                              perceptions and preferences. J. Early Adolesc. 4, 387–406. doi: 10.1177/
+Rosenblatt, J. L., and Elias, M. J. (2008). Dosage effects of a preventive social-                 0272431684044008
+   emotional learning intervention on achievement loss associated with middle                   Tram, J. M., and Cole, D. A. (2006). A multimethod examination of the stability
+   school transition. J. Primary Preven. 29, 535–555. doi: 10.1007/s10935-00                       of depressive symptoms in childhood and adolescence. J. Abnorm. Psychol. 115,
+   8-0153-9                                                                                        674–686. doi: 10.1037/0021-843X.115.4.674
+Rudolph, K. D., Lambert, S. F., Clark, A. G., and Kurlakowsky, K. D. (2001).                    UNESCO Institute for Statistics (2010). Global Education Digest 2010: Comparing
+   Negotiating the transition to middle school: the role of self-regulatory processes.             Education Statistics Across The World. Montreal: UNESCO.
+   Child Dev. 72, 929–946. doi: 10.1111/1467-8624.00325                                         Vaz, S., Falkmer, M., Parsons, R., Passmore, A. E., Parkin, T., and Falkmer, T.
+Sawyer, M. G., Arney, F. M., Baghurst, P. A., Clark, J. J., Graetz, B. W., Kosky,                  (2014a). School belongingness and mental health functioning across the
+   R. J., et al. (2001). The mental health of young people in australia: key findings              primary-secondary transition in a mainstream sample: multi-group cross-
+   from the child and adolescent component of the national survey of mental                        lagged analyses. PLoS One 9:e9956. doi: 10.1371/journal.pone.0099576
+   health and well-being. Austr. N. Zeal J. Psychiatry 35, 806–814. doi: 10.1046/j.             Vaz, S., Parsons, R., Falkmer, T., Passmore, A. E., and Falkmer, M. (2014b). The
+   1440-1614.2001.00964.x                                                                          impact of personal background and school contextual factors on academic
+Schaffhuser, K., Allemand, M., and Schwarz, B. (2017). The development of self-                    competence and mental health functioning across the primary-secondary
+   representations during the transition to early adolescence: the role of gender,                 school transition. PLoS One 9:e89874. doi: 10.1371/journal.pone.0089874
+   puberty, and school transition. J. Early Adolesc. 37, 774–804. doi: 10.1177/                 Wang, W., Brittain, H., McDougall, P., and Vaillancourt, T. (2016). Bullying and
+   0272431615624841                                                                                school transition: context or development? Child Abuse Neglect 51, 237–248.
+Schulenberg, J. E., Asp, C. E., and Petersen, A. C. (1984). School from the young                  doi: 10.1016/j.chiabu.2015.10.004
+   adolescent’s perspective: a descriptive report. J. Early Adolesc. 4, 107–130.                Waters, S., Lester, L., and Cross, D. (2014). How does support from peers compare
+   doi: 10.1177/0272431684042002                                                                   with support from adults as students transition to secondary school? J. Adolesc.
+Seidman, E., Allen, L., Aber, J. L., Mitchell, C., Aber, J. L., and Feinman, J.                    Health 54, 543–549. doi: 10.1016/j.jadohealth.2013.10.012
+   (1994). The impact of school transition in early adolescence on the self-system              West, P., Sweeting, H., and Young, R. (2010). Transition matters: pupils’
+   and perceived social context of poor urban youth. Child Dev. 65, 507–522.                       experiences of the primary-secondary school transition in the West of Scotland
+   doi: 10.2307/1131399                                                                            and consequences for well-being and attainment. Res. Pap. Educ. 25, 21–50.
+Seidman, E., Lambert, L. E., Allen, L., and Aber, J. L. (2003). Urban adolescents’                 doi: 10.1080/02671520802308677
+   transition to junior high school and protective family transactions. J. Early                Wigfield, A., Eccles, J. S., Mac Iver, D., Reuman, D. A., and Midgley, C. (1991).
+   Adolesc. 23, 166–193. doi: 10.1177/0272431603023002003                                          Transitions during early adolescence: changes in children’s domain-specific
+Serbin, L. A., Stack, D. M., and Kingdon, D. (2013). Academic success across                       self-perceptions and general self-esteem across the transition to junior high
+   the transition from primary to secondary schooling among lower-income                           school. Dev. Psychol. 27, 552–565. doi: 10.1037/0012-1649.27.4.552
+   adolescents: understanding the effects of family resources and gender. J. Youth              Woodward, L. J., and Fergusson, D. M. (2000). Childhood peer relationship
+   Adolesc. 42, 1331–1347. doi: 10.1007/s10964-013-9987-4                                          problems and later risks of educational under-achievement and unemployment.
+Shell, M. D., Gazelle, H., and Faldowski, R. A. (2014). Anxious solitude and                       J. Child Psychol. Psychiatry 41, 191–201. doi: 10.1111/1469-7610.00600
+   the middle school transition: a diathesis × stress model of peer exclusion                   Zandstra, A. R. E., Ormel, J., Nederhof, E., Hoekstra, P. J., and Hartman, C. A.
+   and victimization trajectories. Dev. Psychol. 50, 1569–1583. doi: 10.1037/a003                  (2015). The role of basal cortisol in predicting change in mental health
+   5528                                                                                            problems across the transition to middle school. J. Adolesc. Health 56, 489–495.
+Shepherd, J., and Roker, D. (2005). An Evaluation of a ‘Transition to Secondary                    doi: 10.1016/j.jadohealth.2014.12.004
+   School’ Project Run by the National Pyramid Trust. Brighton: Trust for the Study             Zeedyk, M. S., Gallacher, J., Henderson, M., Hope, G., Husband, B., and
+   of Adolescence.                                                                                 Lindsay, K. (2003). Negotiating the transition from primary to secondary
+Siddiqui, N., Gorard, S., and See, B. H. (2014). Is a summer school programme a                    school: perceptions of pupils, parents and teachers. Sch. Psychol. Int. 24, 67–79.
+   promising intervention in preparation for transition from primary to secondary                  doi: 10.1177/0143034303024001010
+   school? Int. Educ. Stud. 7:125. doi: 10.5539/ies.v7n7p125                                    Zimmerman, B. J., and Martinez-Pons, M. (1990). Student differences in self-
+Siddiqui, N., Gorard, S., and See, B. H. (2016). Accelerated reader as a literacy catch-           regulated learning: relating grade, sex, and giftedness to self-efficacy and
+   up intervention during primary to secondary school transition phase. Educ. Rev.                 strategy use. J. Educ. Psychol. 82, 51–59. doi: 10.1037/0022-0663.82.1.51
+   68, 139–154. doi: 10.1080/00131911.2015.1067883
+Simmons, R. G., Black, A., and Zhou, Y. (1991). African-american versus white                   Conflict of Interest Statement: The authors declare that the research was
+   children and the transition into junior high school. Am. J. Educ. 99, 481–520.               conducted in the absence of any commercial or financial relationships that could
+   doi: 10.1086/443995                                                                          be construed as a potential conflict of interest.
+Skaalvik, E. M., Federici, R. A., Wigfield, A., and Tangen, T. N. (2017).
+   Students’ perceptions of mathematics classroom goal structures: implications                 Copyright © 2018 Evans, Borriello and Field. This is an open-access article
+   for perceived task values and study behavior. Soc. Psychol. Educ. 20, 543–563.               distributed under the terms of the Creative Commons Attribution License (CC BY).
+   doi: 10.1007/s11218-017-9382-1                                                               The use, distribution or reproduction in other forums is permitted, provided the
+Skinner, E. A., Zimmer-Gembeck, M. J., Connell, J. P., Eccles, J. S., and Wellborn,             original author(s) and the copyright owner(s) are credited and that the original
+   J. G. (1998). Individual Differences and the Development of Perceived Control:               publication in this journal is cited, in accordance with accepted academic practice.
+   Monographs of the Society for Research in Child Development. Washington, DC:                 No use, distribution or reproduction is permitted which does not comply with these
+   Society for Research in Child Development, 234.                                              terms.
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                              18                                                August 2018 | Volume 9 | Article 1482
+

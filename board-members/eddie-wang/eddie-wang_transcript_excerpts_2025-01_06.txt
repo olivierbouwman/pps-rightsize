@@ -1,0 +1,114 @@
+Eddie Wang (Zone 7; Board Chair 2024-25) - transcript excerpts, PPS Board meetings Jan-Jun 2025 (2025 bond referral and HS cost framework, 2025-26 budget cuts, seismic resolutions, Jefferson enrollment strategy)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/10/2025 superintendent evaluation (Res. 7122) skipped entirely; remarks about named laid-off staff and contractors; candidates' and directors' family details (children's schools/teachers, moves) trimmed).
+
+RECORDED VOTES / MOTIONS
+- 2025-01-07 officer elections: Wang elected chair 7-0 (moved Brim-Edwards, seconded Sullivan); DePass elected vice chair 7-0 (moved Brim-Edwards, seconded Hollands). Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_07_Regular_Meeting_Minutes_Draft_for_Consideration_3996227.txt
+- 2025-01-07 Res. 7038 referral of the $1.83B 2025 bond: passed 7-0 (moved Scott, seconded Hollands); Brim-Edwards amendment to add $40M for a Center for Native American Student Excellence FAILED 2-5 (yes Brim-Edwards, Greene; NO DePass, Hollands, Scott, Sullivan, Wang). Source: same minutes.
+- 2025-01-13 Zone 1 appointment (caption roll calls): round 1 Brim-Edwards-Splitt, DePass-Wirz, Greene-Reece, Hollands-Reece, Sullivan-Splitt, Wang-Wirz (2-2-2); round 2 Wang switched to Splitt ('part of my responsibility as a chair is to move us forward'); runoff Splitt 4 (Brim-Edwards, DePass, Sullivan, Wang) vs Reece 2 (Greene, Hollands). The draft minutes' per-round lists are internally inconsistent; tallies match captions. Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_13_Special_Meeting_Minutes_Draft_with_adopted_resolutions_3996229.txt Wang: Wirz, then Splitt.
+- 2025-02-11 Res. 7051 framework to build high-quality high schools cost-efficiently (target ~295,000 sq ft; savings to elementary/middle school repairs) passed 7-0 as amended (moved Brim-Edwards, seconded Hollands; drafted by Brim-Edwards, Hollands and Splitt). Source: boardbook/2025-03-04_Regular_Meeting_677306/2025_02_11_Special_Mtg_Work_Session_Minutes_Draft_with_Resolutions_3996300.txt
+- 2025-03-04 (Sullivan absent): Res. 7067/7068 Cleveland & Wells pre-construction contracts adopted as amended 6-0 (moved DePass, seconded Splitt); appeal of DePass's call-the-question tied 3-3 (no: DePass, Splitt, Wang); Res. 7058 senior-chief salary schedule postponed 4-2 (moved Wang, seconded Splitt; yes Brim-Edwards, DePass, Splitt, Wang; no Greene, Hollands). Source: boardbook/2025-03-18_Work_Session_with_Vote_on_Consent_Agenda_679850/2025_03_04_Regular_Meeting_Minutes_with_adopted_Resolutions_-_draft_3996302.txt
+- 2025-04-22 Res. 7099 add senior-leadership pay grade (superintendent's central-office restructure): passed 6-1 (Brim-Edwards no; Wang, DePass, Splitt, Sullivan yes). Source: boardbook/2025-05-06_Regular_Meeting_686691/2025_04_22_Special_Meeting_and_Work_Session_Meeting_Minutes_Draft_w_Resolutions_3996387.txt
+- 2025-05-06 Res. 7109 'urgent need for seismic retrofitting of high-risk school buildings' (Hollands) passed 7-0 (moved Greene, seconded DePass); Res. 7110 seismic tracking/reporting through the facilities committee (drafted by Wang 'with help and input from director Splitt, director DePass and director Sullivan') passed 7-0 (moved Sullivan, seconded DePass). Source: boardbook/2025-05-19_Special_Meeting_689137/2025_05_06_Regular_Meeting_Minutes_-_draft_for_consideration_3996420.txt
+- 2025-05-19 Res. 7116 Budget Committee approval of the 2025-26 budget (Greene, Hollands absent): caption 'approved by a vote of five to zero' (moved DePass, seconded Splitt); draft minutes say '4 yes - 0 no - 1 abstain' but list all five present as Yes (internal inconsistency; caption shows no abstention called). Source: boardbook/2025-06-10_Regular_Meeting_689410/2025_05_19_Special_Meeting_Minutes_-_Draft_with_Resolutions_3996425.txt
+- 2025-06-10 Res. 7120 2024-25 budget amendment 1 passed 7-0 (moved Splitt, seconded Sullivan); Res. 7121 adoption of the 2025-26 budget passed 5-2 (moved DePass, seconded Sullivan; YES Wang, DePass, Splitt, Sullivan, Greene; NO Brim-Edwards, Hollands). Source: boardbook/2025-06-24_Special_Meeting_and_Work_Session_695124/2025_06_10_Regular_Meeting_Minutes_Draft_for_Consideration_3996489.txt and caption ~02:32.
+
+EXCERPTS
+
+[2025-01-07 Regular Meeting - referral of the 2025 bond (Res. 7038) and Native student center amendment]
+  time 03:10:45 | https://www.youtube.com/watch?v=YLB6Aken-Vo&t=11445s
+  source: transcripts/text/2025-01-07_Board_of_Education_Regular_Meeting__YLB6Aken-Vo.txt
+  attribution: CONFIRMED (self: "I as as chair I am going to recommend")
+  topic: use an existing building rather than add $40M to the bond
+  "the advantage of doing superintendent Armstrong's proposal uh identify current building with a space that you know can be open after hours is that then that building will now have the ability to be staffed or have be open right versus a separate building and there's limitations in terms of of Staffing what bonds can pay for"
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:36:42 | https://www.youtube.com/watch?v=zxaXALjzumk&t=9402s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (superintendent: "thank you for that Sher Wang"; personal family detail omitted)
+  topic: HS size vs projected enrollment
+  "I also want to just reiterate what what director split said smaller buildings are more efficient [...] I remember uh a PSU study that came out [...] that if we enrolled all our high schools equally right even including all the new high schools we wouldn't even be able to fill up our high schools to maybe about a little less than 1,200 each right and so here we're talking about are we going to sacrifice the tradeoff is like 30 empty classrooms"
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:36:42 | https://www.youtube.com/watch?v=zxaXALjzumk&t=9402s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (same turn)
+  topic: Jefferson a well-enrolled comprehensive HS
+  "I am also very adamant about Jefferson being a full beautiful well- enrolled High School just like everyone else right Jefferson deserves its moment it's been waiting"
+
+[2025-02-11 Special Meeting - Res. 7051 framework for cost-efficient high-school modernizations]
+  time 00:12:10 | https://www.youtube.com/watch?v=dDmpgZcNfI&t=730s
+  source: transcripts/text/2025-02-11_Board_of_Education_Special_Meeting_and_Work_Session___dDmpgZcNfI.txt
+  attribution: PROBABLE (chair; speaks after colleagues as is his practice)
+  topic: board's duty over public money; equivalent schools
+  "it is the job of the board to oversee the spending of public money and this is our commitment [...] we're tackling two things at once here making sure our public dollars go as far as possible as well as making sure our wells and Cleveland Community get beautiful state-of-the-art schools"
+
+[2025-02-19 PPS Advocacy Training Night (webinar)]
+  time 00:13:10 | https://www.youtube.com/watch?v=4GuJirKtXVU&t=790s
+  source: transcripts/text/2025-02-19_PPS_Advocacy_Training_Night__4GuJirKtXVU.txt
+  attribution: CONFIRMED (introduced as "chair Wong")
+  topic: boom-bust state funding destroys capacity
+  "every time you crash you you we have you know the every school district has to fire so many people we lose all this institutional knowledge projects that that um uh uh people have been working out for years go away and and when we finally get back to normal funding um we're rebuilding instead of progressing"
+
+[2025-03-18 Work Session - school-based resources budget preview]
+  time 03:20:08 | https://www.youtube.com/watch?v=XENAU3DUf5g&t=12008s
+  source: transcripts/text/2025-03-18_Work_Session_with_a_vote_on_a_Consent_Agenda__XENAU3DUf5g.txt
+  attribution: PROBABLE (self: "this is my zone I know it very well and [...] your Zone too", addressing Brim-Edwards)
+  topic: SEGC set-aside FTE vs higher-need neighbors
+  "a lot of the the 10 scgc uh that were allocated to certain schol Schools they're also adjacent to very high need schools that were not part of the SGC [...] I am not pushing for the 10gs but I I do want you know some discussion around but at the same time I understand why they have been allocated elsewhere"
+
+[2025-04-22 Special Meeting (as Budget Committee) - superintendent's proposed 2025-26 budget]
+  time 01:52:59 | https://www.youtube.com/watch?v=-iIZmAv0aaE&t=6779s
+  source: transcripts/text/2025-04-22_Board_of_Education_Special_Meeting_and_Work_Session__-iIZmAv0aaE.txt
+  attribution: PROBABLE (chair's closing turn before ending the budget-committee session)
+  topic: cuts with long-term costs
+  "The same amount of money is just not going as far. [...] the teachers levy [...] used to pay for like 800 teachers and I think now this last levy only paid for about 650 about. [...] there's obviously going to be cuts that we're going to pay for down the line, right? Whether that makes operations more expensive or or deferred maintenance uh growing faster than we can handle."
+
+[2025-05-06 Regular Meeting - seismic resolutions 7109/7110 and bond update]
+  time 02:46:08 | https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=9968s
+  source: transcripts/text/2025-05-06_Board_of_Education_Regular_Meeting__Uxh6Jm_xFYY.txt
+  attribution: PROBABLE (chair; ends turn with "I think we are ready to vote")
+  topic: seismic is the state's responsibility
+  "the ultimate responsibility for ensuring that our buildings are safe should be with the state of Oregon. [...] However, uh because of historic insufficient funding in that matter and critical infrastructure, it's up to us."
+
+[2025-05-06 Regular Meeting - seismic resolutions 7109/7110 and bond update]
+  time 02:58:17 | https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=10697s
+  source: transcripts/text/2025-05-06_Board_of_Education_Regular_Meeting__Uxh6Jm_xFYY.txt
+  attribution: CONFIRMED (chair announcing result of 7109)
+  topic: seismic as urgent priority
+  "The board is making clear that improving seismic safety is an urgent district priority. Um we are making a strong commitment here tonight to prioritize seismic upgrades as part of the 2025 bond."
+
+[2025-05-06 Regular Meeting - seismic resolutions 7109/7110 and bond update]
+  time 02:59:17 | https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=10757s
+  source: transcripts/text/2025-05-06_Board_of_Education_Regular_Meeting__Uxh6Jm_xFYY.txt
+  attribution: CONFIRMED (minutes: "Director Wang provided a summary of the Resolution"; self: "resolutions I I worked on")
+  topic: limited funds; accessible transparency
+  "There's a difference between transparency and accessible transparency and that's what this this resolution is trying to do. [...] The ultimate goal of this, of course, is to make sure that our limited funds, and let's be very clear, they are limited funds, go as far as possible"
+
+[2025-05-19 Special Meeting - middle school redesign update]
+  time 00:29:26 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=1766s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: POSSIBLE (unnamed; follows Splitt's K-8 question; framing as a future board discussion item fits the chair; Wang cited K-8 vs middle-school data on 9/1/2026)
+  topic: K-8 equity of access
+  "something to also throw out to the board as well in terms of future discussion about uh equitable experiences throughout all our middle schools. [...] also looking at K through8s because I know that's been an issue in terms of uh access to certain programming in K through8."
+
+[2025-06-10 Regular Meeting - adoption of 2025-26 budget (Res. 7121)]
+  time 01:42:15 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=6135s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: CONFIRMED (chair: "Uh Director Holland, I I love your protest")
+  topic: what a budget vote means
+  "when we approve if we vote yes and approve this budget we are not approving the behavior of the state of Oregon. Uh what we are doing is we are approving the behavior of our district with what we are given."
+
+[2025-06-10 Regular Meeting - Jefferson enrollment strategy (sunsetting dual assignment)]
+  time 03:11:46 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11506s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: PROBABLE (chair, responding to Splitt's tiered idea: "I share director splits enthusiasm")
+  topic: one change, not two; SEGC lesson
+  "I know you mentioned tiered system but that does bring a little concern because what we do at Jefferson is also going to impact other high schools as well [...] It's it's better to just do one change, right? Instead of having some families have to go through two changes. Um you know these are again lessons learned during the SEGC process."

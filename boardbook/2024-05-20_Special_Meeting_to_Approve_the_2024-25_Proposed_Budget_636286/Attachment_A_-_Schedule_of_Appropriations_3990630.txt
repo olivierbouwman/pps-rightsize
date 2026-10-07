@@ -1,0 +1,167 @@
+                                                   Attachment A
+                                             Portland Public Schools
+                               Adjustments to the 2024-25 Proposed Budget
+                                                   May 20, 2024
+                                                    (in thousands)
+
+                                                                                                  Recommended
+                                                         Proposed                                   Approved
+                                                          Budget                Adjustment           Budget
+100 - General Funds
+Resources
+   Beginning Fund Balance                                             84,205            2,933            87,138
+   Local Property and Other Taxes                                    351,964               -            351,964
+   Local Option Taxes                                                104,608               -            104,608
+   Other Local Sources                                                26,749               -             26,749
+   County and Intermediate Sources                                    12,306               -             12,306
+   State Sources                                                     271,565               -            271,565
+   Federal Sources                                                        15               -                 15
+   Other                                                               1,700           (1,650)               50
+   Total                                                             853,111             1,283          854,394
+
+Requirements
+   Instruction                                                       437,284              -              437,284
+   Support Services                                                  355,802             (840)           354,962
+   Enterprise and Community Svcs                                       3,257              -                3,257
+   Debt Service                                                        2,194           (1,855)               339
+   Transfers of Funds                                                 11,918            3,979             15,895
+   Contingency                                                        42,656              -               42,656
+   Total                                                             853,111            1,283           854,394
+
+200 - Special Revenue Funds
+Resources
+   Beginning Fund Balance                                             33,904              -              33,904
+   Property and Other Taxes                                              364              -                 364
+   Other Revenue from Local Sources                                   11,510              -              11,510
+   Intermediate Sources                                               21,660              -              21,660
+   State Sources                                                      86,273              -              86,273
+   Federal Sources                                                    68,661              -              68,661
+   Interfund Transfers                                                1,946               -              1,946
+   All Other Resources                                                   -                -                 -
+   Total                                                             224,318                  0         224,318
+
+Requirements
+   Instruction                                                        97,021            1,993            99,014
+   Support Services                                                   74,386           (1,576)           72,810
+   Enterprise and Community Svcs                                      30,056                (1)          30,055
+   Facilities Acquisition and Construction                                 15             -                   15
+   Debt Service                                                         417              (417)              -
+   Contingency                                                           -                -                 -
+   Unappropriated Ending Fund Balance                                 22,423              -              22,423
+   Total                                                             224,318                  0         224,318
+
+300 - Debt Service Funds
+Resources
+   Beginning Fund Balance                                              5,798             -                5,798
+   Property and Other Taxes                                          159,334             -              159,334
+   Other Revenue from Local Sources                                   93,348             165             93,513
+   Interfund Transfers                                                  619              -                 619
+   Total                                                             259,099              165           259,264
+
+Requirements
+   Debt Service                                                      259,099             -              259,099
+   Contingency                                                           -               165                165
+   Unappropriated Ending Fund Balance                                    -               -                  -
+   Total                                                             259,099              165           259,264
+400 - Capital Projects Funds
+Resources
+   Beginning Fund Balance                      560,916    (364)      560,552
+   Other Revenue from Local Sources             18,845     -          18,845
+   Intermediate Sources                         20,000     -         20,000
+   State Sources                                   650     -             650
+   Bond Proceeds & Premiums                    429,346     -         429,346
+   Interfund Transfers                          1,000      -          1,000
+   Total                                     1,030,758    (364)    1,030,393
+
+Requirements
+   Support Services                              1,954     -           1,954
+   Facilities Acquisition and Construction   1,027,821     -       1,027,821
+   Debt Service                                    364    (364)          -
+   Transfers of Funds                              619     -             619
+   Total                                     1,030,758    (364)    1,030,393
+
+600 - Internal Service Funds
+Resources
+   Beginning Fund Balance                       4,351      -           4,351
+   Other Revenue from Local Sources             8,244      (37)        8,207
+   Transfers of Funds                           8,972    3,979        12,951
+   Total                                       21,566    3,943        25,509
+
+Requirements
+   Support Services                            20,007    4,002        24,009
+   Debt Service                                    59       (59)         -
+   Contingency                                  1,500       -          1,500
+   Total                                       21,566     3,943       25,509
+
+All Funds Total                              2,388,852   5,027     2,393,878
+                                                                 Attachment A
+                                                          Portland Public Schools
+                                                 Adjustments to the 2024-25 Proposed Budget
+                                                               May 20, 2024
+                                                               (in thousands)
+
+                                                                  General Funds         Special
+    Proposed Resources                                                (100)          Revenue Funds      All Other Funds     Total Funds
+                                                                  $     853,111      $     224,318      $     1,311,423   $     2,388,852
+  Adjustments:
+1 Gen Fund BFB increase                                                     2,933                                                   2,933
+2 602 Services Provided Other Funds                                                                               3,979             3,979
+3
+  308 Increase in Contingency for PERS UAL Debt                                                                     165               165
+4 Decreases in revenue                                                                                            (364)             (364)
+  600 minor calculated adjustments to Workers Comp
+5
+  and Unemployment Comp fringe                                                                                     (37)              (37)
+6
+    Gen Fund Lease Proceeds reduction of SBITA                             (1,650)                                                (1,650)
+
+    Total Resource Changes                                                  1,283                   0             3,744             5,027
+
+
+    Recommended Approved Resource Budget                          $      854,394     $        224,318   $    1,315,167    $    2,393,878
+                                                                      General Funds       Special
+     Proposed Requirements                                                (100)        Revenue Funds    All Other Funds       Total Funds
+                                                                      $     853,111    $     224,318    $     1,311,423   $       2,388,852
+   Adjustments:                                            Function
+ 1 SPED Set-Aside in SIA - Paraeducators (21.57 FTE)         10000                             1,537                      $          1,537
+ 2 SPED Set-Aside in SIA - Licensed (3.4 FTE)                10000                               456                      $            456
+ 3 RESJ $2.6M contracts on SIA. Previously on ESSER          20000                             2,600                      $          2,600
+   Reduction for RESJ Contracts - Utilize Vacancy
+ 4
+   Savings in SIA                                            20000                            (2,600)                     $          (2,600)
+   SPED Set-Aside Offset - re-purposing of available
+ 5 resources from SIA allocations to departments under
+   Chief of Student Support Services                         20000                            (1,993)                     $          (1,993)
+   Safety & Security: Funding to support mandatory
+ 6 trainings and LT position to manage the trainings.
+   Previously on ESSER                                       20000               53                                       $             53
+   Safety & Security: Student Badges. Previously on
+ 7
+   ESSER                                                     20000               103                                      $            103
+ 8 RJ Rapid Response Personnel (3.0 FTE)                     20000               285                                      $            285
+ 9 Innovation Studios Manager - Vacant (1.0 FTE)             20000             (159)                                      $           (159)
+10 Transportation Dues & Fees                                20000             (386)                                      $           (386)
+11 Principal Coach (1.0 FTE)                                 20000             (221)                                      $           (221)
+12 Asst Dir-Acad Prgms Prof Dev (0.5 FTE)                    20000             (113)                                      $           (113)
+   Deputy Superintendent of Instruction & School
+13
+   Communities (1.0 FTE)                                     20000             (309)                                      $           (309)
+14
+   Fund 600 minor adjustments to calculated fringe rates     20000                                                  24    $             24
+15 Confidential Executive Asst II (1.0 FTE)                  20000             (135)                                      $           (135)
+   Increase in Property Services Project Management
+16
+   under Utility Services                                    20000              250                                       $             250
+17 Fund 205 Contingency                                      20000                               417                      $             417
+18 Reduce a director level position in Communications        20000             (207)                                      $            (207)
+19 602 Deductible Insurance Loss Liability                   20000                                                2,725   $           2,725
+20 602 Deductible Insurance Loss Property                    20000                                                  254   $             254
+21 602 Property Insurance Premiums                           20000                                                1,000   $           1,000
+22 SBITA reductions                                          50000           (1,855)            (417)             (424)   $          (2,696)
+23 Gen Fund Interfund Transfer to 602                        50000             3,979                                      $           3,979
+24 308 Contingency                                           60000                                                  165   $             165
+   Total Requirement Changes                                                   1,283               0              3,744                5,027
+
+
+     Recommended Approved Requirement Budget                          $     854,394    $     224,318    $    1,315,167    $      2,393,878
+

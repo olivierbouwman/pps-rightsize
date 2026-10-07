@@ -1,0 +1,188 @@
+Patte Sullivan (Zone 3; Audit Committee chair) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: YES on final (5-2), but YES on La Forte's framework amendment (failed 3-4) and SECONDED and voted YES on "will"->"may" (failed 2-5); seconded Engelsman's "boundary changes" sub-amendment (passed 6-0-1) (per minutes). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (Sullivan YES)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+
+EXCERPTS
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:17:07 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11827s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (seat order after Ritorto and before Splitt; short "can't think I have that much more to say" style; she then says "I think I answered them in order")
+  topic: east/west scope; link to seismic; Jefferson-style engagement; transportation
+  "So, um are we doing east and west side? [...] I can't think of a lot of empty schools on the west side, but that's what my question. [...] And we definitely have to um decide soon. I mean with seismic I mean we got to know which schools we're going to deal with. Um as far as engagement I think Jefferson worked really well. I like the idea of having something to look at that's kind of partially decided, making some choices. [...] Somebody brought up transportation and I hadn't thought about that."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion (virtual, observing)]
+  time 01:15:00 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4500s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (chair: "Director Sullivan, uh, is your hand newly up or")
+  topic: focus options pulling students from neighborhood schools
+  "Yeah, I think that Eddie summarized very well what you all said. Totally agree. I I think I've heard the problems that some of the neighborhood kids who want to go just to the neighborhood school, the schools have problems because so many leave to go um to um you know uh focus option schools. So I think that's something to look at."
+
+[2026-03-31 Board Special Meeting and Work Session - Growing Great Schools pair-share report-out (Denver resource)]
+  time 01:49:03 | https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6543s
+  source: transcripts/text/2026-03-31_Board_or_Education_Special_Meeting_and_Work_Session__QIfmGcbkkLE.txt
+  attribution: PROBABLE (after the regrouping, Sullivan and La Forte form the remaining pair. "Well, we don't exactly have a list, but we got ideas" opens the third report, and La Forte follows with her own notes. The short, plain style matches Sullivan's other remarks in this meeting)
+  topic: non-negotiables - well-resourced + neighborhood schools close to home; equal resourcing regardless of income
+  "So um we put down for non-negotiable Well, two things really. Well- well-resourced. I think everybody agrees with that, but also to have neighborhood schools so that there's kids can be close to their school and get there reasonably quickly. Um and then being careful to avoid though with that that the neighborhood schools don't get treated differently because of their whoever's going there or what the income level is. So that they goes with their other one as is well-resourced as everybody else."
+
+[2026-04-11 Rightsizing Public Engagement Session (Kellogg MS) - director opening remarks]
+  time 00:09:23 | https://www.youtube.com/watch?v=QV-at-0Mjzc&t=563s
+  source: transcripts/text/2026-04-11_Rightsizing_-_Board_of_Education_Public_Engagement_Session__QV-at-0Mjzc.txt
+  attribution: CONFIRMED (self-identifies: "my name is Patty Sullivan. I'm live in zone three")
+  topic: listening posture on "downsizing"
+  "I'm live in zone three, but obviously represent the whole district. And I'm, you know, nobody's looking forward to this to the downsizing. But I think we're just going to try our best and the best that we can do is by listening to you to get a lot of different ideas. You know what you need in this area. So, I'm here to listen."
+
+[2026-04-11 Rightsizing Public Engagement Session (Kellogg MS) - director closing report-back]
+  time 01:36:58 | https://www.youtube.com/watch?v=QV-at-0Mjzc&t=5818s
+  source: transcripts/text/2026-04-11_Rightsizing_-_Board_of_Education_Public_Engagement_Session__QV-at-0Mjzc.txt
+  attribution: PROBABLE (the next director says "to echo what Patty said here um about um Head Start", which matches this speaker's Head Start point)
+  topic: small schools; community services not counted; immersion programs pulling from neighborhood schools
+  "it seemed to me that the main focus of people I spoke to, they really wanted to keep their small schools small. and even um over getting at least K5 over getting specials in the classroom [...] we don't don't count Head Start right in their numbers [...] Um, and then I also heard quite a bit about how the immersion programs sometimes pull away from the school and that's a problem. So, I think we have to look at that. I know a lot of people like the immersion. We're not going to make of the perfect answer for everybody, but it sounds like that was a problem."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 1]
+  time 01:49:36 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6576s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "Uh let's move on to Director Sullivan.")
+  topic: supports "may" and the full amendment
+  "Well, a lot has been said. Um I definitely agree with the May there. That's easy. Um I like everything in the the whole what you added. What I guess you both had. Um I'm wondering I mean, why do we have to We have to postpone voting on this second amendment, the redline amendment, because why?"
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 2]
+  time 02:05:51 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7551s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "Thank you. Director Sullivan.")
+  topic: ready to vote amendment today; more engagement unlikely to change it
+  "I'd be happy to voting the whole thing in today. And especially when I just heard we don't have to go to staff. We um it's legal. We're okay. I could vote on the whole thing today. [...] I don't think what else what else are we going to come up with if with more engagement. There's so much there. And if there is, we can add something. So, I don't see why we have to wait."
+
+[2026-04-14 Board Regular Meeting - Future agenda: foundation policy pause request]
+  time 03:10:46 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=11446s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "Um Director Sullivan? Yeah. Um I would like to request an agenda item")
+  topic: budget constraints; pause local-foundation restrictions
+  "I would like the board to have an open discussion about putting a pause on foundation policy 7.20.010-P, which restricts local foundations and establishes a district-wide foundation. [...] We are facing budget constraints for the next few years. A temporary pause on the amendment would allow school foundations to raise money, some of which will be allocated to the fund as in the past, and will help it grow into the fund imagined by its supporters."
+
+[2026-04-20 Rightsizing Public Engagement Session (virtual) - board closing remarks]
+  time 01:27:52 | https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5272s
+  source: transcripts/text/2026-04-20_Rightsizing_-_Board_of_Education_Public_Engagement_Session__jBUIkfQZu-k.txt
+  attribution: CONFIRMED (host: "Let's move to zone three, Director Sullivan")
+  topic: differing community needs; board will work together
+  "we want every school to have everything. We want every child to have everything. And we can see from some of the comments that that the everything is different for different people. So, you know, we're trying to make it work for our whole community. Um, and I can say I'm very certain that this board will work together to do the very best we can in this situation because we all really do care."
+
+[2026-04-27 Rightsizing Public Engagement Session (Roosevelt HS) - board closing reflections]
+  time 01:08:47 | https://www.youtube.com/watch?v=2bSmBVuoajw&t=4127s
+  source: transcripts/text/2026-04-27_Rightsizing_-_Board_of_Education_Public_Engagement_Session__2bSmBVuoajw.txt
+  attribution: PROBABLE (speaker recounts lobbying in Salem and teaching at MLC, matching her intro "I taught in PPS"; Splitt later says "I actually agree with Patty that... neighborhood schools plus focus option", matching this speaker's content)
+  topic: state funding - Education Stability Fund; Salem
+  "we know what great schools look like. Um and I think think we definitely do. Um if they go down to Salem and put together a task force that cost a million dollars to tell us what it looks like, you'll make me really angry cuz we know what we need to do. [...] I found out there's an education stability fund of over a billion dollars that there's that's just sitting there. They won't even talk about giving it to us."
+
+[2026-04-27 Rightsizing Public Engagement Session (Roosevelt HS) - board closing reflections]
+  time 01:09:47 | https://www.youtube.com/watch?v=2bSmBVuoajw&t=4187s
+  source: transcripts/text/2026-04-27_Rightsizing_-_Board_of_Education_Public_Engagement_Session__2bSmBVuoajw.txt
+  attribution: PROBABLE (same speaker as above; Splitt: "I actually agree with Patty that I think having focus options that are neighborhood schools plus focus option is such a cool idea")
+  topic: hybrid neighborhood + focus option schools (Buckman/Sunnyside model)
+  "I also I'm really interested in the um having the neighborhood school and the focus together. That sounds like a you know, a win-win. I know Sunnyside does it as well. [...] I taught at MLC in the primary. And we had storyline. [...] It was just a project-based. It had music. It had a focus, it had art, and you all the kids got interested at the level where they could. So, I we weren't geniuses. It could be done everywhere, I think."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:44:37 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17077s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (speaks after La Forte, matching the DePass-La Forte-Sullivan seating order seen earlier; she reports on the Roosevelt session "last night", as the CONFIRMED Sullivan did in the foundation discussion: "we were at um Roosevelt last night"; the same speaker later describes going to Kellogg and asking staff for N/NE sessions)
+  topic: walkability and neighborhood schools (Kellogg session)
+  "Yeah, that's what I've noticed most. Everybody seems to love their school. Um, which was great and they're doing something right. um at Kellogg, the group I was in was really concerned about being walking distance to their school and feeling that if they weren't they the attendance would go down sometimes parents couldn't drive their kids to school. So that that was very very important to them more than having a lot of uh different programs"
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:45:37 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17137s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: neighborhood + focus co-located (Buckman/Sunnyside); K-8 preferred by attendees
+  "Um then at um Roosevelt talked quite a bit with two people who one from Buckman, well both from Buckman I guess, but also I talked to people from Sunnyside about having a neighborhood focused together. Um they seem to think that worked really well. [...] I also noticed they were almost all primary. Um I didn't hear anybody advocate for middle school. It was more K8 is most of the people that were there and I was surprised about that."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:46:38 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17198s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker, answering the superintendent's "is there a guiding principle that you would elevate")
+  topic: why families choose focus schools; wait lists; possibly more focus schools
+  "Um yes. I guess it's if there's a focus school, are people going there because they really want that focus or are they're not happy in their neighborhood school? And if they're not happy in their neighborhood school, why? Why? [...] I think there's long waiting list so maybe there's room to have more focus schools that um well that in fact I asked for waiting lists for all the focus schools which I think I'll be getting pretty soon. And if there's a demand for a certain focus, can we have more schools with that focus?"
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 05:03:52 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18232s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same Kellogg-attending speaker; "after I went to Kellogg")
+  topic: broaden engagement (survey to whole community; N and NE sessions)
+  "I would really love to see the sliders sent out to our entire community because we I don't really want to just hear from people who are able to come to our five listening sessions. I don't know. It should just go out to everybody. Um and I want to hear from more people and that's why after I went to Kellogg the next morning I sent you that email saying, "Can we please have one in Northeast and one in North because it's so far to get down to Kellogg.""
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 05:08:53 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18533s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (returns to the same Buckman/Sunnyside conversation she described at 04:45:37)
+  topic: lottery/neighborhood split at Buckman; fill wait lists
+  "there was a Buckman parent who specifically asked at the listening session and someone else said Buckman and Sunnyside. I learned that they're half neighborhood and half lottery. And so if the neighborhood shrinks, the lottery necessarily shrinks as well. [...] So they were saying do we have to be stuck with an exact 50/50 or can we negotiate that? So that would be something I would like to explore."
+
+[2026-05-05 Board of Education Retreat - policy design framework / guardrails vs guidelines]
+  time 00:36:52 | https://www.youtube.com/watch?v=QaqhAhHyy7M&t=2212s
+  source: transcripts/text/2026-05-05_Board_of_Education_Retreat__QaqhAhHyy7M.txt
+  attribution: CONFIRMED (the facilitator recognizes her right before: "Yeah, Patty. >> Well, garbles [guardrails]...". A ">>" appears mid-quote, so the second sentence is slightly less certain)
+  topic: asks whether the board has guardrails for rightsizing community engagement
+  "Well, garbles [guardrails] have always been our way to figure out what they are, you know. So, um, and you know, you mentioned some, but that would be so obvious. I mean, that not guard rail, that's just makes sense. So, >> we're going to guard our rails when we're doing our community um you know trying to get from the community what we want for ride [rightsizing]. Do we have guard rails?"
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:44:21 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17061s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (Sullivan slot in rotation after La Forte; matches her CONFIRMED later "perfectly fine the way it is")
+  topic: comfortable with draft; Oregon PTA consolidation guidance
+  "I'm pretty happy with the way it is. As I remember, there is a calendar somewhere about how we're planning this, isn't there? [...] I looked at the results from the village table which I was interested in. They're fairly similar to the other results, not that different. [...] someone I parent I guess uh sent me Oregon PTA school consolidation advisory guidance. [...] I read through it and it it sounds like we're doing it. So I felt pretty good about that."
+
+[2026-05-13 Budget Hearing and Work Session - board clarifying questions]
+  time 01:30:05 | https://www.youtube.com/watch?v=4i9CyWKUzd4&t=5405s
+  source: transcripts/text/2026-05-13_026-27_Board_of_Education_Budget_Hearing_and_Work_Session__4i9CyWKUzd4.txt
+  attribution: CONFIRMED (same speaker continuing after staff answer her RESJ and principal-discretionary questions; next speaker is then recognized: "director for.")
+  topic: budget trade-offs
+  "And of course, this is probably obvious, but I want everybody to know that if we give money back to one thing, then we got to take it away from another thing. So, this is just so very, very difficult."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion (first speaker)]
+  time 01:45:39 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6339s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: CONFIRMED (chair: "Why don't we start with Director Sullivan", and she speaks immediately)
+  topic: support for the guiding principles as reflecting engagement
+  "Well, for me there's not too much to discuss. This is what we've been talking about for all the meetings and you seem to have brought it together very well. Um certainly it's what I heard when I was there. So, I appreciate it. And really don't have anything to add. I think it's you've put down what we heard. I appreciate it."

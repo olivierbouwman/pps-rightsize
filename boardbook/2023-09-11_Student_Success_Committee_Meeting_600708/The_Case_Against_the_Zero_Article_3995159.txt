@@ -1,0 +1,129 @@
+The Case Against the Zero
+Even those who subscribe to the “punishment” theory of grading might
+want to reconsider the way they use zeros, Mr. Reeves suggests.
+
+
+
+
+                                0
+BY DOUGLAS B. REEVES
+
+
+                 HIS IS not a trick question. If you are using a
+
+
+
+
+T
+                 grading scale in which the numbers 4, 3, 2, 1,
+                 and 0 correspond to grades of A, B, C, D, and F,
+                 then what number is awarded to a student who
+                 fails to turn in an assignment? If you responded
+                 with a unanimous chorus of “zero,” then you may
+                 have a great deal of company. There might be a
+                 few people who are familiar with the research that
+asserts that grading as punishment is an ineffective strategy,1 but
+many of us curmudgeons want to give the miscreants who failed
+to complete our assignments the punishment that they richly
+                                                                                                                      t: F
+deserve. No work, no credit — end of story.                                                                   ssignmen
+                                                                                                    Missing a
+
+   Groups as diverse as the New York State United Teachers and the Thomas Ford-
+ham Foundation rally around this position.2 Let us, for the sake of argument, ac-
+cept the point. With the grading system described above, the failure to turn in
+work would receive a zero. The four-point scale is a rational system, as the incre-
+ment between each letter grade is proportionate to the increment between each
+numerical grade — one point.
+   But the common use of the zero today is based not on a four-point scale but on
+a 100-point scale. This defies logic and mathematical accuracy. On a 100-point
+scale, the interval between numerical and letter grades is typically 10 points, with
+the break points at 90, 80, 70, and so on. But when the grade of zero is applied
+to a 100-point scale, the interval between the D and F is not 10 points but 60
+points. Most state standards in mathematics require that fifth-grade students un-
+DOUGLAS B. REEVES is the chairman and founder of the Center for Performance Assessment,
+Boston, Mass. His most recent publications are Assessing Educational Leaders (Corwin Press, 2004)
+and Accountability for Learning (Association for Supervision and Curriculum Development, 2004).
+
+
+324    PHI DELTA KAPPAN
+derstand the principles of ratios — for example, A is           point scale for missing work is a mathematical inaccur-
+to B as 4 is to 3; D is to F as 1 is to zero. Yet the per-      acy.
+sistence of the zero on a 100-point scale indicates that            If I were using a four-point grading system, I could
+many people with advanced degrees, including those              give a zero. If I am using a 100-point system, however,
+with more background in mathematics than the typ-               then the lowest possible grade is the numerical value
+ical teacher, have not applied the ratio standard to their      of a D, minus the same interval that separates every
+own professional practices. To insist on the use of a           other grade. In the example in which the interval be-
+zero on a 100-point scale is to assert that work that is        tween grades is 10 points and the value of D is 60,
+not turned in deserves a penalty that is many times             then the mathematically accurate value of an F is 50
+more severe than that assessed for work that is done            points. This is not — contrary to popular mythology
+wretchedly and is worth a D. Readers were asked ear-            — “giving” students 50 points; rather, it is awarding
+lier how many points would be awarded to a student              a punishment that fits the crime. The students failed
+who failed to turn in work on a grading scale of 4, 3,          to turn in an assignment, so they receive a failing grade.
+2, 1, 0, but I’ll bet not a single person arrived at the        They are not sent to a Siberian labor camp.
+answer “minus 6.” Yet that is precisely the logic that              There is, of course, an important difference. Sen-
+is employed when the zero is awarded on a 100-point             tences at Siberian labor camps ultimately come to an
+scale.                                                          end, while grades of zero on a 100-point scale last for-
+    There are two issues at hand. The first, and most im-       ever. Just two or three zeros are sufficient to cause fail-
+portant, is to determine the appropriate consequence            ure for an entire semester, and just a few course failures
+for students who fail to complete an assignment. The            can lead a student to drop out of high school, incurring
+most common answer is to punish these students. Evi-            a lifetime of personal and social consequences.
+dence to the contrary notwithstanding, there is an al-              This issue is as emotional as anything I have encoun-
+most fanatical belief that punishment through grades            tered since the phonics versus whole language debate.
+will motivate students. In contrast, there are at least a       Scholars regress to the persuasive tactics of professional
+few educators experimenting with the notion that the            wrestlers (no offense intended to wrestlers — this arti-
+appropriate consequence for failing to complete an as-          cle will generate enough hate mail as it is), and research
+signment is to require the student to complete the as-          and logic are subordinated to vengeance masquerading
+signment. That is, students lose privileges — free time         as high standards. Because the emotional attachment to
+and unstructured class or study-hall time — and are             the zero is so strong, I have given up advocating that
+required to complete the assignment. The price of free-         50 points should represent the lowest grade. What I do
+dom is proficiency, and students are motivated not by           think we can do to preserve some level of sanity in our
+threats of failure but by the opportunity to earn greater       grading system is to return to a four-point system. A’s
+freedom and discretion by completing work accurately            no longer equal 100 points, but four points. If there is
+and on time. I know my colleagues well enough to un-            a need for greater specificity, then we can choose an in-
+derstand that this argument will not persuade many of           finite number of digits to the right of the decimal point
+them. Rewards and punishments are part of the psyche            and thus differentiate between the 3.449 and 3.448
+of schools, particularly at the secondary level.                to our heart’s content. But at the end of the day in such
+    But if I concede this first point, the second issue is      a system, the F is a zero — one point below the D. It
+much more straightforward. Even if we want to pun-              is fair, accurate, and, some people may believe, moti-
+ish the little miscreants who fail to complete our assign-      vational. But at least the zero on a four-point scale is
+ments — and I admit that on more than one occasion              not the mathematical travesty that it is when applied to
+with both my students and my own children, my emo-              a 100-point system.
+tions have run in that direction — then what is the fair,
+appropriate, and mathematically accurate punishment?            1. Thomas R. Guskey and Jane M. Bailey, Developing Grading and Re-
+                                                                porting Systems for Student Learning (Thousand Oaks, Calif.: Corwin Press,
+However vengeful I may feel on my worst days, I’m               2001).
+fairly certain that the appropriate punishment is not the       2. Clarisse Butler, “Are Students Getting a Free Ride?,” New York Teacher,
+electric chair. Even if I were to engage in a typically fact-   2 June 2004, available at www.nysut.org/newyorkteacher/2003-2004/
+free debate in which my personal preference for pun-            040602grading.html; and Thomas B. Fordham Foundation, “Mini-
+                                                                mum Grades, Minimum Motivation,” The Education Gadfly, 3 June
+ishment were elevated above efficacy, I would never-            2004, available at www.edexcellence.net/foundation/gadfly/issue.cfm?id=
+theless be forced to admit that giving a zero on a 100-         151#1850.                                                              K
+
+
+
+                                                                                                           DECEMBER 2004             325
+File Name and Bibliographic Information
+k0412ree.pdf
+
+Douglas B. Reeves, "The Case Against the Zero," Phi Delta Kappan,
+Vol. 86, No. 4, December 2004, pp. 324-325.
+
+
+
+
+Copyright Notice
+Phi Delta Kappa International, Inc., holds copyright to this article, which
+may be reproduced or otherwise used only in accordance with U.S. law
+governing fair use. MULTIPLE copies, in print and electronic formats, may
+not be made or distributed without express permission from Phi Delta
+Kappa International, Inc. All rights reserved.
+
+Note that photographs, artwork, advertising, and other elements to which
+Phi Delta Kappa does not hold copyright may have been removed from
+these pages.
+
+Please fax permission requests to the attention of Kappan Permissions
+Editor at 812/339-0018 or e-mail permission requests to
+kappan@pdkintl.org.
+

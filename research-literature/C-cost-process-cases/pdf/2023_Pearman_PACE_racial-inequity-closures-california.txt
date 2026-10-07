@@ -1,0 +1,1049 @@
+                                                                     WORKING PAPER
+
+Examining Racial (In)equity in School-
+Closure Patterns in California
+Francis A. Pearman, II, Camille Luong, and Danielle Marie Greene
+Stanford University
+
+
+
+This study investigates racial disparities in school closures both within California and nationally.
+Findings highlight an alarming pattern: Schools enrolling higher proportions of Black students are
+at significantly increased risk of closure relative to those enrolling fewer Black students, a pattern
+that is more pronounced in California than elsewhere in the United States. This study also finds
+that conventional explanations for school closures—such as declining enrollments, poverty rates,
+and achievement differences—cannot fully account for why schools enrolling larger shares of
+Black students have greater odds of closure. These findings underscore that school closures in
+California and elsewhere reflect racial inequalities that require adequate policymaking to ensure
+equitable and fair school-closure proceedings.
+
+VERSION: September 2023
+
+
+
+Acknowledgements
+The authors thank Carrie Hahnel, Heather Hough, and Max Marchitello for their invaluable support as this work
+transpired. We would also like to express our gratitude towards the Dirk and Charlene Kabcenell Foundation for
+their generous support of this research. As with all publications from PACE, this report underwent considerable
+scrutiny to ensure its factual precision and integrity in research. The authors fully accept responsibility for the
+accuracy of the contents presented within.
+
+
+Citation: Pearman, F. A., II, Luong, C., & Greene, D. M. (2023). Examining racial (in)equity in school-closure
+patterns in California [Working paper]. Policy Analysis for California Education. edpolicyinca.org/publications/
+examining-racial-inequity-school-closure-patterns-california
+
+
+
+
+                                               edpolicyinca.org
+                                                   Introduction
+
+           California K–12 public schools are in an unprecedented enrollment crisis. Because of a
+    decrease in birth rates, an upsurge of nontraditional education options, and a rapid resorting
+    of the state’s residential population, including a marked decline in the state population since
+    2019, many elementary, middle, and high schools across California are enrolling fewer students
+    than ever before. Between 2007 and 2022, California saw enrollment in K–12 schools decrease
+    by more than 390,000 students: a decline of more than 6 percent (California Department
+    of Education, 2023). Additionally, because rising living costs are forcing more households to
+    relocate out of state, enrollment rates are expected to decrease by another 524,000 students
+    over the next 10 years (California Department of Finance, 2022). Since districts are mainly funded
+    based on average daily attendance, declining enrollments have translated into funding shortfalls
+    that have given rise to a prominent cost-cutting and district-realignment strategy: school closures.
+
+            Between 2012 and 2021, nearly 700 schools across the state were closed, resulting in
+    roughly 167,000 students being displaced (Hahnel & Marchitello, 2023). The issue of school
+    closures is not unique to California, though. Approximately 2 percent of U.S. schools close
+    annually, translating into thousands of closures affecting nearly 100,000 children each year
+    (Gallagher & Gold, 2017). For instance, Michigan experienced almost 250 middle and elementary
+    school closures between 2006 and 2009 (Brummett, 2014). Similarly, from 2006 to 2012, districts
+    across Ohio closed nearly 200 schools (Carlson & Lavertu, 2015). Undoubtedly, the decision to
+    close a school is rarely an easy choice or a simple process, with calls to close schools, even as a
+    means for enhancing educational opportunities or balancing budgets, frequently encountering
+    fierce resistance from students, teachers, and community members alike, who often perceive
+    such closures as a breach of trust and an infringement on their right to quality education in their
+    local community (Ewing, 2018; Green, 2017).
+
+              A commonly raised objection that reflects and foregrounds the longstanding issue of racial
+    inequality in U.S. education is that school closures disproportionately affect schools of color,
+    particularly Black schools. Despite compelling anecdotal evidence and several high-profile cases
+    of school closure that have garnered significant media attention (Bierbaum, 2021), the empirical
+    literature about the racial dimensions of school closures is surprisingly limited (Duncan-Shippy,
+    2019; Tieken & Auldridge-Reveles, 2019). For example, is school closure, in fact, more common
+    for schools that predominantly serve students of color compared with schools that enroll
+    larger shares of White students? If so, are these elevated closure rates explained by common
+    justifications for closure, such as poor achievement or declining enrollment, or by proxies or
+    analogs for racial composition, such as urbanicity or perhaps charter status? This report seeks
+    to fill this gap in the literature by drawing data from the universe of public schools and exploring
+    racial disproportionality in patterns of school closure in California and nationwide.
+
+
+
+
+1   Examining Racial (In)equity in School-Closure Patterns in California
+                                                    Background
+
+    Justifications for School Closure
+
+             Closing a school involves complex considerations that can be divided into two broad
+    areas: budgetary and enrollment justifications on the one hand and performance-related
+    justifications on the other. Budgetary and enrollment reasons are typically related to financial
+    constraints that lead a district to close underutilized schools. According to this reasoning,
+    closing an underenrolled school is often seen as a viable option for reallocating resources and
+    maximizing quality across schools. On the other hand, reasons based on academic achievement
+    focus on student performance and the need to ensure that all students have access to schools
+    that exceed minimum standards of quality. Schools that consistently fall below this standard,
+    however measured, face potential closure.
+
+             Prior research has examined how these justifications have played out in districts across
+    the country. For instance, in a study of a midsized urban district, Engberg et al. (2012) found that
+    “financial distress” was a primary factor in closing schools. This district had been experiencing
+    declining enrollment for several years, and to reduce costs and balance its budget, the district
+    needed to close a substantial number of schools. In a study of school closures in Philadelphia in
+    the 2000s, Good (2017) noted the enrollment pressures brought on by the expansion of charter
+    schools—that is, traditional public schools facing declining enrollment due to charter schools
+    enrolling students previously served by the traditional schools. By 2011, the Philadelphia school
+    district’s budget deficits pushed district leaders to confront significant underenrollment at several
+    traditional public schools in the city. A year later, in 2012, enrollment losses and significant state
+    funding cuts led to one sixth of district-operated schools being closed.
+
+            Justifications leading to school closures go beyond fiscal and enrollment issues. Academic
+    achievement can also figure into these deliberations. The roots of this justification date back, in
+    part, to the passing of the federal K–12 education legislation No Child Left Behind (NCLB) in 2001.
+    Prompted by this legislation, districts nationwide began engaging more aggressively in punitive
+    reforms to respond to “failing” schools. Schools with persistently low academic achievement
+    could be met with seismic changes: charter refashioning, state takeover, administrative and staff
+    restructuring, contracting with a different school district, or even closure. In the aftermath of
+    NCLB’s implementation in 2001, the threat of closure gained traction as a strategy for improving
+    education outcomes in struggling schools. National trends indicate that school closures have
+    increased since the turn of the 21st century (National Center for Education Statistics, 2021). By
+    the end of the 2004 school year, 2,168 schools closed nationwide, an increase of 81.5 percent
+    from the pre-NCLB academic year of 2000–01 (Green, 2017). The era of retributive whole-school
+    accountability and market-based education pressures swept the country and left many empty
+    buildings in its wake.
+
+
+
+
+2   Examining Racial (In)equity in School-Closure Patterns in California
+    What Closures Mean for Students and Communities
+
+            The fierce debates that often accompany school-closure deliberations reveal firmly held
+    beliefs across various stakeholders about the purported benefits or harms that closures may bring
+    about. Yet there is a surprisingly limited amount of empirical research on the impacts of school
+    closures on students and communities (de la Torre & Gwynne, 2009; Sunderman & Payne, 2009).
+    Moreover, the evidence that does exist is inconclusive.
+
+            Most studies examining school closures’ impacts on student-level outcomes have
+    focused on academic achievement and have arrived at mixed conclusions. Engberg et al. (2012),
+    examining an anonymous urban school district, and Brummett (2014), studying Michigan public
+    schools, found no evidence that school closures affected student achievement. Similarly, other
+    investigations examining school closures in Chicago and Washington, D.C., found little evidence
+    that school closures affected academic performance among displaced students (de la Torre &
+    Gwynne, 2009; Özek et al., 2012). In contrast, research conducted in New Orleans and Ohio
+    found evidence that school closures increased the academic achievement of displaced students
+    following closure (Bross et al., 2016; Carlson & Lavertu, 2015). At least one study has found
+    negative effects, though. Gordon et al. (2018), examining school closures in Chicago, documented
+    adverse effects on displaced students’ math and reading achievement. Of the few studies that
+    examined noncognitive and behavioral outcomes, Engberg et al. (2012) found that displaced
+    students experienced elevated absenteeism rates during the year following closure. In contrast,
+    Gordon and colleagues (2018) found no evidence that school closures affected suspension or
+    absentee rates among displaced students.
+
+            Interestingly, recent research has indicated that one mechanism that may contribute
+    to achievement impacts is the difference in quality between the closed school and the school
+    that displaced students subsequently attend. This research has shown that school closures can
+    result in increased academic success for uprooted learners if they enroll in new schools that are
+    academically superior to the schools they previously attended. For instance, research conducted
+    on elementary school closures in Chicago, Michigan, and Ohio reveals that students who
+    attended higher performing schools than the closed schools they previously attended tended
+    to have significantly higher academic gains in the years after closure (Brummett, 2014; Carlson
+    & Lavertu, 2015; de la Torre & Gwynne, 2009). However, research has shown that the travel
+    associated with attending a new school, regardless of its quality, can affect other outcomes of
+    interest. For instance, Steinberg and McDonald (2019) found that students who were displaced
+    because of closure had a higher number of absences and suspensions as the distance between
+    their new school and home increased.
+
+
+
+
+3   Examining Racial (In)equity in School-Closure Patterns in California
+            Notably, the effects of school closures on student outcomes are not limited to displaced
+    students. Several studies have examined what is commonly called “spillover effects” concerning
+    students attending the schools that receive displaced students. For example, Engberg et al. (2012)
+    observed no detrimental impact on academic performance for students attending receiving
+    schools; Gordon et al. (2018) noted short-term adverse effects lasting up to one year on the
+    achievement levels of receiving-school students; and Brummet’s (2014) findings indicated that
+    adverse spillover effects persisted over multiple years, affecting the academic outcomes of those
+    in receiving schools following a school closure. Furthermore, Brummet found that an increase
+    in displaced students at a particular receiving school corresponded with negative effects on
+    student achievement. Similarly, Steinberg and McDonald (2019) found that students’ academic
+    performance in receiving schools decreased when displaced students were a higher proportion
+    of the student body at the receiving schools.
+
+            The research that has been done about community-level impacts has largely been
+    qualitative and has focused on the social costs of school closures as well as community
+    resistance and organizing efforts that take place. For example, Ewing (2018) examined large-scale
+    school closures in Chicago’s Bronzeville district following the demolition of public housing in
+    the early to mid 2010s. Ewing’s findings frame the importance of school in the social context of
+    a neighborhood, arguing that schools are more than a place where students learn and teachers
+    teach; they also operate as historical landmarks and identity-shaping institutions for communities.
+    She coins the term “institutional mourning,” which she defines as “the social and emotional
+    experience undergone by individuals and communities facing the loss of a shared institution
+    they are affiliated with … especially when those individuals or communities occupy a socially
+    marginalized status that amplifies their reliance on the institution or its significance in their lives”
+    (p. 127).
+
+            Others have researched community organizers’ techniques and strategies to respond to
+    and fend off closures within this context. For example, Syeed (2019) examined school closures
+    that took place in Washington, D.C., in 2013 and determined that community organizers
+    used “counterframes” in their organizing efforts by challenging arguments of inevitability, data
+    drivenness, and political neutrality of school-closure proceedings, a finding echoed by Green
+    (2017) in a study of how leaders in a Midwestern U.S. city reopened a high school that its district
+    had decided to close. The motivation for these organizing efforts is rooted in equity concerns
+    and closures’ potential long-term impact on the community. The growing body of quantitative
+    research that has examined community-level effects of school closures provides some evidence
+    to support these concerns. For instance, Pearman and Greene (2022) drew national data on
+    school closures and neighborhood conditions and found that school closures exacerbated
+    gentrification in low-income Black communities. This finding suggests that shutting down
+    schools not only affects the education landscape, as others have noted, but also serves as a
+    representation of a broader geographical and racial restructuring within U.S. cities that may lead
+    to the dispossession and displacement of Black communities.
+
+
+4   Examining Racial (In)equity in School-Closure Patterns in California
+            In sum, these findings suggest that school-closure impacts and reactions are highly varied
+    and far from settled in the literature. While it is true that such closures are often justified on
+    educational grounds, either fiscal or achievement related, the impact they have on communities
+    goes far beyond these narrow considerations. In particular, marginalized communities and those
+    heavily reliant on their local schools can suffer significant social and emotional consequences
+    because of closure. Given this reality, it is crucial to examine inequalities along racial lines when
+    examining patterns of school closure. By doing so, scholars, practitioners, administrators, and
+    policymakers can better understand how closures affect different populations and why certain
+    groups may be disproportionately affected in ways that others are not. All told, it is clear that any
+    discussion around school closure must consider the full range of factors at play—from economic
+    realities to sociocultural dynamics—if we hope to arrive at solutions capable of addressing the
+    many complexities of school closures.
+
+          The purpose of the current study is to examine patterns of school closure in California
+    and across the U.S. and determine the extent to which these closures disproportionately affect
+    schools of color. The following research questions guided this study:
+
+            1. Are school closures more likely to occur among schools that enroll higher shares of
+               students of color?
+            2. Are potential elevated closure rates for schools that predominately serve students
+               of color explained by observable differences across schools, including achievement
+               levels, enrollment patterns, and socioeconomic characteristics?
+
+
+
+                                                       Method
+
+    Data
+
+             This study merged several national data sets to examine racial disproportionality in school
+    closures in California and nationwide. The study relied on the National Center for Educational
+    Statistics’ Common Core of Data from 2000 to 2018 to gather information on school closures
+    and other school and district characteristics. This study also utilized school-level achievement
+    statistics from the Educational Opportunity Project (EOP). Note that EOP provides achievement
+    information for the subset of schools containing at least one grade level tested annually on state
+    assessments (Grades 3 through 8) and is limited to 2008–16. Therefore, this study reports two
+    sets of results: The first pertains to the universe of public schools in California and nationwide
+    from 2000 to 2018, and the second pertains to the subset of schools in the EOP database,
+    limited primarily to elementary and middle schools, spanning from 2008 to 2016, which allows
+    for additional analyses of the extent to which achievement differences account for any observed
+    racial disparities in school closures.
+
+
+
+
+5   Examining Racial (In)equity in School-Closure Patterns in California
+    Primary Outcome of Interest
+
+           The National Center for Educational Statistics’ Common Core of Data was used to gather
+    information on school features, including operational codes that indicate whether a school
+    was closed permanently in the preceding year. For analytical purposes, this study concentrated
+    solely on the closures of traditional public schools while excluding vocational schools, special
+    education institutions, and those classified as “other.”
+
+    Independent Variable of Interest
+
+            The primary analysis examines the relationship between school closures and linear measures
+    of school racial composition (i.e., percentage Black or percentage Latinx). These linear measures
+    allow for an understanding of how closure rates change as the share of Black or Latinx students
+    changes. Supplementary results are included in Appendix A that measure racial composition
+    based on an indicator of “predominately minority-serving” status—that is, schools in which Black or
+    Latinx students comprise the largest racial group at a school. In contrast to the linear measure of
+    school racial composition, this threshold measure concerns the relative likelihood of closure for
+    predominately minority-serving schools versus those that are not. Of note, substantive conclusions
+    about the relationship between school closures and school racial composition are similar based
+    on these alternative thresholds and measures. (See Appendices A and B.)
+
+    Covariates
+
+             As previously mentioned, school closures are typically justified by budgetary or
+    achievement-related factors. Moreover, studies have shown that certain geographic locations
+    and types of educational institutions are more susceptible to school closures than others.
+    Accordingly, this study aims to investigate racial disproportionality in the occurrence of school
+    closures before and after accounting for these factors. Specifically, this study seeks to determine
+    if alternative explanations based on these factors can account for any disproportionate rates of
+    closure observed among schools serving students of color.
+
+             For instance, prior research has shown that schools of choice, specifically charter schools,
+    are more likely to close than traditional schools (Carlson & Lavertu, 2015; Farmer et al., 2020).
+    Moreover, prior research has suggested that closures may be more likely to occur in urban areas
+    (Carlson & Lavertu, 2015; Ewing & Green, 2022) and among elementary and middle schools
+    that may have a higher likelihood of consolidation than high schools (Duncombe & Yinger, 2010).
+    Consequently, this study controls for school-status indicators: charter status, urbanicity, and
+    grade level. Additionally, school poverty is correlated with a host of factors that may contribute
+    to a school’s likelihood for closure, including per-pupil expenditures, teacher quality, age of
+    facilities, and organizational leadership. Consequently, this study controls for school poverty as
+    a global measure of school composition. Moreover, given that the presence of Asian American
+
+
+6   Examining Racial (In)equity in School-Closure Patterns in California
+    students may vary systematically from that of White students in determining the factors, attitudes,
+    and processes that lead to school closures (Nuamah, 2020), this study also controls for the
+    percentage of students in each school who identify as Asian American.
+
+           Another common justification for school closure pertains to enrollment and enrollment
+    trends—specifically, underenrolled schools or those that have experienced recent declines in
+    enrollment are more likely to close than others (DeAngelis & Flanders, 2019). Therefore, this study
+    controls for a school’s average daily attendance and whether a school has experienced a drop
+    in enrollment during the previous 3 years. Moreover, a broader set of factors at the district level
+    may contribute to the likelihood that a given district is compelled to close schools. These factors,
+    broadly defined as district strain, include per-pupil expenditures, poverty rates, the amount of
+    school choice—operationalized as the percentage of district schools that are charters—total
+    enrollment, and, as a proxy for teacher workload, average student–teacher ratios. Finally, prior
+    research has suggested that school performance is a key driver of closure decisions. In particular,
+    schools with poor achievement are more likely than others to face closure (Ewing & Green,
+    2021). This study, therefore, controls for average schoolwide achievement levels in math and
+    English language arts (ELA) in the EOP subsample of schools.
+
+    Analytic Strategy
+
+            The study uses hazard models to investigate the association between school closures
+    and a school’s racial composition. Hazard models are suitable for analyzing censored data when
+    the aim is to model the time until an event happens, as not all schools were closed within the
+    study period. The model uses a discrete-time hazard model that estimates the probability, h ,
+                                                                                                 it
+    that a school was closed in year t, given that it was open in the preceding year, according to the
+    following specification:
+
+
+
+
+            The intercepts α are specific to each year from 2000 to 2018. The model also includes
+                               t
+    a vector of time-varying characteristics, X , representing the groups of factors outlined in the
+                                                 it
+    previous section pertaining to school status, school composition, enrollment trends, achievement
+    levels, and district strain. The unit of observation is the school year, and the model uses all
+    observations from the baseline year and either the year of closure or 2018 (2016, for the EOP
+    subsample), whichever comes first. State fixed effects, λ, control for state-level variations in
+    school-closure policies. The coefficient of interest is that for ShareMinoritized , as it measures
+                                                                                      it
+    the likelihood of closure associated with a 10-percentage-point increase in the share of Black (or
+    Latinx) students at the school.
+
+
+
+
+7   Examining Racial (In)equity in School-Closure Patterns in California
+    Table 1. Means of Key Variables for Nonclosed and Closed Schools, 2000–18
+
+                                                             U.S. Schools                    California Schools
+
+                                                 Nonclosed                  Closed     Nonclosed            Closed
+
+     School characteristics
+
+     Percentage Black                               0.15                     0.27        0.07                 0.14
+
+                                                   (0.25)                    (0.35)      (0.11)              (0.22)
+
+     Percentage White                               0.59                     0.54        0.32                 0.32
+
+                                                   (0.34)                    (0.38)      (0.27)              (0.30)
+
+     Percentage Latinx                              0.18                     0.15        0.47                 0.41
+
+                                                   (0.25)                    (0.23)      (0.30)              (0.29)
+
+     Student–teacher ratio                         16.63                     16.15       22.43               19.45
+
+                                                  (113.22)                  (29.96)     (34.89)              (8.19)
+
+     Percentage FRPL                                0.48                     0.57        0.54                 0.54
+
+                                                   (0.28)                    (0.29)      (0.30)              (0.32)
+
+     Total enrollment                              551.80                   239.48      725.89              296.07
+
+                                                  (443.77)                  (278.18)    (581.41)            (322.46)
+
+     Declining enrollment                           0.57                     0.58        0.61                 0.55
+
+                                                   (0.49)                    (0.49)      (0.49)              (0.50)
+
+     Urban                                          0.26                     0.33        0.40                 0.40
+
+                                                   (0.44)                    (0.47)      (0.49)              (0.49)
+
+     Charter                                        0.05                     0.13        0.09                 0.33
+
+                                                   (0.21)                    (0.34)      (0.28)              (0.47)
+
+     Magnet                                         0.03                     0.02        0.05                 0.02
+
+                                                   (0.17)                    (0.15)      (0.21)              (0.14)
+
+     Elementary                                     0.60                     0.56        0.68                 0.52
+
+                                                   (0.49)                    (0.50)      (0.47)              (0.50)
+
+     Middle school                                  0.18                     0.19        0.16                 0.16
+
+                                                   (0.39)                    (0.39)      (0.37)              (0.36)
+
+     High school                                    0.18                     0.13        0.14                 0.18
+
+                                                   (0.39)                    (0.33)      (0.35)              (0.38)
+
+
+    Table continued on next page.
+
+
+
+
+8   Examining Racial (In)equity in School-Closure Patterns in California
+                                                                    U.S. Schools                        California Schools
+
+                                                       Nonclosed                   Closed        Nonclosed               Closed
+
+     District characteristics
+
+     Total enrollment                                   35,709.89              32,557.22          81,536.29            68,783.11
+
+                                                       (104,615.22)           (102,837.07)       (191,876.03)         (171,777.98)
+
+     Per-pupil expenditures                             11,364.75              12,659.99          10,819.79            12,355.97
+
+                                                        (5,345.11)             (7,855.69)         (6,007.21)           (11,239.49)
+
+     Expanded school choice                                0.05                     0.06             0.09                 0.10
+
+                                                          (0.21)                   (0.24)           (0.29)               (0.30)
+
+     Avg. student–teacher ratio                           16.00                    15.72            22.00                20.96
+
+                                                          (22.06)                  (15.83)          (6.39)               (3.76)
+
+     Percentage Black                                      0.15                     0.23             0.07                 0.09
+
+                                                          (0.35)                   (0.29)           (0.07)               (0.10)
+
+     Percentage White                                      0.59                     0.56             0.32                 0.34
+
+                                                          (0.63)                   (0.42)           (0.24)               (0.26)
+
+     Percentage Hispanic                                   0.18                     0.16             0.47                 0.42
+
+                                                          (0.26)                   (0.21)           (0.25)               (0.24)
+
+     Percentage FRPL                                       0.46                     0.53             0.53                 0.53
+
+                                                          (1.16)                   (0.23)           (0.24)               (0.22)
+
+     Observations =                                     1,278,342                  11,937          123,299                848
+
+
+    Note. FRPL = free or reduced-price lunch. The first two columns refer to all U.S. schools. The second two columns refer to
+    California schools. The first and third columns refer to nonclosed schools. The second and fourth columns refer to closed schools.
+    Standard deviations are in parentheses.
+
+
+                                                               Results
+
+    Descriptive Analysis
+
+            Table 1 presents a descriptive analysis of school closures nationwide and in California
+    between 2000 and 2018. The first two columns refer to U.S. schools. The second two columns
+    refer to schools in California. The odd columns refer to schools that remained open. The even
+    columns refer to schools that closed. First, when considering U.S. schools in general, schools
+    that closed compared with those that remained open were generally more socioeconomically
+    disadvantaged and enrolled higher shares of Black students and fewer White students. Compared
+    with schools that remained open, schools that closed had free-and-reduced-price lunch rates
+    that were 9 percentage points higher, a share of Black students that was 12 percentage points
+    higher, and a share of White students that was 5 percentage points lower. The average enrollment
+    of closed schools was less than half of that of schools that remained open, and a slightly
+    higher fraction of closed compared to open schools experienced recent declining enrollment.
+
+
+9   Examining Racial (In)equity in School-Closure Patterns in California
+     Schools that closed were also more likely to be located in urban areas, were more likely to be
+     charter schools, and were in districts that had higher poverty rates and higher concentrations
+     of Black students. In California, patterns of school closures were similar to those observed
+     nationwide, except that schools that closed were no more likely to be located in urban areas than
+     schools that remained open. However, the most unique feature of California’s school-closure
+     landscape is that a much higher fraction of school closures that occurred in the state pertained
+     to charter schools. In California, 33 percent of all school closures that took place between
+     2000 and 2018 were of charter schools. Nationwide, just 13 percent of school closures were of
+     charter schools.
+
+     Race and School Closures
+
+             Figure 1 turns attention to the relationship between student race and school closures,
+     depicting the association between closure rates and the percentage of Black and Latinx students,
+     respectively, in schools, averaged across the observation period (2000–18). The blue lines refer
+     to Black students; the red lines refer to Latinx students. The dotted lines represent Black and
+     Latinx school populations in California schools, respectively, while the solid lines refer to the
+     same nationwide. It can be observed that as the proportion of Black students increases, closure
+     rates also rise, especially in California. As indicated by the dotted blue line, in schools where
+     less than 20 percent of students are Black (located on the left side), a small number close—less
+     than 1 percent. However, once half or more of the student body is composed of Black students,
+     closure rates in California surpass 2.5 percent and exhibit a sharp incline thereafter. For instance,
+     schools with more than 80 percent Black enrollment have about a 10 percent rate of closure—
+     meaning one out of every ten predominantly Black schools close in California. Nationwide,
+     as indicated by the solid blue line, a similar trend can be observed: Closure rates rise as the
+     percentage of Black students in schools increases. However, this relationship is comparatively
+     weaker than what is observed in California. Specifically, around 3.5 percent of predominantly
+     Black schools (defined as those with a Black student population of more than 80 percent) are
+     forced to close nationwide. This rate more than doubles within California’s borders.
+
+
+
+
+10   Examining Racial (In)equity in School-Closure Patterns in California
+     Figure 1. School-Closure Rates by School Racial Composition, 2000–18
+
+
+
+
+             With regard to Latinx students, the red lines in Figure 1 indicate that closure rates only
+     appear to be sensitive to Latinx composition once Latinx students make up around 80 percent of
+     students at a given school, after which closure rates increase somewhat. Where around 1 percent
+     of schools close that enroll a Latinx population anywhere between 0 percent and 80 percent,
+     roughly 2.5 percent of schools close in which Latinx students predominate (where Latinx students
+     make up 80 percent or more of the student population). In contrast to what was observed for
+     Black students, rates of closure in California are no more sensitive to the share of students who
+     are Latinx than what is observed nationally.
+
+             Figures 2 and 3 turn attention to the question of how rates of closure have shifted over
+     time for schools that predominately serve students of color. For illustrative purposes, Figures 2
+     and 3 concentrate on schools where Black students (Figure 2) or Latinx students (Figure 3)
+     are the predominant racial group—that is, the largest racial group based on percentages. The
+     four lines in each figure differentiate between California versus nationwide schools and whether
+     schools enroll a student population that is predominately Black or Latinx or not. The dotted lines
+     refer exclusively to predominately Black or Latinx schools in California or nationwide; solid lines
+     represent schools where Black or Latinx students do not predominate.
+
+
+11   Examining Racial (In)equity in School-Closure Patterns in California
+     Figure 2. Percentage of Black and Non-Black Schools Closed Nationwide Versus California,
+     2000–18
+
+
+
+
+             As shown in Figure 2, and as expected based on the previous figure, closure rates for
+     predominately Black schools have been higher than those of nonpredominately Black schools
+     since at least 2000 in California and nationwide. Moreover, closure rates of Black schools
+     in California have consistently exceeded those of majority Black schools elsewhere. In terms of
+     trends, closure rates of predominately Black schools in California were similar to, even slightly less
+     than, predominately Black schools nationwide at the turn of the 21st century. However, closure
+     rates of predominately Black schools in California rapidly increased in the early 2000s, peaking
+     at around 4.5 percent in 2010, while closure rates of Black schools nationwide rose to less than
+     half of that: 2.5 percent. Since 2010, closure rates of all schools, including predominately Black
+     schools, have fallen slightly, with closure rates for majority Black schools in California falling to
+     roughly 3 percent in 2018 compared to 1 percent for majority Black schools nationwide.
+
+
+
+
+12   Examining Racial (In)equity in School-Closure Patterns in California
+     Figure 3. Percentage of Latinx and Non-Latinx Schools Closed Nationwide Versus California,
+     2000–18
+
+
+
+
+             Figure 3 plots closure rates among schools based on their status as predominately Latinx.
+     Figure 3 indicates minimal variation in school-closure rates between institutions that primarily
+     serve Latinx students and those that do not and between those located in California compared
+     with those nationwide. Notably, Figure 3 highlights the remarkable stability observed in school-
+     closure rates over the past 20 years for schools, regardless of whether they primarily enroll
+     Latinx students.
+
+     Multivariate Models
+
+            The next set of analyses focuses on whether conventionally understood reasons for
+     school closures can explain racial disparities in closure rates. The following analysis scrutinizes
+     how five categories—school status, composition, enrollment trends, broader district strain, and
+     academic achievement levels—could account for racial disparities in closure rates.
+
+            Given the results from the previous section—specifically the lack of correlation between
+     closure rates and the share of Latinx students—this section focuses on elevated closure rates
+
+
+13   Examining Racial (In)equity in School-Closure Patterns in California
+     associated with Black students. Figures 4 and 5 plot the relative likelihood of closure associated
+     with a 10-percentage-point increase in the share of students who are Black for the full sample
+     and the EOP subsample, respectively. The y-axis is presented in terms of odds ratios. A value
+     of 1 indicates that the likelihood of closure does not change as the share of students who are
+     Black changes. Values greater than 1 indicate that higher concentrations of Black students are
+     associated with a higher likelihood of closure. In contrast, values less than 1 indicate that higher
+     concentrations of Black students are associated with a lower likelihood of closure. The green bars
+     refer to schools in California. The gray bars are a reference point and refer to schools nationwide.
+     The first set of bars presents unadjusted estimates, while subsequent sets add controls for the
+     sets of factors displayed in the column name.
+
+     Figure 4. Relative Odds of Closure Associated With a 10-Percentage-Point Increase in the Share
+     of Black Students, Full Sample
+
+
+
+
+            Figure 4 plots the relative likelihood of closure associated with a 10-percentage-point
+     increase in the share of students who are Black. The y-axis is presented in terms of odds ratios. A
+     value of 1 indicates that the likelihood of closure does not change as the share of students who
+     are Black changes. Values greater than 1 indicate that higher concentrations of Black students are
+     associated with a higher likelihood of closure. In contrast, values less than 1 indicate that higher
+
+
+14   Examining Racial (In)equity in School-Closure Patterns in California
+     concentrations of Black students are associated with a lower likelihood of closure. The green bars
+     refer to schools in California. The gray bars are a reference point and refer to schools nationwide.
+     The first set of bars presents unadjusted estimates, while subsequent sets add controls for the
+     factors shown in the column name.
+
+             The first set of columns in Figure 4 indicates that the likelihood of closure increases as
+     the share of Black students increases. The magnitude of this disparity is notable, especially in
+     California, with the odds of closure increasing by 27 percent for every 10-percentage-point
+     increase in the Black student population (p < .001). Nationally, a 10-percentage-point increase
+     in the share of Black students was associated with a 16 percent increase in the odds of closure
+     (p < .001). The next set of bars adds school status controls, including charter and magnet status,
+     grade span, and urbanicity. After accounting for these factors, a 10-percentage-point increase
+     in the share of Black students in California was associated with a 23 percent increase in the
+     likelihood of closure (p < .001). It is also worth noting that while differences in school status
+     helped explain part of the elevated closure rates in California, these differences did not explain
+     any disproportionate trends at the national level. In other words, differences in school status play
+     a role in partially explaining why Black student enrollment increases closure rates in California but
+     not, on average, elsewhere in the country.
+
+             The third set of bars in Figure 4 accounts for differences in school composition. After
+     accounting for compositional and school status differences in California, a 10-percentage-point
+     increase in the share of Black students was associated with a 17 percent increase in the odds of
+     closure (p < .001). Nationwide, after accounting for differences in school status and composition,
+     a 10-percentage-point increase in the share of Black students was associated with a 15 percent
+     increase in the odds of closures (p < .001). Interestingly, after additionally accounting for school-
+     level differences in enrollment and enrollment trends, as indicated by the fourth set of bars
+     in Figure 4, the magnitude of the association between the likelihood of closure and the share
+     of Black students in California increased slightly. However, enrollment and enrollment trends
+     accounted for some of the association between closure rates and shares of Black students
+     nationally. After accounting for differences in school status, composition, and enrollment trends,
+     a 10-percentage-point increase in the share of Black students was associated with a 12 percent
+     increase in the odds of closure (p < .001).
+
+             The final set of bars in Figure 4 accounts for differences in district-level strain, which
+     includes per-pupil expenditures, total enrollment, student–teacher ratios, and the density of
+     charter and magnet schools, all measured at the district level.1 In California, a 10-percentage-
+     point increase in the share of Black students is associated with a 23 percent increase in the odds
+
+
+     1
+      Appendix C reports results from models that include district fixed effects. Importantly, these estimates are shown only for California.
+     Because of computational limitations, Cox proportional-hazards models were only able to converge when analyzing the subset
+     of California schools. As shown in Appendix C, estimates based on models that include district fixed effects are virtually identical to
+     those derived from models that include district strain variables.
+
+
+
+15   Examining Racial (In)equity in School-Closure Patterns in California
+     of closure after accounting for the complete set of explanatory factors. Nationally, the odds of
+     closure associated with a 10-percentage-point increase in the share of Black students increases
+     by 12 percent after accounting for the full suite of explanatory variables.
+
+     Figure 5. Relative Odds of Closure Associated With a 10-Percentage-Point Increase in the Share
+     of Black Students, EOP Subsample
+
+
+
+
+             Figure 5 reports results from a parallel set of analyses using the EOP subsample, which
+     encompasses every school in the U.S. that includes at least one grade level tested annually on state
+     assessments (typically Grades 3–8). This means that virtually all elementary and middle schools in
+     California and nationwide are included in the analysis. This sample is useful because a key question
+     is the extent to which racial disparities in closure rates are accounted for by differences in school-
+     level achievement, for which data are only available using this subsample of schools.
+
+            The first five sets of bars in Figure 5 report similar findings to those found in the full
+     sample: In unadjusted models as well as in models accounting for differences in school status,
+     composition, enrollment trends, and district strain, having a higher share of Black students enrolled
+     is associated with higher odds of closure, in California and nationwide. The final set of bars in
+     Figure 5 adds an additional control for achievement differences between schools. In California,
+
+
+16   Examining Racial (In)equity in School-Closure Patterns in California
+     the relative odds that a school closes after accounting for achievement differences—in addition
+     to differences in school status, composition, enrollment trends, and district strain—is 24 percent
+     higher for every 10-percentage-point increase in the share of Black students. Nationally, after
+     accounting for these differences, the odds that a school closes are 8 percent higher if the school
+     enrolls 10 percentage points more Black students.
+
+
+
+                                                      Discussion
+
+             The present study aimed to delve into two critical questions that have significant
+     implications for racial equity within California’s educational landscape. The first question
+     examined whether schools enrolling higher proportions of students of color are at a higher
+     risk of experiencing closures than their institutional counterparts. The second inquiry aimed to
+     determine if conventional reasons for school closures could explain any disparities. The findings
+     indicated a disturbing pattern: School closures are highly sensitive to Black student enrollment
+     in California and nationally, even after controlling for a host of potential explanatory factors. As
+     a school’s share of Black students increases, so too does its likelihood of closure. Moreover,
+     the strength of the association between Black student enrollment and school-closure rates in
+     California far exceeded those observed nationwide. This striking disparity has gradually unfolded
+     since the early 2000s, indicating long-standing systemic inequities in closure rates. It is worth
+     noting that despite these sobering statistics, California has experienced a marginal decline in
+     closure rates post-2010.
+
+             The finding that racial disparities in closure rates did not apply to Latinx students was
+     intriguing and suggests that a more complex understanding of the mechanisms behind school
+     closures is needed. This pattern highlights the need for critical analyses that delve deeper into
+     anti-Blackness as a theoretical and analytical lens, particularly given the declining numbers of
+     Black schools, residents, and communities in California’s coastal and urban areas. This finding
+     suggests that one cannot simply generalize about racial inequalities in closure rates but must
+     consider specific racial groups, specifically Black students, within those larger categories. By
+     adopting this nuanced approach, the research, practitioner, and policy communities can better
+     understand how race intersects with other factors, such as socioeconomic status or geography,
+     to affect the distribution of educational opportunities across geographies and the impact of
+     school closures on them.
+
+             The study also sought to investigate potential reasons why Black student enrollment
+     was so strongly predictive of a school’s likelihood of closure, finding that even the factors most
+     relevant to the school-closure process—factors commonly given to justify school closures—
+     cannot fully explain why Black schools are so much more likely to close than others. In particular,
+     this study analyzed the extent to which racial inequities in closure rates could be explained by
+     school- and district-level factors commonly thought to contribute to school closures. Overall,
+
+
+17   Examining Racial (In)equity in School-Closure Patterns in California
+     differences in school status, composition, enrollment trends, achievement levels, and district
+     strain could not account fully for why schools that enroll higher shares of Black students close
+     more frequently than their institutional peers. In California, for instance, when you consider
+     schools that are otherwise equivalent in terms of charter status, achievement levels, urbanicity,
+     poverty rates, and enrollment trends and that are situated in districts that are under the same level
+     of strain in terms of per-pupil expenditures, total enrollment, and level of school choice, the odds
+     of closure increase by nearly 25 percent for every 10-percentage-point increase in the share of
+     Black students, an estimate that is highly robust to alternative specifications, including when only
+     comparing schools within the same district (see Appendix C). In short, Black student enrollment is
+     highly predictive of which schools close, especially in California.
+
+
+
+                                                     Conclusion
+
+              The study’s findings underscore the reality that school closures, in California and
+     elsewhere, reflect longstanding racial inequities that have long plagued the U.S. educational
+     system. The evidence provided is substantial and concerning, demonstrating that schools with
+     higher concentrations of Black students are subject to considerably higher closure rates than
+     schools with fewer Black students. Moreover, these disparities persist even after accounting for
+     observable differences commonly attributed to school closure. Given these elevated closure
+     rates, there is a pressing need to (a) conduct further research to understand the many factors
+     contributing to this pattern, including in-depth analyses of how racial discrimination may play
+     out in the discretionary decisions that guide school-closure proceedings; (b) examine the
+     implications of school closures for students and their communities; and (c) suggest policies for
+     ensuring that school-closure proceedings and the opportunities afforded to displaced students
+     are equitable and fair. California’s Assembly Bill 1912, which requires school districts receiving
+     state aid to conduct an equity impact analysis before any decision about school closure can be
+     made, is a step in the right direction, as is the state attorney general’s new guidance underscoring
+     that school-closure deliberations are also bound by state and federal antidiscrimination laws.
+     Prioritizing fair education practices, especially concerning school closures, is critical to ensuring
+     that all students have the necessary opportunities to succeed. Indeed, as the findings presented
+     here make clear, the issue of school closures extends far beyond mere logistical or budgetary
+     considerations; it is, at its core, a matter of racial equity.
+
+
+
+
+18   Examining Racial (In)equity in School-Closure Patterns in California
+                                                               References
+     Bierbaum, A. H. (2021). News media’s democratic functions in public education: An analysis of newspaper framings of public school
+           closures. Urban Education, 56(9), 1485–1519. doi.org/10.1177/0042085918756713
+     Bross, W., Harris, D. N., & Liu, L. (2016). Extreme measures: When and how school closures and charter takeovers benefit students.
+           Education Research Alliance for New Orleans. educationresearchalliancenola.org/publications/extreme-measures-when-and-
+           how-school-closures-and-charter-takeovers-benefit-students
+     Brummet, Q. (2014). The effect of school closings on student achievement. Journal of Public Economics, 119, 108–124. doi.org/
+           10.1016/j.jpubeco.2014.06.010
+     California Department of Education. (2023). Historical data are from DataQuest. Retrieved February 1, 2023, from dq.cde.ca.gov/
+           dataquest/page2.asp?level=State&subject=Enrollment&submit1=Submit
+     California Department of Finance. (2022). Projections are the authors’ analysis of public K–12 enrollment data. Retrieved February 1,
+           2023, from dof.ca.gov/forecasting/demographics/public-k-12-graded-enrollment
+     Carlson, D., & Lavertu, S. (2015). School closures and student achievement: An analysis of Ohio’s urban district and charter schools.
+           Thomas B. Fordham Institute. fordhaminstitute.org/ohio/research/school-closures-and-student-achievement-analysis-ohios-
+           urban-district-and-charter
+     de la Torre, M., & Gwynne, J. (2009, October). When schools close: Effects on displaced students in Chicago public schools
+           [Research report]. Consortium on Chicago School Research. consortium.uchicago.edu/publications/when-schools-close-
+           effects-displaced-students-chicago-public-schools
+     DeAngelis, C. A., & Flanders, W. (2019). The education marketplace: The predictors of school growth and closures in
+           Milwaukee. Journal of School Choice, 13(3), 355-379.
+     Duncan-Shippy, E. M. (2019). School closure in strained cities. In Duncan-Shippy, E. M. (Ed.), Shuttered schools: Race, community,
+           and school closures in American cities (pp. 9–56). Information Age.
+     Duncombe, W. D., & Yinger, J. M. (2010). School district consolidation: The benefits and costs. School Administrator, 67(5), 10–17.
+     Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student outcomes depend on which
+           schools are closed? Journal of Urban Economics, 71(2), 189–203.
+     Ewing, E. L. (2018). Ghosts in the schoolyard: Racism and school closings on Chicago’s South Side. The University of Chicago Press.
+     Ewing, E. L., & Green, T. L. (2022). Beyond the headlines: Trends and future directions in the school closure literature. Educational
+           Researcher, 51(1), 58–65.
+     Farmer, S., Poulos, C. D., & Baber, A. (2020). Challenging the market logic of school choice: A spatial analysis of charter school
+           expansion in Chicago. Journal of Urban Affairs, 42(4), 511–533.
+     Gallagher, M., & Gold, A. (2017, March 23). Subtracting schools from communities. Urban Institute. urban.org/features/subtracting-
+           schools-communities
+     Good, R. M. (2017). Invoking landscapes of spatialized inequality: Race, class, and place in Philadelphia’s school closure debate.
+           Journal of Urban Affairs, 39(3), 358–380. doi.org/10.1080/07352166.2016.1245069
+     Gordon, M. F., de la Torre, M., Cowhy, J. R., Moore, P. T., Sartain, L., & Knight, D. (2018). School closings in Chicago: Staff and
+           student experiences and academic outcomes [Research report]. University of Chicago Consortium on School Research.
+     Green, T. (2017). “We felt they took the heart out of the community”: Examining a community-based response to urban school
+           closure. Education Policy Analysis Archives, 25(21), 1–30.
+     Hahnel, C., & Marchitello, M. (2023). Centering equity in the school-closure process in California [Report]. Policy Analysis for
+           California Education. https://edpolicyinca.org/publications/centering-equity-school-closure-process-california
+     National Center for Education Statistics. (2021). Closed schools. Institute of Education Sciences, U.S. Department of Education.
+           nces.ed.gov/fastfacts/display.asp?id=619
+     Nuamah, S. A. (2020). The paradox of educational attitudes: Racial differences in public opinion on school closure. Journal of Urban
+           Affairs, 42(4), 554–570.
+     Özek, U., Hansen, M., & Gonzalez, T. (2012). A leg up or a boot out?: Student achievement and mobility under school restructuring
+           (Working Paper 78). National Center for Analysis of Longitudinal Data in Education Research (CALDER).
+     Pearman, F. A., & Greene, D. M. (2022). School closures and the gentrification of the Black metropolis. Sociology of Education, 95(3),
+           233–253.
+     Steinberg, M. P., & MacDonald, J. M. (2019). The effects of closing urban schools on students’ academic and behavioral outcomes:
+           Evidence from Philadelphia. Economics of Education Review, 69, 25–60.
+     Sunderman, G. L., & Payne, A. (2009). Does Closing Schools Cause Educational Harm? A Review of the Research [Information
+           brief]. Mid-Atlantic Equity Center.
+     Syeed, E. (2019). “It just doesn’t add up”: Disrupting official arguments for urban school closures with counterframes. Education
+           Policy Analysis, 27, 110.
+     Tieken, M. C., & Auldridge-Reveles, T. R. (2019). Rethinking the school closure research: School closure as spatial injustice. Review of
+           Educational Research, 89(6), 917–953.
+
+
+
+
+19   Examining Racial (In)equity in School-Closure Patterns in California
+                                                                Appendix A
+
+     Table A1. Cox Hazard Models of the Likelihood of School Closure, Educational Opportunity
+     Project Subsample, 2000–18
+
+                                                                        U.S. Schools                          California Schools
+
+                                                           Unadjusted              Adjusted            Unadjusted             Adjusted
+
+      Panel A. Linear measure
+
+      Percentage Black                                        1.17***                  1.08***           1.45***               1.24***
+
+                                                               (0.01)                   (0.01)            (0.04)                (0.05)
+
+      Panel B. Categorical measure
+
+      Percentage Black                                        2.96***                  1.48***           9.67***               2.41***
+
+                                                               (0.20)                   (0.12)            (2.13)                (0.63)
+
+      Observations =                                          494,751                  494,751           52,821                52,821
+
+
+     Note. This table reports results for Cox proportional-hazard models of the likelihood of school closure based on all schools.
+     Coefficients are reported in terms of hazard ratios that are interpreted as the risk of closure corresponding to characteristics in the
+     row name. “Predominately Black” is a binary indicator of whether Black students are the largest racial group at a school. Standard
+     errors are clustered at the district level and are shown in parentheses.
+
+     *p < 0.05, **p < 0.01, ***p < 0.001 for two-tailed tests of significance.
+
+
+
+
+20   Examining Racial (In)equity in School-Closure Patterns in California
+                                                                Appendix B
+
+     Table B1. Cox Hazard Models of the Likelihood of School Closure, All U.S. Schools, 2000–18
+
+                                                                        U.S. Schools                          California Schools
+
+                                                           Unadjusted              Adjusted            Unadjusted             Adjusted
+
+      Panel A. Linear measure
+
+      Percentage Black                                        1.13***                  1.12***           1.27***               1.23***
+
+                                                               (0.01)                  (0.01)             (0.04)                (0.03)
+
+      Panel B. Categorical measure
+
+      Percentage Black                                        2.38***                  1.75***           4.58***               2.78***
+
+                                                               (0.12)                  (0.08)             (0.72)                (0.33)
+
+      Observations =                                         1,353,250             1,353,250             137,241               137,241
+
+
+     Note. This table reports results for Cox proportional-hazard models of the likelihood of school closure based on all schools.
+     Coefficients are reported in terms of hazard ratios that are interpreted as the risk of closure corresponding to characteristics in the
+     row name. “Predominately Black” is a binary indicator of whether Black students are the largest racial group at a school. Standard
+     errors are clustered at the district level and are shown in parentheses.
+
+     *p < 0.05, **p < 0.01, ***p < 0.001 for two-tailed tests of significance.
+
+
+
+
+21   Examining Racial (In)equity in School-Closure Patterns in California
+                                                                Appendix C
+
+     Table C1. Cox Hazard Models of the Likelihood of School Closure, 2000–18
+
+                                                            + District-strain characteristics             + District fixed effects
+
+      Percentage Black                                                   1.24***                                  1.30***
+
+                                                                          (0.05)                                   (0.07)
+
+      Observations =                                                     52,821                                    52,821
+
+
+     Note. This table reports results for Cox proportional-hazard models of the likelihood of school closure. Coefficients are reported in
+     terms of hazard ratios that are interpreted as the risk of closure corresponding to characteristic in the row name. Standard errors are
+     clustered at the district level and are shown in parentheses.
+
+     *p < 0.05, **p < 0.01, ***p < 0.001 for two-tailed tests of significance.
+
+
+
+
+22   Examining Racial (In)equity in School-Closure Patterns in California
+                                                     Appendix D
+
+     Table D1. Means of Key Variables for Nonclosed and Closed Schools, 2009–16
+
+
+                                                              U.S. Schools                    California Schools
+
+                                                  Nonclosed                  Closed     Nonclosed            Closed
+
+      School characteristics
+
+      Avg. achievement                               -0.01                    -0.27       -0.24               -0.51
+
+                                                    (0.42)                    (0.48)      (0.46)              (0.42)
+
+      Percentage Black                               0.14                     0.27        0.06                 0.15
+
+                                                    (0.23)                    (0.35)      (0.10)              (0.22)
+
+      Percentage White                               0.57                     0.53        0.28                 0.28
+
+                                                    (0.33)                    (0.38)      (0.26)              (0.27)
+
+      Percentage Latinx                              0.21                     0.14        0.51                 0.46
+
+                                                    (0.26)                    (0.22)      (0.30)              (0.29)
+
+      Percentage Asian American                      0.04                     0.02        0.10                 0.06
+
+                                                    (0.08)                    (0.05)      (0.14)              (0.09)
+
+      Percentage FRPL                                0.52                     0.63        0.58                 0.64
+
+                                                    (0.27)                    (0.26)      (0.30)              (0.27)
+
+      Total enrollment                              494.54                   268.71      589.74              321.51
+
+                                                   (280.24)                  (183.48)    (310.01)            (266.19)
+
+      Declining enrollment                           0.58                     0.70        0.60                 0.67
+
+                                                    (0.49)                    (0.46)      (0.49)              (0.47)
+
+      Urban                                          0.24                     0.30        0.41                 0.41
+
+                                                    (0.43)                    (0.46)      (0.49)              (0.49)
+
+      Charter                                        0.03                     0.06        0.10                 0.30
+
+                                                    (0.16)                    (0.23)      (0.30)              (0.46)
+
+      Magnet                                         0.03                     0.04        0.04                 0.02
+
+                                                    (0.17)                    (0.18)      (0.19)              (0.14)
+
+      Elementary                                     0.70                     0.64        0.77                 0.63
+
+                                                    (0.46)                    (0.48)      (0.42)              (0.48)
+
+      Middle school                                  0.23                     0.29        0.19                 0.24
+
+                                                    (0.42)                    (0.45)      (0.39)              (0.43)
+
+      High school                                    0.04                     0.03        0.01                 0.03
+
+                                                    (0.20)                    (0.17)      (0.11)              (0.18)
+
+
+     Table continued on next page.
+
+
+
+
+23   Examining Racial (In)equity in School-Closure Patterns in California
+                                                                     U.S. Schools                        California Schools
+
+                                                        Nonclosed                   Closed        Nonclosed               Closed
+
+      District characteristics
+
+      Total enrollment                                     34.73                    30.17            82.08                77.61
+
+                                                           (86.56)                  (78.76)         (188.31)             (183.17)
+
+      Per-pupil expenditures                               12.77                    14.48            11.61                12.26
+
+                                                           (5.84)                   (8.09)           (6.62)               (10.96)
+
+      Expanded school choice                                0.04                     0.06             0.09                 0.07
+
+                                                           (0.21)                   (0.23)           (0.29)               (0.26)
+
+      Avg. student–teacher ratio                           16.07                    15.42            23.19                22.60
+
+                                                           (5.08)                   (4.06)           (9.52)               (4.50)
+
+      Percentage Black                                      0.14                     0.23             0.06                 0.08
+
+                                                           (0.47)                   (0.28)           (0.07)               (0.08)
+
+      Percentage White                                      0.57                     0.56             0.28                 0.31
+
+                                                           (0.89)                   (0.56)           (0.22)               (0.24)
+
+      Percentage Latinx                                     0.20                     0.16             0.50                 0.46
+
+                                                           (0.31)                   (0.21)           (0.25)               (0.22)
+
+      Percentage FRPL                                       0.50                     0.57             0.56                 0.57
+
+                                                           (0.90)                   (0.22)           (0.23)               (0.20)
+
+      Observations =                                      458,745                   2,689            41,507                100
+
+
+     Note. FRPL = free or reduced-price lunch. Schools included in the national and California samples are those represented in the
+     Education Opportunity Project national database. The first two columns refer to U.S. schools. The second two columns refer to
+     California schools. The first and third columns refer to nonclosed schools. The second and fourth columns refer to closed schools.
+     Standard deviations are in parenthesis.
+
+
+
+
+24   Examining Racial (In)equity in School-Closure Patterns in California
+

@@ -1,0 +1,3035 @@
+             Links in Preliminary Discussion Document
+                  Artificial Intelligence in Schools
+
+                        PPS Policy Committee Meeting 5/20/24
+
+
+
+                                Table of Contents
+
+
+Document                                                       Page
+• Responsible Technology Use Policy 8.60.040-P                  2
+• Acceptable Use of District Technology Policy 8.60.041-P       5
+• Student Conduct & Discipline Policy 4.30.010-P                15
+• Student Anti-harassment and Teen Dating Policy 4.30.060-P     19
+• Reproduction of Materials 6.40.040-AD                         24
+• Instructional Materials Selection 6.40.010-P                  26
+• PPS Student Rights and Responsibilities Handbook 2023-2024    29
+• See, e.g., RE academic integrity                              63
+• Oregon Department of Education–Developing Policies and        64
+  Protocols for Use of Generative AI in the Classroom
+• Teach AI–AI Guidance for Schools Toolkit                      69
+                     Board Policy                                              8.60.040-P
+
+                     Responsible Technology Use
+
+
+
+   I.     Scope
+
+The District provides access to District approved technology devices, networks,
+accounts, software, and internet-based resources (“Technology Resources”) in order to
+enhance the education of students. Technology Resources improve student
+communication and extend learning beyond the classroom walls while building digital
+citizenship skills. Students and staff accessing technology are expected to conduct
+themselves in a responsible, courteous, efficient, and legal manner as further outlined in
+this Policy.
+
+The District must honor its commitments for student safety, and compliance with the law
+at the local, state, and federal levels which require investigation and monitoring of PPS
+physical and digital assets. Because these laws set forth the District’s responsibilities for
+providing for student safety, maintaining the integrity of its digital systems, and
+protecting District records, students and staff should have no expectation of privacy
+while using PPS systems.
+
+   II.    Purpose
+
+   A. Enhancement of Learning and Productivity
+   District Technology Resources will be deployed and used for teaching and learning
+   in District classrooms, comprehensive distance learning, professional and career
+   development, and research and district-related administrative activities.
+
+   B. Equity and Inclusive Learning
+   Equity considerations will drive District decisions about the development,
+   distribution, and use of Technology Resources in order to ensure equitable access
+   for every user.
+
+   C. Student Safety
+   Technology Resources will be deployed and used in a way that fosters a culture of
+   safety and respect for everyone. Social, emotional, and physical well-being are
+   crucial to academic and professional success.
+
+   III.   Responsible Deployment and Use of Technology Resources
+
+   A. Technology Resources will be deployed and used in compliance with applicable
+      laws and other District policies.
+
+   B. Technology Resources will be deployed and used in a manner that supports the
+
+                                         Page 1 of 3
+                   Board Policy                                             8.60.040-P
+
+                   Responsible Technology Use
+
+
+
+      District purposes of learning and productivity, equity and inclusive learning, and a
+      safe and respectful environment.
+
+C. The District will develop an Administrative Directive and acceptable use
+   guidelines for users regarding the deployment and use of District Technology
+   Resources, including access to Internet and social media, and regulation of use
+   of District and personal electronic resources on District assets.
+
+IV.      Fostering Safety and Security of Users
+
+A. No Expectation of Privacy
+The safety and security of District Technology Resources is the shared responsibility
+of the District. The District may monitor, intercept, and review, without further notice,
+activities occurring on the District’s Technology Resources. Users should have no
+expectation of privacy while using District Technology Resources.
+
+The District shall establish protocols for review of activity.
+
+B. Cyberbullying and Anti-harassment
+District policies prohibiting harassment and bullying apply to the use of District
+Technology Resources. Technology Resources will not be used in a manner that
+may be construed by others as bullying, harassing or offensive. Non-
+Discrimination/Anti-Harassment Policy.
+
+C. Filtering Software
+As a component of District Internet safety measures, all District-owned technology
+resources, including computer networks in all District facilities capable of accessing
+the Internet will use filtering software to restrict access to obscene, racist, hateful or
+violent material. However, the District cannot ensure that a student will never be able
+to access objectionable material.
+
+D. Community-based Approach
+While District staff will make reasonable efforts to supervise student access and use
+of Technology Resources, fostering the safety and security of students and staff
+requires a community-based approach. Digital citizenship guidelines
+
+V.       Violations
+
+A. If a user violates District Policies, Administrative Directives, or guidelines for
+   Technology Resources or Responsible Use, District staff will notify the Office of
+
+                                       Page 2 of 3
+                     Board Policy                                           8.60.040-P
+
+                     Responsible Technology Use
+
+
+
+         Technology and Information Services.
+
+   B. Violations may include discipline or other sanctions consistent with District
+      Policies, Administrative Directives, guidelines, or Student’s Rights and
+      Responsibilities Handbook, up to and including expulsion or termination of
+      employment.
+
+   VI.      Administrative Directive
+
+Legal references: Children’s Internet Protection Act, (CIPA); Children’s Online Privacy
+Protection Act (COPPA); Family Educational Rights and Privacy Act (FERPA); ORS
+336.184 Oregon Student Information Protection Act; ORS 646A.600 Oregon Consumer
+Information Protection Act.
+OSBA: IIBGA
+History: Amd 6/15/21
+
+
+
+
+                                        Page 3 of 3
+                    Administrative Directive                8.60.041-AD
+
+                    Student and Staff Acceptable Use of
+                    District Technology Policy (AUP)
+
+
+
+Introduction
+
+The District’s Acceptable Use Policy (“AUP”) is intended to prevent online users from
+unauthorized access and other unlawful or improper activities, prevent unauthorized
+disclosure of or access to sensitive information, to comply with the Children’s Internet
+Protection Act (“CIPA”) and other applicable laws, and establish expectations for use of
+District systems.
+
+   I. Definitions
+
+          A. As used in this policy, “user” includes anyone using the computers,
+             Internet (including social media, e-mail, and chat rooms), web-based PPS
+             software systems and other forms of direct electronic communications or
+             equipment provided by the District (the “network.”)
+
+          B. The Network- The district has established PPSNet, an electronic
+             communications network (network) for electronic communication and
+             access to, and use of, the World Wide Web.
+
+          C. Mobile Devices - A mobile device is any portable, electronic device used
+             for communications including telephone, text messaging or data
+             transmissions (eg. email, web-browsing, streaming media, photographs,
+             file transfer, etc.) over any network.
+
+   II. Terms of Permitted Use
+
+          A. Only current students, PPS employees, approved volunteers, school
+             board members and District contractors are authorized to use the network.
+
+
+          B. The District sponsors and owns the network. The network is intended for
+             District-related educational and administrative purposes as defined in
+             Board Policy 8.60.040.
+
+
+                                       Page 1 of 10
+          Administrative Directive                 8.60.041-AD
+
+          Student and Staff Acceptable Use of
+          District Technology Policy (AUP)
+
+
+C. By accessing the network, the user acknowledges that they have read
+   and understood the PPS Acceptable Use Policy; the conditions for use
+   remain in effect until:
+
+      1. In case of students, revoked by the parent, or the student loses the
+         privilege of using the District’s network or is no longer a PPS
+         student.
+
+      2. In case of employees or volunteers, the employee or volunteer
+         loses the privilege of using the District’s network or is no longer a
+         PPS employee.
+
+
+D. All network users are expected to follow this policy and report any misuse
+   of the network to a teacher, or other appropriate District personnel. Access
+   to the network has been established for educational use only, including
+   support of administrative and student services, student and staff research,
+   lesson planning, collaboration and sharing of ideas, contact with teachers
+   and support staff, and the downloading of materials to be used as
+   educational resources.
+
+
+E. District employees may use the network for incidental personal use, but
+   this use should be limited and must be in accordance with this AUP, all
+   District policies, administrative directives, and other guidelines regarding
+   computers, networks and Web pages.
+
+
+F. By using the network, users have agreed to this policy. If a user is
+   uncertain about whether a particular use is acceptable or appropriate, he
+   or she should consult a teacher, supervisor or other appropriate District
+   personnel.
+
+
+G. All users authorized to access student information are required to abide by
+   the policies governing review and release of student education records.
+   The Family Educational Rights and Privacy Act (FERPA) of 1974
+   mandates that information contained in a student’s education record must
+   be kept confidential and outlines the procedures for review, release and
+                              Page 2 of 10
+          Administrative Directive                 8.60.041-AD
+
+          Student and Staff Acceptable Use of
+          District Technology Policy (AUP)
+
+
+   access of such information. Access to student information systems will be
+   granted only to those individuals who have been determined to have a
+   legitimate educational interest in the data. Individuals who have been
+   granted access must understand and accept all responsibilities of working
+   with confidential student records. In the event of loss of data and/or
+   device, it is the individual’s responsibility to immediately notify Risk
+   Management and follow appropriate established District policy as defined
+   in Board Policy 8.90.030. .
+
+
+H. In order to protect student data and Personally Identifiable Information
+   (PII) the IT Department may implement end point protection including
+   encryption on District mobile devices. Individuals who have student data
+   on a mobile device are responsible for the security of that data at all times.
+   It is the responsibility of the primary user of the device to immediately
+   inform the Information Technology Department (IT) in the event of the
+   device being lost, stolen, missing, infected with a virus/malware, hacked,
+   or otherwise compromised. Any mobile device connected to the network
+   or configured to access District email is subject to IT oversight, which may
+   include remotely erasing data on the device at any time.
+
+I. Network users shall have no expectation of personal privacy in the use of
+   the District’s network. Passwords are used to protect the security of
+   District data and technologies and are not intended to convey an
+   expectation of personal privacy or exclusion from monitoring.
+
+J. Under the direction of the Superintendent, Human Resources Director or
+   the General Counsel’s office. , the IT Department reserves the right to
+   access and disclose, as appropriate, all information and data stored on
+   District technology, transmitted over the District network and technology.
+   In addition, information and data relevant to any users’ work in their
+   District capacity may become discoverable evidence if a public records
+   request is made or for any legal proceedings in which the District may be
+   involved.
+
+
+                             Page 3 of 10
+                Administrative Directive                 8.60.041-AD
+
+                Student and Staff Acceptable Use of
+                District Technology Policy (AUP)
+
+
+      K. Authorized District personnel may temporarily suspend or permanently
+         end any user’s access.
+
+      L. Documents, emails, and other electronic records created, sent or received
+         using the Network are public records and may be subject to disclosure by
+         law. They must be preserved in compliance with District and State record
+         retention and preservation policies. Access the District’s Network from
+         employee owned computing devices such as employee owned home
+         computers, or any portable computing device (such as a laptop,
+         smartphone, or other electronic device used to access electronic data)
+         may subject the employee’s personal devices to disclosure.
+
+      M. Employees who participate in an approved PPS Social Media Presence
+         must abide by the rules as defined in Administrative Directive Social
+         Media Use and Expectations.
+
+      N. PPS uses Google Apps for Education for online collaboration with staff
+         and students. Employees using Google Apps for Education must abide by
+         the terms and conditions signed upon initial log-in to Google Apps for
+         Education, as well as all terms of this policy.
+
+      O. PPS employees are required to use district email to conduct all district
+         business, and may not use personal email for any district business.
+
+III. Prohibited Use
+
+      A. District employees shall not use the network to access obscene material,
+         including pornography, or any other material that is harmful to the district’s
+         educational purpose and mission or inconsistent with a professional work
+         environment. If such material is inadvertently accessed, a district
+         employee should notify his or her supervisor as soon as reasonably
+         possible.
+
+
+      B. Violating any state or federal law or municipal ordinance, accessing or
+         transmitting pornography of any kind, obscene depictions, harmful
+         materials, materials that encourage others to violate the law, confidential
+                                    Page 4 of 10
+         Administrative Directive                  8.60.041-AD
+
+         Student and Staff Acceptable Use of
+         District Technology Policy (AUP)
+
+
+   information, or copyrighted materials.
+
+
+C. Selling or purchasing illegal items or substances.
+
+
+D. Causing harm to others or damage to their property, such as:
+
+      1. Using profane, abusive, or impolite language; threatening,
+         harassing, bullying or making damaging or false statements about
+         others;
+
+      2. Accessing, transmitting, or downloading offensive, harassing, or
+         disparaging materials;
+
+      3. Damaging computer equipment, files, data or the network in any
+         way, including intentionally accessing, transmitting or downloading
+         computer viruses or other harmful files or programs; or disrupting
+         any computer system performance; causing physical damage to a
+         technology resource; or
+
+      4. Using any device to pursue “hacking,” internal or external to the
+         District, or attempting to access or store information protected by
+         privacy laws.
+
+
+E. Engaging in uses that jeopardize access or lead to unauthorized access
+   into others’ accounts or other computer networks, such as:
+
+      1. Attempting to gain unauthorized access to the network or to any
+         other computer system through the network or go beyond your
+         authorized access.
+
+      2. Using another’s account password(s) or identifier(s);
+
+      3. Interfering with other users’ ability to access their account(s);
+
+
+                             Page 5 of 10
+         Administrative Directive                 8.60.041-AD
+
+         Student and Staff Acceptable Use of
+         District Technology Policy (AUP)
+
+
+      4. Disclosing anyone’s password or allowing a person to use another
+         user’s account(s);
+
+      5. Providing your account information, including passwords, to others,
+         or making your account readily accessible;
+
+      6. Deleting, copying, modifying, or forging other users’ names, e-
+         mails, files, or data; disguising one’s identity, impersonating other
+         users, or sending anonymous e-mail; or
+
+      7. Posting or distributing personal information about other District
+         personnel on the District Web site or public Internet without the
+         employee’s permission or making any reference to confidential
+         student information on the District Web site or public Internet.
+
+
+F. Using the network for:
+
+      1. Personal financial gain;
+
+      2. Personal advertising, promotion, or financial gain;
+
+      3. Conducting for-profit business activities and/or engaging in non-
+         government related fundraising or public relations activities such as
+         solicitation for religious purposes, lobbying for personal political
+         purposes; or
+
+      4. Using software or hardware designed to interfere with or circumvent
+         security mechanisms.
+
+      5. Using the network in any manner that violates any District or school
+         rule or policy, including, but not limited to any rule or policy in the
+         “Student Responsibilities, Rights and Discipline Handbook” located
+         on the PPS website.
+
+
+
+
+                             Page 6 of 10
+         Administrative Directive                  8.60.041-AD
+
+         Student and Staff Acceptable Use of
+         District Technology Policy (AUP)
+
+
+G. Plagiarism & Copyright Infringement
+
+      1. Users are prohibited from plagiarizing works they find on the
+         Internet. Plagiarism is taking the ideas or writings of others and
+         presenting them as if they were your own.
+
+      2. Users must respect the rights of copyright owners. Copyright
+         infringement occurs when you inappropriately reproduce a work
+         that is protected by a copyright. If a work contains language that
+         specifies appropriate use of that work, users should follow the
+         expressed requirements. If users are unsure whether or not they
+         can use a work, they should request permission from the copyright
+         owner. Copyright law is complex. If you have questions, ask a
+         teacher, supervisor or the General Counsel.
+
+      3. Any software that is protected under the copyright laws may not be
+         loaded onto or transmitted via the network or other on-line servers
+         without the written consent of the copyright holder.
+
+
+H. Google Apps for Education
+   PPS uses Google Apps for Education for online collaboration with staff
+   and students. Users agree to not use Google Apps for Education services:
+
+      1. to generate or facilitate unsolicited bulk commercial email;
+
+      2. to violate, or encourage the violation of, the legal rights of others;
+
+      3. for any unlawful, invasive, infringing, defamatory, or fraudulent
+         purpose;
+
+      4. to intentionally distribute viruses, works, Trojan horses, corrupted
+         files, hoaxes, or other items of a destructive nature;
+
+      5. to interfere with the use of the Services, or the equipment used to
+         provide the Services, by customers, authorized resellers, or other
+         authorized users;
+                             Page 7 of 10
+                Administrative Directive                  8.60.041-AD
+
+                Student and Staff Acceptable Use of
+                District Technology Policy (AUP)
+
+
+             6. to alter, disable, interfere with or circumvent any aspect of the
+                Services;
+
+             7. to test or reverse-engineer the Services in order to find limitations,
+                vulnerabilities or evade filtering capabilities.
+
+
+      I. No user shall establish a peer-to-peer network or wireless ad-hoc using
+         their personal device, or any other wireless device while on district
+         property. This includes, but is not limited to using a privately owned
+         electronic device such as a cabled or wireless hotspot.
+
+
+      J. The use of a District account is a privilege, not a right. Misuse could result
+         in the restriction or cancellation of the account. Misuse may also lead to
+         other disciplinary and/or legal action for both students and employees,
+         including suspension, expulsion, dismissal from District employment, or, in
+         the case of a student from school, or criminal prosecution by government
+         authorities. The District will attempt to tailor any disciplinary action to meet
+         the specific concerns related to each violation. When applicable, sanctions
+         on employees will be in accordance with the appropriate labor agreement.
+
+IV. Internet Safety
+
+      A. In accordance with the Children’s Internet Protection Act (CIPA), the
+         District will use technology protection measures on the network to block or
+         filter, to the extent practicable, access to visual depictions that are
+         obscene, pornographic and/or harmful to minors.
+
+      B. Use of the District network constitutes consent to be monitored. Users
+         should have no expectation of privacy regarding their use of District
+         property, network and/or Internet access, files, and other District systems
+         including e-mail. Monitoring technologies may be used to identify and
+         mitigate issues with access of inappropriate materials.
+
+      C. It is the intention of Portland Public Schools to educate our students to be
+         good Cybercitizens. With input from building administrators, teachers,
+                                    Page 8 of 10
+               Administrative Directive                  8.60.041-AD
+
+               Student and Staff Acceptable Use of
+               District Technology Policy (AUP)
+
+
+        instructional leaders and parents, Information Technology will provide
+        resources and curriculum around topics such as:
+
+           1. Safety and security of minors when using technology such as social
+              networking websites, email, video games, chat rooms, instant
+              messaging, and other forms of direct electronic communications;
+
+           2. Respectful and appropriate online behaviors;
+
+           3. Cyberbullying awareness and response;
+
+           4. Cyber-ethics awareness including plagiarism, cheating and
+              information literacy.
+
+     D. Instructional materials will be presented through a variety of age-
+        appropriate methods. Tracking of student education efforts will be
+        required. For more detailed information, please see the District’s Internet
+        Safety Guidelines.
+
+V. Archiving and Retention
+
+     A. The District email retention policy is as follows:
+
+           1. All email and calendar items sent and received on the PPS email
+              system will be archived.
+
+           2. Active employees’ email will be archived for 3 years based on date
+              of receipt or origination.
+
+           3. Inactive employees’ email will be kept in its state on the date of
+              account disable for 13 months past their inactive date. At that time,
+              email and email account will be fully purged from the system.
+
+           4. Under request or guidance from the Human Resources Director or
+              the General Counsel’s Office, email data from inactive employees
+              may be kept longer than 13 months.
+
+
+                                   Page 9 of 10
+                      Administrative Directive                  8.60.041-AD
+
+                      Student and Staff Acceptable Use of
+                      District Technology Policy (AUP)
+
+
+           B. Files saved on the District network are retained as follows:
+
+                   1. Active employees’ files will be retained for the duration of their
+                      employment.
+
+                   2. Inactive employees’ files will be kept in its state on the date of
+                      account disable for 13 months past their inactive date. At that time,
+                      files will be fully purged from the system.
+
+                   3. Under request or guidance from District HR or Legal personnel,
+                      files from inactive employees may be kept longer than 13 months.
+
+
+           C. User accounts are maintained as follows:
+
+                   1. Active employees’ accounts are maintained for the duration of their
+                      employment.
+
+                   2. Inactive employees’ accounts are disabled 14 days after the date of
+                      inactive status with HR.
+
+                   3. Inactive employees’ accounts are fully purged from the system 13
+                      months past their inactive date, coinciding with the full email purge.
+
+                   4. Under request or guidance from District HR or Legal personnel,
+                      accounts from inactive employees may be kept longer than 13
+                      months.
+
+AD History: Amd. 8/2012, 8/2014, 8/2015
+
+
+
+
+                                          Page 10 of 10
+                   BOARD POLICY                                                 4.30.010-P
+
+                   Student Conduct and
+                   Discipline Policy
+Introduction
+
+   A. The District desires the use of evidence-based, trauma-informed practices that maximize
+      instructional time for every student and minimize the use of exclusionary discipline. The
+      District seeks to build a system-wide understanding of trauma prevalence and impact
+      which recognizes that traumatic experiences can negatively affect student behavior and
+      that disciplinary practices can retraumatize students. Each school and program shall
+      create a safe, calm, and secure environment in which all students feel included,
+      supported, and respected. To this end, disciplinary decision making should include a
+      trauma-informed perspective and focus on restorative practices first and foremost. When
+      student behavior disrupts the learning or working environment, school staff, families, and
+      students will share concerns and work collaboratively to develop and implement equitable
+      and restorative plans for more intensive interventions and supports
+
+      The District believes the following will reduce the need for disciplinary actions that
+      exclude students from their classroom:
+          1. Positive school climate
+          2. Clear and consistent student behavioral expectations
+          3. Trauma-informed and effective classroom management strategies
+          4. Parent/family/guardian engagement
+          5. Culturally relevant instruction
+          6. Developmentally appropriate practices
+
+   B. Discipline should be used to support students in learning the skills and concepts
+      necessary to enhance a positive school climate and avoid disruptive behavior. Utilizing a
+      trauma-informed approach to school discipline that is paired with meaningful and
+      accessible instruction and guidance offers students an opportunity to learn from their
+      mistakes and contribute to the school community. This is more likely to result in re-
+      engaging the student in learning. The District is committed to preparing students to be
+      successful in life by providing a safe, supportive, and inclusive school climate which:
+
+           •   Is conducive to student learning
+           •   Fosters self-efficacy
+           •   Encourages active participation in their communities
+
+       The Superintendent or designee will work with all schools and programs to carry out a
+       variety of evidence-based, trauma-informed practices and strategies for maintaining a
+       safe, calm, and secure school climate. The strategies shall focus on:
+
+           •   Communicating clear, appropriate, and consistent behavior expectations
+           •   Educating students on behavior expectations
+           •   Providing students with tiered supports/interventions
+           •   Implementing consistent and fair use of consequences
+           •   Eliminating disproportionate uses of discipline actions
+           •   Continuous review and improvement of discipline practices
+           •   Fostering teachers’ use of trauma-informed and effective classroom
+               management strategies
+
+
+
+                                            Page 1 of 4
+       The District recognizes that some students experience disproportionate disciplinary
+       actions in response to their behavior, specifically Latinx students, students with African
+       American or Black, Native American, and Pacific Islander ancestry, English Language
+       Learners, students with disabilities, LGBTQ Continuum students, and students living in
+       poverty. The District recognizes that unconscious biases can impact disciplinary decision-
+       making and seeks to eliminate disparities in the use of school and program discipline. As
+       stated in our district Racial Educational Equity Policy (2.10.010-P), Portland Public
+       Schools is committed to the success of every student in each of our District. Schools and
+       programs shall strive to enforce disciplinary rules fairly, equitably, and without
+       discrimination or bias.
+
+   C. Recognizing that student discipline practices are closely related to student achievement,
+      the District expects school practices that:
+
+           1. Incorporate student and family perspective at all levels from policy to
+              enforcement, and engage parents/guardians early in disciplinary processes;
+           2. Are trauma-informed and evidence based, resulting in safer schools grounded in
+              equity, improved student achievement, improved student attendance, and fosters
+              student sense of self-efficacy;
+           3. Provide consistency, fairness, and equitable interventions and consequences
+              across all schools and programs in the district;
+           4. Eliminate disparities in applying discipline by assuring equitable tiered
+              interventions and consequences across all racial and ethnic groups, by gender,
+              among those with disabilities and other protected classes (see 1.80.020-P Non-
+              Discrimination);
+           5. Define and communicate expectations for student behavior;
+
+           6. Define and communicate expectations for staff responsibilities related to student
+              conduct and discipline;
+           7. Use restorative practices to balance the needs of the student, the needs of those
+              directly affected by a student’s behavior, and the needs of the overall school
+              community;
+           8. Facilitate students, staff, parents/guardians and the community working together
+              to provide both academic and non-academic support to students.
+
+   D. Since we are all invested in the success of our children, it is the shared responsibility of
+      all adults in our school district to ensure that social justice principles are imbedded in our
+      schools and that we take the necessary steps to shift our system to meet the needs of
+      students. These responsibilities will include personal and professional introspection,
+      acknowledgement of unconscious biases, willingness to learn restorative and trauma-
+      informed practices.
+
+   District leadership is expected to provide professional development to support these shifts,
+   and to define procedures and practices that build a safe, supportive, and inclusive school
+   climate. Everyone in a school who has direct contact with students is expected to utilize the
+   learning opportunities provided to create and maintain an environment that inspires student
+   learning by using principles of positive behavior support, cultural responsiveness, and
+   trauma-informed effective discipline practices to support students’ prosocial development.
+
+
+Discipline Principles
+
+   A. Discipline must be an equitable, transparent, timely, fair, and developmentally appropriate
+      response based on individual student needs as defined in ORS 339.250.
+
+
+
+
+                                             Page 2 of 4
+  B. Discipline practices should deter undesired behavior before it occurs, and use effective
+     interventions after it occurs, seeking to repair any harm caused.
+
+  C. The District and schools shall make every reasonable effort to first correct student
+     undesired behavior through family, school, and community-based resources. These
+     efforts involve utilizing a trauma-informed perspective to analyze individual student needs
+     and adult responses, developing preventive, responsive, and developmentally
+     appropriate interventions and providing disciplinary and educational alternatives.
+
+  D. Discipline should take into consideration the understood effects of trauma to the
+     developing brain and start at the lowest possible level reasonably determined to change
+     the student’s behavior and to minimize the loss of instructional time. It is the expectation
+     that District representatives consider an individual student’s trauma load when discussing
+     discipline. Unless there is a behavior that poses an imminent risk to others, exclusionary
+     discipline should be the actions of a last resort.
+
+Monitoring and Accountability
+
+  A. The Superintendent shall establish a structure at the District and school level to monitor
+     progress on student conduct, including annual reporting to the District.
+
+  B. The District shall monitor progress on student conduct in a way that is data driven and
+     responsive to the needs of schools and students.
+
+  C. The monitoring structure shall be connected to School and District Improvement Plans
+     and designed to identify areas of need, target tiered areas for support, thus enabling
+     schools and the District to craft solutions.
+
+  D. Monitoring information shall be presented in a manner that is transparent and accessible
+     to administrators, teachers, and the general public as the law permits (OAR 581-021-
+     0330, OAR 581-021- 0340). Ongoing monitoring shall be used to ensure that equitable
+     school-based practices are implemented in a fair, non- discriminatory, and culturally
+     responsive manner.
+
+Implementation
+
+   A. The Superintendent shall develop administrative directives, procedures and/or standards
+      to implement this policy.
+
+   B. The District shall publish and distribute to staff, students and parents expectations
+      outlining student rights and responsibilities, behavior expectations, tiered interventions
+      and potential disciplinary actions.
+
+   C. Under this policy, resources will be allocated to support a trauma-informed approach to
+      discipline, positive behavior and provide alternatives to exclusionary discipline.
+
+Definitions
+
+   •   Restorative Practices: District staff shall endeavor to utilize restorative practices when
+       applicable and agreed upon by all parties. Restorative practices include, but are not
+       limited to:
+       o Restorative Conferencing: a meeting between all parties impacted, attendees include
+            school administrators, teachers, staff, students, parents/guardians, and appropriate
+            community service providers to discuss impact of behavior, solving conflict
+            peacefully, and to create a plan of action for interventions and supports.
+
+
+
+                                           Page 3 of 4
+        o    Restorative Responsive Circles: a gathering to give space to students directly
+             involved in a conflict and others directly affected to discuss the impact of the
+             behavior and develop a plan to repair the harm.
+        o Restorative Action Plan: the result of the circle described above, requiring students
+             to make reparations that meet the needs of those impacted.
+    •   Tiered Supports: the main component of a data based Multi-tiered Systems of Support
+        (MTSS) framework. Attention is focused on Tier 1 (universal practices and supports for
+        all students), Tier 2 (targeted small group strategies and supports provided in addition to
+        Tier 1) and Tier 3 (supports at the individual student level).
+    •   Self-Efficacy: students’ belief in their innate ability to set and achieve goals.
+    •   Social Justice Principles: values that favor measures aimed at decreasing or eliminating
+        inequity; promoting inclusiveness of diversity; and establishing environments that are
+        supportive of all people.
+    •   Trauma-Informed Approach: designed to be a community response to support
+        traumatized students and their families. This includes policies and practices that create
+        safe school environments and professional learning regarding the signs and symptoms
+        of trauma, promote resiliency and wellness among students, their families, and staff, and
+        reduce re-traumatization.
+
+Legal References: ORS 339.240, ORS 339.250, ORS 659.850, OAR 581-021-0045,
+OAR 581-021-0050 to -0075.
+
+History: Replaces 4.30.010-P (Standards of Conduct) and 4.30.020-AD (Philosophy for
+Discipline) Adopted 6/2009; Amended 4/2022
+
+Policy Review
+This policy will be reviewed every 5 years. It revises 4.30.010-P and eliminates 4.30.030-P
+Program for Disruptive Students, as well as the Administrative Directive 4.30.031-AD that
+accompanies it.
+
+
+
+
+                                            Page 4 of 4
+T
+
+                              BOARD POLICY                               4.30.060-P
+              Student Anti-Harassment
+              and Teen Dating Violence
+              Policy
+
+
+     I.   Overview and Scope
+          Portland Public Schools is committed to providing a safe, positive, and
+          productive learning and working environment. Harassment, including
+          intimidation or bullying, cyberbullying, and sexual harassment, including
+          teen dating violence and domestic violence, are strictly prohibited and
+          shall not be tolerated.
+          This policy applies to student behavior on school grounds, at any
+          school-sponsored activity, on school-provided transportation, at any
+          official school bus stop, and in all instances that student discipline applies
+          as provided in Student Discipline Procedures 4.30.020-AD. Certain
+          behavior may require the District to follow the procedures outlined in
+          Student to Student Sex-Based Discrimination and Harassment
+          Administrative Directive 4.30.072-AD, otherwise, the District will follow
+          the procedures found in the Title IX Student to Student Sex-Based
+          Discrimination and Harassment Administrative Directive 4.30.072-AD.
+
+
+    II.   Definitions
+          A.     “Harassment” means all forms of harassment, intimidation or
+          bullying, cyberbullying, and sexual harassment, including but not
+          limited to:
+               1. Intimidation, or bullying of students: any act that
+                   a. substantially interferes with a student’s educational
+               benefits,opportunities, or performance and
+                   b. has the effect of physically harming a student or damaging a
+               student’s property, knowingly placing a student in reasonable fear of
+               physical harm to the student or damage to the student’s property, or
+               creating a hostile educational environment, including interfering with
+               the psychological well-being of a student and
+
+                 c.    may be based on, but not limited to, the protected class
+               status of a person.
+               2. Cyberbullying: the use of any electronic communication device
+               to harass, intimidate, or bully.
+               3.    Sexual harassment of students: includes
+                a.      a demand for sexual favors in exchange for benefits;
+T
+
+                       BOARD POLICY                               4.30.060-P
+       Student Anti-Harassment
+       and Teen Dating Violence
+       Policy
+          b.     unwelcome conduct of a sexual nature that has the purpose
+        or effect of unreasonably interfering with a student’s educational
+        performance or that creates an intimidating, offensive or hostile
+        educational environment; and
+         c.      assault when sexual contact occurs without a student’s
+       consent because the student is under the influence of drugs or
+       alcohol, is unconscious, or is pressured through physical force,
+       coercion, or explicit or implied threats.
+         4. Teen dating violence:
+         a. A pattern of behavior in which a person uses or threatens to use
+       physical, mental, or emotional abuse to control another person who
+       is in, or has been in, a dating relationship with the person, where one
+       or both persons are 13 to 19 years of age; or
+          b. Behavior by which a person uses or threatens to use sexual
+       violence against another person who is in a dating relationship with
+       the person, where one or both persons are 13 to 19 years of age.
+          5.     Domestic violence: abuse between family and household
+    members as defined by ORS 107.705.
+
+    B.     Protected class: a group of persons distinguished, or perceived to
+    be distinguished, by race, color, religion, sex, sexual orientation, gender
+    identity, national origin, marital status, familial status, source of income,
+    or disability.
+    C.   Retaliation: experiencing an adverse impact after making or
+    supporting a claim of Harassment, including teen dating violence or
+    domestic violence, if the impact would deter a reasonable person from
+    making such a claim.
+    D.     Sexual orientation: an individual’s actual or perceived
+    heterosexuality, homosexuality, bisexuality, or gender
+    identity.
+    E.     Gender identity: a person’s sense of being male or female
+    regardless of whether the individual’s appearance, expression, or
+    behavior differs from that traditionally associated with the individual’s sex
+    at birth.
+T
+
+                              BOARD POLICY                                4.30.060-P
+              Student Anti-Harassment
+              and Teen Dating Violence
+              Policy
+
+
+    III. All schools shall use evidenced-based strategies to maintain
+    school- wide and classroom environments that are safe, promote
+    learning and free of harassment.
+
+    IV. Notice of Policy and Resources
+
+
+           A.    Notice: Signs, in age appropriate language, explaining the
+           prohibition against harassment, intimidation or bullying, acts of
+           cyberbullying, and retaliation shall be posted in all schools below grade
+           6. Signs posted in all grade 6 through 12 schools shall include the
+           prohibition against sexual harassment on a sign at least 8.5 by 11
+           inches in size. It shall also be included annually in the Guide, readily
+           available from the district office, and posted on the district website.
+           B.     School-Wide Student Notification: Students shall be
+           informed of the definition of, consequences for, and obligation to
+           report Harassment and retaliation. This can be accomplished in
+           the form of class discussion or activity. It is also found in the
+           Student Rights and Responsibilities Handbook.
+
+
+       V. Reporting Harassment
+           1.    Students who believe they have been subjected to
+           Harassment or retaliation are encouraged to immediately inform a
+           teacher, counselor, administrator, or other District employee. Each
+           school has a School Compliance Officer (SCO) who is responsible to:
+                       a) receive all school-based reports of bullying,
+                 harassment & discrimination;
+                        b) conduct safety planning for impacted student(s);
+                        c) act as main point of contact for Title IX reports,
+                 investigations & associated interventions;
+                        d) ensure all incidents are cross-reported to DHS, Title
+                 IX etc. Current SCO’s for each school are posted on
+                 www.pps.net/titleix
+      2.       Students who witness or have reliable knowledge of
+               harassment or retaliation against any student should report
+               their concerns to a teacher, counselor, administrator, or
+               District official as soon as possible.
+T
+
+                               BOARD POLICY                               4.30.060-P
+              Student Anti-Harassment
+              and Teen Dating Violence
+              Policy
+
+               3. Any District employee who becomes aware of Harassment
+               against any student or who receives such a report shall
+               immediately report the conduct to the school principal or other
+               District administrator. Employees shall also comply with their
+               mandatory reporting obligations.
+    VI.          Consequences for Engaging in Harassment
+           Students who are found in violation of this directive are subject to
+           disciplinary action ranging from a Level One conference to a Level Four
+           expulsion/delayed expulsion/reassignment or referral. Disciplinary action
+           depends on the number of occurrences and the severity of the offense
+           and as provided in the Guide to Procedures on Student Responsibilities,
+           Rights and Discipline (Guide).
+
+    VII.         Procedures
+           Reports and complaints of Harassment, including teen dating and
+           domestic violence, will be investigated by the District following the
+           procedures outlined in the Harassment, Sexual Violence, and Teen
+           Dating Violence Procedures and Prevention – Students
+           Administrative Directive 4.30.071-AD. Students and their parents
+           will be notified in writing of the investigation and will beprovided
+           information about resources and supports, including information
+           about civil and criminal remedies, to assist them in the process.
+           Allegations of retaliation will also be investigated and, if
+           substantiated, may result in discipline.
+           Students may report Harassment anonymously; however,
+           corroborating evidence is required for any disciplinary action or other
+           consequences.
+           District employees who have reliable knowledge of prohibited conduct by
+           a student or an adult against any student, shall immediately report their
+           concerns to the appropriate designated school district official. Reports of
+           conduct violating this directive may be made anonymously; however,
+           corroborating evidence is required for any disciplinary action or other
+           consequences.
+T
+
+                                    BOARD POLICY                              4.30.060-P
+                    Student Anti-Harassment
+                    and Teen Dating Violence
+                    Policy
+
+           VIII.       Confidentiality
+                 Confidentiality: All complaints shall be handled so that the identity of the
+                 complainant and any information obtained as part of the investigation
+                 shall be kept confidential to the extent that confidentiality is compatible
+                 with a thorough investigation of the complaint and is permitted under the
+                 law. The District should strive to protect the identity of the person who
+                 files a complaint, encourage the reporting of any violations under this
+                 policy. Parents/Guardians of the impacted students will be notified by
+                 the District.
+
+                 Confidentiality of student records: Any disciplinary action taken against a
+                 student shall be kept confidential to comply with federal requirements for
+                 confidentiality of student records.
+
+
+
+    Legal References: ORS 339.356; ORS 339.366; ORS 107.705; 342.704
+
+    OSBA: JFCF
+
+       History: Replaces Harassment & Bullying Policy (4.30.060-P) and
+       Anti-Harassment (4.30.061-AD) Amended 12/10; Amended 2/15;
+
+    Adopted: 6/15/2021
+                   Administrative Directive                                6.40.040-AD
+
+
+
+
+6.40.040-AD               Reproduction of Materials
+
+      Copyright laws place complex limits on reproduction of materials by teachers for
+      class use. The district publication "A summary of Copyright Procedures for
+      Educators" should be reviewed in detail. In general, the following rules apply:
+        (1) Single Copies. Generally, principals and teachers are advised that single
+            copies of a page or portion of a published item may be reproduced if the
+            source is properly identified without infringing upon the copyright law;
+        (2) Portions of Books. Portions of printed materials cannot ordinarily be copied
+            or reproduced in quantities for distribution to avoid the necessity for students
+            and teachers to purchase the original work;
+        (3) Music and Plays. Copyright laws on plays and music are stringent and no
+            such material should ever be reproduced without written permission of the
+            copyright owner;
+        (4) Video Recordings. Use of video recordings, either prerecorded television or
+            recorded non-broadcasted programs, are strictly regulated by copyright and
+            licensing laws. Use of prerecorded television and rented or legally obtained
+            non-broadcasted programs in classroom instruction is usually permissible; but
+            unless license is acquired from the copyright owner, they cannot be used in
+            any non-instructional or entertainment setting. Copying of prerecorded
+            television programs and copying and retaining non-broadcasted video
+            recordings without proper license agreements is illegal;
+        (5) Computer Software. Copying computer software beyond the production of a
+            single back-up copy and the authorized work copy/copies required to utilize
+            the program at a single computer station is a violation of the licensing
+            agreements and copyright law. The printed documentation and instructional
+            material accompanying a program is likewise covered by the same laws
+            protecting all printed materials;
+        (6) Required Signs for Copying Machines. All unattended copy machines
+            should carry the notice warning users of potential copyright infringement.
+            These notices are required under Section 108 of the Copyright Law. Signs
+            are available from the Office of Educational Media.
+
+
+
+
+Portland Public Schools                     Page 1 of 2                      Portland, Oregon
+                                                                                6.40.040-AD
+
+Policy Implemented: 6.40.010-P
+
+History: Adpt. 6/71; Amd. 2/75; Amd. 3/78; Amd. 2/86; Amd. 9/01/02
+
+
+
+      For official use only
+
+      Approved:
+
+                              !     !      !                  !!!"#$%#$&!!!'
+      ____________________________________
+         Superintendent                                       _______________
+                                                                   Date
+      Superintendent                                          Date
+                    Board Policy                                               6.40.010-P
+
+                    Instructional Materials Selection
+
+
+
+High-quality educational and instructional materials enhance our students’ learning
+and educational experiences, and they shall be available in our schools. The
+Superintendent shall establish procedures for the selection of textbooks and
+instructional materials in accordance with state law, State Board of Education rules,
+and criteria to realize the goals of education as enunciated by the State and District.
+In developing such procedures and in the selection and approval of textbooks and
+instructional materials for use in District schools, the following guidelines shall be
+followed.
+
+ I.    Textbook and Instructional Materials Selection
+       (1) Textbooks and instructional materials shall be selected on a designated
+           schedule with the exception of those materials that are determined to be
+           satisfactory with regard to content, as well as availability for replacement
+           copies of textbooks/instructional materials and essential consumables.
+           Ordinarily such selection schedules shall coincide with those of the State
+           Board of Education.
+
+II.    State Approved and Supplementary
+       (1) Textbooks and instructional materials adopted by the State Board of
+           Education may be approved for use in District schools by the Office of the
+           Superintendent.
+
+III.   Textbooks and Instructional Materials Not State Approved
+       (1) Textbooks and instructional materials other than those approved by the
+           State Board of Education shall require approval and adoption by the
+           Board of Education upon the recommendation of the Superintendent.
+
+IV.    Supplementary Books and Instructional Materials
+       (1) Supplementary books, maps, library books, courses of study, instructional
+           guides, all media materials, and other instructional materials used in
+           District schools shall require approval according to a process established
+           by the Office of the Superintendent.
+
+V.     Guidelines for Inclusion
+       (1) Criteria for selection of instructional materials shall include accurate
+           portrayal of the diversity of our society, including the contributions
+            and the roles and contributions of different racial, ethnic, and gender groups
+
+                                         Page 1 of 3
+                    Board Policy                                               6.40.010-P
+
+                    Instructional Materials Selection
+
+
+
+          to the development of Oregon and the United States.
+      (2) Instructional materials selected by the District should be free from bias or
+          prejudice on account of age, color, creed, disability, marital status, national
+          origin, race, religion, sex or sexual orientation. Instructional materials
+          (will/may) include controversial items to stimulate critical thinking and
+          analysis of issues on the part of students.
+      (3) The Superintendent shall continue to advise publishers of instructional
+          materials of the district's policies and administrative directives for inclusion
+          and use, and to request them to submit instructional materials to the District
+          that are consistent therewith.
+ VI. Use of Selected Instructional Materials
+      (1) Administrators and educators shall implement the use of adopted
+          instructional materials in relevant instructional areas.
+
+
+ VII. No fees charged for regular instructional materials and school-required
+      technology.
+
+
+         (1) In general, fees may not be charged for regular textbooks, other
+             instructional materials, and school-required technology.
+
+
+         (2) Fees may be charged for optional, extracurricular activities or for
+             materials for individual projects in courses such as woodworking, metals,
+             clothing design, etc., that are beyond the basic requirements of the class.
+
+
+         (3) No student will be denied an education because of their inability to pay
+             supplemental fees.
+
+
+           (4) Students may be charged for lost or damaged books, locks, materials,
+           supplies, and equipment. There is administrative guidance for the charging
+           of fees for lost or damaged items and criteria for fee waivers.
+
+
+Legal References: ORS 336.035; ORS 337.120; ORS 337.141; ORS 337.150; ORS 337.260; ORS
+339.155; OAR 581-01-0050 to fi0119; OAR 581-022-0045; OAR 581-022-0046; OAR 581-022-1520;
+
+
+                                         Page 2 of 3
+                      Board Policy                                                    6.40.010-P
+
+                      Instructional Materials Selection
+
+
+
+OAR 581-022-1640; Improving America's Schools Act of 1994 (IASA), [P.L. 103-382], Title I, Sections
+1001-1604/
+
+History: Adpt 6/71; Amd 5/74; Amd 2/9/81; Amd 5/9/85; Amd 9/9/02; BA 2421; Amd 10/2023.
+
+
+
+
+                                             Page 3 of 3
+  Portland Public Schools
+    Student Rights and
+ Responsibilities Handbook
+         2023-2024
+
+
+
+
+A graduate of Portland Public Schools will be a compassionate critical
+thinker, able to collaborate and solve problems, and be prepared to lead a
+more socially just world.
+TABLE OF CONTENTS
+CORE VALUES .......................................................................................................................................... 4
+STUDENT AND CAREGIVER RIGHTS AND RESPONSIBILITIES ........................................................... 5
+MULTI-TIERED SYSTEM OF SUPPORT ................................................................................................... 8
+   RESTORATIVE JUSTICE: .................................................................................................................... 8
+   SOCIAL EMOTIONAL LEARNING:. ...................................................................................................... 9
+STUDENT SUCCESS AND HEALTH ......................................................................................................... 9
+   EVERY STUDENT BELONGS. ............................................................................................................. 9
+   BEHAVIORAL SAFETY ASSESSMENT ............................................................................................... 9
+   HEALTHY, SUBSTANCE-FREE LEARNING ENVIRONMENTS ......................................................... 10
+   GENDER DIVERSITY SUPPORT GUIDE ........................................................................................... 10
+   SELF-HARM, SUICIDE, and SAFETY PLANS .................................................................................... 10
+TITLE IX ................................................................................................................................................... 11
+ATTENDANCE ......................................................................................................................................... 12
+   PARENTVUE ...................................................................................................................................... 12
+NEXUS OF DISCIPLINE........................................................................................................................... 12
+   EXTRA CURRICULAR ACTIVITIES ................................................................................................... 13
+   SCHOOL BUSES ................................................................................................................................ 13
+   TECHNOLOGY ................................................................................................................................... 14
+   DRESS AND ATTIRE EXPECTATIONS. ............................................................................................ 15
+DISCIPLINE: ............................................................................................................................................ 16
+SEARCHES OF PROPERTY ................................................................................................................... 16
+BEHAVIOR MATRIX ................................................................................................................................ 18
+   TYPE I ................................................................................................................................................ 18
+   TYPE II ............................................................................................................................................... 19
+   TYPE III .............................................................................................................................................. 21
+   TYPE IV .............................................................................................................................................. 23
+ALCOHOL/DRUG DISCIPLINARY MEASURES...................................................................................... 26
+EXCLUSIONARY DISCIPLINE................................................................................................................. 28
+   SUSPENSION PROCEDURES. .......................................................................................................... 28
+   DISCIPLINE HEARING PROCEDURES. ............................................................................................ 28
+   DISCIPLINE OF STUDENTS WITH DISABILITIES. ............................................................................ 29
+APPEAL PROCESSES ............................................................................................................................ 29
+DEFINITIONS ........................................................................................................................................... 30
+
+
+
+
+                                                                                                                                                            2
+English This handbook is also available at your school in the following languages: Spanish, Russian,
+Vietnamese, Chinese, and Somali. For more help with the interpretation or translation of languages,
+please call 503.916.3427
+
+
+Chinese您的学校还提供本手册的以下语言版本：西班牙文、俄罗斯文、越南文、中文和索马里文。如
+需更多语 言口译或笔译方面的帮助，请致电503.916.3427。
+
+Vietnamese Quyển sách hướng dẫn này có sẵn tại trường học của con em quý vị trong các ngôn ngữ
+sau đây: Tây Ban Nha, Nga Xô, Việt Nam, Trung Hoa, và Somali. Để được trợ giúp thêm về việc giải
+thích hoặc thông dịch các ngôn ngữ, xin vui lòng gọi điện thoại số 503.916.3427.
+
+Spanish Este manual también está disponible en su escuela en los siguientes idiomas: español, ruso,
+vietnamita, chino y somalí. Para obtener más ayuda con la interpretación o traducción de idiomas, por
+favor llame al 503.916.3427
+
+Somali Buug-yarahan waxaa sidoo kale laga heli karaa dugsigaaga isagoo ku qoran afafka:
+Isbaanishka, Ruushka, Fiitnaamiiska, Shiinaha, iyo Soomaaliga. Wixii gargaar dheeraada ee la xiriira
+af-celinta ama turjumaanka luqadaha, fadlan wac 503.916.3427.
+
+Russian: Это руководство доступно в вашей школе на следующих языках: испанском, русском,
+вьетнамском, китайском и сомалийском. Для получения дополнительной помощи с устным или
+письменным переводом, пожалуйста, звоните по телефону 503.916.3427.
+
+
+
+
+                                                                                                   3
+                                             Core Values
+
+Students at the Center: all students have the ability to succeed; we strive to positively impact
+students, and we center each decision and action on this aspiration. We believe that students' voice
+is essential to understanding and solving the core issues of education; therefore including student
+voice is a priority.
+
+Racial Equity and Social Justice: in the fundamental right to human dignity and that generating an
+equitable world requires an educational system that intentionally disrupts and builds leaders to
+disrupt-systems of oppression.
+
+Honesty and Integrity: in demonstrating honesty and integrity in every action we take, with sincere,
+ethical, transparent, and accountable communication and decision-making in service of our students,
+families, staff, and community.
+
+Excellence: in rigor and high standards for all students and staff, and achieving excellence and high
+performance is the result of the school system acting as a continuous learning organization.
+
+Respect: in respect for all. Every person brings value and deserves to be treated with care, courtesy,
+and compassion.
+
+Relationships: relationships are vital to our success. Authentic human connection, established
+through kind, caring relationships, builds trust, fosters understanding, and strengthens our ability to
+work together towards shared aspirations.
+
+Creativity and Innovation: in the power of effective problem solving supported by a culture of
+creativity and innovation. Challenging assumptions, nurturing curiosity, welcoming new ideas, and
+developing lateral thinking skills are essential to developing effective strategies for constructive
+change.
+
+Partnerships and Collaboration: together, we know and can achieve a great deal, and that by
+leveraging the collective actions of a group of committed stakeholders, we can achieve our Vision.
+
+Grounded in the Spirit of Portland: our unique Portland identity gives us the collective wisdom to
+acknowledge and learn from our community’s diverse history and fuel our innovative collective action
+to create a better Portland for All.
+
+Joyful Learning and Leadership: learning and leading in ways that foster human connection, deep
+appreciation for each other, satisfaction in our work, and appreciation of the learning process.
+At PPS, we believe every student has the right to access an equitable education. To reach this goal
+we believe in targeting and providing interventions for our Black and Native students, with the
+understanding that disrupting these predictive outcomes all of our students will have a more equitable
+education experience.
+
+
+
+
+                                                                                                          4
+     STUDENT AND CAREGIVER
+          RIGHTS AND
+        RESPONSIBILITIES
+Portland Public Schools Students are expected to be safe, respectful, and responsible. Students are
+expected to act in a way that allows teachers to teach and students to learn.
+STUDENTS have a right to:
+   ● Quality and engaging education in an environment that is safe and comfortable.
+   ● Talk with your teachers, counselor, and other school staff about any
+   concerns.
+   ● Receive fair discipline without discrimination.
+   ● Report any incidents of bullying, harassment, abuse, and verbal or physical threats and
+      know that something is being done about them.
+   ● Access your own records within appropriate guidelines.
+   ● Receive discipline information in a language you can understand.
+  You have a responsibility to:
+    ● Attend school regularly, arrive on time, bring appropriate materials, and be prepared to
+       participate in class and do homework.
+    ● Respect the rights, feelings, and property of other students, parents/caregivers, school
+       personnel, visitors, guests, and school neighbors.
+    ● Behave respectfully on school grounds, school buses, bus stops, any school-related activity,
+       and the classroom to avoid interfering with the educational process.
+    ● Follow classroom, school, and District expectations.
+
+Student Rights Specific To Gender Identity & Gender Expression:
+All students in Portland Public Schools have the right to:
+   ● Be open about their identity at school and to have educational and enrichment opportunities to
+     affirm their cultural identity.
+   ● Confidentiality around their sexual orientation and gender identity.
+   ● Be treated equally and be free from bullying, harassment, and discrimination, regardless of
+     sexual orientation, gender identity or gender expression. Report bullying or harassment without
+     fear of consequences or retaliation and have that report acted on by administrators.
+   ● Assert their gender identity at school and be addressed by a name and pronouns that
+     correspond to their gender identity.
+   ● Have access to a bathroom and locker room that corresponds to their affirmed gender identity,
+     and make alternative arrangements to dress down for PE if they feel uncomfortable in the
+     locker room.
+   ● Participate in PE and sports that correspond with their gender identity. Assistance with
+
+                                                                                                      5
+       determining which PE and/or sports space is best for them while in the process of transitioning.
+   ●   Wear clothing that expresses their gender identity (as long as it follows the PPS dress code,
+       which applies to all students regardless of gender).
+   ●   Be open about their identity at school. (And also, to keep their identity private if they choose to
+       do so).
+   ●   Without parental permission, students can change their preferred name in the school’s
+       information system.
+   ●   With parent permission, students can change their gender marker to male, female, or
+       nonbinary in the school’s information system. All that is needed to make this change is a
+       written request to do so, using the Name & Gender Change Form. (If a student does not have
+       parental permission to make this change, they still have the right to be referred to by the name
+       and pronouns corresponding to their gender identity).
+ Parents/Caregivers have a right to:
+   ● Receive regular official reports of your academic progress and attendance.
+   ● Make recommendations and give input about educational planning.
+   ● Participate in conferences with teachers and/or the principal.
+   ● Receive explanations from teachers about your grades.
+   ● Access all your school records within appropriate guidelines.
+   ● Obtain further clarification on student rights, responsibilities, and discipline.
+   ● Receive discipline information in a language they can understand.
+   ● Receive written and oral communications from your school in a language they can understand.
+ Your parent/caregiver is responsible for:
+   ● Assist school staff by sharing ideas for improving student learning and preventing or
+      resolving student discipline problems.
+   ● Provide supervision for your health, physical, and emotional well-being.
+   ● Ensure your attendance is prompt and regular while also providing the school with
+      explanations for your absences or tardiness.
+   ● Attend parent/caregiver conferences.
+   ● Provide appropriate supervision for you before and after school.
+   ● Review and discuss student rights, responsibilities, and discipline with you.
+   ● Support the school's self-discipline and conflict resolution programs.
+
+FINES AND FEES: fines for damaged or lost books or school equipment will be charged. School
+records and grades may be withheld until payment is received.
+
+FOOD SAFETY: Oregon State has strict rules regarding the use and preparation of food in public
+places such as schools. Classroom treats may only be commercially prepared. Foods must be
+wrapped in individual portions and cannot be shared between students. Students may not share food
+from their lunches that they bring from home.
+
+FREEDOM OF EXPRESSION AND ASSEMBLY: within state and Federal law, District policy, and
+school guidelines, students have freedom of expression and assembly under the First Amendment.
+
+LOST, STOLEN, DAMAGED PROPERTY: PPS does not pay for or replace student property that is
+
+                                                                                                        6
+lost, stolen, or damaged at school. All items, including electronics, bicycles, and skateboards, are
+brought to school at the owner’s risk. Lockers are not safe places to store valuable items.
+
+MEDICAL EMERGENCIES: as necessary, the school will order medical assistance at
+parent/caregiver expense.
+
+MEDICINES: if a student must take medication at school, the parent/caregiver must take it to the
+principal or designated staff. The person receiving the medication will explain the rules and arrange
+for an appropriate staff member to give the student the medicine. Any medication must be in the
+original labeled container. Students can take their own medication under certain limited conditions but
+must check with the principal first.
+
+STUDENT RECORDS: the school keeps records of each student. These are records of student
+academic progress, student behavior, and other pertinent information relating to the student. These
+records are confidential. Student records provide information for people such as school personnel
+and parents/caregivers. Parents/caregivers have rights regarding student records, including the right
+to view these records and request an amendment of the records. They may always take questions to
+the principal.
+
+
+
+
+                                                                                                        7
+               DISTRICT SUPPORTS
+                           MULTI-TIERED SYSTEM OF SUPPORT
+Multi-Tiered System of Support (MTSS): is a framework focused on prevention and problem-
+solving for all students using data-based decision-making. MTSS uses evidence-based instruction,
+intervention, and assessment practices to ensure that every student receives the appropriate level of
+support based on their level of need. A strong tiered system of support begins with a focus on Tier I.
+
+   ● Tier I: is essential access to essential grade-level standards, behavior instruction and practice,
+     Core Counseling Curriculum, school-wide Social Emotional Learning (SEL) practices, and
+     community and family engagement for all students. Tier I supports school-wide expectations,
+     wellness, and the climate of the school community.
+
+   ● Tier II: allows additional time and support to learn priority grade-level standards, essential
+     behavior practices, and targeted SEL skills. Interventions take place in small groups with similar
+     needs. Tier II social-emotional interventions can be delivered by a school counselor, school
+     social worker, school psychologist, or other support staff.
+
+   ● Tier III: Intensive Intervention: Intensive, individualized 1:1 (or very small core academic
+     foundational skills group instruction) interventions to support students with lagging foundational
+     academic skills, essential behavior practices, screening, individual counseling, community
+     service and mental health referrals and care coordination, and safety and support planning.
+     Core academic foundational skill interventions.
+For more information on MTSS, please visit https://www.pps.net/Page/15756
+
+RESTORATIVE JUSTICE: Restorative Justice (RJ) is a philosophy grounded in the belief that
+positive, healthy relationships help us thrive. RJ supports schools to maintain those healthy
+relationships and encourages equitable access to culturally relevant and meaningful education.
+
+RESTORATIVE PRACTICES: these are the processes and skills that help us build relationships
+among students and all members of the school community and are used to help schools: Improve
+school and classroom communities by focusing on building community and raising accountability.
+  ● Promote social student self-awareness, empathy, communication, and responsible decision-
+    making, relationship-building, and conflict resolution.
+  ● Increase a sense of belonging in school buildings by decreasing conflict and de-escalating
+    issues while promoting a sense of community responsibility.
+  ● Decrease disciplinary issues and disruptions as a possible alternative to exclusionary practices
+    such as suspension and expulsion.
+  ● Promote student engagement in learning.
+  ● Provide students with the chance to acknowledge and repair the harm when possible.
+  ● District staff use restorative practices when able and agreed upon by all parties. Some
+    Restorative practices are:
+     ○ COMMUNITY BUILDING CIRCLES: Used at any point within the day or week to help build
+         trust, belonging, and a positive learning environment within the school community.
+
+                                                                                                         8
+      ○ RESPONSIVE CIRCLES: Give space to students directly involved in a conflict and others
+        directly affected to discuss the impact of the behavior and develop a plan to repair the harm.
+      ○ CHATS: An informal conversation using restorative questions to help students process the
+        incident, strengthen their relationship, and come to a resolution.
+      ○ CONFERENCE: A meeting between all parties involved to discuss the impact of behavior,
+        repairing harm, and the development of an action plan to support follow-up.
+
+SOCIAL EMOTIONAL LEARNING: Social and emotional learning (SEL) is the process through
+which children and adults understand and manage emotions, set and achieve positive goals, feel and
+show empathy for others, establish and maintain positive relationships, and make responsible
+decisions.
+
+                               STUDENT SUCCESS AND HEALTH
+Portland Public Schools believes that everyone in our schools deserves a safe environment that
+promotes respect, community, and learning. Some issues require extra expertise and sensitivity,
+including self-harm or suicide ideation and threatening behavior. These services provided by the
+Student Success and Health Department are developed to meet the needs of our community and are
+based on nationally recognized models.
+
+Students, parents, school staff members, and the general community have several ways to
+communicate safety concerns:
+  ● Tell a teacher, staff member, administrator, school counselor, nurse, or school social worker who
+      will initiate District processes as necessary.
+  ● Call or text the SafeOregon TipLine (Ph. 844-472-3367, or Email, tip@safeoregon.com) to leave
+     information that can be confidential.
+  ● In an immediate emergency, call 911.
+
+EVERY STUDENT BELONGS: Our Anti-racist & Anti-oppression Learning Communities Policy asserts
+that the presence of symbols of hate on the basis of race, color, religion, gender identity, sexual
+orientation, disability, or national origin, including the noose, symbols of neo-Nazi ideology, or the battle
+flag of the Confederacy create a material and substantial disruption in school activities and the learning
+environment by creating an atmosphere of fear and intimidation and interfere with the rights of students
+by denying them full access to the services, activities, and opportunities offered by a school. These
+symbols are not allowed at Portland Public Schools, and displaying, drawing, or sharing them with
+others may result in student discipline in accordance with 2.10.015-P Anti-Racist & Anti-Oppression
+Learning Communities Board Policy.
+
+BEHAVIORAL SAFETY ASSESSMENT: (BSAS) provides a way for trained school staff members to
+gather information, assess threatening situations, and make plans to support safety. This process is
+not part of the school discipline procedures and policies. The focus is not on punishing, diagnosing, or
+labeling students but on maintaining a safe and fair environment for everyone in the community. The
+school contacts the Behavioral Safety Assessment Team (BSAT) for consultation and support in more
+complex or serious situations.
+
+
+
+
+                                                                                                           9
+HEALTHY, SUBSTANCE-FREE LEARNING ENVIRONMENTS: students must not use, possess,
+transfer, or distribute alcohol or drugs or anything that looks like a drug in school, on the school grounds,
+at school activities, or during school hours or on the way to or from school. Students whose behavior
+indicates they are under the influence of drugs or alcohol will receive disciplinary consequences.
+The focus of the Healthy, Substance-Free Learning Environments Policy is to:
+   ● Address substance use issues as a form of a mental health issue and respond by offering
+     education,
+   ● Provide interventions and support and work to minimize out of school discipline, which often puts
+     students at higher risk for increased substance use.
+   ● Developed an array of supports, including a class for students and their caregivers or caring
+     adults, access to substance use counseling, case management, and support to access
+     treatment in the community.
+
+GENDER DIVERSITY SUPPORT GUIDE: Portland Public Schools has created this toolkit for school
+accommodations and considerations, to create a shared understanding of how the school will support
+transgender, nonbinary, and gender-diverse students. The Administrative Directive for Transgender,
+Nonbinary, and Gender Diverse Students (4.30.061-AD), PPS School Planning materials, Name and
+Gender Change Form, and the FAQ documents are meant to serve as resources to help ensure ALL
+students have the right to a safe, accepting, and healthy learning environment. The guide can be found
+at: https://www.pps.net/Page/14123
+
+SELF-HARM, SUICIDE, and SAFETY PLANS: trained student service providers (counselors, school
+nurses, school psychologists, school social workers, qualified mental health professionals, etc.) can
+assess the situation, help students and parents contact support and treatment resources, and work
+together to develop safety plans. These plans are shared with selected school staff members and
+reviewed as needed. When the situation is more serious or other resources are needed, the school
+contacts the Student Success and Health Department. Students learn how to recognize and respond
+to warning signs of suicide in friends, use coping skills, use support systems, and seek help for
+themselves and their friends. All students will be expected to help create a school culture of respect
+and support in which students feel comfortable seeking help for themselves or their friends. Students
+are encouraged to tell any staff member if they, or a friend, are feeling suicidal or needing help.
+
+Students have access to national resources which they can contact for additional support:
+  ● Multnomah County Crisis Line (503)        ● The National Suicide Prevention Lifeline
+    988-4888                                    1.800.273.8255 (TALK),
+    ○ Free, 24/7 mental health support          www.suicidepreventionlifeline.org
+    ○ Interpretation services for non-English ● The Trevor Lifeline 1.866.488.7386,
+       speakers                                  www.thetrevorproject.org
+    ○ Referral to low-cost or sliding-scale     ○ Trained counselors are here to support you 24/7.
+       agencies                                    If you are a young person in crisis, feeling
+  ● Kaiser Crisis Line (503) 331-6425 For          suicidal, or needing a safe and judgment-free
+    those with Kaiser insurance                    place to talk.
+  ● Youthline at Lines for Life 877-968-8491 ● Urgent Walk-in Clinic (503) 963-2575
+    or Text: teen2teen to 839863                 ○ The clinic can help anyone experiencing a
+    ○ Chat: www.oregonyouthline.org                 mental health crisis at no cost.
+    ○ A teen-to-teen crisis and helpline.
+
+                                                                                                          10
+        Contact us with anything that is              ○ Receive immediate care during a mental health
+        bothering you; no problem is too big            crisis
+        or too small! Teens are available to          ○ Speak to a psychiatrist or a mental health nurse
+        help daily from 4-10 pm Pacific Time            practitioner
+        (off-hour calls answered by Lines for         ○ Get help with medication and treatment
+        Life)
+                                                      ○ Location: 4212 SE Division St, Portland
+                                                      ○ Hours: Monday -Saturday: 7 am-10:30 pm,
+                                                        Sunday 9 am-9 pm
+
+
+For more information, on any of these supports please see https://www.pps.net/domain/44
+
+                                                TITLE IX
+The Education Amendments of 1972 is a Federal civil rights law that prohibits discrimination and
+harassment on the basis of sex in all education programs and activities. Title IX works together with
+state and district policy to ensure students can safely access their education. Title IX prohibits the
+following:
+sexual harassment, sexual assault, stalking, domestic/teen dating violence, and/or discrimination or
+harassment based on sexual orientation or gender identity: discrimination based on pregnancy or
+parenting status and/or discrimination in any PPS athletic or educational program.
+Prior to the start of the school year, the principal or program director designates a School-Based TIX
+Coordinator who will receive specialized training and support from the PPS district office and are
+responsible for ensuring compliance with Title IX for their school or program. The list of Coordinators
+is published each August and is available on the Title IX family website.
+To report a Title IX concern, please visit www.pps.net/titleix for a list of rights and options.
+For specifics on Title IX, investigations, disciplinary options and available supportive measures,
+please refer to 4.30.060-P Student Anti Harassment and Teen Dating Violence Policy and the
+following administrative directives: 4.30.061-AD Transgender, Nonbinary and Gender Diverse
+Students, 4.30.071-AD Harassment, Sexual Violence, and Teen Dating Violence Procedures and
+Prevention- Students, 4.30.072-AD Title IX Student to Student Sex-Based Discrimination and
+Harassment
+
+
+
+
+                                                                                                         11
+ SCHOOL CONNECTED AREAS
+      AND ACTIVITIES
+                                           ATTENDANCE
+Students are expected to attend school and classes regularly and on time. Parents/caregivers are
+legally responsible for having their children in school. The parent/caregiver may notify school staff of
+absences and/or tardiness by sending a note, email, fax, or by leaving a voicemail or message. The
+following absences are excused when the parent/caregiver informs school staff of:
+   ● student illness
+   ● family illness requiring student’s presence
+   ● religious holidays
+   ● death in a family
+   ● pre-arranged doctor or dentist appointments.
+ Notification must occur within three (3) days of the absence and should include:
+   ● the date
+   ● the name of the student
+   ● the reason for the absence and
+   ● the signature of the parent/caregiver
+Students should make up all work missed and will receive credit for make-up work for excused
+absences. State law requires schools to withdraw students who are absent ten (10) consecutive school
+days for any reason.
+
+When parents/caregivers must pick up their child before the regular dismissal time, they should come
+to the school office. The office cannot release a student to anyone who is not on the child’s emergency
+information form. If parents/caregivers send someone else to pick up a student, prior written
+arrangements must be made with the office.
+
+PARENTVUE: is the system tracking database for Parents' attendance, name pronunciation, school
+attendance, grades, schedules, and other school-based information. For support with PARENTVUE,
+visit https://www.pps.net/Page/2341
+
+                                     NEXUS OF DISCIPLINE
+Where and when discipline applies: students can receive disciplinary referrals for incidents occurring
+on district property at any time and at a school event, such as a field trip or off-site dance. Students
+can receive consequences for behavior on the way to and from school within a reasonable period of
+time.
+   ● Students may receive disciplinary action for behaviors that occur while traveling to and from
+     school. The “Nexus of Discipline” applies as a student travels from home to school and from
+     school back to home.
+   ● Students can be disciplined for any off-campus and online behavior that “spills over” into the
+     school and causes a substantial disruption to the learning environment.
+
+
+
+                                                                                                       12
+District behavior expectations apply to students whenever they are:
+   ● Present in any school or on the property of the school district;
+   ● At any school-sponsored activity, regardless of its location, including traveling to and from
+       within a reasonable period of time;
+   ● Traveling to and from school as defined in this document in the “Before and After School”
+       section;
+   ● Involved in conduct (regardless of whether or not they are off campus or at a non-school
+       sponsored program) that has a direct connection to a school’s safety and/or welfare.
+
+BEHAVIOR IN THE COMMUNITY: when walking to or from school or waiting for, a bus, students are
+expected to respect the rights and property of other people.
+
+EXTRA-CURRICULAR ACTIVITIES: Portland Public Schools believes that student Extra-Curricular
+Activities are an integral part of the educational program of the Portland school system.
+CLUBS: a club is a group of students that meets at a regular time, shares a common interest, or
+wants to provide a service. The club must be supervised by an adult who is approved by the principal
+and be open to any student.
+   ● Transportation for students participating in a club that meets before or after school is the
+     responsibility of the parent/caregiver.
+   ● Students are encouraged to participate in school activities and services that promote a positive
+     atmosphere within the school. They are also invited to discuss school issues with teachers and
+     the principal and take part in making decisions and solving problems.
+
+NON-PPS AFTER-SCHOOL SPORTS: some sports club activities are not endorsed or sponsored by
+Portland Public Schools. Participation in any activity of a sports club that occurs outside the school
+day or off school premises is the sole responsibility of the student and parent/caregiver.
+
+PORTLAND INTERSCHOLASTIC LEAGUE(PIL): athletics utilizes inherently educational
+experiences to foster lifelong lessons such as teamwork and self-discipline while facilitating the
+physical and emotional development of our student-athletes.
+   ● High School Athletics 9-12: is to promote participation and sportsmanship through a
+     competitive interscholastic athletic program. Every athlete is provided with opportunities,
+     positive recognition, and learning experiences that support and maximize the academic goals
+     of our High School.
+   ● Middle School 6th - 8th: youth sports program will be directed by (PIL). The student-athletes
+     will represent their neighborhood high school cluster. The cluster each athlete participates in is
+     determined by address.
+
+SCHOOL BUSES: school bus transportation is a privilege that students keep by being safe,
+respectful, and responsible:
+   ● If a student rides a school bus to and from school, they must follow the posted bus rules. A
+      school administrator will work with students and bus drivers around behavior on the bus and
+      at bus stops.
+
+
+
+                                                                                                     13
+   ● A student may lose the bus-riding privilege by chronic misbehavior or a serious violation of a
+     bus rule.
+   ● The State of Oregon has rules for students riding school buses. These rules are posted in all
+     school buses.
+TECHNOLOGY: students may access digital devices, software, and the internet while at school.
+There is some risk that comes with online activity.
+DIGITAL CITIZENSHIP: Digital Citizenship and appropriate online use are important inside and
+outside the school day. Access is a privilege, and students must follow the rules and policies
+addressed in the PPS Acceptable Use Policy. Failure to follow the rules and policies Misuse can
+result in the loss of the privilege of using devices or internet access and can result in loss of access,
+disciplinary or legal action. PPS expects all students to be positive digital citizens who:
+Do not:
+   ● share private information about themselves or others.
+   ● cause harm to others or damage to their property.
+   ● Causes harm to another student or school or the community
+   ● Damage computer equipment, data, or files.
+   ● Pursue hacking.
+   ● Copy or download copyrighted materials.
+   ● Look at, send, copy, or create material threatening, rude, inappropriate, or meant to hurt
+      someone’s feelings, reputation, or opportunities.
+   ● Plagiarize or steal information, music, videos, or other copy-protected digital artifacts.
+   ● Buy, sell or advertise merchandise unless it’s part of an approved school project.
+   ● Install applications on computers unless approved by the teacher or District staff.
+Understand:
+   ● Only students who are currently enrolled can use the District network. Your privilege to use
+   technology can be taken away by staff or parents if you are engaging in inappropriate behavior.
+   ● The choices you make while on a computer or the internet. Tell an adult if you see something
+   threatening or inappropriate happening.
+   ● What you do online is not private.
+ Do:
+   ● Acknowledge that the District provides a safe online experience as long as rules are followed.
+   ● Access and use collaborative tools, safe sites, games, and searches.
+   ● Be respectful, responsible, and safe while using devices.
+   ● Communicate online in ways that are kind and respectful.
+   ● Use only your account and not anyone else’s, and keep your account and password information
+      private.
+   ● View and use networks that are allowed by the teacher or District staff.
+
+PHONE USE: for phone use policies, please refer to your School Climate Handbook, that is on your
+school's website.
+
+SOCIAL MEDIA: in some instances, students may not receive discipline for social media posts made
+outside of the Nexus of Discipline. There are a few exceptions:
+   ● When posts were made on campus or at the site of a school event.
+   ● When the posts are of harassing, threatening, or bullying nature and cause substantial
+       disruption to the learning environment and/or the school community.
+
+                                                                                                        14
+   ● When the posts are made to plan disruptive or illegal behavior at school. Examples include
+     harassing, threatening, or bullying posts, those planning to set up a fight, or announcements
+     about planning to bring prohibited substances to school for sale or to share with other
+     students.
+   ● Posting fights or other incidents that interfere and/or cause a distribution to the learning
+     environment or school community.
+DRESS AND ATTIRE EXPECTATIONS: the responsibility for the dress and attire of a student rests
+primarily with the student and his or her parents or caregivers.
+Allowable Dress & Attire
+    ● Students must wear clothing including both a shirt with pants, shorts, or skirt, or the equivalent
+       and shoes.
+    ● Clothing must have fabric in the front and on the sides.
+    ● Clothing must cover undergarments, waistbands excluded.
+    ● Fabric covering all private parts (including buttocks) which must not be see-through.
+    ● Hats and other headwear must allow the face to be visible and not interfere with the line of
+       sight to any student or staff. Hoodies must allow the student's face and ears to be visible to
+       staff.
+    ● Clothing and shoes must be suitable for all scheduled classroom activities, including physical
+       education, science labs, wood shop, and other activities where unique hazards exist.
+    ● Specialized courses may require specialized attire, such as sports uniforms or safety gear.
+
+ Non-Allowable Dress & Attire
+  ● Clothing may not depict, advertise or advocate the use of alcohol, tobacco, marijuana, or other
+     controlled substances.
+  ● Clothing may not depict pornography, nudity or sexual acts.
+  ● Clothing may not use or depict hate speech targeting groups based on race, ethnicity, gender,
+     sexual orientation, gender identity, religious affiliation, or other protected groups.
+  ● Clothing, including gang identifiers, must not threaten the health or safety of any other student
+     or staff.
+  ● Clothing may not display profanity.
+  ● If the student’s attire threatens the health or safety of any other person, then discipline for
+     dress or attire violations should be consistent with discipline policies for similar violations.
+
+
+
+
+                                                                                                      15
+      DISCIPLINE PROCEDURES
+                                    SEARCHES OF PROPERTY
+LOCKER CHECKS AND STUDENT PROPERTY SEARCHES: the school may search a student if
+the school reasonably suspects that a prohibited or dangerous item will be found. Backpacks, purses,
+lockers, and assigned storage areas may also be searched. Lockers, desks, and other places where
+students keep things are the property of and are under the control of the school and may be checked
+at any time for dangerous or prohibited items. Only items a student needs for schoolwork or school
+activities can be stored in these places.
+TECHNOLOGY SEARCH: school officials may search any educational technology equipment
+software owned by the District and internet records at any time for any reason and without student or
+parent consent or notification. Student cell phones, smartphones, personally owned tablets and
+computers, and other similar devices are considered personal property. These items can be searched
+only if there is a reasonable suspicion of a violation of law, district policy, or school rules and a
+reasonable suspicion that evidence of wrongdoing is contained on the device.
+
+
+                                               DISCIPLINE
+School personnel and parents/caregivers are responsible for encouraging students' appropriate
+behavior.
+   ● School personnel are expected to use a continuum of positive behavior interventions, strategies,
+     and supports to teach, encourage and reinforce appropriate behaviors conducive to a learning
+     environment.
+   ● School personnel are expected to intervene early and start the discipline process at the lowest
+     possible level reasonably calculated to change the student’s behavior and minimize loss of
+     instructional time. Additionally, District staff shall consider all available alternatives, focusing first
+     on family and school-based resources when teaching school expectations and responding to
+     misbehavior. District staff investigating student misconduct will not discriminate against students
+     based on race, color, national origin, gender, religion, disability, sexual orientation, gender
+     identity, or other protected classes as defined in Non-Discrimination Policy 1.80.020-P
+Before exclusion, school staff must consider:
+   ● The nature of the misconduct.
+   ● A student’s age, health, disability, and/or special education status.
+   ● Cultural or linguistic factors may have played a role in the misconduct.
+   ● Appropriateness of student’s academic placement.
+   ● Student’s prior conduct and record of behavior.
+   ● Support systems available to the student.
+   ● Student’s willingness to repair harm.
+   ● Impact of the incident on the overall school community.
+   ● Availability of prevention and intervention programs that are designed to address student
+      misconduct.
+   ● Whether the student voluntarily disclosed the misconduct.
+   ● When an out-of-school suspension is imposed, the school must take steps to prevent the
+      recurrence of the behavior that led to the out-of-school suspension and return the student to a
+      classroom setting so that the disruption of the student’s academic instruction is minimized.
+   ● In accordance with 4.30.011-AD, Student Discipline Procedures:
+
+                                                                                                            16
+The use of expulsion is limited to:
+  ● Conduct that poses a threat to the health and safety of students or school employees; or
+  ● When other strategies to change student conduct have been ineffective; or,
+  ● In conformance with district policies and regulations and State law.
+
+For a student who is in fifth grade or lower, the use of out-of-school suspension or of expulsion is
+limited. A disciplinary action that includes exclusion from school for a student in the fifth grade or lower
+must comply with Oregon State law ORS 339.250 and District Policy.
+
+
+
+
+                                                                                                         17
+                              BEHAVIOR MATRIX
+                                       TYPE I
+             (Staff Redirected Behaviors, Stage 1 referral in TeacherVue)
+
+             For TYPE I Behaviors, use the MTSS Tier I Database for guidance.
+BEHAVIOR/
+             ● Bothering, distracting other students
+OFFENSE      ● Failure to follow directions (all grades)
+             ● Minor Insubordination, Defiance, Willful Disobedience, Failure to
+               respond to a proper and authorized direction or instruction of a staff
+               member.
+             ● Off Limits Entering a location in a building or any school property which
+               has been restricted from student use or entering a location that has been
+               restricted from student use during certain times of the day.
+             ● Leaving without permission Failure to attend assigned class without
+               permission or excuse; leaving the building, classroom, or assigned area
+               without prior approval of the teacher and/or an administrator.
+             ● Tardiness Failure to be in a place of instruction at the assigned
+               time.
+             ● Use of profane, biased, and/or vulgar language that is corrected
+               by intervention or redirection
+
+             ● Restorative Chat                      ● Move student's seat
+POSSIBLE
+             ● Restate directions/Re-teach Rule      ● Redirect/coach quietly
+RESPONSES
+             ● Coach quietly (follow up with         ● De-escalation (Help, Prompt, Wait)
+               praise if the student follows         ● Reflection sheet
+               directions)                           ● Behavioral narration of
+             ● Reminder of classroom                   student following
+               expectations/agreements                 expectation nearby
+             ● Keep in proximity                     ● Loss of privilege
+             ● Break in the classroom where          ● Contact Parent/Caregiver
+               possible                              ● 5:1 Positive interactions to
+             ● Structured break/recess                 corrective interactions
+
+              FAILURE TO ATTEND CLASS                LEAVING THE AREA WITHOUT
+              ● Mark the student as absent           PERMISSION
+              ● Student Conference -                 ● If the student is within line of sight,
+              understand reasons for behavior        encourage the student to return
+              and set goals to improve               ● If the student is not within line of
+              behavior                                 sight, call for support to ask
+                                                       someone to look for the student
+
+SUSPENSION    No
+
+HEARING       No
+
+
+
+
+                                                                                                 18
+                                         TYPE II
+            (Administrator or designee enters stage 2 / 3 incident into synergy)
+
+BEHAVIOR/   ● Chronic (persistent) Type I offense that does not respond to early
+OFFENSE       intervention
+            ● Deliberate Misuse of Property The intentional use without proper
+              permission of property belonging to the school or an individual for a
+              purpose other than that for which it was intended or in a manner likely to
+              damage the property.
+            ● Disruptive Conduct Behaving in a manner that disrupts or interferes
+              with the educational process, including consensual sexual activity.
+            ● Early Response to Mid-Level Profane and/or Abusive Language
+              Writing or saying anything which ridicules or humiliates another person on
+              account of age, color, creed, disability, marital status, national origin, race,
+              religion, sex, gender identity, or sexual orientation, that are verbal,
+              physical, non-verbal or digital (including online) and which persist even
+              after initial interventions are applied and/or are becoming pervasive.
+            ● Early Response to Harassment or bullying Intimidation or abusive
+              behavior toward a student, staff, or the school community based on but
+              not limited to: disability, race, color, or national origin, sexual orientation
+              or gender identity or expression, religion, or any other protected class,
+              that are verbal, physical, non-verbal or digital (including online) and
+              which persist even after initial interventions are applied.
+            ● Forgery Providing a false signature or altering school documents.
+            ● Inappropriate Physical Contact Pushing, Shoving, Play fighting, or
+              other inappropriate touching that does not result in harm.
+            ● Minor Technology Violation using technology equipment other than
+              in the manner directed by school staff; including but not limited to
+              violations of phone use policy, computer use policy or internet security
+            ● Plagiarism/Cheating Representing another person’s work as one’s
+              own.
+            ● Possession of Prohibited Items Possession of items that are not
+              permitted at school. Includes look-a-like weapons that resemble a real
+              weapon. Knives are considered prohibited items only, unless used in a
+              threatening, dangerous, or deadly fashion. (As with actual weapons,
+              discipline for toy weapons must be done in consultation with the
+              Student Conduct Coordinator)
+            ● Theft taking property belonging to the school or any individual or group
+              without prior permission. Minor Theft: includes items with a retail value
+              of less than ($20) but excludes personal items such as wallets, purses,
+              or keys.
+            ● Trespassing Entering any school property or into school facilities without
+              proper authority; during school hours; including any school entry during a
+              period of suspension or expulsion
+
+
+
+
+                                                                                                 19
+             In addition to TYPE I, Responses         ● Student Conference
+                                                        understand reasons for
+POSSIBLE      ● Check type I data                       behavior and set goals to
+RESPONSES     ● Restorative Conference or other         improve behavior.
+              Restorative Practice                    ● Student Intervention
+              ● Check in Check Out (CICO) or            Team/Individual Student
+              Check and Connect                         Support Team
+              ● Breaks are Better (BrB)               ● For gender-based
+              ● Meaningful Work                         harassment, notify Title IX
+              ● Affirmations                            Coordinator (school-based)
+              ● Parent/Caregiver Conference           ● No Contact or Stay Away
+              ● Stay Away Agreement                     Agreement
+              ● Intervene and stop the behavior       ● Title IX investigation possible
+              ● Separate the students                   at this level
+              ● Write letter to person harmed         ● Title IX level 2 tools to
+              ● Loss of privilege                       interrupt, educate and
+              ● Safety Plan                             prevent recurrence while
+              ● Small Group Skill Building              supporting student(s) harmed
+              with Student Support Team                 (educational support and
+              Members                                   educational interruption
+                                                        meetings)
+
+SUSPENSION    Possible Suspensions must be developmentally appropriate. Should be
+              thought out and in partnership with the Student Conduct Coordinator and
+              District staff responsible for supervising the school. This suspension should
+              be used to create a plan that supports the student and allows for staff to
+              identify their role in the student’s behavior. During the suspension, the
+              school staff designee should provide learning materials for the student and
+              checking in with them. When the student returns, the administrator should
+              conduct a re-engagement meeting with the student and parents wherever
+              possible. The re-engagement meeting should be geared at producing a plan
+              that will support the student in being as successful as possible in the future.
+              It is also a good time to reflect on whether or not to include the student on
+              the Student Intervention Team agenda if they aren’t already on it.
+
+HEARING       Possible after consultation with Student Conduct Coordinator District
+              staff responsible for supervising the school.
+
+
+
+
+                                                                                                20
+                                           TYPE III
+            (Administrator or designee enters stage 2 / 3 incident into synergy)
+
+BEHAVIOR/     ● Chronic (persistent) Type II
+              ● Burglary Unauthorized entry into a School District building for the purpose
+OFFENSE         of committing a crime when the building is closed to students and the public.
+              ● Bomb Threat Reporting to school, police, or fire officials the presence of a
+                bomb on or near school property
+              ● Display of Patently Offensive Material Displaying sexually, racially, or
+                religiously patently offensive materials.
+              ● Escalated Response to Harassment or bullying: Intimidation or abusive
+                behavior toward a student staff or the school community student based on
+                but not limited to: race, national origin, color, sex, gender identity, sexual
+                orientation, age, religion, physical or mental disability, the harassment or
+                bullying can be verbal, physical, non-verbal or digital (including online) and
+                which persist even after interventions are applied and/or are pervasive.
+                        ○ This includes but is not limited to:
+                        ○ Intimidation, threat of harm or retaliation for making a report
+                        ○ Any behavior that substantially interferes with a student’s
+                            education or that creates a hostile environment at school
+                        ○ Conduct that includes verbal slurs, biased speech, name-calling,
+                            or non-verbal behavior (ex: graphic or explicit written statements),
+                            mimicking sexual acts or motions
+                        ○ Intentionally spreading rumors, gossip or attempts to humiliate
+                            another student
+                        ○ Repeated requests for nudes or sharing unwanted, explicit
+                            images, texts, and/or videos
+              ● Escalated Response to Profane and/or Abusive Language written or
+                verbal (including online) statements intended to ridicule or humiliate another
+                student, which persists even after interventions are applied and/or are
+                pervasive
+              ● False Fire Alarm Reporting a fire to school or fire officials or setting off a fire
+                alarm without a reasonable belief that a fire exists.
+              ● Fighting involves mutual physical contact, such as pushing, shoving, and
+                hitting, with or without injury (i.e., mutual combat).
+              ● Firecrackers or Explosives Using or possessing any firecrackers,
+                fireworks, bullets, ammunition, or explosive materials or devices.
+              ● Interference with School Personnel Preventing or attempting to prevent
+                school personnel from engaging in their responsibilities through threats,
+                violence, or harassment.
+              ● Major Insubordination, Defiance, Willful Disobedience, Failure to
+                respond to a proper and authorized direction or instruction of a staff
+                member that impacts others' access to education or has a substantial
+                impact on the safety of others.
+              ● Major Possession of Stolen Property or Theft Having in one’s possession
+                or under one’s control property that has been stolen when the person
+                possessing it has reasonable cause to believe the property has been stolen,
+                or possession without permission of property belonging to another. Includes
+                items with a retail value of more than ($20) or any keys, purses, or wallets
+                regardless of the value of their contents.
+
+                                                                                                  21
+             ● Major Property Damage, Including situations that will cost the School District
+               to repair or replace the damage or damage that involves a substantial
+               disruption of school activities, such as destruction of school records.
+             ● Major Technology Violation using technology equipment other than in
+               the manner directed by school staff that causes a substantial impact on
+               the learning environment or school community, including but not limited
+               to recording fights, social media posts, repeated phone use violations
+             ● Minor Physical Attack Causing Harm* Intentionally touching or striking
+               another person against their will; or intentionally causing bodily harm to an
+               individual.
+             ● Reckless Vehicle Use Using any motorized or self-propelled vehicle on or
+               near school grounds in a reckless manner or to threaten health or safety or
+               to disrupt the educational process.
+             ● Threat causing fear of harm* Physical, verbal, written, or electronic action
+               which immediately creates a fear of harm, without displaying a weapon and
+               without subjecting the victim to an actual physical attack.
+
+             *If the behavior is involving staff, contact Student Conduct Coordinator
+             and the Senior District Staff Responsible for Supervising the school.
+
+POSSIBLE      In addition to TYPE I, II, responses             ● Administrator and teacher
+RESPONSES     ● Administrator determines consequence             determine how to best re-
+              and follows PPS protocol and policy then           enter after suspension
+              communicates the consequence to                  ● Student/Parent Conference
+              teacher and family                                 understand reasons for
+                                                                 behavior and set goals to
+              ● Administrator and teacher determine how
+               to best re-enter after suspension               ● Functional Behavior
+              ● Restorative Practice                             Assessment/Behavior
+                                                                 Support Plan
+              ● Escalation Cycle
+
+
+SUSPENSION    Possible SEE SUSPENSION IN TYPE II FOR MORE INFORMATION
+
+HEARING       Possible after consultation with the Student Conduct Coordinator and
+              District Staff responsible for supervising the school.
+
+
+
+
+                                                                                                22
+                                         TYPE IV
+            (Administrator or designee enters stage 2 / 3 incident into synergy)
+
+                  Chronic (persistent) Type III
+BEHAVIOR/     ● Arson Action which may cause a fire, such as throwing a lighted item in a trash
+OFFENSE         container or intentionally starting any fire or combustion on school property
+                regardless of whether any damage occurs.
+              ● Major Physical Attack Causing Harm* Intentionally touching or striking
+                another person against their will; or intentionally causing serious bodily harm to
+                an individual.
+              ● Robbery Taking property from a person by force or threat of force.
+              ● Sexual Assault (harassment or bullying based on sex): is a single,
+                severe incident of physical conduct of a sexual nature that occurs without
+                consent or when a student cannot grant consent due to incapacitation from
+                alcohol or drugs. All forms of sexual assault, sexual exploitation, sexual
+                coercion, sexual abuse, teen dating violence, or acts that involve coercion,
+                intimidation, threat, or other abuse. If an incident occurred at school or a
+                school-sponsored event or activity, a district-led investigation is required. If
+                the incident occurred outside of school but has the effect of unreasonably
+                interfering with the student’s education, a district-led investigation may be
+                appropriate.
+              ● Severe Harassment, bullying, and/or bias incident: Intimidation or abusive
+                behavior toward a student, staff, or the school community based on but not
+                limited to race, national origin, color, sex, gender identity, sexual orientation,
+                age, religion, physical or mental disability, the harassment or bullying can be
+                verbal, physical, non-verbal or digital (including online) and which persist even
+                after interventions are applied and/or are pervasive.
+              This includes but is not limited to:
+                   ○ Intimidation, the threat of harm or retaliation for making a report
+                   ○ Any behavior that substantially interferes with a student’s education or
+                     that creates a hostile environment at school
+                   ○ Conduct that includes verbal slurs, biased speech, name-calling,
+                   ○ Conduct that includes non-verbal behavior (ex: graphic or explicit
+                     written statements), mimicking sexual acts or motions
+                   ○ Intentionally spreading rumors, gossip or attempts to humiliate another
+                     student
+                   ○ Repeated requests for nudes
+              ● Weapon, Dangerous: Any weapon, device, instrument, material, or
+                substance, which under the circumstances in which it is used, attempted to be
+                used, or threatened to be used and is readily capable of causing death or
+                serious physical injury.
+              ● Weapon, Deadly: Possession, use, or threatened use of any instrument,
+                article, or substance specifically designed for and presently capable of
+                causing death or serious physical injury.
+              ● Weapon, Firearm Possession of a gun, including but not limited to a firearm
+                which is “designed to or may readily change to expel a projectile by the
+                action of an explosive and any explosive, incendiary, or poison gas.”
+                (Section 921 of Title 18 of the U.S. Code.) “Possession” is defined to include,
+
+                                                                                                23
+                        but not limited to, having a weapon located: (1) in a space assigned to a
+                        student such as a locker or desk, (2) on the student’s person or property (on
+                        the student’s body, in student’s clothing, in an automobile), (3) under the
+                        student’s control, or accessible or available; for example: hidden on school
+                        property. Confiscated guns are turned over to the police.
+
+                     *If the behavior is involving staff, please contact Student Conduct
+                        Coordinator and the Senior District Staff responsible for supervising
+                        the school
+
+                      In addition to TYPE I, II, and IIII         ● Safety Plan
+  POSSIBLE            responses                                   ● Report to Title IX Coordinator
+  RESPONSES
+                     ● Restorative Practice                         (school-based) as soon as possible
+                     ● Escalation Cycle                           ● Contact district Title IX Office to
+                     ● Functional Behavior                          open a Title IX investigation
+                       Assessment/Behavior Support Plan
+
+
+                     ● Racial Equity Social Justice               ● Student Support Team Meeting
+  POTENTIAL          ● Hate Based Incident Response                 with District Support
+  DISTRICT             Team                                         (Counselors, Social Workers,
+  LEVEL              ● District Title IX Office                     Case Manager)
+  SUPPORTS           ● Student Success and Health                 ● Homefree/Raphael House
+                     ● Confidential Advocate (VOA )
+                                                                  ● Other District Supports
+
+
+
+ SUSPENSION            Yes SEE SUSPENSION IN TYPE II FOR MORE INFORMATION
+
+
+  HEARING              Yes after consultation with the Student Conduct Coordinator and District
+                       Staff responsible for supervising the school.
+
+
+ CONSIDER:
+                                                            The school has tried at least 3 different
+*If frequent/Chronic, begin tracking behavior and           strategies in response to behavior, and
+potentially refer to the Student Intervention Team.         the behavior persists and/or any violation
+*Avoiding/escaping behavior?                                that creates a substantial impact on the
+*Is behavior part of a mental health issue, traumatic       school community or a student has a
+response, or disability?                                    combination of multiple Type II, and/or
+*Stage: 2/3 Referral may be appropriate when                Type III violations in one incident, a
+behavior is Chronic (persistent)                            suspension or hearing can be considered.
+
+THREATS: when a student threatens violence or harm, the administrator may consider and
+implement any of the following:
+  ● Immediately removing from the classroom setting any student who has threatened to injure
+     another person or severely damage school property.
+  ● Placing the student in a setting where the behaviors will receive immediate attention, including,
+     but not limited to, the office of the school principal, vice principal, assistant principal, counselor, or
+
+                                                                                                            24
+   a school psychologist licensed by the Teacher Standards and Practices Commission or the office
+   of any licensed mental health professional.
+ ● The school Behavioral Safety Assessment Team will follow the threat assessment protocol and
+   conduct a behavioral safety assessment. The Behavioral Safety Assessment Team may develop
+   a safety plan, which the student must follow or possibly be subject to further disciplinary action.
+The administrator, working in tandem with the Central Office Administrator who oversees the school
+and district team responsible for responding to incidents of threat, has 12 hours to notify the parents
+or caregivers of the student who is the subject of a threat by phone. They must notify the parents or
+caregivers of the incident by writing within 24 hours in alignment with district guidelines.
+
+
+PROHIBITED ITEMS: weapons are prohibited in or near our schools. Students cannot have or use
+firearms or knives or anything that looks or is used like a weapon at school. Words and actions that
+threaten or could frighten other people are not allowed – even in play or with friends.
+Students may not have dangerous or prohibited items at school, on the property, or at school
+activities including:
+   ● Dangerous: including, but not limited to look-a-like guns or weapons, mace, pepper-spray,
+     stun guns, metal knuckles, knives, and others not listed that are and not used in a direct threat.
+   ● Deadly weapon: including, but not limited to, firearms, knives used in a direct threat in an
+     incident of physical attack), metal knuckles, straight razors, weapons of the nunchaku type,
+     stun guns, mace, and other instruments designed for and capable of inflicting injury to persons
+     or property
+   ● Explosives
+   ● Noxious, irritating or poisonous gasses
+   ● Poisons
+   ● Mood Altering Substances (except medicines prescribed for the student which shall be in the
+     labeled container and non-prescription remedies);
+   ● Paraphernalia used in the transporting, sale or use of illegal drugs, including but not limited to
+     Juuls, vape pens, syringes, and flasks
+   ● Stolen property (Stolen items will be returned to the owner or to the police)
+   ● Materials or devices which endanger the physical safety or persons or property
+   ● Gang member identifying markings or paraphernalia
+   ● Materials, devices, identifying markings or paraphernalia which are patently racially, religiously
+     or sexually offensive including those associated with clubs, sects or groups avowing or
+     practicing discrimination against persons on the basis of age, color, creed, disability, marital
+     status, national origin, race, religion, sex or sexual orientation
+   ● Other items or materials prohibited by Board policies, Administrative Regulations or school
+     rules
+   ● Prohibited items will be removed and held by school staff and some items shall only be
+     released to the student’s parent. Illegal items will be destroyed or held for Portland Police.
+
+
+
+
+                                                                                                       25
+                     ALCOHOL/DRUG DISCIPLINARY MEASURES
+Substance Use             Disciplinary Action and                   Possible
+Violation Level           Staff Responsible for Conducting          Interventions
+                          Meeting/Hearing
+         First Use
+LEVEL                     ● Rest of Day Suspension          Admin   ● Insight
+A                         ● Level A meeting                         ● Alt Plan
+
+         First
+         Possession       ● Rest of Day Suspension          Admin   ● Insight
+                          ● Level A Meeting                         ● Alt Plan
+
+         First Transfer   ● Rest of Day Suspension          Admin   ● Insight
+                          ● Level A Meeting                         ● Alt Plan
+
+         Second Use
+         or               ● Rest of the Day and up to one   Admin   ● Insight
+         Possession         additional day of Suspension            ● Alt Plan
+                          ● Second Level A Meeting
+
+LEVEL    First            ● Length of suspension up to the Hearing ● Delayed Expulsion
+B        Distribution       school team but must be under Officer  ● Expulsion
+                            10 days (must consult with             ● SSC
+                            SS&H and MTSS)                         ● Alt Plan
+                          ● Discipline Hearing                     ● SSC W/Alt Plan
+
+
+         Second           ● Rest of the Day and up to one   Hearing ● Delayed Expulsion
+         Transfer           additional day of Suspension    Officer ● SSC
+                            and a                                   ● Alt Plan
+                          ● Discipline Hearing                      ● SSC W/Alt Plan
+
+         Third/Fourth
+         Use              ● Rest of the Day and up to one   Hearing ● Delayed   Expulsion,
+         or Possession      additional day of Suspension    Officer   SSC
+                          ● Discipline Hearing                      ● Alt Plan
+                                                                    ● SSC W/Alt Plan
+                          *Could include meeting with
+                          CADC
+
+LEVEL    Second           ● The length of suspension up to Hearing Expulsion
+         Distribution       the school team must be under Officer
+C
+                            10 days (must consult with
+                            SS&H and Student Conduct)
+                          ● Discipline Hearing
+
+         Third Transfer
+                          ● The length of suspension up to Hearing Expulsion
+                            the school team must be under Officer
+
+
+                                                                                          26
+                                 10 days (must consult with
+                                 SS&H and Student Conduct)
+                               ● Discipline Hearing
+
+            5th Use
+            or                 ● The length of suspension up to Hearing Expulsion
+            Possession           the school team must be under Officer
+                                 10 days (must consult with
+                                 SS&H and MTSS)
+                               ● Discipline Hearing
+
+                               Insight Class or Alternative Plan that is 6 hours long (this must
+ LEVEL A                       be written down and signed by the student, parent or family
+                               member and supervising administrator).
+                               The student is excluded from performing, competing and/or
+                               representing the school in school-sponsored competitions,
+                               games, performances, dances, and other similar activities which
+                               are either after school or off campus for a period of 14 days.
+
+                               A hearing will be scheduled, and the student is excluded from
+ LEVEL B/C                     performing, competing and/or representing the school in school-
+                               sponsored competitions, games, performances, dances, and
+                               other similar activities which are either after school or off
+                               campus for a period of 28 consecutive calendar days starting on
+                               the day of the hearing.
+
+
+Note: Discipline for any alcohol or other drug violation must be done as outlined in 4.30.022-
+AD.
+Race and Ethnicity Substance use violations will be tracked and monitored, and shared with
+building administrators and People who oversee the school.
+
+
+60 DAY RULE: requiring that seniors be disqualified from participation in commencement exercises
+and related activities if within 60 consecutive calendar days of the last senior school day they are
+found to be in violation resulting in three or more days of suspension or more serious disciplinary
+action.
+
+CANNABIDIOL (CBD): CBD and all substances derived from hemp and marijuana contain at least
+trace amounts of psychoactive Tetrahydrocannabinol, or THC, which is illegal in Oregon for anyone
+under the age of 21 to possess or use. Possession or use of any products which contain CBD will not
+be allowed on school property or at school events and will be subject to discipline under the PPS
+discipline and Healthy, Substance-Free Learning Environments policies and administrative directives.
+For doctor-prescribed substances (including CBD), see Medicines and Prescriptions.
+
+TOBACCO: students and adults are not permitted to use, possess, sell, or transfer tobacco or
+tobacco/nicotine-related products or paraphernalia in school buildings, on school property, in vehicles
+used for school transportation and school-related work, and at all school-related activities.
+
+                                                                                                     27
+                                 EXCLUSIONARY DISCIPLINE
+SUSPENSION PROCEDURES: suspension means that a student cannot attend school or school
+activities in Portland Public Schools. Suspensions can last for up to ten school days.
+Building administrators must contact the senior district staff responsible for supervising the school
+when considering more than one day of suspension per incident or if the student already has 2 or
+more days of suspension. Building administrators must contact their student conduct coordinator and
+the senior district staff responsible for supervising the school if they are considering a discipline
+hearing.
+
+An informal meeting may be held between an appropriate school person (team leader, administrative
+assistant, principal) and the student before the student is suspended unless an emergency
+suspension is necessary.
+An emergency suspension may be enacted to investigate an incident fully. A student may be
+suspended during this time to allow for the investigation to be completed, to keep them and others
+safe, and to plan their return to school to be as safe as possible.
+When needed, interpretation services must be provided for students and/or parents/caregivers.
+Parents/caregivers are notified when students are suspended. A meeting with the parent/caregiver
+must be held before a student returns to school after a period of suspension to seek a resolution of
+the misconduct and review ways of improving student behavior. A parent/caregiver may request a
+meeting with the principal or designee to develop a plan of action for the student to prevent further
+incidents.
+Students are expected to complete homework during any suspension and may request missed
+assignments. A suspended student may not be on any Portland School property or at school-
+sponsored activities.
+
+A student or a parent/caregiver wanting to appeal a suspension should contact the principal to
+arrange a conference.
+
+DISCIPLINE HEARING PROCEDURES: for more serious incidents, a hearing is held with
+parents/caregivers, the student, the school team, and a hearing officer. The hearing officer decides if
+a student will be expelled and for how long. Students may also receive a delayed expulsion. During
+the period of the delayed expulsion, the student may be required to complete certain expectations,
+such as attending the Student Success Center or following the stipulations of an alternative plan to
+address the causes of the behavior that led to the hearing. If the student follows the plan, then the
+expulsion will not be imposed. If they do not follow the plan, then another hearing will be held, and the
+student may be expelled.
+   ● A student may be suspended pending the discipline hearing.
+   ● Expulsion means a student cannot attend school or school activities in any Portland Public
+     School for up to a full calendar year. PK-5 students may not be expelled unless the
+     circumstances meet the standards in State law.
+   ● Firearm violations require expulsions from the hearing date for a full calendar year.
+   ● When needed, interpretation services must be provided for students and/or parents/caregivers.
+
+                                                                                                        28
+   ● An expelled student must not be on any Portland Public School property or at school-
+     sponsored activities.
+   ● A student or parent/caregiver may appeal any expulsion or delayed expulsion decision.
+DISCIPLINE OF STUDENTS WITH DISABILITIES: in cases where the disciplinary action includes a
+suspension or expulsion, the school administrator must notify parents/caregivers/surrogates in the
+same manner as non-disabled students. The Special Education Department will notify the
+parents/caregiver of any special education meetings. They are subject to disciplinary procedures to
+promote positive behavior changes and protect others.
+For students with an IEP, a formal Section 504 plan, or who have been identified for a special
+education referral, additional procedures may need to be followed to determine whether the student
+may be excluded for disciplinary reasons.
+PROCEDURES: must be followed for students with disabilities or formal Section 504 plans who are
+suspended for more than ten (10) days in any school year, for additional exclusions of up to ten (10)
+school days that do not constitute a pattern, for separate acts of misconduct, which constitute a
+pattern, or if the student is being considered for expulsion. Reference: 4.30.025-AD.
+
+
+                                      APPEAL PROCESSES
+CONTESTING A SUSPENSION: Contesting a Suspension: A student or parent/caregiver has the
+right to contest any suspension. Administrators are required to inform parents and students of their
+appeal rights. a) A student or parent/caregiver may contest the suspension first by requesting a
+written conference with the principal.
+   ● The principal will provide the family with a written response within three (3) school days of
+     receipt of the parent/caregiver request.
+   ● If the principal was the decision-maker, the family may submit a written appeal of the decision
+     to the district staff responsible for supervising the school that the student attends within five (5)
+     school days of the principal’s decision.
+   ● The district senior staff will review the record and provide a written response within three (3)
+     school days. The District senior staff’s decision is final.
+APPEALING AN EXPULSION OR DELAYED EXPULSION: appealing an Expulsion or Delayed
+Expulsion: A student or parent/caregiver may appeal an expulsion or delayed expulsion hearing
+decision to the Office of the Superintendent within five (5) school days of the decision.
+MAKING A DECISION: Making a Decision: Within three (3) school days, the appeals hearing officer
+shall make their decision based upon the preponderance of the evidence and may choose to uphold,
+modify, or reverse the decision. If the decision is to reduce a mandatory Firearm 365-day expulsion,
+the hearing officer's decision is forwarded as a recommendation to the Superintendent, who has the
+sole authority to make such a modification.
+HEARING RESULTS LETTER: the school notified the student’s parent/caregiver in writing of the
+decision. The notice shall state the steps to appeal a hearing or decision.
+EXPULSION APPEAL TO THE BOARD OF DIRECTORS: a student or parent/caregiver may appeal
+an expulsion to the Board of Directors within (10) ten school days of the decision by the
+Superintendent or Designee. Requests are made to the Office of the Superintendent.
+
+
+                                                                                                        29
+TITLE IX DECISION APPEAL: appeals on Title IX decisions must be made in accordance with
+4.30.072-AD Sexual Harassment Student to Student Sex-Based Discrimination and Harassment.
+
+
+
+
+                              DEFINITIONS
+   ● 60-Day Rule: requiring that seniors be disqualified from participation in commencement
+     exercises and related activities if, within 60 consecutive calendar days of the last senior school
+     day, they are found to be in violation resulting in three or more days of suspension or more
+     serious disciplinary action.
+   ● Affirmative Consent: freely given, mutual, enthusiastic, continuous, and can be withdrawn
+     anytime for any reason. Consent for one interaction does not assume consent for other
+     interactions. Consent cannot be given when under the influence of drugs or alcohol or when
+     threat, coercion, or intimidation exists. When affirmative consent is incorporated into healthy
+     sexual relationships, it mitigates the impact and consequences of sexual pressure. This
+     expectation is consistent with the Oregon Department of Education’s Health Education
+     Standards.
+   ● Appeal: a student and their family has the right to appeal a hearing result. Instructions on how
+     to conduct an appeal are included in the hearing results letter.
+   ● Behavioral Safety Assessment System (BSAS): defined process to assess, plan for, and
+     support students who exhibit threatening behaviors. Administrators shall contact the
+     Behavioral Safety Assessment Coordinator and follow established Behavioral Safety
+     Assessment Procedures whenever encountering threatening behaviors in students.
+   ● Bias Incident: “Bias Incident” means a person’s hostile expression of animus toward another
+     person, relating to the other person’s perceived race, color, ethnicity, religion, gender identity,
+     sexual orientation, disability, or national origin of which criminal investigation or prosecution is
+     impossible or inappropriate. Bias incidents may include derogatory language or behavior
+     directed at or about any of the preceding demographic groups.
+   ● CADC: Certified Alcohol and Drug Counselor
+
+   ● Delayed Expulsion: a delayed expulsion is a possible outcome from a discipline hearing. It is
+     a period of intensified support and structure for a student. A plan will be put in place to help
+     them be as successful as possible in school. If they do not follow the plan, or if they receive a
+     new serious violation, another hearing will be held to determine the next steps. The delayed
+     expulsion typically lasts until the end of the current or next semester, depending on the level of
+     support needed and the time of year when the hearing is held.
+   ● Distribution: advertising, offering to sell, selling, furnishing, bartering, or exchanging of
+     substance(s), or facilitating the exchange of substances to receive monetary gain, social gain,
+     goods, and/or products, etc. Includes students found in possession of a sizable quantity of a
+     substance(s) or paraphernalia that would be considered too large for personal use. These
+     actions apply to PPS Schools, events, or programs, including the Nexus of Discipline.
+   ● Exclusionary Discipline: disciplinary action which removes a student from instruction.
+   ● Expulsion: denies the student the right to attend any district school or program, including all
+
+                                                                                                        30
+   classes and school activities, or to come onto any district property for up to one calendar year.
+● Hate Speech: the written, verbal, visual, or symbolic expression of animus based on race,
+  color, religion, gender identity, sexual orientation, disability, or national origin.
+
+● Hearing: a formal meeting to review information pertaining to suspected behavior and to make
+  a decision regarding disciplinary action.
+● Hearing officer: a district administrator who holds the title of Hearings Officer.
+● Individualized Education Program: also called the IEP, is a document that is developed for
+  each public school child who is found eligible for special education. It is reviewed annually,
+  occasionally more often, by the IEP team, including the child’s parent/caregiver, school
+  administrators and district staff.
+● Level A Meeting: during a Level A violation, schools will utilize a disciplinary meeting and a
+  school administrator will facilitate these. The goal of a Level A meeting is to connect students
+  with the appropriate intervention, i.e. Insight or Alterntative Plan.
+
+● Material and Substantial Disruption of the Educational Environment: behaviors that
+  significantly interfere with instruction or staff member’s ability to maintain a stable classroom or
+  ensure student safety.
+● Manifestation Determination: a Manifestation Determination is a test conducted by a
+  student’s IEP or 504 team to determine whether the behavior leading to possible disciplinary
+  action was directly caused by the student’s eligible disability or was caused by the school’s
+  failure to fully implement the IEP or 504 plan. A positive manifestation may result in the student
+  not receiving further exclusionary discipline, and may result in an update their IEP or 504 Plan
+● Paraphernalia: any equipment, product, or accessory that is intended or modified for making,
+  using, or concealing a substance. Examples of paraphernalia include, but are not limited to:
+  pipes, needles, juuls and other Inhalant Delivery Systems, miniature spoons, roach clips,
+  chillums, and cigarette papers, among others.
+● Physical attack causing harm: non-accidental conduct causing serious physical harm to a
+  student or school employee.
+● Preponderance of the evidence: an evidentiary standard used by the hearings officer to
+  weigh information received during a hearing. The standard of this scale is “More Likely than
+  Not.” This is a lower burden of proof than is utilized in our court system, which is “Beyond a
+  Reasonable Doubt”.
+● Section 504 Plan: an accommodation plan for a public school child with disability developed
+  to ensure the child receives accommodations for access and participation in the learning
+  environment.
+
+● Serious Physical Harm: impairment of physical condition or substantial and lasting pain.
+● Sexual Incident Response Committee (SIRC) Process: the district has a defined process to
+  assess, plan for, and support students who exhibit problematic sexualized behaviors, typically
+  in a K-5 setting.. Administrators shall contact the SIRC Coordinator whenever encountering a
+  behavior of a problematic sexualized nature.
+
+● Substance: this includes all mood-altering materials or facsimiles thereof, including alcohol or
+
+                                                                                                   31
+   medications that have not been prescribed for the student or are being used in a manner
+   inconsistent with a prescription.
+● Substance-impaired learning: the degradation of student learning, participation, or behavior
+  which is caused by the presence of drugs or alcohol or their residuals in the body.
+● Substance-related activity: actions that include but are not limited to use, distribution, sale,
+  or possession of substances, including drugs, alcohol, or drug paraphernalia; substance-
+  impaired learning, substance-influenced behavior; and any act assisting such activity. (Note:
+  administrators should contact a district discipline coordinator prior to contacting law
+  enforcement.)
+● Substantial Disruption of the Learning Environment: substantially interfering with the work
+  of the school or impinging upon the rights of other students. Significantly interrupting other
+  students’ ability to learn.
+● Suspension, in-school: temporarily denies a student the right to attend scheduled classes
+  and instead requires them to attend a program or engage in other educational activities in the
+  school for a period up to five (5) consecutive school days
+● Suspension, out-of-school: temporarily denies a student the right to attend school, including
+  all classes and school activities and to come onto any district property, for a period up to ten
+  (10) consecutive school days.
+
+● Symbol of Hate: “Symbol of Hate” means a symbol, image, or object that expresses animus
+  on the basis of race, color, religion, gender identity, sexual orientation, disability, or national
+  origin, including but not limited to any noose, swastika, or confederate flag, and symbols
+  contained in the Hate on Display Hate Symbols Database and whose display. That is
+  reasonably likely to cause a substantial disruption of or material interference with school
+  activities; or interfere with the rights of students to full access to the services, activities, and
+  opportunities offered by a school or program; or likely to create a hostile educational
+  environment which interferes with the psychological and emotional well-being of a student.
+● Threat Causing Fear of Harm: physical, verbal, written, or electronic action which
+  immediately creates a fear of harm without displaying a weapon and without subjecting the
+  victim to an actual physical attack.
+
+● Transfer: sharing a substance with another student in a social setting or context, generally
+  unplanned; examples include sharing a vape pen in the bathroom, giving alcohol to another
+  student at a game or event, etc.
+● Trauma-Informed Approach: designed to be a community response to support traumatized
+  students and their families. This includes policies and practices that create safe school
+  environments and professional learning regarding the signs and symptoms of trauma, promote
+  resiliency and wellness among students, their families, and staff, and reduce re-traumatization.
+
+
+
+
+                                                                                                     32
+ PORTLAND PUBLIC SCHOOLS POLICIES                         CURRENT LAWS:
+
+For more policy information go to on PPS.net              Federal Laws
+● 1.80.020-P Non-Discrimination/Anti-                     ● Title IX of the Education
+                                                            Amendments of 1972, 20 U.S.C.
+  Harassment Policy                                         1681 et seq.
+● 2.10.010-P Racial Educational Equity Policy             ● The Americans with Disabilities Act of
+● 4.30.010-P Student Conduct and Discipline                 1990, 42 U.S.C. 12101 et seq.
+● 4.30.011-AD Student Conduct and Discipline AD           ● 20 U.S. Code § 7961 - Gun-free
+● 4.30.012-P Standards of Conduct - Student Dress and       requirements
+  Grooming
+● 4.30.013-AD Student Dress Code                           Oregon State Laws:
+● 4.30.020-AD Student Discipline Procedures
+                                                           ● SB 52: Adi’s Act
+● 4.30.021-AD Student Suspension and Expulsion
+                                                           ● ORS 339.240 Rules of Student
+  Procedures
+                                                             Conduct, Discipline, and Rights
+● 4.30.023-P Healthy, Substance Free Learning
+                                                           ● ORS 339.250 Duty of Student to
+  Environments
+                                                             Comply with Rules
+● 4.30.022-AD Healthy Substance Free Learning
+                                                           ● ORS 339.252 Child with
+  Environments AD
+● 4.30.025-AD Discipline of Students with Disabilities       Disability Continues to be
+● 4.30.040-P Students’ Rights Regarding                      Entitled to Free Appropriate
+  Searches of Person and Property o                          Public Education if Removed for
+  4.30.041-AD Searches of Students and                       Disciplinary Reasons
+  Their Property; Handling of Prohibited                   ● ORS 339.270 Assessment
+  Items                                                      of Costs of School Property
+● 4.30.060-P Anti-Harassment and Teen Dating Violence        Damage Against
+  Policy                                                     Responsible Student or
+● 4.30.061-AD Transgender, Nonbinary and Gender Diverse      Parents or caregiver
+  Students
+● 4.30.071-AD Harassment, Sexual Violence, and Teen
+  Dating Violence Porcedures and Prevention - Students
+● 4.30.072-AD Title IX Student to Student
+  Sex-Based Discrimination and
+  Harassment
+● 4.50.060-AD Student Restraint and
+  Seclusion
+● 8.60.040-P Responsible Technology Use
+● 8.60.041-AD Student and Staff Acceptable Use of District
+  Technology Policy (AUP)
+● 8.60.045-AD Social Media Use and
+  Expectations for Students
+
+
+
+
+                                                                                               33
+                      Please use the QR code below for Feedback on the
+                        Student Rights and Responsibilities Handbook.
+
+
+
+
+• The District is committed to equal opportunity and nondiscrimination in all its educational and
+  employment activities.The District prohibits discrimination based on perceived or actual race;
+   national or ethnic origin; color; sex; religion; age; sexual orientation; gender expression or
+identity; pregnancy; marital status; veteran’s status; familial status; economic status or source of
+          income; mental or physical disability or perceived disability; or military service.
+
+             504 Coordinator: Marquita Guzman, mguzman@pps.net 971-393-8633
+                   ADA Coordinator: Jey Buno, jbuno@pps.net, 503-916-3360
+          Title IX Program Manager: Liane O’Banion, lobanion@pps.net, 503-568-2646
+                                        Accessibility Statement
+                              Conflict/Complaint Resolution Process
+
+                              District Offices: 501 N. Dixon St. Portland, OR 97227
+                                        © 2023 Portland Public Schools
+Home    Our School    Student/Parent Handbook   IBW Student/Parent Handbook    Academic Integrity
+
+
+
+ACADEMIC INTEGRITY
+Statement of Philosophy:
+We believe that honesty and integrity are important and desirable traits in all areas of life including a student’s academic pursuits.
+Faculty members have an obligation to educate students to standards of academic integrity and to report violations of those
+standards by those students.
+Definition:
+The principle of academic integrity shall be that a student’s submitted work, examinations, repots or projects must be that student’s
+own work. Students shall not:
+·         Represent the work of others as their own;
+·         Use unauthorized assistance in any academic work;
+·         Give unauthorized assistance to other students;
+·         Modify, without faculty approval, an examination, paper record or report for the purpose of obtaining additional credit;
+·         Fail to meet other conditions for academic integrity as required by a faculty member for a specific course.
+Expectations:
+     Do not let other students in your class diminish the value of your achievement by taking unfair advantage. Report dishonesty
+     when you see it.
+     Use quotation marks where appropriate and cite your source(s) whenever you use words or ideas that are not your own when
+     writing a paper.
+     During assessments (tests), do not allow your neighbors to see what you have written; you are the only one who should
+     receive credit for what you know.
+     Do not put yourself in a position where you can be suspected of having copied another person’s work or of having used
+     unauthorized notes in an examination. Even the appearance of dishonesty may undermine your instructor’s confidence in your
+     work.
+     The purpose of assignments is to develop your skills and measure your progress. Letting someone else do your work defeats
+     the purpose of your education.
+     Never falsify a record or permit another person to do so. Academic records are regularly audited and students whose grades
+     have been altered put their transcript at risk.
+     Never fabricate data, citations or experimental results.
+     Never take test materials and/or answer keys from an instructor for the purpose of duplicating or using the material on a quiz or
+     exam.
+     Never misuse the internet as a resource to complete assignments.
+Consequences:
+    Students who violate the Academic Integrity expectations are subject to:
+     A “zero” on any assignment that is misrepresented.
+     Parent notification of the event.
+     Informational referral to the appropriate vice principal.
+Suspension and/or expulsion for theft of test materials and/or answer keys from an instructor.
+>> BACK TO CONTENTS
+                                                 Developing Policy and
+                                                 Protocols for the use
+                                                 of Generative AI in K-12
+                                                 Classrooms
+Prior to setting school and district policies on the use of
+AI technologies, it is vital that school and district leaders
+                                                                        Federal Policies
+are aware of federal and state policies that impact the                 While there have been no federal policies related to the
+use of these technologies both regarding student data                   use of AI technologies in education, at the release of this
+privacy in addition to other states and countries that                  resource, in March 2023, the U.S. Copyright Office,
+lead in this area. While there are a number of schools                  Library of Congress, released a policy that has impacts
+across the nation (and world) that have made the                        on the use of works containing material generated by
+decision to ban the use of AI technologies and ChatGPT,                 artificial intelligence. The full text of this policy can be
+when making this decision it is important to consider the               reviewed here.1
+learning opportunities that might be limited for students.              The US Office of Educational Technology published a
+Being aware of other policies both within and outside of                brief in May 2023 titled “Artificial Intelligence and the
+Oregon can be helpful in making informed decisions. The                 Future of Teaching and Learning.” This brief provides
+US Office of Educational Technology is currently working                insights and recommendations regarding building
+on developing policies and supports that focus on the                   ethical, equitable policies in addition to information
+effective, safe, and fair use of AI-enabled educational                 about the use of AI in teaching, best practices for
+technology. Their Artificial Intelligence website can                   instruction including formative assessment, and research
+provide a great starting point for understanding current                around the use of AI in classrooms and beyond. This
+policies in this area. Additionally, with the increased                 brief along with additional work supported by the US
+interest in, and attention on AI technology, other                      Office of Educational Technology supports a focus on the
+countries have developed resources to guide in the                      effective, safe, and fair use of AI-enabled educational
+use of AI in education. For example, The European                       technology. Their Artificial Intelligence website can
+Commission recently released “Ethical guidelines on the                 provide a great starting point for understanding current
+use of artificial intelligence (AI) and data in teaching and            policies in this area.
+learning for Educators” which provides guidance and
+resources for school leaders.
+
+
+
+
+1   If additional related federal policies are developed, this section of the guidance will be updated to reflect the most current policies
+    available.
+Policies from Across the Nation                                      International Policies
+As K-12 schools and districts spend more time learning               The United Nations developed a resource “AI and
+about the use of generative AI in classrooms, policies               Education: Guidance for Policy-Makers” that provides
+continue to change at a rapid pace with districts that               important information regarding other countries'
+initially banned platforms such as ChatGPT shifting                  policies related to the use of AI in schools. While this
+toward embracing its potential in the classroom2. While              resource focuses on the use of AI broadly rather than
+some schools, districts, and states have continued their             generative AI specifically, it includes important
+ban on generative AI, particularly platforms such as                 considerations for policy development and provides
+ChatGPT, many have done so as a temporary measure in                 language from other countries' policies that can be
+order to engage in risk assessments and develop plans to             useful.
+train educators.3
+                                                                     AI Policy and Protocol Development
+An example that can provide a starting point for
+                                                                     Planning and Reflection Tool4
+schools and districts in developing their AI policies
+and procedures can be drawn from the International                   Based on the information in this resource, there
+Baccalaureate. They have developed a “Statement                      are several action steps that school and district
+from the IB about ChatGPT and artificial intelligence                administrators can take in an effort to create clear,
+in assessment and education.” This statement calls                   meaningful, and equitable policy around the use of AI
+for developing policy that supports students in using                technologies in classrooms. The table below can serve
+generative AI tools in ways that are ethical and aligned             as a starting point for reflection, discussion, and policy
+with principles of academic integrity.                               development.
+
+Oregon District Policies
+Many Oregon districts are still exploring the use of
+generative AI platforms such as ChatGPT in their
+classrooms. Schools and districts are encouraged to
+contact the Oregon Department of Education when
+developing policy related to AI technologies for both
+technical support as well as opportunities to connect
+with other districts in order to learn from each other.
+Please contact ODE’s Digital Learning Team (ode.
+digitallearning@ode.oregon.gov) with questions, current
+policies, and technical support needs.
+
+
+
+
+2    Banks, D. (2023). ChatGPT caught NYC schools off guard. Now, we’re determined to embrace its potential. Retrieved from: https://
+    ny.chalkbeat.org/2023/5/18/23727942/chatgpt-nyc-schools-david-banks
+3    Jimenez, K. (2023). 'This shouldn’t be a surprise' The education community shares mixed reactions to ChatGPT. Retrieved
+    from: https://www.usatoday.com/story/news/education/2023/01/30/chatgpt-going-banned-teachers-sound-alarm-new-ai-
+    tech/11069593002/
+4   Additional information regarding developing AI policy can be found in Artificial Intelligence Policy in Secondary Schools.
+
+
+
+
+Oregon Department of Education - Developing Policy & Protocols for the use of Generative AI in K-12 Classrooms                          2
+         Focus                           Guiding Questions5                                                                         Tasks
+
+    1. Review             What are the equity implications of AI being                  Organize a team to lead in the development of AI policy with a variety of roles, perspectives,
+       Equity             used in schools?                                              and experiences (including librarians, library staff, media specialists, and IT staff). (Depending
+                          How are these equity implications being                       on the size of the school or district, consider partnering with other schools or districts across
+       Decision Tree                                                                    the state in order to engage collaboratively with this process.)
+       and specific       addressed through policy, particularly for
+                          historically and systemically marginalized                    Consult the Equity Decision Tools for School Leaders with the team prior to beginning the
+       equity             student groups6?                                              process of developing policy and throughout each step indicated below. Suggested starting
+       focused AI                                                                       place: Decision Tree and Deepening Questions – What is the problem? What are the interior
+                          To what extent is AI enabling adaptation to
+       questions          students’ strengths and not just deficits? Is AI              conditions?
+                          enabling improved support for learners with                   Clearly define your vision for learning and how educational technology broadly and AI
+                          disabilities and English language learners?                   specifically might align with that vision. Continue to refer to this to ensure alignment
+                                                                                        between your vision and the policies being developed.
+    2. Engage             How might AI spark dialog around broader                      Review the “Community Engagement Toolkit.”
+       District           media/ digital/ algorithmic literacies that will              Review the “Tribal Consultation Toolkit”
+                          continue to impact students’ lives?
+       and School                                                                       Provide teaching and learning sessions to community members about the use of AI programs
+       Community          How are opportunities for educators to                        in schools including both opportunities and concerns/risks. Schools and districts are
+                          share their experiences related to the equity                 encouraged to use the above tools as a starting point for these sessions.
+                          implications of AI being created when
+                          developing policy and revisiting policy?                      Consult with community partners, including teachers, parents, and students, and the Tribes
+                                                                                        to ensure that policy decisions are informed by a diverse range of perspectives.
+                          How are student, family, and the larger
+                          communities voices being centered in                          Consult with the school board to share perspectives learned during community engagement.
+                          developing AI policy, specifically regarding                  Consult the Equity Decision Tools for School Leaders. Suggested focus: Deepening Question –
+                          equity implications for multilingual students                 Does your decision deepen a sense of community and relational trust?
+                          and students with disabilities?
+                          How are youth voices involved in choosing and
+                          using AI for learning?
+
+
+
+
+5     These questions were modified from questions included in COSN (2020). Artificial Intelligence in K-12 as well as The Office of Educational Technology (2023) Artificial Intelligence
+      and the Future of Teaching and Learning. Retrieved from: https://tech.ed.gov/
+     files/2023/05/ai-future-of-teaching-and-learning-report.pdf
+6     AI technologies are used across agencies and systems with research showing that the use of AI has negatively impacted people from historically and systemically marginalized
+     communities. Examples of such research can be found in Ruha Benjamin’s (2019) book Race After Technology: Abolitionist Tools for the New Jim Code as well as in the ProPublica
+     article “Machine Bias”.
+
+
+
+
+Oregon Department of Education - Developing Policy & Protocols for the use of Generative AI in K-12 Classrooms                                                                               3
+        Focus                     Guiding Questions5                                                              Tasks
+
+  3. Review          How does AI fit within the broader digital          Consult the Equity Decision Tools for School Leaders. Suggested focus: Review Equity
+     Products and    learning ecosystem?                                 Decision tree discussion (step #1) and revise as needed based on findings from community
+                     How can IT staff serve as leaders in these          engagement.
+     Services
+                     conversations and review design?                    Conduct a thorough review of any AI products or services before introducing them into the
+                     How strong are the processes or systems for         classroom, paying particular attention to their potential impact on equity and student data
+                     monitoring student use of AI for barriers, bias,    privacy.
+                     or other undesirable consequences of AI use by      Review the Office of Educational Technology’s EdTech Evidence Toolkit to ensure that you are
+                     learners? How are emergent issues addressed?        making evidence-based decisions on the use of educational technologies (edtech) in schools.
+                                                                         Consider developing a tool for evaluation by building off of tools such as EdTech Center’s
+                                                                         Online/Tech Tool Evaluation as a starting point for review.
+                                                                         Ensure that student data privacy is central to conversations by reviewing aligned policies
+                                                                         including Family Educational Rights & Privacy Act (FERPA), the Children’s Internet Privacy
+                                                                         Act (CIPA), the Children’s Online Privacy and Protection Act (COPPA) and the Oregon Student
+                                                                         Information Protection Act (OSIPA.
+  4. Establish       How can guidelines for AI be developed              Consult the Equity Decision Tools for School Leaders. Suggested focus: Deepening Question –
+     Clear           in alignment within a broader system of             Are your solutions feasible?
+                     educational technology?                             Establish clear guidelines around the use of AI technologies, including when and how it
+     Guidelines/
+     Develop         When AI is used, are students’ privacy and data     should be used, and what data will be collected. Consider a preliminary step of providing
+                     protected? Are students and their guardians         educators access to ChatGPT while a broader policy is being formulated.
+     Policy          informed about what happens with their data?        Consider expanding the current acceptable use policy in order to include policies for both
+                     Is high-quality research or evaluations about       staff use and student use that take into account both opportunities and risks with using AI.
+                     the impacts of using the AI system for student      Ensure that the student policy prioritizes student data privacy laws.
+                     learning available? Do we know not only             Share policy with the school board for approval.
+                     whether the system works but for whom and
+                     under what conditions?                              Provide ongoing support to the school board about the use of ChatGPT and other AI
+                                                                         technologies.
+
+
+
+
+Oregon Department of Education - Developing Policy & Protocols for the use of Generative AI in K-12 Classrooms                                                          4
+        Focus                      Guiding Questions5                                                              Tasks
+
+  5. Create a        How can AI literacy be incorporated as a            Consult the Equity Decision Tools for School Leaders. Suggested focus: Deepening Question –
+     Professional    component of broader literacy and equity            Who are the decision-makers and designers?
+                     training so that it does not become “just           Review the Office of Educational Technology’s Artificial Intelligence and the Future of
+     Development     another thing” or “someone else’s topic” to
+     Plan                                                                Teaching and Learning guidance to get support on how to practice ACE (always center
+                     teach?                                              educators) in AI (pp. 25-36).
+                     How can librarians, library staff, and media        Consider the various audiences needing training including IT personnel, classroom teachers,
+                     specialists serve as leaders in this work?          librarians and library staff, media specialists, school staff, families, and students. Create a
+                     How are educators, students, and families           professional development calendar with focused topics for each group.
+                     being trained in digital literacy to ensure that    Provide training and support for educators, students, and families around the use of AI
+                     they have the skills necessary to ethically and     technologies, including how to use it effectively and responsibly, and how to mitigate any
+                     productively navigate and use AI technologies?      potential negative impacts.
+                                                                         Ensure that educator training is grounded in research based approaches for technology
+                                                                         integration. Liz Kolb’s Triple E Framework can be a helpful guide in ensuring that technology
+                                                                         generally and AI specifically is used intentionally in the classroom.
+  6. Implement       How can voices of educators and the larger          Consult the Equity Decision Tools for School Leaders. Suggested focus: Deepening Question –
+     and Monitor     school community continue to be central to the      How are you implementing this decision? What are you learning along the way?
+                     process of implementation and monitoring of         Implement the policy with fidelity - it might be helpful to start with one school or grade level
+     Policy to       AI products and services in schools?
+     Determine                                                           band before rolling out district wide.
+                     Is AI leading to narrower student activities        Monitor the implementation of AI technologies in classrooms closely, and be prepared to
+     Effectiveness   (e.g., procedural math problems), or the fuller     make adjustments if any negative impacts on equity or other concerns arise.
+                     range of activities highlighted in the National
+                     Educational Technology Plan (NETP), which           Develop accountability measures to ensure that the technology is implemented in
+                     emphasizes features such as personalized            appropriate ways that align with the educator professional development and community
+                     learning, project-based learning, learning from     training provided – adjust learning opportunities as needed.
+                     visualizations, simulations, and virtual reality,   Consider ways in which to review the effectiveness of the policy by engaging with local parent
+                     as well as learning across school, community,       teacher organizations (or other similar organizations) regarding the use of the technology
+                     and familial settings?                              outside of the classroom.
+                     Is AI supporting the whole learner, including       Review the AI policy with your team on a consistent basis to ensure that the policy responds
+                     social dimensions of learning such as enabling      to the pace of change within the field.
+                     students to be active participants in small
+                     group and collaborative learning? For example,
+                     does AI contribute to aspects of student
+                     collaboration we value like shared attention,
+                     mutual engagement, peer help, self-regulation,
+                     and building on each other’s contributions?
+
+                      For more information, please contact ODE’s Digital Learning Team at ode.onlineremotelearning@ode.oregon.gov.
+
+
+
+
+Oregon Department of Education - Developing Policy & Protocols for the use of Generative AI in K-12 Classrooms                                                              5
+     Menu 
+                                   AI Guidance For Schools Toolkit                                              Access Editable Document
+
+
+
+
+  AI is transforming                                                             How To Use This Toolkit
+  our world.                                                                     Incorporate AI in an Education System
+                                                                                 Apply Seven Principles for AI in Education
+                                                                                 View Sample School Guidance
+  Let's #TeachAI                                                                 Revise Existing Policies
+                                                                                 Customize a Presentation
+                                                                                 Engage Parents, Staff, and Students
+                                                                                 Learn How AI was Used in This Toolkit
+
+
+
+
+Welcome
+          "It is in a spirit of humility that we offer this toolkit. My sincere hope is that teachers feel guided and
+          supported by their leaders as we all adapt to the changes AI brings to education."
+                                                           Pat Yongpradit, Chief Academic Officer of Code.org and Lead of TeachAI
+
+
+
+This toolkit is designed to help education authorities, school leaders, and teachers                       While terminology varies across
+create thoughtful guidance to help their communities realize the potential benefits of incorporating       countries and regions, “education
+artificial intelligence (AI) in primary and secondary education while understanding and mitigating the     system” refers to a district,
+potential risks. ​                                                                                         regional, state, or national
+                                                                                                           governing body, agency, or
+                                                                                                           authority. Each entity must consider
+With guidance, an education system may realize the potential benefits of AI to improve learning            its own unique role in developing
+outcomes, support teacher instruction and quality of life, and enhance educational equity. Without         appropriate AI guidance and
+guidance, teachers and students can be exposed to privacy violations, inconsistent disciplinary            policies.
+consequences, and counterproductive AI adoption practices.
+  Two Types of AI Tools Used in Schools
+
+  Generative AI tools can create text, code, and other types of content.
+  However, using them to complete assignments can raise issues of
+  plagiarism.                                                                         This toolkit serves as an initial step in
+                                                                                      guiding the safe, effective, and responsible
+  Predictive AI tools analyze patterns in student data to forecast                    use of AI in education.
+  outcomes such as being on track for graduation. These insights allow
+  educators to intervene proactively but require care in understanding
+  outputs and evaluating them for potential bias.                                     The landscape of AI in education is
+                                                                                      evolving rapidly, and as new technologies
+  Other uses of AI include                                                            mature, use cases emerge, and the
+    Intelligent tutors to provide personalized teaching.                              understanding of AI's impact deepens,
+    AI for assessment to augment grading efficiency and consistency.
+                                                                                      guidance will need to adapt.
+    Assisting with administrative tasks such as scheduling.
+
+  Want to learn more about AI?
+    See the AI in Education Presentation. Download the slides to
+    customize your own presentation.
+    See ISTE’s AI resources, including Tips for School Leaders.
+    See AI 101 for Teachers from Code.org, ETS, ISTE, and Khan
+    Academy.
+
+
+
+
+How to Use this Toolkit​
+This toolkit is designed to help local, state, and national education systems worldwide develop
+guidance on the responsible use of AI, ensure compliance with relevant policies, and build the                  Use the Toolkit to Create
+capacity of all stakeholders to understand AI and use AI effectively. The recommendations in this               Guidance and Inform Policy
+toolkit may also inform the early stages of developing policies and procedures, whether mandatory
+or voluntary.                                                                                                   Guidance is flexible, non-binding
+                                                                                                                advice, offering principles and
+While issuing standalone guidance on AI can be an initial step, it’s also important to consider how and         promising practices that can be
+where it makes sense to address AI in existing policies, such as academic integrity, privacy, or                adapted for various situations and
+responsible use policies. Guidance and policies will benefit from the input and review of various               updated frequently.
+stakeholders, including teachers, parents, and students.
+                                                                                                                Policy is more static, has
+Guidance and policies should be developed in accordance with an education system’s established                  undergone a formal approval
+policy development process, which may include a review by a policy committee, key stakeholders                  process, and includes
+(e.g., teachers, parents, and students), and legal counsel before seeking approval from governing               accountability.​
+bodies.​
+
+
+
+Use Cases for this Toolkit
+
+Education system leaders                             School administrators                             Teachers
+such as board members, superintendents,              such as principals or staff development           can use sections of the toolkit to inform
+and directors of technology, can use this            specialists, can use this toolkit to inform       their use of AI in instruction and
+toolkit to inform the development of a vision        instructional guidance and professional           assessment and how their students
+statement, set of principles and beliefs, or a       development.​                                     should or should not use AI when
+responsible use policy.                                                                                completing assignments.​
+
+
+
+
+Real-World, Concrete Examples
+
+The toolkit illustrates potential approaches rather than definitive
+                                                                                                           Leave Feedback
+models and provides examples of AI guidance from local, state, and
+national education systems. The toolkit also has a section that
+organizes sample AI guidance considerations for responsible use                              Please provide feedback on the toolkit,
+policies, privacy policies, and academic integrity policies. The                             including how you have used it. Your responses
+examples and suggestions are not meant to be copied verbatim but to                          can inform ongoing updates and provide
+anchor understanding in practical examples and prompt thoughtful                             lessons learned and examples for ongoing
+discussions about developing AI guidelines. The examples and sample                          learning and sharing.
+language can be considered starting points to inform each education
+system’s own process of responsibly shaping AI guidance, policies, and
+practices.
+
+
+
+                                                                                              Responsible Use Policy
+
+                                                                                              A responsible use policy also known as an
+                                                                                            A responsible use policy, also known as an
+                                                                                            acceptable use policy or technology use policy,
+                                                                                            describes the terms and conditions of technology
+                                                                                            use in an educational institution. These existing
+                                                                                            policies should be updated to ensure all users use AI
+                                                                                            tools safely and appropriately. For more
+                                                                                            information, see Setting Conditions for Success:
+                                                                                            Creating Effective Responsible Use Policies for
+                                                                                            Schools.​
+
+
+
+
+A Framework for Incorporating AI in an Education System
+
+                                                                                                   Create guidance and policies to
+                                                                                                   address immediate issues
+                                                                                                   Compared to the introduction of previous
+                                                                                                   technologies in education, education systems
+                                                                                                   should not delay efforts to develop guidance on
+                                                                                                   the use of AI since students and teachers
+                                                                                                   already have independent access, and many
+                                                                                                   existing technologies embed AI into their
+                                                                                                   systems (e.g., search engines and email
+                                                                                                   applications). The first step should be ensuring
+                                                                                                   that AI use complies with existing security and
+                                                                                                   privacy policies, providing guidance to students
+                                                                                                   and staff on topics such as the opportunities
+                                                                                                   and risks of AI, and clarifying responsible and
+                                                                                                   prohibited uses of AI tools, especially uses that
+                                                                                                   require human review and those related to
+                                                                                                   academic integrity.
+
+
+
+Facilitate organizational learning​
+In parallel with guidance and policies that address immediate concerns, education systems must prioritize professional development for all staff
+and bring together individual educators' experiences with AI to document successes, identify gaps, and build collective organizational
+knowledge and capacity. A systemwide approach would go beyond instructional issues to include operational considerations such as evaluating
+AI tools already in use and creating selection criteria for future evaluations. It also leads to more equitable AI integration across classrooms and
+prevents inequities from emerging when innovation diffuses haphazardly.
+ ​
+
+
+       In May 2023, the Ministry of Education in Chile   “At the current time, as a country, we need to enhance the learning of all
+      released a teacher guide called How to Use         students to be able to face the challenges of today's world - and an uncertain
+      ChatGPT to Enhance Active Learning. The guide      future - and support teachers to achieve these objectives. In this context, we
+      provides a variety of use cases and prompts and
+                                                         must prepare educational institutions, teachers, students, and families to take
+      covers key limitations and precautions.​
+                                                         advantage of the opportunities offered by new technologies and act against
+                                                         their risks.”
+
+
+
+Promote improvement and transformation
+
+Thoughtful guidance and effective organizational learning set the stage for AI to contribute to improvements and transformations across a
+system. These transformations may include competency-based education powered by personalized learning, project-based learning aided
+by real-time and augmented feedback, and more time for teachers when AI is used to streamline administrative tasks. Incorporating AI into
+education provides an opportunity to expand evidence-based reforms, provided policies exist to support fair implementation, and there are
+investments in organizational learning. ​
+
+
+
+These three stages – Policy, Organizational Learning, and Improvement and                    Engage with TeachAI partners and others,
+Transformation – provide a framework for incorporating AI across a system                    such as Code.org, CoSN, Digital Promise, ISTE,
+where guidance and policy development advance hand in hand with                              and UNESCO, for timely access to guidance,
+organizational learning, and both transition from a focus on addressing                      frameworks, and other resources. Visit the
+current concerns with AI to using AI to transform the educational system.​                   resources section.
+
+
+
+
+                                                                               Watch Toolkit Webinar                    Leave Feedback
+AI Guidance for Schools Toolkit © 2023 by Code.org, CoSN, Digital Promise, European EdTech Alliance, and PACE is licensed under CC BY-NC-SA 4.0
+

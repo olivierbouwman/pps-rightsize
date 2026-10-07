@@ -1,0 +1,79 @@
+Patte Sullivan (Zone 3; Audit Committee chair) - transcript excerpts, PPS Board meetings Jan-Jun 2025 (2025 bond referral and HS cost framework, 2025-26 budget cuts, seismic resolutions, Jefferson enrollment strategy)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/10/2025 superintendent evaluation (Res. 7122) skipped entirely; remarks about named laid-off staff and contractors; candidates' and directors' family details (children's schools/teachers, moves) trimmed).
+
+RECORDED VOTES / MOTIONS
+- 2025-01-07 officer elections: Wang elected chair 7-0 (moved Brim-Edwards, seconded Sullivan); DePass elected vice chair 7-0 (moved Brim-Edwards, seconded Hollands). Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_07_Regular_Meeting_Minutes_Draft_for_Consideration_3996227.txt
+- 2025-01-07 Res. 7038 referral of the $1.83B 2025 bond: passed 7-0 (moved Scott, seconded Hollands); Brim-Edwards amendment to add $40M for a Center for Native American Student Excellence FAILED 2-5 (yes Brim-Edwards, Greene; NO DePass, Hollands, Scott, Sullivan, Wang). Source: same minutes.
+- 2025-01-13 Zone 1 appointment (caption roll calls): round 1 Brim-Edwards-Splitt, DePass-Wirz, Greene-Reece, Hollands-Reece, Sullivan-Splitt, Wang-Wirz (2-2-2); round 2 Wang switched to Splitt ('part of my responsibility as a chair is to move us forward'); runoff Splitt 4 (Brim-Edwards, DePass, Sullivan, Wang) vs Reece 2 (Greene, Hollands). The draft minutes' per-round lists are internally inconsistent; tallies match captions. Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_13_Special_Meeting_Minutes_Draft_with_adopted_resolutions_3996229.txt Sullivan: Splitt in every round.
+- 2025-02-11 Res. 7051 framework to build high-quality high schools cost-efficiently (target ~295,000 sq ft; savings to elementary/middle school repairs) passed 7-0 as amended (moved Brim-Edwards, seconded Hollands; drafted by Brim-Edwards, Hollands and Splitt). Source: boardbook/2025-03-04_Regular_Meeting_677306/2025_02_11_Special_Mtg_Work_Session_Minutes_Draft_with_Resolutions_3996300.txt
+- 2025-03-04 (Sullivan absent): Res. 7067/7068 Cleveland & Wells pre-construction contracts adopted as amended 6-0 (moved DePass, seconded Splitt); appeal of DePass's call-the-question tied 3-3 (no: DePass, Splitt, Wang); Res. 7058 senior-chief salary schedule postponed 4-2 (moved Wang, seconded Splitt; yes Brim-Edwards, DePass, Splitt, Wang; no Greene, Hollands). Source: boardbook/2025-03-18_Work_Session_with_Vote_on_Consent_Agenda_679850/2025_03_04_Regular_Meeting_Minutes_with_adopted_Resolutions_-_draft_3996302.txt Sullivan absent.
+- 2025-04-22 Res. 7099 add senior-leadership pay grade (superintendent's central-office restructure): passed 6-1 (Brim-Edwards no; Wang, DePass, Splitt, Sullivan yes). Source: boardbook/2025-05-06_Regular_Meeting_686691/2025_04_22_Special_Meeting_and_Work_Session_Meeting_Minutes_Draft_w_Resolutions_3996387.txt
+- 2025-05-06 Res. 7109 'urgent need for seismic retrofitting of high-risk school buildings' (Hollands) passed 7-0 (moved Greene, seconded DePass); Res. 7110 seismic tracking/reporting through the facilities committee (drafted by Wang 'with help and input from director Splitt, director DePass and director Sullivan') passed 7-0 (moved Sullivan, seconded DePass). Source: boardbook/2025-05-19_Special_Meeting_689137/2025_05_06_Regular_Meeting_Minutes_-_draft_for_consideration_3996420.txt
+- 2025-05-19 Res. 7116 Budget Committee approval of the 2025-26 budget (Greene, Hollands absent): caption 'approved by a vote of five to zero' (moved DePass, seconded Splitt); draft minutes say '4 yes - 0 no - 1 abstain' but list all five present as Yes (internal inconsistency; caption shows no abstention called). Source: boardbook/2025-06-10_Regular_Meeting_689410/2025_05_19_Special_Meeting_Minutes_-_Draft_with_Resolutions_3996425.txt
+- 2025-06-10 Res. 7120 2024-25 budget amendment 1 passed 7-0 (moved Splitt, seconded Sullivan); Res. 7121 adoption of the 2025-26 budget passed 5-2 (moved DePass, seconded Sullivan; YES Wang, DePass, Splitt, Sullivan, Greene; NO Brim-Edwards, Hollands). Source: boardbook/2025-06-24_Special_Meeting_and_Work_Session_695124/2025_06_10_Regular_Meeting_Minutes_Draft_for_Consideration_3996489.txt and caption ~02:32.
+
+EXCERPTS
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:29:37 | https://www.youtube.com/watch?v=zxaXALjzumk&t=8977s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (chair: "director Sullivan")
+  topic: HS cost-cut values
+  "I would love to get information about how the health center and teen parent centers that we have built for being used before making a decision um as I said about the basement I personally could go with uh steel and concrete versus Mass Timber but I would like to keep the um um the electric of a climate goal"
+
+[2025-03-18 Work Session - school-based resources budget preview]
+  time 02:49:47 | https://www.youtube.com/watch?v=XENAU3DUf5g&t=10187s
+  source: transcripts/text/2025-03-18_Work_Session_with_a_vote_on_a_Consent_Agenda__XENAU3DUf5g.txt
+  attribution: CONFIRMED (staff reply ends "thank you director Sol[livan]")
+  topic: blended (combined-grade) classrooms as a savings tactic
+  "there's a difference between a teacher that has been teaching Blended classrooms for years versus one that is transitioning from teaching a single grade to Blended um are there are there's like I guess this also depends on School site but other there do we have supports for teachers that are transitioning"
+
+[2025-04-22 Special Meeting (as Budget Committee) - superintendent's proposed 2025-26 budget]
+  time 01:27:33 | https://www.youtube.com/watch?v=-iIZmAv0aaE&t=5253s
+  source: transcripts/text/2025-04-22_Board_of_Education_Special_Meeting_and_Work_Session__-iIZmAv0aaE.txt
+  attribution: CONFIRMED (staff: "Thank you, Director Sullivan.")
+  topic: what 'system changes' mean
+  "you mentioned having to make system changes. What do you mean by that?"
+
+[2025-04-29 Budget public comment and work session]
+  time 02:34:12 | https://www.youtube.com/watch?v=kni2IkmmZEk&t=9252s
+  source: transcripts/text/2025-04-29_Public_Comment_and_Work_Session_on_the_2025-26_Proposed_Budget__kni2IkmmZEk.txt
+  attribution: CONFIRMED (chair: "Director Sullivan")
+  topic: bond must pass; work is happening
+  "I do think we have to be more specific about what's happening. We have to let people know. We have to say yes, this bond does have to pass if we're going to do anything we want to do."
+
+[2025-05-12 Policy Committee - kindergarten entry age vs enrollment decline]
+  time 00:07:06 | https://www.youtube.com/watch?v=Pb6PgkxHoOk&t=426s
+  source: transcripts/text/2025-05-12_Board_of_Education_s_Policy_Committee__Pb6PgkxHoOk.txt
+  attribution: PROBABLE (members present: Brim-Edwards (chair, speaking before), DePass, Sullivan; early-childhood framing fits the former kindergarten teacher)
+  topic: don't solve enrollment decline with early kindergarten entry
+  "I think, you know, it's good ideas to connect and be welcoming, but I don't feel we need to solve our enrollment problem by putting kids in school too early. I think we have to be really careful about that."
+
+[2025-05-19 Special Meeting (as Budget Committee) - approval of 2025-26 budget (Res. 7116)]
+  time 01:06:55 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=4015s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: CONFIRMED (draft minutes summarize this turn as Sullivan's: preserving classrooms, special-education cap)
+  topic: budget protects classrooms
+  "I do agree with the CBRC that the budget attempts to spread cuts across most service areas and to protect classroom staffing as much as possible."
+
+[2025-05-19 Special Meeting (as Budget Committee) - approval of 2025-26 budget (Res. 7116)]
+  time 01:07:55 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=4075s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: CONFIRMED (same turn)
+  topic: kicker/sales tax; per-student funding; enrollment
+  "unless we get rid of the kicker or pass a sales tax or hopefully both, it may well be that the legislature will never have enough money to fund schools to the quality education model. [...] We're funded per students. So, let's increase student enrollment by highlighting the wonderful things that are going on in our schools"
+
+[2025-05-19 Special Meeting (as Budget Committee) - approval of 2025-26 budget (Res. 7116)]
+  time 01:09:56 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=4196s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: CONFIRMED (same turn)
+  topic: raises consolidation/closure (May 2025)
+  "Do we need to consolidate or close some schools to get the optimal number of students? These are ideas that have come from the community. Let's consider them."

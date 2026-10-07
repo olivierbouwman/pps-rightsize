@@ -1,0 +1,57 @@
+                                       Hemoglobin and Lead Screening
+
+ Performance Standard
+ 1302.42(d)(1)
+ (d) Extended follow-up care.
+      (1) A program must facilitate further diagnos c tes ng, evalua on, treatment, and follow-up plan, as appropriate,
+          by a licensed or cer ﬁed professional for each child with a health problem or developmental delay, such as
+          elevated lead levels or abnormal hearing or vision results that may aﬀect child’s development, learning, or
+          behavior.
+
+
+
+PPS Head Start Health Team incorporates hemoglobin (hgB) and Lead Oregon EPSDT standards to assess risks
+that may impact children’s health and development.
+
+Hemoglobin and Lead screening are both included on the PPS Health Exam form for the child’s primary
+physician to complete as per Head Start requirements. (See Health Exam Script). Hemoglobin results could also
+be obtained from WIC if available, and Lead can be reported from MCHD Lead tes ng clinics.
+
+
+
+Data Entry Script
+_______________________________________________________________________________________
+
+Health Coordinator Data Entry:
+     ● Go to the Health Services Tab
+     ● Click on the Events Tab
+     ● Click Add Event, then select Hemoglobin or Lead
+     ● Event Date: Enter the date the screening was completed
+     ● Select a Status:
+       o PASS
+       o Follow-up Needed (if results were abnormal)
+                 • Descrip on: Write in appropriate descrip on
+                 • Results: Write in result details
+                 • HC will complete an ‘Internal Program Referral’ (IPR) to Registered Nurse for follow up
+     ● Agency Worker: FSW name
+     ● Click Save
+
+
+
+
+Hemoglobin.Lead Screening (rev. 3/13/23)                                                                              1
+Registered Nurse (RN) Follow Up:
+If informa on is received that a child had an abnormal lead or hemoglobin result, the HC will complete an IPR
+to the RN. The RN will follow up with family and/or child’s primary care physician as needed.
+     ● RN will document any communica on around follow up or referrals as ‘ac ons’ in the corresponding
+        event.
+   ● Once follow up is complete, RN will change status to ‘Follow Up Completed’.
+        o If child received treatment for high lead levels or anemia, RN will also check the ‘Treatment
+          Received’ box in the ‘ac on’ sec on as well as choose ‘high lead level’ or ‘other’(for treatment
+          around hemoglobin) in the ‘Chronic Condi ons’ PIR box in the corresponding event.
+
+
+
+
+Hemoglobin.Lead Screening (rev. 3/13/23)                                                                     2
+

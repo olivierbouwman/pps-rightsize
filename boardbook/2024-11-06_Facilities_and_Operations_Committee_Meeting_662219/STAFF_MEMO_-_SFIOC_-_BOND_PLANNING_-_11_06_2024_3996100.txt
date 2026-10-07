@@ -1,0 +1,245 @@
+                             PORTLAND PUBLIC SCHOOLS
+                             OFFICE OF OPERATIONS
+                             501 North Dixon Street / Portland, OR 97227
+                             Telephone: (503) 916-2000
+                             Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+
+                                         STAFF MEMO
+Date:             November 6, 2024
+
+To:               Board of Education
+
+From:             Dan Jung, Chief Operating Officer
+
+Subject:          General Obligation Bond Election Planning
+
+
+On October 21, 2024 the School Facilities Improvement Oversight Committee (Committee)
+considered staff recommended general obligation bond (GO bond) parameters, and sample GO
+bond options. The Committee, though not unanimously nor without descent, conceptually
+agreed with the following recommendations:
+
+      1.   Targeting a total bond between $1.5 - $1.8 billion
+      2.   Plan for an 8-year bond cycle
+      3.   Retain the existing tax rate
+      4.   Plan for a ballot measure for the May 2025 election
+
+Further, when 3 sample options were provided, the Committee majority favored the option that
+prioritized continuation of the HS modernization projects (Option #1).
+
+This memo provides further development of Option #1.
+
+
+
+
+                                                                                               1
+Scope of Work
+
+Physical Facility Improvements - $190M
+The proposed option allocates $190 million for Physical Facility Improvements intended to
+address deferred maintenance, ongoing capital renewal and priority scope improvements. As
+highlighted in previous meeting materials, PPS faces significant and substantial deferred
+maintenance challenges. To address these issues staff recommends structuring the GO bond to
+maximize flexibility, therefore allowing the district to respond to dynamic facility needs over the
+next eight years. Below is a sample of how the funds could be utilized.
+
+
+
+
+Educational & Technology Improvements - $350M
+Technology Improvements - $222M
+This budget has been created from an eight-year bond timeline and includes 2 four-year cycles.
+
+ Project                          Years 1-4 Amount                 Years 5-8 Amount
+
+ Business Modernization/ERP       $38 million                      $0
+
+ Staff & Student Device           $50 million                      $55 million
+ Refresh
+
+ Data Center/Classroom            $36.5 million                    $25 million
+ Tech/Infrastructure
+
+ Cybersecurity                    $3.5 million                     $4 million
+
+ HVAC and Energy                  $10 million                      $0
+ Sustainability
+
+                                  $138 million                     $84 million
+
+ $222 million
+
+
+                                                                                                  2
+       ●   The Business Modernization/ERP system serves as the fundamental backbone
+           supporting the HR and all financial systems within the district. During Bond 2020, the
+           ERP was designated for planning stages, however, there was insufficient funding to
+           cover the complete implementation costs. This request encompasses the necessary
+           funding for the acquisition, implementation, and staffing of the system project, as well as
+           the transition of the district away from the previous ERP (PeopleSoft) system.
+       ●   Staff and student device refresh: Presently, General Funds are inadequate to address
+           district-wide device replacement for students and staff since their initial deployment in
+           2020-2021. It is imperative that staff and students have access to up-to-date technology
+           for classroom usage and homework assignments. While we strive to extend the lifecycle
+           of devices to 5 years, this is becoming increasingly more difficult to accomplish due the
+           rate of change of technology and the additional usage placed on devices by staff and
+           students.
+       ●   K-12 cyber attacks persist as a significant concern for school districts nationwide. The
+           need remains to continuously update existing systems and adopt innovative practices to
+           prevent cyber security attacks from disrupting our educational processes.
+       ●   The PPS Data Center, being the focal point of all technical operations across the district,
+           is projected to reach its end of life in 2025. It necessitates the replacement of the chiller,
+           UPS, and other essential infrastructure components to ensure the continuity of technical
+           operations. The data center holds critical importance as the central hub for our district-
+           wide infrastructure.
+       ●   Bond 2020 did not include provisions for the replacement of classroom technology or
+           infrastructure in any of the Bond 2012 or 2017 schools. The technology in Bond 2012
+           schools is now outdated and requires replacement to comply with the District's tech
+           standards. While Bond 2017 schools have relatively newer technology compared to
+           Bond 2012, the Wifi system is nearing its end of life between 2025-2027, necessitating
+           additional funds for its replacement. Additionally, large space areas (gymnasiums,
+           theaters, etc.) were not within the scope of the 2020 Classroom Modernization project.
+           This bond will provide specific projection and sound capabilities tailored to these larger
+           spaces.
+       ●   HVAC and Energy Sustainability: Across the district, the majority of our network
+           distribution closets lack adequate cooling to maintain efficient and sustainable
+           operations. Most dedicated network rooms do not have any form of access control. This
+           bond will enable us to implement both temperature control and the necessary access
+           control measures to secure these critical and sensitive locations.
+
+Physical Education - $10M
+Per the Division 22 PE Requirements Memo 1 from January 23, 2023 from the Oregon
+Department of Education, PPS must come into full compliance with the instructional minutes
+requirements for Physical Education by the fall of 2025. The executive Summary from August
+2024 outlines significant progress made toward this end by adding “movement labs” in both
+middle schools and K-8 schools. In order to come into full compliance, we need to identify
+additional spaces to hold PE at the 6 remaining schools which include: Cesar Chavez, da Vinci,
+George, Ockley Green, Metropolitan Learning Center, and Winterhaven.
+
+Curriculum - $118M (Tentative)
+Brief overview of the Curriculum Adoptions
+    ● PPS is committed to providing high-quality culturally-relevant educational materials to
+        every school. In order to maintain Division 22 compliance as determined by the Oregon
+        Legislature or the State Board of Education, PPS needs to continue to adopt curriculum
+        in accordance with the Oregon Department of Education’s Instructional Materials
+        Timeline, or adoption cycles.
+
+1
+    https://content.govdelivery.com/accounts/ORED/bulletins/3441486
+                                                                                                        3
+   ●   Methodology for Bond 2025 Curriculum Funds:
+       Through a rigorous analysis of per-pupil costs and future requirements, we have
+       developed a cost-effective and adaptable funding strategy. This methodology considers
+       inflation and renewal for critical digital resources and accounts for curriculum needs like
+       Social Emotional Learning (SEL) and anticipated state requirements, allowing flexibility
+       beyond the standard ODE cycle.
+
+       As education continues to evolve, we anticipate curricular needs outside of the seven
+       year cycles outlined by the ODE. As an example, recently Social Emotional Learning
+       became a requirement (to be implemented in the fall of 2024). To account for potential
+       additional requirements within each seven-year curriculum cycle, as well as the ongoing
+       need to support educators with elective course materials, we have included funding
+       equivalent to one and a half years of a typical adoption in our calculations.
+
+   ●   Estimated Calculation for Curriculum Adoptions (2024-25 through 2031-2032):
+       In preparation for the Bond Planning Proposal, three service levels of funding were
+       studied and prepared as shown here in Curriculum Adoptions Options 2024-2032. Note,
+       this includes bridge funding to accomplish the 2024-25 planned projects.
+
+   ●   Recommendation: This recommendation reflects a reduction from option 3, which
+       can still accomplish our priorities. Option 2 would be impactful and require notable
+       compromise. This recommendation is the mid-point between options 2 and 3 and
+       provides intentional room to stay the course of our roadmap toward educational
+       equity. Again, this recommendation is not without notable compromise, perhaps
+       best described as strategic reductions from current approaches. Total
+       recommendation for 8 years (including bridge 2024-25 needs): $118,000,000
+
+Modernizations - $1.025B
+
+Resolution #6806 directed the Superintendent to reassess the Jefferson High School
+Modernization project. The resolution states that the updated plan will include a targeted
+student enrollment of 1,700, will keep students and staff largely on the Jefferson High School
+campus during construction, demolish the 1909 building, and will seek to conform to PPS’s
+current high school education specifications area program. The plan will strive to deliver the
+project within the currently available bond (and other available) funding and will identify
+anticipated budget overage. The plan will not include colocation of the Center for Black Student
+Excellence, Harriet Tubman Middle School, or other unaffiliated to Jefferson High School
+programs. Staff provided a revised plan at the March 20, 2024 Facilities & Operations
+Committee meeting.
+
+Cleveland High School
+Board resolution #6901 approved the Cleveland High School Modernization Comprehensive
+Plan. As noted in the Comprehensive Plan (presented at the May 7, 2024 Board Meeting) the
+new Cleveland High School will be an all new construction building, consolidated on the main
+CHS site. The project will also include updates to the parking lot site and the track site, as well
+as study adding a softball field to Powell Park.
+
+In addition to the primary Cleveland HS building and property, at the May 7 meeting the Board
+expressed interest in pursuing the option of improving the Portland Parks & Recreation owned
+Powell Park to include softball, baseball, and multi-purpose fields. The project team is currently
+reviewing this option in conjunction with the modernization design.
+
+
+
+
+                                                                                                      4
+Ida B Wells High School
+Board resolution #6900 approved the Ida B Wells High School Modernization Comprehensive
+Plan. As noted in the Comprehensive Plan (presented at the May 7, 2024 Board Meeting) the
+project will be all new construction and include site improvements.
+
+Administration and Contingency - $235M
+Administration
+Program administration includes the resources required to carry the bond work, including staff,
+GO bond issuance costs, insurance, etc. For ease of estimating, budget models to date have
+estimated program administration costs at 3%. Staff are working to refine the administrative
+budget based on the scope of the proposed option.
+
+Contingency
+Program contingency is a risk management tool used to buffer against unanticipated costs, such
+as:
+    ● Higher than anticipated escalation
+    ● Building code or zoning code changes
+    ● Emergency facility needs
+    ● Or any other unforeseen cost, either discretionary or nondiscretionary
+
+The more “scope certain” projects included in the GO bond the higher the risk of not completing
+all of the work within the allotted budget. The proposed option includes a high percentage of
+scope certain projects, including the HS Modernizations and ERP. The proposed option
+includes 12% program contingency.
+
+
+Resources
+GO Bond Planning
+   ● January 23, 2024      Board Work Session
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=618340
+   ● February 28, 2024     Facilities & Operations Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=624188
+   ● March 20, 2024        Facilities & Operations Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=628478
+   ● April 17, 2024        Facilities & Operations Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=632063
+   ● May 17, 2024          Facilities & Operations Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=638812
+   ● June 26, 2024         Facilities & Operations Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=642683
+   ● Staff Memo: Bond Timing (June 6, 2024)
+     https://meetings.boardbook.org/Documents/WebViewer/915?file=60fdf39c-3842-4a0e-
+     89a4-0dfb832cddfb
+   ● October 21, 2024      School Facilities Improvement Oversight Committee
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=659500
+HS Modernizations
+   ● Ida B Wells High School Modernization Comprehensive Plan Materials
+     https://meetings.boardbook.org/Public/Agenda/915?meeting=633534
+   ● Jefferson High School Modernization Plan Update
+     https://meetings.boardbook.org/Documents/WebViewer/915?file=3fb0ac04-1e46-40ad-
+     922c-f5fcf9bfa818
+
+
+
+
+                                                                                                  5
+

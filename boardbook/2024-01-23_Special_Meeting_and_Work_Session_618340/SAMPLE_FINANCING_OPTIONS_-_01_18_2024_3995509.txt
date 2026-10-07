@@ -1,0 +1,24 @@
+Sample Bond Financing Options                                                                                                                                                                 1/18/24
+                                                                            Approx Bond
+                                                                              Amount       Estimated Total                      Approx Interest     Approx Length of    Estimated Levy     Potential Next
+                                                                             (Principal)       Interest      Total Rev Needed   as % of Principal        Debt                Rate              Bond
+                                                                                                                                                                         $2.50 / 1000
+ A.1   Use available capacity below (e) levy rate | 8-year debt term          $450M            $90M              $540M                20%               8 years           (renewal)            2032
+                                                                                                                                                                         $2.50 / 1000
+ A.2   Use available capacity below (e) levy rate | 12-year debt term         $850M            $250M              $1.1B               30%               12 years          (renewal)            2036
+                                                                                                                                                    16 years (8 year     $2.50 / 1000
+ A.3   Use available capacity below (e) levy rate | variable debt term        $850M            $325M             $1.175B              38%                drop)            (renewal)            2032
+                                                                                                                                                    20 years (16 year    $2.50 / 1000
+ B.1   $1.5B principal amount | retain (e) levy rate                           $1.5B           $575M             $2.075B              38%                drop)            (renewal)            2040
+                                                                                                                                                    16 years (12 year     $3.00 / 1000
+ B.2   $1.5B principal amount | increase levy rate to $3/1000                  $1.5B           $250M             $1.175B              17%                drop)          ($0.50 increase)       2036
+                                                                                                                                                                             $4.50
+ C.1   $1.5B principal amount | 8-year debt term                               $1.5B           $300M              $1.8B               20%               8 years          ($2 increase)         2032
+                                                                                                                                                                             $3.25
+ C.2   $1.5B principal amount | 12-year debt term                              $1.5B           $400M              $1.9B               26%               12 years        ($0.75 increase)       2036
+                                                                                                                                                    24 years (8 year     $2.50 / 1000
+ D.1   $1.5B principal amount | retain (e) levy rate | variable debt term      $1.5B           $950M             $2.45B               64%               drops)            (renewal)            2032
+
+
+Blue = Independent Variable
+

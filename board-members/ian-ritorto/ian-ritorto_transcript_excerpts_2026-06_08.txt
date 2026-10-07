@@ -1,0 +1,30 @@
+Ian Ritorto (Student Representative 2025-26; vote unofficial) - transcript excerpts, PPS Board meetings Jun-Aug 2026 (2026-27 budget adoption, officer elections, focus-option overview, SEGC equity audit / rightsizing update)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/23 Office of Internal Performance Auditor amendment remarks about specific staff and audit output; 6/9 and 6/23 remarks about named laid-off educators; directors' remarks about their own children's teachers).
+
+RECORDED VOTES / MOTIONS
+- Student representative votes are unofficial. 2026-06-23 (all 7 present; student rep Ritorto unofficial): Res. 7324 2025-26 budget amendment 2 passed 7-0; Res. 7325 PERS-reserve transfer 7-0; La Forte travel-freeze amendment (numbered 7339) 7-0 after sub-amendments ('all'->'these' 7-0; add 'out-of-state', moved by Splitt, 7-0); La Forte OIPA-funding amendment (7340) FAILED 3-4 (Ritorto no); La Forte AI-pause amendment (7341) 7-0 after sub-amendments (90->120 days 7-0; 'until there is a board adopted AI policy' 7-0); Chase-Miller sub-amendment to let superintendent draw reserves to 4% FAILED 2-4-1 (yes: Chase-Miller, Engelsman per caption roll-check; abstainer not identifiable); motion to postpone budget + amendment to June 30 FAILED 3-4 (Ritorto no); Engelsman Res. 7342 ($13.12M restore school staffing) FAILED 1-6 (Ritorto no); Res. 7326 2026-27 budget ADOPTED 6-0-1, Engelsman abstaining (Ritorto yes). Source: caption roll calls ~01:59-05:48; amendment texts in boardbook/2026-06-23_Special_Meeting_751412/ (Budget_Amendment_*.txt, agenda.txt). No text minutes for June-Aug 2026 meetings are in the archive. Ritorto: YES on 7324, 7325, travel and AI amendments, and 7326; NO on the OIPA amendment, the reserve sub-amendment, postponement and Res. 7342.
+- 2026-06-09: YES (unofficial) on Res. 7311 (Pride Month).
+
+EXCERPTS
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 04:26:58 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=16018s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (Sullivan at 04:37: "as Ian said, you know, there's an education stability fund")
+  topic: Measures 5 & 50; skeptical $13M can be found
+  "If I had the money, I would fly a big blimp across Portland with the words repeal 5 and 50 on them. [...] And I too remain skeptical that we can find $13 million. That's a massive number. [...] if we pass this, then if we don't if we don't find this full 13 million, you know, then what?"
+
+[2026-06-23 Special Meeting - adoption of 2026-27 budget (Res. 7326) and amendments]
+  time 05:05:28 | https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18328s
+  source: transcripts/text/2026-06-23_PPS_Board_of_Education_Special_Meeting__yinJ7KK-Bqc.txt
+  attribution: CONFIRMED (chair: "we start with uh student representative Retorto")
+  topic: reserve draw is fiscally irresponsible; 'show Salem the road has ended'
+  "dipping into our reserves at this point is just a going to create an even bigger problem for us next year [...] it feels to me, in my very unprofessional opinion, to be maybe a bit fiscally irresponsible. [...] show Salem that the road is ended and we can't keep, you know, making up excuses for them"

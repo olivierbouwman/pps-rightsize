@@ -1,0 +1,712 @@
+                                            Enrollment & Program Balancing
+                                            Southeast Guiding Coalition
+                                            Phase 2 Final Report - 4/22/2022
+
+
+
+Table of Contents
+Executive Summary                                                                                                         1
+
+Scope of Work                                                                                                             3
+
+Challenges and Lack of Consensus                                                                                          4
+
+Key Decision Points                                                                                                       6
+
+Implementation Recommendations                                                                                          10
+
+Additional Comments                                                                                                     12
+
+Executive Summary
+The Southeast Guiding Coalition (SEGC)—a group of 36 parent and community member volunteers and 21 Portland
+Public School (PPS) principals commissioned by the PPS Board of Education—met 19 times between May 2021 and
+April 2022 to develop the second phase of a plan for enrollment and program balancing in Southeast Portland.
+Building on its work in 2020-21 to set an initial feeder pattern for Kellogg Middle School, the SEGC focused on
+balancing enrollment, optimizing use of facilities, and supporting equitable access to programs and services, while
+accomplishing three specific goals set by the Board:
+
+    ●   Establishing an attendance area and special program assignments for Harrison Park Middle School
+    ●   Developing a plan to relocate K-5 students and programs currently served at Harrison Park
+    ●   Developing a plan to increase enrollment at Lane Middle School
+
+During the course of its work, the SEGC weighed extensive feedback from community members, advice from PPS
+academic and enrollment experts, and data on the projected impact of different solutions. In all, coalition members
+considered 15 scenarios and evaluated each through the district’s Racial Equity and Social Justice Lens.
+
+The SEGC achieved consensus on several elements of a rebalancing plan, including a new location for Harrison Park’s
+elementary school and for Creative Science School, the location for K-5 Dual Language Immersion (DLI) programs,
+and boundary changes to bolster enrollment at Lane MS and many K-5 schools. But the group could not find a full
+solution that earned consensus or even majority support among coalition members.
+
+This report shares details of the proposal that earned the most support: 13 of 32 voting SEGC members (41%)
+supported it in a final vote, while 5 supported an alternate proposal and 14 chose not to support either. Highlights of
+this proposal, which is planned to take effect in Fall 2023, include:
+
+    ●   Harrison Park K-8 will convert to a middle school, and its current K-5 students will attend a new elementary
+        school at the Clark building (the current home of Creative Science School)
+
+
+
+
+                                                                                                               Page 1
+                                          Enrollment & Program Balancing
+                                          Southeast Guiding Coalition
+                                          Phase 2 Final Report - 4/22/2022
+
+
+    ●   Creative Science School (CSS) will relocate to Bridger K-5 and become a focus option school with priority for
+        the Bridger neighborhood.
+    ●   The two-strand K-5 Spanish Dual Language Immersion (DLI) program at Bridger will relocate to Lent K-5
+        to create a whole-school K-5 Spanish DLI program with guaranteed admission for the current Lent
+        neighborhood. Students in the Lent neighborhood who opt out of the Spanish DLI program will attend
+        Marysville K-5.
+    ●   At the middle school level: Mandarin DLI will consolidate at Harrison Park, with the Mandarin DLI program
+        currently at Hosford MS joining the program already at Harrison Park. Spanish DLI at the middle school
+        level will consolidate at Kellogg MS, with the program currently at Mt. Tabor joining the one already at
+        Kellogg.
+    ●   Several neighborhood middle school feeder patterns will shift to help balance enrollment: Atkinson and
+        Vestal will shift to Harrison Park (from Mt. Tabor and Roseway Heights, respectively), Creston will shift to
+        Hosford (from Kellogg), and Woodstock will shift to Lane (from Hosford).
+    ●   Attendance boundaries will change at many K-5 schools to help meet minimum enrollment targets. Virtually
+        all schools that were part of the SEGC process will experience boundary changes, including Arleta, Atkinson,
+        Bridger, Creston, Glencoe, Lent, Lewis, Marysville, Vestal, Whitman, Woodmere and Woodstock.
+
+If adopted, this proposal would make progress toward several important goals, including:
+    ● Converting Harrison Park to a middle school and allowing its current K-5 students—which make up one of
+        the most diverse communities in PPS—to relocate to a single new school.
+    ● Ensuring projected enrollment (based on benchmarks set by district staff) at Harrison Park MS, Lane MS, and
+        many K-5 schools will be sufficient to offer equitable programming for students. Notably, the increase in
+        enrollment at Lane would result entirely from attendance boundary changes—an approach the Lane
+        community supports and the coalition believes will be more sustainable over time than increasing enrollment
+        through program relocations.
+    ● Relocating Creative Science School to a community that is open to receiving it.
+    ● Maintaining and growing the Spanish DLI program that started at Kellogg MS this school year—a priority
+        cited by community members and principals.
+    ● Implementing PPS staff ’s recommendation to move away from single-strand neighborhood programs at
+        Bridger and Lent, which data show may not serve students—particularly students of color—effectively.
+    ● Creating more consolidated DLI programs at the middle school level and creating a new whole-school K-5
+        DLI option—both strongly recommended by principals and PPS staff.
+
+Coalition members noted that the proposal also has significant shortcomings. Concerns cited among members not
+supporting it included:
+    ● Middle school enrollment will likely remain imbalanced, leaving Kellogg MS well over 80% utilization (the
+        district’s definition of “overcrowded”) and several schools—most notably Harrison Park MS—below or at
+        risk of dropping below the district’s minimum enrollment threshold over the long run.
+
+
+
+
+                                                                                                            Page 2
+                                          Enrollment & Program Balancing
+                                          Southeast Guiding Coalition
+                                          Phase 2 Final Report - 4/22/2022
+
+
+    ●   The process excluded inner Southeast schools, which are relatively overcrowded and more affluent compared
+        to outer Southeast schools. This decision by the Board concentrated disruption in the highest-need
+        communities while limiting the coalition’s ability to balance enrollment.
+    ●   District staff denied requests to analyze whether reconfiguring Creative Science School as a K-5 would help
+        address the remaining imbalances in middle school enrollment.
+    ●   Some Lent community members strongly oppose relocation of the school’s neighborhood program.
+    ●   Lack of consistency and clarity in the process itself eroded confidence in the work and contributed to the
+        coalition’s inability to reach consensus.
+
+ .
+In light of these challenges, the coalition recommends that PPS and the Board take the following actions in
+implementing any plan that is adopted:
+     ● Provide capital improvements and additional budget support as necessary to sustain equitable programming,
+         particularly at Harrison Park.
+     ● Provide clear implementation details and timelines to all school communities experiencing program or
+         boundary changes.
+     ● Facilitate community building among programs that will be relocating or receiving relocated programs, most
+         notably Creative Science School/Bridger and Marysville/Lent.
+     ● To the greatest degree possible, maintain the current legacy policy for boundary changes to ease the burden
+         on students and families. Community members have shared that this would ease the hardships of the
+         transition period, especially for those with siblings and students in different grade levels.
+     ● Plan with PBOT and Safe Routes to School for the transportation needs and challenges that the new
+         boundaries and feeder paths will create.
+     ● Set a goal to minimize the impact of any future enrollment balancing process on students who will be
+         required to move as a result of the current process.
+     ● Study the impact of maintaining K-8 focus options on enrollment at comprehensive middle schools, for
+         consideration during any future enrollment balancing efforts.
+     ● Conduct a review of the SEGC process in partnership with any interested coalition members before moving
+         forward with any future enrollment balancing efforts.
+
+
+
+Scope of Work
+The SEGC was tasked with balancing enrollment to help increase access to equitable programming across 21 schools
+in Southeast Portland. Phase 2 of the work began in May 2021 and concluded in April 2022. The coalition is made up
+of 57 parents, community members, school principals, and stakeholders who attended regular evening meetings
+totalling over 50 hours, along with additional “homework,” work sessions, and office hours.
+
+The Board’s charge to the SEGC for Phase 2 cited three goals:
+
+
+
+
+                                                                                                          Page 3
+                                          Enrollment & Program Balancing
+                                          Southeast Guiding Coalition
+                                          Phase 2 Final Report - 4/22/2022
+
+
+    ●   Balance enrollment across Southeast middle schools, ensuring Harrison Park and Lane middle schools have
+        sufficient enrollment to offer full programming. This may be accomplished through boundary
+        adjustments, whole-school feeder pattern changes, and specialized program movement.
+    ●   Realign middle school boundaries so that the Kellogg building is located within its own attendance area.
+    ●   Determine the future location for Harrison Park K-5 students, and related boundary changes and specialized
+        program moves.
+
+In meeting these goals, the Board asked the coalition to submit a recommendation that created the following:
+
+    ●   Attendance area and special program assignments for Harrison Park Middle School
+    ●   A plan to relocate K-5 students and programs currently served at Harrison Park
+    ●   A plan to increase enrollment at Lane Middle School
+
+In addition to the charge set by the PPS School Board, the SEGC also held in consideration the following key
+objectives under the guidance of PPS and FLO Analytics:
+
+    ●   Listen to community members, particularly People of Color, and follow their input as often as possible
+    ●   Increase racial equity for all students with a particular focus on Black and Native students
+    ●   Where possible, create whole-school K-5 programming—all DLI or all neighborhood—instead of co-located
+        structures
+    ●   Eliminate single-strand neighborhood programs
+    ●   Consolidate DLI programs of the same target language at the middle school level, with only one DLI
+        program per middle school
+    ●   Maintain CSS as a K-8 school in Southeast
+    ●   Keep Harrison Park K-5 students together (including Mandarin DLI students)
+    ●   Ensure that enrollment is above 270 students at each K-5 school and above 500 students at each
+        comprehensive middle school
+    ●   Keep classroom utilization at or below 80% of building capacity (the district’s definition of “overcrowded”)
+    ●   Avoid split feeder patterns (sending students from a single K-5 neighborhood program to different middle
+        schools).
+    ●   Do not increase—and decrease if possible—students who must cross major roads to access their
+        neighborhood schools (i.e. Cesar Chavez, 82nd, Division, and Powell).
+
+
+Challenges and Lack of Consensus
+
+Over the course of nearly a year, the SEGC attempted to balance program locations, the wishes of 21 school
+communities, and the overarching goal of increasing equitable access to programs and services. The coalition
+considered seven possible solutions (including many variations of each), encountering many challenges along the way.
+
+
+
+
+                                                                                                               Page 4
+                                            Enrollment & Program Balancing
+                                            Southeast Guiding Coalition
+                                            Phase 2 Final Report - 4/22/2022
+
+
+One significant hurdle was the Board’s decision to limit potential changes to only 21 schools, all in Outer Southeast,
+instead of also considering schools in Inner Southeast (many of which are overcrowded). This made it almost
+impossible to balance enrollment across the entire region. It also ensured any changes would mainly disrupt the
+relatively more diverse, lower-income schools in Outer Southeast, while more affluent communities in Inner Southeast
+would experience no changes.
+
+Options for relocating Creative Science School were limited by the district’s decision to maintain it as a K-8 school
+and the difficulty in finding a school community willing to convert back to a K-8 to receive it. The decision to place
+Creative Science at Bridger, which is adjacent to Harrison Park MS, impeded the coalition's ability to increase
+neighborhood enrollment at Harrison Park.
+
+An additional limitation was the low engagement of Black and Native families in the process. While PPS and the
+coalition made many efforts to reach Black and Native families, we struggled to obtain enough input, which limited
+the voice of these communities in the decision making process.
+
+The coalition could not find a solution that met racial equity and social justice goals for all students. In particular,
+every scenario failed to adequately address equity goals for Black and Native communities by ensuring their race and
+culture would be reflected and honored in the curriculum, instructional practices, and social-emotional supports
+offered across Southeast schools.
+
+Many coalition members also cited concerns with the process itself. Guidelines for decision-making were applied
+inconsistently, and guardrails were added and removed at various stages of the work. A debrief of the SEGC process
+could help future PPS efforts create a more positive and productive outcome. This process could consider the process
+for selecting committee members, ideas for improved decision-making, the need for neutral facilitation, additional
+support for community engagement, and clarity around required outcomes and preferences.
+
+Partly as a result of the factors above, the coalition could not reach a consensus or even majority support for a full
+proposal. After an initial vote on the final proposal (known as “F3”), a majority of SEGC members submitted a
+request to develop another option to address specific shortcomings in that proposal. In response, PPS allowed
+members to work with FLO Analytics to develop a set of “G” scenarios and extended the process to include two
+additional meetings. On March 31, 2022, the SEGC held a final vote to decide which scenario to recommend to the
+Deputy Superintendent. The vote breakdown was as follows:
+
+    ●   Proposal F3: 13 (41%)
+    ●   Proposal G2: 5 (16%)
+    ●   No Preference: 6 (19%)
+    ●   Abstention: 8 (25%)
+
+During this meeting, time was given for each SEGC member to give a statement on their experience, the proposals,
+and how they felt about the process going into the final vote. Those statements can be seen here.
+
+
+
+
+                                                                                                                Page 5
+                                            Enrollment & Program Balancing
+                                            Southeast Guiding Coalition
+                                            Phase 2 Final Report - 4/22/2022
+
+
+
+Key Decision Points
+It became clear early on in the Phase 2 work that the large program placement decisions (where to relocate Creative
+Science School, and where to locate Spanish and Mandarin DLI at the K-5 and middle school levels) would guide
+many other decisions. The chart below offers a look at the ripple effect of these decisions, based on the “F3” proposal
+that received the most support among coalition members. Decisions that had consensus or majority support from the
+coalition are indicated in bold in the “Action” column; other decisions received support from less than a majority of
+coalition members.
+
+
+
+ Goal                         Action                        Impact                        Next Steps
+
+
+ Designate a new location     Consensus decision:           Harrison Park K-5             Find a new location in SE
+ for Harrison Park K-5        The Clark building            students can all attend the   for Creative Science
+ students when it converts    (current Creative Science     same elementary school
+ to a middle school.          location) will be             and be close to their
+                              converted back to a           assigned MS
+                              neighborhood K-5; all
+                              Harrison Park K-5             Creative Science is
+                              students will relocate        displaced and needs a
+                              there                         new location
+
+
+
+ Find a new location in       Consensus decision:           Creative Science relocates    Find a new location for
+ Southeast for Creative       Move Creative Science to      to a location with support    Bridger Spanish DLI
+ Science                      Bridger and convert from      from both CSS and the         strands
+                              a full lottery program to a   receiving community
+                              neighborhood based
+                              focus option                  Current Bridger
+                                                            neighborhood will still
+                                                            have a neighborhood
+                                                            program in the area
+
+                                                            Bridger’s neighborhood
+                                                            program is no longer a
+                                                            single strand (as
+                                                            recommended by PPS
+                                                            and available data).
+
+
+
+                                                                                                               Page 6
+                                       Enrollment & Program Balancing
+                                       Southeast Guiding Coalition
+                                       Phase 2 Final Report - 4/22/2022
+
+
+
+
+                                                       Bridger’s Spanish DLI
+                                                       classes need a new
+                                                       location (not enough
+                                                       space for CSS/Bridger
+                                                       neighborhood and the
+                                                       DLI classes)
+
+Find a new location for   Majority decision, with      Lent’s neighborhood         Lent neighborhood
+Bridger’s Spanish DLI     notable objections:          program is no longer a      students who wish to opt
+program                   Convert Lent to a            single strand (as           out of the Spanish DLI
+                          whole-school Spanish         recommended by PPS          move to Marysville.
+                          DLI program, with            and available data).
+                          Bridger’s program joining
+                          the existing one; students   Marysville receives a
+                          in Lent neighborhood         needed enrollment boost
+                          who aren’t in the DLI
+                          program attend               Bridger’s two DLI classes
+                          Marysville                   can move together to the
+                                                       same location.
+
+                                                       Creates a robust Spanish
+                                                       DLI program in a
+                                                       neighborhood with one
+                                                       of the highest
+                                                       concentrations of native
+                                                       Spanish speakers in
+                                                       Southeast
+
+Consolidate middle        Relocate Spanish DLI         Retains and grows the       Ensure adequate
+school Spanish DLI        program at Mt. Tabor MS      program at Kellogg that     enrollment for Harrison
+programs at one school    to join existing Spanish     started this year—a         Park MS; consolidate
+                          DLI program at Kellogg       priority of community       middle school Mandarin
+                          MS                           members and principals.     DLI programs at one
+                                                                                   school
+                                                       Implements PPS staff
+                                                       recommendation to
+                                                       consolidate all middle
+                                                       school Spanish DLI at
+                                                       one location
+
+
+
+
+                                                                                                       Page 7
+                                       Enrollment & Program Balancing
+                                       Southeast Guiding Coalition
+                                       Phase 2 Final Report - 4/22/2022
+
+
+
+                                                     Creston must be
+                                                     reassigned from Kellogg
+                                                     to Hosford to make space
+                                                     for additional Spanish
+                                                     DLI enrollment.
+
+                                                     Even with the change to
+                                                     Creston’s middle school
+                                                     assignment, Kellogg MS
+                                                     still has a high building
+                                                     utilization near
+                                                     90%—well past the
+                                                     threshold for
+                                                     “overcrowded.”
+
+                                                     Retaining the large
+                                                     Spanish DLI program at
+                                                     Kellogg limits options for
+                                                     boosting enrollment at
+                                                     Harrison Park MS.
+
+Ensure adequate           Relocate Mandarin DLI      Fulfills the desire of the   Improve enrollment at
+enrollment for Harrison   program at Hosford to      Harrison Park community      Lane MS
+Park MS; consolidate      join the existing one at   to keep their
+Mandarin DLI at one       Harrison Park MS           neighborhood and
+middle school                                        Mandarin DLI programs
+                          Reassign Atkinson’s        together.
+                          neighborhood program
+                          from Mt Tabor MS to        Implements PPS staff
+                          Harrison Park MS;          recommendation to
+                          reassign Vestal’s          consolidate middle school
+                          neighborhood program       Mandarin DLI at one
+                          from Roseway Heights       school.
+                          MS to Harrison Park MS.
+                                                     Harrison Park MS will
+                                                     open with lower
+                                                     enrollment (550-575), and
+                                                     building utilization (65%)
+                                                     than Kellogg; overall
+                                                     enrollment will be highly
+                                                     dependent on robust
+
+
+                                                                                                      Page 8
+                                         Enrollment & Program Balancing
+                                         Southeast Guiding Coalition
+                                         Phase 2 Final Report - 4/22/2022
+
+
+
+                                                         enrollment in the
+                                                         Mandarin DLI program.
+
+                                                         Harrison Park's
+                                                         percentage of low-income
+                                                         families will drop to 25%,
+                                                         which could cause it to
+                                                         lose Title I funding.
+
+
+Improve enrollment at       Consensus decision:          Increases Lane MS            Address remaining K-5
+Lane MS                     Reassign Woodstock           enrollment to just above     enrollment imbalances
+                            neighborhood program         the minimum goal—but
+                            from Hosford MS to           entirely with boundary
+                            Lane MS.                     changes, which is likely
+                                                         sustainable and in line
+                                                         with the Lane
+                                                         community’s preference.
+
+                                                         Lane’s percentage of
+                                                         low-income families will
+                                                         drop and could cause it to
+                                                         lose Title I funding.
+
+                                                         Assigns Woodstock to a
+                                                         more proximate
+                                                         neighborhood location
+                                                         and eliminates the current
+                                                         transportation burden to
+                                                         Hosford.
+
+Address remaining K-5       Consensus decision:          More K-5 schools will
+enrollment imbalances (to   Multiple K-5 boundary        have enrollment above
+get as many schools as      changes affecting Arleta,    270 compared to the
+possible above 270          Atkinson, Bridger,           2021-22 baseline.
+students)                   Creston, Glencoe, Lent,
+                            Lewis, Marysville, Vestal,   Many schools will still be
+                            Whitman, Woodmere and        very close to (or even
+                            Woodstock.                   slightly under) the
+                                                         minimum enrollment
+                                                         target.
+
+
+
+                                                                                                         Page 9
+                                           Enrollment & Program Balancing
+                                           Southeast Guiding Coalition
+                                           Phase 2 Final Report - 4/22/2022
+
+
+
+
+                                                           Large enrollment
+                                                           imbalances remain
+                                                           between Outer Southeast
+                                                           schools and Inner
+                                                           Southeast schools that
+                                                           were excluded from this
+                                                           process.
+
+
+
+Implementation Recommendations
+
+The coalition recommends that the Board take action on the following to successfully implement the “F3” proposal,
+should it be adopted. Items listed under “Short Term Implementation Recommendations” can be implemented now,
+without any extension of the SEGC process. Those listed under “Long Term Implementation Recommendations”
+may require an extension of the process, further community outreach, or extended work with PPS.
+
+ Short Term Implementation Recommendations
+
+    ●   Create a board mandate that would ensure equitable staffing and programming for all middle schools not
+        meeting enrollment targets. Due to the unpredictability of the phase-in process, opt outs, and the legacy
+        policy some middle schools are at risk of falling below 500 students (the district’s minimum enrollment
+        target), especially in the initial years of implementation. For example, the Board could add funding equivalent
+        to 1 FTE to every school with enrollment under the district’s minimum target (both K-5 and MS).
+
+    ●   Require PPS to complete the planned Harrison Park facilities improvements before opening in 2023.
+
+    ●   Support Harrison Park in intentionally hiring new staff to support the diverse students at Harrison Park,
+        including a priority on bilingual and BIPOC support staff and teachers.
+
+    ●   Communicate effectively with all families and community members affected by changes, including an
+        implementation timeline and options for families to potentially access new assignments before Fall 2023.
+
+    ●   To the greatest degree possible, maintain the current legacy policy for boundary changes to ease the burden
+        on students and families. Community members have shared that this would ease the hardships of the
+        transition period, especially for those with siblings and students in different grade levels.
+
+    ●   Maintain the integrity of RESJ support for underrepresented students of color who are being
+        disproportionately affected and vulnerable to loss of services during implementation of these changes. Work
+        with RESJ partners in the affected schools to ensure that families are well supported, for example:
+
+
+                                                                                                             Page 10
+                                         Enrollment & Program Balancing
+                                         Southeast Guiding Coalition
+                                         Phase 2 Final Report - 4/22/2022
+
+
+          ○   The transition of Bridger to CSS will result in a significantly less diverse population and will leave
+              remaining Bridger students of color, particularly Black and Native students, with significantly less
+              representation and resources.
+          ○   The addition of the southern portion of the current Bridger boundary to Atkinson and Marysville
+              may result in a loss of culturally sensitive supports that need to be re-established quickly and
+              intentionally in these students' new communities.
+
+  ●   Prior to finalizing boundary changes, consider targeted changes that include some Inner Southeast schools to
+      balance enrollment more effectively. For example, allowing adjustments to Grout, Abernethy, Llewellyn, and
+      Duniway ES could ease their overcrowding and provide healthier enrollments at Creston, Atkinson,
+      Woodstock neighborhood, Whitman, and Woodmere. These changes will also further boost Lane MS’s
+      enrollment, which was one of the charges of the SEGC.
+
+
+
+Long Term Implementation Recommendations
+
+  ●   There are several K-8 schools in Southeast and Northeast (Creative Science School, Winterhaven, Sunnyside
+      Environmental, Laurelhurst) that create challenges in properly planning for stable enrollment in surrounding
+      middle schools. The Board should review the goals and policies around K-8 schools with a holistic,
+      districtwide, and equity-based/RESJ lens with the goal of creating clear and consistent guidelines to inform
+      future enrollment balancing work.
+
+  ●   The changes being proposed in the report have the potential to create significant disruption and erosion to
+      the programs and communities being moved. In keeping with the goals of centering BIPOC students, PPS
+      should be required to create and implement transportation plans designed to help students attending in their
+      current neighborhood to continue to access the programs in their new locations.
+          ○ For example, neighborhood students currently in the Mandarin DLI program at Hosford and the
+              Spanish DLI program at Bridger should be provided transportation for the remainder of their time in
+              those programs to their new locations.
+          ○ The district should consider a permanent transportation solution for the Mandarin DLI middle
+              school students from the Woodstock neighborhood as the new middle school assignment at Harrison
+              Park is different from the proposed neighborhood middle school (Lane).
+          ○ Transportation into Harrison Park Mandarin DLI should be open to all students, to promote
+              diversity and enrollment stability.
+
+  ●   PPS should work with the Spanish DLI communities from Bridger and Lent to clarify how the transition of
+      Lent to a whole-school Spanish DLI school will be phased in, address transportation and other necessary
+      supports and to build community among the programs that will be merging. Clear, strong and well-planned
+      resources should be provided to neighborhood students who will be leaving Lent ES to neighboring schools.
+
+  ●   PPS should work with culturally responsive partners to identify needs, barriers, challenges and burdens these
+
+
+                                                                                                            Page 11
+                                           Enrollment & Program Balancing
+                                           Southeast Guiding Coalition
+                                           Phase 2 Final Report - 4/22/2022
+
+
+        changes have on historically underserved communities.
+
+    ●   PPS should intensify recruitment efforts to increase teachers and administration representation of historically
+        underrepresented communities of color.
+
+    ●   The Board should set a goal to minimize the impact of any future enrollment balancing process on students
+        who will be required to move as a result of the current process.
+
+    ●   PPS should conduct a review of the SEGC process in partnership with any interested coalition members
+        before moving forward with any future enrollment balancing efforts.
+
+Additional Comments
+SEGC members would like to share an addendum that was originally submitted on Feb. 24, 2022 with the dissenting
+opinion statement. This supplement expands on the challenges and limitations caused by excluding overcrowded and
+affluent inner SE schools from the rebalancing process. The document will be submitted with this SEGC report, and
+can also be viewed here: SEGC Supplement (Inner SE School Exclusion).
+
+
+
+
+                                                                                                             Page 12
+4/22/2022: This supplemental document was originally written and submitted to Claire
+Hertz by the SEGC on Feb. 24, 2022 as an addendum to the dissenting opinion statement.
+While the work of the SEGC volunteers has come to a close, we feel this document still
+provides important context and additional information regarding one of the biggest
+obstacles in the overall process.
+
+       SEGC Supplement (Inner SE School Exclusion)
+
+        The undersigned SEGC members are sharing this dissenting opinion statement to
+highlight what we believe has been a major roadblock to creating equity in the process of
+balancing enrollment across SE Portland. Namely, the limited scope the Board set which did not
+allow the SEGC to include all SE schools in our program location and boundary work. This has
+created a limited framework for the entire process which prioritized protecting the most affluent,
+predominantly white schools in SE Portland, and placed the burden of disruption and change on
+those the process purports to be in support of.
+
+       PPS's RESJ Framework and Plan states:
+
+       "We believe in the fundamental right to human dignity and that generating an equitable
+world requires an educational system that intentionally disrupts—and builds leaders to
+disrupt—systems of oppression."
+
+         The refusal by PPS and the Board to allow the SEGC to consider changes to inner SE
+schools fails to live up to the promise to intentionally disrupt the district's existing systems of
+oppression and is in direct opposition to their own stated RESJ goals. The geographic
+limitations placed on the SEGC’s work only serve to sustain and entrench the institutional
+inequities already in place, and create a future of educational inequities for BIPOC students.
+
+       Not including all schools in SE has negatively impacted the work of the SEGC in multiple
+ways, as shifting boundaries eastward to distribute students from overcrowded inner SE schools
+to under enrolled outer SE schools is an obvious and vital step toward balancing and stabilizing
+enrollment across the entirety of SE.
+
+         Throughout this process, SEGC members have relied on guidance from PPS to work
+toward ideal enrollment numbers to better balance schools. However, it became clear that the
+numbers we were given to structure our work around were applied arbitrarily by the district. Per
+PPS and FLO, ideal building utilization is roughly 80%. To ensure robust programming and
+staffing, middle school enrollment should be a minimum of 500 students, and K-5 enrollment
+should be a minimum of 270. Pre-pandemic, Abernethy, a K-5 we were told was not included in
+our scope, consistently had over 500 students and over 100% utilization (including modulars).
+At the same time, and even in the SEGC proposal that is currently being presented to the
+Board, neighborhood K-5s like Marysville, Creston, and Arleta will all be at or below 50%
+utilization, and barely reach the 270 minimum enrollment target.
+
+
+
+
+                                                                                                      1
+        FLO and PPS models consistently demonstrate that outer SE elementary and middle
+schools are projected to decrease in enrollment over the coming years, and until broader
+boundary changes are implemented across the region, under-enrollment will continue to be an
+issue in outer SE. Though closing any of the K-5s in outer SE is not currently on the table
+according to PPS, the possibility looms large as projected enrollment drops and attendance
+continues to shrink. This will become an issue that has to be faced, all while overcrowded and
+affluent inner SE schools continue on untouched and bursting at the seams with students and
+educational opportunity. In order to create robustly enrolled schools for all students, the process
+should begin with the overcrowded inner SE schools. The alternative, waiting to change
+boundaries for inner SE until after the conclusion of the SEGC Phase 2 process, creates the
+potential for re-impacting outer SE students that are currently facing sweeping change and
+multiple transitions. In order to create robustly enrolled schools for all students, the process
+should begin with the overcrowded inner SE schools and spread outward towards
+enrollment-challenged outer SE schools.
+
+        While Hosford MS was included in our scenarios, its feeder schools (Abernethy,
+Buckman, and Grout) were left out, placing limitations on the SEGC’s ability to fully balance
+enrollment across all SE middle schools. Sunnyside, another overcrowded school adjacent to
+both Mt. Tabor and Hosford Middle Schools, was also excluded. Two of Sellwood MS’s three
+feeders, Duniway and Llewellyn, were left out of the Phase 2 process entirely, while the SEGC
+was barely allowed to consider changes to one side of Lewis's boundary. These restrictions
+greatly impacted the coalition’s options to increase enrollment at Lane MS, in direct opposition
+to the charge given to us by the Board.
+
+         The SEGC was given an incomplete toolkit to do the job set before us, leaving us to
+create a proposal that forces more upheaval on the most vulnerable students, and upholds
+precisely the inequities in our educational system we have been tasked with repairing. The
+rationale behind excluding inner SE schools from the SEGC process was stated as limiting the
+scope so as to reduce the negative impacts of change during the pandemic. But as members of
+the SEGC and the broader community have repeatedly pointed out, that decision only limits
+change for a select group of SE Portland students, while increasing the likelihood that those
+involved in the current process will also face further changes down the road. How does limiting
+change for the highest SES students in the best performing schools while placing the burden of
+balance on the lowest SES students in poorer performing schools meet the equity goals set
+forth both in the SEGC charge and the district's RESJ policy? We have yet to hear a rationale
+for this prioritization.
+
+        We request that PPS and the Board either extend the SEGC process and include inner
+SE schools in our work, or have educational leaders give a full rationale that illustrates how the
+decision to exclude the most privileged students from this enrollment balancing process aligns
+with their own RESJ policy.
+
+
+
+
+                                                                                                     2
+Signers
+Note: While school affiliations are provided for reference, individuals are signing in their capacity
+as SEGC members, not on behalf of their school communities.
+
+Alissa McMaken Roberts, Woodstock
+
+Andrea Emerson, Whitman
+
+Andy Jacob, Bridger
+
+Beth Brett, Creston
+
+Beth Cavanaugh, Hosford Middle School
+
+Dee Reddy, Kellogg Middle School- Spanish DLI
+
+Eddie Wang, Woodstock
+
+Elizabeth Kennedy-Wong, Mt. Tabor Middle School, Franklin High School
+
+Ellie Russell, Marysville
+
+Harmony Quiroz, Atkinson
+
+Josh Cody, Creative Science School
+
+Martha Almendarez-Langland, Atkinson
+
+Maya Mori, Mt. Tabor Middle School
+
+Micah Chu, Sellwood MS/Lewis Elementary
+
+Michelle Harada, Harrison Park
+
+Sarah Kincaid, Kellogg Middle School- Neighborhood Program
+
+Sondra Blair, Arleta
+
+
+
+
+                                                                                                   3
+

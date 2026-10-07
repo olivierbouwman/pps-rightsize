@@ -1,0 +1,155 @@
+Christy Splitt (Zone 1; appointed 1/13/2025, seated ~1/14/2025) - transcript excerpts, PPS Board meetings Jan-Jun 2025 (2025 bond referral and HS cost framework, 2025-26 budget cuts, seismic resolutions, Jefferson enrollment strategy)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (minute-level caption paragraphs;
+raw VTT in transcripts/raw_vtt/).
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (start of the ~1-minute caption paragraph).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (6/10/2025 superintendent evaluation (Res. 7122) skipped entirely; remarks about named laid-off staff and contractors; candidates' and directors' family details (children's schools/teachers, moves) trimmed).
+
+RECORDED VOTES / MOTIONS
+- 2025-01-13 Zone 1 appointment (caption roll calls): round 1 Brim-Edwards-Splitt, DePass-Wirz, Greene-Reece, Hollands-Reece, Sullivan-Splitt, Wang-Wirz (2-2-2); round 2 Wang switched to Splitt ('part of my responsibility as a chair is to move us forward'); runoff Splitt 4 (Brim-Edwards, DePass, Sullivan, Wang) vs Reece 2 (Greene, Hollands). The draft minutes' per-round lists are internally inconsistent; tallies match captions. Source: boardbook/2025-02-04_Regular_Meeting_673134/2025_01_13_Special_Meeting_Minutes_Draft_with_adopted_resolutions_3996229.txt
+- 2025-02-11 Res. 7051 framework to build high-quality high schools cost-efficiently (target ~295,000 sq ft; savings to elementary/middle school repairs) passed 7-0 as amended (moved Brim-Edwards, seconded Hollands; drafted by Brim-Edwards, Hollands and Splitt). Source: boardbook/2025-03-04_Regular_Meeting_677306/2025_02_11_Special_Mtg_Work_Session_Minutes_Draft_with_Resolutions_3996300.txt Splitt co-drafted it.
+- 2025-03-04 (Sullivan absent): Res. 7067/7068 Cleveland & Wells pre-construction contracts adopted as amended 6-0 (moved DePass, seconded Splitt); appeal of DePass's call-the-question tied 3-3 (no: DePass, Splitt, Wang); Res. 7058 senior-chief salary schedule postponed 4-2 (moved Wang, seconded Splitt; yes Brim-Edwards, DePass, Splitt, Wang; no Greene, Hollands). Source: boardbook/2025-03-18_Work_Session_with_Vote_on_Consent_Agenda_679850/2025_03_04_Regular_Meeting_Minutes_with_adopted_Resolutions_-_draft_3996302.txt
+- 2025-04-22 Res. 7099 add senior-leadership pay grade (superintendent's central-office restructure): passed 6-1 (Brim-Edwards no; Wang, DePass, Splitt, Sullivan yes). Source: boardbook/2025-05-06_Regular_Meeting_686691/2025_04_22_Special_Meeting_and_Work_Session_Meeting_Minutes_Draft_w_Resolutions_3996387.txt
+- 2025-05-06 Res. 7109 'urgent need for seismic retrofitting of high-risk school buildings' (Hollands) passed 7-0 (moved Greene, seconded DePass); Res. 7110 seismic tracking/reporting through the facilities committee (drafted by Wang 'with help and input from director Splitt, director DePass and director Sullivan') passed 7-0 (moved Sullivan, seconded DePass). Source: boardbook/2025-05-19_Special_Meeting_689137/2025_05_06_Regular_Meeting_Minutes_-_draft_for_consideration_3996420.txt
+- 2025-05-19 Res. 7116 Budget Committee approval of the 2025-26 budget (Greene, Hollands absent): caption 'approved by a vote of five to zero' (moved DePass, seconded Splitt); draft minutes say '4 yes - 0 no - 1 abstain' but list all five present as Yes (internal inconsistency; caption shows no abstention called). Source: boardbook/2025-06-10_Regular_Meeting_689410/2025_05_19_Special_Meeting_Minutes_-_Draft_with_Resolutions_3996425.txt
+- 2025-06-10 Res. 7120 2024-25 budget amendment 1 passed 7-0 (moved Splitt, seconded Sullivan); Res. 7121 adoption of the 2025-26 budget passed 5-2 (moved DePass, seconded Sullivan; YES Wang, DePass, Splitt, Sullivan, Greene; NO Brim-Edwards, Hollands). Source: boardbook/2025-06-24_Special_Meeting_and_Work_Session_695124/2025_06_10_Regular_Meeting_Minutes_Draft_for_Consideration_3996489.txt and caption ~02:32.
+- Not yet seated for the 1/7/2025 bond referral.
+
+EXCERPTS
+
+[2025-01-13 Special Meeting - Zone 1 vacancy interview (Splitt as candidate, not yet seated)]
+  time 00:34:29 | https://www.youtube.com/watch?v=xNoisoONrkA&t=2069s
+  source: transcripts/text/2025-01-13_Board_of_Education_Special_Meeting__xNoisoONrkA.txt
+  attribution: CONFIRMED (chair introduces "chrisy split"; her opening statement)
+  topic: school funding as life's work
+  "I've said in my application and I say it all the time I feel like bringing fully funded schools back to Oregon is my life's work"
+
+[2025-01-13 Special Meeting - Zone 1 vacancy interview (Splitt as candidate, not yet seated)]
+  time 00:40:36 | https://www.youtube.com/watch?v=xNoisoONrkA&t=2436s
+  source: transcripts/text/2025-01-13_Board_of_Education_Special_Meeting__xNoisoONrkA.txt
+  attribution: CONFIRMED (same interview)
+  topic: trade-offs forced by inadequate resources
+  "we should not have to choose right we are in the position of having to choose because we don't have adequate resources so I just want to make sure that we start there"
+
+[2025-01-13 Special Meeting - Zone 1 vacancy interview (Splitt as candidate, not yet seated)]
+  time 00:54:44 | https://www.youtube.com/watch?v=xNoisoONrkA&t=3284s
+  source: transcripts/text/2025-01-13_Board_of_Education_Special_Meeting__xNoisoONrkA.txt
+  attribution: CONFIRMED (follow-up on her written answer 'nice-to-haves have to wait')
+  topic: where she would cut
+  "I just can't even understand where you would find anything to cut at our school at this point [...] if we don't have more resources we know those are the choices we're going to have [...] the things like at a like a high level that come to mind are like programs that aren't obviously benefiting all kids in a school like anything that's like um serving um like a special interest of some sort"
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:16:26 | https://www.youtube.com/watch?v=zxaXALjzumk&t=8186s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (Brim-Edwards replies "I'm with you Christie [...] director split"; self: "Zone one includes ID to be Wells")
+  topic: shrink HS footprints even in her own zone
+  "I want those in the audience to know anybody who's listening um Zone one includes ID to be Wells [...] I really think that looking at the size is important [...] I think that's $24 million and I absolutely agree with you that I think that's a place that we need to look"
+
+[2025-02-04 Regular Meeting - high-school modernization cost (Cornerstone) report; board 'values' for cost cuts]
+  time 02:17:26 | https://www.youtube.com/watch?v=zxaXALjzumk&t=8246s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (same turn)
+  topic: build the remaining high schools to Lincoln's size
+  "I think really it's no we're going to build these high schools to roughly the same size and not have others that are bigger than the ones that we've just we've just done"
+
+[2025-02-04 Regular Meeting - initial draft 2025-26 budget ($40M shortfall)]
+  time 03:10:19 | https://www.youtube.com/watch?v=zxaXALjzumk&t=11419s
+  source: transcripts/text/2025-02-04_Board_of_Education_Regular_Meeting__zxaXALjzumk.txt
+  attribution: CONFIRMED (chair: "director split been waiting for a little bit")
+  topic: accepts cuts may be needed; blames state underfunding
+  "it is not like I am not okay making Cuts I realize we may have to but personally I think it's unacceptable that the state of Oregon continues to chronically underfund our schools"
+
+[2025-02-11 Special Meeting - Res. 7051 framework for cost-efficient high-school modernizations]
+  time 00:06:04 | https://www.youtube.com/watch?v=dDmpgZcNfI&t=364s
+  source: transcripts/text/2025-02-11_Board_of_Education_Special_Meeting_and_Work_Session___dDmpgZcNfI.txt
+  attribution: CONFIRMED (Brim-Edwards thanks "Dr Holland and um split" for co-drafting; she responds)
+  topic: HS cost savings to fund middle and elementary schools
+  "on behalf of um the families in the idab wells cluster [...] make sure that we are meeting not just the needs of the high schools but other needs um in our um middle school and elementary schools as possible within the bond amount"
+
+[2025-04-22 Special Meeting (as Budget Committee) - superintendent's proposed 2025-26 budget]
+  time 01:43:50 | https://www.youtube.com/watch?v=-iIZmAv0aaE&t=6230s
+  source: transcripts/text/2025-04-22_Board_of_Education_Special_Meeting_and_Work_Session__-iIZmAv0aaE.txt
+  attribution: PROBABLE (unnamed; refers to declining enrollment at her own children's school and, at 01:52, to the CPPS/PTA lobby day she organized)
+  topic: declining enrollment needs a state 'off-ramp'
+  "declining enrollment is such a fascinating issue. [...] it's not like you can just like lay off a teacher at the school because you still have class sizes that are like 25, 26 kids that used to be 28 or 29 kids. [...] I think that the state needs to recognize that if we do have declining enrollment, which we do, 6.5% statewide [...] we need to figure out how to help create like an off-ramp so that it's not just like a drop"
+
+[2025-04-22 Special Meeting (as Budget Committee) - superintendent's proposed 2025-26 budget]
+  time 01:46:51 | https://www.youtube.com/watch?v=-iIZmAv0aaE&t=6411s
+  source: transcripts/text/2025-04-22_Board_of_Education_Special_Meeting_and_Work_Session__-iIZmAv0aaE.txt
+  attribution: PROBABLE (same turn)
+  topic: move students between schools by choice; review contracts
+  "I've just been thinking a lot about what we can do about those schools with higher class sizes. um you know, can we get volunteers to start kindergarten at the neighboring school? I don't know. So, I just encourage us to get creative about how we can help move kids around strategically potentially um by choice"
+
+[2025-04-22 Special Meeting - Res. 7099 senior leadership pay grade / central office restructure]
+  time 02:13:21 | https://www.youtube.com/watch?v=-iIZmAv0aaE&t=8001s
+  source: transcripts/text/2025-04-22_Board_of_Education_Special_Meeting_and_Work_Session__-iIZmAv0aaE.txt
+  attribution: POSSIBLE (unnamed director who "had some concerns going in"; Splitt had seconded the 3/4 postponement of the related senior-chief salary schedule)
+  topic: central-office middle-manager layer
+  "making some of the changes we've heard from schools about there being kind of too many sort of middle manager positions between our senior positions and our schools. [...] this in the end is uh it's a cost savings measure."
+
+[2025-04-29 Budget public comment and work session]
+  time 02:08:44 | https://www.youtube.com/watch?v=kni2IkmmZEk&t=7724s
+  source: transcripts/text/2025-04-29_Public_Comment_and_Work_Session_on_the_2025-26_Proposed_Budget__kni2IkmmZEk.txt
+  attribution: CONFIRMED (chief of staff: "director split was correct that there would not be agreement")
+  topic: no state 'school funding emergency'
+  "I just don't think that our state- elected officials agree that we have a school funding emergency. And that's part of the problem."
+
+[2025-04-29 Budget public comment and work session]
+  time 02:30:07 | https://www.youtube.com/watch?v=kni2IkmmZEk&t=9007s
+  source: transcripts/text/2025-04-29_Public_Comment_and_Work_Session_on_the_2025-26_Proposed_Budget__kni2IkmmZEk.txt
+  attribution: CONFIRMED (chair calls "director split"; self: "I got appointed a week later"; personal school detail omitted)
+  topic: bond flexibility pays for seismic
+  "One thing that we're getting a lot of grief about is the flexibility in the bond and I see frustration with that flexibility. [...] we need to pass the bond or else we will then have to do a new bond [...] we will actually get the money we need to take care of the seismic issue if you pass it."
+
+[2025-05-06 Regular Meeting - seismic resolutions 7109/7110 and bond update]
+  time 02:44:08 | https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=9848s
+  source: transcripts/text/2025-05-06_Board_of_Education_Regular_Meeting__Uxh6Jm_xFYY.txt
+  attribution: CONFIRMED (corrects her own 4/29 statement; votes yes on 7109)
+  topic: seismic-first defers other needs (HVAC)
+  "I think there's really important work to be done at our schools that has nothing to do with seismic safety that because of this choice will be pushed further down the road. And I'm really open to considering how we can find additional funding in other places or in other ways down the road to address, for example, HVAC issues"
+
+[2025-05-19 Special Meeting - middle school redesign update]
+  time 00:27:26 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=1646s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: PROBABLE (self: "As the longtime PTA treasurer", a role she cites again on 6/9/2026)
+  topic: K-8s that want to become middle schools
+  "I'm curious about um the K8 question, too. [...] we're definitely hearing either whispers or downright shouts from time to time from our K8s wishing that they were not K8s. um uh kids in those schools wishing they were at a comprehensive middle school. [...] I'm just curious if there's still conversation on, you know, transitioning those remaining six K8s"
+
+[2025-05-19 Special Meeting - middle school redesign update]
+  time 00:28:26 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=1706s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: PROBABLE (same speaker, after staff reply that it is outside the redesign)
+  topic: compare K-8 and middle-school outcomes
+  "I think it might be interesting just in evaluating how things are going to see, you know, the differences between the K8s that we have and the comprehensive middle schools so that we can have some data"
+
+[2025-05-19 Special Meeting (as Budget Committee) - approval of 2025-26 budget (Res. 7116)]
+  time 00:59:50 | https://www.youtube.com/watch?v=WPbTg28GB_o&t=3590s
+  source: transcripts/text/2025-05-19_Board_of_Education_Special_Meeting__WPbTg28GB_o.txt
+  attribution: CONFIRMED (minutes: "Director Splitt voiced discomfort in voting yes on an inadequate budget"; chair thanks "Director SM")
+  topic: approving an inadequate budget
+  "it is really hard to vote yes on something that we all know is inadequate for our kids. [...] our state legislature for, you know, since the early 1990s has underfunded our schools."
+
+[2025-06-10 Regular Meeting - adoption of 2025-26 budget (Res. 7121)]
+  time 01:37:09 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=5829s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: CONFIRMED (chair: "I 100% agree with my fellow director Split")
+  topic: yes vote = need a budget, not agreement
+  "this budget reflects not the values that I think we as a district have, the values that we as a board have, but a reality that we're stuck with. [...] I'll be a yes on this budget, but I want everybody to understand that it's not because I support underfunding our schools [...] but it's because we need to have a budget."
+
+[2025-06-10 Regular Meeting - Jefferson enrollment strategy (sunsetting dual assignment)]
+  time 03:06:41 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11201s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: CONFIRMED (chair: "Director Split."; chair next: "I share director splits enthusiasm"; personal history trimmed)
+  topic: Jefferson: don't let affluent parents block change
+  "in addition to like not letting affluent parents stop us from doing this um I want to name that we've heard about some quick fixes that could be done now."
+
+[2025-06-10 Regular Meeting - Jefferson enrollment strategy (sunsetting dual assignment)]
+  time 03:09:45 | https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11385s
+  source: transcripts/text/2025-06-10_Board_of_Education_Regular_Meeting__mb9SnIfcbZY.txt
+  attribution: CONFIRMED (same turn)
+  topic: open to consolidating under-enrolled schools near Jefferson
+  "I also heard from the Irvington PTA [...] they've been like should we have two underenrolled elementary schools right next door to each other um maybe not [...] there are a lot of underenrolled or like in unequally enrolled middle schools and elementary schools in that area and while we're having this conversation maybe be open-minded about that dynamic"

@@ -1,0 +1,91 @@
+                                           Health Exams
+
+    Performance Standard
+    1302.42 Child health status and care
+    (b) Ensuring up-to-date child health status. (1) Within 90 calendar days a er the child ﬁrst a ends the
+    program or, for the home-based program op on, receives a home visit, with the excep ons noted in
+    paragraph (b)(3) of this sec on, a program must:
+    (i) Obtain determina ons from health care and oral health care professionals as to whether or not the
+    child is up-to-date on a scheduled of age appropriate preventa ve and primary medical and oral health
+    care, based on: the well-child visits and dental periodicity schedules as prescribed by the Early and
+    Periodic Screening, Diagnosis, and Treatment (EPSDT) program of the Medicaid agency of the state in
+    which they operate, immuniza on recommenda ons issues by the Centers for Disease Control and
+    Preven on, and any addi onal recommenda ons from the local Health Services Advisory Commi ee
+    that are based on prevalent community health problems.
+    (ii) Assist parents with making arrangements to bring the child up-to-date as quickly as possible; and, if
+    necessary, directly facilitate provision of health services to bring the child up-to-date with parent consent
+    as described in 1302.41(b)(1).
+
+
+   Children who are up to date on their well child exams are more likely to be caught up on
+   immuniza ons, to have any ongoing health condi ons caught early and be er monitored, and to
+   have access to specialist care if needed.
+   PPS Head Start will support families in the process of naviga ng the healthcare system to access
+   care as soon as possible, if not already established. Documenta on of a well child exam is needed
+   within 90 days of a child’s enrollment.
+   Family Service Workers will communicate with families around the importance of their child
+   establishing primary care with a medical provider, and support as needed to obtain needed
+   documenta on for Head Start requirements.
+  _________________________________________________________________________
+  Family Service Worker (FSW) Responsibili es
+
+➢ Family Service Workers are responsible for obtaining documenta on around a child’s last
+  Health Exam/Well Child Exam (WCC) within 90 days of a child’s enrollment date.
+  Documenta on should be sent to the Health Coordinator for data entry.
+➢ FSW can assist families in several ways to get Health Exam informa on:
+             ● Ask if parent has documenta on at home from last WCC
+             ● Give parent a blank Health Exam form if they have an upcoming appointment
+             ● Parent may be able to access child’s medical records online, or may be interested in
+
+
+
+
+   Health Exams (rev. 3/22/23)                                                                         1
+                learning how to if not already connected (See Online Records Access script)
+            ● FSW can have parent sign Release of Informa on form so records can be requested
+                from medical home
+     ➢ FSW will follow the ‘Health Documenta on before Event’ script to track communica ons
+       held with parents around follow up as ‘ac ons’ (appts scheduled, forms given, reminders,
+       etc.)
+
+ Family Service Worker Data Entry
+ In the child’s Health Exam event:
+        ●   Click: Add Ac on
+        ●   Ac on Type: Choose appropriate type
+        ●   Scheduled Date: LEAVE BLANK
+        ●   Ac on Date: Date follow up occurred
+        ●   Descrip on: Write in what follow up was regarding
+        ●   Status: Choose an appropriate status
+        ●   Ac on Notes: Click the clock, document notes as needed
+        ●   Agency Worker: choose your name
+
+ Important= If no Health Exam documenta on is on ﬁle yet, Health Exam event should have NO
+ ‘event date’ or ‘status’ entered in the top por on.
+
+ ________________________________________________________________________________
+
+Health Coordinator Data Entry
+    ●       Select Services tab in the upper le corner
+    ●       Click on the child’s name from the list on the le , then
+    ●       Go to the Health Services Tab
+    ●       Click on the Event Tab
+    ●       Click Add Event
+             o Select Health Exam
+             o Event Date: Enter date of the exam
+            o Expires: Will auto-populate for 18 months from date of exam
+            o Select a Status:
+                  ▪ Completed
+                  ▪ Follow- Up Needed (If there is anything that needs addi onal a en on or
+                     follow up)
+            o Descrip on: Type a descrip on of the document (WCC, etc.)
+            o Results: Type in an appropriate result (‘no concerns’, ‘due for new exam’, etc.)
+            o Agency Worker: Family Service Worker’s name
+            o Event Notes: Click the clock then enter notes into the notes sec on if needed
+            o Click Save
+            o A ach document in ‘A achments’ tab as ‘Health Exam’
+
+
+
+
+ Health Exams (rev. 3/22/23)                                                                  2
+

@@ -1,0 +1,1072 @@
+VOLUME 1
+
+
+
+PPS CLEVELAND
+HIGH SCHOOL
+COMPREHENSIVE PLAN
+
+17 APRIL 2024
+
+
+
+
+                     1
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                                                                                  1878 Map of Portland, E.S. Glover
+LAND ACKNOWLEDGEMENT
+
+The Portland Metro area rests on traditional village sites of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook,
+Tualatin, Kalapuya, Molalla, and many other tribes who made their homes along the Columbia River. Indigenous people have created
+communities and summer encampments to harvest and enjoy the plentiful natural resources of the area for the last 11,000 years.
+
+We want to recognize that Portland today is a community of many diverse Native peoples who continue to live and work here. We
+respectfully acknowledge and honor all Indigenous communities—past, present, future—and are grateful for their ongoing and vibrant
+presence.
+
+We also acknowledge the systemic policies of genocide, relocation, and assimilation that still impact many Indigenous/Native
+American families today. As settlers and guests on these lands, we respect the work of Indigenous leaders and families, and
+pledge to make ongoing efforts to recognize their knowledge, creativity, and resilience. Within the Cleveland community we also
+acknowledge how we have systematically failed native students, and commit to ensuring a better future for the Indigenous and Native
+students and families who have continued to contribute to bettering our community despite our failings. 		
+
+This land acknowledgement was written by Cleveland High School students. We use it to ground our perspective and impact our
+process.
+
+
+
+
+                                                                                                                            2
+2    PPS CHS | COMPREHENSIVE PLAN                                                                         MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+PARTICIPANTS
+
+PO RT L A N D PU B LI C S C H O O L S        M A H LU M A RC H IT E C TS                        K PF F WIT H A B E D E S I G N G RO U P*
+Darren Lee, Director of Construction,        Abby Dacey, Principal In Charge                    Mark Tobin, Principal, Structural Engineer
+OSM
+                                             Alyssa Leeviraphan, Project Manager                Kevin Nadolny, Structural Engineer
+Marina Cresswell, Senior Director, OSM
+                                             Chris Brown, Project Architect                     Nick Halsey, Structural Engineer
+Erik Gerding, Sr. Project Manager, OSM
+                                             Andrew Weller-Gordon, Architect                    Courtney Bradshaw, BIM Lead
+Hector Lopez, Project Manager, OSM
+                                             Pip Allen, Architect                               PA E
+David Mayne, Bond Communications
+                                                                                                Forest Tanier-Gesner, Mechanical
+Manager, OSM                                 Rene Berndt, Project Designer
+                                                                                                Tim Elley, Project Manager
+                                             S T U D I O PE T R E T TI A RC H IT E C T U R E*
+                                             Amanda Petretti, Design Strategy                   Ruwan Jayaweera, Mechanical
+
+The Mahlum | Studio Petretti team reflects   Hannah Allender, Design + Engagement               SA M ATA*
+PPS’s goal of achieving race and gender                                                         Jenny Streb, Principal, Electrical
+equity within its contracting processes.     Luke Smith, Design and Presentation
+The District specifically encourages
+                                                                                                V E RT E X*
+larger and smaller firms to partner. As an   A F T E R B RU C E*
+                                                                                                Darcy Tucker, Principal, Communications
+80+ person firm, Mahlum provides the         Thy Daniels, Project Manager
+resources and experience to support a
+                                             Tracy Nguyen-Chung, Lead Strategist /              B U R M A N D E S IG N*
+project at this scale. As a nine-person,
+                                             Creative Director                                  Linda Burman, Plumbing
+woman-owned firm, Studio Petretti has
+added their nimble approach to finding
+                                             Mireaya Media, Engagement Co-Lead                  WI N TE R B RO O K
+strategic solutions. The sub-consultant
+team includes many emerging, woman-                                                             Ben Schonberger, Planner
+                                             Rhonda Teeny, Engagement Co-Lead
+owned, or minority-owned businesses.
+For this phase, the design team’s total                                                         V E G A*
+Certified Business participation is 51%.     M AY E R R E E D*                                  Martha Williamson, Principal
+                                             Jeramie Shane, Principal
+An asterisk (*) indicates firms that are                                                        Casey Jones, Civil Engineer
+COBID Certified.                             Anne Samuel, Landscape Architect
+                                                                                                D CW*
+                                             Taylor Bowden, Landscape Architect
+                                                                                                Brittany Gelleri, Administrative Manager
+
+                                             S H A LLE C K                                      Trish Drew, Director
+                                             Adam Shalleck, Theatre Consultant
+                                                                                                Rachel Quimby, Senior Project Leader
+                                             A RC H IT E C T U R A L R E SO U RC E S
+                                                                                                Katya Gamarnik, Cost Estimator
+                                             G RO U P*
+                                             Maya Foty, Principal, Historic                     Andrew Jonsson, Cost Estimator
+                                             Preservation
+                                                                                                G A M U T PRO J E C T SO LU TI O N S* WIT H
+                                             Caitlin Cranley, Project Manager
+                                                                                                KJ F C OS T S T U D I O*
+                                             Matthew Davis, Planning Principal                  Josh Durham, Constructability
+
+                                                                                                Summer Olson, CM Support
+
+                                                                                                Jason Freeborn, Cost Estimator
+
+                                                                                                Lisa Quiroga, CM Support
+                                                                                                                                      3
+3     PPS CHS | COMPREHENSIVE PLAN                                                                                MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+PARTICIPANTS,
+CONTINUED
+
+C PC M E M B E RS                   Tanya Paglia
+
+Scott Alperin                       Claire Papas
+
+Dr Linda Isako Angst                Krystal Perkins
+
+Julia Blattner                      Isadora Ponce
+
+Alice Bockman                       Cosette Posko
+
+Emmett Brown                        Jason Rueker
+
+Denise Castanon                     Torsten Schmole
+
+Jesse Cooke                         Tilden Schmole
+
+Allison Cottrell                    Edwin Smith
+
+Jill Cropp                          Elizabeth Smith
+
+Casey Dyer                          Owen Threadgill
+
+Brad Demby                          Melissa Toledo
+
+Erin Donne                          Niki Trueblood
+
+Chris Dunning                       Jo Ann Wadkins
+
+Melissa Ewbank                      Jan Watt
+
+Neil Gibson
+
+Calder Gill
+
+Allison Grice
+
+Rachel Haas
+
+Nathan Juttlestad
+
+Eric Keyser
+
+Angela Long
+
+Jack Maloney
+
+Megan M
+
+Justin Monahan
+
+Brian Murtagh
+
+Tamara Ooms
+
+Laura Oppenheimer
+
+
+                                                      4
+4    PPS CHS | COMPREHENSIVE PLAN
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                   TABLE OF CONTENTS
+                                   VO LU M E 1
+                                   E X EC U T I V E S U M M A RY...................................................................9
+
+
+                                   VO LU M E 1.1: R E C O M M E N D E D S IT E + B U I LD I N G O PTI O N
+                                   S I T E C O N T E X T...............................................................................2
+                                   R EC O M M E N D E D O P T I O N...............................................................7
+                                   B U I L DI N G P R O G R A M....................................................................12
+                                   AT H L E T I C S P R O P E R T Y P R O G R A M........................................ .....25
+                                   S U S TA I N A B I L I T Y A P P R OAC H......................................................2 9
+                                   M AT E R I A L + S YS T E M A S S U M P T I O N S.........................................31
+
+
+
+                                   VO LU M E 2: A PPE N D I X A N A LYS IS + PRO C E S S
+                                   S I T E L AYO U T O P T I O N S..................................................................3
+                                   M E E T I N G S + C O M M U N I T Y E V E N T S.............................................13
+
+
+                                   VO LU M E 3: A PPE N D I X
+                                   P R E L I M I N A RY P R O J EC T D E S C R I P T I O N........................................2
+                                   A P P E N DI X......................................................................................42
+
+
+
+
+                                                                                                                                             5
+5   PPS CHS | COMPREHENSIVE PLAN                                                                                             MAHLUM | Studio Petretti
+[This page intentionally left blank for the purpose of double-sided printing.]
+
+
+
+
+                                                                                 6
+VOLUME 1
+
+
+
+EXECUTIVE
+SUMMARY
+
+
+
+
+            7
+[This page intentionally left blank for the purpose of double-sided printing.]
+
+
+
+
+                                                                                 8
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+CLEVELAND HIGH SCHOOL MODERNIZATION
+
+PROJECT                                      including placing the school on the track   The recommended option will require
+                                             site. Once it was determined there was      a City of Portland land use process,
+INTRODUCTION                                 no suitable alternative for relocating      including requested adjustments to the
+                                             the track, the team focused on four         height limit and lot coverage. These
+                                             concepts utilizing the main and parking     topics are outlined in the Winterbrook
+This document summarizes the
+                                             lot properties. See Volume 1.1 for more     memo located in Volume 3: Appendix.
+Comprehensive Planning (CP) process
+                                             detail.
+for a modernized Cleveland High School                                                   The design team will continue to study
+(CHS). This plan is the first phase of the   > 01: Consolidated / Partial Existing       concept “04: Distributed / All New.” The
+Portland Public Schools (PPS) process                                                    challenges of a distributed campus
+for transforming a comprehensive high        > 02: Consolidated / All New
+                                                                                         concept will need to be weighed against
+school to meet the PPS High School           > 03: Distributed / Partial Existing        the potential advantages:
+Education Specification (Ed Spec). It
+                                             > 04: Distributed / All New
+was preceded by a Conceptual Master                                                      > “Release valve” for the design
+Plan (published in 2020) and will be         Through rigorous evaluation and               process on one of the smallest and
+followed by a second phase of design         community feedback, the recommended           least contiguous PPS High School
+and documentation.                           option is based on “02: Consolidated /        campuses.
+                                             All New” for the following reasons:
+The design team is co-led by Mahlum                                                      > Potential cost savings resulting from
+Architects and Studio Petretti and           > Keeps students primarily on one             simplified construction type for a
+supported by a team of experts. Through        property during the school day,             4-story structure in-lieu of a 5-story
+in-depth site analysis, coordination with      fostering a sense of community and          structure.
+District-provided standards, and broad         safety                                    > Potential risk to student and staff
+community engagement, the design             > Accommodates the PPS Ed Spec                safety if more on-grade crossings on
+team has developed a recommended               by creating taller, more compact            SE 26th Avenue are needed.
+option for CHS: an all-new structure           structures than the existing building     > Risk of skybridge over SE 26th
+consolidated on the current CHS block.
+                                             > Allows large outdoor space for students     Avenue not being approved, added
+                                                                                           construction costs, and operational
+OPTIONS                                      > Lowest-cost option with the least
+                                                                                           management.
+The design team explored many options          project risk
+for utilizing the PPS-owned sites,                                                       See Volume 1.1 for more detail.
+                                             > Preserves space for CHS staff to park
+                                                                                                                           9
+9    PPS CHS | COMPREHENSIVE PLAN                                                                        MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+VISION & GOALS
+                                            The Modernized CHS will draw inspiration from
+With extensive community input,             its context to create a vibrant campus that
+the design team developed a
+vision statement and seven project          centers students and staff.
+goals. These statements served as           The design will celebrate the school’s role as the
+guiding principles for creating the
+Comprehensive Plan approach.
+                                            heart of the CHS community, a vital part of the
+                                            neighborhood, and an enduring presence in SE
+The graphic below shows the seven
+goal statements overlaid on a section
+                                            Portland.
+drawing of the recommended option. The
+goals are paired with precedent images
+that suggest ways in which the site and
+building design might fulfill the vision.
+Actual design solutions will be developed
+during the Phase Two portion of the CHS                               Acknowledge the
+modernization.
+                                                                      Indigenous legacy of the
+                                                                      site
+
+
+
+
+                                                            Develop academic
+                                                           and extracurricular
+                                                              excellence with
+                                                                 intercultural
+                                                               understanding
+
+
+
+Enhance CHS’s role as
+a civic presence and
+community resource                                         SCIENCE
+
+                                                           SCIENCE
+                                                             CLASS
+                                                             CLASS
+
+                                                         COMMONS
+
+
+
+                                                                                                10
+10   PPS CHS | COMPREHENSIVE PLAN                                                MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                      LIBRARY
+                                                                 Create a welcoming,
+                                      ADMIN                      inclusive
+                                                                 environment that
+                                                                 supports students
+                                                                 and staff
+
+
+
+
+ Be good stewards of
+ local taxpayer dollars
+ and balance district-wide
+ facility needs                           Improve student
+                                          safety in and around
+                                          the site
+
+
+
+                                        Promote health,
+                                        wellness, and climate
+                                        resiliency
+
+
+
+
+                            GYMNASIUM
+
+
+               WEIGHTS              BLK BOX         RR
+
+                                                                  NS Section looking east through site
+
+
+                                                                                            11
+11   PPS CHS | COMPREHENSIVE PLAN                                        MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+SITE CONNECTIVITY                             progresses.                                        athletes and events. An entry plaza,
+                                                                                                 aligned with the Waverleigh Boulevard
+                                              The gymnasium will have exit points                approach will greet people as they arrive.
+The overall layout of the main site
+                                              on the east side of the block, near                The existing stadium will be enhanced,
+intentionally connects the three CHS
+                                              SE 28th Avenue and the start of                    adding restrooms and a new field house
+properties. Visitors and staff will often
+                                              Waverleigh Boulevard. This placement               building that will house team rooms,
+arrive on the west side at the parking lot.
+                                              will encourage the visual and physical             storage, and a multi-purpose space.
+The team will explore adding a mid-block
+                                              connections between the main property              The remaining open areas on the west
+crosswalk and enhancing the existing
+                                              and the track property. The design                 side of the track site will be improved
+crossing at SE Franklin Street and SE
+                                              proposal includes improvements to the              to accommodate multiple athletic
+26th Avenue. A person approaching
+                                              crossings at SE 28th Avenue, SE 28th               practices.
+the school from the east will be able
+                                              Place, SE 29th Avenue, and SE 31st
+to visually orient themselves to the                                                             PPS is proposing a plan to Portland
+                                              Avenue.
+classroom wing and larger gathering                                                              Parks and Recreation to make
+areas (cafeteria, auditorium, gyms).          The track property will maintain the               improvements to Powell Park, including
+The exact entry location, fencing, and        current track location and better support          adding a softball field.
+gates will be developed as the design
+
+
+
+
+                                                                   SE 25th Ave                   SE 26th Ave                                   SE 28th Ave
+
+
+
+                                                                                    Upgraded
+                                                                                     Parking                       Classroom Wing
+
+
+                                                                                                                              New Cleveland
+                                                                                                                               High School
+                                                                                 Upgraded Pedestrian
+                                                                                      Crossings                Theater                   Main Entranc
+
+                    New Multi-Use                                                                                               Gymnasium
+                   and Baseball Field
+
+
+                                                New Softball
+                                                   Field
+
+
+
+
+                                                                                                                                    12
+12   PPS CHS | COMPREHENSIVE PLAN                                                                                   MAHLUM | Studio Petretti
+        VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                              SE 29th Ave                                    SE 31st Ave                                            SE 33rd Ave
+
+                                              SE Franklin St
+
+
+
+
+                                                               New Field House                             New Shot Put
+                                                                one or two stories
+
+
+ce   Upgraded Pedestrian
+          Crossings
+                                              SE Waverleigh Blvd
+                                                                                                      Additional Bleachers
+                                                                                                        1350-1700 seats total
+
+
+                                                                                                      Additional
+                                                                                                      Restrooms
+
+
+
+                                                                                           Practice
+                                                                                            Field
+                                            SE Po                     Event Parking
+                                                 well B
+                                                       lvd
+
+
+
+                                                                                                                                                   N
+
+
+                                                                                                                                    Site Diagram
+                                                                                                                                              13
+        13   PPS CHS | COMPREHENSIVE PLAN                                                                                MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+SCHOOL BUILDING                             gymnasium and theater. These large
+                                            volumes do not need many windows                Major Anticipated
+The recommended option is developed         and could be designed with strategically        Building Features:
+from Option 02: Consolidated / All          placed glass walls that act as signifiers
+New construction. The refined option        for the activities within. By contrast,         > 323,700 gsf*
+organizes the school program into two       the classroom wing will feature many            > Mass Timber
+                                            smaller windows, each closer in scale
+main volumes: a classroom wing and a
+                                            to the residences that line SE Franklin
+                                                                                              Construction
+gymnasium/arts wing.
+                                            and SE 28th streets. The participants           > North Academic
+These two primary academic wings are        were interested in the classrooms                 Wing with Commons
+connected by an elevated volume above       looking out over the tree canopy to
+the central courtyard containing the        the north and the new courtyard to the            Space
+library, counseling, and administration     south. Initial studies indicate that a          > Connector: Library +
+functions. This configuration creates       four-to-five story classroom wing can be
+a large, secure outdoor courtyard at        located on the north side of the site and
+                                                                                              Administration
+the heart of the school. The protected      maintain substantial solar access to the        > South Athletics +
+open space will serve several functions:    residences along SE Franklin Street. The          Performing Arts
+main entry, event entry, and key student    team will continue to study the exact
+learning and social spaces. The exact       building placement and height in the next       > Central Outdoor
+layout and character of these spaces will   phase.                                            Gathering
+be developed in schematic design.
+                                            The proposed building will be optimized
+As the design approach emerged during       for solar orientation. Most windows will       wing will feature the student commons
+CPC 05 and Public Workshop 03, the          face north and south, where sun angles         (cafeteria). Above this level, most of
+team shared an interactive model of         can be more easily addressed (compared         the rooms are smaller, regular-sized
+the site. When shown the option to          to the east and west, where its angles         rooms, such as classrooms and offices.
+place the taller classroom wing to the      are nearly horizontal). Windows to the         The classroom building is shown with
+south or north of the site, most people     north receive primarily diffused sunlight      a regular 30-foot by 35-foot grid. This
+responded positively to the north           and require little shading or glare control.   rigorous layout is intentional, as it sets
+position. The reasons were based on         Windows to the south receive direct            the proper framework for the use of
+adjacencies, view, and scale. There was     sunlight, which can be managed with            mass timber construction.
+a sense that Powell Boulevard, with         exterior shading and blinds.
+more noise, faster speeds and taller                                                       Material and system assumptions are
+buildings, was a better location for the    The ground floor of the classroom              expanded on in Volume 1.1.
+                                                                                                                             14
+14   PPS CHS | COMPREHENSIVE PLAN                                                                          MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+A building program summary is shown
+below. An expanded building program is
+included in Volume 1.1.
+
+*As the project heads into schematic
+design, the team will look for ways
+to increase efficiency and refine the          PPS Education              Recommended CMP                Difference
+program for a target building area of       Specification Program             Program*                 (2024 CMP vs.
+315,000 square feet.                                (2017)                     (2024)                  2017 Ed. Spec.)
+                                                                                                                          Net
+                                             Teaching        Total Net    Teaching        Total Net    Teaching
+                                                                                                                      Square
+                                              Stations    Square Feet      Stations    Square Feet      Stations
+                                                                                                                         Feet
+                                                    (#)     (total nsf)          (#)     (total nsf)       (# Δ)
+                                                                                                                   Difference
+
+   Core Academic Programs
+   TOTAL: Core Academic Programs                   55          76,660           63          91,450            8      14,790
+
+
+
+
+   Fine & Performing Arts
+   TOTAL: Fine & Performing Arts                     4         21,150             6         30,370            2        9,220
+
+
+
+
+   Physical Education & Athletics
+   TOTAL: Physical Education & Athletics             3         35,580             3         40,656            0        5,076
+
+
+
+
+   Educational Support
+   TOTAL: Educational Support                        2         67,400             2         70,335            0        2,935
+
+
+
+
+   Partner & Community Uses
+   TOTAL: Partner & Community Uses                   0          1,200             0          1,550            0         350
+
+
+
+
+   Wrap-Around Service Providers
+   TOTAL: Wrap-Around Service Providers              0          4,700             0          4,700            0            0
+
+
+
+
+   SUMMARY
+
+   TOTAL ASSIGNABLE AREA                           64        206,690            74        239,061            10      32,371
+
+
+   Unassignable Area
+   Building Support (Circulation & Walls)                      74,408                       84,639                    10,231
+
+
+   TOTAL BUILDING GROSS AREA (SF)                          281,098                      323,700                     42,602
+   Building Efficiency % (net/gross)                            73.5%                        73.9%
+
+                                                                                              CHS Building Program Summary
+                                                                                                                  15
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+PROCESS                                                                                       DE
+                                                                                                   SIGN TE
+                                                                                                             A
+                                                                                          &                  M
+                                                                                  S
+The comprehensive planning for                                                   PP
+                                                                                          OPEN HOUSE                            S & DESIGN
+Cleveland High School was rooted in                       E                              WORKSESSIONS                      PP                 TE
+community-based engagement. The                        UC                                + COMMUNITY                                             A
+design team worked with three distinct
+                                                  R                                         EVENTS                                                 M
+                                                RB
+audiences: school-based groups (such
+                                               AF TE
+as students, athletics, and specialized
+programs), the general public (via
+Design Workshops and a survey) and                      COMMUNITY-BASED                                                    SCHOOL-BASED
+                                                          ENGAGEMENT                                                        ENGAGEMENT
+focused community engagement (such                      Centering Marginalized                                              School-Focused
+as affinity groups and community-based                          Groups                                                          Groups
+organizations that support CHS families).
+The team brought data, options, and
+analysis from these interactions to the
+Comprehensive Planning Committee                                                    COMPREHENSIVE
+                                                                                  PLANNING COMMITTEE
+(CPC).                                                                                  Institutional Synthesis
+                                                                                            and Alignment
+The CPC’s role was to evaluate the
+information presented and provide
+input and recommendations to PPS.
+                                                                                           SHARE-OUT TO
+PPS, in turn, provided updates on the                                                       COMMUNITY
+process through the CHS Bond website
+and in meetings with the four adjacent
+Neighborhood Associations.                                                                            C O M M U N IT Y BAS E D E N G AG E M E N T
+                                                                                                      LE D BY A F T E R B RU C E
+
+                                               S C H O O L-BAS E D E N G AG E M E N T                 K E Y-I N S I G H T G RO U PS:
+                                                                                                      > Principal
+                                               S C H O O L-BAS E D G RO U PS
+                                               > District-level Athletics                             > Special Education Lead
+
+                                               > District-level Climate Response and                  > Native Student Union Advisor/College
+                                                 Resiliency                                             Coordinator
+                                                                                                      > Advisors from affinity groups
+     C O M PR E H E N S I V E PL A N N I N G   K E Y M E E TI N G S:
+     C O M M IT T E E                          > CHS Leadership and CARE                              > School Social Worker
+     K E Y M E E TI N G S:                       Leadership classes (approximately                    > Immigrant and Refugee Community
+     > CPC Meetings (6)                          60 students)                                           Organization (IRCO)
+     PPS High School Tours                     > CHS Career Learning session
+                                                                                                      C O M M U N IT Y LI S T E N I N G S E S S I O N S:
+                                                 (approximately 400 students)
+                                                                                                      > Special Education (SPED)
+     > Grant High School                       > CHS Staff (2 meetings)
+                                                                                                      > Teachers, paraeducators and staff
+     > Lincoln High School
+                                                                                                      > Community Based Organization
+                                                                                                        leaders working with CHS Community
+
+                                                                                                      C H S A FFI N IT Y G RO U PS
+                                               G E N E R A L PU B LI C
+                                                                                                      > Students and families of Color
+                                               > Public Design Workshops (3)
+                                                                                                      > Broader community from
+                                               > PPS Survey (over 1400
+                                                                                                        intergenerational families
+                                                 respondents)
+                                                                                                      > Teachers and staff of Color
+                                               > Open House (Forthcoming)
+                                                                                                      > Student English Language Learners
+
+
+
+                                                                                                                                            16
+16      PPS CHS | COMPREHENSIVE PLAN                                                                                    MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                               PR E V IO U S                     C U R R EN T PR O C E S S          FUTURE
+C O M PR E H E N S I V E PL A N NI N G
+COMMIT TEE
+The throughline of the PPS                         Conceptual       Phase 1             Phase 2 Design                  Construction
+Comprehensive planning process is the              Master Plan      Comprehensive       (Spring 2024)                   (Timeline TBD)
+CPC. This group of citizens met with                 (2019)         Plan
+the design team six times between
+October 2023 and March 2024. A portion
+of this group also toured the recently
+                                                         We are here                                          Modernized CHS!
+modernized Lincoln and Grant High
+                                                         (Comprehensive
+School campuses. The CPC meetings                        Plan published)
+represent the progression of inquiry
+during the planning process, from CPC
+01, where sites other than the PPS-
+owned sites were considered, to CPC
+06, where the design team presented
+the recommendation to pursue the
+Consolidated / All New option.
+
+An overview of each meeting is located in
+Volume 2: Appendix.
+
+
+
+
+C R I T I CA L Q U E S T I O N S
+Mid-way through the CPC process, two                                                        CPC        Public      Staff    Students     Survey
+critical questions emerged: “Retain the
+1929 building or build all new?” and
+“Build on one site or two?” The graphic to
+the right shows the mathmatical average        Whether or not to keep
+answer from four audiences.                    the 1929 building
+PPS brough the first question to the
+entire CHS community via a digital
+survey. Over 80% of respondents
+indicated a preference for building an
+                                             Retain 1929 Building                                                                Build All-New
+all-new school.
+                                                                                            46           43        27                    22
+The CPC continued to explore the
+                                                                                                                                 1000+
+question of building on one site or two at
+CPC 05. After stuying updated options,
+there was sufficient interest to establish
+the Alternate Option (see Volume 2:
+Appendix).                                                                              How we balance needs
+                                                                                        across one or two sites
+
+                                             Build on both sites                                                Build entire school on one site
+
+                                                                       47                    26   46     23
+
+
+
+
+                                             Numbers in circles indicate total number
+                                             of votes from group
+                                                                                                                                    17
+17    PPS CHS | COMPREHENSIVE PLAN                                                                               MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                    C P C B U I L DI N G TO U R S
+                                    The design team and CPC members
+                                    toured Grant High School (existing
+                                    building reuse) and Lincoln High
+                                    School (new construction). The CPC’s
+                                    comments were highly favorable towards
+                                    the types of spaces and features at
+                                    Lincoln: the new theater, the large
+                                    commons at the heart of the school, the
+                                    robotics and culinary labs. The CPC was
+                                    more favorable towards the look and
+                                    feel of the interior spaces at Grant: soft
+                                    lighting, use of wood, scale of hallways,
+                                    reuse of historic features.
+
+
+
+
+                                    D E S I G N WO R KS H O P S
+                                    Over 140 neighbors, staff, future
+                                    students and other members of the
+                                    CHS community attended three public
+                                    workshops during this phase. Attendees
+                                    learned about the engagement process,
+                                    PPS building standards, and the CHS site
+                                    options. At meeting 01, attendees shared
+                                    hopes and dreams that shaped the vision
+                                    and goals for the project. At meeting 02,
+                                    they evaluated the four options in context
+                                    of these goals. At the final meeting, the
+                                    community was able to interact with a
+                                    physical model and learn about mass
+                                    timber and sustainable strategies.
+
+
+
+
+                                    S T U D E N T F E E D BAC K
+                                    In addition to the four students
+                                    embedded in the CPC, the team solicited
+                                    voices from: two Leadership Classes, the
+                                    CARE Leadership class, lunchtime guests
+                                    (with pizza!) and during an all-day set of
+                                    presentations that were attended by over
+                                    400 students. Feedback ranged from
+                                    strong support of a two-site option with
+                                    a skybridge to thinking the consolidated/
+                                    all-new option was the best use of space.
+                                    Students strongly support daylight and
+                                    windows, outdoor areas, and a different
+                                    type of cafeteria. The team will get more
+                                    detailed feedback in the next phase.
+
+
+CPC Meeting
+                                                                     18
+18   PPS CHS | COMPREHENSIVE PLAN                     MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+                                               How can design normalize
+                                               a culture of pause and                       Co-create opportunities
+                                               rest?                                        to include students and
+                                                                                            families in design decisions
+                                                                                            that will most impact them
+     Marginalized
+     communities are
+     especially interested
+     in how they can be
+     part of placemaking                            Designing for a range of differences
+                                                    (beyond just compliance) will better
+                                                    serve all communities
+
+
+
+
+COMMUNITY-BASED                            T H E M E S F R O M L I S T E NI N G         >    Create spaces that invite pause can
+                                           S E S S I O N S:                                  alleviate stigma: Students would
+ENGAGEMENT                                 >    History matters in the way it                feel less isolated and stigmatized if
+                                                invisibilizes: Students and families         there were more comfortable, well
+The design team consultant for
+                                                from underrepresented and                    lit, and inviting spaces for them to
+community engagement, After Bruce,
+                                                marginalized communities do not              sit. Currently, the designated shared
+conducted an extensive outreach to
+                                                see themselves represented in                spaces for sitting, gathering, or
+historically marginalized groups. Their
+                                                the legacy and history of CHS or             “hanging out” further exacerbate
+findings are collected into a report in
+                                                in the spaces within the building.           class stigmatization and overwhelm.
+Appendix 3. The insights informed the
+                                                The engaged audiences have little
+project vision and goals and have set up                                                >    Design for the most impacted: The
+                                                connection to the building itself
+themes that will drive Phase Two of the                                                      modernized CHS should seek to not
+                                                but are especially interested in how
+design process.                                                                              just accommodate but consider the
+                                                their communities can be part of
+                                                placemaking moving forward.                  full range of differences and needs
+                                                                                             within the student population. In
+                                           >    Center the voices of those who               addition to intentionally designing
+                                                have been underrepresented:                  for students in Special Education,
+                                                The modernization process is                 the design needs to acknowledge
+                                                an opportunity to institutionalize           less visible challenges due to mental
+                                                community power by thoughtfully              health, Post-Traumatic Stress
+                                                and intentionally co-creating                Disorder, and undiagnosed learning
+                                                opportunities to include students            needs and seek to identify solutions
+                                                and families in design decisions,            that improve the student experience.
+                                                particularly for the spaces that will
+                                                most impact these groups.
+
+
+
+
+                                                                                                                         19
+19   PPS CHS | COMPREHENSIVE PLAN                                                                       MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+COST SUMMARY
+One of the goals of the Comprehensive
+Planning Phase is to develop a budget
+for the overall CHS modernization
+project. In partnership with PPS, the
+design team has developed the draft
+project budget contained in the adjacent
+table which reflected the recommended
+option. The design team anticipates
+several variables that will further
+influence the construction cost: refined
+project schedule, additional logistics,
+planning, market-induced inflation/cost
+escalation, and availability of specialized
+labor. Forecasting construction costs
+will continue to be a focus of the design
+process from Schematic Design through
+Construction Documents. The project will
+prioritize stewardship of public funds and
+building long-term value for the School                                               Project Storyline Workshop. March 1, 2024
+District while crafting inspiring spaces
+for students and staff.
+
+The Comprehensive Plan recommended            Reference cost summary information on
+option has been evaluated in parallel by      the following page.
+two cost estimating consultants: DCW
+Cost Managers and KJF Cost Studio.
+The purpose of obtaining two conceptual
+cost estimates at this stage is to have
+a robust perspective on the key cost
+drivers in the absence of a selected
+General Contractor. Gamut Project
+Solutions also provided constructability
+and construction scheduling input, to
+ground cost estimates in the real-world
+challenges of construction on a space
+constrained campus with an aggressive
+schedule for completion.
+
+The conceptual cost estimates were
+developed based on Comprehensive
+Planning level documentation for the
+recommended option.
+
+Reference Volume 1.1 for the site design
+concept, preliminary program diagrams
+and PPS Ed Spec alignment, and
+narrative systems assumptions.
+
+Additional variables were priced as
+additive or deductive alternates. Prices
+are escalated to the 3rd quarter of 2027,
+the anticipated mid-point of construction.
+
+                                                                                                                     20
+20   PPS CHS | COMPREHENSIVE PLAN                                                                  MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+CHS Project Budget
+
+
+
+
+ COMPONENT                                       COMMENTS                                                                         TOTAL
+
+
+                                                 Building and Site Work, Estimate provided by professional
+ Construction Hard Cost                          cost estimators Gamut/KJF.                                             $377,654,178
+
+
+
+ Green Energy Technology 1.5%                    Required by State of Oregon                                               $5,664,813
+
+
+
+ Subtotal                                                                                                               $383,318,991
+
+
+
+ Owner Direct Hard Costs                         Off Site Improvements, utility costs not included above                   $1,650,000
+
+
+
+ Total Hard Costs                                                                                                     $384,968,991
+
+
+
+ Soft Costs                                      Approx. 8.6% of Hard Costs                                             $ 3 3,15 5,0 0 0
+
+
+
+ Fixtures, Furniture & Equipment                 Approx. $28/SF                                                          $ 8,70 0,0 0 0
+
+
+
+ Swing Space/Temp Facilities                                                                                               $5 0 0,0 0 0
+
+
+                                                 10% of Total Costs not including 5% included in Hard Cost
+ Contingency                                                                                                            $41,320,859
+                                                 Estimate
+
+
+ Escalation                                      Included in Hard Cost Estimate                                                    N/A
+
+
+
+ Total Project Budget                                                                                                 $468,644,850
+
+
+ Deduct 2020 Bond Budget for Planning and
+                                                                                                                       -$ 20,0 0 0,0 0 0
+ Design
+
+
+ Remaining Budget Funding Requirement                                                                                 $448,644,850
+
+
+
+     ALTERNATES:
+     1. Distributed Building option (two sites) with tuck-under parking:
+     Adds $34,000,000. (Includes construction, tuck-under parking
+     and schedule acceleration.)
+
+     2. Athletic improvements at Powell Park including new softball,
+     baseball, and multi-purpose fields. Added cost range is between
+     $11,000,000 and $15,000,000.
+
+
+
+                                                                                                                             21
+21     PPS CHS | COMPREHENSIVE PLAN                                                                          MAHLUM | Studio Petretti
+VOL 1 | EXECUTIVE SUMMARY
+
+
+
+
+SCHEDULE & NEXT                                response to future events.                Key milestones for project success
+                                                                                         include:
+STEPS                                        > Entry, Exit, and Loading points: The
+                                               concept plans show preliminary ideas
+                                                                                         > Engaging with students, staff, and
+                                               for the front entry and loading points.
+Once approved by the PPS School Board,                                                     District groups
+                                               All these assumptions will be reviewed
+the design team will move into the             and studied in the context of the         > Engaging with marginalized
+Schematic Design Phase. The design             existing school patterns, public bus        communities
+team intends to study the following            stops, bicycle routes, etc.               > Hiring a general contractor
+major elements in the next phase:
+                                             > Community Engagement: The initial         > Passing a bond to fund the
+> Reduce building size: The 323,700sf          listening sessions conducted by After       construction process
+  space program in this document               Bruce highlighted the need to think
+                                                                                         > Completing the design and
+  represents the first round of input from     deeply about physical accessibility,
+                                                                                           documentation process
+  PPS based on experiences with their          socio-emotional health, identity, and
+  recent modernization projects. The           representation. The design process        > Obtaining land use and building
+  District has set a goal of 315,000sf for     will continue to engage marginalized        permits
+  the final space program.                     communities and center the voices of      > Relocating CHS students to the
+                                               those who have not traditionally been       Marshal campus during construction
+> Confirm building massing and
+                                               represented.
+  placement: Explore interest in moving                                                  > Opening the modernized school
+  building program onto the parking lot      > Look and Feel: The Comprehensive
+                                                                                         Concurrent with the CHS modernization
+  site in order to reduce the building         Planning process touched briefly on
+                                                                                         process, PPS is developing two other
+  height or create more on-site exterior       the concept of what a civic institution
+                                                                                         PPS comprehensive high school
+  space for students.                          should look like. The team will explore
+                                                                                         modernizations: Jefferson HS and Ida
+                                               how materials, like brick, and other
+> Sustainability and Resiliency: The                                                     B Wells HS. The timeline for key CHS
+                                               design elements, such as window size
+  team will develop more detailed                                                        project milestones may be impacted by
+                                               and placement and salvaged ornament
+  solar studies to determine the final                                                   factors outside of the design team’s or
+                                               from the 1929 building might be
+  location of the buildings on the                                                       the School District’s control. The Mahlum
+                                               incorporated into the modernized CHS.
+  site. A comprehensive approach to                                                      + Studio Petretti team will lead the
+  sustainability and resilience, which       The Schematic Design Phase is the           design team with a focus on achieving
+  was outlined in Phase One, will be built   start of a design process that will bring   project success and endeavor to position
+  upon to achieve the right response         the modernization of CHS closer to          PPS to deliver an inspired Cleveland High
+  to carbon, energy use, responsible         realization.                                School modernization on time and on
+  landscapes, material and system                                                        budget.
+  selection, and forecasting the campus’
+
+
+
+
+                                                                                                                         22
+22   PPS CHS | COMPREHENSIVE PLAN                                                                       MAHLUM | Studio Petretti
+

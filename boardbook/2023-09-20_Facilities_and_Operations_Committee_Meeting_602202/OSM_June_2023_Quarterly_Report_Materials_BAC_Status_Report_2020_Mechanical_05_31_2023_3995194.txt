@@ -1,0 +1,76 @@
+2020 Infrastructure: Mechanical                                                                                                        PPS Team Leads: Steve Simonson, Robert Jole
+May 2023                                                                                                                   Number of Completed Projects: 0
+                                                                                                                              Number of Active Projects: 5
+
+STATUS AT A GLANCE
+                                                                                                             As Planned             Caution                 Impacts
+Legend:                                                                                Budget                       X
+                  As planned: no concerns                                              Equity                       X
+                  Caution: requires attention                                          Schedule                                             X
+                  Impacts: impacts occurring                                           Overall                      X
+
+BUDGET
+                                                         BUDGET                             FUNDING                                 PROGRESS                                   FORECAST
+                                                                                                                        Actuals To Date    Additional                Estimate At
+                                         Original Budget       Current Budget     Mech Funds      Other Funds             (all funds)     Encumbered                 Completion       Over/Under
+                  Unallocated Funds           75,000,000             34,926,028     34,926,028                  -                       -                       -                    -   (34,926,028)
+    2020 Bond Mech Assess - 5626                           -            83,720          83,720                  -               67,800                   2,000               83,720                -
+      Bridger-Mech Upgrades-5827                           -          7,342,502      7,342,502                  -              483,811                 347,673             7,342,502               -
+    Harrison Park - MS Conv - 5706                         -         11,500,000     11,500,000                  -                       -                       -        11,500,000                -
+          Kelly-Mech Upgrades-5828                         -          9,434,661      9,434,661                  -              545,298                 454,255             9,434,661               -
+          Lent-Mech Upgrades-5829                          -         11,713,089     11,713,089                  -              866,085                 351,675           11,713,089                -
+           2020 Mechanical Totals                                    75,000,000     75,000,000                  -             1,962,994               1,155,603          40,073,972      (34,926,028)
+
+
+EQUITY*           Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                               MBE       WBE          SDVBE    ESB        N-C       TOTAL             goal              MIN      goal           FEM      goal       APPR       req
+             Consultants        0.00%     24.23%       0.00%    0.00%     0.00%      24.23%           18%
+             Contractors        0.00%      0.00%       0.00%    0.00%     0.00%       0.00%           18%
+                  Overall       0.00%     24.23%       0.00%    0.00%     0.00%      24.23%           18%
+
+              Workforce                                                                                                  0%      25%            0%       14%        0%        20%
+
+ *There have been no construction payments to date.
+2020 Infrastructure: Mechanical                                                                                            PPS Team Leads: Steve Simonson, Robert Jole
+May 2023                                                                                                       Number of Completed Projects: 0
+                                                                                                                  Number of Active Projects: 5
+
+SCHEDULE
+                                                                     2023                                                                    2024
+                        PROJECT      MAY     JUN      JUL      AUG          SEP   OCT     NOV      DEC      JAN      FEB      MAR      APR          MAY    JUN       JUL     AUG
+    2020 Bond Mech Assess - 5626
+      Bridger-Mech Upgrades-5827
+    Harrison Park - MS Conv - 5706
+         Kelly-Mech Upgrades-5828
+         Lent-Mech Upgrades-5829
+
+                 Baseline                           Planning                            Design                     Construction
+
+
+PROJECT NOTES
+Progress:
+ - The mechanical upgrades project at Bridger School was rebid on May 23, 2023. District staff are evaluating bids.
+ - Kelly and Lent mechanical upgrades are out to bid, with bids due for Kelly on June 1st and June 6th for Lent. These two schools both have added partial fire sprinkler
+systems as required by the City of Portland.
+ - Bridger, Kelly, and Lent mechanical projects will start this summer with procurement of long lead items, with actual construction starting in mid to late May 2024. Planned
+completion for Bridger is Winter 2024, and Fall 2025 for Kelly and Lent.
+ - Planning is ongoing for controls upgrade work throughout the District. The District is exploring utilising existing Energy Performance contracts to accomplish this work.
+Controls are anticipated to be upgraded at roughly 85 school sites. An eBuilder project will be set up once project planning is complete.
+ - Mechanical upgrades at Harrison Park were awarded as part of overall MS conversion project. Construction on that work starts Summer 2023 with new ductwork and
+conduit pathways and final installation work and commissioning Summer 2024.
+
+
+Accomplishments:
+- Mechanical upgrades for Bridger, Kelly, and Lent are fully designed, other than the addition of the fire sprinkler upgrades for Kelly and Lent.
+
+Risks:
+- There is major concern over mechanical and electrical equipment lead times due to manufacturer backlog. Project teams are reviewing options for owner purchase of
+equipment or contracting earlier with general contractors in order to order equipment earlier.
+
+
+
+
+                                                                                                                                             2020 Infrastructure: Mechanical, May 2023
+                                                                                                                                                                            page 2 of 2
+

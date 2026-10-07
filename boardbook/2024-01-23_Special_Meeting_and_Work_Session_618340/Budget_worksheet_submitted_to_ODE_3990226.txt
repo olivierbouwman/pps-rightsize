@@ -1,0 +1,142 @@
+Tab: START HERE
+
+      Select your institution from the drop down list to the right: 2180-Portland SD 1J
+
+
+
+          Please provide contact information for the person completing this budget
+                    Name Emily Glasgow
+                   Phone 503-729-4763
+                    Email eglasgow@pps.net
+Tab 2 ‐ Inventory
+ Type of Material     If other, please describe      Title of   Name of          Print or    Grades -    Was this adopted from the     If adopted instructional material are      If Independent       Date of Is this your Please describe any planned changes or updates for materials
+(Dropdown Menu)                                      literacy   Vendor /         Digital     Enter all       2022 SBE Adopted               from the 2022 SBE Adopted           adoption, did your    Adoption   student                 that are not currently research-aligned.
+                                                  assessment Developer /       (Dropdown    Applicable      Materials for English      Materials for English Language Arts     school board use the               growth
+                                                    s, tools,   Publisher        Menu)       Grades      Language Arts (ELA) and           (ELA) and Literacy list, please      SBE ELA Adoption                assessme       If your school board did NOT use the SBE ELA Adoption
+                                                  curricula and                                          Literacy list or through an      indicate which one from the list             Criteria?                    nt?       Criteria, this question is required for your core curriculum.
+                                                      digital                                             Independent Adoption?                         below.                  (Dropdown Menu)                                   Please include the anticipated date of new adoption.
+                                                   resources                                                 (Dropdown Menu)                     (Dropdown Menu)                   (If Applicable)              (Dropdow                              (If Applicable)
+                                                                                                                                                   (If Applicable)                                               n Menu)
+
+  Core Materials                                   integrated   Tools of the     Both         PreK         Independent Adoption                                                        No              2016     No          We are piloting the use of Heggerty as a phonemic awareness
+                                                      PreK         Mind                                                                                                                                                     supplement to Tools of the Mind with hopes of adding this
+                                                   curriculum                                                                                                                                                               supplement to all 51 of our PreK classrooms in Fall 2024.
+
+    Formative                                     development  Desired           Digital      PreK         Independent Adoption                                                        No              2022     Yes
+   Assessment                                          al      Results
+    Materials                                     assessment Developmen
+                                                              tal Profile
+                                                               (DRDP)
+  Core Materials                                   phonemic      Heggerty        Both          K-2         Independent Adoption                                                        Yes             2022     No          Extending to PreK in Fall 2024.
+  Core Materials                                    phonics       Wilson         Print         K-3         Independent Adoption                                                        Yes             2019     No
+                                                   curriculum   Fundations
+  Core Materials                                   decodable    Great Minds      Both          K-3       State Board of Education        Great Minds PBC and Wilson                                    2022     No
+                                                      texts       Geodes                                         Adoption              Langauge Training | Wit & Wisdom
+                                                                                                                                          with Fundations and Geodes
+                                                                                                                                                 (Grades K-2)
+  Core Materials                                      ELA       Great Minds      Both          K-5       State Board of Education        Great Minds PBC and Wilson                                    2022     No
+                                                   curriculum      Wit &                                         Adoption              Langauge Training | Wit & Wisdom
+                                                                 Wisdom                                                                   with Fundations and Geodes
+                                                                                                                                                 (Grades K-2)
+   Professional                                   foundational      MAP          Digital       K-2         Independent Adoption                                                        Yes             2023     Yes
+  Development &                                   skills/compre Reading
+    Coaching                                         hension      Fluency
+                                                  assessment
+  Student Growth                                  comprehensi       MAP          Digital      "3-5"        Independent Adoption                                                        Yes             2018     Yes
+   Assessment                                            on       Reading
+                                                  assessment       Growth
+Intervention/Accele                                intervention    Wilson        Both          K-5         Independent Adoption                                                        Yes             2021     No
+  ration Materials                                  curriculum Fundations,
+                                                                Just Words,
+                                                                Intervention
+Intervention/Accele                                intervention     Lexia        Digital       K-5         Independent Adoption                                                      Yes, No           2023     No          Was used as a core supplement up until 2023, when we shifted
+  ration Materials                                 supplement                                                                                                                                                               to use as an intervention resource only.
+Extended Learning Professional development for
+     Programs        Summer 2024 Acceleration
+                    Academies educators @ PPS
+                         sites (grades 1-3)
+Tab: Budget 23‐24
+ Grant Allowable                                                                                                                                              Overall Literacy Budget (23-24)
+  Use Category                                                                        --     --          --      --         Total Allocation 2023-24                             $3,281,865.69
+                                                                                                                            (Autofill from Start Here tab):
+                                                                                      --     --          --      --         Total Budgeted Amounts                               $3,281,865.69
+                                                                                                                            (Autosum):
+                                                                                                                            Unbudgeted (Autocalculate):                                 ($0.00)
+                                          Proposed Investment                         FTE   FTE     Allowable  Object             4th or 5th Grade                Literacy Budget (23-24)
+                                                                                            Type    Use Code   Code                 Expenditure
+Purchasing          Initial purchase of Heggerty phonemic awareness curriculum                     CRCM       4XX                                                                  $110,000.00
+Curricula &         (digital and hard copy) for 51 PreK classroom teachers and PreK
+Materials           coaching staff
+Professional        Initial Heggerty PD for PreK pilot teachers                                    CTPD       31X                                                                      $850.00
+Development &
+Coaching
+Professional        Initial Heggerty PD for PreK pilot teachers (extended hours)                   CTPD       13X                                                                    $1,800.00
+Development &
+Coaching
+Professional        Year-long sequence of asynchronous and synchronous Science                     PDC        31X                                                                $1,168,000.00
+Development &       of Reading PD for up to 20 PK-5 school staffs, instructional
+Coaching            coaches, and PreK educators (research modules and research-to-
+                    practice modules applying knowledge to adopted HQIM)--PK-3
+                    staff only
+Professional        Year-long sequence of asynchronous and synchronous Science                     PDC        31X           Yes                                                    $340,000.00
+Development &       of Reading PD for up to 20 PK-5 school staffs and PreK
+Coaching            educators (research modules and research-to-practice modules
+                    applying knowledge to adopted HQIM)--4-5 staff only
+Professional      Substitute coverage in participating Science of Reading schools                  PDC        12X                                                                  $500,000.00
+Development &     to allow for monthly completion of asynchronous modules
+Coaching
+Extended Learning Curriculum and home reading supplies in preparation for Summer                   ELPO       4XX                                                                  $150,000.00
+Programs          2024 Early Kindergarten Transition program @ 18 PPS sites
+
+Extended Learning Literacy curriculum for Summer 2024 Acceleration Academies                       ELPSS      4XX                                                                   $50,000.00
+Programs          @ PPS sites (grades 1-3)
+Extended Learning Professional development for Summer 2024 Acceleration                            ELPSS      13X                                                                  $100,000.00
+Programs          Academies educators @ PPS sites (grades 1-3)
+High-Dosage         High-dosage tutoring for up to 200 students in need of Tier 3                  SGHDT      13X                                                                  $697,215.69
+Tutoring            intervention (2nd & 3rd grade, two 10-week cycles)
+Administrative      Indirect charge (PPS Grants Accounting support)                                                   690                                                          $164,000.00
+Costs
+Tab: Budget 24‐25
+  Grant Allowable                                                                                                                                                      Overall Literacy Budget (24-25)
+   Use Category                                                                                      --        --           --       --    Total Allocation 2024-25                       $3,415,819.39
+                                                                                                                                           (Autofill from Start Here
+                                                                                                     --        --           --       --    tTotal
+                                                                                                                                             b) Budgeted Amounts                        $1,534,034.39
+                                                                                                                                          (Autosum):
+                                                                                                                                          Unbudgeted                                    $1,881,785.00
+                                                  Proposed Investment                                FTE   FTE Type    Allowable   Object (A t 4th lor l5th
+                                                                                                                                                          t )Grade        Literacy Budget (24-25)
+                                                                                                                       Use Code    Code          Expenditure
+Purchasing          Heggerty phonemic awareness curriculum for 51 PreK teachers and PreK                              CRCM          4XX                                                      $6,000.00
+Curricula &         coaches (annual digital licenses)
+Materials
+Professional        Heggerty PD for all PreK teachers                                                                 CTPD          31X                                                        $850.00
+Development &
+Coaching
+Professional        Heggerty PD for all PreK teachers (extended hours)                                                CTPD          13X                                                      $6,820.00
+Development &
+Coaching
+Professional        Substitute coverage for school-based Wit & Wisdom                                                 CTPD          12X                                                   $195,364.39
+Development &       unpacking/internalization days led by school-based instructional coaches
+Coaching            (sub days/school to be used at discretion of Principal/ILT)--K-3 staff only
+
+Hiring              Early Literacy Coaches (part-time literacy coach for each school participating    6    Literacy   PDC           111                                                   $552,600.00
+                    in Science of Reading PD--role is to coach/support "bridge to practice" of new         Coach
+                    learning in K-3 ELA lessons
+Hiring              Early Literacy Coaches (part-time literacy coach for each school                                  PDC           2XX                                                   $197,400.00
+                    participating in Science of Reading PD--role is to coach/support "bridge to
+                    practice" of new learning in K-3 ELA lessons- FRINGE
+Hiring            Early Literacy Specialist (TOSA supporting cadre of Early Literacy Coaches          1    Literacy   PDC           111                                                   $110,520.00
+                  and Science of Reading PD school cadre)                                                  Specialist
+Hiring            Early Literacy Specialist (TOSA supporting cadre of Early Literacy Coaches                          PDC           2XX                                                     $39,480.00
+                  and Science of Reading PD school cadre)-FRINGE
+Extended Learning Professional development for Summer 2024 Acceleration Academies                                     ELPO          111                                                   $202,620.00
+Programs          educators @ PPS sites (grades 1-3)
+
+Extended Learning Continuation of Early Kindergarten Transition program at 18 PPS sites                               ELPO          112                                                   $110,520.00
+Programs          (focus on early literacy skills and school readiness for priority families and
+                  students)--classified salaries
+Extended Learning Continuation of Early Kindergarten Transition program at 18 PPS sites                               ELPO          2XX                                                   $111,860.00
+Programs          (focus on early literacy skills and school readiness for priority families and
+                  students)--FRINGE
+

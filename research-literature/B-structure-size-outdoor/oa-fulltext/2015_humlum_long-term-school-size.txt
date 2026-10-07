@@ -1,0 +1,1732 @@
+Coversheet
+This is the accepted manuscript (post-print version) of the article.
+Contentwise, the post-print version is identical to the final published version, but there may be
+differences in typography and layout.
+
+How to cite this publication
+Please cite the final published version:
+
+Humlum, M. K., & Smith, N. (2015). Long-Term Effects of School Size on Students' Outcomes. Economics
+of Education Review, 45, 28-43. DOI: 10.1016/j.econedurev.2015.01.003
+
+
+Publication metadata
+Title:                                Long-Term Effects of School Size on Students' Outcomes
+Author(s):                            Maria Knoth Humlum And Nina Smith
+Journal:                              Economics of Education Review
+DOI/Link:                             10.1016/j.econedurev.2015.01.003
+Document version:                     Accepted manuscript (post-print)
+
+
+
+
+General Rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners
+and it is a condition of accessing publications that users recognize and abide by the legal requirements associated with these rights.
+             • Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+             • You may not further distribute the material or use it for any profit-making activity or commercial gain
+             • You may freely distribute the URL identifying the publication in the public portal
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately and
+investigate your claim.
+
+                                                                                     This coversheet template is made available by AU Library
+                                                                                                                   Version 1.0, October 2016
+         Long-Term E¤ects of School Size on Students’Outcomes
+
+                                                  Maria Knoth Humluma
+                      a
+                          Email: mhumlum@econ.au.dk (corresponding author). Phone: 0045-87165568
+
+Postal address: Department of Economics and Business, Aarhus University, Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+
+
+                                                        Nina Smithb
+                                     b
+                                         Email: nsmith@econ.au.dk. Phone: 0045-87165565
+
+Postal address: Department of Economics and Business, Aarhus University, Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+
+                                                   January 29, 2015
+
+
+                                                         Abstract
+
+       We estimate the e¤ect of school size on students’long-term outcomes such as high school completion, being
+
+    out of the labor market, and earnings at the age of 30. We use rich register data on the entire population of
+
+    Danish children attending grade 9 in the period 1986–2004. This allows us to compare the results of di¤erent
+
+    …xed e¤ect and instrumental variables estimators. We use the natural population variation in the residential
+
+    catchment areas and school openings and closures to instrument for actual school size. We …nd a robust positive
+
+    but numerically fairly small relationship between school size and alternative measures of long-term success in
+
+    the educational system and the labor market. The positive impact of school size seems mainly to be driven by
+
+    boys and students from families with a low educational level.
+
+    JEL classi…cation: I21; I28; J24
+
+    Keywords: School size; High school graduation; Student outcomes; Educational economics.
+
+
+
+
+                                                             1
+1     Introduction
+
+School size is an important policy parameter. During recent decades a major consolidation process has taken place
+
+in many OECD countries that resulted in a rapidly declining number of schools and school districts and an increase
+
+in average school size, see Newman et al. (2006) for the US. The same develpoment is observed in Denmark
+
+where schools on average have been fairly small but during the latest decade the political focus has unambiguously
+
+been to increase school size, see Feilberg (2013). Policymakers often appear to prefer large schools due to scale
+
+economies associated with administrative costs and most often the arguments behind school consolidation have been
+
+cost savings and economies of scale. Only recently, an opposite movement has started in some countries towards
+
+smaller schools. In the US, the Small Schools Initiative has got support from rich private foundations like the Bill
+
+and Melinda Gates Foundation to invest in small school projects. School size may also have e¤ects on the local
+
+community and this may in practice be one of the more important arguments in favor of small schools and against
+
+school consolidation. Closing a local school may have negative e¤ects on social activities in the local community
+
+and in the long run it may also have implications for the social composition of residents in the community which
+
+may generate more negative peer e¤ects, see Egelund and Laustsen (2006). However, in this study we restrict our
+
+analysis to the more direct long-term e¤ects of school size on students’educational and labor market careers.
+
+    There is a growing literature on the impact of class size on student outcomes, see for instance Fredriksson et al.
+
+(2013) for a recent study from Sweden which in many respects has a school system similar to the Danish primary
+
+and secondary school system. In line with many other studies, they …nd that larger school classes have a causal
+
+negative e¤ect on school outcomes in the short run as well as on long-run outcomes in the labor market. The
+
+empirical research on the impact of school size on children’s cognitive and noncognitive skills is more sparse and
+
+the results are more mixed. Most of the studies …nd negative, but numerically small e¤ects of larger schools when
+
+controlling for parental inputs and other background characteristics, see the recent survey in Leithwood and Jantzi
+
+(2009). But even if the e¤ects of school size are numerically small, school size is a political instrument which is much
+
+more amenable to change by policymakers than parental background. Thus, even small e¤ects of school size on
+
+students’academic achievement and behavior may have important consequences for policy decisions. Our de…nition
+
+of the e¤ect of school size is the total policy e¤ect of school size, i.e. including both the direct e¤ect of school size
+
+and any potential indirect e¤ects, such as an e¤ect through class size.
+
+    While most existing studies have focused on the in-school performance of children or short-run e¤ects of school
+
+size, we mainly consider the long-run consequences of school size, for example, educational attainment after com-
+
+pulsory school and the earnings capacity later in life at the age of 30. While estimates of the e¤ect of school size on
+
+short-run outcomes (typically test scores or behavioral measures while attending school) of course are informative,
+
+it is crucial to know whether these potential short-run e¤ects also translate into di¤erences in the long run, see the
+
+general discussion of the e¤ect of school inputs on student outcomes in Hanushek (2006). We consider outcomes
+
+
+                                                           2
+that are generally considered to be a¤ected by both cognitive and noncognitive skills. In a sense this allows us to
+
+obtain a more overall picture of the e¤ects of school size than if we considered more narrow outcomes that measured
+
+particular forms of either cognitive or noncognitive skills.
+
+     The study is based on register data on the total population of students in grade 9 in Denmark during the
+
+period 1986–2004. We follow the students until 2010. For these students, who are typically 16 years old when
+
+they complete grade 9, we focus on the educational outcomes 6 years later, i.e. at the age of 22. For students in
+
+the cohorts from 1986 to about 1998, we also observe earnings at the age of 30.1 The richness of the data allows
+
+for the comparison of di¤erent alternative estimators that are often used in the empirical literature on the causal
+
+relationship between school characteristics and student outcomes. As the point of departure, we estimate the e¤ect
+
+of school size by simple OLS including a wide range of individual-level characteristics available in the register data
+
+such as birth order, family type, and parental earnings and education. In addition, alternative …xed e¤ect strategies
+
+based on schools and siblings are employed. Finally, we implement two di¤erent instrumental variables strategies
+
+based on natural population variation in the catchment area and school openings and closings, respectively.
+
+     Based on the wide range of estimators implemented, our results show a robust and positive, but numerically
+
+fairly small, relationship between school size and alternative measures of long-term success in the educational system
+
+and the labor market, such as the probability of high school completion and earnings at the age of 30. This result
+
+is also robust to controlling for grade 9 exit exam grades. The positive impact of school size seems mainly to be
+
+driven by boys and students from families with a low educational level.
+
+     In Section 2 we give an overview of the existing evidence on the e¤ects of school size. In Section 3 the institutional
+
+context is described. Section 4 describes the data and o¤ers some descriptive statistics of Danish schools while
+
+Section 5 describes our empirical strategy. Finally, Sections 6 and 7 present the results of our analyses and Section
+
+8 concludes.
+
+
+
+2      Earlier Empirical Research on School Size and Student Outcomes
+
+The estimates of the impact of school size in the literature vary considerably and based on the existing research
+
+it is not easy to give an unambiguous policy advice about school size, see the survey in Leithwood and Jantzi
+
+(2009). Firstly, the results may of course vary across countries because of institutional di¤erences. Secondly, the
+
+notions ’small schools’ and ’large schools’ vary from country to country. In some countries average school size is
+
+relatively large, for instance in the UK, where many of the studies are based on an average school size of around
+
+1,000 students. Average school size also varies considerably in US studies, ranging from a few hundred students to
+
+very large average school sizes, see the survey in Newman et al. (2006). As examples, Iatarola et al. (2008) and
+
+Bloom et al. (2010) categorize schools with less than 500-550 students as ’small schools’in their studies of US high
+    1 For the last couple of cohorts, we only observe earnings for the oldest members of the cohorts, though.
+
+
+
+
+                                                                    3
+schools which is considerably higher than the average school size for all Danish public elementary schools analysed
+
+in this study, see Section 3 and Blom-Hansen (2004), Heinesen (2005), and Feilberg (2013).
+
+   Some studies aim at identifying an optimal school size, and this …gure also seems to vary considerably. Bradley
+
+and Taylor (1998) …nd that the optimal school size (based on a study of English schools) is larger for older children,
+
+for children aged 11-16 it is about 1,200 students and for children aged 11-18 it is about 1,500 students. The
+
+dependent variable in their study is exam results of the students. However, their study does not control for
+
+potential endogeneity of school size and a later study from Wales indicates that the optimal school size for children
+
+in secondary school (age group 11-16) is about 600 students, see Foreman-Peck and Foreman-Peck (2006), who use
+
+school attendance as their dependent output variable.
+
+   Thirdly, ’optimal’depends on which objective function is being optimized. The above results concern student
+
+performance (grades or test scores, school attendance etc.). If the focus instead is on minimizing costs per student,
+
+the survey of US schools by Andrews et al. (2002) indicates an optimal school size of about 300-500 for elementary
+
+schools and 600-900 for high schools. Barnett et al. (2002) apply a Data Envelopment Analysis to UK secondary
+
+school data in order to identify ’optimal school size’ in the case of two key objectives: school costs and student
+
+achievement. They …nd that schools with more than 1,000 students (the largest group in the study) performed
+
+relatively better than smaller schools with less than 1,000 students when taking both cost e¤ectiveness and school
+
+grades into account.
+
+   Some studies focus on other social outcomes. Small schools may have less alienation e¤ects, Strang (1987).
+
+Students, parents and teachers in small schools may feel more ’connected’to the school, more responsible for the
+
+overall functioning of the school and may be more involved in school activities compared to large schools, see
+
+McNeely et al. (2002). Thus, small schools often have more extracurricular activities than large schools despite
+
+the fact that large schools may be more successful in sports competitions. Students may have more attendance
+
+problems in large schools and the individual student may be subject to less adult supervision, Jones et al. (2008).
+
+Sometimes small schools have mixed-age grouping, peer tutoring etc. which may have positive e¤ects on students’
+
+social behavior, feeling responsibility for their peers and even criminal behavior, see Leung and Ferris (2008).
+
+Walsh (2010) examines the relationship between parental involvement and school size and …nds that an increase
+
+in school size decreases the extent of parental involvement. Leithwood and Jantzi (2009) conclude based on their
+
+survey of school size e¤ects that dropout rates tend to increase and attendance rates, engagement by students, and
+
+extracurricular activities to decrease with school size. However, in some of the reported studies, the optimal school
+
+size (secondary or high schools in most cases) is calculated and found to be in the interval 600-1,000 or even larger.
+
+This means quite large schools from a Danish perspective, see Leithwood and Jantzi (2009, p. 473). The impact
+
+of school size also seems to vary among groups of students. Students from families with low socioeconomic status
+
+(SES), immigrant children, and students with low previous achievements seem to bene…t most from smaller schools,
+
+compared to students from high-SES families or high-achieving children, see Leithwood and Jantzi (2009).
+
+
+
+                                                          4
+   Many of the earlier studies of the impact of school size on student outcomes are troubled by the fact that school
+
+size is arguably not exogenous. The previous studies have often used cross-section data where variation across
+
+schools at a given point in time is used to identify the e¤ects of school size. But since school size is likely to be
+
+related to the characteristics of both the children attending the school and their parents, this may cause biased
+
+estimates of the relationship between school size and school outcomes. For example, in rural areas schools generally
+
+tend to be smaller than in urban areas since these areas are much less densely populated. Additionally, it is not
+
+random which families settle in rural areas. Thus, part of the reason for the variation in empirical results concerning
+
+impact of school size may be variation in the quality of the statistical method applied, see the survey and discussion
+
+of estimation methods in Newman et al. (2006) and Kuziemko (2006).
+
+   Few existing studies have tried to address the endogeneity issues that are likely to arise in this context. Kuziemko
+
+(2006) is one of the exceptions. She uses …rst-di¤erences combined with instrumental variables to estimate the e¤ect
+
+of school size on student achievement. Her data are school-level data (elementary schools), i.e. she does not have
+
+data on individual students and she is not able to control for individual background characteristics. The instrumental
+
+variable used is based on school openings, closings, and mergers. Kuziemko argues that the timing of school mergers
+
+and closures are random shocks to the neighboring schools and the change in school size in years of school closures
+
+in the neighborhood (school district) is used as an instrument. The …ndings suggest that increasing school size
+
+decreases Math scores and attendance rates. Bloom et al. (2010) analyze the New York City school reforms after
+
+2002 where large underperforming public high schools were closed and more than 200 new smaller high schools were
+
+opened. They use a quasi-experimental design where students are allocated to small or large schools in a lottery-like
+
+process and …nd signi…cantly higher high school graduation rates for the treatment group in small schools compared
+
+to the control group. Schwartz et al. (2013) also study the small school reform in New York and use students’place
+
+of residence (distance to school) to instrument for endogenous school selection. They …nd that attending a new small
+
+school has a favorable e¤ect on the probability of earning a diploma in four years. In addition, they …nd that old,
+
+small schools do not have the same positive e¤ects on academic outcomes. Similarly, Barrow et al. (2013) consider
+
+a high school reform in Chicago and use distance from a student’s residence to a small school as an instrument for
+
+enrollment at a small school. They …nd no e¤ects on student test scores, but they do …nd evidence that smaller
+
+schools have a favorable e¤ect on outcomes that are also a¤ected by noncognitive skills such as persistence and the
+
+probability of graduation. In the context of estimating the e¤ects of school size, the most ambitious identi…cation
+
+strategies thus rely on instruments related to school restructuring and distance. These instruments are not without
+
+shortcomings. School restructuring may have other e¤ects on student achievement and behavior than just through
+
+school size in which case it would no longer be a valid instrument.
+
+   Thus, the previous research results are mixed with respect to the impact of school size on student outcomes.
+
+Most of the studies indicate that school size negatively a¤ects test scores and school grades (cognitive skills) as
+
+well as di¤erent measures of behavioral (noncognitive) skills, but the results are dependent on which age groups are
+
+
+
+                                                          5
+analyzed, the outcome measures, and they are sensitive to econometric speci…cation and identi…cation.
+
+
+
+3      Institutions, Schools, and Catchment Areas in Denmark
+
+Compulsory school in Denmark typically starts at the age of 6-7 years. Grades 1-9 are compulsory grades, corre-
+
+sponding to children aged roughly 7-16. There is a kindergarten class (grade 0) for children aged 5-6 and although
+
+this grade is voluntary, almost all children attend grade 0.2 The typical school contains grades 0-9, and some
+
+schools also have grade 10 which is optional. However, some schools only include some of the grades, e.g. some
+
+smaller schools only have grades 0-7. There is no distinction between primary school and lower secondary school in
+
+Denmark, but we will use the notion ’lower secondary school’when referring to the highest grades in compulsory
+
+school, i.e. grades 7-9 or 7-10. After completing grade 9 or 10, the student may either enroll in high school (upper
+
+secondary level), a vocational education and training program (upper secondary level), …nd a job in the labor
+
+market or be ’inactive’, i.e. not participating in the labor market and not enrolled in an education. The typical
+
+upper secondary education takes 3 years, but there is some heterogeneity across programs.
+
+     In Denmark, public compulsory schools are run by the municipalities. During the period considered in this study,
+
+1986–2004, there were 275 municipalities. Some municipalities were very small with less than 5,000 inhabitants,
+
+while the largest municipality was the municipality of Copenhagen City with about half a million inhabitants. Each
+
+municipality is divided into a number of areas, denoted ’school districts’. However, a school district in Denmark
+
+is an administrative unit parallel to a ’catchment area’ in other countries. The school district or catchment area
+
+is typically de…ned by the geographical distance to the school and it is not regularly regulated due to for instance
+
+demographic changes in the area. Thus, the number of children in a catchment area depends on fertility in the area,
+
+demographic composition of inhabitants, housing and job opportunities. It may of course be argued that settlement
+
+patterns to some extent depend on public school quality. However, private school tuition is heavily subsidized in
+
+Denmark reducing the incentive to settle based on school quality. We discuss this question further in Section 5.
+
+     The municipality is the political unit while the school districts in Denmark have no political or administrative
+
+resources, see Heinesen (2005). Therefore, we use the notion ’catchment area’ instead of ’school district’. A
+
+catchment area takes up most of the school-age children in the district. In theory it is possible to enroll in a school
+
+in another catchment area than your residential catchment area, but it would depend on the regulations at the
+
+municipality level and the discretion of the school. Parents may choose to send their children to a private school.
+
+During the period 1986–2004, 10 to 13 percent of Danish children attended private schools, Statistics Denmark
+
+(1989, 2006). The share of children attending private schools has been increasing over the sample period and in
+
+recent years. More children attend private schools in higher grades than in lower grades.
+
+     The municipality has the full responsibility for the public schools within their area. This means that the
+
+municipality decides on the number of schools and the resources devoted to schools within the municipality. Given
+    2 Grade 0 is now part of compulsory school, but for the time period we consider in this paper it was voluntary.
+
+
+
+
+                                                                   6
+these resources, the board of the school and the principal decide on the number of classrooms at a given grade
+
+level. However, there are national rules (decided by the Danish parliament) on for instance the maximum class size
+
+(currently 28 students), minimum teaching hours in di¤erent courses, syllabus etc. Since the costs of teachers, i.e.
+
+salaries, working conditions, number of teaching hours, preparation etc. are based on collective agreements between
+
+the teachers’union and the organization of municipalities (KL), the municipality is not able to a¤ect a number of the
+
+school cost drivers, except for school size. Thus, in practice, school size is the main political instrument for the local
+
+politicians when monitoring schools and adjusting school costs to their budgets and local tax incomes.3 However,
+
+since the municipalities are obliged to pay about 80 percent of the costs of private schools in the municipality, it
+
+often happens that parents in a local area start up a new private school if the municipality decides to close the
+
+public school in the area. This may be one of the reasons why the politicians in many municipalities until the latest
+
+decade have been quite reluctant to close public schools and therefore public schools in Denmark tend to be fairly
+
+small. The average school size for public compulsory schools was 326 students in 20084 , a …gure which has been
+
+quite stable during the latest decade, see Feilberg (2010).
+
+
+
+4     Data and Descriptive Statistics
+
+We use register data from Statistics Denmark covering the entire population of Danish children who attended grade
+
+9 in public schools in the years 1986–2004. These data include detailed information on parental background and
+
+the catchment area in which they reside, such as the number of children in a speci…c age group, the fraction of
+
+immigrants etc., since we have access to these data for the entire Danish population.5 For these cohorts we are able
+
+to observe the school outcomes 6 years after they leave grade 9. For individuals in the earlier cohorts, we also use
+
+earnings measured at the age of 30 as an outcome variable.
+
+
+                                       Table 1: Description of Estimation Sample
+                                                                                            Number of      Percentage
+                   Description                                                              individuals     of total
+                   Grade 9 cohorts 1986-2004                                                  1,160,612         100.0
+                   With non-missing information on
+                   - Personal identi…ers and birth records                                    1,158,401           99.8
+                   - School district                                                          1,110,335           95.2
+                   - School size                                                                974,629           84.0
+                   Who
+                   - Attended public schools                                                    848,441           73.1
+                   - Did not live in the municipality of Viborg                                 840,669           72.4
+                   - Attended schools that did not recieve students from feeder schools         605,125           52.1
+                   Estimation sample                                                            605,125           52.1
+
+   3 Besides local taxes, each municipality receives a subsidy from the central government (’bloktilskud’), and further there is a ’redis-
+
+tribution tax’(’udligningsbidrag’) from rich municipalities to poor municipalities. None of these sources depend on school costs.
+   4 The average school size reported here is based on all schools and is therefore not directly comparable to the numbers reported from
+
+the estimation sample.
+   5 It was only possible to link street addresses to school catchment areas back to 1993. For the grade 9 cohorts 1986–1992, we therefore
+
+use the 1993 street address-catchment area link. That is, for an individual attending grade 9 in 1986, we use the catchment area that
+the individual would have resided in 1993 given his 1986 street address. Our main results are robust to whether or not the cohorts prior
+to 1993 are included.
+
+
+
+
+                                                                    7
+    In order to get an understanding of the composition of our sample, Table 1 shows the sample selection process.
+
+At the outset, we consider all children who attended grade 9 in the period 1986–2004. If a child attends grade 9
+
+more than once, we use the …rst occurrence. We drop a minor part of the sample due to missing values in the register
+
+data (on either their unique personal identi…ers, birth information, or school district information). A larger part of
+
+the sample is dropped due to missing information on school size. Whether information on school size is available,
+
+depends on how good the schools were at reporting these key …gures. In most years, validity and coverage of the
+
+school size data are considered to be high, but especially for private schools there are some problems. We therefore
+
+restrict attention to students attending public schools in grade 9. Additionally, there is a clear inconsistency between
+
+the number of schools and the number of catchment areas in the municipality of Viborg, and children who reside
+
+in this municipality are also dropped from the analysis. Finally, we exclude large schools that collect students from
+
+feeder schools that do not have lower secondary school grades. In some municipalities, some small schools may only
+
+have grades up to grade 6 or 7, i.e. these schools do not have lower secondary school grades and function as feeder
+
+schools to larger schools in the area. Thus, some grade 9 students have only attended their current school for a few
+
+years, and these students are excluded in order to get a more homogeneous sample.6 This also means that school
+
+size is likely to be somewhat persistent over time and one can argue that the estimated e¤ect of school size in grade
+
+9 in fact will represent an aggregate e¤ect of school size. There are 605,125 students in the baseline estimation
+
+sample.
+
+
+4.1     School Size and Catchment Area Size
+
+Information on school size stems from a data set containing actual school enrollment numbers each year that is
+
+obtained from The Danish IT Centre for Education and Research (UNI-C). This data set contains enrollment
+
+numbers by year-school-grade level. We aggregate at the school level to get the school size in each year. School size
+
+in a given year is de…ned as the number of students in grades 0-9 in the school. Similarly, catchment area size in a
+
+given year is de…ned as the number of children in the catchment area aged 7–16 years at the end of the year.
+
+    The average school size in our sample was about 450 in 1986, decreasing to about 400 students in the middle of
+
+the 1990s (mainly due to small birth cohorts born in the 1980s) and then increasing to 450 again in 2004, cf. Figure
+
+1. Thus, our schools are larger than the average public school and the average catchment area because we condition
+
+on the school having grade 9. The increase in school size up to 2004 is both due to demographic changes and an
+
+increasing number of school closures.7 Figures 2 and 3 show the sample distribution of school size and catchment
+
+area size in 2004, respectively. School size varies from around 200 to 800 students while the variation in size of
+
+catchment areas is considerably larger varying from very small catchment areas to a few very large catchments areas
+   6 We do not have exact information on which schools collect students from feeder schools. Therefore, we use an approximate way to
+
+exclude these large schools: For each year, we calculate the country proportion between cohort sizes in grade 9 and grade 5. If a school
+in a given year has a school-speci…c proportion exceeding the country proportion by more than 10 percent, the school is excluded.
+   7 In 2004, the average school size for all Danish public schools was 330 increasing to 374 in 2011. During this period 20 percent of all
+
+public schools in Denmark were closed, see Feilberg (2013).
+
+
+
+
+                                                                    8
+Figure 1: School size, catchment area size, school closings and school openings in the period 1986–2004.
+
+
+
+
+                             Figure 2: Distribution of school size in 2004.
+
+
+
+
+                                                   9
+                               Figure 3: Distribution of catchment area size in 2004.
+
+
+
+(mainly in the Copenhagen area) with more than 1,000 students. Figure 1 shows the average annual school size and
+
+size of catchment area in each of the years during the sample period 1986–2004. It is clear that average school size
+
+and average catchment area size change in the same direction over time. The …gure also shows the number of school
+
+closures and school openings (including private schools) in each of the years 1986–2004. The maximum number of
+
+school closures during the period was 70 in 1991 while the largest number of school openings in a particular year
+
+was about 20. Thus, the sample period potentially contains a considerable number of ’shocks’to school size for the
+
+surviving schools in the sample. This is important for the estimation strategy discussed in Section 5. In order to
+
+use school openings and closings as exogenous variation in school size, we de…ne two instrumental variables. The
+
+instrumental variable for school openings (closings) is de…ned as the change in school size from one year to the
+
+next if a school opens (closes) in the municipality of the school. If no school opens (closes) in the municipality, the
+
+instrumental variable is set equal to zero.
+
+
+4.2    Student Outcome Measures
+
+We consider a number of alternative long-term student outcomes. For all the cohorts observed during the period
+
+1986–2004, we are able to measure the school and labor market outcomes 6 years after attending grade 9. For these
+
+cohorts, we observe (1) whether the student has completed high school or vocational education and training 6 years
+
+after grade 9 (i.e. at about age 22). However, it is quite common in Denmark to be delayed during this phase of
+
+the educational system, either because the student takes a sabbatical year, drops out of the education or enrolls in
+
+a new education etc. Therefore, we include an alternative and less restrictive measure of education: (2) enrollment
+
+in or completion of high school or a vocational education and training 6 years after grade 9. Finally, we de…ne
+
+
+                                                          10
+the outcome measure: (3) ’inactivity’ 6 years after grade 9. We de…ne ’inactivity’ as a residual category in the
+
+sense that individuals are labelled inactive if they have neither completed nor are enrolled in an upper secondary
+
+education and their earnings are below DKK 40,000 (measured in year 2000 DKK). Since the e¤ective minimum
+
+wage per hour in Denmark was about DKK 100 in 2000, this corresponds to working a maximum of 400 hours a
+
+year, corresponding to about 25 percent of the standard annual hours in a full-time job. For individuals in the
+
+earlier cohorts, we also consider the outcome: (4) annual (de‡ated) earnings at the age of 30. The latter outcome
+
+re‡ects a product of earnings potential and human capital (i.e. hourly wage rate) and employment (including both
+
+labor supply and unemployment e¤ects) in the year. Further, for the most recent cohorts attending grade 9 in
+
+2002–2004, we include one short-term student outcome measure: (5) average grades from the grade 9 exit exams
+
+in Math and Danish.8 Except for the latter outcome, these outcomes have the bene…t of not being a¤ected by
+
+dropouts from school as is the case for many in-school outcomes, especially at non-compulsory levels. In other
+
+words, these are outcomes that we can observe for all individuals in the sample.
+
+
+4.3     Descriptive Statistics
+
+All children are linked to their parents through unique personal identi…ers. We have information on the age,
+
+education, earnings and marital status of the parents. All parental background variables are de…ned at the time
+
+the child is 15 years old, i.e. one year before a typical child completes grade 9. Further, we control for immigrant
+
+status, number of siblings, birth order, age in grade 9, and the degree of urbanization. Finally, we include two
+
+variables that characterize the general socioeconomic environment of the catchment area: the share of non-Western
+
+immigrants and descendants in the population of 7-16-year-olds and log of average earnings.
+
+    Table 2 shows the means for the estimation sample. About 42 percent of the boys and 58 percent of the girls
+
+in the estimation sample have completed a high school education or vocational education six years after attending
+
+grade 9. Considering a broader measure of high school completion that does not condition on completion, about 78
+
+percent of the boys and 81 percent of the girls in the sample have completed or are enrolled in an upper secondary
+
+education. These …gures re‡ect that girls generally are more successful in the educational system, while boys have
+
+much larger dropout rates compared to their female peers. About 7-8 percent of individuals in the sample are
+
+characterized as inactive. For the remaining outcomes, the sample means are based on subsamples of individuals
+
+attending grade 9 in the earlier part of the sample period (log annual earnings) and in 2002–2004 (average grades
+
+in Math and Danish). Girls get higher average grades at the exit exam in grade 9, but when it comes to annual
+
+earnings, the gender gap is opposite. On average men have higher annual earnings at the age of 30, partly because
+
+of longer working hours and less time spent being on child-related leave etc. The typical child attending grade 9 in
+
+the sample is 16 years old, and about 5 percent of the children are non-Western immigrants.
+
+   8 Speci…cally, we compute the average of the exam grades in oral Math, written Math, oral Danish, and written Danish. Exit exam
+
+grades were not centrally registered prior to 2002 implying that it is only possible for us to consider this outcome for the most recent
+cohorts.
+
+
+                                                                  11
+                                          Table 2: Sample Means
+                                                                         Students attending grade 9 1986-2004
+                                                                             Boys                   Girls
+Variable                                                                 Mean   Std. dev.      Mean    Std. dev.
+Outcomes
+Completion of high school or vocational education                        0.420                   0.582
+Enrollment or completion of high school or vocational education          0.784                   0.806
+Inactivity                                                               0.060                   0.078
+Log earnings at age 30 a                                                11.064         3.763    10.565        3.954
+Grade 9 exit exam gradeb                                                 7.326         2.572     7.707        2.358
+
+SS and CAS
+School size (SS)                                                       460.915     133.165     461.074     132.385
+Catchment area size (CAS)                                              633.169     564.339     632.863     559.440
+Change in school size - opening                                          0.577      18.157       0.540      17.594
+Change in school size - closing                                          1.189      21.845       1.150      21.415
+
+Controls
+Parental information at age 15
+Mother’s education
+Missing                                                                  0.041                   0.041
+Basic                                                                    0.383                   0.392
+Vocational                                                               0.339                   0.338
+Higher                                                                   0.238                   0.229
+Father’s education
+Missing                                                                  0.072                   0.075
+Basic                                                                    0.287                   0.292
+Vocational                                                               0.419                   0.420
+Higher                                                                   0.222                   0.213
+Mother is missing                                                        0.004                   0.002
+Father is missing                                                        0.017                   0.017
+Mother’s log earnings                                                    9.668         4.800     9.681        4.788
+Mother’s age                                                            41.177         7.064    41.155        6.941
+Mother’s earnings or age is missing                                      0.016                   0.015
+Father’s log earnings                                                    9.794       5.124       9.735       5.155
+Father’s age                                                            42.287      11.242      42.141      11.446
+Father’s earnings or age is missing                                      0.052                   0.055
+Mother is single                                                         0.162                   0.172
+Family type is missing                                                   0.059                   0.058
+
+Individual variables
+Western immigrant or descendant                                          0.005                   0.005
+Non-Western immigrant or descendant                                      0.049                   0.048
+Missing country of origin                                                0.046                   0.038
+Number of siblings                                                       1.511         1.047     1.520        1.072
+Missing number of siblings                                               0.002                   0.003
+Age when attending grade 9
+15                                                                       0.033                   0.059
+16                                                                       0.863                   0.879
+17                                                                       0.096                   0.055
+Greater than 17                                                          0.004                   0.003
+Age is missing                                                           0.008                   0.007
+Birth order
+First                                                                    0.618                   0.617
+Second                                                                   0.309                   0.309
+Third or higher                                                          0.070                   0.071
+Multiples                                                                0.018                   0.019
+Municipality of residence
+Capital area                                                             0.352                   0.355
+Large cities                                                             0.390                   0.389
+Smaller cities                                                           0.217                   0.216
+Rural areas                                                              0.041                   0.040
+Share of non-Western immigrants and descendants in catchment area        0.045         0.078     0.046        0.079
+Log average earnings in catchment area                                  11.997         0.195    11.997        0.193
+Number of observations                                                       305,429                299,696
+Notes:
+a) Log earnings at age 30 are only observed for part of the sample.
+b) Grade 9 exit exam grades are only observed for students attending grade 9 in the period 2002 to 2004.
+
+
+                                                       12
+5     Identi…cation Strategy
+
+The fundamental challenge to the identi…cation of the causal e¤ect of school size is the possible endogeneity of
+
+school size. To clarify, our interest is in the following model for individual i who belongs to family j, and attends
+
+grade 9 in school s at time t:
+
+                                                                    2004
+                                                                     X1
+                          Yi;j;s;t =   +   SSs;t + X0i;j;s;t   +             t Dt +    s+    j + "i;j;s;t                      (1)
+                                                                    t=1986
+
+where Y is the out-of-school outcome, e.g. high school completion. SSs;t is the school size (SS) of school s in
+
+year t. Xi;s;t is a vector of control variables, including both individual-level control variables such as gender and
+
+parental background, but also control variables at the school catchment area level, such as the share of immigrants
+
+in the catchment area. We will refer to an individual attending grade 9 at time t as being in cohort t. The Dt ’s
+
+are cohort dummies.    s + j + "i;j;s;t is a composite error term, where              s is constant within schools,   j is constant
+
+within families and the last term is speci…c to individual i.           is the main parameter of interest and captures the
+
+causal e¤ect of school size. The key assumption for identi…cation of              is that school size is uncorrelated with the
+
+error term.
+
+    By using …xed e¤ect estimators we can eliminate some of the concerns about endogeneity of school size in
+
+the outcome equation. Students are not randomly assigned to di¤erent schools of di¤erent sizes. It may be that
+
+students in small schools have di¤erent unobserved characteristics than students in large schools which would imply
+
+that estimates of the e¤ect of school size that are based on a comparison of individuals in di¤erently sized schools
+
+would be biased. Including a school …xed e¤ect eliminates this problem and ensures that we only compare students
+
+who attended the same school. Another threat to identi…cation is that parents may select the location of their
+
+residence and as such the school their child goes to. If particular types of parents have speci…c preferences for
+
+school characteristics, particularly school size, then simple OLS estimates of the above outcome equation would
+
+again be biased. By employing a sibling …xed e¤ect estimator, we can ensure that we only compare students who
+
+have the same family background.
+
+    The …xed e¤ect estimators can solve the type of static selection problems mentioned above. However, additional
+
+challenges can be caused by dynamic selection into schools and covarying trends in school size and student outcomes.
+
+For example, if there are shocks in some years that a¤ect both enrollment and students’outcomes or simply a positive
+
+linear trend in both enrollment and outcomes, then the …xed e¤ect estimators will be biased. Therefore we include
+
+school-speci…c linear trends in some of the estimations as, for example, Black et al. (2013).
+
+    If school size, SSs;t , is correlated with the error term in Equation (1), even when we include the school or
+
+sibling …xed e¤ects, we cannot rely on ordinary least squares to identify the parameter of interest, . One way to
+
+circumvent this problem is to combine the school …xed e¤ect estimator with an instrumental variables strategy. We
+
+present FE-IV estimates based on two alternative instruments for school size in order to evaluate the robustness of
+
+
+                                                               13
+the …xed e¤ect estimators.
+
+   The IV strategies are both based on variation that has been used in other applications in the empirical literature
+
+on education economics. Firstly, we use the natural population variation in the residential catchment area as an
+
+instrument for school size. Natural population variation has also been used to identify the e¤ects of class size,
+
+Hoxby (2000), and peers, Black et al. (2013). The size of the catchment area is typically determined by fertility
+
+and settlement. In order for catchment area size (CAS) to be a valid instrument for school size, it cannot have an
+
+independent e¤ect on students’outcomes other than through its e¤ect on school size. In other words, it may not be
+
+correlated with the error term, "i;j;s;t . Since parents may in principle choose to locate in a speci…c catchment area
+
+based on for example the quality of the school in the area, we combine the CAS instrument with school …xed e¤ects.
+
+Since we control for factors that are constant within schools over time, the main threat to identi…cation is di¤erential
+
+selection into catchment areas over time or covarying trends in catchment area size and student outcomes. Thus,
+
+we have to assume that potential trends over time in fertility or settlement are not related to school performance in
+
+terms of students’later outcomes. As suggested by Figure 1, the size of the catchment area is positively correlated
+
+with school size in the municipalities. In addition, we assume that catchment area size cannot a¤ect other variables
+
+that determine student outcomes, e.g. peer composition. For example, if school mobility increases with catchment
+
+area size, then catchment area size may a¤ect student outcomes through peer composition in the schools. How peer
+
+composition and student outcomes are a¤ected would depend on the characteristics of the students who opt out of
+
+the local school.
+
+   Secondly, along the lines of Kuziemko (2006), we construct two instrumental variables based on school openings
+
+and closings (SOC). If school reorganization is mainly determined by political decisions, for instance general eco-
+
+nomic conditions in the municipality, the fact that a neighboring school will then increase in size can be considered
+
+an exogenous shock to school size. The validity of the SOC instruments is discussed extensively in Kuziemko (2006).
+
+It is obvious that school reorganizations over time will be related to the development of school size. However, the
+
+exact timing of the political decision of school reorganization is expected to be much less correlated with school size
+
+and school quality.
+
+   In order to get an idea of how the individual characteristics are associated with the instrumental variables,
+
+Table 3 presents results from school …xed e¤ect estimations where two of the outcomes and the three instrumental
+
+variables are regressed on the entire set of control variables. Firstly, the results in columns (1) and (2) indicate that
+
+the key covariates are important predictors of student outcomes. We report results for completion of high school or
+
+vocational education and earnings, but the picture is similar for the remaining outcomes. In columns (3), (5), and
+
+(7) we regress the three instruments on the same set of control variables in order to see whether the instruments
+
+vary in a systematic way with some of the control variables which might be an (indirect) indication of potential
+
+correlation with unobserved factors a¤ecting school outcomes. The joint F-test and the signi…cance test indicate
+
+that we can reject the null hypothesis that the coe¢ cients are jointly zero in the case of the CAS instrument. Since
+
+
+
+                                                           14
+our regressions include a large number of observations (more than 600,000), even small correlations tend to show up
+
+in signi…cant coe¢ cients. For example, having a mother with a vocational education (relative to basic education)
+
+signi…cantly increases the probability of completion by 7.4 percentage points. On the other hand, this same variable
+
+signi…cantly increases catchment area size, but the order of magnitude of the coe¢ cient is less than one hundredth of
+
+a standard deviation. Being a non-Western immigrant is associated with a large estimated coe¢ cient on catchment
+
+area size, but even in this case the order of magnitude of the coe¢ cient is only a little bit more than one twentieth
+
+of a standard deviation. Looking more closely at the signs and the size of the coe¢ cients, it is di¢ cult to …nd a
+
+systematic structure of the coe¢ cients in column (3), except for the urbanization variables where the coe¢ cients
+
+for municipalities in the large cities and the Copenhagen area have systematically larger school catchment areas.
+
+The fact that catchment area size is related to the degree of urbanization is hardly surprising, and this underlines
+
+the importance of controlling for these variables. Overall, it is clear— also from the F-statistics— that the control
+
+variables matter more for the student outcomes than for the instrumental variables. For the instruments based on
+
+openings and closings, we only see a few signi…cantly estimated coe¢ cients, see columns (5) and (7).
+
+
+
+
+                                                         15
+                                                    Table 3: Identification Tests
+                                        (1)               (2)                (3)           (4)           (5)           (6)             (7)         (8)
+                                    Com pleted        Log earnings          CAS                        Scho ol                       Scho ol
+                                    high school        at age 30                                      closings                      op enings
+                                   or vocational
+                                     education
+                                   Coef./Std.err.     Coef./Std.err.   Co ef./Std.err.   p-value   Co ef./Std.err.   p-value   Co ef./Std.err.   p-value
+M other’s education
+M issing (Ref. Basic)               -0.039***          -0.219***         -0.050          0.106      -0.000           0.847         -0.001         0.609
+                                   (0.004)            (0.064)           (0.031)                    (0.002)                        (0.002)
+Vo cational                          0.074***           0.264***          0.046***       0.000      -0.001           0.140          0.000         0.814
+                                   (0.002)            (0.015)           (0.010)                    (0.001)                        (0.001)
+Higher                               0.111***           0.118***          0.023          0.094       0.000           0.870          0.000         0.427
+                                   (0.002)            (0.020)           (0.014)                    (0.001)                        (0.001)
+Father’s education
+M issing (Ref. Basic)               -0.007             -0.057             0.039          0.280      -0.004**         0.011         -0.001         0.657
+                                   (0.005)            (0.061)           (0.035)                    (0.002)                        (0.002)
+Vo cational                          0.058***           0.228***          0.027***       0.015      -0.001           0.264         -0.000         0.936
+                                   (0.002)            (0.017)           (0.010)                    (0.001)                        (0.000)
+Higher                               0.107***           0.167***          0.090***       0.000      -0.001           0.238          0.001         0.397
+                                   (0.002)            (0.021)           (0.013)                    (0.001)                        (0.001)
+Fam ily backgroun d
+M other’s log earnings               0.005***           0.039***          0.002*         0.066      -0.000           0.463         -0.000         0.092
+                                   (0.000)            (0.002)           (0.001)                    (0.000)                        (0.000)
+M other’s age                        0.007***           0.025***          0.004**        0.013      -0.000           0.316          0.000         0.917
+                                   (0.000)            (0.002)           (0.002)                    (0.000)                        (0.000)
+Father’s log earnings                0.003***           0.032***          0.005***       0.000       0.000           0.878          0.000         0.168
+                                   (0.000)            (0.002)           (0.001)                    (0.000)                        (0.000)
+Father’s age                         0.000             -0.006***         -0.002          0.140       0.000           0.625          0.000         0.695
+                                   (0.000)            (0.002)           (0.001)                    (0.000)                        (0.000)
+Fam ily with a single m other       -0.098***          -0.501***          0.004          0.848      -0.000           0.977          0.000         0.476
+                                   (0.002)            (0.021)           (0.019)                    (0.001)                        (0.001)
+
+Individual variables
+Fem ale                              0.028***          -0.528***          0.005           0.458     -0.000            0.960        -0.000         0.909
+                                   (0.001)            (0.015)           (0.007)                    (0.001)                        (0.000)
+Non-Western im m igrant              0.039***          -0.652***          0.356***       0.000       0.001           0.513         -0.002         0.235
+or descendant                      (0.005)            (0.062)           (0.093)                    (0.002)                        (0.001)
+Numb er of siblings                 -0.031***          -0.139***         -0.006          0.197      -0.000           0.754          0.000         0.238
+                                   (0.001)            (0.008)           (0.005)                    (0.000)                        (0.000)
+Age w hen attending grade 9
+16 (Ref. 15)                        -0.026***          -0.079**           0.110***       0.000      -0.001           0.697          0.000         0.829
+                                   (0.003)            (0.034)           (0.026)                    (0.002)                        (0.001)
+17                                 -0.177)***          -0.814***          0.038          0.177       0.000           0.908          0.001         0.310
+                                   (0.004)            (0.242)           (0.028)                    (0.002)                        (0.001)
+Greater than 17                     -0.081***          -0.985***          0.042          0.713      -0.001           0.925          0.004         0.614
+                                   (0.016)            (0.242)           (0.110)                    (0.009)                        (0.008)
+B irth order
+Second (Ref. First)                 -0.020***           0.019            -0.006          0.506      -0.000           0.935         -0.000         0.531
+                                   (0.001)            (0.015)           (0.009)                    (0.001)                        (0.001)
+Third or higher                     -0.032***           0.009            -0.031          0.136       0.001           0.647          0.000         0.944
+                                   (0.003)            (0.038)           (0.022)                    (0.001)                        (0.001)
+M ultiples                           0.047***           0.242***          0.012          0.698       0.001           0.758          0.000         0.785
+                                   (0.005)            (0.051)           (0.031)                    (0.002)                        (0.002)
+M un icipality of residence
+Capital area (Ref. Rural areas)      0.109***           0.506             5.604***       0.000       0.025**         0.010          0.014*        0.071
+                                   (0.030)            (0.375)           (0.444)                    (0.010)                        (0.008)
+Large cities                         0.145***           1.026***          2.031***       0.000       0.003           0.601          0.001         0.654
+                                   (0.020)            (0.240)           (0.158)                    (0.005)                        (0.003)
+Sm aller cities                      0.058***           0.510*            0.584***       0.000       0.005           0.322          0.003         0.202
+                                   (0.021)            (0.262)           (0.159)                    (0.005)                        (0.003)
+C atchm en t area
+Log average earnings                 0.012              0.208***         -0.458          0.107      -0.004           0.674         -0.015*        0.087
+in catchm ent area                 (0.008)            (0.071)           (0.288)                    (0.009)                        (0.008)
+Share of non-Western                -0.120***          -0.109             6.954***       0.000      -0.013           0.476         -0.011         0.409
+im m igrants and descendants       (0.020)            (0.230)           (0.715)                    (0.018)                        (0.013)
+in catchm ent area
+F-statistic (joint test)            562.08             137.17            46.13                        2.28                        2.86
+P-value                              0.000              0.000            0.000                       0.000                       0.000
+Numb er of individuals             605,125            366,231          605,125                     605,125                     605,067
+Notes:
+a) Colum ns (1) and (2) rep ort results from OLS-FE regressions on the controls sum m arized in Table 2.
+b) Colum ns (3), (5), and (7) rep ort OLS-FE results of regressing the given instrum ent on the controls.
+c) Colum ns (4), (6), and (8) rep ort p-values from OLS-FE regressions of the given control variable on the instrum ent and the
+rem aining controls. The p-value is for a t-test of the signi…cance of the given instrum ent.
+d) ’***’, ’**’, and ’*’ indicate statistical signi…cance at the 1, 5, and 10 p ercent levels, resp ectively.
+e) All standard errors are corrected for clustering at the scho ol level.
+
+
+
+
+                                                                       16
+6     Robustness of Estimators and Alternative Outcomes
+
+In order to evaluate the sensitivity and robustness of the estimators, and in order to select the preferred estimator for
+
+the main results of this study, this section presents and discusses the results from a number of alternative estimators.
+
+Table 4 shows the estimated coe¢ cients of the school size parameter on one of the outcome variables, the probability
+
+of completing high school or vocational education, based on seven alternative estimators.9 The …rst column shows
+
+the OLS estimate. The correlation of school size and high school completion is positive. Since school size is
+
+measured in hundredths of students, the coe¢ cient suggests that increasing school size by 100 students increases
+
+the probability of completing high school by 0.8 percentage points. Including school …xed e¤ects (FE) to take
+
+account of unobserved time-invariant school-speci…c heterogeneity leads to a lower estimated but still signi…cantly
+
+positive coe¢ cient on school size. In column (3) school-speci…c trends are added to the school FE model. This
+
+eliminates the estimated positive school size e¤ect which now turns insigni…cant. A regression of school size on
+
+school …xed e¤ects and cohort indicators yields an R2 of about 0:25 (0:71 when trends are included) suggesting
+
+that there is a substantial variation in school size within schools over time. In column (4) we estimate a sibling
+
+…xed e¤ect model which controls for unobserved time-invariant family heterogeneity. This estimate is based on a
+
+subsample of students with at least one sibling in the same school. Again the school size coe¢ cient is insigni…cant
+
+and close to zero.10 A regression of school size on sibling …xed e¤ects and cohort indicators yields an R2 of about
+
+0:32 suggesting that there is a substantial variation in school size within sibling pairs. In the last three columns of
+
+Table 4 alternative IV estimates are presented, cf. Table A.1 in the Appendix for more detailed results from the
+
+corresponding …rst-stage regressions. In column (5), the CAS instrument is combined with school …xed e¤ects. The
+
+positive school size e¤ect increases relative to the OLS estimate. According to this estimate, an increase in school
+
+size by 100 students increases the probability of completing high school by 2.6 percentage points. The predictive
+
+power of the instrument in the …rst stage is reasonable (with a t-statistic of 8:17). In column (6) the CAS instrument
+
+and the school …xed e¤ect estimator are combined with school-speci…c trends. The estimated e¤ect of school size
+
+increases dramatically. Looking at the partial R2 of the instrument,11 Table 4 indicates that the CAS instrument
+
+becomes fairly weak when we include school-speci…c …xed e¤ects and trends. Therefore, we do not consider these
+
+estimates to be very reliable. Finally, in column (7), the SOC instrument is applied. For the …rst time, the estimated
+
+coe¢ cient of school size turns negative, but it is numerically small and insigni…cant, even at a 10 percent level. In
+
+addition, the partial R2 is only about 0:018, suggesting that this is a weak instrument.
+
+
+
+
+    9 In alternative estimations not shown here, we have excluded the observations with the largest catchment area sizes (more than
+
+1,000 students) and reestimated Table 4. The results are qualitatively similar when large catchment area observations are excluded.
+The results are available on request from the authors.
+  1 0 When applying a simple OLS (same model as column (1) in Table 4) on the subsample of siblings, the estimated coe¢ cient is 0.005
+
+(signi…cant at the 1 percent level), i.e. the coe¢ cient for the sibling sample is slightly lower than for the full sample (0.008).
+  1 1 A low partial R2 is a sign of weak instrumental variables, see Cameron and Trivedi (2005).
+
+
+
+
+                                                                 17
+                                                                   Table 4: Robustness of Estimators
+     Outcome:                                         (1)                (2)               (3)                (4)               (5)               (6)               (7)
+     Completion of high school                        OLS              OLS-FE           OLS-FE             OLS-FE             IV-FE             IV-FE             IV-FE
+     or vocational education                                                           with trends      Sibling sample         CAS               CAS               SOC
+                                                                                                                                             with trends
+     Variable                                    Coef./Std. err.    Coef./Std. err.   Coef./Std. err.   Coef./Std. err.   Coef./Std. err.   Coef./Std. err.   Coef./Std. err.
+     School size/100                               0.008***           0.003**            0.002             0.001            0.026***           0.116**          -0.007
+                                                 (0.001)            (0.001)            (0.002)           (0.003)          (0.009)            (0.046)           (0.009)
+
+     School FE                                    No                 Yes                Yes               No               Yes                Yes               Yes
+     Sibling FE                                   No                 No                 No                Yes              No                 No                No
+     Control variables                            Yes                Yes                Yes               Yes              Yes                Yes               Yes
+     Observations                                605,125            605,125           604,951 d         276,146 e         605,120           604,949 d         605,062 f
+     R-squared                                     0.112              0.095              0.095             0.029            0.086              0.080             0.086
+
+     First stage
+     Instrument (CAS / SOC - openings)/100                                                                                  0.035***           0.007***          0.042
+                                                                                                                          (0.004)            (0.001)           (0.075)
+     t-statistic                                                                                                             8.17               7.49              0.56
+     R-squared                                                                                                              0.275              0.707             0.266
+     Partial R-squared                                                                                                      0.030              0.003             0.018
+
+     Instrument (SOC - closings)/100                                                                                                                             0.323***
+                                                                                                                                                               (0.048)
+18   t-statistic                                                                                                                                                  6.66
+
+     Notes:
+     a) ’***’, ’**’, and ’*’indicate statistical signi…cance at the 1, 5, and 10 percent levels, respectively.
+     b) All standard errors are corrected for clustering at the school level.
+     c) Speci…cations with trends include school-speci…c linear trends.
+     d) 11 schools are disregarded, corresponding to 174 observations. For IV estimation, 176 observations are disregarded.
+     e) Only individuals with a sibling attending the same school have been included in the sample.
+     f) 63 observations have been excluded due to missing instrument values.
+     g) All regressions include the controls summarized in Table 2.
+   In order to directly compare the di¤erent estimates in Table 4, it is necessary to assume that all individuals
+
+respond in the same way to changes in school size, in other words that responses to treatment (school size) are
+
+homogeneous. In the case where individuals respond di¤erently to changes in school size, the IV estimates are
+
+no longer directly comparable to the OLS and FE estimates, since they no longer identify the same parameters.
+
+When treatment intensity is variable, IV estimates can be interpreted as a weighted average of the average causal
+
+response, Angrist and Imbens (1995). This relies on a monotonicity assumption. In the simplest case of a binary
+
+instrument, monotonicity entails that the instrument has to move everybody in the same direction. For example, it
+
+rules out that school size decreases for some individuals when they experience a school closing in their municipality,
+
+but would have increased if they had not experienced a school closing. Thus, based on the results from Table 4 we
+
+conclude that the e¤ect of school size on completed vocational or high school education tends to be positive but
+
+small and the estimated impact of school size seems to be fairly robust to speci…cations. Our results do not suggest
+
+large negative e¤ects of school size on long-term outcomes. Also, since the results suggest that the instrumental
+
+variables are relatively weak, one should not put too much weight on the IV estimates.
+
+   Table 5 shows the estimated coe¢ cients of school size for a number of alternative long-term student outcomes.
+
+Despite the fact that the results presented in the previous table indicated that the estimated coe¢ cients were
+
+somewhat robust to the choice of estimator, we choose to show the results from four preferred alternative estimators.
+
+   The general impression from Table 5 is that the estimated coe¢ cients of school size on educational outcomes
+
+(panels A and B) are numerically small and most often positive — in the sense that large schools are ’good’. For
+
+inactivity, i.e. not being active in the educational system or labor market, the estimated coe¢ cient is negative, i.e.
+
+students from larger schools appear to be more successful in the educational system or labor market when evaluated
+
+6 years after the student attended grade 9. The sibling …xed e¤ect estimates are generally insigni…cant as are the
+
+FE-IV estimates based on the SOC instruments— except for grade 9 exit exam grades (E).
+
+   In panel D, we report the estimates for earnings at the age of 30. All estimated coe¢ cients are positive and
+
+in most cases insigni…cant. Thus, our results indicate that also in a long-run perspective, large schools do not in
+
+general harm the chances of completing a formal education and the earnings potential in the labor market. The size
+
+of the coe¢ cients varies considerably for this outcome variable, ranging from very close to zero (insigni…cant) to an
+
+about 50 percent increase in annual earnings at the age of 30. The latter e¤ect is probably strongly exaggerating
+
+the life cycle income e¤ect of school size since it is measured at a very early stage in the labor market career. If
+
+we consider the school …xed e¤ect estimate of school size which is 0.020 (insigni…cant), the interpretation is that
+
+an increase in school size of 100 students increases earnings by about 2 percent. This roughly corresponds to the
+
+order of magnitude of the estimate of the e¤ect of a one student increase in class size on earnings from Fredriksson
+
+et al. (2013)— albeit with opposite sign.
+
+
+
+
+                                                          19
+                     Table 5: Estimates of the Effects of School Size on Alternative Student Outcomes
+                                                                                        (1)                  (2)              (3)               (4)
+                                                                                      OLS-FE              OLS-FE            IV-FE             IV-FE
+                                                                                                       Sibling sample        CAS               SOC
+
+     Outcome                                                                      Coef./Std. Err.     Coef./Std. Err.   Coef./Std. Err.   Coef./Std. Err.
+
+
+     A. Completion of high school or vocational education                            0.003**              0.001           0.026***          -0.007
+                                                                                   (0.001)              (0.003)         (0.009)            (0.009)
+
+     B. Enrollment in or completion of high school or vocational education           0.002                0.002           0.028***          -0.003
+                                                                                   (0.001)              (0.002)         (0.009)            (0.008)
+
+     C. Inactivity                                                                  -0.004***            -0.002          -0.011*            -0.004
+                                                                                   (0.001)              (0.001)         (0.006)            (0.006)
+
+     D. Log earnings at age 30                                                       0.020                0.049           0.542**            0.009
+                                                                                   (0.018)              (0.037)         (0.227)            (0.082)
+
+     E. Grade 9 exit exam grades                                                     0.013                0.075           0.807             -0.179**
+                                                                                   (0.025)              (0.055)         (0.933)            (0.080)
+
+     School FE                                                                     Yes                  No               Yes                Yes
+     Sibling FE                                                                    No                   Yes              No                 No
+20   Observations (A, B, C)                                                       605,125             276,146 c         605,120           605,062 d
+     Observations (D)                                                             369,001             173,276 c         368,994           368,936 d
+     Observations (E)                                                              79,240              27,244 c          79,235            79,235 d
+
+     Notes:
+     a) ’***’, ’**’, and ’*’indicate statistical signi…cance at the 1, 5, and 10 percent levels, respectively.
+     b) All standard errors are corrected for clustering at the school level.
+     c) Only individuals with a sibling attending the same school have been included in the sample.
+     d) Some observations have been excluded due to missing instrument values.
+     e) All regressions include the controls summarized in Table 2.
+    For a small subsample of students attending grade 9 in 2002–2004, we have information on short-term in-school
+
+student outcomes in the form of exit exam grades at the end of grade 9. Columns (1)-(3) indicate no signi…cant
+
+e¤ects of school size but the estimate obtained by using school openings and closings as instruments is negative
+
+(signi…cant at the 5 percent level). This might be an indication that school size e¤ects tend to be more negative
+
+for short-term test scores and exam results compared to long-term outcomes in the educational system and labor
+
+market. It could also re‡ect that school restructuring is associated with a short-run disruption e¤ect. However,
+
+one should be cautious to draw too …rm conclusions based on these estimates since the FE-IV estimates based on
+
+the SOC instruments are not very robust when we restrict the sample period to only three years. In alternative
+
+estimations not shown here, we have estimated the models included in Table 5 for all 3-year periods of the cohorts
+
+1986–2004 for the outcome measures in panels A, B, and C. The SOC estimator is very unstable, probably because
+
+the instruments tend to be weak and the explanatory power low in the …rst-stage estimation when we restrict the
+
+sample to only three consecutive years. For the subsample of students attending grade 9 in 2002–2004, we have also
+
+estimated a number of models where we include grade 9 exit exam grades as a control variable.12 The resulting
+
+estimates of the e¤ect of school size on outcome measures A, B and C tend to be insigni…cant and numerically very
+
+small.
+
+    Thus, based on the results in Table 5 we cannot document that larger schools in Denmark are harmful to student
+
+long-term outcomes.13 If anything, the tendency is the opposite, i.e. students in larger schools tend to have more
+
+success in the educational system 6 years after attending grade 9 and in the labor market at the age of 30. For the
+
+short-term outcome, the average grades in Math and Danish at the exit exam in grade 9, our results are mixed and
+
+inconclusive.
+
+
+
+7     Heterogeneous Responses: Gender, Father’s Educational Level, and
+
+      Degree of Urbanization
+
+As discussed in Section 2, earlier studies of the impact of school size have often found that the impact varies
+
+over subgroups of students. More vulnerable children, and particularly boys, often bene…t from smaller classes and
+
+smaller schools in the empirical studies which tend to …nd negative e¤ects of large classrooms or large schools. Since
+
+we do not …nd negative e¤ects of larger schools in Denmark, it is interesting to study whether the non-negative
+
+e¤ects of larger schools carry over to subgroups of students.
+
+    Table 6 shows selected results from estimating a number of models where we allow the school size coe¢ cient
+
+to vary among subgroups: Gender, father’s educational level, and degree of urbanization.14 We do not …nd any
+
+di¤erences in the impact of school size on long-term school outcomes based on immigration status and birth order.
+  1 2 The results are not shown here but are available on request from the authors.
+  1 3 This is robust to the inclusion of grade size in the speci…cations. The estimates of school size remain very small or positive in this
+
+case.
+  1 4 The estimated models are the same as in the previous section, except for the interaction variable.
+
+
+
+
+                                                                    21
+Therefore we do not show these results in Table 6. We apply the simple OLS estimator with school …xed e¤ects in
+
+the results shown since the robustness tests in the previous sections indicated that the estimates are fairly robust,
+
+although the school FE tends to yield numerically more conservative estimates.
+
+   In column (1) school size is interacted with an indicator that equals one if the student is a boy and zero if the
+
+student is a girl. The coe¢ cient of school size captures the e¤ect of school size for girls while the coe¢ cient on
+
+the interaction term captures the di¤erential of the e¤ect of school size for boys and girls. Thus, if the coe¢ cient
+
+on the interaction term is statistically signi…cant, we can reject that boys and girls respond similarly to changes in
+
+school size. The results in column (1) indicate that the estimated e¤ect of school size tends to be larger for boys
+
+than for girls. However, a puzzling result appears when we consider the ’inactivity’ outcome. Here large schools
+
+seem to favor girls more than boys.
+
+   The education level of one’s parents is usually an important determinant of one’s own educational outcomes.
+
+One explanation for this is that educational inputs potentially interact with parental education in the production
+
+function for human capital accumulation. Column (2) in Table 6 con…rms that parental education level matters
+
+for the school size e¤ect. Children of fathers who have basic or missing education (i.e. no vocational or higher
+
+education) seem to bene…t signi…cantly from large schools, cf. the coe¢ cient on school size. The estimated impact
+
+of school size on long-term educational outcomes, the measure of inactivity, and the earnings at the age of 30 are all
+
+signi…cantly positive (negative for inactivity). For children from families with a more highly educated father, the
+
+estimated school size e¤ect tends to be smaller (closer to zero) than for children with uneducated fathers. We did
+
+a similar analysis for parents’earnings, but did not …nd evidence that the e¤ect of school size varied substantially
+
+over quartiles. This result is in line with the …ndings in other studies on school outcomes in Denmark that social
+
+and educational mobility and the correlation of earnings across generations mainly are related to educational and
+
+social capital in the family and less related to family income resources. The main reason for this result is attributed
+
+to the Scandinavian welfare state model with very generous student grants, no tuition fees at all (public) educations
+
+and a fairly high level of income transfers for families with low earnings capacity.
+
+   Finally, column (3) reveals potentially interesting di¤erences between schools in urban and rural areas. The
+
+positive estimated school size coe¢ cients are mainly driven by positive e¤ects for students attending schools in the
+
+Copenhagen area and the other big cities in Denmark while the estimated school size coe¢ cient is zero or even
+
+negative for schools in smaller cities and rural areas. However, this result is not robust to a more ‡exible speci…cation
+
+where the sample is split by degree of urbanization. Splitting the sample yields qualitatively similar results in the
+
+sense that school size does not adversely a¤ect student outcomes using neither the urban sample (municipalities in
+
+the capital area and large cities) nor the rural sample (municipalities with small cities and rural areas).15 Potential
+
+di¤erences between urban and rural areas could be caused by a nonlinear relationship between school size and the
+
+outcome, since the average school size is only about 360 students in rural areas compared to 450 students in capital
+ 1 5 The results are available on request from the authors.
+
+
+
+
+                                                              22
+areas. Introducing the square of school size or splines in the model does not yield any evidence of nonlinearities,
+
+but it is important to note that this does not necessarily imply that school size is nonlinear. The distribution of
+
+school size in the sample may simply not allow us to identify nonlinearities since it is relatively compressed.
+
+   When comparing the results for urban and more rural areas, one should keep in mind that the dynamics of
+
+school choice are also very di¤erent. Copenhagen is a much more densely populated area than the remaining parts
+
+of Denmark and school mobility is very high in Copenhagen. In a study based on detailed data from Copenhagen
+
+on catchment areas and school choice, Rangvid (2010) reports that about 53 percent of the students in the sample
+
+do not attend the school in their catchment area. In addition, 28 percent of native Danish students attend private
+
+schools. As such, the composition of the sample is slightly di¤erent in urban areas.
+
+
+
+
+                                                         23
+                                      Table 6: OLS Estimates of the Effects of School Size for Subgroups of Students
+                                                    (1) Gender                                    (2) Father’s education                            (3) Degree of urbanization
+                                           Main e¤ect      Interaction              Main e¤ect          Interaction      Interaction         Main e¤ect    Interaction      Interaction
+     Outcome                                     Girl             Boy          Basic or missing          Vocational          Higher       Rural or Small        Large           Capital
+
+
+     A. Completion of                            0.003**           0.000                  0.005***           -0.003***        -0.002*             -0.003         0.009**          0.006*
+     high school or vocational education       (0.001)           (0.001)                (0.002)             (0.001)          (0.001)             (0.003)       (0.003)          (0.003)
+
+     B. Enrollment in or completion of           0.001             0.002***               0.004**            -0.002**         -0.003***           -0.004         0.007**          0.006**
+     high school or vocational education       (0.001)           (0.001)                (0.001)             (0.001)          (0.001)             (0.003)       (0.003)          (0.003)
+
+     C. Inactivity                              -0.005***          0.003***              -0.005***            0.002**          0.002***           -0.002        -0.001           -0.001
+                                               (0.001)           (0.001)                (0.001)             (0.001)          (0.001)             (0.002)       (0.002)          (0.002)
+
+     D. Log earnings at age 30                   0.018             0.003                  0.035*             -0.025**         -0.022               0.004        -0.000            0.036
+                                               (0.019)           (0.011)                (0.019)             (0.011)          (0.014)             (0.037)       (0.040)          (0.041)
+     School FE                                     Yes                                     Yes                                                       Yes
+     A, B, and C                               605,125                                 605,125                                                   605,125
+     D                                         369,001                                 369,001                                                   369,001
+     Notes:
+     a) ’***’, ’**’, and ’*’indicate statistical signi…cance at the 1, 5, and 10 percent levels, respectively.
+     b) All standard errors are corrected for clustering at the school level.
+     c) All regressions include the controls summarized in Table 2.
+24   d) Both ’Missing education’and ’Basic education’dummies have been left out as baseline in column (2).
+     e) Both ’Rural areas’and ’Smaller cities’dummies have been left out as baseline in column (3).
+    The estimation results in Table 6 reveal that the children who are often considered more vulnerable, like boys
+
+and children from families with a low educational level, are more positively a¤ected by school size than other
+
+children. Given that we …nd positive e¤ects of school size, this is in line with much of the existing research on
+
+educational resources. In the economics literature on school size, proponents of large schools typically emphasize
+
+economies of scale and e¢ ciency, but large schools are also generally believed to have favorable e¤ects due to higher
+
+teacher quality and their more heterogeneous student-teacher composition, see Leithwood and Jantzi (2009) and
+
+Kuziemko (2006). While our data contains very detailed information at the student level, we have no information
+
+on teachers. Thus, we can only speculate about the potential mechanisms that generate our results. One central
+
+aspect of large schools is that they typically have a higher number of students per grade. Since we consider the total
+
+policy e¤ect of school size, grade size is considered part of the e¤ect of school size. Having more classrooms per
+
+grade can be bene…cial since the teachers in the di¤erent classrooms can interact, cooperate and develop teaching
+
+material which is very common in Danish schools. Large schools can exploit the potential positive diversity e¤ects
+
+among students from di¤erent social groups, allow for ‡exibility with respect to matching groups of students and
+
+teachers and to attract higher quality teachers. Vulnerable children may be especially sensitive to e.g. the quality
+
+of the teacher. However, one should keep in mind that the numerical size of the e¤ects in most cases is not very
+
+large. On the other hand, this study does not give support to the argument that large schools (in Denmark) are
+
+harming the educational outcomes of students.
+
+
+
+8     Conclusion
+
+Does school size have an impact on students’ long-run education and labor market outcomes? This question has
+
+been an important policy question in many countries because school size is one of the parameters in school policy
+
+which is fairly easy for politicians to control. While class size may mainly a¤ect the actual learning environment and
+
+thereby students’ cognitive skills, school size may have other or supplementary e¤ects on especially noncognitive
+
+skills that may be important for students’ success in the labor market and the ability to complete an education.
+
+However, it is not an easy task to document the causal impact of school size on students’outcomes because school
+
+size is a variable which is potentially endogenous in a student outcome equation, and it is hard to identify valid
+
+instruments for school size. Our estimation strategy is to control for a really large number of background variables
+
+and to apply a number of alternative estimators and instruments, evaluate the robustness of our estimates, and
+
+refer the more conservative estimates of the relation between school size and school outcomes.
+
+    With these reservations in mind, we …nd that for students attending grade 9 in Danish public schools, school
+
+size tends to have no e¤ect or even a positive e¤ect on educational outcomes and earnings later in life, at the age of
+
+30. This result is di¤erent from the results found in a number of studies from mainly the UK and the US. However,
+
+Danish schools are on average much smaller than schools in the US and the UK. The average school size in this
+
+
+
+                                                         25
+study which covers almost all public schools with grade 9 in Denmark was about 460 students. Another interesting
+
+result is that the positive e¤ects of school size tend to be larger for boys when we consider educational outcomes
+
+like the probability of completing high school or a vocational education and training program, and for children who
+
+have fathers with a low education level. Thus, students who are traditionally considered more vulnerable seem to
+
+bene…t from larger schools.
+
+   If school consolidations imply cost savings due to economies of scale, this study indicates that there may be a
+
+case for school consolidations in countries such as Denmark where the average school size is small. The results found
+
+in this study do not support the arguments often put forth that increasing school size harms student outcomes. On
+
+the other hand, it is important to stress that local schools often have many functions and may be important for the
+
+social activities in a local community. These potential negative e¤ects of school consolidations are not included in
+
+this study.
+
+
+Acknowledgements
+We thank Anne Brink Nandrup, Stine Sigsgaard Nielsen, and Kasper Granild-Jensen for competent research assis-
+
+tance. The project has partly been …nanced by a grant from the Danish Council for Strategic Research, grant no.
+
+09-070295 (CSER). We thank two anonymous referees and the participants at the CSER workshop in Aarhus 2013,
+
+ESPE 2013, and the AU workshop on the well-being of children and youth for valuable comments and suggestions.
+
+
+
+References
+
+ [1] Andrews, M. , W. Duncombe, and J. Yinger. 2002. "Revisiting economies of size in American education: are
+
+    we any closer to a consensus?". Economics of Education Review 21(3): 245–262.
+
+ [2] Angrist, J. D. and G. W. Imbens. 1995. "Two-Stage Least Squares Estimation of Average Causal E¤ects in
+
+    Models With Variable Treatment Intensity". Journal of the American Statistical Association 90(430): 431–442.
+
+ [3] Barnett, R.R, J. C. Glass, R. I. Snowdon, and K. S. Stringer. 2002. ”Size, Performance and E¤ectiveness:
+
+    Cost-Constrained Measures of Best-Practice Performance and Secondary School Size”. Education Economics
+
+    10(3): 291–311.
+
+ [4] Barrow, L., A. Claessens, and D. W. Schanzenbach. 2013. "The Impact of Small Schools in Chicago: Assessing
+
+    the E¤ectiveness of Chicago’s Small High School Initiative". NBER Working Paper # 18889.
+
+ [5] Black, S.E., P.J. Devereux, and K. Salvanes. 2013. "Under Pressure? The E¤ect of Peers on Outcomes of
+
+    Young Adults". Journal of Labor Economics 31(1): 119–153.
+
+ [6] Blom-Hansen, J. 2004. ”Stordriftsfordele i den kommunale service-produktion? Skoleområdet som eksempel.”
+
+    in Blom-Hansen, J., A. S. Nørgaard and T. Pallesen, Politisk ukorrekt. Aarhus University Press.
+
+
+                                                         26
+ [7] Bloom, H. S., S. L. Thompson, and R. Unterman. 2010. "Transforming the High School Experience". MDRC
+
+    report, June 2010.
+
+ [8] Bradley, S. and J. Taylor. 1998. "The E¤ect of School Size on Exam Performance in Secondary Schools". Oxford
+
+    Bulletin of Economics and Statistics 60(3): 291–324.
+
+ [9] Cameron, A. C. and P. K. Trivedi. 2005. Microeconometrics. Methods and Applications. Cambridge University
+
+    Press, New York.
+
+[10] Egelund, N. and H. Laustsen. 2006. "School Closure: What are the Consequences for the Local Society?".
+
+    Scandinavian Journal of Educational Research 50(4): 429–439.
+
+[11] Feilberg, S. 2010. "Danske kommuners skolestruktur". Report, KREVI, Aarhus, Denmark.
+
+[12] Feilberg, S. 2013. "Kommunernes skolestruktur - analyse af udviklingen 2004-2011". Note, KORA, Aarhus,
+
+    Denmark.
+
+[13] Foreman-Peck, J. and L. Foreman-Peck. 2006. "Should schools be smaller? The size-performance relationship
+
+    for Welsh schools". Economics of Education Review 25(2): 157–171.
+
+[14] Fredriksson, P., B. Öckert, and H. Oosterbeek. 2013. "Long-Term E¤ects of Class Size". The Quarterly Journal
+
+    of Economics 128(1): 249–285.
+
+[15] Hanushek, E. A. 2006. "Chapter 14: School Resources". In: Hanushek, E. A. and F. Welch (eds.), Handbook
+
+    of the Economics of Education Volume 2. North-Holland, Amsterdam.
+
+[16] Heinesen, E. 2005. "School district size and student educational attainment: Evidence from Denmark". Eco-
+
+    nomics of Education Review 24(6): 677–689.
+
+[17] Hoxby, C. M. 2000. "The E¤ects of Class Size on Student Achievement: New Evidence From Population
+
+    Variation". The Quarterly Journal of Economics 115(4): 1239–1285.
+
+[18] Iatarola, P., A. E. Schwartz, L. Stiefel, and C. C. Chellman. 2008. "Small Schools, Large Districts: Small-School
+
+    Reform and New York City’s Students". Teachers College Record 110(9): 1837–1878.
+
+[19] Jones, J. T., E. F. Toma, and R. W. Zimmer. 2008. "School attendance and district and school size". Economics
+
+    of Education Review 27(2): 140–148.
+
+[20] Kuziemko, I. 2006. "Using shocks to school enrollment to estimate the e¤ect of school size on students achieve-
+
+    ment". Economics of Education Review 25(1): 63–75.
+
+[21] Leithwood, K. and D. Jantzi. 2009. "A Review of Empirical Evidence About School Size E¤ects: A Policy
+
+    Perspective", Review of Education Research 79(1): 464–490.
+
+                                                         27
+[22] Leung, A. and J. S. Ferris. 2008. "School size and youth violence". Journal of Economic Behavior and Orga-
+
+    nization 65(2): 318–333.
+
+[23] McNeely, C. A., J. M. Nonnemaker, and R. W. Blum. 2002. "Promoting School Connectedness: Evidence from
+
+    the National Longitudinal Study of Adolescent Health". Journal of School Health 72(4): 138–146.
+
+[24] Newman, M., Z. Garrett, D. Elbourne, S. Bradley, P. Noden, J. Taylor, and A. West. 2006. "Does secondary
+
+    school size make a di¤erence? A systematic review". Educational Research Review 1(1): 41-60.
+
+[25] Rangvid, B. S. 2010. "School Choice, Universal Vouchers and Native Flight from Local Schools". European
+
+    Sociological Review 26(3): 319–335.
+
+[26] Schwartz, A. E., L. Stiefel, and M. Wiswall. 2013. "Do small schools improve performance in large, urban
+
+    districts? Causal Evidence from New York City". Journal of Urban Economics 77: 27–40.
+
+[27] Statistics Denmark. 1989. Statistical Yearbook 1989. Statistics Denmark, Copenhagen.
+
+[28] Statistics Denmark. 2006. Statistical Yearbook 2006. Statistics Denmark, Copenhagen.
+
+[29] Strang, D. 1987. "The administrative transformation of American education: school district consolidation,
+
+    1938–1980". Administrative Science Quarterly 3(3): 352–366.
+
+[30] Walsh, P. 2010. "Is parental involvement lower at larger schools?". Economics of Education Review 29(6):
+
+    959–970.
+
+
+
+
+                                                      28
+A   Tables
+
+
+                                  Table A.1: First-Stage Estimation Results
+         Dep endent variable: School size/100                       (1)               (2)                 (3)
+                                                                  IV-FE             IV-FE               IV-FE
+                                                                   CAS               CAS                 SOC
+                                                                                with trends
+                                                            Co ef./Std. err.   Co ef./Std. err.     Co ef./Std. err.
+         Instrum ent (CAS / SOC - op enings)/100              0.035***           0.007***            0.042
+                                                            (0.004)            (0.001)             (0.075)
+         Instrum ent (SOC - closings)/100                       n.a.               n.a.              0.323***
+                                                                                                   (0.048)
+         M other’s education (Ref. B asic)
+         M issing                                             0.002              0.008***           -0.004
+                                                            (0.005)            (0.003)             (0.002)
+         Vocational                                          -0.006**            0.002*              0.018***
+                                                            (0.002)            (0.001)             (0.003)
+         Higher                                               0.017***           0.004***           -0.025***
+                                                            (0.003)            (0.001)             (0.006)
+         Father’s education (Ref. B asic)
+         M issing                                            -0.028***          -0.003              -0.004**
+                                                            (0.006)            (0.003)             (0.002)
+         Vocational                                          -0.005***           0.000               0.011***
+                                                            (0.002)            (0.001)             (0.003)
+         Higher                                               0.008***           0.002               0.083***
+                                                            (0.003)            (0.001)             (0.019)
+         Fam ily background
+         M other’s log earnings                              -0.001***           0.000***            0.001***
+                                                            (0.000)            (0.000)             (0.000)
+         M other’s age                                        0.001***          -0.001***            0.043***
+                                                            (0.000)            (0.000)             (0.016)
+         Father’s log earnings                                0.000              0.000               0.000
+                                                            (0.000)            (0.000)             (0.000)
+         Father’s age                                         0.000              0.000               0.026**
+                                                            (0.000)            (0.000)             (0.012)
+         Fam ily with a single m other                       -0.005**            0.000               0.000
+                                                            (0.002)            (0.001)             (0.001)
+         Individual variables
+         Fem ale                                              0.000              0.000               0.001
+                                                            (0.002)            (0.001)             (0.005)
+         Non-Western im m igrant                             -0.042***          -0.013***           -0.030***
+         or descendant                                      (0.009)            (0.004)             (0.010)
+         Numb er of siblings                                  0.005***           0.001**             0.005***
+                                                            (0.001)            (0.000)             (0.001)
+         Age w hen attending grade 9 (Ref. 15)
+         16                                                   0.025***          -0.002               0.029***
+                                                            (0.005)            (0.002)             (0.005)
+         17                                                   0.007             -0.006*              0.008
+                                                            (0.006)            (0.003)             (0.006)
+         Greater than 17                                     -0.009              0.015              -0.007
+                                                            (0.020)            (0.012)             (0.020)
+         B irth order (Ref. F irst)
+         Second                                               0.050***           0.008***            0.051***
+                                                            (0.005)            (0.002)             (0.005)
+         Third or higher                                      0.033***           0.002               0.034***
+                                                            (0.004)            (0.002)             (0.004)
+         M ultiples                                           0.018***           0.004               0.018***
+                                                            (0.006)            (0.004)             (0.006)
+         M unicipality of residence (Ref. Rural areas)
+         Capital area                                        -0.299***          -0.080***           -0.111***
+                                                            (0.047)            (0.025)             (0.041)
+         Large cities                                        -0.123***          -0.052**            -0.053
+                                                            (0.035)            (0.022)             (0.035)
+         Sm aller cities                                     -0.080***          -0.034*             -0.062**
+                                                            (0.030)            (0.019)             (0.030)
+         C atchm ent area
+         Log average earnings                                 0.352***           0.058***            0.338***
+         in catchm ent area                                 (0.071)            (0.022)             (0.073)
+         Share of non-Western                                -0.020              0.091*              0.228*
+         im m igrants and descendants                       (0.125)            (0.052)             (0.128)
+         in catchm ent area
+         Numb er of individuals                             605,120            604,949            605,062
+         R-squared                                            0.275              0.707              0.266
+         Notes:
+         a) The rep orted results corresp ond to the …rst-stage regressions of colum ns (5), (6), and (7) in Table 4.
+         b) ’***’, ’**’, and ’*’ indicate statistical signi…cance at the 1, 5, and 10 p ercent levels, resp ectively.
+         c) All standard errors are corrected for clustering at the scho ol level.
+         d) All regressions include the controls sum m arized in Table 2.
+
+
+
+                                                             29
+

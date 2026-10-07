@@ -1,0 +1,189 @@
+Christy Splitt (Zone 1) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: CO-INTRODUCED with Chair Wang ("which I am introducing along with uh Director Split", 00:58); YES on final (5-2). Said she "wouldn't mind" "may" in discussion but voted NO on that motion (failed 2-5); NO on La Forte framework amendment (failed 3-4); MOVED the final Recital E wording (passed 6-0-1) (per minutes). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (Splitt YES, after saying on 5/12 she "might vote no" without anti-fragmentation language; the final workplan added a cohort-cohesion assessment)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+- Absent for the 3/31 votes and rightsizing segment (joined by phone ~02:29); staff credited her with the two-resolution structure (launch resolution in April, framework/principles resolution later).
+
+EXCERPTS
+
+[2026-03-08 Board Retreat - email practice: MLC precedent and anticipated closures]
+  time 04:42:36 | https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16956s
+  source: transcripts/text/2026-03-08_Board_of_Education_Retreat__iY4k1Q8Y_yI.txt
+  attribution: CONFIRMED (continues her turn right after facilitator asks to log "templates for hot topics"; facilitator then responds "I think it's a great idea, Christie")
+  topic: closure foreseen; "not interested in picking favorites"; MLC reversal set a precedent
+  "with the MLC thing that we just went through, [...] we just set a precedent, which I am fine. [...] I think we've made the right decision in doing that because whatever. But now it just got demonstrated that if you advocate enough we'll bend [...] Um and so cuz we know we're going to be facing closure. So I think where we have these hot topics that where we do have agreement [...] I think we should try to like have just like a unified statement. [...] like on consolidation it might be like we're not going to be we're not interested in picking favorites you know"
+
+[2026-03-10 Board Regular Meeting - Seismic update, second-round comments]
+  time 02:03:14 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=7394s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same turn says "the reason that I asked a really confusing question earlier is because hey, Hurst [Hayhurst] appears in two lists" -- that earlier question came in the turn the chair gave to "director split")
+  topic: neighborhood vs lottery/focus-option schools; facility investment priority
+  "I also want to put out there that um publicly that I feel like we should prioritize schools where families have to send their kids because they're the neighborhood school for that community. We have on this list a school that's a lottery school where parents choose to send their kids there and they could choose to send their kids to safer buildings in their own neighborhoods if they wanted to, for example. [...] I will just continue to um have issues with us spending money on lottery schools um before neighborhood schools"
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:19:09 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11949s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (superintendent afterwards: "the ideas around the resolution that you presented director split"; speaker is last in the round and says she sits on the teaching, learning and enrollment committee)
+  topic: resolution sequencing (scope resolution, then principles resolution, then final)
+  "Timeline and process. Okay. So as far as resolution development, I suggest we have a resolution regarding scope and direction in April and that we have another resolution in June that's factors or guiding principles as you may call them and then we would have of course a final resolution based on what the decision is at the end."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:22:12 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12132s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: districtwide scope; west side; K-8s
+  "As far as the scope, I absolutely support it being districtwide. I absolutely support us saying that each part of the city should expect to feel some impact. Um, and I know the west side is a little different because we don't have any of the like smaller enrolled schools, but we still need to figure out if there's things that we should do on the west side like take [clears throat] a look at focus options. [...] I absolutely think we should be having the K8 conversation, especially because K8s can become larger K5s and combine schools that might enable um communities to stay together instead of being divided."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:23:15 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12195s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: focus options on the table for closure; telling affected schools before any public announcement
+  "I absolutely support the focus option conversation it in and including them and and considering some of them for closure as well. And by the way, I know that that's controversial because those are the most vocal parents and sometimes the most affluent parents [...] when we announce the schools, whether that's in October or November, I think that we should have a a plan to go to each of those schools before a public announcement and talk to them about it and come in with a transition plan."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:25:16 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12316s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: timeline (decide in December, don't drag past it)
+  "we want that time to make the decision but also I think we need to keep in mind that like we are going to base it on the factors. The factors are really what we should be focusing on [...] It's going to feel terrible no matter what. [...] So I would just be cautious of like the like October early date is fine, but then let's close it in December, not move it to October and then make it till January before we decide."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:04:53 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=3893s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: PROBABLE (continuation of the block above)
+  topic: protect neighborhood schools; hybrid focus-option model; every school type in play
+  "What I don't want us to do is say this is just a discussion about neighborhood schools. I'd prefer one where neighborhood schools are are pretty well protected to keep those communities together. [...] where it's got a neighborhood catchment and you can lottery in like that model that seems like something we could look at instead of them just being lottery only. [...] Let's keep our minds open and our doors open and in the end have a balanced approach so that we don't end up with a situation where it's like all the all of this type of school were safe and untouched. I think it should be like every part of the city and every type of school should be part of the calculus."
+
+[2026-03-12 TLE Committee - Growing Great Schools, her guiding principles]
+  time 01:24:04 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=5044s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (next speaker references "what Christy said about consolidations, over closures"; chair then asks "Maybe Chrissy since you started" and she answers)
+  topic: keep cohorts together when schools close
+  "when we're talking about um having some schools close, um I one of my like foundational theories is that the more that we could provide them the most familiar faces at the new school, the better. So, like I love the idea of like taking two schools and putting them together or if we take a if a school is closing, we take those we do a we take half those kids to one school and half to another and create bigger schools. [...] what I wouldn't want to do is have a school close and then divide those kids up to five different schools."
+
+[2026-03-12 TLE Committee - Growing Great Schools, her guiding principles]
+  time 01:25:04 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=5104s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same as above; colleague cites her "consolidation over closure" point)
+  topic: consolidation over closure; deferred maintenance as criterion; K-8 family views
+  "I love the idea of the K8 conversation. I also love the idea of finding out how K8 families actually feel about being at a K8. [...] I think that I love thinking about consolidation over closure just for what it's worth. It's like a guiding principle for me. [...] I love looking at building deferred maintenance. If there's buildings that we should just not be investing any more money in, then that would be to me a good building to consider letting go of."
+
+[2026-03-12 TLE Committee - Growing Great Schools, her guiding principles]
+  time 01:26:05 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=5165s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same continuous remarks)
+  topic: per-student cost as criterion; neighborhood schools as value
+  "I also think looking at per student costs would be smart like schools where we're paying significantly more per student um in addition to just like whatever the title one bump would be for example. [...] So a guiding principle to me will be looking at per student cost and making sure that we don't have inefficient school models. Like if we're investing more in a kid, I want it to be because that kid needs more investment, not because where they're going to school is for whatever reason costing more money. Um I do think neighborhood schools are a real value of mine."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 introduction (co-sponsor)]
+  time 01:01:05 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3665s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (Wang: "I sent this over to Director Split for final approval, and I don't know if you want to say anything about it"; she replies directly)
+  topic: this resolution only kicks off; criteria belong in next resolution
+  "this is one that's meant to sort of kick things off um, and really set us up for what kind of we're already doing even though the resolution a little bit follows what's already been started. Um, I am excited to have the next resolution be one that gives direction to staff on sort of the criteria for evaluation and for other pieces um, of the puzzle that I think are necessary for us to set in a resolution in order to provide staff clarity. It's really important to me that we have the public engagement that we're doing now um, that will then inform that next resolution"
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 2 ("will" vs "may")]
+  time 02:00:49 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7249s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: PROBABLE (chair had just called "Thank you, Director Split"; she asked the show of hands on "may"; this speaker says "Since I'm the one who just brought it up")
+  topic: "will" too strong unless list broadened; parents asking "do we have to close schools?"
+  "I think if the list included some more things, then I would be fine with it saying will. But to me, because it's school and program closures and or consolidations, like what if in the end we just decide we're going to do a bunch of boundary changes and some middle school changes, do those count as a K-8 moves to a middle school, does that count as a consolidation? [...] But I heard actually I feel like I might have heard from let's say five people on Saturday being like, are we sure we have to close schools? And I think just that's why I think the may is there."
+
+[2026-04-14 Board Regular Meeting - Res. 7296, Splitt's amendment to Recital E]
+  time 02:14:01 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8041s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "We have Director Split moves and Director Engleson seconds"; minutes agree)
+  topic: compromise wording - keep "will", add "or boundary changes"
+  "may I move that the green one, sorry, resolution number 7296, I'm getting punchy. Um, E B adjusted to read the result of this process will include school and program closures, consolidations, or boundary changes. [...] We changed it to will, but then we expanded the list to include things that we all think are more likely to [...] Because we I don't believe we will have the votes to make it may."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:55:45 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17745s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (speaks next to last, matching Splitt's place beside Engelsman in this meeting's seating order. The verbal tics match the CONFIRMED Splitt, e.g. "vibe": "fresh start vibe" here vs. "Here's my vibe on this," which staff then credits as "what Director Split put". The "radical candor"/focus-option comments fit her earlier public stance. She echoes "something Michelle [likely Rashelle Chase-Miller] said")
+  topic: not ready to move forward without diverse-community data
+  "My understanding is that staff are planning targeted outreach to hear from more diverse communities. Anyone could see that our great turnout did not reflect the demography of the district and I won't be ready to move forward till that happens and we have that data in hand."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:57:45 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17865s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: focus options on the table; skewed turnout; neighborhood schools that might close were absent
+  "Um, but I was radically candid about my feelings about protecting focus option schools in this process. I think every school should be something we talk about, but I think the focus option people heard that as this they're gunnuting [gunning] for my particular school and I think we had outsized turnout from those communities because of me. [...] some of our neighborhood schools that we might even end up voting to close in the end, may have not had anybody show up at these events because they didn't hear about it or whatever."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:58:46 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17926s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: equity of focus option schools
+  "how do we look at our focus options and make them more equitable? That's my big concern with them. When you look at the demography of our focus option schools, they just reflect that privilege of people who know the system. Um, and often, um, you know, kids from nearby lower income schools end up at those focus options. Um, and so I'm what I'm hearing is parents love them. So, how do we make them more equitable is kind of my question for all of us."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 05:00:48 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18048s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: seismic/building condition as a closure criterion ("shuttering" the worse building)
+  "We did not hear much about seismic which I'm like how weird is that right? [...] we have some buildings that probably should be retired and I would love if the conversation kind of centered that more than maybe we heard from families [...] let's just say like school M and school L are nearby each other and school L has like way more maintenance problems there. We have to do a bunch of seismic work. Millions of dollars would need to be invested, [...] that other school is like a newer building and has room. I think we should be thinking like maybe this older building that's got all these problems needs to be like that shuttering"
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:18:00 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15480s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (same turn as above; staff later: "this concern um from you director split about if it's possible don't don't fragment a community")
+  topic: proposed addition - minimize fragmentation of school communities when closing schools
+  "The two big ones are minimizing fragmentation of school communities. [...] I really would like us to see ways of making these decisions where instead of closing if we were to close a school and then just break those kids up into the nearest five or six or whatever whatever elementary schools that to me seems more um like harmful to those kids than if we can find a way for them to be moved in a way where they're staying with most or a good chunk of their friends and community."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles, straw poll (round 2)]
+  time 04:51:33 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17493s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (repeats her own round-1 proposals verbatim; staff responds "from you director split about ... don't fragment a community")
+  topic: signals possible NO vote on guiding principles
+  "I think all my things went down in flames except one. Um, and honestly, like I don't I don't mean this in a jerky way. I might vote no on the resolution at this point [...] if we're going to do all this engagement and then not take the top thing that we heard and put it on the guiding principles, that does bother me. [...] minimizing fragmentation of school communities is just like a it's a non it's like a non-starter for me. So I just won't vote yes on it without that."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 02:05:52 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7552s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn. "a yes and to Chair Wong's concern")
+  topic: trade-offs and exceptions; what consolidation buys (librarian, music and art)
+  "I think that in the end we're going to have exceptions to the rule. [...] to me what we're saying is we're going to do our best to not do this. And then when we do it, here's why we're doing it [...] Cuz none of us prefer to be doing really any of this, is my guess. [...] It's going to have fewer kids have a walkable route to school, but we're doing this so that they can have a full-time librarian. This other school hasn't had a music program, this one has music and art. Or because we're putting them together, we can offer both music and art."

@@ -1,0 +1,1128 @@
+                Sticking Points:
+   How School Districts Experience
+Implementing the Portfolio Strategy
+
+
+
+
+                 Robin Lake, Jordan Posamentier,
+                     Patrick Denice, and Paul Hill
+
+                                     October 2016
+                                     STICKING POINTS: SCHOOL DISTRICT EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+About This Report
+ACKNOWLEDGMENTS
+We thank the Laura and John Arnold Foundation, the Michael & Susan Dell Foundation, and the Walton Family
+Foundation for their support of this work. However, the statements made and views expressed in this report are solely
+the responsibility of the authors. We would also like to thank Seth Racine, former deputy superintendent at Lawrence
+Public Schools (Boston), for reviewing this paper.
+
+
+ABOUT THE CENTER ON REINVENTING PUBLIC EDUCATION
+Through research and policy analysis, CRPE seeks ways to make public education more effective, especially for
+America’s disadvantaged students. We help redesign governance, oversight, and dynamic education delivery systems
+to make it possible for great educators to do their best work with students and to create a wide range of high-quality
+public school options for families. Our work emphasizes evidence over posture and confronts hard truths. We search
+outside the traditional boundaries of public education to find pragmatic, equitable, and promising approaches to
+address the complex challenges facing public education. Our goal is to create new possibilities for the parents,
+educators, and public officials who strive to improve America’s schools. CRPE is a nonpartisan, self-sustaining
+organization affiliated with the University of Washington Bothell. Our work is funded through philanthropy, federal
+grants, and contracts.
+
+
+CRPE QUALITY ASSURANCE PROCESS
+Independent peer review is an integral part of all CRPE research projects. Prior to publication, this document was
+subjected to a quality assurance process to ensure that: the problem is well formulated; the research approach is well
+designed and well executed; the data and assumptions are sound; the findings are useful and advance knowledge; the
+implications and recommendations follow logically from the findings and are explained thoroughly; the documentation
+is accurate, understandable, cogent, and balanced in tone; the research demonstrates understanding of related
+previous studies; and the research is relevant, objective, and independent. Peer review was conducted by research or
+policy professionals who were not members of the project team.
+
+
+
+
+                                 CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                           CONTENTS
+INTRODUCTION....................................................................................................................................... 1
+
+HOW WE TRACK IMPLEMENTATION PROGRESS........................................................................ 2
+
+FINDINGS.................................................................................................................................................. 5
+ Just five of the districts we tracked have made substantial progress on comprehensive
+ portfolio implementation; others are moving slowly or are stalled................................................. 5
+ Some districts are implementing portfolio in a very piecemeal fashion that is unlikely
+ to produce significant results for students.......................................................................................... 6
+ Some unheralded cities have made a lot of progress recently. ....................................................... 8
+ Accountability, Talent, and Choice are implemented most often..................................................... 9
+ Restructuring the central office, pupil-based funding, and collective bargaining
+ changes are real “sticking points”. ......................................................................................................10
+
+ Some districts have made it through the “sticking points”. .............................................................11
+
+CONCLUSION: Leadership at the Local and State Levels
+Are Needed to Address the Most Difficult Barriers to
+Portfolio Implementation. ...................................................................................................................13
+
+APPENDIX 1: The Seven Components of the Portfolio Strategy
+and Their Corresponding Elements..................................................................................................15
+                                STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+Introduction
+Policy wonks know that it is one thing for senior government officials to commit to a line of action, and quite something
+else for the government to act differently as a result. Policies often don’t get implemented in the ways their advocates and
+opponents assume. Old practices also hang on, limiting what can be done.
+
+A striking example of how old policies can limit new ones is the uneven progress cities and districts have made in
+implementing the portfolio strategy. In some cities, this promising change strategy is in operation; however, in other cities
+it has hit some critical sticking points that prevent full implementation. As master architect Ludwig Mies van der Rohe
+observed, the devil is in the details. The analysis described here shows exactly where the devil is hiding:
+
+  • While a small number of portfolio districts are “advanced,” too many are moving very slowly or are stalled.
+
+  • Some districts are implementing portfolio in a very piecemeal fashion that is unlikely to produce significant results for
+    students.
+
+  • A group of districts not well known for portfolio implementation have been making a lot of progress lately.
+  • Districts tend to get “stuck” on or avoid the parts of portfolio systems that require a fundamental central office
+    restructuring or union contract change.
+
+Despite these “sticking points,” some districts are finding ways to move forward regardless of the challenges. To support
+them, more intentional and aggressive community and state leadership are likely needed to overcome the most difficult
+barriers to portfolio implementation.
+
+What is the Portfolio Strategy?
+The portfolio strategy is a change strategy for public education in a district or metropolitan area. It is founded on the idea
+of re-missioning government agencies from rigid bureaucratic entities that mostly manage compliance requirements and
+interest group politics to a new role: overseeing performance and a diverse range of school choices (the portfolio) from
+which families can choose.
+
+Top school officials in a city that has adopted the portfolio strategy are constantly looking for ways to improve the
+quality of the schools they oversee, and to guarantee that all families have choices among good schools. They operate as
+portfolio managers. Since no school model is right for every child, the city needs a diverse array of schools. By constantly
+reviewing school and student outcomes, as well as school climate and neighborhood needs, portfolio managers know
+which schools are both performing and trending well, which schools have the possibility of improving, which schools must
+be replaced with options that are right for the affected students, and which neighborhoods need new schools.
+
+The Portfolio Strategy’s Seven Essential Components
+Since the Center on Reinventing Public Education (CRPE) introduced the portfolio strategy concept in the early 2000s,
+more than fifty localities have adopted the idea and sought to put it into practice. For the past five years, CRPE has
+tracked their progress over time by conducting an annual review focusing on seven essential, interrelated portfolio
+components. Here is the logic:
+
+Good options and choices for all families: Districts implementing the portfolio strategy start with the premise that
+families must be able to find the best fit for their child, and that children should not be assigned to a school where they
+are less likely to learn. That means giving families choices among different kinds of schools.
+
+School autonomy: Autonomy allows schools to be different, innovative, and able to meet diverse student needs. An
+autonomous school has control over selecting its teachers and devising a curriculum to meet the needs of its students.
+To make the most of their time and money, schools need complete budget control and freedom from centralized staff
+development programs, bell schedules, procurement policies, and countless other well-intentioned but one-size-fits
+all mandates.
+
+
+
+                                  CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                          1
+                                      STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Pupil-based funding for all schools: Moving budgetary control to schools is central to the portfolio strategy, but it
+is one of the most difficult components to implement fully. For school budgets to grow, central office budgets must
+shrink. For budgets to accurately reflect school-level costs, money must be allocated based on how many students
+the school serves, with add-ons for special education and other unique costs. This approach is a sea change for school
+districts, which often resist reductions in central office staff and typically do not track real school-level costs.
+
+Talent-seeking strategy: Every city needs smart, compassionate, motivated, creative people working in schools and
+central offices, and interested in working in an autonomous system. Portfolio cities have strategies to develop the
+strong people they already have and seek new talent from a wide array of sources, including the best districts, charter
+schools, and training programs.
+
+Sources of support for schools: Distinctive schools with a special focus such as technology or the arts require very
+tailored support, which can come from many different providers beyond the traditional ones. Administrators whose
+job used to be providing curricular or professional development support now must see their job as cultivating broad
+support from community organizations or helping to create networks of schools. In a fully implemented portfolio
+system, the district is a provider of last resort.
+
+Performance-based accountability for schools: With freedom must come accountability. If a nonprofit charter
+management organization or a district leadership team is running schools that perform well, the portfolio manager
+should ask them to run more schools. If a school is not working after years of trying to improve, it should be replaced.
+To oversee a diverse set of autonomous schools, portfolio managers must establish, over time, performance contracts
+and common performance metrics with every school in the portfolio so that parents and government can compare
+strengths and weaknesses across all school types—charter and traditional public schools. Strong information systems
+are critical to help families understand their options and choose wisely among them.
+
+Extensive public engagement: Tying all of these ideas together is a strong connection to families and the community.
+Is this change what they want? Do people understand and value the plan? Are things getting better? For most
+communities, the portfolio strategy represents a major change in how schools are run and managed, and can threaten
+many established interests. Changes can also greatly impact particular neighborhoods or communities. Understanding
+their frustrations and expectations is imperative for the strategy to be sustainable.
+
+
+
+How We Track Implementation Progress
+CRPE annually interviews district leaders as well as observers and critics.1 These interviews provide a unique
+perspective on how completely each district has implemented the seven components, and a check on whether
+implementation is progressing. We can also tell whether there are some parts of the strategy that districts are finding
+extremely difficult to implement or are avoiding.
+
+We break each of the seven components into multiple data elements (see Appendix 1 for a complete list of components
+and corresponding elements) to track localities’ implementation of the portfolio strategy. For example, to assess
+implementation of options and choices, we ask about the degree to which families can choose among all public schools,
+whether all students have equitable access to schools, whether districts are replacing low-performing schools, etc.
+
+We report each district’s scores on implementation of the components in an annual “snapshot” published on our
+website. As Figure 1 shows, each component is scored on a color-coded scale: dark green reflects a “national exemplar”
+and red signifies “nothing in place yet.” To come up with an aggregate portfolio score for the district overall, we
+average each component’s set of data elements, and then average those component scores together.
+
+
+
+
+1. Upcoming work will capture a citywide view of the work and responsibilities of providing public education in a city (e.g., the charter sector,
+mayor’s office, community leaders, etc.).
+
+
+
+
+                                         CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                                2
+                                           STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Figure 1. Snapshots Tracking Implementation Progress 2016
+
+                      TN ASD
+                   NOLA RSD
+                       Denver
+                New York City
+                    Lawrence
+                     Baltimore                                                                                          Key:
+                      Oakland                                                                                              National exemplar
+                     Fullerton
+                                                                                                                           In progress
+               Spring Branch
+                  Los Angeles                                                                                              Some elements in place
+                      Hartford
+                                                                                                                           Much work to be done
+                    Cleveland
+                      Chicago                                                                                              Nothing in place yet
+                Fulton County
+                  Indianapolis
+                     Nashville
+                  Central Falls
+                     Spokane
+                          Tulsa
+                Henry County
+      Memphis−Shelby County
+             Jefferson Parish
+                  Sacramento
+                        Detroit
+                 Albuquerque
+
+
+
+
+                                                                                          Accountability
+                                               Autonomy
+                                                          Funding              Support
+                                                                    Talent
+
+                                                                                                           Engagement
+                                  Choice
+
+
+
+
+Looking at every district’s score on each of the data elements gives us a fine-grained picture not only of where districts
+are making progress but also where they might be struggling.
+
+CRPE has published annual “dashboards” of implementation progress since 2013, but this is the first time we have
+analyzed the data for trends across all portfolio districts. The dashboards are based on interviews we conduct with
+district leaders. We assess evidence to support self-reported progress, but the data are necessarily subjective. Despite
+these limitations, the interviews we’ve conducted for three years offer useful trends in how districts are attempting to
+implement the portfolio strategy and where they are making the most or least progress. Future CRPE analyses
+will provide quantitative measures of progress as well as a broader view of cities’ portfolio management successes
+and challenges.
+
+The analysis in this paper focuses on three questions:
+
+  • How much progress are districts making?
+
+  • Which districts are making the most progress in implementing a portfolio strategy and which locations are stymied?
+
+  • How does implementation vary by portfolio strategy element?
+
+The findings discussed below draw on a detailed analysis of all 36 portfolio elements across 25 districts for which we
+had enough “snapshot” data—at least three years of interviews, the last of which occurred in January 2014 or more
+recently—to include them in this analysis.2 Figure 2 shows all 52 districts that have at some point been part of the
+Portfolio Network (those that are currently implementing or have in the past). The 25 districts we included in this
+analysis are highlighted in green.
+
+2. More than 50 cities are affiliated in the Portfolio Network, but we track and analyze implementation for a subset of those who are actively
+engaged in implementation.
+
+
+                                            CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                                    3
+                               STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+Figure 2. Districts CRPE Has Tracked Over Time
+
+                   Districts That Have Participated in the Portfolio Network Over Time
+                   MOST                                     MOST                                       MOST
+                             TOTAL # OF                               TOTAL # OF                                 TOTAL # OF
+   DISTRICT       RECENT                     DISTRICT      RECENT                     DISTRICT        RECENT
+                             SNAPSHOTS                                SNAPSHOTS                                  SNAPSHOTS
+                 SNAPSHOT                                 SNAPSHOT                                   SNAPSHOT
+
+ Albuquerque     Jan. 2015       3        Fullerton       Jan. 2016       4        Oakland           Jan. 2016       5
+
+ Aldine          July 2014       2        Fulton County   Jan. 2015       5        Philadelphia      Jan. 2013       2
+
+ Alum Rock         N/A           0        Gilbert         Jan. 2015       1        Prince George’s   Jan. 2016       1
+                                                                                   County
+
+ Austin          Jan. 2014       2        Grand Prairie   Jan. 2016       2        Providence        Jan. 2016       2
+
+ Baltimore       Jan. 2016       6        Hartford        Jan. 2016       5        Riverside         Jan. 2014       1
+
+ Baton Rouge     July 2013       2        Henry County    Jan. 2016       3        Rochester         Jan. 2013       1
+
+ Boston          Jan. 2014       1        Houston         Jan. 2015       2        Sacramento        Jan. 2014       4
+
+ Broward         Jan. 2014       1        Indianapolis    Jan. 2016       4        San Antonio       Jan. 2016       1
+
+ Camden          Jan. 2015       1        Jefferson       Jan. 2015       5        San Jose          Jan. 2014       2
+                                          Parish
+ Central Falls   Jan. 2016       5        Lawrence        Jan. 2016       6        Spokane           Jan. 2016       6
+
+ Chicago         Jan. 2016       6        Los Angeles     Jan. 2016       6        Spring Branch     Jan. 2016       5
+
+
+ Cincinnati      Jan. 2015       2        Memphis-        Jan. 2016       5        St. Louis         Jan. 2016       2
+                                          Shelby County
+
+ Cleveland       Jan. 2016       6        Minneapolis     Jan. 2013       1        TN ASD            Jan. 2016       6
+
+ Colombus        Jan. 2014       1        NOLA RSD        Jan. 2016       6        Tacoma            Jan. 2015       1
+
+ Dallas          Jan. 2014       1        Nashville       Jan. 2016       5        Tulsa             Jan. 2016       4
+
+ Denver          Jan. 2016       6        New London      Jan. 2013       1        Windham           Jan. 2013       1
+
+ Detroit         Jan. 2016       4        New York City   Jan. 2014       3
+
+ Franklin-       Jan. 2014       2        Newark            N/A           0
+ McKinley
+
+
+
+
+                                 CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                      4
+                                       STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+Findings
+Several important trends are revealed through analysis of portfolio implementation:
+
+  • While a handful of districts are at what we call an “advanced” level of portfolio implementation, too many are
+    moving very slowly or are stalled.
+
+  • Some districts are implementing portfolio in a very piecemeal fashion that is unlikely to produce significant results for
+    students.
+
+  • A group of districts not well known for portfolio implementation is making a lot of progress lately.
+
+  • Districts tend get “stuck” on or avoid the parts of portfolio systems that require a fundamental restructuring of the
+    central office or changes to the union contract.
+
+  • However, many districts are finding ways to move forward on these issues, despite the challenges.
+
+
+Just five of the districts we tracked have made substantial progress on comprehensive
+portfolio implementation; others are moving slowly or are stalled
+Figure 3 shows how the 25 districts we reviewed score on implementing the 36 portfolio elements that we track. The
+highest-scoring districts, which have more dark green squares, are on the upper half of the display (see Appendix 1 for
+a description of components and their corresponding elements).
+
+
+Figure 3. Five Portfolio Districts Can Be Considered “Advanced” in Implementing the Portfolio Strategy
+
+
+                  TN ASD
+               NOLA RSD
+                   Denver
+            New York City
+                Lawrence
+                 Baltimore                                                                                     Key:
+                  Oakland                                                                                         National exemplar
+                 Fullerton
+                                                                                                                  In progress
+           Spring Branch
+              Los Angeles                                                                                         Some elements in place
+                  Hartford
+                                                                                                                  Much work to be done
+                Cleveland
+                  Chicago                                                                                         Nothing in place yet
+            Fulton County
+              Indianapolis
+                 Nashville
+              Central Falls
+                 Spokane
+                      Tulsa
+            Henry County
+  Memphis−Shelby County
+         Jefferson Parish
+              Sacramento
+                    Detroit
+             Albuquerque
+                                                                                                               Elements
+                              1.1
+                              1.2
+                              1.3
+                              1.4
+                              1.5
+                              1.6
+                              2.1
+                              2.2
+                              2.3
+                              2.4
+                              2.5
+                              2.6
+                              3.1
+                              3.2
+                              3.3
+                              3.4
+                              4.1
+                              4.2
+                              4.3
+                              4.4
+                              4.5
+                              4.6
+                              5.1
+                              5.2
+                              5.3
+                              6.1
+                              6.2
+                              6.3
+                              6.4
+                              6.5
+                              7.1
+                              7.2
+                              7.3
+                              7.4
+                              7.5
+                              7.6
+
+                              Choice       Autonomy   Funding   Talent   Support   Accountability Engagement   Components
+
+
+
+
+                                        CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                           5
+                                       STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+Five districts—the New Orleans (NOLA RSD) and Tennessee (TN ASD) state turnaround districts, Denver, New York
+City, and Lawrence—can be considered “advanced” in terms of their overall portfolio implementation: the districts
+have more than half of their portfolio strategy components rated as being “in progress” or better: light green or dark
+green. In state-run school districts such as New Orleans and Memphis, and some districts with elected boards such as
+Denver, families can now choose among a variety of public school options, educators have high levels of freedom to
+design and staff their own educational programs, and school openings, replication, and closures are largely contingent
+on performance. Those districts have made high levels of progress (dark green squares) across most elements. Full
+implementation, however, is not a guarantee that the reforms will continue to progress or can be sustained.
+
+As Figure 3 also makes clear, many districts are making little or no progress (mostly orange and red) in some or
+all components. These districts are suffering from any number of maladies, including lack of intentionality toward
+a strategy (Sacramento and Albuquerque), political quagmire (Detroit and Nashville), or they are just now starting
+to ramp up (Indianapolis and Tulsa). The next sections show how districts vary in implementation and describe the
+elements in which they are making the most and least progress.
+
+Some districts are implementing portfolio in a very piecemeal fashion that is unlikely to
+produce significant results for students
+Figure 4 highlights how districts differ in implementation. The Y-axis represents the overall strength of a district’s
+portfolio implementation over time. Scoring a “5” on the Y-axis is the strongest a district can reach.
+
+This figure also measures, on the X-axis, how consistent the district’s portfolio component scores are.3 Highly varied
+implementation means that a district scores much higher in some components and elements than in others. A district
+might choose to focus on moving autonomy to schools, for example, but is not holding those schools accountable
+for results. As discussed in the introduction, the portfolio strategy is designed to be mutually reinforcing, so a more
+piecemeal approach—in our view—is less likely to succeed long term.
+
+Those districts that have implemented more elements designed to work together as a consistent reform strategy, then,
+are on the left side of the figure (e.g., TN ASD, Lawrence, Oakland, Indianapolis), and districts that have implemented in
+a more piecemeal fashion are toward the right (e.g., Spokane, Albuquerque, Memphis-Shelby County).
+
+
+
+
+3. Specifically, we calculate spread as the variance in a district’s scores on either its average or its most recent scores across the snapshot
+elements. Variance is the average of the squared differences from the mean: σ2=(Σ(X-μ)2)/N.
+
+
+
+
+                                         CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                                  6
+                                                             STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Figure 4. Implementation Can Be Consistent or Piecemeal, Strong or Weak
+
+
+                                                   Strong and consistent                                                          Strong and piecemeal
+                                              5
+                                                          TN ASD
+                                                              ●      NOLA RSD
+                                                                       ●
+                                                                           Denver
+                                                                                  ●            New York City
+                                                                               Lawrence              ●
+                                              4                                        ● Fullerton
+                                                                                                         Oakland
+                                                                           ●                                         Spring Branch
+
+
+
+
+            Average score across components
+                                                                      Baltimore             ●  ●
+                                                                                             ●     Hartford ●
+                                                                                                 ●
+                                                                     Chicago ● ● Los Angeles
+                                                                                                                          Fulton County
+                                                                                Cleveland                Indianapolis ●
+                                                                                                  ●
+                                              3                                                   ●
+                                                                                                                     ●
+                                                                                              Nashville
+                                                                                                                Central Falls        Henry County             ●
+                                                                                      Jefferson Parish
+                                                                                                          ●                                 ●              Spokane
+                                                                                                            Tulsa                                   ●
+                                                                                              ●                                           Memphis−Shelby County
+                                                                               ●                  ●
+                                                                         Sacramento             Detroit
+                                                                                                                                      ●
+                                              2                                                                                 Albuquerque
+
+
+
+
+                                              1
+
+
+
+                                                   Weak and consistent                                                               Weak and piecemeal
+                                              0
+
+
+
+                                                  0.0                  0.5                                1.0                              1.5                       2.0
+                                                        Variation in a district's most recent component scores
+
+
+Specifically, the chart shows that seven districts in the top left are scoring high and are implementing consistently
+across many data elements. Most of these “strong and consistent” districts have pursued a coherent and well-
+articulated vision of portfolio for many years. NOLA RSD, for example, over the course of ten years has consistently
+moved all of its schools to operate with full financial and programmatic autonomy and performance-based
+accountability by transitioning them to charter status. They also transformed the central office to focus entirely on
+managing performance and equity and to working with community organizations to ensure schools receive the
+supports they need.
+
+One district, Spring Branch Independent School District in Texas, scores fairly high but also ranks high on variance
+(top right). It can be considered “strong but piecemeal.” Spring Branch has excelled in developing diverse and strong
+principal pipelines, and it has expanded school choice in an effort to increase the number of students completing a
+post-secondary credential.4 However, the district has not re-tooled its funding system; it does not fund schools on a
+per-pupil basis or send a high proportion of district funds to the school level for principals to manage.
+
+Portfolio districts in the bottom half of the chart can all be considered “weaker.” Some have implemented only a few
+elements; others have made little progress. Those in the bottom left are interesting because they have been trying to
+implement many portfolio components on the belief that all are important and are mutually reinforcing. Some have
+stalled out under new leadership (e.g., Sacramento and Chicago), some have made some progress but never had much
+momentum (e.g., Nashville and Detroit), and others are just getting started (Tulsa and Indianapolis).
+
+
+
+4. The Spring Branch (Texas) Plan.
+
+
+
+                                                                   CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                                                           7
+                                      STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+More worrisome are the six districts in the bottom box and furthest to the right (e.g., Albuquerque and Memphis-
+Shelby County). They score low overall but have made progress on some elements, evidenced by wide variance in
+scores. Some of these districts are just getting started on a portfolio strategy, some are only mildly committed, and
+some have simply abandoned it or are struggling to move it forward.
+
+Some unheralded cities have made a lot of progress recently
+The previous section paints a picture of how districts have progressed over the period of the last several years, but it
+does not show recent efforts or lack thereof.
+
+Figure 5 shows which districts have made the most dramatic progress recently. (We took the difference between the
+most recent snapshot score and the average score for that district over time.) A number of districts that are not well
+known for portfolio implementation look strong on this measure, although there are important caveats.
+
+Districts with a low average score over time coupled with recent advances in implementation score quite high
+(Indianapolis, Oakland, Lawrence), while districts with higher scores over time (NOLA RSD, Denver) have a much harder
+time demonstrating recent relative gains. (We are also often unable to interview district leaders once the district’s
+commitment to a portfolio strategy wanes, so some districts’ progress may be worse than is represented here.)
+
+Still, this is a helpful way to identify cities that have been making recent progress.
+
+
+
+
+Figure 5. Unsung Districts Making Recent Progress
+
+
+                Lawrence
+                 Oakland
+             Indianapolis
+                Spokane
+  Memphis−Shelby County
+               Cleveland                                                                                        Key:
+                 Fullerton                                                                                       Large growth
+           Henry County
+                                                                                                                 Some growth
+           Spring Branch
+           Fulton County                                                                                         Steady over time
+                 Chicago                                                                                         Some decline
+                     Tulsa
+                                                                                                                 Large decline
+                Nashville
+                 TN ASD
+                Baltimore
+                  Denver
+             Central Falls
+             Albuquerque
+              NOLA RSD
+           New York City
+             Sacramento
+             Los Angeles
+         Jefferson Parish
+                   Detroit
+                 Hartford
+                             1.1
+                             1.2
+                             1.3
+                             1.4
+                             1.5
+                             1.6
+                             2.1
+                             2.2
+                             2.3
+                             2.4
+                             2.5
+                             2.6
+                             3.1
+                             3.2
+                             3.3
+                             3.4
+                             4.1
+                             4.2
+                             4.3
+                             4.4
+                             4.5
+                             4.6
+                             5.1
+                             5.2
+                             5.3
+                             6.1
+                             6.2
+                             6.3
+                             6.4
+                             6.5
+                             7.1
+                             7.2
+                             7.3
+                             7.4
+                             7.5
+                             7.6
+
+
+                             Choice        Autonomy   Funding    Talent   Support Accountability   Engagement
+
+
+
+
+                                       CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                    8
+                                    STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Figure 5 also highlights slower-moving or “stuck” districts. Some of the districts in the bottom half of the chart
+represent efforts that have stalled or never really gotten off the ground for various reasons, including change in district
+leadership (Sacramento), community backlash (Detroit), and lack of real district commitment to the portfolio idea
+(Albuquerque).
+
+Baltimore, a highly ranked district in terms of overall portfolio implementation, looks much worse in the analysis of
+recent progress: Baltimore moved a long way toward portfolio implementation under Superintendent Andrés Alonso’s
+aggressive efforts to empower principals and to move budgetary control to schools; recent progress under his
+successor has stalled.5 New York City’s reforms have stalled for similar reasons.
+
+Accountability, Talent, and Choice Are Implemented Most Often
+Figure 6 shows how fully each component is being implemented. Accountability, Talent, and Choice are implemented
+more than other components. In some ways, it’s not surprising to see these components rising to the top. They are
+positive actions—they involve open deliberation without necessarily making tough tradeoffs.
+
+Accountability is heavily influenced by state law, which often prescribes accountability measures for its districts and
+schools and requires them to publicly post their results under those measures, which gives many districts a bump in
+their score. Some districts have enhanced the state accountability metrics by adding their own set of metrics and are
+doing that in concert with charter schools in their area. What really matters in accountability systems is whether those
+metrics are used to intervene in or expand schools. Districts get credit for the presence of accountability, but often fall
+short of acting on it.
+
+Talent entails cultivating and monitoring teacher and principal pipelines. In our most recent interviews with districts in
+2016, talent strategies were among the more commonly implemented strategies, which reflects what we hear on the
+ground—that districts are placing a lot of emphasis on finding teachers and leaders who can create and run effective
+autonomous schools.
+
+Choice, or changing student assignment from district choice to family choice, is essentially a technical exercise. It
+usually involves the work of small groups of people or contractors who produce technical products—information
+guides and lottery algorithms, for example.
+
+In the end, Accountability, Talent and Choice are the components that appear easiest to make progress on. But
+Engagement also leans toward more robust implementation. This is surprising because CRPE often hears from
+community leaders that districts are not seeking enough input or are not transparent enough about their plans.
+Districts report that while they offer public meetings and post their efforts on the district website, they still struggle
+to come up with satisfying engagement strategies. Outreach to the community is a common activity—which explains
+Engagement’s high score—but the depth of it is clearly not sufficient given what district and community leaders report
+to us and what comes across in the news. Going forward, CRPE plans to adjust the elements and interviews to better
+reflect this nuance.
+
+
+
+
+5. Betheny Gross and Ashley Jochim, “Incomplete Reform in Baltimore,” Education Next, Fall 2016.
+
+
+
+                                       CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                              9
+                                               STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Figure 6. Accountability, Talent, and Choice Are Implemented Most Often
+            (Portfolio components sorted by highest average ratings)
+
+
+                  TN ASD
+               NOLA RSD
+                   Denver
+            New York City
+                Lawrence
+                 Baltimore                                                                                        Key:
+                  Oakland                                                                                            National exemplar
+                 Fullerton
+                                                                                                                     In progress
+           Spring Branch
+              Los Angeles                                                                                            Some elements in place
+                  Hartford
+                                                                                                                     Much work to be done
+                Cleveland
+                  Chicago                                                                                            Nothing in place yet
+            Fulton County
+              Indianapolis
+                 Nashville
+              Central Falls
+                 Spokane
+                      Tulsa
+            Henry County
+  Memphis−Shelby County
+         Jefferson Parish
+              Sacramento
+                    Detroit
+             Albuquerque
+                                                                                                                  Elements
+                              6.1
+                              6.2
+                              6.3
+                              6.4
+                              6.5
+                              4.1
+                              4.2
+                              4.3
+                              4.4
+                              4.5
+                              4.6
+                              1.1
+                              1.2
+                              1.3
+                              1.4
+                              1.5
+                              1.6
+                              7.1
+                              7.2
+                              7.3
+                              7.4
+                              7.5
+                              7.6
+                              2.1
+                              2.2
+                              2.3
+                              2.4
+                              2.5
+                              2.6
+                              3.1
+                              3.2
+                              3.3
+                              3.4
+                              5.1
+                              5.2
+                              5.3
+
+                              Accountability      Talent     Choice   Engagement   Autonomy   Funding   Support   Components
+
+
+
+
+Restructuring the central office, pupil-based funding, and collective bargaining changes are
+real “sticking points”
+Districts are more likely to implement the Accountability, Choice, and Talent components, but are less likely to
+implement the Autonomy, Funding, and Support components. They involve a more significant restructuring of the
+central office and would likely benefit from more state legislative assistance. They also require rethinking traditional
+collectively bargained agreements.
+
+The sticking points around Funding entail devolving central office control of spending by transferring money to schools
+that were formerly controlled by a bureaucracy. This action moves money away from district bureaucracies and into the
+hands of school principals. Instead of controlling services, districts would set prices for the services they can deliver.
+This would allow principals, who under the portfolio strategy can buy from wherever they think best (which speaks to
+Support, a component that depends heavily on Autonomy and Funding), including deciding whether to purchase what
+a district has to offer. Similarly, the sticking points around Autonomy would require loosening central office controls on
+school spending and design. Principals set their own priorities and budgets so they can actually spend the extra money
+they get.
+
+The Funding and Autonomy components require significant adjustments to powerful entities in the traditional school
+district—the central curriculum and instruction office and the teachers union, whose collective bargaining agreement
+with the district often includes district-wide step-and-ladder salary schedules (Funding) and seniority-based
+placement and dismissal processes (Autonomy).
+
+
+
+
+                                                CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                              10
+                                 STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+Some districts have made it through the “sticking points”
+Although many districts are stuck when it comes to rethinking the central office and collective bargaining, a few have
+made significant progress and offer useful models for others to consider.
+
+Autonomy – allowing schools to control compensation: Collective bargaining agreements at the district level have
+been a challenge for many portfolio network districts seeking to give schools autonomy over staff compensation, but
+some districts have managed to move forward with school-based staff decisions.
+
+  • Tennessee’s Achievement School District and Louisiana’s Recovery School District share the highest scores for this
+    element; since most of their schools are operated as charter schools, the schools actually control compensation.
+
+Other examples for this element might include Lawrence Public Schools (near Boston) and Grand Prairie Independent
+School District (near Dallas). These two districts with traditional public schools have strived to rethink managing staff
+compensation at the school level.
+
+  • Lawrence Public Schools has worked with the local teachers union to implement a new career ladder that begins
+    with base salaries at seven different levels. Principals can pay teachers above-the-floor salaries with stipends, and
+    they can decide how quickly teachers move up the career ladder. Teachers are paid more for teaching difficult
+    subjects and for taking on extracurricular assignments, and they can be paid more for areas of higher need—for
+    example, English Language Learning, alternative education, and special education. This model has its limits,
+    but it has perhaps many applicable lessons for other districts, given the prominence of collectively bargained
+    agreements in most major urban systems.
+
+  • Grand Prairie ISD sets a salary schedule for all districts, and their school board further sets a schedule within the
+    state framework. But principals are provided an opportunity to work with their human resources department to
+    negotiate differentiated teacher pay. They can secure bonus pay and incentive pay for teachers in hard-to-staff
+    subjects and locations. They further influence pay via certain parameters set by Texas law.
+
+Pupil-Based Funding – common prices for facilities and central services across sectors: Some cities—Albuquerque
+Public Schools is a good example—have not yet tackled this issue. The Albuquerque school district controls all goods
+and services provided to schools, and it has not priced any of them out on a per-pupil basis. The same goes for its
+facilities. It has established a few contracts for charter schools (in the form of MOUs), but it has no general policy about
+charter schools’ freedoms and obligations. Negotiations start afresh with each school.
+
+  • Spokane Public Schools hired an accountant to research establishing market-rate rents for school facilities and
+    charging the same rents to both charter- and district-run schools. They are also in the planning phase of an
+    initiative to price out services and figure out how both charter and traditional public schools could access them.
+
+  • Cleveland Metropolitan School District and Oakland Unified School District have set common prices for facilities but
+    have not priced out district-provided services, or offered them across the sectors.
+
+  • Lawrence Public Schools has gone further and created a menu of services and prices that traditional and in-district
+    charter schools can all draw from.
+
+New Sources of Support – engaging independent providers: Our interviews with districts indicate that there is no
+one reason why districts are stuck in this area. In some districts, such as Baltimore City Public Schools, principals have
+the autonomy to purchase services, and the district has set up a relatively effective procurement process. The problem
+is that schools don’t have an easy “market” to shop in. Independent providers aren’t lining up to sell goods and
+services to schools, so principals end up purchasing most of their services from the district.
+
+In other districts, individual schools either lack interest in using outside providers or want to avoid the procurement
+struggles that are typical of service contracting. At Providence Public Schools in Rhode Island, the district does not
+
+
+
+                                   CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                            11
+                                 STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+offer a list of providers and makes no concerted effort to court an array of providers. Principals have some purchasing
+autonomy—mostly at the high school level—but little has been done to capitalize and expand on this autonomy. At
+Albuquerque Public Schools in New Mexico, all purchasing is currently done through the district. Vendors work with
+the central office, not individual schools. The district courts providers only for district-wide initiatives, and even that is
+rarely done.
+
+However, we do see some districts moving in a positive direction:
+
+  • Denver Public Schools has an autonomy pilot for principals to take control over their school budgets and purchase
+    anything supplemental, particularly educational technologies, within the district’s differentiated autonomy
+    framework. Schools must choose to buy in to most of the district’s centrally provided goods and services.
+
+  • Lawrence Public Schools has adopted a philosophy that the central office should not be in the business of
+    providing its schools with goods and services. Most services come from outside providers. Schools can opt out of
+    current district-provided services, such as special education and operational services, which are currently treated
+    as chargebacks.
+
+  • New Orleans RSD is not in the business of providing goods and services to its schools but relies on organizations
+    like New Schools for New Orleans, a local nonprofit, to help bring in and showcase new third-party providers in
+    which the RSD schools (all charters) might be interested.
+
+  • Tennessee ASD, which oversees school turnaround efforts by both charter- and district-run schools, is actively
+    trying to reduce the goods and services it provides to schools. The ASD is working with the district and national
+    funders to develop a marketplace of high-quality support options from which its school operators may choose.
+
+
+
+Other sticking points: While the Autonomy, Funding, and Support components are common sticking points, districts
+often struggle with specific elements of other components, especially those that threaten existing power dynamics.
+One clear example is element 4.1, innovative ways to increase the numbers of students taught by strong teachers
+and leaders, which is rarely implemented under Talent. (See Appendix 1 for a complete list of components and
+corresponding elements.)
+
+A district might excel in this element in several ways:
+
+  • Move effective teachers and leaders toward disadvantaged students and schools.
+
+  • Expand schools and classes under the purview of effective teachers and leaders while limiting or reducing school
+    or class size for struggling teachers and leaders.
+
+  • Extend the school day and the school year or create summer learning opportunities.
+
+  • Negotiate statutory or collectively bargained limitations on teacher and leader assignments, transfers, and pay.
+
+Oakland Unified School District, Chicago Public Schools, and Spokane Public Schools are examples of districts that are
+interested in strengthening the Talent component of their portfolio strategies.
+
+
+
+
+                                   CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                             12
+                                STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+Conclusion: Leadership at the Local and State Levels Is Needed
+to Address the Most Difficult Barriers to Implementation
+The analysis we present here shows that an increasing number of districts are interested in implementing the portfolio
+strategy. It also shows that progress is often slow and uneven, with many districts stuck on the same things.
+
+Many districts that find themselves stuck are dealing with the same issues: devolving resources from central offices
+so that they can be used flexibly in schools, rethinking collective bargaining in order to advance per-pupil funding
+and school-site autonomy, and building new structures and talent to support autonomous schools and expanded
+parent choice.
+
+District and civic leaders tell us that progress is slow on these components for several reasons. They are a bigger
+lift, managerially and politically, than other actions required to implement the strategy. The central office’s habit of
+holding onto budgets and staff and assuming they will solve all problems centrally is hard to break. Redistributing
+dollars based on student need is controversial because some schools lose (those that have previously had greater
+than average funding) and others gain. And teachers unions often oppose student-based funding because schools
+with expensive senior teaching staffs would no longer be able to afford them. Also, giving real budgetary and staff
+control to schools can lead to problems if schools don’t have the financial and strategic capacity to manage those
+budgets effectively.
+
+Districts need greater guidance and examples of how to transition away from central office control of funds. We at
+CRPE and our colleagues at the Edunomics Lab, Education Resource Strategies, and other organizations can help
+supply ideas about how to allocate the majority of district funds to schools on a per-pupil basis and offer tools to
+help district leaders re-mission the central office. But analysis can only help so much. Given the strength of interests
+served by existing central offices, restructuring also requires focused advocacy and political organization. Community
+organizations, advocacy groups, and civic leaders must press for needed shifts of functions and funds.
+
+Our analysis also shows the limits of looking at portfolio progress through only a district lens. In places like Baton
+Rouge and Detroit, portfolio solutions are being initiated outside the district. The district is not the primary portfolio
+manager in cities like Memphis, where Shelby County Schools and the state-run Achievement School District are both
+managing portfolios and trying to coordinate special education and other services. In the District of Columbia, DC
+Public Schools and the DC Public Charter School Board both work aggressively to create new options for families and
+have implemented a common enrollment system.
+
+What matters in the end is not who manages the portfolio of options in a city, but rather whether the components of
+the portfolio strategy are implemented. CRPE is working on a new resource that will allow entire cities or metropolitan
+areas to review school quality and equity of access. We will continue to track outcomes for students in these and other
+cities to learn which cities are moving most quickly toward improved educational opportunities for all students.
+
+Localities are increasingly turning to portfolio reforms out of recognition that schools and teachers are best positioned
+to address their students’ needs and that government is best positioned to ensure that performance and equity are
+achieved in the process. This is a simple proposition with very complex implementation and political challenges. We
+owe it to the bold leaders promoting these changes to help them address the challenges, whether it is by pushing
+them to be bolder, by providing funding to rebuild central office capacity with new skills and mindsets, or by providing
+state-level policy changes and political supports to enable the work.
+
+And we cannot ignore the fact that where portfolio implementation has been implemented most fully—the New
+Orleans RSD, the Tennessee ASD, and Lawrence, Massachusetts—states have created the conditions to re-mission
+the role of government and the district toward a portfolio model. Portfolio is a local phenomenon, but it is inevitably
+linked to the state. At a minimum, portfolio needs some permissive state laws and regulations that localities can use
+to give schools more control over staffing, budgets, and purchasing. An even better scenario is to have state officials
+who are willing to help clear out laws and regulations that get in the way of portfolio strategies and provide political
+
+
+
+                                  CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                           13
+                                STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+cover for forward-thinking local leaders. Allowing local labor contracts to be renegotiated in support of mission-driven
+schools that choose their own staff, or working with cities to establish a special education revolving loan fund to help
+independently operated schools manage their special education obligations, are examples of how state leaders can
+help local leaders get past some of the barriers noted in our analysis. In some cases, more definitive state action such
+as mayoral control, board replacement, or—in extreme cases—state takeover, is necessary.
+
+Less interventionist state actions can include running interference for local boards and superintendents with the state
+bureaucracy, training and mentoring new superintendents, seeking technical amendments to state laws that have
+unintended consequences for particular districts, and setting performance standards and accountability measures that
+can’t be altered so local leaders have no choice but to replace low-performing schools.
+
+CRPE is developing a series of papers and tools that can help states understand what options they have for ensuring
+that local portfolio reforms can succeed long term. As states roll out plans for ESSA (Every Student Succeeds Act)
+implementation, consideration should be given to how the new federal law’s provisions for funding transparency, state
+intervention in low-performing schools, and new uses of funds for innovation and improvement might be leveraged in
+support of successful local district transformation strategies.
+
+From local community activists to forward-thinking district officials, or allies at the state level, more leadership is
+needed to help portfolio implementation overcome the sticking points that prevent schools from making dramatic
+progress on student outcomes.
+
+
+
+
+                                   CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                          14
+                                         STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+   APPENDIX 1: The Seven Components of the Portfolio
+   Strategy and Their Corresponding Elements
+                       Data elements corresponding to each component of a portfolio strategy
+1. Good options and        1.1 School choice for all families
+choices for all families   1.2 Equity and access to all schools for special education students and English language learners
+                           1.3 Coordination of enrollment and school information for families across sectors
+                           1.4 New schools opened based on family/student/neighborhood need
+                           1.5 Schools replaced based on performance outcomes
+                           1.6 Intentional development and opening of new schools
+
+2. School autonomy         2.1 All schools control staff selection and dismissal
+                           2.2 All schools control budget
+                           2.3 All schools control compensation
+                           2.4 All schools control curriculum
+                           2.5 Autonomies are defined through MOUs, performance contracts, or charters
+                           2.6 Schools free to seek contractual waivers or exemptions from district or union contracts
+
+3. Pupil-based funding     3.1 District funds are allocated based on number of students and student type
+for all schools            3.2 High proportion of district funds being sent to and managed at the school level
+                           3.3 Common prices set for facilities and central services across sectors
+                           3.4 Plan in place to identify and address schools with low productivity (low achievement, low enrollment, or high costs)
+
+4. Talent-seeking          4.1 Develop strong array of teacher candidates
+strategy                   4.2 Recruitment of new principals from proven pipelines
+                           4.3 Recruitment of new teachers from proven pipelines
+                           4.4 Intensive development of teachers and leaders, and district staff
+                           4.5 Performance-based evaluation system in place to recognize or remove teachers and leaders
+                           4.6 Innovative ways to increase the number of students taught by strong teachers and leaders
+
+5. Sources of support      5.1 Schools free to choose support from an array of independent providers
+for schools                5.2 Procurement policies enable schools to work with vendors, regardless of established district contracts
+                           5.3 Strategies to engage independent providers (educational technologies, professional development, interim assessments)
+
+6. Performance-based       6.1 Schools have rich and timely information on student and school performance
+accountability for         6.2 Common school performance framework in place
+schools
+                           6.3 Performance framework uses multiple measures: student performance, student progress, school climate, student
+                           engagement, equity and access, long-term student outcomes
+                           6.4 Performance framework used as a significant factor in: school expansion, intervention, replacement/closure decisions
+                           6.5 Publication of a school report card based on common performance framework
+
+7. Extensive public        7.1 Solicit ideas, values, and concerns from families and communities about school and district decisions
+engagement                 7.2 Partnerships and coalitions with all key stakeholders
+                           7.3 Communication plan to convey information about reform strategy (including strategic plan, implementation schedule,
+                           annual updates, and external progress review)
+                           7.4 Plan for helping district and school staff understand and support the strategy
+                           7.5 Empower principals to be lead communicators about school and district strategy
+                           7.6 Public criteria and schedule for school closings and openings, clear and better options for families affected by closure
+
+
+
+
+                                           CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                                                  15
+                                STICKING POINTS: HOW SCHOOL DISTRICTS EXPERIENCE IMPLEMENTING THE PORTFOLIO STRATEGY
+
+
+
+
+About the Authors
+Robin Lake is the director of CRPE, and affiliate faculty, School of Interdisciplinary Arts and Sciences, at the University
+of Washington Bothell. She is internationally recognized for her research and analysis of U.S. public school system
+reforms, including charter schools and charter management organizations, innovation and scale, portfolio school
+districts, school turnaround efforts, and performance-based accountability systems.
+
+Jordan Posamentier is deputy policy director at CRPE, where he develops K–12 public education policy and the
+portfolio strategy with cities across the nation. He previously worked as the director of legislative analysis at
+StudentsFirst, and as legislative counsel to the California Judges Association.
+
+Patrick Denice is a postdoctoral research associate at Washington University in St. Louis, and an affiliate at CRPE. His
+research examines stratification in education and the labor market, with particular interests in public school choice
+policies and nontraditional pathways through postsecondary education. Dr. Denice’s research can be found in the
+American Sociological Review and Social Science Research, as well as in a number of policy reports.
+
+Paul T. Hill is a research professor at the University of Washington Bothell and the founder and former director
+of CRPE. His most recent book, with co-author Ashley Jochim, is A Democratic Constitution for Public Education
+(University of Chicago Press, 2014). Hill is a senior fellow at the Hoover Institution.
+
+
+
+
+                                   CENTER ON REINVENTING PUBLIC EDUCATION | CRPE.ORG
+                                                                                                                           16
+

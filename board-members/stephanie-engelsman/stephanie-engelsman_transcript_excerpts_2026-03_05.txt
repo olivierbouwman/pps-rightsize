@@ -1,0 +1,188 @@
+Stephanie Engelsman (Zone 6) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: NO on final (passed 5-2). Co-drafted La Forte's framework amendment and voted YES (failed 3-4); MOVED the D.b sub-amendment (6-0-1) and the "boundary changes" sub-amendment (6-0-1); SECONDED Splitt's final wording (6-0-1); MOVED "will"->"may" (failed 2-5) (per minutes; movers/seconders also audible in captions). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (Engelsman YES)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+
+EXCERPTS
+
+[2026-03-10 Board Regular Meeting - Seismic update, board round]
+  time 01:30:51 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=5451s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (Franco answers: "to your point, Director Englesman")
+  topic: seismic threshold of 300 enrollment vs future consolidated schools
+  "while I understand why you chose 300 threshold and anything underneath didn't get evaluated today or in this process, um, and I also greatly appreciate you saying that it doesn't mean it's on the right size, you know, the chopping block for all of those things. [...] However, in the right sizing conversation, I am worried that there may be a school that is currently sub 300 that in the right sizing conversation ends up being 550 because we collect schools and put them together and that that school then has 550 students in it and has never been evaluated because we didn't evaluate it."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 02:48:43 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10123s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: skepticism -- do mergers lose enrollment? (Bridger Creative Science example)
+  "I would like to see the merger numbers because from conversations with a parent at [...] Bridger [...] they started out really big and then perhaps because people had to commute further classes were bigger than they expected it wasn't their neighborhood school anymore those numbers have gone down [...] And so, to convince me that right sizing and blending schools is in our best interest with enrollment decline, I want to make sure that we are not compounding our problems"
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 02:50:44 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10244s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: value of small neighborhood schools
+  "The schools are small, but they offer to that um Mr. who I also know from public defense his comment. Um they offer bike buses and walking buses and art and music and theater and PE and they offer principles who know all the students names and they offer kids who can walk from their homes to their schools. And so I think that those schools and perhaps those families in that school might say we are getting everything we need [...] let's focus on these neighborhood schools because wonderful things happen in our neighborhood schools."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 02:55:46 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10546s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: CONFIRMED (same continuous turn)
+  topic: timeline -- wants recommendation earlier (October); engagement reaching every school
+  "I think I heard someone say late November and then the decision should be made right before winter break. That to me feels very short for a final decision to come to the board especially given the holidays right then. [...] I would hope that um the re final recommendation to the board could come sooner than that [...] I would like to see some active involvement engagement into every single school so that people know it's happening."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:16:01 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4561s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (chair: "Thank you, Director Englesman." immediately before)
+  topic: avoid split feeders - keep elementary cohorts together into middle school
+  "um to that teacher or uh track person who made comment earlier, I think it would be wonderful if we didn't split elementary schools and that the entire cohort of an elementary school could go to middle school together. I know it's possibly challenging, but in that big transition time, even if people aren't friends, they then see each other as they go from a school of 300 to a school of 500."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:17:01 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4621s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same continuous remarks)
+  topic: lottery losers leaving PPS; perception that neighborhood schools are second-best
+  "I would love to know how many of them don't come to PPS if they don't get their lottery choice. [...] if we create an idea to people oh you didn't get um Buckman you didn't get your DLI you didn't get you know whatever you're applying for you have to just go to your neighborhood neighborhood school, you're not getting as great of an education because the neighborhood school is not lottery."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion]
+  time 01:18:01 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4681s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (same continuous remarks)
+  topic: idea - admit everyone on focus-option/immersion waitlists
+  "I would love to know, and there are likely unintended consequences, I would love to know what happened if we just let everyone who wanted to get in in. Um, so if all 150 on Da Vinci's weight list got in, or if however many are on the French immersion, or however many are on Winter Haven's weight list, what if we just let them in and we figured out a way to create schools that could house that many people, could educate that many kids"
+
+[2026-03-31 Board Special Meeting and Work Session - Growing Great Schools pair-share report-out (Seattle resource)]
+  time 01:48:01 | https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6481s
+  source: transcripts/text/2026-03-31_Board_or_Education_Special_Meeting_and_Work_Session__QIfmGcbkkLE.txt
+  attribution: PROBABLE (partner in the DePass / Engelsman pair; she adds to her partner's report: "one of the things that you um brought up also")
+  topic: travel distance - keep elementary ("littles") close; longer commutes more acceptable for MS/HS
+  "one of the things that you um brought up also, which I agreed with, was the idea of how far people are having to travel to get to their schools [...] For me, it feels easier, not easy, but easier to put middle schoolers and high schoolers on a longer commute than our littles, K-12 especially on bus rides after a long day of learning is just a lot. [...] So we talked about like making sure we're not making our littles travel too far to get to school."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 1 (cont.)]
+  time 01:40:28 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6028s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (continuation; then she asks Armstrong "Why do we need to have a resolution today?")
+  topic: Kellogg session too far from N/NE; no need for a resolution today
+  "I certainly reached out to Dr. Armstrong after hearing from parents and families and staff and everybody at Kellogg that Kellogg is a long way from Right? Ida B. Wells in in rush hour is a long way from north northeast. [...] I'm go saying a long thing of saying we don't actually need a resolution today to start a right-sizing process. We have already started it. Dr. Armstrong and her team already have dates on the they're already having meetings, people already talking about it, we're already engaging."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 1 (cont.)]
+  time 01:42:30 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6150s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (continuation of same turn)
+  topic: multi-year timeline spans board elections; memorialize commitments (SEGC lesson)
+  "They talk about a timeline of initiating this no later than 27 28 and then completing within a three-year period. [...] we could have an entirely different board because in 2027, there's an election. By 2029, there's another election. By the end of this 2031, there could be two new boards. And so, the one thing that I have heard time and time again from the SEGC process is that things weren't memorialized."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 2]
+  time 02:02:50 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7370s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "So, let uh um Director Engleson. Thank you.")
+  topic: process objection - amendments lose for lack of vetting time
+  "the reason that we would vote on this, the green, and not the red, is because the red hasn't had time to sort of go through the process. And that is setting up sort of a a process that I think is problematic because as Director Splitt has so aptly put, we can't talk about it in advance. [...] if we are not going with red even though we all kind of like it simply because red didn't have enough time to be thought about and looked at, then I think there's a problem with the way that we're doing resolutions"
+
+[2026-04-27 Rightsizing Public Engagement Session (Roosevelt HS) - director introductions]
+  time 00:15:11 | https://www.youtube.com/watch?v=2bSmBVuoajw&t=911s
+  source: transcripts/text/2026-04-27_Rightsizing_-_Board_of_Education_Public_Engagement_Session__2bSmBVuoajw.txt
+  attribution: CONFIRMED (self-ID: "Hi, my name's Stephanie Inglesman. I live in Southeast.")
+  topic: closures must yield better schools, not "less of what we have now"
+  "I wanted to just highlight two comments that were really resonated with me at the very small Benson listening session on Saturday, which was one parent saying, 'It feels weird to have you asking us what we want in a school, and then us giving you a list, and then you potentially closing our school.' [...] 'Why that first comment was important is the goal is to end up with great schools, not less of what we have now.' And what we have now is too big of a classroom sizes. We have librarians who are going to different schools. We have music some places and not others. And so, the the the parent that said that said, 'Don't close schools and then leave us with the same as what we have now, which is not shooting for the moon.'"
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 05:05:52 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18352s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (last speaker in the go-around, after Splitt, matching the Splitt-Engelsman seating seen in the budget and bond Q&A; all other directors are accounted for; the chair closes right after with "Sounds like you have a lot to work with")
+  topic: rightsizing must yield "something a lot better", not "less of what we have"
+  "Um what I heard um at a few of them and I was lucky enough to go to all of them was that people want to know that if and after we do this that we're going to end up with something a lot better than what we have instead of just less of what we already have. And by that people were saying they want to know that they're going to have lower class sizes instead of less schools with the same size class sizes. They want to know that they're going to have all the specials, that they'll have EAS and paras."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 05:07:52 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18472s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: lessons from past closures (Marshall, Edwards, Bridger consolidation)
+  "I also have asked for data about what happened after we've done school closures or consolidations before, specifically when Marshall closed forever ago, when Edwards closed in the early 2000s, and then most recently when Bridger Creative Science consolidated. And this came into my mind when I was talking to someone there who said when we first started we were this big and then slowly we're back down because people are leaving because they just didn't like the big the big classes that we ended up with big class sizes."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:28:05 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16085s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (same turn; named by DePass)
+  topic: timeline as a guiding principle; heat maps alarmed neighborhood schools
+  "I am remain concerned that there's no timeline in the guiding principles. [...] it's a guiding principle that we have a calendar and we have a a road map for community members to know what's happening and when. [...] The heat maps with the enrollment numbers caused sort of shock waves throughout the community. Like, ours is low. Does that mean low and in red? Does that mean that we're going to be shut down?"
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:29:06 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16146s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: CONFIRMED (named by DePass as raising the "neighborhood schools being the center" wording concern)
+  topic: proposed rewording - section C "neighborhood schools at the center of the work"
+  "PPS operates a variety of schools and programs all of which will be part of this right sizing process. That's great. We've talked about that with neighborhood schools at the center of the work. And so um I worry that we will consider continue to send worry through the community [...] I worry that the that the linguistics here suggest to neighborhood schools that those are the ones that are being looked at and so I just want to be cautious if that's our intention then fine but if that's not our intention I think we should reconsider how um little C is written."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:52:42 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6762s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (fifth in seating order, after Chair Wang and before Splitt. In the budget round the chair calls "Director Englesman" right after DePass, and her question there likewise refers back to "the meeting 2 weeks ago". The 4/28 transcript also has Splitt and Engelsman adjacent in the speaking order)
+  topic: a concrete rightsizing calendar; Title I school lead time
+  "So, on the question of key milestones, um what we heard last two weeks ago, I had talked about wanting more of a calendar in the guiding principles, cuz I think it's important for families to be able to understand when something is coming because the calendar that is in this presentation [...] is very very broad. [...] I was at a school a Title 1 school not too long ago where someone pointed out if we if we hear things here in November, vote happens in December, that really only gives the school community about five or six months. [...] So, I guess when do our communities get to know is my first question."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 01:54:44 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6884s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn as above)
+  topic: Policy 6.10.030 school closure report with fiscal impact (savings minus transportation costs)
+  "So in board policy [...] 6. 10.030 There talks I mean there's a school closure report with a fiscal impact cost per student projected overall cost or savings to the district including impact on other schools and potential transportation costs projected enrollment. So there is an actual board policy requiring school closure report that includes a financial impact plus or minus because it's not just what we save, it's also what we then spend on transportation. When does this fit into that calendar?"
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 02:00:50 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7250s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn as above)
+  topic: Southeast Guiding Coalition harms (split fifth-grade cohort); fix past changes in implementation
+  "there is a school that was very impacted in Southeast to the Southeast guiding coalition, and the families have been very vocal. [...] the damage that is being done to this very, very small sliver of fifth graders taken from their cohort, merged into a huge middle school, told to make new friends, and then taken and sent to a different high school away from their new friends back with their old friends. [...] I don't think that what was promised to them under a different administration years ago through the Southeast Guiding Coalition is at all being followed through with"
+
+[2026-05-26 Board Special Meeting - Future agenda items]
+  time 04:39:28 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=16768s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (a colleague answers the same turn's AI request with "I'm picking up what you're putting down, Director Englesman". Earlier in the turn a staffer addresses the speaker as "Director Sullivan", but the speaker had just told Sullivan "yours is in" about her committee report, so the staffer likely misnamed her)
+  topic: a second ACCESS site as part of rightsizing
+  "I was looking at this access idea of like I've heard a couple people say it like maybe we have two accesses a giant waitlist in a small school and other lottery programs have bigger schools and smaller waitlists. And so I'm trying to figure out in our right-sizing conversation maybe we can just have two of them and let a lot more people in. I don't know. That's just something I would love to have a conversation about."

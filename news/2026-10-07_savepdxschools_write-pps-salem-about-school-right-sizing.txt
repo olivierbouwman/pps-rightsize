@@ -1,0 +1,32 @@
+Title: Write PPS and Salem about school “right-sizing”
+Outlet: Save PDX Schools (parent group)
+Author: (not listed)
+Date: 2026-10-07
+URL: https://savepdxschools.org/take-action.html
+Note: Live web page retrieved 2026-10-07 (filename uses retrieval date; page metadata date: 2026-01-01).
+
+Save PDX Schools · Take action
+Write the board and your legislators in one step
+Ask PPS for a clear, student-centered “right-sizing” plan—and ask Salem to fund schools so disruption is not treated as the only option. Your message goes to all seven board directors and the two state legislators who represent your address.
+Now is the time to make your voice heard
+We are nearing a point of no return with “rightsizing”. Now is the time to speak up, and loudly. Write your school board representative and express your concerns – and don’t stop there.
+There’s a highly contested gubernatorial election happening on November 3, and Governor Kotek has yet to speak out on this major issue that impacts so many of her constituents.
+Let the Governor know how you feel. Do the same with the Mayor’s office and your local City Councilors.
+Now is the time to act.
+The message tool addresses the PPS Board and your state legislators, with an optional Governor recipient. Contact city officials separately: Portland City Council · Mayor’s office.
+Your details
+Used in the greeting and signature so the message reads as genuinely from you.
+Find your legislators
+Matches your address to its Oregon House and Senate districts.
+Address not matching? Pick your districts manually
+Your message
+Your own line goes near the top — it's what stops this reading as form mail.
+I am…
+What's most at stake for you? (pick any)
+Your ask
+Tone
+Specific, civil, and one clear ask travels furthest — staffers read for a real person, not a position. Your answers fill the line below, which you can then edit or polish.
+Review & send
+This opens in your email already addressed and written. You send it from your account.
+Privacy summary
+Your privacy: "Find my legislators" sends only your street, city, and ZIP through this site's private-body proxy to the US Census geocoder. "Help me word this" first contacts Cloudflare Turnstile to obtain a one-time abuse-prevention token, then sends your role, school connection, priorities, asks, and draft text to Anthropic; neither service receives the dedicated name, email, or address fields from this site. Anthropic says commercial API inputs and outputs are not used for training by default. Skip the AI button to avoid both services and keep your message text local. When you choose an email action, the finished recipients, subject, and message—including any name, email, or address you added—are handed to your selected email app or service for you to review and send. Cookie-free Vercel analytics receive anonymous pageviews and fixed button and success/failure categories—never your text, address, name, email, or districts. Nothing is sent to officials on your behalf. Read the full privacy details.

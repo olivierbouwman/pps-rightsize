@@ -1,0 +1,1957 @@
+Centering Equity in the
+School-Closure Process
+in California
+
+Carrie Hahnel
+Max Marchitello
+
+
+
+
+September 2023
+Centering Equity in the School-Closure
+Process in California
+Carrie Hahnel, Senior Associate Partner, Bellwether
+Max Marchitello, Independent Consultant
+
+
+
+Acknowledgements
+The authors wish to thank the many individuals who gave their time and shared their knowledge with us to inform
+our work, including Alvin Pearman, Heather Hough, and Juliet Squire, as well as the practitioners, researchers,
+policymakers, and advocates who participated in interviews. We also wish to thank the Dirk and Charlene Kabcenell
+Foundation for their generous support of this research.
+This report, like all PACE publications, has been thoroughly reviewed for factual accuracy and research integrity.
+The authors assume full responsibility for the accuracy of the report’s contents.
+
+
+
+Suggested Citation
+Hahnel, C., & Marchitello, M. (2023, September). Centering equity in the school-closure process in California
+[Report]. Policy Analysis for California Education. edpolicyinca.org/publications/centering-equity-school-closure-
+process-california
+    Policy Analysis for California Education                                                                                                            edpolicyinca.org
+
+
+
+
+                                                                                Contents
+
+    Executive Summary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+
+    Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+
+    Historical Context for School Closures  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+         Racially Restrictive Laws and Policies Segregated Neighborhoods and Schools  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  5
+         Inequitable and Inadequate Funding Led to Underresourced Schools  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                        6
+         Gentrification Is Exacerbating Declining School Enrollments  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+
+    Declining Enrollment Trends in California .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+         Enrollment Trends Among Racial and Ethnic Groups .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  8
+         Enrollment Trends in Traditional Versus Charter Schools .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  9
+
+    School-Closure Trends in California  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .10
+         Disparities by Student Subgroups .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .12
+         Disparities by Geographic Locale and Charter Status .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .13
+         Disparities by District  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+
+    How California Policymakers Have Addressed Declining Enrollment and School Closures  .  .  . 14
+
+    Examining Rationales for School Closure .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+         By Closing or Consolidating Underenrolled Schools, the District Can Achieve Fiscal Sustainability .  .  .  .  .  . 17
+         By Closing or Consolidating Schools, the District Can Improve Educational Opportunities and Quality  .  .  .19
+
+    Recommendations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+         Learning From Past School Closures .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+         Recommendation 1: Establish and Execute an Inclusive, Transparent Process for School Closure  .  .  .  .  .  23
+         Recommendation 2: Implement a Strategy to Provide Displaced Students and the Broader Student
+         Community With Accessible, High-Quality Educational Opportunities .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+         Recommendation 3: Develop and Pursue a Long-Term Plan to Address Factors Contributing to
+         Disproportionality in School Closures  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .27
+         Recommendations for State Leaders .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  29
+
+    Conclusion .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
+
+    References  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
+
+    Appendix .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .34
+
+    Author Biographies .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 36
+
+
+1   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                            edpolicyinca.org
+
+
+
+
+                                               Executive Summary
+
+           Enrollment in California public schools has been declining and is projected to fall even
+    more steeply during the next decade. Because funding for school districts is largely based on
+    average daily attendance rates, a decline in enrollment results in a loss of funding. To address
+    budget shortfalls and align services with student counts, many districts have consolidated or
+    closed schools, or they are contemplating doing so.
+
+            School closures may enable districts to achieve budgetary savings and economies of scale
+    that help them provide more resources on a per-pupil basis. But closures come with a cost. They
+    often save less money than districts anticipate, have mixed impacts on academic achievement, are
+    disruptive to students and families, and may contribute to neighborhood blight. School closures
+    also disproportionately affect students of color and low-income students. In some communities,
+    they exacerbate decades of segregation, neighborhood disinvestment, and gentrification.
+
+          Leaders in declining-enrollment districts will need to consider the benefits and costs
+    when seeking to balance their budgets with new enrollment realities. This report makes three
+    recommendations for how local decision makers, including district officials and school board
+    members, should approach school closures:
+
+            •   establish and execute an inclusive, transparent process;
+            •   implement a strategy to provide displaced students and the broader student
+                community with accessible, high-quality educational opportunities; and
+            •   develop a long-term plan to address factors—such as housing affordability,
+                gentrification, and economic divestment—contributing to the disproportionate closure
+                of schools serving low-income students and students of color.
+
+           State leaders can help by supporting the collection and dissemination of data on
+    demographic trends and projections, including how these patterns will affect schools, and by
+    creating space to reflect on potential solutions with an eye towards regional needs and priorities
+    related to racial and economic integration.
+
+            This report neither argues for a moratorium on school closures nor asserts that district
+    finances supersede community needs and preferences. Instead, it aims to provide evidence and
+    suggestions to help state and local education leaders as they confront declining enrollment.
+    It also urges them to work with other city and county agencies, including housing and economic
+    development authorities, to increase opportunities for low-income families and communities of
+    color so that fewer enrollment-related school closures are necessary.
+
+
+
+
+2   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                                                       edpolicyinca.org
+
+
+
+
+                                                          Introduction
+
+            Empty seats have become increasingly common in California’s K–12 public schools.
+    Driven primarily by falling birth rates, slowed immigration, and out-of-state migration, the state’s
+    public school enrollment has been in decline for years (California Department of Finance, 2022).
+    The COVID-19 pandemic accelerated this student exodus. Between 2007 and 2022, enrollment
+    in California public schools, which include both traditional and charter schools, dropped by at
+    least 390,000 students, or more than 6 percent.1 Enrollment is expected to decline an additional
+    9 percent by 2032. The drop is especially acute in California’s coastal and urban areas, where
+    high costs of living are prompting families to move to other parts of the state or outside California
+    altogether (Jong, 2022; Lafortune & Prunty, 2022; Tadayon, 2022; Xie & Willis, 2022).
+
+             Because school districts are funded based on average daily attendance rates, a decline in
+    enrollment results in a loss of funding. California, like more than two dozen other states, primarily
+    uses a student-based formula to fund its schools (EdBuild, 2023). Districts receive a base grant for
+    each student they serve as well as supplemental grants based on the number and concentration
+    of students who are low-income, English learners, experiencing homelessness, or in foster care.
+    If districts lose students, they also lose revenue. Yet a school district’s costs do not decrease by
+    a commensurate amount, at least not immediately. This imbalance can dramatically increase
+    the per-student cost of services. To address budget shortfalls and realign the district’s number of
+    schools and staff with its student count—a process some districts call rightsizing—many districts
+    have consolidated or closed schools, or they are contemplating doing so.
+
+            While school closures can help close budget holes, the cost savings are often minimal
+    in the context of a district’s overall budget, especially in a large district. In some cases, savings
+    fall short of a district’s estimations and needs, particularly in the short term when districts incur
+    additional one-time costs (Pew Charitable Trusts, 2011, 2013). In the long term, of course, even
+    modest cost savings can be significant in achieving a balanced budget and fiscal sustainability.
+
+            In some cases, closing a low-performing school can help the district improve student
+    achievement (Bross et al., 2016; Carlson & Lavertu, 2015). But more often, displacement has a
+    slight negative impact on students’ academic achievement (Barnum, 2019; Gordon et al., 2018;
+    Larsen, 2020). Students already attending the receiving schools can suffer academically as well
+    (Steinberg & MacDonald, 2019).
+
+
+
+
+    1
+     Historical data throughout this report are from DataQuest, accessed February 1, 2023. Projections are the authors’ analysis of
+    public K–12 enrollment data from the California Department of Finance, accessed February 1, 2023, from dof.ca.gov/forecasting/
+    demographics/public-k-12-graded-enrollment.
+
+
+
+3   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                              edpolicyinca.org
+
+
+
+
+           Further, school closures can worsen racial and socioeconomic inequities. Closures
+    disproportionately affect students of color and low-income students. In some communities,
+    they exacerbate decades of segregation, neighborhood disinvestment, gentrification, and
+    other trends that have reduced opportunities for people of color and low-income families.
+
+           In racially and economically diverse and in homogenous districts alike, discussions on
+    school closures can surface community tensions about the fair distribution of resources and
+    opportunities and can generate significant community pushback, ranging from demonstrations
+    at school board meetings to student walkouts and hunger strikes. For example, the Oakland
+    Unified School District board’s decision to close two schools in 2022–23 and slate five more for
+    closure in 2023–24 was met with vocal opposition from many community members, including
+    some who argued that the district’s actions would disproportionately harm Black students and
+    communities (Finney, 2022).
+
+           For all these reasons, school district leaders must center racial and socioeconomic equity
+    when considering whether and how to close or consolidate schools. Centering equity means
+    making it an essential part of a decision rather than an afterthought. In this context, that
+    includes engaging with and addressing the needs and concerns of communities of color and
+    low-income communities before, during, and after the school-closure process.
+
+            This report situates school-closure decisions in a larger historical context and explains how
+    declining enrollment and school closures connect to broader patterns affecting housing, school
+    access, and educational opportunities for Black, Latinx, and low-income students as well as other
+    historically marginalized groups. It unpacks arguments regarding the costs and benefits of school
+    closure. Finally, it makes three recommendations for how local decision makers, including district
+    officials and school board members, should center equity when considering whether and how
+    to close schools:
+
+            •   establish and execute an inclusive, transparent process;
+            •   implement a strategy to provide displaced students and the broader student
+                community with accessible, high-quality educational opportunities; and
+            •   develop a long-term plan to address factors—such as housing affordability,
+                gentrification, and economic divestment—contributing to the disproportionate closure
+                of schools serving low-income students and students of color.
+
+            Few education leaders want to confront school-closure decisions. But since enrollment
+    in California public schools is expected to continue to decline, these tough choices are
+    inevitable. With advanced planning and foresight, district leaders and their governing boards will
+    have a wider range of options for how they make these decisions and mitigate harm for their
+    communities’ highest need and historically marginalized students. This report neither argues for
+    a moratorium on school closures nor asserts that district finances supersede community needs
+
+
+4   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                                                       edpolicyinca.org
+
+
+
+
+    and preferences. Instead, we aim to provide evidence and suggestions that will help state
+    and local education leaders navigate school-closure processes and identify solutions that could
+    reverse the cycles of disinvestment that have caused school closures to affect students and
+    communities of color disproportionately.
+
+
+
+                                    Historical Context for School Closures
+
+            This report addresses school closures, not the full history of neighborhood-based
+    disparities and racial injustice.2 Those topics span generations and implicate housing, education,
+    and economic decisions, policies, and practices. Nevertheless, engaging with that history is
+    important and necessary because it gives context for why current educational opportunities
+    are unevenly distributed across communities and provides the backdrop against which school-
+    closure decisions occur.
+
+    Racially Restrictive Laws and Policies Segregated Neighborhoods and Schools
+
+             Schools slated for closure are often located in low-income, racially and economically
+    segregated neighborhoods. These patterns of segregation were created by city ordinances,
+    racial covenants, and exclusionary zoning that dictated where people of color could live (Baker
+    et al., 2022). The Federal Housing Authority deepened racial segregation by refusing to insure
+    mortgages that it considered risky. It created maps that color-coded neighborhoods based on
+    their purported lending risk, with supposed high-risk neighborhoods outlined in red. Black and
+    brown neighborhoods were habitually redlined across the country, blocking families in those
+    communities from accessing federally backed loans (Best & Mejia, 2022; Gross, 2017; Rothstein,
+    2017). This practice contributed significantly to the racial wealth gap, as White families often
+    purchased homes with federal support while Black and brown families could not (Lee, 2019).
+
+           Without access to the new suburban housing stock and often unable to purchase homes
+    even in their own communities, families of color were concentrated in specific parts of cities,
+    such as the South Side of Chicago, East Oakland, or Watts in Los Angeles. Even after legalized
+    segregation was outlawed and practices like redlining were banned, segregation endured
+    because Black, Latinx, and lower income families were priced out of predominately White and
+    higher income neighborhoods. Moreover, modern-day housing practices often work to sustain
+    segregation. For example, many cities restrict the development of multiunit housing (Badger &
+    Bui, 2019; Knapp et al., 2007), and federal housing programs like Section 8 vouchers often keep
+    low-income families in impoverished neighborhoods (Schwartz et al., 2016).
+
+
+
+    2
+     These issues are grappled with more deeply and completely in recent scholarship: The Color of Law (Rothstein, 2017); Ghosts in the
+    Schoolyard (Ewing, 2018); Children of the Dream (Johnson, 2019); Caste (Wilkerson, 2020); and The Sum of Us (McGhee, 2021).
+
+
+
+5   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                                                               edpolicyinca.org
+
+
+
+
+            In education, school district lines were drawn on top of segregated housing patterns.
+    A series of federal court rulings prohibited integration efforts across district lines, which
+    enabled wealthier, predominately White families to self-segregate and consolidate resources
+    and opportunities. Since generations of Black and Latinx families had been unable to accrue
+    housing wealth, having been blocked from participating in federally supported home-ownership
+    programs, they could not buy higher priced homes in more desirable neighborhoods with better
+    schools. Even within districts, enrollment zones follow segregated housing patterns. Decades
+    after Brown v. Board of Education (1954), schools in the United States are as segregated as they
+    were before that landmark decision (Orfield et al., 2019).
+
+    Inequitable and Inadequate Funding Led to Underresourced Schools
+
+            School finance systems can exacerbate inequities. Most states rely heavily on local
+    property taxes to fund their schools, which means that school districts in communities with
+    greater property wealth often receive more funding than districts in areas of lesser property
+    wealth, despite state efforts to equalize funding. This is somewhat less of an issue in California
+    because relatively few districts receive property taxes in excess of their state-established funding
+    targets.3 But this was not always true: Before the California Supreme Court ruled that the state’s
+    method of funding schools was unconstitutional in the Serrano v. Priest decisions in the 1970s,
+    local variation in tax wealth resulted in wide disparities in school funding.
+
+            Although equity in school funding has improved in California, there are still so-called basic
+    aid districts that generate and keep excess property tax revenue. In addition, higher income districts
+    generate more revenues through other means, such as facilities bonds and parcel taxes, which are
+    flat taxes imposed on a piece of land (Lafortune & Gao, 2022; Lang & Sonstelie, 2015). On top of
+    these persistent inequities, California schools have suffered from decades of underfunding. After
+    1978’s Proposition 13 capped property taxes, California’s per-pupil funding levels fell precipitously
+    (Murphy et al., 2022). From the mid-1980s through the economic recovery that followed the
+    Great Recession, California’s per-pupil funding levels regularly ranked between 25th and 35th
+    nationally (Lafortune & Herrera, 2022). Since then, total funding has improved, but when adjusted
+    for regional cost differences, California school funding still falls below the national average (Farrie
+    & Sciarra, 2022). As a result of this history, California’s lowest wealth communities, which are
+    often racially segregated, experienced decades of underinvestment in their schools, predisposing
+    them to the kinds of fiscal, structural, and demographic challenges that lead to school closures.
+
+
+    3
+     Under California’s Local Control Funding Formula (LCFF), the state calculates a funding target for each district, based chiefly
+    on the average daily attendance of students and the percentage of students who are low income, English learners, experiencing
+    homelessness, or in foster care. The local school district’s property taxes are first used to fill this “bucket,” and the state tops off the
+    remainder using state funds. In roughly 100 out of about 1,000 local educational agencies, local property taxes exceed LCFF targets.
+    These districts, called “basic aid districts,” get to keep the “spillover” funds. In California, property taxes are a smaller slice of the
+    school-funding pie than they are in many other states, in large part because of Proposition 13. Passed in 1978, Proposition 13 limits
+    property taxes to 1 percent of the purchase price. Although this policy has reduced disparities in the property tax revenue among
+    districts, it has also severely reduced tax revenues and decreased housing affordability.
+
+
+
+6   Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+    Gentrification Is Exacerbating Declining School Enrollments
+
+             Many of these previously underresourced neighborhoods are now being gentrified.
+    In cities like Los Angeles, Oakland, Sacramento, San Diego, and San Francisco, wealthier
+    residents, who are often White, are moving to urban centers, displacing Black and Latinx families
+    (Richardson et al., 2020). These newer residents tend to have fewer children, and those with
+    children often opt out of their local neighborhood schools—particularly if they perceive those
+    schools to be unsafe or low performing. Enrollment declines in these schools, and schools
+    remain racially segregated even as the surrounding area diversifies. In response, the school
+    district identifies these schools as underenrolled and therefore potential sites for closure.
+    Recent research demonstrated that “gentrification was associated with declining enrollment at
+    neighborhood schools” (Pearman, 2020).
+
+            Large, segregated, and gentrifying urban districts are not the only communities
+    experiencing enrollment declines that may force possible school closures. Smaller districts,
+    cities that serve more homogenous racial populations (including many predominately Latinx
+    communities), and wealthy suburbs also face shrinking school enrollments due to lower birth
+    rates and migration to other parts of the state or country. In these communities, historical housing
+    policies and gentrification trends may explain less of the enrollment decline. Nevertheless, district
+    policymakers may still need to confront issues of inclusion and fairness as they consider school
+    closures as a means of balancing their budgets.
+
+
+
+                              Declining Enrollment Trends in California
+
+           Enrollment in California public schools has declined for 5 consecutive years, mirroring
+    a slowdown in statewide population growth more generally. This slowdown is mostly due
+    to declining birth rates (Johnson & McGhee, 2021), reduced immigration (McGhee et al., 2021),
+    and out-of-state migration (McGhee et al., 2021), but it has been accelerated by the COVID-19
+    pandemic, which caused steep enrollment losses between 2019 and 2022 (D’Souza, 2023).
+    The pandemic forced school buildings to close temporarily, prompted some parents to switch
+    from public to private or homeschool enrollment, and contributed to out-of-state migration
+    (Dee, 2023). Some of those pandemic-induced changes were temporary. For instance, many
+    fewer California students were being homeschooled in 2022–23 than during the pandemic
+    (Fenterwald & Willis, 2023). Others, like migration patterns, appear more lasting. For the first time
+    since 2000, the state enrolls fewer than 6 million students (Lafortune & Prunty, 2022). All told,
+    California’s public school enrollment decreased by 6.3 percent between 2007 and 2021 and is
+    expected to decline an additional 9 percent by 2032 (Figure 1).
+
+
+
+
+7   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                    edpolicyinca.org
+
+
+
+
+     Figure 1. California K–12 Public School Enrollment From 2006 to 2021 and Forecast Through 2032
+
+                                          6.4
+
+
+                                          6.2
+
+
+
+
+    Census Day enrollment (in millions)
+                                          6.0
+
+
+                                          5.8
+
+
+                                          5.6
+
+
+                                          5.4
+
+
+                                          5.2
+
+
+                                          5.0
+
+
+                                          4.8
+                                            20
+                                            20
+                                            20
+                                            20
+                                             20
+                                            20
+                                            20  6
+                                               07
+                                               08
+                                               09
+                                               10
+                                               11
+                                               12
+                                          20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20 13
+                                               14
+                                               15
+                                               16
+                                               17
+                                               18
+                                               19
+                                               20
+                                               21
+                                             0
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20
+                                            20 22
+                                               23
+                                               24
+                                               25
+                                               26
+                                               27
+                                               28
+                                               29
+                                            20
+                                            20
+                                            20 30
+                                               31
+                                               32
+                                                                       Year
+
+                                                       Enrollment         Forcasted enrollment
+
+
+     Source. California Department of Education (CDE), DataQuest. Forecasted enrollment is based on California Department of
+     Finance projections.
+
+
+             Enrollment losses are not affecting every community equally though. Losses are
+     concentrated in coastal areas, including Southern California and the San Francisco Bay Area
+     (Lafortune & Prunty, 2022). Parts of Northern California and the Central Valley, conversely,
+     recently experienced enrollment gains (Lafortune & Prunty, 2022). Enrollment losses are also
+     affecting some student subgroups and school types more than others.
+
+     Enrollment Trends Among Racial and Ethnic Groups
+
+              Enrollment of Asian American, Latinx, and multiracial students increased during the past
+     10 years, both in raw numbers and as a share of the student population. This increase—about
+     214,000 students—was not enough to make up for the decline in the number of Black and
+     White students however. Between 2012 and 2021, enrollment of White students fell by more
+     than 309,000, a decline of 4.4 percentage points. During the same period, enrollment of Black
+     students fell by about 86,000, a drop of 1.3 percentage points, from 6.3 percent to 5.1 percent
+     of all students (Table 1).
+
+
+8    Centering Equity in the School-Closure Process in California
+    Policy Analysis for California Education                                                                           edpolicyinca.org
+
+
+
+
+    Table 1. Racial and Ethnic Composition of California’s K–12 Public School Enrollment in 2012
+    and 2021
+
+                                                  2012                             2021                             Change
+
+                                        Count        Percentage          Count         Percentage         Count           Percentage
+                                                                                                                            Points
+
+        American Indian/                39,777            0.7            26,814            0.5            –12,963             –0.2
+        Alaska Native
+
+        Asian American or              681,855           11.4           693,165            12.0           11,310               0.6
+        Asian/Pacific Islander
+
+        Latinx                        3,125,354          52.1          3,213,871           55.4           88,517               3.4
+
+        Black                          380,857            6.3           294,664            5.1            –86,193             –1.3
+
+        White                         1,566,388          26.1          1,256,571           21.7          –309,817             –4.4
+
+        Native Hawaiian or              33,951            0.6            25,038            0.4            –8,913              –0.1
+        other Pacific Islander
+
+        Two or more races              173,311            2.9           287,524            5.0            114,213              2.1
+
+        Overall                       6,001,493            –           5,797,647            –            –203,846        –3.4 percent a
+
+
+    Source. U.S. Department of Education, National Center for Education Statistics Common Core of Data, 2012–21.
+    Note. Based on aggregated school-level data, which affect the total enrollment because of data suppression for some schools. The
+    data are also limited to public schools, which include charter schools but exclude vocational, discipline, and other specialty schools.
+    a
+        This calculation represents a percentage change rather than a percentage point change.
+
+
+    Enrollment Trends in Traditional Versus Charter Schools
+
+            Enrollment in traditional public schools decreased even more rapidly than the statewide
+    figures suggest. While roughly 204,000 students left California’s public school system overall,
+    enrollment in the state’s charter school sector grew by nearly 279,000 students. As shown in
+    Figure 2, charters enrolled 6.8 percent of the state’s public school students in 2012. By 2021,
+    charters accounted for 11.8 percent. During the same period, enrollment in traditional public
+    schools decreased by 8.6 percent, or roughly half a million students. This is important to
+    understand because some people argue that charter schools have pulled students away from
+    traditional school districts. The data do suggest some movement from the traditional public
+    schools to charters. We estimate that, on the high end, up to 58 percent of the decline in
+    enrollment in traditional public schools could be attributed to transfers to charter schools.
+    However, that assumes that all of the increase in charter school enrollment came from students
+    transferring from California-based traditional public schools, which is unlikely. This means that
+    roughly half of the decline in enrollment is for reasons other than moving to charter schools,
+    such as changing birth rates and migration patterns.
+
+
+
+9   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                           edpolicyinca.org
+
+
+
+
+     Figure 2. Traditional and Public Charter School Enrollment Trends in California, 2012–21
+
+                             100
+
+
+
+
+                             80
+
+
+
+
+     Percentage enrollment
+                             60
+                                                     92         91         91           90      90         89         89        88
+                                   93     92
+
+
+                             40
+
+
+
+
+                             20
+
+
+
+                                                                 9          9            10      10        11          11       12
+                                    7      8          8
+                              0
+                                   2012   2013      2014       2015       2016          2017   2018       2019        2020     2021
+                                                                                 Year
+
+                                                  Charter school enrollment  Traditional public school enrollment
+
+     Source. U.S. Department of Education, National Center for Education Statistics Common Core of Data, 2012–21.
+     Note. Based on aggregated school-level data, which affect the total enrollment because of data suppression for some schools.
+     The data are also limited to public schools and exclude vocational, discipline, and other specialty schools.
+
+
+
+
+                                                 School-Closure Trends in California
+
+             School closures have been relatively uncommon during the past 10 years. In any given
+     year, only about 50 to 80 schools were closed. For reference, in 2021 California had about 9,000
+     traditional public and 1,300 charter schools. As shown in Figure 3, 687 schools were shuttered
+     between 2012 and 2021. Of those, 44 percent were traditional public schools and 56 percent
+     were charter schools, making charter schools more likely to experience closure than traditional
+     schools. That said, new charter schools were also more likely to open during this period. In fact,
+     for every charter school that closed between 2012 and 2021, an average of 1.75 charter schools
+     opened. By contrast, for every traditional school that closed, another 1.2 schools opened.
+
+
+
+
+10   Centering Equity in the School-Closure Process in California
+      Policy Analysis for California Education                                                                          edpolicyinca.org
+
+
+
+
+      Figure 3. Annual Closures of Traditional Public Schools and Charter Schools in California, 2012–21
+
+                                100
+
+                                                    89
+
+                                                                                                             81
+                                80    78     78
+                                                                                                 74                    75
+
+
+
+
+     Number of schools closed
+                                                    40                                                      23
+
+                                60                                                              24                     26       58
+                                                                           56
+                                       47    50                 51
+                                                                                        47
+                                                                           24
+                                40                              19                       13                                     35
+
+
+                                                                                                            58
+                                                    49                                          50                    49
+                                20
+                                       31                       32         32           34
+                                             28
+                                                                                                                                23
+
+
+                                 0
+                                      2012   2013   2014       2015       2016          2017   2018         2019      2020     2021
+                                                                                 Year
+
+                                                            Charter schools  Traditional public schools
+
+      Source. U.S. Department of Education, National Center for Education Statistics Common Core of Data, 2012–21.
+      Note. The data are limited to public schools and exclude vocational, discipline, and other specialty schools.
+
+
+             Approximately 167,000 students attended a school that was closed between 2012 and
+      2021. On average, roughly 17,000 students were displaced each year during the past decade,
+      representing about 0.3 percent of the state’s public school enrollment.
+
+             Interestingly, school closures did not increase dramatically even as California’s enrollment
+      began to decline in 2017. While there were more school closures than in the previous 3 years, the
+      number of shuttered schools was in line with levels from earlier in the decade. It is possible that
+      the higher rates of school funding provided through the Local Control Funding Formula (LCFF)
+      as well as 2012’s Proposition 30 and 2016’s Proposition 55—which increased sales and income
+      taxes to fund schools—allowed schools to operate below capacity for longer. Similarly, the large
+      infusion of pandemic-relief funding that districts received in recent years may also temporarily
+      be staving off school closures during this period of steep declining enrollment. Finally, state hold-
+      harmless provisions that protected districts from enrollment-related funding declines during the
+      pandemic may have delayed decisions to close schools.
+
+
+
+
+11    Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                                       edpolicyinca.org
+
+
+
+
+     Disparities by Student Subgroups
+
+            Since White students are leaving the public education system in the highest numbers,
+     we might expect that the highest number of closures would be in schools predominantly
+     serving White students. This is not the case. Figure 4 shows student demographics in closed
+     schools compared with statewide enrollment levels. White students accounted for 23 percent of
+     California’s students between 2012 and 2021 and were 24 percent of displaced students. Latinx
+     students were somewhat less likely to experience a school closure than their numbers might
+     suggest. They represented 54 percent of state students but only 47 percent of displacements.
+
+     Figure 4. Student Demographics in Closed Schools Compared With Statewide Enrollment Levels
+
+                             70
+
+
+
+                             60                                                                                                           58.5
+                                                                      53.8                                                                       52.8
+
+                             50                                47.3
+
+
+
+
+     Percenage of students
+                             40
+
+
+
+                             30
+                                                                                             23.8 23.0
+
+                             20
+                                                                                13.7
+                                                        11.6
+                             10                                                                                             7.4
+                                                  5.1                                  5.4
+                                                                                                                                  3.7
+                                    0.9   0.6                                                               0.6   0.5
+                             0
+                                    American       Asian        Latinx            Black       White      Native Hawaiian      Two       Economically
+                                     Indian/      American                                                   or other       or more     disadvantaged
+                                  Alaska Native                                                          Pacific Islander    races
+
+                                                                                   Student subgroup
+
+                                                                              Closed schools  Statewide
+
+     Source. U.S. Department of Education, National Center for Education Statistics Common Core of Data, 2012–21.
+     Note. Based on aggregated school-level data, which affect the total enrollment because of data suppression for some schools.
+     The data are limited to public schools and exclude vocational, discipline, and other specialty schools. Enrollment counts are derived
+     from the previous year; for example, for a school that closed in 2020, the enrollment for this analysis is based on 2019 levels.
+     Statewide enrollment percentages are totaled across the 10 years in the analysis.
+
+
+
+
+12   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                         edpolicyinca.org
+
+
+
+
+            Native, Pacific Islander, Black, multiracial, and economically disadvantaged students, on
+     the other hand, disproportionately experienced school closure. Multiracial students were nearly
+     twice as likely to attend a shuttered school as their statewide enrollment would suggest. Black
+     students were more than 2.5 times as likely.
+
+     Disparities by Geographic Locale and Charter Status
+
+             Location also plays a role in which students experience school closures. Of the students
+     who experienced a school closure during the past decade, 50 percent attended school in a
+     city. The racial and economic disparities shown in Figure 4 may be explained, in part, by the fact
+     that urban schools disproportionately enroll students of color and economically disadvantaged
+     students. Schools in those geographic areas also experienced a greater enrollment decline
+     between 2012 and 2021.
+
+            There were significant racial disparities within locales as well. As shown in Table 2, White
+     students make up 19 percent of all students who attend school in a city, but they account for
+     only 8 percent of students enrolled in a closed school in those cities. On the other hand, Black
+     and Latinx students in cities are significantly overrepresented in closed schools.
+
+     Table 2. Enrollment in Closed Schools by Race/Ethnicity, Urbanicity, and Charter Status
+
+                           Percentage of White Students          Percentage of Black Students          Percentage of Latinx Students
+
+                           Overall        Closed schools         Overall        Closed schools         Overall        Closed schools
+
+      City                  19.3                8.0                6.0               11.3               56.1               71.1
+
+      Rural                 36.5               28.8                2.8                2.1               47.6               64.2
+
+      Suburb                24.8               20.2                5.3               15.9               51.2               54.3
+
+      Town                  29.5               54.1                2.6                0.0               58.8               38.3
+
+      Charter               28.2               29.0                7.9               16.0               48.9               40.5
+
+      Not charter           23.4               16.8                5.4               10.6               54.2               56.4
+
+      Statewide             23.0               23.8                5.4               13.7               53.8               47.3
+
+
+     Source. U.S. Department of Education, National Center for Education Statistics Common Core of Data, 2012–21.
+     Note. Based on aggregated school-level data, which affect the total enrollment because of data suppression for some schools. The
+     data are limited to public schools and exclude vocational, discipline, and other specialty schools. Statewide enrollment percentages
+     are totaled across the 10 years in the analysis.
+
+
+             It is also the case that Black students disproportionately attend charter schools, that
+     charter schools are disproportionately located in urban areas, and that charter schools are more
+     likely to be closed. These factors compound to place Black students at an increased risk of
+     experiencing a school closure.
+
+
+13   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+     Disparities by District
+
+              Because district boards are vested with making decisions to close schools, it is important
+     to understand disparities within districts. Between 2012 and 2022, 16 districts closed five or
+     more traditional public schools, accounting for 32 percent of all school closures. In 12 of these
+     16 districts, Black students were overrepresented among shuttered schools. The disparity was
+     particularly large in Los Angeles Unified, Oakland Unified, and Compton Unified school districts.
+     In 7 of the 16 districts, Latinx students were more likely to attend a closed school than their share
+     of the district’s enrollment would suggest. The disparity is most pronounced in San Diego Unified
+     School District, where Latinx students are 47 percent of the student population but 67 percent of
+     students whose school was closed. In the majority of the districts, White students were far less
+     likely to experience school closure than their peers. Asian American and Pacific Islander students
+     rarely experience school closure at a rate greater than their district enrollment levels suggest. See
+     the Appendix for data on the racial and ethnic impacts of school closure within the 16 districts in
+     California with the most closed schools during the past decade.
+
+
+
+            How California Policymakers Have Addressed Declining Enrollment
+                                  and School Closures
+
+              Over the past several years, California has mitigated the financial repercussions of declining
+     enrollment by pumping massive amounts of state and federal dollars into schools. A healthy
+     economy between 2018–19 and 2021–22 meant that state and local funding for schools and
+     community colleges surged by nearly 40 percent (Legislative Analyst’s Office, 2023). The state has
+     also taken advantage of the significant influx of federal COVID-19 relief funds, which have given
+     district budgets a considerable boost; those federal funds first hit district budgets in the 2020–21
+     school year and must be fully spent by 2024 (U.S. Department of Education, 2022). Although
+     economic growth has slowed, Governor Gavin Newsom has maintained funding levels for schools
+     in 2023–24, including a cost-of-living adjustment meant to keep pace with inflation.
+
+             In recent years, policymakers have sought to increase fiscal safeguards. Since the Great
+     Recession, the state has built up its reserves and its rainy day fund for schools. To soften the
+     fiscal blow for districts experiencing declining enrollment, Governor Newsom changed the LCFF
+     formula in 2022–23 to allow districts to calculate average daily attendance using a 3-year average
+     rather than just a single year. With this switch, funding in shrinking districts will decline more
+     gradually than it otherwise would.
+
+             Despite these recent boosts in funding and fiscal safeguards, some districts have faced
+     significant budgetary pressure because of declining enrollment and other factors. In these
+     cases, school consolidations and closures are often used as a mechanism for reducing costs
+     and rightsizing a district. In fact, school consolidations are among the recommendations that
+     California’s Fiscal Crisis and Management Assistance Team (FCMAT) has made to ailing school
+
+
+14   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                   edpolicyinca.org
+
+
+
+
+     districts like Oakland Unified, Inglewood Unified, and Vallejo City Unified. FCMAT, an agency
+     charged with assisting County Offices of Education with supporting districts in fiscal distress,
+     reviews district budgets and recommends actions that will help districts achieve fiscal stability.
+
+             Policymakers and state leaders have also offered guidance on school closures. The
+     legislature has expressed its intent for districts to involve the community before making decisions
+     about closing schools, and it says that districts may (not shall) use a District Advisory Committee
+     (DAC) to advise the governing board on the use or disposition of school buildings (Cal. Education
+     Code §17387 et seq., 1996). Although not legislatively required, a DAC is intended to help districts
+     gather information and community perspective regarding the impacts of a school closure in the
+     context of a district’s Facility Master Plan (California Department of Education, 2023). A DAC is
+     also known as a “7–11 Committee” since they are statutorily required to have at least 7 but no
+     more than 11 members. To support districts in navigating school-closure decisions, the California
+     Department of Education (CDE) has issued Closing a School Best Practices Guide. This guide
+     includes chapters on gathering facts, deciding which school(s) to close, making the decision,
+     supporting the transition, and disposing of school property. None of this CDE guidance is binding.
+
+            State leaders have begun to weigh in more explicitly on the role of equity in school
+     closures. In 2022, Governor Newsom signed into law a bill authored by Assembly Member
+     Mia Bonta requiring that districts, if in fiscal distress, perform an “equity impact analysis” before
+     approving the closure or consolidation of a school (Cal. Education Code §41329, 2022). This bill
+     currently applies to just a handful of school districts that meet the state’s “fiscal distress” criteria—
+     which means they have accepted emergency apportionments from the state and have not yet
+     paid them off (California Department of Education, 2022).
+
+            To remove any question as to whether all districts, not just those in fiscal distress, must
+     abide by equal protection laws when considering school closures, Attorney General Rob Bonta
+     issued guidance in April 2023. In this guidance, he declares it “essential that school closure
+     decisions comply with federal and state civil rights laws” (Bonta, 2023), and he describes the
+     ways in which closures are governed by Assembly Bill 1912 and a variety of state and federal
+     antidiscrimination mandates.
+
+            A recent lawsuit filed by the Mexican American Legal Defense and Educational Fund
+     (MALDEF) in Pasadena Unified School District may test some of the ideas laid out by Attorney
+     General Bonta (Chavez et al. v. Pasadena Unified School District et al., 2022). The suit claims that
+     by closing three schools that predominantly serve Latinx students, the district violated California’s
+     Equal Protection Clause. MALDEF alleges that Pasadena Unified did not account for “basic racial
+     equity” when making its decision.
+
+            Districts in fiscal distress may now find themselves in a predicament. LCFF has, in theory,
+     given them local control over their resources. Advice and oversight agencies like FCMAT
+     and the County Office of Education may be recommending or even requiring school closures.
+
+
+15   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                 edpolicyinca.org
+
+
+
+
+     And the legislature and Department of Justice may be requiring a complex series of steps to ensure
+     that these closures have no disparate impact on students of color and other protected groups.
+     Against this backdrop, district leaders must manage the always-challenging local politics and
+     tensions that come with closures. How districts navigate this policy gauntlet remains to be seen.
+
+
+
+                                Examining Rationales for School Closure
+
+              School closures are extremely challenging for all stakeholders involved, including both
+     district leaders and community members.
+
+              For district leaders, declining enrollment eventually creates a budget problem that must
+     be addressed. As districts lose students, they receive less revenue but operate the same number
+     of schools, which come with fixed costs as well as costs that take time to reduce, like teaching
+     positions. This results in higher per-student costs in underenrolled schools than in schools that
+     are filled to capacity. Absent major changes to school funding structures or service offerings,
+     districts can operate underenrolled schools for only so long before the situation becomes
+     financially untenable. School closure or consolidation is a logical and sometimes necessary
+     strategy to align a district’s enrollment with its building resources and fiscal capacity.
+
+             For students, teachers, families, and communities, a school closure is an upsetting and
+     destabilizing event. It can displace students and educators from familiar settings, force families
+     to travel longer distances to school, disrupt teaching and learning as well as social-emotional
+     well-being, and change the character of a neighborhood. Students of color and low-income
+     students, often already underserved by their public schools, are more likely to lose access to their
+     neighborhood schools. Given these many potential impacts, it is understandable that stakeholders
+     often mount resistance to school closures. Many families and community members argue that
+     instead of shuttering the school, the district should invest in it to support students, improve the
+     quality of education, increase enrollment, and maintain a school within the neighborhood.
+     To support those investments, they urge the district to find money or make cuts elsewhere.
+
+             Faced with the possibility of a school closure, the perspectives of district leaders and
+     community members can come into conflict. In general, there are two main reasons why school
+     districts contemplate closing schools when enrollment declines. First and most often, when
+     a district needs to close a structural budget gap, school closure or consolidation is used as a
+     strategy to help achieve fiscal sustainability. Second, if a district is already struggling to rightsize
+     its enrollment with its budget, it may regard closure as a means to improve both educational
+     opportunities and quality. To help stakeholders navigate school closures, this section explores
+     these two lines of reasoning and the evidence available for each of them.
+
+
+
+
+16   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+     By Closing or Consolidating Underenrolled Schools, the District Can Achieve
+     Fiscal Sustainability
+
+            When considering the budget implications of declining enrollment, district leaders decide
+     how best to align their school infrastructure and resources with the number of students they
+     serve. Districts often rely on various utilization metrics to identify underenrolled schools, such as
+     enrollment relative to capacity or “density,” which refers to the number of students per square
+     foot of space (National Center for Education Statistics, 2003). Most districts aim to fill classrooms
+     to maximum capacity relative to physical space and to class-size ratio caps spelled out in collective
+     bargaining contracts and, in some cases, in state law.
+
+             The general rule is that it is more costly to operate a school with too few students. The
+     major reason, from the district’s perspective, is that an underenrolled school leads to inefficient
+     personnel deployment, whether or not there are instructional benefits to smaller student-to-staff
+     ratios. Classrooms with empty seats still need a teacher, which means that the per-student cost
+     of instruction is higher in underenrolled schools. Consider a hypothetical district with a maximum
+     student–teacher ratio of 25:1 for grades K–5. In this example, schools with 600 and 480 students
+     each need, at minimum, four teachers for each of their six grade levels (assuming students are
+     spread evenly across the grades). On a per-student basis, the cost of four teachers per grade is
+     markedly lower in the first school than in the second. Moreover, the second school does not
+     receive as much funding, but it nevertheless maintains the same teacher-salary costs. The reduced
+     costs corresponding with fewer students can only be achieved once enrollment has dropped
+     sufficiently at a given grade level. Only then can schools reduce teaching positions accordingly,
+     but those savings lag the budgetary loss. In addition, administrative costs are relatively fixed. For
+     example, a school needs a principal whether that school enrolls 150 or 600 students. It may also
+     need an office manager, cafeteria workers, and various other positions that are difficult to reduce
+     in proportion to enrollment declines. By closing a school and relocating students, the district is
+     usually able to eliminate positions and save ongoing personnel-related costs.
+
+             Also, physical school infrastructure generally incurs a set cost annually. For example,
+     heating and cooling costs depend on the building, not the number of students enrolled. These
+     costs are unlikely to vary significantly even if enrollment drops dramatically. Maintenance, repair,
+     and custodial costs function similarly. When a school’s enrollment decreases, the cost for each
+     of these services increases per student. By closing a school, the district may be able to reduce
+     ongoing utility and maintenance-related costs—although these cost savings also depend on what
+     the district chooses to do with the vacant property.
+
+            Weighing the evidence: To what extent do school closures save the district money?
+     Although the level of savings will vary by district size and urbanicity, districts often overestimate
+     the cost savings of closing a school (Pew Charitable Trusts, 2011, 2013). In addition, the overall
+     savings may represent a small fraction of a district’s budget—an amount that may or may not be
+     meaningful, depending on the size of the district’s current and projected budget gap. Research
+
+
+17   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+     on closure-related cost savings is scant, but one analysis of six large urban school districts found
+     that, on average, districts that closed schools saved—over the short term—“well under $1 million
+     per school” each year (Pew Charitable Trusts, 2011), an amount that could be significant in a small
+     district but negligible in a large district.
+
+              Recent budget figures from two districts offer additional insight. In Oakland Unified,
+     the district projected that it could save between $4 million and $15 million—roughly 2 percent
+     of its revenues—by closing eight campuses over 2 years and consolidating another six schools
+     (McBride, 2022). Jeffco Public Schools in Colorado estimated as much as $12 million in savings
+     after voting to close 16 elementary schools in late 2022 (Robles, 2022). To put this into context,
+     those savings corresponded to about 1.4 percent of the estimated $835 million in the district’s
+     General Fund revenues (Jeffco Public Schools, 2021).
+
+            School closure typically does not produce dramatic savings, at least in the near term, for
+     several reasons.
+
+             First, closing a school does not necessarily result in an immediate and substantial
+     reduction in staff positions. While some administrative and classified positions may be reduced
+     immediately, displaced certificated personnel, which make up the largest share of a district’s
+     budget, are often reassigned to other schools. As a result, staff salaries do not automatically
+     decrease after closing a school. Savings can be realized, however, if the closures are paired with
+     layoffs (Pew Charitable Trusts, 2011). The same six-district study mentioned previously found that
+     Pittsburgh saved $14.7 million after closing 22 schools and laying off 279 staff members: a savings
+     of 2.7 percent. Of course, layoffs—like school closures—are politically unpopular. Discussing
+     layoffs at the same time as closures could make an already difficult situation even more toxic.
+
+            Second, districts do not always account for the one-time costs that come with closing
+     schools. Districts must move school resources, such as desks, computers, and books, to
+     new locations. The schools receiving the displaced students may also need adjustments or
+     renovations to accommodate the influx of new students (Pew Charitable Trusts, 2011). Displaced
+     students may need additional services to smooth their transition and support their academic
+     or social-emotional well-being. Displaced teachers may need more professional development,
+     depending on their new school or subject-area assignment. In addition, districts may need to pay
+     higher transportation costs when relocating students to new school sites; this is especially true
+     for students with exceptional needs.
+
+             Finally, there are ongoing costs that come with managing surplus property. If renting or
+     repurposing a school, the district may need to pay taxes and manage the upkeep of the building.
+     There may also be substantial short-term costs associated with selling the surplus property. The
+     sale of surplus property is governed by a complex set of state laws (Cal. Education Code §17385
+     et seq., 1996), and it may take years to find a suitable buyer. Kansas City, for example, spent nearly
+     $3 million a year to manage vacant buildings pending their sale (Pew Charitable Trusts, 2013).
+
+
+18   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                              edpolicyinca.org
+
+
+
+
+     Selling unused buildings is often complicated and may not recoup as much money as anticipated.
+     In 2013, Philadelphia leaders pledged to raise more than $60 million in building sales, but they
+     generated only $24 million (Benshoff, 2015). More recently, $67.6 million in building sales in
+     Philadelphia netted only $42 million because of closing costs as well as the fact that local bonds
+     complicated and raised the costs associated with selling schools.
+
+     By Closing or Consolidating Schools, the District Can Improve Educational Opportunities
+     and Quality
+
+             Although families and teachers usually appreciate smaller classes, which allow for
+     individualized attention, district leaders may contend that underenrolled schools face problems
+     when it comes to economies of scale and that these problems compromise the overall quality
+     of education that the district can offer. Where underenrolled schools are also low performing or
+     suffering from staffing instability, districts leaders may see closure or consolidation as a way to
+     offer students in those schools better educational opportunities. This may be especially true in
+     a time when many districts are struggling to recruit and retain quality educators; consolidation
+     could help ease problems related to staffing shortages.
+
+            To understand the economies-of-scale argument, we need to begin with an explanation
+     of how resources flow from districts to school sites. The majority of a district’s budget (roughly
+     80 percent) is spent on staffing (Cornman et al., 2021). This makes staff the primary resource
+     worth examining. Most districts use standardized staffing formulas to allocate staff to schools
+     based on the number of students they enroll. For instance, a middle school may get one teacher
+     for every 30 students, one principal regardless of size, and one assistant principal once the school
+     exceeds a certain enrollment threshold. The school may receive clerical support staff, counselors,
+     coaches, and other positions based on size. Some districts allocate additional personnel or
+     guarantee smaller class sizes to schools that have student populations with higher needs, but
+     even then, money is almost always allocated on a per-enrollment basis.
+
+             These funding structures mean that in most districts, schools with fewer students get
+     fewer resources to maintain staff and programming. As a result, small and underenrolled schools
+     may struggle to offer as many classes, electives, or extracurricular activities as larger schools.
+     They may be less able to provide support services for students, such as counseling, tutoring,
+     and health and wellness services. District leaders may see school consolidation as a way to
+     concentrate resources in a manageable number of school sites, thereby ensuring that every
+     student attends a well-resourced school, rather than spreading resources thinly over too many
+     sites. This may or may not be a shared value across the community. For instance, some families
+     may be willing to exchange a breadth of offerings for other benefits, such as smaller class size or
+     a school within walking distance.
+
+           While the economies-of-scale argument is usually about strengthening districtwide
+     opportunities, school closures can also be about addressing performance issues in specific schools.
+
+
+19   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                            edpolicyinca.org
+
+
+
+
+     It is no coincidence that underenrolled schools are often (though not always) underperforming,
+     particularly in urban communities. Because of segregation, gentrification, and historical
+     underinvestment, schools with declining enrollment disproportionately serve students and
+     communities that already face a range of challenges. High-poverty schools, for example,
+     generally offer less rigorous academic courses even when they receive more resources
+     (Lee et al., 2021). Moreover, such schools are disproportionately staffed by less experienced
+     educators and have higher turnover and vacancy rates (Carver-Thomas & Darling-Hammond,
+     2017). Individually and collectively, these factors decrease the quality of education provided
+     to low-income students. Because of neighborhood segregation and address-based school
+     assignments, students of color and low-income students are also far more likely to attend these
+     underresourced schools than their White and wealthier peers.
+
+            When these school-level inequities combine with community-level disparities in housing,
+     health care, employment, public safety, transportation, and more, a school is more likely to
+     experience poor academic performance as well as enrollment declines. District leaders may see
+     school closure or consolidation as an opportunity to break these patterns and provide students,
+     particularly high-need students, with higher quality education.
+
+            Weighing the evidence: How do school closures affect achievement and other
+     outcomes? The evidence on the impact of school closure on students’ academic performance
+     is mixed (Barnum, 2019; Gordon et al., 2018; Kemple, 2015; Larsen, 2020). When districts
+     close schools, there is often no guarantee that displaced students will attend a better school or
+     receive higher quality education. Some researchers have found that school closure results in
+     an immediate drop in performance for displaced students (Barnum, 2019; Gordon et al., 2018;
+     Larsen, 2020). For example, after Chicago closed dozens of schools, the academic performance
+     of the displaced students suffered, particularly during the first year the closure was announced.
+     Math achievement suffered over the long term for displaced students. Students in the receiving
+     schools saw their reading performance decrease (Gordon et al., 2018).
+
+             Displacement can also be disruptive to students and costly to their social-emotional well-
+     being. Increasing student mobility by reassigning students to new schools can lead to negative
+     behavior and higher absence rates, which in turn can have academic consequences (Gordon et
+     al., 2018; Steinberg & MacDonald, 2019).
+
+            Conversely, some studies have found positive student outcomes after school closures,
+     such as in Ohio and New Orleans (Bross et al., 2016; Carlson & Lavertu, 2015). In some cases,
+     research finds that an initial drop in student performance prompted by a school closure can be
+     mitigated over time as the initial shock and consequences of the disruption wear off (de la Torre
+     & Gwynne, 2009; Engberg et al., 2012). Attending a higher quality school than the one that was
+     closed is critically important to improving student achievement.
+
+
+
+
+20   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                edpolicyinca.org
+
+
+
+
+             How districts decide to approach school closure and processes for reassigning students
+     can determine whether student achievement improves or suffers. For example, New York
+     City employed a “phaseout” approach rather than eliminating schools outright. Evidence from
+     that effort found that displaced students tended to go to marginally better high schools. After
+     transferring, they also had slightly better academic performance and demonstrably better
+     graduation rates than a comparison group of students (Kemple, 2015).
+
+              School closures affect not just students but also the broader community. Schools are
+     important neighborhood institutions, and closing them weakens the community’s social fabric,
+     fractures friendships, and likely breaks student–teacher relationships (Good, 2019; Kirshner
+     et al., 2010). Eve L. Ewing (2018) describes an often-extended period of mourning after a school
+     closes, particularly in vulnerable communities that rely more heavily on public institutions
+     (Emmanuel, 2018).
+
+              School closures, particularly in urban settings, can exacerbate racial segregation. An analysis
+     of school closure and the rezoning of elementary attendance boundaries in Richmond, Virginia,
+     found that the reforms resulted in a significant increase in racial segregation (Siegel-Hawley
+     et al., 2017). The authors found that the rezoning plan was put together hastily without public
+     consultation by “the school system’s consultant on rezoning ‘over the weekend at the request of
+     two the school board members.’” In that process, White families “wielded outsized influence.”
+     As a result, attendance zones were expanded in such a way that deepened racial segregation.
+
+            School closures have also been shown to contribute to the gentrification of Black
+     neighborhoods (Pearman & Greene, 2021). A study of all urban school closures from 2000
+     to 2012 found that school closures “increased the likelihood that the most segregated Black
+     neighborhoods experienced gentrification by 9 percentage points.” The authors argue that
+     a school closure “lessen[s] the aversion that white households have for moving into a Black
+     neighborhood.”
+
+
+
+                                                Recommendations
+
+            Amid rapidly declining school enrollment, school closures and consolidations are
+     inevitable. District leaders may not be able to avoid the pain that comes with school closures, but
+     they can take measures to prevent or mitigate the disproportionate impact these closures may
+     have on students of color and low-income students. Leaders can also seek to build trust, provide
+     displaced students with access to higher quality educational opportunities, and address root
+     causes of inequities.
+
+
+
+
+21   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                              edpolicyinca.org
+
+
+
+
+     Learning From Past School Closures
+
+            To identify strategies to center racial and socioeconomic equity in the school-closure
+     process, we studied past episodes of school closures, focusing on how districts identified schools
+     for closure and how they engaged community partners. Our study included a review of school-
+     closure incidents in California, including Oakland Unified, Pasadena Unified, Azuza Unified,
+     and Alum Rock Union Elementary, as well as beyond California in Chicago Public Schools,
+     Philadelphia City School District, Denver Public Schools, and Jeffco Public Schools in Colorado.
+     We reviewed research, news coverage, district documents, and other sources to learn about
+     the consequences of school closures on district budgets, communities and neighborhoods,
+     displaced students, and students attending receiving schools.
+
+            We also conducted 11 interviews with practitioners, parent organizers, policymakers,
+     and researchers. We focused principally on (a) the causes of declining enrollment, (b) districts’
+     processes for identifying schools for closure and reassigning students, (c) districts’ outreach and
+     community-engagement efforts, (d) how school closures affected students and communities,
+     and (e) how districts could more effectively and equitably support students and communities
+     when making school-closure decisions.
+
+             We found that the process of closing schools has been excruciatingly difficult in districts
+     across the country for all stakeholders involved. In some cases, community stakeholders say
+     that districts misled or alienated families and educators. When closing lower performing schools,
+     districts have often reassigned students to nearby schools that perform about as poorly as the
+     ones that were shuttered. In many places, these experiences have strained community as well as
+     labor–management relationships.
+
+              Based on this research as well as our review of the evidence on how closures affect
+     district budgets and student outcomes, we make three recommendations. First, district leaders
+     can engage with students, teachers, parents, and other stakeholders through an inclusive
+     process to understand their vision for effective education of their children. Second, districts
+     can implement forward-looking strategies to provide displaced students and the entire school
+     community with high-quality educational opportunities. Third, districts can develop a long-term,
+     cross-sector plan to address declining enrollment as well as the underlying policies and factors
+     contributing to community-level racial and economic inequities. (Note that some of these
+     suggestions are included in CDE’s Closing a School Best Practices Guide, 2023).
+
+
+
+
+22   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                 edpolicyinca.org
+
+
+
+
+     Recommendation 1: Establish and Execute an Inclusive, Transparent Process for
+     School Closure
+
+             If districts are considering closing schools, they should thoughtfully plan and execute
+     an inclusive, transparent process that engages a wide range of stakeholders. Closing a school
+     is a significant community event with considerable consequences for neighborhoods, families,
+     students, and educators. Those stakeholders will want to be heard and will want their views on
+     how the district can best meet their needs to be considered.
+
+             To ensure the process is inclusive, district leaders should do the following:
+
+             •   Provide ample time and opportunities for community engagement. Before and
+                 during the closure process, districts should hold multiple events in person and in
+                 online forums to actively solicit community participation. These events should be
+                 available in multiple languages. Districts should ensure that the events are held at
+                 times and locations suitable for working parents and even provide childcare support.
+                 These meetings should be publicized far enough in advance for people to plan to
+                 attend them, and the district should avoid moving meeting times and locations at short
+                 notice. Districts should create other accessible, multilingual ways for stakeholders
+                 to offer input, such as surveys, phone calls, or a process to gather online comments.
+                 Whatever the format, the district should not assume that all families have access
+                 to internet connectivity. Jefferson County Public Schools in Colorado offers one
+                 example. Before voting to close 16 schools in 2022, the district held two in-person
+                 meetings at each school site slated for closure, with meeting times and locations
+                 published well in advance of the events. Each school had a committee that included
+                 parents, staff, and principals from the closing and receiving schools. The district also
+                 issued a survey that received 2,400 comments (Keystone Policy Center, 2022).
+
+             •   Provide opportunities for stakeholders to influence the process and result. Public
+                 engagement itself is important, but for it to be meaningful there must be the possibility
+                 that stakeholders can affect the contours of the final policy. District leaders should
+                 make clear how public comments will affect the final closure decision. This includes
+                 stakeholders’ ability to influence the list of schools slated for closure, the timeline, the
+                 district’s policies for student reassignment, and the opportunities afforded to displaced
+                 students.
+
+
+
+
+23   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                 edpolicyinca.org
+
+
+
+
+             To ensure the process is transparent, district leaders should do the following:
+
+             •   Establish and share clear, values-based criteria that the district will use when
+                 identifying schools for closure. Stakeholders will want to understand exactly how the
+                 district selected schools for closure. The criteria and data should be transparent and
+                 made available sufficiently in advance of public meetings. Stakeholders will also want
+                 to know what values guided the decision. For instance, how will the closure serve
+                 students’ educational needs, increase access to high-quality educational opportunities,
+                 or advance racial or economic integration? Unspecified values and opaque criteria
+                 guiding the identification process may lead to confusion, competition, and resentment.
+
+             •   Share information about demographic and enrollment trends in the district to
+                 provide context. Districts should explain how and why enrollment patterns have
+                 changed historically and how they are expected to change in the future. This should
+                 include analysis of demographic shifts, migration patterns (if possible), trends in the
+                 number of educational options beyond traditional public schools (including charter
+                 schools, private schools, and homeschools), and other contextual factors that help
+                 explain the current situation.
+
+             •   Share information about the demographics and characteristics of affected schools,
+                 neighborhoods, and students. Districts should be transparent about which schools
+                 and neighborhoods will be affected and should share school-level data on the racial,
+                 economic, and linguistic characteristics of the students served by these schools. They
+                 should also compile and share information about the characteristics of the schools
+                 slated for closure and how they compare to other district schools, including the
+                 potential receiving schools. These data should include information about enrollment,
+                 class size, program and course offerings, and current commute times and bus routes.
+                 These data should be shared and discussed during public meetings and should be
+                 easily accessible on the district’s website.
+
+             •   Share information about student growth, achievement, and other outcomes at the
+                 schools slated for closure and the potential receiving schools. Since high test scores
+                 may result from a school serving a high-income community rather than the caliber
+                 of education that the school provides, the district should share growth data to help the
+                 public understand the school’s impact on student learning. It should also share other
+                 outcome measures, such as chronic absenteeism rates, suspension rates, high school
+                 graduation rates, rates of access to and completion of the A–G courses required
+                 for students to be eligible to attend a public 4-year university, and the results of locally
+                 administered surveys and assessments that enable meaningful comparisons of
+                 school sites.
+
+
+
+
+24   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+     Recommendation 2: Implement a Strategy to Provide Displaced Students and the Broader
+     Student Community With Accessible, High-Quality Educational Opportunities
+
+              When closing schools, district leaders should focus on how to do so in a way that improves
+     academic quality throughout the district. There are at least two ways districts can approach this.
+     First, they can ensure that displaced students end up in schools that support academic success as
+     well as social-emotional well-being. This approach focuses on not just mitigating harm but also
+     improving opportunities for affected students. Second, while consolidating or downsizing, districts
+     can address broader issues related to equal opportunity and student needs. Essentially, district
+     leaders can use the consolidation conversation as an entry into a broader strategic conversation
+     about how to improve the provision of services districtwide.
+
+             District leaders can take the following actions:
+
+             •   Improve racial and economic integration. Racially and socioeconomically integrated
+                 schools contribute to better student outcomes (Century Foundation, 2019; Johnson,
+                 2019; Schneider et al., 2022). Along with closing or consolidating schools, districts can
+                 adjust attendance zones and revise school-assignment policies to create new, more
+                 diverse school communities. Districts should also ensure that the burden of changing
+                 schools and traveling longer distances to attend reassigned schools is shared equitably
+                 by families in the community.
+
+             •   Reserve and prioritize seats for displaced students in the district’s highest quality
+                 schools. Displaced students should receive priority access to the district’s highest
+                 performing schools—particularly in districts where school closures are concentrated
+                 in low-income or gentrifying neighborhoods or in school sites that have historically
+                 served a high-need population. This may contribute to both better academic
+                 opportunities for students and the district’s desegregation goals. (See the textbox for
+                 examples from Oakland and New Orleans.)
+
+             •   Provide transportation services. Giving displaced students a real opportunity to attend
+                 a high-quality school across the district requires adequate, accessible, and safe routes
+                 to school. Without these, closing a neighborhood school risks limiting the caliber
+                 of schools that students can access. While California’s recent significant investment
+                 in school transportation may increase the use of school buses, California districts
+                 still face challenges with funding school transportation, and many students will still
+                 reach school via other means. Regardless of whether districts offer transportation or
+                 encourage families to drive their children or use public transit, they should conduct
+                 a robust analysis to ensure that there are safe and reasonable transportation options
+                 for all students (Ekbatani, 2022).
+
+
+
+
+25   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                 edpolicyinca.org
+
+
+
+
+             •    Incentivize effective educators to work in schools receiving a large concentration
+                  of displaced students. Displaced students may need additional academic supports,
+                  and students in receiving schools may also experience disruptions. All of these
+                  students will benefit from highly effective teaching. Districts can provide incentives to
+                  effective educators to work at schools receiving displaced students.
+
+             •    Provide additional support to receiving schools. Schools that will receive an influx of
+                  displaced students require additional support to facilitate that merger and build a new
+                  community of students and educators (Gordon et al., 2018). Districts should provide
+                  additional resources to receiving schools so that they can hire tutors, counselors,
+                  paraprofessionals, and other support staff and provide academic, social, and emotional
+                  supports for students.
+
+             •    Repurpose vacated school buildings to serve student and community needs. When
+                  feasible, districts should repurpose empty school buildings to provide services that
+                  support students and their communities, such as childcare and mental and physical
+                  health services. Rather than allowing a recently closed school building to remain
+                  empty, Alum Rock Union School District voted to transform Cesar Chavez Elementary
+                  School into an early childhood learning center (Gabbert, 2022). Advocates we spoke
+                  with said that the district claimed this was a win-win: It produced critical financial
+                  savings—estimated to be about $1 million in “overhead and administration costs”—while
+                  offering a valuable service to the community in partnership with Kidango (kidango.org),
+                  a regional nonprofit provider of early childhood education.
+
+
+
+
+                 Promising Practice: Give Displaced Students Priority Enrollment
+
+         At least two school districts, New Orleans Public Schools and Oakland Unified School
+         District, have offered school-enrollment priority to displaced students. This makes it
+         possible for students affected by school closure to transfer to a desirable school.
+
+         After New Orleans Public Schools closed three schools in 2018, displaced students received
+         high priority in the district’s enrollment system for the following year. Additionally, the
+         nonprofit education organization EdNavigator (ednavigator.org) offered these students
+         and their families support and information regarding their school placement (Valant, 2022).
+         An analysis of the policy found that families were more likely to select highly rated schools,
+         and school-selection support increased the likelihood that students would be placed in their
+         school of choice. While student scores remained markedly below state averages, test scores
+         for displaced students who received placement support did increase the following year.
+
+
+
+
+26   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                               edpolicyinca.org
+
+
+
+
+         Since 2019, Oakland Unified has given Opportunity Tickets to students displaced by a
+         school closure (Oakland REACH, 2022). The Opportunity Ticket, championed by parent
+         leaders with the nonprofit organization Oakland REACH, gives the displaced student
+         enrollment preference for any school in the district. The tickets reserve 51 percent of
+         open seats at high-demand schools for displaced students. Students who receive an
+         Opportunity Ticket are eligible for open seats after students who have a sibling in the
+         school. Students with an Opportunity Ticket cannot exceed 10 percent of the school’s
+         total enrollment.
+
+
+
+     Recommendation 3: Develop and Pursue a Long-Term Plan to Address Factors Contributing
+     to Disproportionality in School Closures
+
+             Even a well-managed school-closure process that provides high-quality educational
+     opportunities to displaced students is wholly insufficient to address the root causes and broader
+     problems raised in this report, including neighborhood-level segregation and disinvestment,
+     gentrification, and population declines.
+
+            School districts alone cannot remedy these problems. District officials and board members
+     are not the local leaders responsible for rewriting zoning laws, expanding affordable housing,
+     or bringing well-paying jobs to communities. That said, we recommend that districts collaborate
+     with other local government agencies, including housing and economic development authorities,
+     to create cross-sector, multiyear strategies to invest in economically disadvantaged families and
+     communities of color. Local leaders can take the following actions:
+
+             •   Equitably distribute funding and other resources within the district. Ensure that
+                 school sites serving higher need populations receive greater resources, even if those
+                 schools are experiencing enrollment declines. This may mean that those schools
+                 receive significantly more funding on a per-pupil basis.
+
+             •   Collaboratively review population trends, including school enrollment projections
+                 disaggregated by demographic groups, to identify the extent to which the
+                 community is attracting and keeping families. Too often, conversations about housing
+                 needs and school-enrollment projections happen in silos. As a result, it is possible
+                 that community members can protest the development of new affordable housing
+                 units even as they also protest school closures. Local leaders need to support the
+                 community with connecting these issues and their potential solutions. As just one
+                 example, regional leaders can encourage school districts to include new housing
+                 projections from housing elements in their facilities’ master plans. San Francisco Unified
+                 is an example of a district already doing this (Aleksey, 2023).
+
+
+27   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                              edpolicyinca.org
+
+
+
+
+             •    Work together to expand and improve affordable housing options. Efforts should
+                  include improving access to multifamily and mixed-income units, especially in areas
+                  with high-performing schools. Efforts should also include expanding affordable housing
+                  options for educators and school staff, something that may be easier in California
+                  now that the state allows districts to build staff housing on school property without
+                  requesting zoning changes (Lambert, 2022). Constructing affordable housing for
+                  educators may be more economically feasible than raising salaries since construction
+                  costs can be funded by local bonds.
+
+             •    Expand transportation services to provide better access to schools, jobs, and other
+                  resources. School district and municipal officials should work together to map out
+                  transit plans—including public transportation, bike access, and walking routes—that
+                  give every family equitable and safe access to high-performing schools as well as other
+                  valuable city services.
+
+
+
+                 Promising Practice: Expand Affordable Housing for School Staff
+
+         To address teacher shortages, many districts across the country have worked to create
+         affordable housing for educators. When expanded to families as well as to classified staff,
+         who earn lower incomes and are disproportionately people of color, these practices
+         can also help communities address fair-housing goals. Additional long-term, affordable
+         housing can help address the problem of declining enrollment. Here are a few examples
+         of places that have tried this:
+
+         In 2022, Jefferson Union High School District in Daly City, California, opened more than
+         100 affordable apartments for district educators and school staff (Har, 2022). Discussions
+         on how to recruit and retain educators in the high-cost community began in 2017
+         (Tokofsky, 2022). A year later, voters passed a bond providing more than $30 million to
+         fund the housing project.
+
+         San Francisco Unified School District recently began construction on Shirley Chisholm
+         Village, a new affordable housing development for educators (Office of the Mayor,
+         2022). The Village is funded by a variety of sources, including federal tax credits, a 2015
+         voter-approved bond, and the Mayor’s Office of Housing and Community Development.
+
+         The city of Welch in McDowell County, West Virginia, built a small apartment complex
+         with affordable housing (Plona, 2022). The original idea was to develop new housing
+         to attract and retain teachers. The apartment complex is the first multistory building to
+         be constructed in the community in decades. The project, conceived in 2011, received
+         financial support from the American Federation of Teachers (Todd, 2022).
+
+
+
+28   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                 edpolicyinca.org
+
+
+
+
+     Recommendations for State Leaders
+
+            School closures have historically been a matter of local control. However, with declining
+     enrollment plaguing districts up and down the state, and considering how divisive and difficult it
+     can be to manage school closures locally, school closures should also be seen as a statewide
+     or regional issue. State leaders, including those in the legislature, can help support data-informed,
+     equitable decision-making so that California’s public education system is responsive to statewide
+     demographic trends and equity needs.
+
+             To begin, state leaders can support the collection and dissemination of data on population-
+     level demographic trends and projections, including how these patterns will affect schools and
+     districts. Through a legislatively authorized study, a State Auditor report, or informational legislative
+     hearings, the state could share projections on where new schools may be needed and where
+     schools may become underenrolled. The state could also examine current and projected district
+     size and efficiency.
+
+             State leaders can create space for legislators and education stakeholders to reflect on
+     these data and discuss potential solutions. This may include commissioning a statewide
+     review to make recommendations regarding school consolidation and closure, with county
+     superintendents, county fiscal overseers, or the state superintendent empowered to act on those
+     recommendations—recognizing that local districts are not always able or willing to close
+     schools, despite the threat of fiscal insolvency. These discussions should include considerations
+     for regional needs and priorities, such as racial and economic integration.
+
+             One model to consider is the Base Realignment and Closure (BRAC) process that has
+     been used to support the closure of military bases to increase efficiency and realign the number
+     of domestic military installations with modern-day military priorities (Congressional Research
+     Service, 2019). Some elements of that process—including the establishment of an independent
+     commission, the reliance on objective criteria, and the public hearing process—could make sense
+     in public education, particularly because school closure is fraught with competing priorities and
+     incentives at the local level. It is difficult for any community to support a move that could lead
+     to the loss of decision-making authority, jobs, neighborhood schools, and more. Given that
+     declining populations and shifting demographics are a regional issue, regionwide support may be
+     helpful with navigating the process more fairly and effectively.
+
+             State and county education leaders can also support districts as they navigate the
+     school-closure process by providing guidance on how to engage community members more
+     effectively, how to center equity in the process, and how to use consolidation as a window
+     to address broader teaching and learning priorities. In addition, state leaders can require or
+     encourage policies that give displaced students priority access to preferred schools and
+     high-quality academic opportunities.
+
+
+29   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                           edpolicyinca.org
+
+
+
+
+                                                              Conclusion
+
+             Over the next decade, when school enrollment is expected to decline, school closures are
+     also likely to increase across California, particularly in the state’s large coastal cities. Communities
+     of color have historically been disproportionately affected and harmed when districts elect to
+     shutter schools.
+
+             By centering racial equity in the school-closure process, districts can reverse that troubling
+     trend. There may still be situations in which schools in predominately Black, Latinx, or low-income
+     neighborhoods need to be closed. But in all cases, districts must engage stakeholders in the
+     process and ensure that displaced students have high-quality educational opportunities.
+
+            Leaders can also do more to acknowledge the critical role that systematic segregation,
+     underinvestment, gentrification, and housing unaffordability play in underenrollment in schools
+     located in communities of color. Recognizing that context should push district policymakers
+     to work across sectors and agencies to invest in low-income communities and communities of
+     color so that fewer enrollment-related closures are necessary.
+
+
+
+                                                               References
+     Aleksey, A. (2023, March 29). SF Housing Element could be saving grace for public school enrollment. San Francisco Examiner.
+           sfexaminer.com/news/sf-housing-element-could-be-saving-grace-for-public-school-enrollment/article_fa203d78-ce71-11ed-
+           9dd7-07741f450408.html?utm_medium=social&utm_source=email&utm_campaign=user-share
+     Badger, E., & Bui, Q. (2019, June 18). Cities start to question an American ideal: A house with a yard on every lot. The New York Times.
+           nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html
+     Baker, B., Di Carolo, M., & Green, P. (2022, April). Segregation and school funding: How housing discrimination reproduces unequal
+           opportunity [Report]. Albert Shanker Institute. shankerinstitute.org/segfunding
+     Barnum, M. (2019, February 5). Five things we’ve learned from a decade of research on school closures. Chalkbeat. chalkbeat.org/
+           2019/2/5/21106706/five-things-we-ve-learned-from-a-decade-of-research-on-school-closures
+     Benshoff, L. (2015, March 2). Philadelphia district nets $42 million from selling former schools. WHYY. whyy.org/articles/philadelphia-
+           district-nets-42-million-from-selling-former-schools
+     Best, R., & Mejia, E. (2022, February 9). The lasting legacy of redlining. FiveThirtyEight. projects.fivethirtyeight.com/redlining
+     Bonta, R. (2023, April 11). Guidance regarding laws governing school closures and best practices for implementation in California
+           [Memorandum]. California Office of the Attorney General. oag.ca.gov/system/files/media/letter-school-districts-school-
+           closures-04112023.pdf
+     Bross, W., Harris, D., & Liu, L. (2016, October 17). Extreme measures: When and how school closures and charter takeovers benefit
+           students [Policy brief]. Education Research Alliance for New Orleans. educationresearchalliancenola.org/files/publications/
+           ERA-1610-Policy-Brief-Closure.pdf
+     California Department of Education. (2022). California state emergency loan recipients. cde.ca.gov/fg/fi/ir/loanlist.asp
+     California Department of Education. (2023). Closing a school best practices guide. cde.ca.gov/ls/fa/sf/schoolclose.asp
+     California Department of Finance. (2022, September). Public K–12 graded enrollment: California public K–12 graded enrollment and
+           high school graduate projections by county—2022 series. dof.ca.gov/forecasting/demographics/public-k-12-graded-enrollment
+     Cal. Education Code §17385 et seq. (1996). https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=
+           17385&lawCode=EDC
+     Cal. Education Code §17387 et seq. (1996). https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=
+           17387&lawCode=EDC
+
+
+
+
+30   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                           edpolicyinca.org
+
+
+
+
+     Cal. Education Code §41329 (2022). https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=
+            41329&lawCode=EDC
+     Carlson, D., & Lavertu, S. (2015, April). School closures and student achievement: An analysis of Ohio’s urban districts and charter
+            schools. Thomas B. Fordham Institute. edex.s3-us-west-2.amazonaws.com/publication/pdfs/School%20Closures%20and%20
+            Student%20Achievement%20Report%20website%20final.pdf
+     Carver-Thomas, D., & Darling-Hammond, L. (2017, August). Teacher turnover: Why it matters and what we can do about it [Report].
+            Learning Policy Institute. learningpolicyinstitute.org/media/174/download?inline&file=Teacher_Turnover_REPORT.pdf
+     Century Foundation. (2019, April 29). The benefits of socioeconomically and racially integrated schools and classrooms. tcf.org/
+            content/facts/the-benefits-of-socioeconomically-and-racially-integrated-schools-and-classrooms
+     Chavez et al. v. Pasadena Unified School District et al. (Los Angeles County Super. Ct., pending). unicourt.com/case/ca-la23-david-
+            chavez-et-al-vs-pasadena-unified-school-district-et-al-955197
+     Congressional Research Service. (2019, April 25). Base closure and realignment (BRAC): Background and issues for Congress
+            [Report]. sgp.fas.org/crs/natsec/R45705.pdf
+     Cornman, S. Q., Ampadu, O., Hanak, K., Howell, M., & Wheeler, S. (2021, November). Revenues and expenditures for public
+            elementary and secondary school districts: FY 19 (NCES 2021-304). U.S. Department of Education, National Center for
+            Education Statistics. nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2021304
+     Dee, T. (2023, February 9). Where the kids went: Nonpublic schooling and demographic change during the pandemic exodus
+            from public schools [Brief]. Urban Institute. urban.org/research/publication/where-kids-went-nonpublic-schooling-and-
+            demographic-change-during-pandemic
+     de la Torre, M., & Gwynne, J. (2009, October). When schools close: Effects of displaced students in Chicago public schools
+            [Research report]. University of Chicago Urban Education Institute, Consortium on Chicago School Research. files.eric.ed.gov/
+            fulltext/ED510792.pdf
+     D’Souza, K. (2023, February 10). The pandemic fueled a public school exodus, study says. EdSource. edsource.org/2023/
+            the-pandemic-fueled-a-public-school-exodus-study-says/685555
+     EdBuild. (2023). National policy maps. FundEd. funded.edbuild.org/national#formula-type
+     Ekbatani, T. (2022, August 5). California budget provides ‘historic’ funding to school transportation, questions remain. School
+            Transportation News. stnonline.com/special-reports/historic-california-budget-provides-more-funding-to-school-
+            transportation-questions-remain
+     Emmanuel, A. (2018, October 19). Eve Ewing explains why some communities just can’t get over school closings. Chalkbeat
+            Chicago. chicago.chalkbeat.org/2018/10/19/21105956/eve-ewing-explains-why-some-communities-just-can-t-get-over-
+            school-closings
+     Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student outcomes depend on which
+            schools are closed? Journal of Urban Economics, 71(2), 189–203. doi.org/10.1016/j.jue.2011.10.001
+     Ewing, E. L. (2018). Ghosts in the schoolyard: Racism and school closings on Chicago’s South Side. The University of Chicago Press.
+     Farrie, D., & Sciarra, D. (2022). Making the grade 2022: How fair is school funding in your state? [Report]. Education Law Center.
+            edlawcenter.org/research/making-the-grade-2022.html
+     Fenterwald, J., & Willis, D. (2023, April 4). California’s TK–12 enrollment fails to rebound in a return to ‘normalcy.’ EdSource.
+            edsource.org/2023/californias-tk-12-enrollment-fails-to-rebound-in-a-return-to-normalcy/688123
+     Finney, A. (2022, March 1). Reversal of Oakland school closures renews hope of reparations for Black students. KQED. kqed.org/
+            news/11942006/reversal-of-oakland-school-closures-renews-hope-of-reparations-for-black-students
+     Gabbert, L. (2022, April 15). San Jose’s Cesear Chavez School shifts focus to early learning. San Jose Spotlight. sanjosespotlight.com/
+            san-joses-cesar-chavez-elementary-school-to-refocus-to-early-learning-alum-rock-union-district
+     Good, R. (2019). Neighborhood schools and community development: Revealing the intersections through the Philadelphia school
+            closure debate. Journal of Planning Education and Research, 42(4), 598–610. doi.org/10.1177/0739456X19839769
+     Gordon, M. F., de la Torre, M., Cowhy, J. R., Moore, P. T., Sartain, L., & Knight, D. (2018, May). School closings in Chicago: Staff and
+            student experiences and academic outcomes [Research report]. UChicago Consortium on School Research. staging-
+            development-apps.gse.stanford.edu/oakland2/assets/oakland_files/School%20Closings%20in%20Chicago%20%282018%29.pdf
+     Gross, T. (2017, May 3). A ‘forgotten history’ of how the U.S. government segregated America [Interview]. Fresh Air; NPR. npr.org/
+            2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america
+     Har, J. (2022, July 15). Some schools build affordable housing to retain teachers. Associated Press. apnews.com/article/teacher-
+            shortage-housing-california-cb46ae358d85a55ecfc852603f07db23
+     Jeffco Public Schools. (2021, June 10). 2021/2022 adopted budget. cdnsm5-ss12.sharpschool.com/UserFiles/Servers/Server_627881/
+            File/Jeffco%20PS/Finance%20and%20Budget/Budget%20Documents/2021-2022%20Adopted%20Budget%20FINAL.pdf
+     Johnson, H., & McGhee, E. (2021, June 4). California’s new baby bust. Public Policy Institute of California Blog. ppic.org/blog/
+            californias-new-baby-bust
+     Johnson, R. (2019). Children of the dream: Why school integration works. Basic Books.
+
+
+
+31   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                             edpolicyinca.org
+
+
+
+
+     Jong, J. (2022, April 11). California public school enrollment drops below 6 million mark. CalMatters. calmatters.org/education/
+           k-12-education/2022/04/california-public-school-enrollment
+     Kemple, J. (2015, November). High school closures in New York City: Impacts on students’ academic outcomes, attendance,
+           and mobility [Report]. The Research Alliance for New York City Schools. steinhardt.nyu.edu/sites/default/files/2021-03/
+           HighSchoolClosuresinNewYorkCity_ResearchAllianceforNYCSChools_pdf.pdf
+     Keystone Policy Center. (2022, October 28). Jeffco Public Schools: Regional opportunities for thriving schools school consolidation
+           community conversations [Report]. go.boarddocs.com/co/jeffco/Board.nsf/files/CKMSA8710AD2/$file/KPC-Jeffco_
+           EngagementReport_Final%20.pdf
+     Kirshner, B., Gaertner, M., & Pozzoboni, K. (2010). Tracing transitions: The effect of high school closure on displaced students.
+           Educational Evaluation and Policy Analysis, 32(3), 407–429. doi.org/10.3102/0162373710376823
+     Knaap, G., Meck, S., Moore, T., & Parker, R. (2007, July). Zoning as a barrier to multifamily housing development [Report]. American
+           Planning Association. huduser.gov/publications/pdf/zoning_multifmlydev.pdf
+     Lafortune, J., & Gao, N. (2022, March). Equitable state funding for school facilities: Assessing California’s school facility program
+           [Report]. Public Policy Institute of California. ppic.org/publication/equitable-state-funding-for-school-facilities
+     Lafortune, J., & Herrera, J. (2022, September). Financing California’s public schools [Fact sheet]. Public Policy Institute of California.
+           ppic.org/publication/financing-californias-public-schools
+     Lafortune, J., & Prunty, E. (2022, April 21). California K–12 enrollment declines continue to exceed expectations. Public Policy
+           Institute of California Blog. ppic.org/blog/california-k-12-enrollment-declines-continue-to-exceed-expectations
+     Lambert, D. (2022, October 4). California removes hurdles to building teacher housing. EdSource. edsource.org/2022/newly-
+           signed-bill-will-make-it-easier-for-california-school-districts-to-build-staff-housing/679095
+     Lang, B. J., & Sonstelie, J. (2015). The parcel tax as a source of local revenue for California public schools. National Tax Journal,
+           68(3): 545–572. journals.uchicago.edu/doi/epdf/10.17310/ntj.2015.3.03
+     Larsen, M. (2020, June). Does closing schools close doors? The effect of high school closings on achievement and attainment.
+           Economics of Education Review, 76, 101980. sciencedirect.com/science/article/abs/pii/S0272775718305922
+     Lee, J., Fuller, B., & Rabe-Hesketh, S. (2021). How finance reform may alter teacher and school quality: California’s $23 billion
+           initiative. American Educational Research Journal, 58(6), 1225–1269. doi.org/10.3102/00028312211047854
+     Lee, T. (2019, August 14). A vast wealth gap, driven by segregation, redlining, evictions, and exclusion, separates Black and White
+           America. The New York Times. nytimes.com/interactive/2019/08/14/magazine/racial-wealth-gap.html
+     Legislative Analyst’s Office. (2023). EdBudget. lao.ca.gov/PolicyAreas/education/EdBudget
+     McBride, A. (2022, February 1). OUSD plan to close and merge schools is met with overwhelming opposition. The Oaklandside.
+           oaklandside.org/2022/02/01/ousd-plan-to-close-and-merge-schools-is-met-with-overwhelming-opposition
+     McGhee, E., Cuellar Mejia, M., & Johnson, H. (2021, April 26). California’s stalled population growth. Public Policy Institute of
+           California Blog. ppic.org/blog/californias-stalled-population-growth
+     McGhee, H. (2021). The sum of us: What racism costs everyone and how we can prosper together. One World.
+     Murphy, P., Hahnel, C., Echaveste, M., & Jiao, A. (2022). Fiscal reform: An in-depth analysis of the facts, origins, and trends in fiscal
+           reform in California [Working paper]. California 100. california100.org/app/uploads/2022/05/Fiscal-Reform_FOT_Final.pdf
+     National Center for Education Statistics. (2003, July). Chapter 3: Using data elements for analysis. In Facilities information
+           management: A guide for state and local education agencies. nces.ed.gov/pubs2003/fim/ch_3.asp
+     Oakland REACH. (2022, February 11). The opportunity ticket. oaklandreach.org/the-opportunity-ticket
+     Office of the Mayor. (2022, September 27). San Francisco breaks ground on first educator housing project [Press release]. City and
+           County of San Francisco. sfmayor.org/article/san-francisco-breaks-ground-first-educator-housing-project
+     Orfield, G., Frankenberg, E., Ee, J., & Ayscue, J. B. (2019, May 10). Harming our common future: America’s segregated schools 65
+           years after Brown [Report]. The Civil Rights Project, University of California, Los Angeles. civilrightsproject.ucla.edu/research/
+           k-12-education/integration-and-diversity/harming-our-common-future-americas-segregated-schools-65-years-after-brown
+     Pearman, F. A., II. (2020, February). Gentrification, geography, and the declining enrollment of neighborhood schools. Urban
+           Education, 55(2), 183–215. journals.sagepub.com/doi/10.1177/0042085919884342
+     Pearman, F. A., II, & Greene, D. M. (2021, March). School closures and the gentrification of the Black metropolis (CEPA Working
+           Paper No. 21-02). Stanford Center for Education Policy Analysis. files.eric.ed.gov/fulltext/ED613162.pdf
+     Pew Charitable Trusts. (2011, October 19). Closing public schools in Philadelphia: Lessons from six urban districts [Report].
+           pewtrusts.org/-/media/assets/2011/10/19/closing_public_schools_philadelphia_report.pdf
+     Pew Charitable Trusts. (2013, February 11). Philadelphia and other big cities struggle to find uses for closed schools [Report].
+           pewtrusts.org/en/research-and-analysis/reports/2013/02/11/philadelphia-and-other-big-cities-struggle-to-find-uses-for-closed-
+           schools
+     Plona, K. (2022, June 10). Renaissance Village apartment complex built to attract educators to McDowell County. WCHS.
+           wchstv.com/news/local/renaissance-village-apartment-complex-built-to-attract-educators-to-mcdowell-county
+
+
+
+
+32   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                           edpolicyinca.org
+
+
+
+
+     Richardson, J., Mitchell, B., & Edlebi, J. (2020, June). Gentrification and disinvestment 2020. National Community Reinvestment
+            Coalition. ncrc.org/gentrification20
+     Robles, Y. (2022, November 10). Jeffco board votes unanimously to close 16 elementary schools. The Colorado Sun.
+            coloradosun.com/2022/11/10/jeffco-board-votes-unanimously-to-close-16-elementary-schools
+     Rothstein, R. (2017). The color of law: A forgotten history of how our government segregated America. Liveright Publishing
+            Corporation.
+     Schneider J., Piazza, P., White, R. S., & Carey, A. (2022). Student experience outcomes in racially integrated schools: Looking beyond
+            test scores in six districts. Education and Urban Society, 54(3), 330–360. doi.org/10.1177/00131245211004569
+     Schwartz, A., McClure, K., & Taghavi, L. (2016). Vouchers and neighborhood distress: The unrealized potential for families with
+            housing choice vouchers to reside in neighborhoods with low levels of distress. Cityscape, 18(3), 207–227. huduser.gov/
+            portal/periodicals/cityscpe/vol18num3/article14.html
+     Siegel-Hawley, G., Bridges, K., & Shields, T. (2017). Solidifying segregation or promoting diversity? School closure and rezoning in an
+            urban district. Educational Administration Quarterly, 52(1), 107–141. doi.org/10.1177/0013161X16659346
+     Steinberg, M., & MacDonald, J. (2019). The effects of closing urban schools on students’ academic and behavioral outcomes:
+            Evidence from Philadelphia. Economics of Education Review, 69, 25–60. staging-development-apps.gse.stanford.edu/
+            oakland2/assets/oakland_files/The%20effects%20of%20closing%20urban%20schools%20%282019%29.pdf
+     Tadayon, A. (2022, May 9). Bay Area schools see families leave cities, flock to suburbs. EdSource. edsource.org/2022/bay-area-sees-
+            families-leave-cities-flock-to-suburbs/671454
+     Todd, R. (2022, January 30). New housing complex aims to bring more teachers to McDowell County, West Virginia. WV News.
+            wvnews.com/news/wvnews/new-housing-complex-aims-to-bring-more-teachers-to-mcdowell-county-west-virginia/
+            article_1f4204ec-8058-11ec-ac31-6f2585b93cd4.html
+     Tokofsky, P. (2022, May 3). Jefferson Union teachers, staff move into innovative housing. Pacifica Tribune. pacificatribune.com/
+            news/jefferson-union-teachers-staff-move-into-innovative-housing/article_11ed6f5c-cb30-11ec-b888-4b4bc636cff0.html
+     U.S. Department of Education. (2022, December 7). Frequently asked questions: Elementary and secondary school emergency
+            relief programs; governor’s emergency education relief program. oese.ed.gov/files/2022/12/ESSER-and-GEER-Use-of-Funds-
+            FAQs-December-7-2022-Update-1.pdf
+     Valant, J. (2022, June 14). What happens when families whose schools close receive EdNavigator support and OneApp priority?
+            National Center for Research on Education Access and Choice. educationresearchalliancenola.org/publications/what-
+            happens-when-families-whose-schools-close-receive-ednavigator-support-and-oneapp-priority
+     Wilkerson, I. (2020). Caste: The origins of our discontents. Random House.
+     Xie, Y., & Willis, D. (2022, April 11). Updated with 2021–22 data: Pandemic drop in K–12 California enrollment caps two decades
+            of swings. EdSource. edsource.org/2022/california-school-enrollment-over-two-decades-gains-and-losses-by-region-with-
+            pandemic-year-drops/669058
+
+
+
+
+33   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                            edpolicyinca.org
+
+
+
+
+                                                      Appendix
+
+             Between 2012 and 2022, 687 schools were closed across 354 unique school districts in
+     California. Los Angeles Unified School District closed 77 schools during this period, accounting
+     for more than 11 percent of all schools closed in the state during the decade. Table A-1 lists the
+     districts that closed five or more schools between 2012 and 2022. We compared the percentage
+     of students who attended a closed school with the overall enrollment in the district by race and
+     ethnicity. In the “Difference” columns for each race and ethnicity, the positive values indicate a
+     group of students who experienced school closure at a rate lower than their share of the district’s
+     overall enrollment would suggest. The negative values indicate the opposite: students who were
+     more likely to experience a school closure during the past decade.
+
+
+
+
+34   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                                                                                      edpolicyinca.org
+
+
+
+
+     Table A-1. Demographics of School Districts That Closed Five or More Schools Between 2012 and 2021
+
+                                Percentage of Asian American/            Percentage of Latinx students            Percentage of Black students       Percentage of White students
+                                   Pacific Islander students
+
+                               Closed      District     Difference     Closed      District     Difference     Closed       District   Difference   Closed    District   Difference
+                               schools                                 schools                                 schools                              schools
+
+      Los Angeles Unified        1.34        7.91          6.57         64.17        78.10         13.93         28.44       9.48       –18.97       3.93      10.26        6.33
+
+      Oakland Unified            4.38       14.51         10.13         41.63        44.04         2.41          40.38       27.27      –13.11       3.56      9.93         6.38
+
+      San Diego Unified          6.70       14.67          7.97         67.23        47.42        –19.81         18.27       9.78        –8.49       5.03      23.84       18.80
+
+      Acton-Agua Dulce          14.95        8.60         –6.35         25.26        61.68         36.42         7.57        12.31        4.74       45.03     76.18       31.15
+      Unified
+
+      Long Beach Unified         5.17       12.49          7.32         59.95        59.93         –0.01         13.77       15.54        1.77       15.51     14.78       –0.74
+
+      Pasadena Unified           3.40        7.35          3.95         70.34        57.18        –13.17         16.64       14.02       –2.63       5.98      15.82        9.84
+
+      Mountain Empire            3.28        1.89         –1.39         32.16        38.86         6.70          5.80        3.12        –2.68       50.19     36.36      –13.83
+      Unified
+
+      Sacramento City           14.01       19.32          5.31         38.45        39.37         0.92          13.21       17.01        3.80       4.85      18.24       13.39
+      Unified
+
+      Ravenswood City            0.51        2.55          2.04         81.17        74.60         –6.57         8.59        6.75        –1.84       0.77      0.72        –0.05
+      Elementary
+
+      New Jerusalem              9.15       13.21          4.05         50.62        61.91         11.29         19.97       19.50       –0.47       14.01     67.60       53.59
+      Elementary
+
+      San Bernardino             0.61        2.62          2.01         78.58        78.09         –0.49         13.60       13.54       –0.06       5.28      7.18         1.90
+      City Unified
+
+      Vallejo City Unified      14.62       19.84          5.22         41.39        39.43         –1.96         31.28       29.53       –1.74       8.91      8.41        –0.50
+
+      Sierra Unified             2.08        2.96          0.89          9.84        19.64         9.81          1.09        7.20         6.11       70.16     90.92       20.76
+
+      Fresno Unified             6.35       12.74          6.38         61.17        65.39         4.23          12.19       9.01        –3.18       12.40     10.53       –1.87
+
+      Compton Unified            0.09        1.00          0.91         65.45        76.58         11.13         29.35       17.15      –12.20       0.64      0.39        –0.25
+
+      Twin Rivers Unified       11.68       10.01         –1.66         49.96        39.72        –10.25         15.85       14.46       –1.39       14.93     26.70       11.76
+
+
+     Note. This table is organized by the number of schools closed, with districts that closed more schools listed first.
+
+
+
+35   Centering Equity in the School-Closure Process in California
+     Policy Analysis for California Education                                                    edpolicyinca.org
+
+
+
+
+                                                Author Biographies
+     Carrie Hahnel is a senior associate partner with Bellwether, a national nonprofit organization working to
+     improve educational outcomes for systemically marginalized young people, and a senior policy and research
+     fellow with Policy Analysis for California Education.
+
+     Max Marchitello is an independent consultant who focuses on education equity. He previously worked for
+     Bellwether, the Center for American Progress, and the Leadership Conference on Civil and Human Rights.
+
+
+
+
+36   Centering Equity in the School-Closure Process in California
+          Policy Analysis for California Education (PACE)
+          Improving education policy and practice and advancing equity
+          through evidence
+
+
+          PACE is an independent, non-partisan research center led by faculty directors at
+          Stanford University, the University of Southern California, the University of California
+          Davis, the University of California Los Angeles, and the University of California
+          Berkeley. Founded in 1983, PACE bridges the gap between research, policy, and
+          practice, working with scholars from California’s leading universities and with
+          state and local decision makers to achieve improvement in performance and
+          more equitable outcomes at all levels of California’s education system, from early
+          childhood to postsecondary education and training. We do this through:
+
+                 1   bringing evidence to bear on the most critical issues facing our state;
+
+                 2   making research evidence accessible; and
+
+                 3   leveraging partnership and collaboration to drive system improvement.
+
+
+
+
+Stanford Graduate School of Education
+520 Galvez Mall, Suite 444
+Stanford, CA 94305
+
+Inquiry: info@edpolicyinca.org
+Media: press@edpolicyinca.org
+
+Office:   650.576.8484                      Follow us on social media:
+
+edpolicyinca.org
+

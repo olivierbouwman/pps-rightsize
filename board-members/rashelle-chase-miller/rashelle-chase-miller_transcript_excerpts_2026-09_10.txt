@@ -1,0 +1,126 @@
+Rashelle Chase-Miller (Zone 4; Vice-Chair 2026-27) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296 (launch rightsizing): SECONDED adoption; YES (passed 5-2). Abstained on Engelsman/La Forte sub-amendment re recital D(b); NO on "will"->"may"; NO on La Forte added-recitals amendment (failed 3-4). Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles 7-0.
+- 2026-09-29 Res. 7382 bond-audit responses: YES on DePass Rec. 28 amendment (failed 3-4); NO on La Forte strike of "budget availability" (4-3); YES on Splitt Rec. 4 amendment (6-1); YES on "additional auditor" wording (5-2, inferred); NO on striking Rec. 34 caveat and NO on Rec. 34 as amended (both 4-3).
+- 2026-10-06 Res. 7383 and consent agenda 7-0.
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:14:42 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8082s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (WW 2026-09-03 describes this exchange as Vice Chair Chase-Miller's; staff summary 02:50:19 addresses "Director Chase-Miller")
+  topic: willing to proceed to scenarios without committing
+  "we're here to weigh in on the very specific question that we were asked. [...] I want to confirm [...] if we give the direction that we want to continue [...] to explore [...] what the different magnitudes of changes would look like and [...] allow you all to come back with specifics [...] at that point we're not locked into that course of action."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:17:18 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8238s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (opening sentence of the caption block, answering the superintendent before Wang begins "Um I have a few questions")
+  topic: in favor of moving forward
+  "I would like to see what scenarios look like. I would like to have answers to the questions that [...] are hard for us to know before we have something that we're modeling [...] So, I'm in favor of moving forward."
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:18:58 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=1138s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (staff: "Appreciate the question. Director Chase-Miller")
+  topic: no one-size-fits-all; boundary-only alternative
+  "are you looking at any absolutes like K8s are just not going to be a thing or split feeders are not going to be a thing or [...] all DLI are going to [co-locate]? [...] or is it more of a situational situation and like what works best for this neighborhood [...] [00:24:02] I have heard just kind of floating around in community [...] why do we have to do closures and consolidations? Why can't we just do boundary changes and balance things out? [...] can you speak to that?"
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:21:43 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=1303s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: Roosevelt / Jefferson enrollment
+  "back [...] last year when we were doing the Jefferson work, [...] there was some conversation about the work that would happen with [...] right sizing [...] and kind of pathways to bolster Roosevelt's enrollment. [...] is that still something that we're taking into consideration"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:16:33 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=11793s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "We'll start with Vice Chair Chase-Miller")
+  topic: guarantees for families; teacher voice
+  "are there going to be key things that we can point to and say every well-resourced school [has] blank. [...] that is something that we're hearing from community is like where are the guarantees that at the end of this my kids school will be well resourced [...] [03:22:28] I really want to make sure that teachers voices are heard in this process. [...] I'm curious about how we're intentionally bringing in PAT, but also how we're connecting with just individual teachers [...] at the school level."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:27:12 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=12432s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: fear of privatization/charters after closures
+  "in a lot of communities where closures and consolidations have happened it has opened the door for privatization and charters to move into communities. [...] there's a lot of fear in our community that that will be a consequence of this work. [...] can anyone speak to what [...] assurances we have as a district that PPS won't follow that path?"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:59:42 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17982s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (follows Sullivan and Splitt in seating order; "a member of the city council had approached me" fits her council-member endorsers)
+  topic: Engelsman budget-savings resolution - "no extra money" narrative
+  "a member of the city council had approached me with a very similar list of items that [...] they were requesting I bring forward in a resolution. [...] I think that most of these things are not things that need to be a resolution. [...] some of them border on operations. [...] this extra money somewhere is a narrative we've heard in [PPS] for a long time and I feel like it's harmful at this point. [...] we don't have extra money and I kind of feel like it's gaslighting to be like oh there's money to be found when there's [...] not. [...] We're cutting 65 million for next year. [...] I'm not prepared to vote yes on this tonight."
+
+[2026-09-23 Facilities Improvement & Oversight Committee]
+  time 00:06:38 | https://www.youtube.com/watch?v=zfvbTie4mpE&t=398s
+  source: transcripts/raw_vtt/20260924__zfvbTie4mpE__2026-09-23 Board of Education's Facilities Improvement and Oversight Committee Meeting.en-orig.vtt
+  attribution: PROBABLE (FIOC member; first to respond to chair DePass's invitation; Engelsman later says she could not get off mute until the end)
+  topic: closed-building strategy
+  "starting to have that long-term conversation about what is going to happen with facilities as we move through downsizing and have more buildings that we're not using [...] what to do with the unused buildings and real estate. [...] helping the public understand what's possible [...] what our portfolio looks like"
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:05:41 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=341s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Vice Chair Chase-Miller")
+  topic: bond audit - softer wording for Rec. 4 ("could" instead of "should")
+  "my amended response is [...] concur with comments. [...] PPS board of education agrees. The office of internal performance audit could periodically review the implementation of bond audit recommendations as part of its assurance function. The board will discuss the frequency and timing of any review and develop a process that includes feedback to the whole board."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:19:02 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=1142s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Vice Chair Chase-Miller")
+  topic: bond audit - push back on audit framing
+  "at a minimum it should be updated to reflect that this is something that we already do. [...] I think it's important to kind of push back on [...] the idea that we didn't have our stuff together and [...] don't have processes in place."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:35:16 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9316s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Vice Chair Chase-Miller")
+  topic: bond audit - prefers external reviewer
+  "this entire thing has been so politicized and there has been so much questioning of [...] internal and external and propriety [...] I would feel better if it was somebody external [...] because to me that that signals like true independence and objectivity. [...] if there's middle ground to be found, that would be cool."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:23:53 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12233s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (Splitt later: "trying to channel some Vice Chair Chase-Miller"; self-reference: grew up here, is an educator, neighborhood schools closed)
+  topic: Scenarios A/B - fidelity to guiding principles; scenarios may be "massaged"
+  "I appreciate [...] the fidelity with which you all adhered to the guiding principles that we asked you to build these decisions around. [...] I hope that the folks here [...] understand like the the very real and perilous position that we're in as a school district and the trade-offs. And so [...] I hope that with some clarity and some some more answers [...] and perhaps some massaging of the scenarios, we can get to a place that most people feel good about. [...] I grew up here and most of the [...] schools in my neighborhood have long since been closed. [...] for the families that followed, we found community"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:27:07 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12427s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: state underfunding; doing closures "well"
+  "we know that this entire system is broken and underfunded. [...] ultimately we need the state to fully fund education. [...] We need to continue putting pressure on the state [...] if we can dig more into Dr. Green's report [...] there's data out there that shows us how we can do this well. [...] I would like to see PPS be one of those [...] university studies in how a chronically underresourced underdog school district did something freaking awesome [...] I don't know that either of these scenarios like exactly as they're written is going to be where we land. [...] feeling real sad about Marysville"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:17:30 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15450s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (raises privatization concern she raised on 9/15; "student representative Sandell reminded me" follow-up at 04:21:43 appears to be the same director)
+  topic: privatization / charter fears; superintendent's Chiefs for Change membership
+  "could you please talk to us about Chiefs for Change and your involvement [...] your stance on [...] what happens to buildings after they're vacated [...] your position on privatization or charter schools and [...] how we can feel confident about [...] that not happening to the buildings that are left vacant by these changes."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:24:34 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15874s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (same director continuing the charter-school thread)
+  topic: plans a policy/resolution barring charter/private reuse of closed schools
+  "I plan to bring some sort of policy or resolution [...] to the board [...] I have a feeling that the entire board feels strongly that they don't want to see these school buildings become charter schools or private schools. [...] so that we can [...] put that concern to rest that this is some sort of [...] board level privatization scheme or something [...] which it's absolutely not."
+
+NOTES
+Chase-Miller also argued on 9/29 (~00:45:31, ~02:20:57) that adding duties or staff to the board's audit office should wait for a board evaluation of current staff; omitted here because it concerns an individual employee's performance review. On 9/1 (02:51:02) a "Yes" answered staff's question whether she wanted "go big" considered - ambiguous.

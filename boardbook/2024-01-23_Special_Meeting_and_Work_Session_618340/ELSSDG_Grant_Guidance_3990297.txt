@@ -1,0 +1,2072 @@
+Application Guidance: Early Literacy
+Success School District Grants
+Part I: Grant Overview & Program Details for the Jumpstart Biennium 23-25
+      Introduction
+          Aligning to Integrated Guidance
+          The Role of Oregon’s Early Literacy Framework
+      Allowable Uses of Funding
+      Funding
+          Eligibility
+          Consortia
+          Allocations & Claims
+          Matching Funds
+      Overview of the Application Process
+      Application Requirements
+      School Board or Governing Body Approval
+      Meaningful Reporting
+      Prioritization
+Part II: Planning & Applying for the Jumpstart Biennium 23-25
+      Detailed Application Planning Instructions
+          1. Program Review
+          2. Professional Development and Coaching
+          3. Extended Learning Programs
+          4. High-Dosage Tutoring
+          5. Student Growth Assessment
+          6. Communication Plan
+          7. Matching Funds
+          8. Assurances
+      Detailed Literacy Inventory and Budget Instructions
+          9. Inventory
+          10. Budget 23-24/24-25
+      Appendix A: Definitions and Helpful Terms
+      Appendix B: Evaluation Criteria
+
+
+
+
+                  1                                                Version 1.1 - 10/23/23
+Revision Summary: Version 1.1 - Updated 10/23/2023
+
+Page                   Revision Summary
+
+9-10, 19, 26-30, 34,   Updated language in guidance, Application Question, Evaluation
+50-53                  Criteria, and Assurances clarifying what is required of allowable
+                       use planning, reporting, and implementation.
+
+13                     Typo corrected in the Allocation & Claims table.
+
+                       Date for timeline of funding corrected.
+
+27                     Clarifying language added about professional development and
+                       coaching reporting.
+
+32                     Updated language to clarify communication versus engagement
+                       for the communication plan.
+
+
+
+
+                2                                                              Version 1.1 - 10/23/23
+Part I: Grant Overview & Program Details for
+the Jumpstart Biennium 23-25
+
+Introduction
+In 2023, through the leadership of Governor Kotek, the Oregon Legislature established early literacy as a
+top priority. In creating the Early Literacy Success Initiative, they identified four goals:
+
+   1.   Increase early literacy for children from birth to third grade;
+   2. Reduce literacy academic disparities for student groups that have historically experienced
+        academic disparities;
+   3. Increase support to parents and guardians to enable them to be partners in the development of
+        their children’s literacy skills and knowledge; and
+   4. Increase access to early literacy learning through support that is research-aligned, culturally
+        responsive, student-centered and family-centered.
+
+
+
+
+                 3                                                               Version 1.1 - 10/23/23
+These goals will be accomplished through four programs: the Early Literacy Success School District
+Grants, the Early Literacy Success Community Grants, the Early Literacy Success Tribal Grants, and the
+Birth through Five Literacy Plan.
+
+
+
+
+This guidance focuses on the Early Literacy Success School District Grants.
+
+
+          Roles and Authority for the Early Literacy Success School District Grants
+
+Legislature: The requirements of the grants were established in the Early Literacy Success Initiative
+legislation (House Bill 3198) passed by the legislature and signed into law by Governor Kotek.
+
+State Board of Education: The bill requires the State Board of Education to develop rules in specific
+sections to add clarity to the policy. The State Board of Education’s authority is constrained to fit within
+the scope of the bill and it cannot alter the contents of the bill or the requirements it establishes.
+
+Oregon Department of Education: ODE has the authority to administer the grants, monitor and support
+grantees, and report on implementation. ODE’s authority is tied to statutory authority, administrative
+rules, and grant administration.
+
+Stated simply, the requirements for the Early Literacy Success School District Grants were established
+by the legislature and the Oregon Department of Education is functioning in an administrative role to
+communicate those requirements and support districts in meeting them.
+
+
+
+
+                 4                                                                 Version 1.1 - 10/23/23
+The overall requirements for the Early Literacy Success School District Grants are that applicants must:
+
+      ●    Develop and submit an early literacy plan which includes:
+               ○   Four-year goals for improving early literacy outcomes for students (not required for the
+                   Jumpstart biennium.)
+               ○   A review of their early literacy program1, including their early literacy curriculum1.
+               ○   A student growth assessment to measure student progress in early literacy, disaggregated
+                   by student groups that have historically experienced academic disparities2.
+               ○   A description of how they will provide:
+                      ■ “professional development and coaching”2 to teachers and administrators;
+                      ■ extended learning2 by teachers or qualified tutors2; and
+                          high-dosage tutoring2 by qualified tutors (in addition to instruction, two or more
+                          ■
+                          times each week over at least a 10-week period).
+      ●    Provide an inventory of early literacy assessments, curriculum, and other instructional tools and
+           materials.2
+      ●    Provide a plan to communicate with school districts, elementary schools2 of the school district,
+           families of the school district, and members of the school district community.
+      ●    Match funding at 25% (except for applicants <50 ADMw).
+      ●    Report on required elements, including but not limited to:
+               ○ student participation in extended learning and tutoring (disaggregated),
+               ○ staff participation in professional development (disaggregated),
+               ○ updates to the inventory,
+               ○ the curricula in use, and
+               ○ fidelity of use of materials submitted in the inventory.
+      ●    Generally, ensure that allowable uses and required activities use researched-aligned literacy
+           strategies, meaning they are literacy-focused, culturally responsive and relevant to diverse
+           learners, and based on the long-term research derived from the science of reading and writing,
+           specifically:
+               ○ The teaching of phonemic awareness, phonics, fluency, vocabulary and comprehension
+                  through explicit and systematic instruction, which is
+               ○   Differentiated to meet the needs of individual learners through developmentally
+                   appropriate practices.2
+
+
+
+
+1
+    See Appendix A for the definitions of these important terms
+2
+    See Appendix A for the definitions of these important terms.
+
+
+
+
+                      5                                                             Version 1.1 - 10/23/23
+The requirements above are more fully explained in the rest of this document, specifically how they
+pertain to the application and planning process for the first biennium of the grant, or the “Jumpstart
+Biennium” as described below. The Application (in Smartsheet) will open December 1st and closes on
+January 8th.
+
+
+Document Purpose & Scope
+This document provides district and charter school applicants with information to help inform planning
+for the grant. Part I contains information to support strategic and operational planning. Part II contains
+explanations, definitions, and requirements for applying as well as detailed requirements for each
+allowable use. For the purposes of this document, “applicant” refers to districts and eligible public charter
+schools3 (see Part I: Eligibility).
+
+                                          Jumpstart Biennium (2023-2025)
+The Early Literacy Success Initiative passed at the end of the 2023 session and went into effect
+immediately when Governor Kotek signed it on August 2nd, 2023. The timeline for districts to build a plan
+and apply for funds is very fast. As a result, the first biennium of implementation--and especially the first
+year--serves as a jumpstart for districts, a “Jumpstart Biennium.” To that end, the application and
+application process for the Jumpstart Biennium:
+    ●      Serve as an on-ramp for districts beginning to implement early literacy changes and provide space
+           for collective statewide learning, adjustment, and growth.
+    ●      Provides clarity while honoring a longer, thoughtful timeline to develop more specificity through
+           public engagement and input, including through the permanent rule making process with the State
+           Board of Education.
+    ●      Allows for time and space for community engagement and input on district early literacy plans and
+           mid- to long-term strategy, while honoring the urgency of the moment and timeline set forth in the
+           legislation.
+    ●  Accommodates the business and programmatic need of districts beginning a new grant partway
+       through a school year and biennium, laying the groundwork for alignment with Integrated Guidance
+       ultimately.
+The Jumpstart Biennium may feel different for grantees than future bienniums. This application cycle is a
+baseline for practices and planning. As we move into future bienniums, early literacy programming will be
+more mature and progress towards goals will be well underway--as this occurs, the expectations for
+future applications and district plans will likely be more rigorous as well. State Board permanent
+rulemaking will also factor into the evolution of the evaluation criteria and requirements.
+
+3
+    See Appendix A for the definition of this important term.
+
+
+
+
+                      6                                                            Version 1.1 - 10/23/23
+          Image 1. Jumpstart Biennium superimposed on the Integrated Guidance timeline. Click here for full alt text.
+
+Aligning to Integrated
+Guidance
+The Early Literacy Success School District
+Grants were designed to align with ‘’Aligning
+for Student Success: Integrated Guidance for
+Six ODE Initiatives.’’ Application and reporting
+for the Early Literacy Success School District
+Grants will be fully integrated in March of
+2025. Throughout the Jumpstart Biennium,
+applicants should include planning for these
+grants as part of their Integrated Guidance
+planning efforts in anticipation of that
+alignment date.
+
+The Role of Oregon’s Early
+Literacy Framework
+Oregon’s Early Literacy Framework sets a
+vision for research-aligned, culturally
+responsive early literacy instruction. It is an anchor resource for districts planning for their Early Literacy
+Success School District Grants and is the basis of the required program review, determining local
+strengths and areas of need (see Part II: Program Review). In addition, through the Framework, applicants
+can build a clearer vision of how the investments from the Early Literacy Success School District Grants
+might look and sound in action.
+
+
+
+
+                 7                                                                      Version 1.1 - 10/23/23
+Definitions & Helpful Terms
+A few of the most overarching definitions and terms follow with a full list included in Appendix A: Definitions and
+Helpful Terms.
+
+
+Definitions
+The Early Literacy Success School District Grant legislation defines “research-aligned literacy strategies”
+as strategies that are:
+  ●    literacy focused; culturally responsive and relevant to diverse learners; based on long-term
+       research derived from the science of reading and writing; and apply instructional practices that
+       are developmentally appropriate and specifically designed for students with disabilities and
+       students who are English language learners.
+Additionally, the “science of reading and writing” is defined as the:
+  ●    convergence of findings from research on reading and writing processes, development and
+       instruction; and
+  ●    teaching of phonemic awareness, phonics, fluency, vocabulary and comprehension through explicit
+       and systematic instruction that can be differentiated to meet the needs of individual learners
+       through developmentally appropriate practices.
+
+
+Helpful Terms
+A a few of the additional terms for applicants include:
+    ● “Early literacy program” should be considered as the entirety of the curriculum, assessments,
+       instructional materials, practices, systems, staffing, and structures in place to support
+       comprehensive early literacy across the district.
+   ●   “Professional development” for this grant can be considered similarly to its definition as articulated
+       in the Oregon Department of Education’s Integrated Guidance: learning opportunities that support
+       educators and administrators in instructional strategies for equity-centered, research-aligned,
+       and culturally responsive literacy instruction that considers the context of each district, may
+       elevate critical topics in system change strategies for early literacy, and support educators in
+       leveraging high-quality, research-aligned instructional materials and curriculum to serve all
+       students.
+   ●   “Coaching” - Where this law names “coaching” it should be understood as an array of practices
+       that support teachers through regular feedback and practice, formally or informally, to support
+       implementation of research-aligned literacy practices and student learning.
+
+
+
+
+                  8                                                                       Version 1.1 - 10/23/23
+Where definitions have not yet been specified through permanent rule making, the Framework provides
+direction for activities and ideas relevant to the grant program. Definitions will also be clarified through
+the permanent rulemaking process for future applications.
+
+Oregon’s Early Literacy Framework serves as a connection between these definitions and how they
+operationalize in the allowable uses of grant funds. It supports district planning by informing answers to
+questions such as:
+   ● What does “researched-aligned” look like in literacy instruction?
+   ● What does it mean for assessments, curriculum, and instruction to be “culturally responsive” and
+       to serve students who are emergent bilingual or experiencing disabilities?
+   ●   What is the “convergence of findings from research on reading and writing”?
+   ●   How do we make choices about our grant activities that are aligned to the language and vision of
+       the legislation?
+
+
+
+
+Allowable Uses of Funding
+The Early Literacy Success School District Grants allow funding of the following research-aligned
+activities:
+    ● Adoption and implementation of curricula;
+    ● Employment of literacy specialists, coaches, or interventionists;
+    ● Professional development and coaching;
+    ● Extended learning programs; and
+    ● High-dosage tutoring.
+
+These activities provide opportunities to actualize the ideas, practices, and concepts in Oregon’s Early
+Literacy Framework.
+
+One of the grant application requirements is that applicants must submit a plan to provide and ultimately
+report on professional development and coaching, extended learning programs, and high-dosage tutoring.
+The information shared in planning and reporting is about an applicant’s overall literacy implementation
+and is not narrowed just to this new fund source. Applicants may use other fund sources to
+operationalize these activities and will report on the status of implementation regardless of fund source
+
+
+
+
+                 9                                                                  Version 1.1 - 10/23/23
+For the Jumpstart Biennium, applicants describe their plan to implement professional development and
+coaching, extended learning programs, and high-dosage tutoring. If applicants are not yet able to
+implement all three activities, applicants must submit a rationale and describe how they will plan to do so
+in the future.
+
+For additional information and examples, see the Early Literacy Success School District Grant FAQ.
+
+The details of each of these allowable uses are described in Part II of this guidance, in the section of the
+application where the planning of that allowable use is most relevant, as shown in the table below:
+
+
+               Allowable Use4                                         Section within Part II of Guidance
+
+    Adoption and implementation of                 Detailed Literacy Inventory and Budget Instructions: Budget
+    curricula
+
+    Employment of literacy specialists,            Detailed Literacy Inventory and Budget Instructions: Budget
+    coaches, or interventionists.
+
+    Professional development and                   Detailed Application Requirements Instructions: Professional
+    coaching*                                      Development & Coaching
+
+    Extended learning programs*                    Detailed Application Requirements Instructions: Extended
+                                                   Programs
+
+    High-dosage tutoring*                          Detailed Application Requirements Instructions: High-dosage
+                                                   tutoring
+
+
+Note: Reporting will be required on each category of allowable use, including the use of matching funds,
+even if funding is not directed for each allowable use. Example: A recipient gets $85K for the biennium
+and directs all investment into one of the allowable use areas. Reporting will still include updates related
+to any activities with other fund sources in the other areas, even if not investing dollars from this initiative
+into that area.
+
+
+
+
+4
+  It should be noted that the scope and definitions for many of the allowable uses require additional specificity and clarification.
+This guidance provides recommendations for applicants to support planning in the Jumpstart Biennium, recognizing that further
+clarification will come through the permanent rulemaking process for future implementation.
+
+
+
+
+                    10                                                                                Version 1.1 - 10/23/23
+Administrative Costs
+A grant recipient may use funds for administrative costs, including indirect costs, directly related to
+allowed expenditures as provided in the grant agreement. Administrative costs are limited to 5 percent of
+the total expenditures. Administrative costs may be put towards costs associated with applying.
+
+
+
+Allowable Grade Levels
+The grant funds must be used to support elementary grades, which are defined as any grade from pre-
+kindergarten5 through 3rd grade. There is an allowance for funds to support literacy in 4th grade and 5th
+grade, which comes with additional requirements and limitations (see Part 1: Matching Funds and Part II:
+Matching Funds). Applicants may focus on one grade level, though applying and reporting requires
+information to be provided for kindergarten-3rd grade and pre-kindergarten, 4th grade, and 5th grade as
+applicable.
+
+
+Funding
+This section provides program details related to funding, eligibility, and considerations for how applicants
+may collaborate in an effort to be efficient in applying and maximize impact on students through shared
+programmatic efforts.
+
+
+
+Eligibility
+Any school district or public charter school with students in pre-kindergarten through grade three may
+apply for this noncompetitive grant. Virtual public charter schools are not eligible for Early Literacy
+Success School District Grants.
+
+
+
+Consortia
+Any district or charter school that applied as an Aligned Program Consortium,6 must apply in that same
+consortium for the Early Literacy Success School District Grants. A charter that is sponsored by a district
+is not considered an Aligned Program Consortium and will need to apply on their own.
+
+Aligned Program Consortium members will:
+
+
+5
+    See Appendix A for the definition of this important term..
+6
+    As defined under Oregon Department of Education’s Aligning for Student Success: Integrated Guidance for Six ODE Initiatives.
+
+
+
+
+                      11                                                                            Version 1.1 - 10/23/23
+    ●   submit one application
+    ●   provide an amended Memorandum of Understanding (MOU) to include Early Literacy Success
+        School District Grants,
+    ●   receive one grant agreement, and
+    ●   report on the Early Literacy Success School Grant program implementation as one grantee.
+
+
+MOU
+An amended Memorandum of Understanding (MOU) to include the Early Literacy Success School District
+Grants must be revised and signed by all eligible members7 of the consortium to:
+   ● define consortium operations as it relates to Early Literacy, and
+   ● articulate the reporting structure as it relates to Early Literacy.
+
+This amended MOU will be uploaded as an additional attachment required as part of the submission for
+the Early Literacy Success School District Grant application.
+
+Please keep in mind that:
+    ● A single joint application from an Aligned Program Consortium for the Early Literacy Success
+       School District Grants must be approved by each partnering school district’s or applicant's
+       governing board and meet all other application requirements.
+
+
+Collaboration
+It is important to understand the differences between participating in an Aligned Program Consortium
+and collaborating. Those in an Aligned Program Consortium formally combine their allocations under one
+grant agreement with one lead organization ultimately responsible for all deliverables and expenditures
+under the grant. However, if the applicants are not a part of an Aligned Program Consortium this biennium,
+the Oregon Department of Education encourages applicants to collaborate with other applicants in their
+regions and/or their ESD partners. Through collaborative efforts, grantees can pool resources together
+through contracts, agreements, or other means, while each grantee remains independently responsible for
+submitting an application and receives their own grant agreement and is independently responsible for all
+grant deliverables and expenditures.
+
+
+
+
+7
+ If a member of the Aligned Program Consortium is not eligible to receive Early Literacy Success School District Grant funds, they
+will be excluded from plans and expenditures.
+
+
+
+
+                    12                                                                             Version 1.1 - 10/23/23
+Allocations & Claims
+The following table provides a state-level picture of the funding for the Early Literacy Success School
+District Grants. Preliminary allocations for each district, school, or eligible grantee are provided on the
+Early Literacy Success Initiative website.
+
+
+    Statewide Total         Allocation               Allocation               Administrative           Timeline for
+    for the 23-25           Calculation              Method                   Costs                    Spending
+    Jumpstart
+    Biennium
+
+    $90,567,594.00          Based on Second          Disbursement             Limited to 5             For the Jumpstart
+                            Period Extended                                   percent of the           Biennium -
+                            ADMw; calculated                                  total expenditures       October 1, 2023-
+                            yearly                                                                     Sept 30, 2025.
+                                                                                                       Funds roll from
+                                                                                                       Year One to Year
+                                                                                                       Two, unless an
+                                                                                                       applicant does not
+                                                                                                       apply.8
+
+
+As indicated on the table above, these are formula grants based on Second Period Extended ADMw. In
+addition to the formula, a funding floor supporting Oregon’s smallest districts was set at approximately
+$85,000 for the Jumpstart Biennium.
+
+The Early Literacy Success School District Grants are disbursement grants, thereby allowing grantees to
+claim a percentage of funds in advance of expenditures. Taking into account the administrative burden of
+grantees to continuously submit claims in EGMS, the Oregon Department of Education proposes all fiscal
+agents submit their claims during the following designated windows:
+
+
+    Claim Window Year 1, 2023-2024                                Amount of Claim
+
+    March 1 - March 31, 20249                                     65% of allocation
+
+    April 1 - April 30, 2024                                      35% of allocation (up to 100%)
+
+
+
+8
+    A Universal Summer Extension was approved in temporary rules and anticipated in permanent rules.
+9
+    Claims may be made as soon as the grant agreement is fully executed.
+
+
+
+
+                     13                                                                           Version 1.1 - 10/23/23
+ Claim Window Year 2, 2024-2025                                    Amount of Claim
+
+ July 1-July 30, 202410                                            25% of allocation
+
+ October 1 - October 31, 2024                                      25% of allocation (up to 50%)
+
+ January 1 - January 31, 2025                                      25% of allocation (up to 75%)
+
+ April 1 - April 30, 2025                                          25% of allocation (up to 100%)
+
+
+For the Jumpstart Biennium, grantees are allowed to backdate expenditures to October 1, 2023, ahead of
+grant agreements being fully executed.
+
+Any allocated funds that are not used by a grant recipient at the end of the biennium will be returned to
+the Statewide Education Initiatives Account. Grant recipients must initiate a Fiscal Return to the Oregon
+Department of Education when their fourth quarter report is complete.
+
+
+
+Matching Funds
+The Early Literacy Success School District Grants require a match of 25% of each district’s total
+allocation. This match can be from any fund source. Fund sources can include Federal Title Funds, State
+School Funds, or any other funding source available to the applicant.
+                                                                      In Support of Small & Rural Districts
+                                                                     For districts with an ADMw <50, the 25% match
+                                                                     and any additional matches for 4th/5th grade
+                                                                     expenditures will be waived.
+
+Applicants are not limited to spending matching funds on the allowable uses described above, though are
+highly encouraged to do so. Matching funds for the Jumpstart Biennium, pending permanent rule making,
+can be used broadly to support literacy across pre-kindergarten through 5th grade.
+
+
+
+
+10
+     Claims may be made as soon as the grant agreement is fully executed.
+
+
+
+
+                      14                                                                     Version 1.1 - 10/23/23
+For the Jumpstart Biennium, there is an allowance to spend funds supporting 4th and 5th grade students.
+This allows applicants to consider the strengths and needs of multilingual students, students experiencing
+disabilities, students whose learning was impacted by school closures during COVID, and other students
+who may need additional support in later grades as their early literacy develops. This allowance is unlikely
+to continue beyond the Jumpstart Biennium.
+
+Grantees are limited on how much of their allocation can be used to support 4th and 5th grade students
+and there is an additional match required.
+   ● Limitation: Up to 20% of a district’s overall allocation can be spent on supporting 4th and 5th
+           grades in the first year, and up to 10% in the second year. This allowance is only made for the
+           Jumpstart Biennium (2023-2025).
+
+      ●    Match: Any funds up to the amounts named above must be matched. Similar to the overall 25%
+           match, these match requirements can come from any fund source. The match requirement for 4th
+           and/or 5th grade expenditures is the same as the limitation: 20% in 2023-2024 and 10% in 2024-
+           2025.
+
+           The overall 25% match on the total allocation is inclusive of the 4th and/or 5th grade match
+           requirement. For example, if a district uses the full 20% limitation supporting 4th and/or 5th grades
+           in the first year and provides the 25% match for the total allocation as required, the 20% match for
+           4th/5th grade is fulfilled; there is no additional matching requirement.
+
+The following table offers a visual of the limitations and match requirements described above:
+
+                                              Match Requirement                Limitation
+
+ Overall Allocation                           25% of the overall allocation
+
+ 4th & 5th Grade 2023-202411                  Met by the 25% match             20% Limitation
+                                              requirement
+
+ 4th & 5th Grade 2024-202512                  Met by the 25% match             10% Limitation
+                                              requirement
+
+
+
+
+11
+     Grantees are not required to spend funds on 4th and 5th grade literacy.
+12
+     Grantees are not required to spend funds on 4th and 5th grade literacy.
+
+
+
+
+                      15                                                                Version 1.1 - 10/23/23
+Overview of the Application Process
+The requirements for the grant application (described in the next section) have been incorporated into
+six resources for applicants:
+
+   I.   Oregon’s Early Literacy Framework and the Early Literacy Playbook provide the content to
+        engage in deep learning and frame the big picture of effective early literacy.
+  II.   The Program Review Tool guides applicants through applying the Framework to their given setting
+        and includes eight questions that will be required in the Application.
+ III.   The Application Planning Template is a practical tool in which an applicant lays out what they will
+        be required to submit alongside the Inventory and Budget.
+ IV.    The Literacy Inventory and Budget includes the template for the inventory required by the
+        legislation and provides pre-populated budget cells that help to plan for allowable expenses. This
+        will be required as an attachment in the Application.
+ V.     This Guidance document helps summarize the legislation and lays out how the grant program
+        works, while providing clarity in what will be expected and reviewed.
+ VI.    The Application holds all of the questions in the Template as well as the questions in the Program
+        Review Tool and will be the location for uploading the Literacy Inventory and Budget. It comes via
+        Smartsheet on December 1st (and closes on January 8th) and will align with the Integrated
+        Guidance tools and reporting infrastructure.
+
+The questions in the Application Planning Template will be submitted by copying them into the
+Application (in Smartsheet). Similarly, to complete the Program Review Tool questions in the Application,
+applicants will need to complete the Program Review Tool then copy them into the Application. The
+Literacy Inventory and Budget is separate because it contains additional application elements that are
+best represented in a table format.
+
+
+
+
+                 16                                                               Version 1.1 - 10/23/23
+An Important Note about Tribal Consultation
+Honoring the sovereignty of Native American and tribal students, families, communities, and Nations in
+Oregon is central to effective planning and outreach. In the 2025-27 biennium, the Early Literacy Success
+School District Grants will become a part of Integrated Guidance and applicants will be expected to
+engage Native American and/or tribal students as focal student groups; in some cases, applicants will also
+required to engage in formal Tribal consultation processes as outlined in the ODE Tribal Consultation
+Toolkit. Information about Oregon’s nine federally recognized tribes is on the Oregon Tribal Website’s
+page.
+
+
+
+
+Application Requirements
+To be eligible for an Early Literacy Success School District Grant, a district must submit an application
+that includes specific components. The table below shows how these requirements will be submitted.
+
+
+     Required Components of Application                           How Each Component is Submitted
+
+         1. A Early Literacy Plan, containing:
+
+                ○    Four-year goals (not applicable for the      Not applicable this biennium
+                     Jumpstart Biennium)
+
+                ○    A review of the applicant’s early literacy   Program Review Tool (questions 1-8) that
+                     program                                      will be entered in the Application
+
+                ○    A review of the applicant’s early literacy   Inventory in the Literacy Inventory and
+                     curriculum                                   Budget that will be uploaded into the
+                                                                  Application
+
+
+
+
+                17                                                                  Version 1.1 - 10/23/23
+Required Components of Application                          How Each Component is Submitted
+
+          ○     A student growth assessment for all         Inventory in the Literacy Inventory and
+                students, disaggregated by student          Budget that will be uploaded into the
+                groups that have historically experienced   Application
+                academic disparities.
+                                                            Student Growth Assessment question in
+                                                            the Application Planning Template and
+                                                            the Application
+
+          ○     A description of how the applicant will     Professional Development and Coaching,
+                provide professional development and        Extended Learning Programs, and High-
+                coaching, extended learning programs,       Dosage Tutoring questions in the
+                and high-dosage tutoring.                   Application Planning Template and the
+                                                            Application
+
+   2. An Inventory which must be accurate and up-           Inventory in the Literacy Inventory and
+      to-date, including literacy assessments, tools,       Budget that will be uploaded into the
+      curricula and digital resources used to support       Application
+      literacy in the applicant’s early elementary
+      grades.
+
+   3. A Communication Plan for efforts to support           Communication Plan question in the
+      engagement between school districts,                  Application Planning Template and the
+      elementary schools of the school district,            Application
+      families, and members of the school district
+      community.
+
+   4. Submission of board minutes as evidence that          Board minutes uploaded into the
+      the Early Literacy Plan was presented and             Application Planning Template and the
+      approved by the applicant’s school board or           Application
+      governing body, at an open meeting, with
+      opportunity for public comment (this cannot be
+      a consent agenda item).
+
+
+Identification of matching funds, as described in later     Matching Funds question in the
+sections.                                                   Application
+
+
+
+
+           18                                                                 Version 1.1 - 10/23/23
+Three Important Points of Clarification
+   ●   For the Jumpstart Biennium, applicants describe their plan to implement professional
+       development and coaching, extended learning programs, and high-dosage tutoring. If applicants
+       are not yet able to implement all three activities, applicants must submit a rationale and describe
+       how they will plan to do so in the future.
+   ●   The Program Review Tool provides the criteria by which applicants must review their early literacy
+       program.
+   ●   For the Jumpstart Biennium, the Application and Literacy Inventory and Budget serve as a district's
+       Early Literacy Plan.
+
+
+
+
+School Board or Governing Body Approval
+Applications must be presented to and approved by the school district board or the governing body of
+the public charter school at an open meeting with opportunity for public comment.
+
+As evidence of this requirement, applicants must submit a copy of the board minutes when this
+presentation and approval occurred.
+
+For the Jumpstart Biennium, applicants will have through February 28th, 2024 to submit these board
+minutes; however, the review of applications will not be complete until the board minutes are received.
+
+
+Meaningful Reporting
+Quarterly Reporting
+Reporting will be completed through a quarterly report submission, where grantees will detail their
+spending on the activities in their plan. This reporting will be submitted via Smartsheet, and will align with
+the Integrated Quarterly report to the maximum extent possible. Detailed guidance for this quarterly
+report will be released at a later date; however, grantees should be prepared to include the expenses for
+each budgeted activity.
+
+
+
+
+                 19                                                                  Version 1.1 - 10/23/23
+For the Jumpstart Biennium, the quarterly reports are due on the following dates:
+
+ Due Date              Reporting Period                         Included in the Report
+
+ April 30, 2024        Quarter 2 & Quarter 3 (October 1,        Expenditure Report
+                       2023 - March 30, 2024)
+
+ November 30,          Quarter 4 (April 1, 2024 - September     Expenditure Report
+ 2024                  30, 2024)
+                                                                AND
+
+                                                                Annual Report, inclusive of an inventory of
+                                                                literacy assessments and curricula, and
+                                                                the participation rates in extended
+                                                                learning programs, high-dosage tutoring,
+                                                                and professional development and/or
+                                                                coaching
+
+ October 31, 2024      Quarter 1 (July 1, 2024 - September 30, Budget Update to actual allocation.
+                       2024)
+
+ January 31st,         Quarter 1 & Quarter 2 (July 1, 2024 -    Expenditure Report
+ 2025                  December 31, 2024)
+
+ April 30, 2025        Quarter 3 (January 1, 2025 - March 30,   Expenditure Report
+                       2025)
+
+ November 30,          Quarter 4 (April 1, 2025 - September     Expenditure Report
+ 2025                  30, 2025)
+                                                                AND
+
+                                                                Annual Report, inclusive of an inventory of
+                                                                literacy assessments and curricula, and
+                                                                the participation rates in extended
+                                                                learning programs, high-dosage tutoring,
+                                                                and professional development and/or
+                                                                coaching
+
+
+
+
+                  20                                                                Version 1.1 - 10/23/23
+Annual Reporting
+Grantees are required to submit an annual report. As with the quarterly report, the annual report will be
+submitted via Smartsheet, and will align with the Integrated Annual Report to the maximum extent
+possible.13 The annual report will include:
+   ● The grantee’s progress toward achieving the goals established in their Early Literacy Success
+       Plan14;
+   ● An inventory of literacy assessments, tools, curricula and digital resources used by the grantee;
+            ○ Evidence that the literacy assessments, tools, curricula, and digital resources in the
+               inventory are used with fidelity to research-aligned literacy strategies;
+            ○   Evidence that teachers and administrators are provided with professional development for
+                using and implementing (with fidelity and research-aligned literacy strategies (the literacy
+                assessments, tools, curricula, and digital resources in the inventory;
+     ●   The number and percentage of teachers for early elementary grades receiving professional
+         development and coaching disaggregated by grade level;
+     ●   The number and percentage of students participating in early literacy extended learning programs
+         and their outcomes disaggregated by student group and by grade level;
+     ●   The number and percentage of students participating in high-dosage tutoring and their outcomes
+         disaggregated by student group and by grade level; and
+     ●   The curricula being used by the grantee.
+
+The annual report offers a chance to review and reflect on the whole of what has been learned and any
+impact. It is also an opportunity to share updates with students, parents, and community.
+
+
+
+
+13
+   The Oregon Department of Education plans to have grantees use the same Integrated Reporting Dashboard from the start of
+this initiative.
+14
+   Waived for the Jumpstart Biennium (2023-2025).
+
+
+
+
+                   21                                                                          Version 1.1 - 10/23/23
+Prioritization
+As permanent rules are developed with the State Board of Education, the statute says, ‘’to the greatest
+extent practicable, prioritize schools with the lowest rates of proficiency in literacy and assist in the
+operational alignment of grant programs and improvement strategies administered by the
+Department of Education.’’ It also calls for aligning implementation with improvement strategies
+developed under the Integrated Guidance, including the SIA and continuous improvement planning.
+
+Applicants are encouraged to consider this focus in determining how to utilize their funds in the
+Jumpstart Biennium with awareness of more detailed guidance likely to follow permanent rulemaking over
+the remainder of this school year.
+
+
+
+
+                22                                                                 Version 1.1 - 10/23/23
+Part II: Planning & Applying for the Jumpstart
+Biennium 23-25
+
+
+Detailed Application Planning Instructions
+This section provides instructions for completing each section of the Application (within Smartsheet) and
+the Application Planning Template. It is intended to be used while either is being completed.
+
+Each section below corresponds to a question in the Application and includes, where applicable, some or
+all of the following elements:
+     ● Application Item(s) corresponding to that section.
+     ● Evaluation Criteria that will be used to evaluate the responses to the item.
+     ● Reporting requirements from the bill so applicants will be able plan for and anticipate what will be
+         required to report.
+     ● Notes highlighting important information for decision-making related to that item, including
+         exceptions.
+     ● Recommendations for how to plan for each element of the grant activities and requirements.
+     ● Definitions and helpful terms to provide clarity of what is required for each item.
+
+
+
+
+                23                                                                Version 1.1 - 10/23/23
+1. Program Review
+ Item                          Description
+
+
+ Application Items             Complete questions 1-8 for the Program Review Tool.
+
+                               (Reflection questions in Appendix A of the tool, “Readiness for
+                               Implementation”, are optional.)
+
+ Evaluation Criteria           Program review includes a reflection for each section with evidence of
+                               clear reflection and connection to indicators.
+
+
+The Early Literacy Success School District Grant requires a review of the early literacy program, including
+the English Language Arts (ELA) curricula used in elementary schools of the applicant, using criteria
+established by the Oregon Department of Education.
+
+ “Early literacy program” should be considered as the entirety of the curriculum, assessments,
+instructional materials, practices, systems, staffing, and structures in place to support comprehensive
+early literacy across the district. A review of a district’s early literacy curriculum is captured in the
+Inventory section of the application. However, the curriculum should be taken into consideration when
+conducting the program review.
+
+The Program Review Tool provides the criteria by which applicants must review their early literacy
+program. This tool articulates indicators of a research-aligned and culturally responsive literacy program
+and readiness for implementation based on each section of Oregon’s Early Literacy Framework and the
+Early Literacy Playbook. The Program Review Tool is developed for applicants to help them think deeply
+into the design of their efforts and should be completed before the Application Planning Template,
+Application, or Literacy Inventory and Budget.
+
+Applicants need to review the entirety of the early literacy program using the indicators provided in the
+tool, which are derived from Oregon’s Early Literacy Framework. The Program Review Tool is designed not
+as a quantitative measure, but a holistic reflection guide related to each section of the Framework.
+Applicants have discretion in determining how they conduct their program review.
+
+
+
+
+                24                                                                 Version 1.1 - 10/23/23
+This portion of the application requires a short (up to 250 word) response related to each of eight
+sections of the program review tool. The questions in the appendix of the Program Review Tool are aligned
+with the Early Literacy Playbook and are optional, but encouraged.
+
+2. Professional Development and Coaching
+ Item                                  Description
+
+ Application Item                      Describe how you will provide professional development and coaching in
+                                       research-aligned literacy strategies to teachers and administrators to improve
+                                       early literacy instruction. Include how you will provide professional
+                                       development to teachers and administrators on using and implementing
+                                       literacy assessments, tools, curricula, and digital resources with fidelity to
+                                       research-aligned literacy strategies.
+
+                                       If you are not yet able to implement professional development and coaching,
+                                       you must submit a rationale and describe how you plan to do so in the future.
+
+ Evaluation Criteria                   The description of how the applicant will provide professional development
+                                       and coaching in research-aligned strategies includes:
+
+                                            ●   the research-aligned literacy strategies that the professional
+                                                development and coaching will focus on (required);
+                                            ●   the target audience (including roles) for the professional development
+                                                and coaching (required); and
+                                            ●   the literacy assessments, tools, curricula or digital resource(s) the
+                                                professional development will focus on (as applicable).
+
+                                       If the applicant is not yet able to implement professional development and
+                                       coaching, applicants have submitted a rationale and description of how they
+                                       plan to do so in the future.
+
+ Annual Reporting                           ●   Evidence that teachers and administrators are provided with
+ Requirement15                                  professional development plans for using and implementing, with
+ (November 30th, 2024)                          fidelity to research-aligned literacy strategies, the literacy
+                                                assessments, tools, curricula, and digital resources in the inventory.
+                                            ●   The number and percentage of teachers for early elementary grades
+                                                receiving professional development and coaching disaggregated by
+                                                grade level.
+
+
+15
+     See Part 1: Meaningful Reporting section for additional detail.
+
+
+
+
+                       25                                                                      Version 1.1 - 10/23/23
+Note: One of the grant application requirements is that applicants must submit a plan to provide and
+ultimately report on professional development and coaching. If applicants are not yet able to implement
+professional development and coaching, applicants must submit a rationale and describe how they plan
+to do so in the future.
+
+Note: The information shared in planning and reporting is about an applicant’s overall literacy
+implementation and is not narrowed just to this new fund source. Applicants may use other fund sources
+to operationalize this activity and will report on the status of implementation regardless of fund source.
+
+Districts will report on professional development and coaching as a single reporting category for the
+following purposes:
+
+       ● implementing curriculum and other instructional materials with fidelity (reporting for both teachers
+         and admin)
+       ● research-aligned literacy strategies (reporting for teachers only
+
+For additional information, see Part I: Allowable Uses of Funding (pg. 8)
+
+Note: While professional development specific to supporting fidelity to curriculum and other instructional
+materials is not a requirement for application, it is a required reporting category.
+
+Recommendation: Use the Oregon’s Early Literacy Framework and the definitions provided in Appendix A:
+Definitions and Helpful Terms when determining whether or not professional development and coaching
+meet the research-aligned standard.
+
+Recommendation: When designing professional development and coaching consider including activities
+that:
+   ● Are “sustained (not stand-alone, one-day, or short-term workshops), intensive, collaborative, job-
+      embedded, data-driven, and classroom-focused.”16
+   ● Are aligned to high-quality instructional materials.
+   ● Are leveraged to impact core instruction for all students and when applicable, to support high
+      quality tutoring and intervention/acceleration instruction.
+   ● Include specific outcomes on what educators will know and be able to do as a result of the
+      learning.
+   ● Include measures of effectiveness to determine if the learning was effective.
+   ● Are planned to consider teacher time.
+
+16
+     As described in the Every Student Succeeds Act.
+
+
+
+
+                     26                                                             Version 1.1 - 10/23/23
+Recommendation: When planning professional development and coaching, consider the following
+questions:
+   ● What is the need the professional development or coaching is trying to address? Why that area?
+   ● What did our program review illuminate?
+   ● What research-aligned strategies are our focus?
+   ●    What educator knowledge, skills, and practice are we hoping to support? How will that directly
+        impact students' literacy learning and well-being?
+   ●    What would we expect to see change as a result of this professional development and coaching?
+        What in Oregon’s Early Literacy Framework can we identify that coaching and professional
+        development will lead to?
+   ●    What conditions for adult learning must we ensure so that professional development and coaching
+        are successful?
+   ●    How will we know if the professional development and coaching was effective?
+   ●    Who will provide oversight for the implementation, monitoring and evaluation of the PD and
+        coaching?
+
+
+3. Extended Learning Programs
+ Item                        Description
+
+
+ Application Item            Describe how you will provide extended learning programs that use
+                             research-aligned literacy strategies and that are made available by
+                             licensed teachers or by qualified tutors.
+
+                              If you are not yet able to implement extended learning programs,
+                             you must submit a rationale and describe how you plan to do so in
+                             the future.
+
+ Evaluation Criteria         The description of how the applicant will provide extended learning
+                             programs that use research-aligned literacy strategies and that are
+                             made available by licensed teachers or by qualified tutors includes
+                             both:
+                                ● a description of how literacy is included as the focus of the
+                                   program, and
+                                ● who will provide the extended learning and their qualifications
+                                ●
+
+
+
+
+                 27                                                             Version 1.1 - 10/23/23
+                                         If the applicant is not yet able to implement extended learning
+                                         programs, applicants have submitted a rationale and description of
+                                         how they plan to do so in the future.
+
+ Annual Reporting                        The number and percentage of students participating in early
+ Requirement17                           literacy extended learning programs, at the school and the school
+ (November 30th, 2024)                   district level, with their outcomes disaggregated by student group
+                                         and grade level.
+
+
+Note: One of the grant application requirements is that applicants must submit a plan to provide and
+ultimately report on extended learning programs. If applicants are not yet able to implement extended
+learning programs, applicants must submit a rationale and describe how they plan to do so in the future.
+
+Note: The information shared in planning and reporting is about an applicant’s overall literacy
+implementation and is not narrowed just to this new fund source. Applicants may use other fund sources
+to operationalize this activity and will report on the status of implementation regardless of fund source.
+
+For additional information, see Part I: Allowable Uses of Funding (pg. 8)
+
+The scope and further clarifications of extended learning programs will be addressed through the
+permanent rulemaking process for future applications. Currently, extended programs need not be limited
+to summer programming as described above, but must still meet the research-aligned, grade level, and
+qualified educator quality standards.
+
+Applicants should also consider equity implications of extended learning programs, such as access,
+scheduling, and well-rounded summer and after-school opportunities. For more information on high-
+quality afterschool and summer programs, please visit the Oregon Department of Education’s Summer
+Learning Webpage.
+
+
+
+
+17
+     See Part 1: Meaningful Reporting.
+
+
+
+
+                       28                                                                   Version 1.1 - 10/23/23
+4. High-Dosage Tutoring
+ Item                                  Description
+
+
+ Application Item                      Describe how you will provide high-dosage tutoring that integrates
+                                       reading and writing and that is delivered by a qualified tutor using
+                                       developmentally appropriate practices.
+
+                                        If you are not yet able to implement high-dosage tutoring, you must
+                                       submit a rationale and describe how you plan to do so in the future.
+
+ Evaluation Criteria                   The description of how the applicant will provide high-dosage tutoring
+                                       that integrates reading and writing and that is delivered by a qualified
+                                       tutor using developmentally appropriate practices includes all four
+                                       details:
+                                          ● the domains of language18 addressed (at least reading and
+                                               writing);
+                                          ● who will provide the high dosage tutoring and their
+                                               qualifications;
+                                          ● duration and frequency; and
+                                          ● how the tutoring is developmentally appropriate, including how
+                                               it is responsive to student need.
+
+                                       If the applicant is not yet able to implement high-dosage tutoring,
+                                       applicants have submitted a rationale and a description of how they
+                                       plan to do so in the future.
+
+ Annual Reporting                      The number and percentage of students participating in high-dosage
+ Requirement19                         tutoring, with their outcomes disaggregated by student group and
+ (November 30th, 2024)                 grade level.
+
+
+Note: One of the grant application requirements is that applicants must submit a plan to provide and
+ultimately report on high-dosage tutoring. If applicants are not yet able to implement high-dosage
+tutoring, applicants must submit a rationale and describe how they will plan to do so in the future.
+
+
+
+
+18
+     Reading, Writing, Speaking, and Listening.
+19
+     See Part 1: Meaningful Reporting.
+
+
+
+
+                       29                                                                   Version 1.1 - 10/23/23
+Note: The information shared in planning and reporting is about an applicant’s overall literacy
+implementation and is not narrowed just to this new fund source. Applicants may use other fund sources
+to operationalize this activity and will report on the status of implementation regardless of fund source.
+
+For additional information, see Part I: Allowable Uses of Funding (pg. 8)
+
+The scope (such as a required group size) and other details of these definitions will be further clarified
+through the permanent rulemaking process for future implementation.
+
+Recommendation: Effective and impactful high-dosage tutoring programs:20
+   ● have tutors that are well-trained and supported, or are teachers, retired teachers, or teaching
+     candidates;
+   ● have tutors that have time for planning and collaboration with classroom teachers;
+   ● tutors use high-quality instructional materials in high-frequency sessions (offer tutoring at least
+     three times per week, for 30 minutes per session) with three or fewer students in each session;
+   ● align with an evidence-based curriculum;
+   ● occur at school during the school day whenever possible;
+   ● include instruction that is supplemental and focused on acceleration, not remediation;
+   ● are built into the school day and engages teachers and caregivers; and
+   ● use data to inform and individualize instruction and continuously improve program design.
+
+
+
+
+20
+     https://www.edworkingpapers.com/ai20-267
+
+
+
+
+                    30                                                              Version 1.1 - 10/23/23
+5. Student Growth Assessment
+ Item                         Description
+
+ Application Item(s)          If you do not have a current student growth assessment that allows
+                              for data to be disaggregated by student groups who have historically
+                              experienced academic disparities, describe how you will provide one.
+                              (It must allow for data to be disaggregated by student groups that
+                              have historically experienced academic disparities.)
+
+ Evaluation Criteria          A student growth assessment for literacy is submitted in the
+                              Inventory.
+                                     If not, a description is provided of how a student growth
+                                     assessment will be obtained and administered
+                              Note: The “disaggregation of data” requirement for this application
+                              requirement is evaluated through an assurance.
+
+
+The grant application requires a student growth assessment for all students for which data is
+disaggregated by student groups that have historically experienced academic disparities. If a district
+does not yet have a student growth assessment for literacy or uses one that has not yet been
+disaggregated as described above, include a description of the plans for obtaining a new student growth
+assessment.
+
+Applicants need not submit student data for the application, only information about the student growth
+assessment in use for the purposes of measuring student growth in literacy.
+
+Information about the student growth assessment is collected in two places: as a description in the
+Application Planning Template (and Application), if applicable, and in the Inventory tab of the Literacy
+Inventory and Budget. It is included with other inventory items (see Part II: Inventory) and is indicated with
+a “Yes” entry under the “Is this your student growth assessment?” column.
+
+
+
+
+                 31                                                                 Version 1.1 - 10/23/23
+6. Communication Plan
+ Item                        Description
+
+
+ Application Items           What communication strategies will be used to communicate with:
+                               ● other school districts?
+                               ● elementary schools in the school district?
+                               ● families of the school district?
+                               ● members of the school district community?
+
+ Evaluation Criteria         At least one communication strategy for each community group is
+                             provided:
+                                ● School districts;
+                                ● Elementary schools of the school district;
+                                 ●   Families of the school district; and
+                                 ●   Members of the school district community
+
+
+Applicants need only select the communication strategies they plan to use as they communicate and
+execute the early literacy plan. The communication efforts themselves need not be completed before the
+application is submitted.
+
+Note: Every family deserves to know their district’s approach and early literacy strategy. The
+communication plan described above is a minimum requirement for this application related to, but
+distinct from, deep community engagement. As applicants engage communities for Integrated Guidance,
+they should include the development and continuous improvement of their early literacy approach and
+strategy into those efforts throughout the Jumpstart Biennium.
+
+
+
+
+                32                                                              Version 1.1 - 10/23/23
+7. Matching Funds
+ Item                         Description
+
+
+ Application Item             Name the fund source(s) for the 25% match.
+                                    If applicable, is any part of your match going towards 4th and/or
+                                    5th grade expenditures?
+
+ Evaluation Criteria          At least one source to match 25% of the total allocation is named and
+                              at least one category is selected for its use.
+                                      If applicable, a fund source is named for the 4th and/or 5th
+                                      grade match.
+
+
+Applicants are not limited to spending matching funds on the allowable uses described above, though are
+highly encouraged to do so. Matching funds for the Jumpstart Biennium, pending permanent rule making,
+can be used broadly to support literacy across grades pre-kindergarten-fifth grade.
+
+For this part of the application, name the fund source(s) for the 25% match. If applicable, name the fund
+source(s) for the matching 4th and/or 5th grade expenditures.
+
+Also indicate which category best describes how the match funds will be spent.
+
+Note: For districts with an ADMw <50, the 25% match will be waived pending temporary rule adoption by
+the State Board of Education. This includes additional matches for 4th or 5th grade expenditures.
+
+
+
+
+                33                                                               Version 1.1 - 10/23/23
+8. Assurances
+ Item                           Description
+
+ Evaluation Criteria            The applicant has verified all of the required assurances.
+
+
+
+Early Literacy Success School District Grant - Specific Assurances
+By checking the following boxes, the applicant agrees that they:
+
+       Have reviewed their early literacy programs to identify areas of alignment with Oregon’s Early
+        Literacy Framework: A Strong Foundation for Readers and Writers (K-5) and the applicant’s work
+        will align with the definitions included in the Early Literacy Success Initiative*
+       Have reviewed the reporting requirements in Section 6 (2) of the Early Literacy Success Initiative
+        and included in the Early Literacy Success School District Grants Application Guidance. *
+       Use literacy assessments, tools, curricula and digital resources that are reflected in the inventory
+        and that they are based on research-aligned literacy strategies and are formative, diagnostic and
+        culturally responsive; and if not, have indicated planned changes to ensure this requirement is
+        met.*
+       Will provide professional development and coaching in research-aligned literacy strategies to
+        teachers and administrators in early elementary grades to improve early literacy instruction; and if
+        not, have provided a rationale and description of how they will plan to do so in the future.*
+       Will provide extended learning programs that use research-aligned literacy strategies to students
+        in early elementary grades by licensed teachers or by qualified tutors; and if not, have provided a
+        rationale and description of how they will plan to do so in the future.*
+       Will provide high-dosage tutoring to students in early elementary grades that integrates reading
+        and writing and that is delivered by a qualified tutor using developmentally appropriate practices;
+        and if not, have provided a rationale and description of how they will plan to do so in the future.*
+       Have a student growth assessment (or have described that they will obtain one) that produces
+        data that can be disaggregated by student groups who have historically experienced academic
+        disparities (as defined in the Early Literacy Success Initiative).*
+
+
+
+
+                 34                                                                 Version 1.1 - 10/23/23
+Overarching Assurances
+     By checking this box, the applicant agrees to comply with all applicable state and federal civil
+      rights laws, to the effect that no person shall be excluded from participation in, be denied benefits
+      of, or otherwise be subject to discrimination under any program or activity on the basis of race,
+      color, national origin, sex, sexual orientation, marital status, gender identity, religion, age, or
+      disability.*
+
+
+
+
+                35                                                                Version 1.1 - 10/23/23
+Detailed Literacy Inventory and Budget Instructions
+This section provides instructions for completing each section of the
+Literacy Inventory and Budget. It is intended to be used while the
+Literacy Inventory and Budget is being completed.
+
+Each section below corresponds to a tab on the Literacy Inventory
+and Budget and includes, where applicable, some or all of the
+following elements:
+
+   ●   Application Item(s) corresponding to that section.
+   ●   Evaluation Criteria that will be used to evaluate the responses
+       to the item.
+   ●   Reporting requirements from the bill so applicants will be
+       able plan for and anticipate what will be required to report.
+   ●   Notes highlighting important information for decision-making
+       related to that item, including exceptions.
+   ●   Recommendations for how to plan for each element of the
+       grant activities and requirements.
+   ●   Definitions and helpful terms to provide clarity of what is required for each item.
+
+
+
+
+                36                                                                  Version 1.1 - 10/23/23
+9. Inventory
+ Item                            Description
+
+
+ Application Item                Complete the Inventory (table).
+
+ Evaluation Criteria             Application includes a core (or basal)21 ELA curriculum for kindergarten-3rd
+                                 grade identified in the Inventory.
+                                      If applicable, inventory includes curriculum for pre-kindergarten.
+
+                                 Application includes a core (or basal) ELA curriculum for 4th grade and/or
+                                 and/or 5th grade identified in the Inventory, if funds are budgeted for
+                                 4th/5th grade.
+
+                                 For districts, only: The adoption date of the core curriculum is on or after
+                                 February 2020.
+                                        If no, there is a description explaining anticipated changes and
+                                        anticipated date of new adoption.
+
+                                 For charters, only: A review or evaluation process of the core curriculum
+                                 using the state criteria adopted in 2020 is indicated in the Inventory.
+                                        If no, description is provided explaining when and how a review using
+                                        the criteria will occur or intent to use curriculum from the SBE list.
+
+                                 For any material types other than core/basal curriculum, all applicable
+                                 information is complete (Title, Vendor, Type, Grades, Date of Adoption, Print
+                                 or Digital)
+
+                                 If applicable, there is a description of any planned changes in order to
+                                 ensure an item in the inventory will meet the research-aligned criteria in the
+                                 future.
+
+                                 A student growth assessment for literacy is submitted in the Inventory.
+                                       If not, a description is provided of how a student growth assessment
+                                       will be obtained and administered.
+
+                                 Note: The “disaggregation of data” requirement for this application
+                                 requirement is evaluated through an assurance.
+
+
+21
+     See Appendix A for the definition of these important terms.
+
+
+
+
+                      37                                                                   Version 1.1 - 10/23/23
+ Item                             Description
+
+
+ Annual Reporting                        ●   Inventory of literacy assessments, tools, curricula and digital
+ Requirement22                               resources used by the school district or charter to support literacy.
+ (November 30th,                         ●   Evidence that the literacy assessments, tools, curricula, and digital
+ 2024)
+                                             resources are used with fidelity to research-aligned literacy
+                                             strategies.
+                                         ●   Curricula being used by the school district or public charter school.
+
+
+
+The application requires an accurate, up-to-date inventory of all literacy assessments, tools, curricula and
+digital resources used to support literacy in early elementary grades.
+
+Applicants must ensure that the literacy assessments, tools, curricula and digital resources of the
+inventory are based on research-aligned literacy strategies, culturally responsive and, where applicable,
+formative and diagnostic. If, however, applicants identify they are using literacy assessments, tools,
+curricula, and/or digital resources that do not meet this standard, these should still be submitted. The
+applicant must provide a description of any planned changes to ensure that the standard is met in the
+future in the last column of the Inventory.
+
+Note: The Inventory includes only materials and curriculum that are currently being used by the applicant.
+Future or planned purchases, or monies being budgeted for that allowable use, should be entered in the
+Budget tab, and described in the Notes column on the Inventory tab.
+
+
+Research-Aligned Materials
+The following recommendations support applicants in determining whether or not instructional materials
+required for the inventory meet the research-aligned standard described in the Definitions & Helpful
+Terms (pg.7) for the purposes of this grant, only. This determination will be further clarified through the
+permanent rulemaking process for future applications.
+
+      ●    Oregon’s State Board Adopted K-2 and K-3 ELA Adoption Criteria are required for the adoption
+           of core or basal curriculum and can be used as a tool to evaluate other instructional materials.
+           Applicants should use the criteria adopted by the State Board of Education most recently in 2020.
+
+
+22
+     See Part 1: Meaningful Reporting.
+
+
+
+
+                       38                                                                     Version 1.1 - 10/23/23
+   ●   Oregon’s Early Literacy Framework includes additional information to inform evaluation and use
+       of assessments, tools, and other instructional materials.
+
+
+Grades
+Applicants must include materials used for:
+   ● Grades kindergarten-3rd grade; and
+   ●   Pre-kindergarten, 4th grade, and 5th grade, if applicable.
+
+Applicants must include materials in the inventory for grades kindergarten through 3rd grade even if grant
+funds are not budgeted for those grade levels. For example, if a district is putting grant funds towards 3rd
+grade only, they must still submit curricula and materials for kindergarten, 1st grade, 2nd grade, 3rd grade,
+and pre-kindergarten (if applicable).
+
+
+Scope of Inventory
+The following definitions are recommendations to support applicants in determining the scope of what to
+include in the inventory for the purposes of this grant, only. These definitions will be further clarified
+through the permanent rulemaking process for future applications.
+
+   ●   Literacy curriculum - Any instructional materials used in practice and/or formally adopted by the
+       local school board for core or basal instruction.
+
+   ●   Core or basal instructional materials - Instructional materials that are intended to be a
+       substantial and ongoing component of literacy instruction. These might include adaptive or
+       personalized programs, digital, or print materials. Applicants are required to adopt basal
+       instructional materials in order to teach the academic content standards for English Language
+       Arts.
+
+   ●   Literacy Tools and Digital Resources - Any supplemental materials, devices, programs, or
+       curriculum used as either core or supplemental to students' literacy instruction. This includes
+       intervention, acceleration, tutoring, or supplemental materials that are used to a substantial degree
+       across elementary schools in student literacy instruction and in addition to the core curriculum.
+
+   ●   Literacy Assessments - Summative, benchmark, diagnostic, interim assessments, and purchased
+       systems of formative assessment practices used to measure student learning across any or all of
+       the four domains of literacy. For definitions, see pages 26-35 of The Right Assessment for the
+       Right Purpose.
+
+
+
+
+                 39                                                                 Version 1.1 - 10/23/23
+Date of Adoption
+   ●    For core or basal curriculum, “Date of Adoption” is the date on which the materials were adopted
+        by the local school board.
+   ●    For all other materials, tools, or assessments, “Date of Adoption” is the date on which the district
+        began its use.
+
+
+Plans for Updating
+If the content in the applicant's inventory does not yet meet the “research-aligned” standard, complete
+the prompt in the last column of the inventor (“Please describe any planned changes or updates for
+materials that are not research-aligned.”)
+
+Note: If the adoption date for an applicant’s core or basal curriculum is before 2020, or if an independent
+adoption did not use the State Board of Education Adoption Criteria for ELA, a description of plans for
+updating is required in the last column of the Inventory.
+
+
+10. Budget 23-24/24-25
+ Item                         Description
+
+
+
+ Evaluation Criteria          Two years of budget tabs are complete.
+
+                              No more than 20% of the 23-24 budget is allocated to 4th and/or 5th
+                              grade, if applicable.
+
+                              No more than 10% of the 24-25 budget is allocated to 4th and/or 5th
+                              grade, if applicable.
+
+                              Proposed investment descriptions align with the associated allowable use
+                              category selected.
+
+                              Any FTE type submitted is one of:
+                                 - Literacy specialist
+                                 - Interventionist
+                                 - Coach
+
+                              No more than 5% of total allocation is budgeted for administrative (or
+
+
+
+
+                 40                                                                  Version 1.1 - 10/23/23
+ Item                                    Description
+
+
+
+                                         indirect) costs.
+
+                                         For each budget tab, the total budgeted amount does not exceed the total
+                                         allocation.
+
+                                         Each activity on both budget tabs:
+                                            - Connects to an allowable use
+                                            - Has a description of the Proposed Investment
+                                            - Specifies:
+                                                    - FTE, if applicable
+                                                    - FTE Type, if applicable
+                                                    - Appropriate allowable use code
+                                                    - 4th/5th Expenditure, if applicable
+                                                    - A budget amount
+
+                                         Any proposed changes indicated in the Inventory are reflected in the
+                                         budget, if applicable.
+                                            a) This is not applicable if:
+                                                   i)   The applicant description names a different funding source
+                                                        to address the change
+                                                  ii)   There are no proposed changes.
+
+ Quarterly Reporting                     Provide actual expenditures and plan changes, as necessary.
+ Requirement23
+The budget tabs are separated into 23-24 and 24-25 as these grants are annual grants, and it is
+important to track expenditures discreetly between each year of the biennium. Both tabs will need to be
+completed as part of this application.
+
+These budget tabs are designed for applicants to articulate specific investments using their Early Literacy
+Success School District Grant funds to support the overall aims of their early literacy plan.
+
+The top three rows (indicated in gray) are automatically populated from other sections, or sources of
+information; these include the following cells:
+    ● Total Allocation
+    ● Total Budgeted Amounts
+    ● Unbudgeted
+
+23
+     See Part 1: Meaningful Reporting.
+
+
+
+
+                       41                                                                    Version 1.1 - 10/23/23
+While completing the expenditures, review these three rows and their autocalculations as a planning
+support.
+
+All expenditures must be aligned to the allowable uses in Section 3 of the Early Literacy Success Initiative.
+
+Applicants are limited on how much of their allocation they can use to support 4th and 5th grade learning.
+Only 20% of a district’s overall allocation can be spent on supporting 4th and 5th grades in the first year,
+and only 10% in the second year.
+
+The following table offers a visual of the limitations for 4th and 5th grade expenditures by year:
+
+
+                        School Year                    Limitation
+
+                        2023-202424                    20% Limitation
+
+                        2024-202525                    10% Limitation
+
+
+Application Item            Grant Allowable Use Category
+
+From the drop-down menu, select the Grant Allowable Use Category that most closely aligns with the
+investment. Your options are:
+    ● Professional Development & Coaching
+    ● Extended Learning Programs
+    ● High-Dosage Tutoring
+    ● Purchasing Curricula & Materials
+    ● Hiring
+
+Three allowable uses (professional development & coaching, high-dosage tutoring, and extended
+learning) were described as narratives in previous application items. The remaining two allowable uses
+(purchasing curricula & materials and hiring) are included in the budget and do not require a narrative
+description.
+
+
+
+
+24
+     Applicants are not required to spend funds on 4th and 5th grade literacy.
+25
+     Applicants are not required to spend funds on 4th and 5th grade literacy.
+
+
+
+
+                      42                                                            Version 1.1 - 10/23/23
+Purchasing Curricula & Materials
+Grant funds may be used for the adoption of curricula that uses research-aligned literacy strategies and
+the implementation of that curricula. Funding for this allowable use may be used to:
+   ● Purchase curricula and materials that are culturally relevant
+   ● Provide professional development and time for teachers and administrators to attend training
+       related to the curricula (described further in section professional development and coaching)
+
+The scope (such as the scope of “materials”) and other details of these definitions will be further clarified
+through the permanent rulemaking process for future implementation. The purchase of a student growth
+assessment is an allowable use (see Part II: Student Growth Assessment).
+
+The following recommendations support applicants in determining whether or not instructional materials
+required for the inventory meet the research-aligned standard described in the Definitions & Helpful
+Terms (pg.7) for the purposes of this grant, only. This determination will be further clarified through the
+permanent rulemaking process for future applications.
+   ● Oregon’s State Board approved Adoption Criteria for ELA Instructional Materials offer a strong
+        framework for applicants to evaluate instructional materials as being research-aligned and
+        culturally responsive. Additional resources on high-quality instructional materials can be found on
+        Oregon Department of Education's High-Quality Instructional Materials webpage.
+   ● Oregon’s Early Literacy Framework includes additional information to inform evaluation and use
+        of assessments, tools, and other instructional materials.
+
+
+Hiring: Employment of Literacy Specialists, Interventionists, and Coaches
+Funds for the employment of literacy specialists, coaches or interventionists are an allowable use of these
+grant funds. The scope (such as the definition of each of the roles named above) and other details of this
+allowable use will be further clarified through the permanent rulemaking process for future
+implementation.
+
+
+ Application Item     Proposed Investments
+
+Provide a brief description of the proposed investment. For example, “Provide PD to K-1 teachers on new
+writing curriculum,” or “Hire Literacy Coaches.” Applicants should consider how literacy specialists,
+coaches, and interventionists support the implementation of the other allowable uses and how their roles
+will have a direct impact on student learning and teacher practice.
+
+
+
+
+                 43                                                                 Version 1.1 - 10/23/23
+ Application Item    FTE & FTE Type
+
+If there is FTE associated with the investment, indicate how much FTE and the Type of FTE from the
+dropdown that most closely aligns to the investment.
+
+
+ Application Item    Allowable Use Code
+
+Select the more granular allowable use code connected to the investment. Options for Allowable Use
+Code follow:
+
+
+       Allowable Use Code       Description
+
+
+       CRCM                     Purchase Culturally Relevant Curricula & Materials
+
+       CTPD                     Curricula Training & Professional Development
+
+       PDC                      Professional Development and Coaching
+
+       1:1HDT                   1:1 High Dosage Tutoring
+
+       SGHDT                    Small Group High Dosage Tutoring
+
+       ELPH                     Extended Learning Programs - Home-based Summer Reading
+
+       ELPSS                    Extended Learning Programs - Intensive Summer School
+
+       ELPO                     Extended Learning Programs - Other
+
+
+
+ Application Item    Object Code
+
+Select the appropriate object code connected to the investment.
+
+
+ Application Item    4th or 5th Grade Expenditure
+
+If applicants are choosing to invest in 4th or 5th grade, add those expenditures as individual investments
+so the Oregon Department of Education can accurately calculate expenditures to ensure adherence to
+the 20% limitation for 2023-24 and 10% for 2024-25.
+
+
+
+
+                44                                                                Version 1.1 - 10/23/23
+Application Item     Literacy Budget
+
+Add the dollar amount that is budgeted from the Early Literacy Success School District Grant for the
+specific investment. When the budget is finished, the sum of this column should equal the applicant’s
+total allocation for each year.
+
+
+ Application Item    Employment of Literacy Specialists, Interventionists, and Coaches
+
+Funds for the employment of literacy specialists, coaches or interventionists are an allowable use of
+funds. The scope (such as the definition of each of the roles named above) and other details of this
+allowable use will be further clarified through the permanent rulemaking process for future
+implementation.
+
+Applicants should consider how literacy specialists, coaches, and interventionists support the
+implementation of the other allowable uses and how their roles will have a direct impact on student
+learning and teacher practice.
+
+
+
+
+                45                                                                Version 1.1 - 10/23/23
+Appendix A: Definitions and Helpful Terms
+Definitions
+The following definitions come from the Early Literacy Success Initiative:
+   ● “Early elementary grades” means any grade from pre-kindergarten through grade three.
+
+   ●   “Elementary school” means a school of a school district, or a public charter school, with students in
+       early elementary grades.
+
+   ●   “Extended learning programs” are programs that use research-aligned literacy strategies and that
+       are made available to students in early elementary grades by licensed teachers or by qualified
+       tutors. Extended learning programs may include, but are not limited to:
+           ○ Home-based summer reading activities for students who need additional support and
+               enrichment; and
+           ○ An intensive summer school program for students who need the most additional support
+               and who receive at least 60 hours of direct literacy instruction by an instructional assistant
+               or a licensed teacher trained in research-aligned literacy strategies.
+
+   ●    “High-dosage tutoring” means one-on-one tutoring or tutoring in small groups, as determined by
+       rule of the State Board of Education, that:
+           ○ Is provided in addition to daily instruction;
+           ○ Is provided two or more times each week over at least a 10-week period; and
+          ○   Uses a research-aligned tutoring model that is administered in a culturally responsive
+              manner and that is combined with the training necessary for tutors to implement the model
+              effectively.
+
+   ●   “Pre-kindergarten” means a preschool or pre-kindergarten program that is:
+          ○ Provided by a school district or public charter school; or
+          ○ Delivered in partnership between a school district and another organization.
+
+   ●   “Preschool” means a high-quality program that serves children at least three years of age but not
+       older than five years of age.
+
+
+
+
+                46                                                                  Version 1.1 - 10/23/23
+●   “Public charter school” means a public charter school that: (a) Is established under ORS chapter
+    338; and (b) Is not a virtual public charter school, as defined in ORS 338.005.
+
+●   “Qualified tutor” means an individual who is trained to implement a program providing high-
+    dosage tutoring.
+
+●   “Research-aligned literacy strategies” means strategies that:
+       ○ Are literacy focused;
+       ○ Are culturally responsive and relevant to diverse learners; (c) Are based on long-term
+          research derived from the science of reading and writing; and (d) Apply instructional
+           practices that are developmentally appropriate and specifically designed for students with
+           disabilities and students who are English language learners.
+
+●   “Science of reading and writing” means:
+       ○ The convergence of findings from research on reading and writing processes, development
+           and instruction; and
+       ○ The teaching of phonemic awareness, phonics, fluency, vocabulary and comprehension
+           through explicit and systematic instruction that can be differentiated to meet the needs of
+           individual learners through developmentally appropriate practices.
+
+●   “Student groups that have historically experienced academic disparities” means:
+       ○   Economically disadvantaged students, as determined under rules adopted by the State
+           Board of Education;
+       ○   Students from racial or ethnic groups that have historically experienced academic
+           disparities, as determined under rules adopted by the State Board of Education;
+       ○   Students with disabilities;
+       ○   Students who are English language learners;
+       ○   Students who are foster children, as defined in ORS 30.297; (f) Students who are homeless,
+           as determined under rules adopted by the State Board of Education;
+       ○   Students who attend an elementary school that:
+              ■ Is identified for comprehensive support and improvement or for targeted support
+                 and improvement under the federal Every Student Succeeds Act (P.L. 114-95, 129
+                 Stat. 1802); or
+              ■   Qualifies for assistance under Title I of the federal Elementary and Secondary
+                  Education Act of 1965; or
+
+
+
+
+             47                                                               Version 1.1 - 10/23/23
+              ○   Any other student groups that have historically experienced academic disparities, as
+                  determined under rules adopted by the State Board of Education by rule.
+
+
+Helpful Terms
+Additional terms developed to support applicants. Note that these and other definitions will be further
+clarified through the permanent rulemaking process for future implementation.
+
+      ●   “Coaching” - Where this law names “coaching” it should be understood as an array of practices
+          that support teachers through regular feedback and practice, formally or informally, to support
+          implementation of research-aligned literacy practices and student learning.
+
+      ●   “Core or basal instructional materials” are instructional materials that are intended to be a
+          substantial and ongoing component of literacy instruction. These might include adaptive or
+          personalized programs, digital, or print materials. Applicants are required to adopt basal
+          instructional materials in order to teach the academic content standards for English Language
+          Arts.
+
+      ●   “Developmentally appropriate”26can be thought of as “an approach to teaching grounded in the
+          research of how children develop and learn and in what is known about effective early education …
+          developmentally appropriate practice involves teachers meeting young children where they are
+          (by stage of development), both as individuals and as part of a group.” The National Association for
+          the Education of Young Children also identifies three core considerations of developmentally
+          appropriate practice:
+             ● knowledge of child development and learning,
+             ● knowledge of children as individuals, and
+             ● knowledge of children’s cultures.
+
+      ●   “Early literacy program” should be considered as the entirety of the curriculum, assessments,
+          instructional materials, practices, systems, staffing, and structures in place to support
+          comprehensive early literacy across the district.
+
+      ●   “Literacy Assessments” can be considered summative, benchmark, diagnostic, interim
+          assessments, and purchased systems of formative assessment practices used to measure
+          student learning across any or all of the four domains of literacy. For definitions, see pages 26-35
+          of The Right Assessment for the Right Purpose.
+
+
+26
+     Oregon’s Early Learning & Kindergarten Guidelines
+
+
+
+
+                    48                                                                Version 1.1 - 10/23/23
+●   “Literacy curriculum” can be considered any instructional materials used in practice and/or
+    formally adopted by the local school board for core or basal instruction.
+
+●   “Literacy Tools and Digital Resources” can be considered any supplemental materials, devices,
+    programs, or curriculum used as either core or supplemental to students' literacy instruction. This
+    includes intervention, acceleration, tutoring, or supplemental materials that are used to a
+    substantial degree across elementary schools in student literacy instruction and in addition to the
+    core curriculum.
+
+●   “Professional development” for this grant can be considered similarly to its definition as articulated
+    in the Oregon Department of Education’s Integrated Guidance: learning opportunities that support
+    educators and administrators in instructional strategies for equity-centered, research-aligned, and
+    culturally responsive literacy instruction that considers the context of each district, may elevate
+    critical topics in system change strategies for early literacy, and support educators in leveraging
+    high-quality, research-aligned instructional materials and curriculum to serve all students.
+
+
+
+
+             49                                                                 Version 1.1 - 10/23/23
+Appendix B: Evaluation Criteria
+This appendix is intended to be transparent with how applications will be reviewed by the Oregon
+Department of Education starting in January 2024. Applicants can choose to use this as a form of self-
+assessment, but it is not required. Multiple reviewers will read and evaluate each application and their
+attachments.
+
+
+Intake Checklist
+ Required Attachments                                           Yes                 No
+
+    1.   Board Approval Meeting Minutes
+
+    2. Literacy Inventory and Budget
+
+    3. Amended MOU (for those in an Aligned Program
+       Consortia)
+
+ Completion Check                                               Yes                 No
+
+    1.   Are all questions on the application answered?
+
+    2. Have all assurances been verified?
+
+
+
+Program Review
+For All Applicants                                              Meets         Does Not Meet
+
+Program review includes a reflection for each section
+with evidence of clear reflection and connection to
+indicators.
+
+
+
+
+                 50                                                               Version 1.1 - 10/23/23
+Descriptions of Professional Development & Coaching, Extended
+Learning, and High-Dosage Tutoring
+For All Applicants                                         Meets   Does Not Meet
+
+The description of how the applicant will provide
+professional development and coaching in research-
+aligned strategies includes:
+
+   ●   the research-aligned literacy strategies that the
+       professional development and coaching will
+       focus on (required);
+   ●   the target audience (including roles) for the
+       professional development and coaching
+       (required); and
+   ●   the literacy assessments, tools, curricula or
+       digital resource(s) the professional development
+       will focus on (as applicable).
+
+If the applicant is not yet able to implement
+professional development and coaching, applicants
+have submitted a rationale and description of how they
+plan to do so in the future.
+
+The description of how the applicant will provide
+extended learning programs that use research-aligned
+literacy strategies and that are made available by
+licensed teachers or by qualified tutors includes both:
+     ● a description of how literacy is included as the
+        focus of the program, and
+     ● who will provide the extended learning and their
+        qualifications.
+
+ If the applicant is not yet able to implement extended
+learning programs, applicants have submitted a
+rationale and description of how they plan to do so in
+the future.
+
+The description of how the applicant will provide high-
+
+
+
+
+               51                                                     Version 1.1 - 10/23/23
+ For All Applicants                                          Meets   Does Not Meet
+
+ dosage tutoring that integrates reading and writing and
+ that is delivered by a qualified tutor using
+ developmentally appropriate practices includes all four
+ details:
+    ● the domains of language27 addressed (at least
+         reading and writing);
+    ● who will provide the high dosage tutoring and
+         their qualifications;
+    ● duration and frequency; and
+    ● how the tutoring is developmentally appropriate,
+         including how it is responsive to student need.
+
+ If the applicant is not yet able to implement high-
+ dosage tutoring, applicants have submitted a rationale
+ and a description of how they plan to do so in the
+ future.
+
+
+Student Growth Assessment
+ For All Applicants                                          Meets   Does Not Meet
+
+ A student growth assessment for literacy is submitted in
+ the Inventory.
+        If not, a description is provided of how a student
+        growth assessment will be obtained and
+        administered
+ Note: The “disaggregation of data” requirement for this
+ application requirement is evaluated through an
+ assurance.
+
+
+
+
+27
+     Reading, Writing, Speaking, and Listening.
+
+
+
+
+                       52                                               Version 1.1 - 10/23/23
+Communication Plan
+For All Applicants                                            Meets   Does Not Meet
+
+At least one communication strategy for each
+community group is provided:
+   ●   School districts;
+   ●   Elementary schools of the school district;
+   ●   Families of the school district; and
+   ●   Members of the school district community
+
+
+
+Matching Funds
+For All Applicants                                            Meets   Does Not Meet
+
+At least one source to match 25% of the total allocation
+is named and at least one category is selected for its
+use.
+       If applicable, a fund source is named for the 4th
+       and/or 5th grade match.
+
+
+
+Inventory & Curriculum Review
+For All Applicants                                            Meets    Does Not Meet
+
+Application includes a core (or basal) ELA curriculum for
+grades K-3 identified in the Inventory.
+       If applicable, inventory includes curriculum for
+       pre-kindergarten.
+
+Application includes a core (or basal) ELA curriculum for
+grades 4 and/or 5 identified in the Inventory, if funds are
+budgeted for 4th/5th grade.
+
+For districts, only: The adoption date of the core
+curriculum is on or after February 2020.
+       If no, there is a description explaining anticipated
+       changes and anticipated date of new adoption
+
+
+
+
+                53                                                       Version 1.1 - 10/23/23
+For All Applicants                                             Meets   Does Not Meet
+
+
+For charters, only: A review or evaluation process of the
+core curriculum using the state criteria adopted in 2020
+is indicated in the Inventory.
+        If no, description is provided explaining when and
+        how a review using the criteria will occur or intent
+        to use curriculum from the SBE list.
+
+
+For any material types other than core/basal curriculum,
+all applicable information is complete (Title, Vendor,
+Type, Grades, Date of Adoption, Print or Digital)
+
+If applicable, there is a description of any planned
+changes in order to ensure an item in the inventory will
+meet the research-aligned criteria in the future.
+
+A student growth assessment for literacy is submitted in
+the Inventory.
+       If not, a description is provided of how a student
+       growth assessment will be obtained and
+       administered
+Note: The “disaggregation of data” requirement for this
+application requirement is evaluated through an
+assurance.
+
+
+Budget (Including Proposed Hiring and/or Content)
+For All Applicants                                             Meets   Does Not Meet
+
+Two years of budget tabs are complete.
+
+No more than 20% of the 23-24 budget is allocated to
+4th and/or 5th grade, if applicable.
+
+No more than 10% of the 24-25 budget is allocated to
+4th and/or 5th grade, if applicable.
+
+Proposed investment descriptions align with the
+
+
+
+
+                54                                                      Version 1.1 - 10/23/23
+For All Applicants                                       Meets   Does Not Meet
+
+associated allowable use category selected.
+
+No more than 5% of total allocation is budgeted for
+administrative (or indirect) costs.
+
+For each budget tab, the total budgeted amount does
+not exceed the total allocation.
+
+Each activity on both budget tabs:
+   - Connects to an allowable use
+   - Has a description of the Proposed Investment
+   - Specifies:
+           - FTE, if applicable
+           - FTE Type, if applicable
+           - Appropriate allowable use code
+           - 4th/5th Expenditure, if applicable
+           - A budget amount
+
+Any proposed changes indicated in the Inventory are
+reflected in the budget, if applicable.
+       This is not applicable if:
+          i)   The applicant description names a
+               different funding source to address the
+               change
+         ii)   There are no proposed changes.
+
+
+
+
+               55                                                Version 1.1 - 10/23/23
+

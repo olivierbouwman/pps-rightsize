@@ -1,0 +1,354 @@
+                                                    Bond Performance Audit Tracker
+                                            Status of Performance Audit Recommendations
+                                                        May 2024 - BAC Report
+
+
+
+                                        2019 Phase 2 Bond Performance Audit Recommendations
+Program      #                                Abbreviated Recommendation                                          Response             Status
+                  Develop a written plan for establishing and prioritizing corrective actions needed to
+  2017       1    address project delivery issues related to change orders, contractor invoices, and other Concur                   Complete
+                  recommendation noted in prior audits of 2012 Bond projects.
+                  Develop a written plan or strategy for identifying and incorporating additional funding
+  2017       2    options if future bond funds are not available and regularly communicate and discuss Complete                     Complete
+                  progress with the Board and Bond Accountability Committee
+                  Ensure cost estimates are fully documented with underlying support and rationale used
+  2017       3    for soft costs and FF&E - in addition to other cost components - including variations or Concur                   Complete
+                  deviations from stated methodology.
+                  Implement the new cash flow planning process as intended at the start of the Fiscal
+  2017       4                                                                                             Concur w/ comment        Complete
+                  Year 2019-2020, and update cash flows regularly.
+                  Immediately allocate and concentrate efforts on completing the overdue Fiscal Year
+                  2018-2019 reconciliations between e-Builder construction management system and the
+  2017       5                                                                                             Concur                   Complete
+                  PeopleSoft financial system, as well as ensure future reconciliations are regularly
+                  performed in a timely manner
+                  Update and re-issue the PMP, in addition to individual school PTMPs, as well as
+  2017       6    consider developing quick tools, guides, and checklists to help project teams implement Concur                    Complete
+                  the protocols identified in the PMP and PTMPs.
+                  Formally communicate, clarify and train OSM project teams and individuals involved
+  2017       7    with project delivery on existing document management protocols including                Concur                   Working
+                  requirements and expectations for usage.
+                  Standardize design deviation logs by identifying consistent information to be
+  2017       8                                                                                             Concur w/ comment        Complete
+                  maintained for each project and ensure approvals are documented
+                  Establish a tracking mechanism to store proposed changes to Ed Specs and Design
+  2017       9                                                                                             Concur w/ comment        Complete
+                  Standards in an accessible location
+                  Supplement the "Decision Making Hierarchy" process with written guidance on what
+                  decisions to bring forward and elevate beyond the project team as well as train project
+  2017       10                                                                                            Concur w/ comment        Working
+                  teams on standard practice for value engineering deviations - as well as Ed Spec and
+                  Design Standard deviations
+                  Better document lessons learned by: categorizing lessons learned log items into
+                  separate subcategory section allowing project managers to more easily identify relevant
+  2017       11                                                                                            Concur                   Complete
+                  items; and summarizing lessons learned and regularly distribute or discuss items with
+                  project teams.
+
+
+Audit Year        Summary of Recommendations                                                               Percent Completed
+2019 Ph 2         11 Recommendations, 9 completed                                                          82% Completed
+
+                  Status Notes on Recommendations Not Completed
+                  OSM ordered and distributed PPS computer equipment for all non-PPS staff and requires that all PPS-related work be
+                  performed on PPS equipment utilizing PPS document management systems. A new file naming convention was implemented.
+2019 Ph 2    7
+                  Folder structure revisions were discussed but it has been determined to keep existing folder structures and develop additional
+                  training materials. Materials are being developed.
+
+                  OSM is developing decision examples and working with project staff to identify inconsistencies or questions that will need to
+2019 Ph 2    10
+                  be addressed by the guidance.
+
+
+
+
+                                                                                                        05 29 2024 BAC Report - Page 1 of 6
+                                                    Bond Performance Audit Tracker
+                                            Status of Performance Audit Recommendations
+                                                        May 2024 - BAC Report
+
+
+
+                                            2020 Bond Performance Audit Recommendations
+Program      #                                Abbreviated Recommendation                                        Response            Status
+                  Provide the Board an analysis discussing implications if voters do not approve the
+                  November 2020 Bond on the Benson High School Project, in particular, as well as other
+                  2017 Bond projects, as appropriate. At the minimum, this analysis should provide cash
+  2017       1                                                                                              Nonconcur             Complete
+                  flow projections for the Benson High School project, and deliberate on the effects of a
+                  full faith and credit loan option to ensure the Board can make informed decisions going
+                  forward.
+                  Implement plans to ensure project team members have needed access to e-Builder and
+  2017       2    that key non-PPS employees in critical project roles have computers to access project Completed                 Complete
+                  information.
+                  Revisit systems and tools used on a go-forward basis for capturing H&S project
+  2017       3    expenditure and status data to be able to more efficiently generate reliable data to      Concur with Comment   Complete
+                  address H&S project status reporting needs to oversight bodies and the public.
+                  Complete the development of the interactive map tool and ensure the map is
+                  supplemented with summary information about the H&S program. At the minimum,
+  2017       4    the public information should provide common data from each H&S category in a             Concur                Complete
+                  standardized format that provides easy tracking of current budget, schedule, status,
+                  and delivery plans in relation to initial Bond plans.
+                  Require and maintain more consistent documentation associated with the review of
+                  price proposals or quotes from construction contractors related to change orders
+  2017       5    through means such as incorporating project team notes, uploading negotiations in         Concur                Complete
+                  email correspondence, or marked-up price proposals, into the e-Builder system to
+                  provide evidence of OSM’s due diligence in reviewing contractor change order prices.
+                  Prohibit contractors to perform any work for the district until a fully executed contract
+  2017       6    is in place or a formal written authorization is provided to allow for pre-contract       Concur with Comment   Complete
+                  execution work to start.
+                  Conduct a post-project completion analysis for the Madison and Lincoln High School
+                  projects to evaluate benefits and challenges of the CM/GC delivery method overall, as
+                  well as specific aspects such as timing of Guarantee Maximum Price (GMP) contract
+  2017       7    amendments, and make process changes as warranted. The evaluation should consider Concur with Comment           Working
+                  components suggested by ORS279.103 and provide a comparison of actual project cost
+                  against original project estimates, change order number, value and type, as well as
+                  descriptions of success and failures during design and construction.
+                  Memorialize and discuss underlying rationale and decisions related to the timing of
+  2017       8    GMP negotiations with the Bond Accountability Committee, and present to the Board Concur with Comment           Complete
+                  for future CM/GC GMP contract amendments as appropriate.
+                  Clarify and incorporate language in CM/GC contracts, as appropriate, related to
+  2017       9    contractor financial records in accordance with generally accepted accounting             Concur                Complete
+                  principles.
+                  Address inconsistencies between the contract for architect/engineer services and the
+                  CM/GC contract for construction services related to the timing of reconciled cost
+  2017       10                                                                                             Concur                Complete
+                  estimates for future projects by ensuring that the same deliverable milestones are
+                  included in both contracts.
+                  Evaluate payment terms and conditions for all H&S low-bid lump-sum contracts to
+  2017       11   ensure consistency between procurement documents, contract language, and actual           Concur                Complete
+                  payment process practices.
+
+
+Audit Year        Summary of Recommendations                                                             Percent Completed
+  2020            11 Recommendations, 10 completed                                                       91% Completed
+
+                  Status Notes on Recommendations Not Completed
+
+                  Post-project analysis of the Madison and Lincoln High School CM/GC contracts is already required by Portland Public Schools
+                  Public Contracting Rules for contracts procured through an alternative delivery method, following the requirements of ORS
+  2020       7    279C. However, this analysis cannot be completed until after the later of the date of final payment or the date of final
+                  completion. The Madison (McDaniel) project has closed out its CM/GC contract and is commencing the post-project analysis.
+                  The Lincoln project has not fully closed out its CM/GC contract yet.
+
+
+
+
+                                                                                                      05 29 2024 BAC Report - Page 2 of 6
+                                                     Bond Performance Audit Tracker
+                                             Status of Performance Audit Recommendations
+                                                         May 2024 - BAC Report
+
+
+                                             2021 Bond Performance Audit Recommendations
+Program      #                                 Abbreviated Recommendation                                               Response       Status
+                  The PPS Board should revisit its Equity in Public Purchasing and Contracting (“EPPC”)
+                  Policy to clarify and define the District’s vision, goals, and commitment to business
+                  equity. This should include reassessing the overall intent, determining how equity is
+  2017       1                                                                                                 Concur with Comment Working
+                  characterized, and expanding on what attainment of business equity goals for the
+                  District should entail.
+
+                  Further develop the Board’s overarching vision into more succinct measurable subgoals
+                  or objectives, support new goal setting defendable data, and define qualitative and
+  2017       2                                                                                          Concur                      Working
+                  quantitative metrics to measure against new goals.
+
+                  Conduct a cost-benefit analysis of available business equity strategies, such as those
+                  outlined in this report, and include considerations such as long-term versus short-term
+  2017       3    strategies, direct versus intangible “investment” type strategies, and unintended       Concur                    Working
+                  consequences.
+
+                  Develop tools and protocols to capture outcomes of chosen equity strategies, and
+  2017       4    validate outcome data accuracy.                                                              Concur with Comment Working
+
+                  Create protocols to expand on existing business equity annual reporting to include an
+                  assessment of whether annual equity outcomes realized meet the intent of the EPPC
+  2017       5    Policy and goals of the Administrative Directive, or if modification to the portfolio of     Concur               Working
+                  equity strategies is warranted, and based on results, adjust strategies as necessary.
+
+                  Develop and formalize operating procedures to define the roles, responsibilities and
+                  expectations of PPS staff specific to managing contractor and consultant business
+  2017       6    equity compliance, reporting on outcomes, and coordinating efforts to bolster PPS’           Concur               Complete
+                  presence and visibility in the certified business community.
+
+                  Provide context and explanation of nuances and limitations of B2GNow data in
+  2017       7    presentations and reports to the Board and the Bond Accountability Committee.                Concur               Complete
+
+
+                  Develop a PPS-led training to provide new and existing contractors and consultants
+                  guidance on equity reporting requirements and expectations; and provide refreshers on
+  2017       8                                                                                            Concur with Comment Complete
+                  training materials on an established schedule over the course of the contract duration.
+
+
+                  Conduct a review to explore system capabilities, functions, and reports with the
+  2017       9    B2GNow vendor that could enhance PPS’ management of business equity efforts.                 Concur               Complete
+
+                  Develop new and strengthen existing protocols for capturing institutional knowledge
+                  currently held by one OSM staff member to ensure information and processes about
+                  Bond Communication efforts is retained with PPS. Protocols could include establishing
+  2017       10   key policies and procedures, cross-training staff on communication activities and       Concur                    Complete
+                  knowledge, creating a resource library, and providing data sources, timestamps, “as of”
+                  dates, and follow-up contact information, as appropriate.
+
+
+
+Audit Year        Summary of Recommendations                                                                   Percent Completed
+  2021            10 Recommendations, 5 completed                                                              50% Completed
+
+                  Status Notes on Recommendations Not Completed
+                  Policy updates are scheduled by the Board and are therefore subject to the Board’s timeline. The Board is reviewing policy in
+  2021       1
+                  this area and staff awaits further direction.
+
+
+
+
+                                                                                                             05 29 2024 BAC Report - Page 3 of 6
+                                              Bond Performance Audit Tracker
+                                      Status of Performance Audit Recommendations
+                                                  May 2024 - BAC Report
+
+           Status Notes on Recommendations Not Completed
+
+           As an initial step, staff identified new potential focus areas in reporting, in addition to total amount paid to Certified
+           Businesses. These new focus areas include: number of firms and number of unique Certified Businesses utilized at prime and
+           sub level; number of Certified Businesses that access bid documents, number that bid, and percent awarded; and percentage
+2021   2
+           of total prime contract awards going to Certified Businesses. Further implementation of this recommendation will depend on
+           Board decision-making regarding policy updates and/or development of new reporting areas as determined through the
+           annual business equity review and reporting cycle discussed below.
+
+
+           This is being developed as part of an annual business equity review and reporting cycle. Staff are working on developing the
+2021   3
+           components, scope and schedule of this new annual review.
+
+
+           As noted in the Draft Report, it can be difficult to find a direct correlation between “how a particular strategy employed
+2021   4   results in increased or decreased utilization rates.” Staff are reviewing potential tools to capture outcomes, with the
+           understanding that not all outcomes may be able to be directly attributed to chosen equity strategies.
+
+           Staff are working on an SOP for an annual review and reporting process of of business equity strategies that will assess
+           strategies in place during the previous year, identify potential changes or new strategies, develop cost-benefit analyses for use
+2021   5   in selection of the strategies in the upcoming year, and collect and analyze outcome data over the course of the year. An SOP
+           of the proposed annual review and reporting process is in development. Once the SOP is complete and adopted, this
+           recommendation will be closed.
+
+
+
+
+                                                                                                  05 29 2024 BAC Report - Page 4 of 6
+                                                    Bond Performance Audit Tracker
+                                            Status of Performance Audit Recommendations
+                                                        May 2024 - BAC Report
+
+
+                                             2022 Bond Performance Audit Recommendations
+Program      #                                Abbreviated Recommendation                                              Response       Status
+
+                  Complete development of and memorialize policies, procedures, and e-Builder
+ 2017 /
+             1    processes related to construction closeout as well as train project staff on new closeout Concur with comment    Working
+  2020
+                  protocols before the remaining 2017 Bond projects are completed.
+
+ 2017 /           Develop protocols for regularly identifying, reviewing and assessing workforce equity
+             2                                                                                               Concur                Working
+  2020            strategies on a designated timeline.
+                  Clarify the Workforce Equity Administrative Directive protocols for whether workforce
+ 2017 /
+             3    equity outcomes and progress should be measured and reported in aggregate or               Concur                Working
+  2020
+                  disaggregated by each apprenticeable trade.
+
+ 2017 /           Conduct a review of workforce equity program specifications and analyze whether
+             4                                                                                               Concur                Working
+  2020            existing rules could be enhanced to benefit intended target audiences.
+
+                  Continue in-progress efforts to revisit the types of key performance indicators it should
+ 2017 /
+             5    track and report on that best align with PPS overall objectives and Bond project          Concur                 Working
+  2020
+                  objectives.
+
+ 2017 /           Require general contractors to consistently report specific safety performance data to
+             6                                                                                               Concur                Working
+  2020            OSM.
+
+                  Establish a formal framework for CBSE management and staffing with clear roles and
+  2020       7                                                                                               Concur                Working
+                  responsibilities with defined authority and accountability.
+
+                  Update existing CBSE implementation schedule with realistic dates, interim milestones
+  2020       8                                                                                            Concur with comment      Working
+                  or progress targets, general tasks and activities, and plans to get CBSE back on track.
+
+                  Work with key PPS departments to put a general CBSE implementation plan in place
+  2020       9    and ensure a quick start for capital purchases or capital building as soon as CBSE         Concur                Working
+                  concepts and goals are solidified.
+
+                  Create CBSE project management plans and structure to identify general tasks and
+  2020       10   monitoring mechanisms to set, track, and report on baseline and revised schedules,         Concur with comment   Working
+                  original and revised budgets, and progress toward meeting delivery goals.
+
+
+
+Audit Year        Summary of Recommendations                                                                 Percent Completed
+  2022            10 Recommendations, 0 completed                                                            0% Completed
+
+                  Status Notes on Recommendations Not Completed
+                  Staff concur with this recommendation on continuing to develop and memorialize closeout policies and procedures, while
+                  noting that project staff training is already in place and plays a significant role in the refinement of the policies and
+  2022       1
+                  procedures. Staff is working on revising the automated close-out processes in eBuilder, OSM's project management software,
+                  to better reflect differences between OSM and FAM, the two PPS users of the software.
+
+                  Staff agree that an annual review of workforce equity strategies, and plan of changed or new strategies for the upcoming
+                  year, would allow for a more structured framework in which to identify potential changes or new strategies, develop cost-
+  2022       2
+                  benefit analyses, and collect and analyze outcome data. Once the framework has been put in place for the business equity
+                  annual review previously recommended, a similar program will be developed for workforce equity.
+
+  2022       3    Staff are reviewing the value of different methodologies in reporting workforce equity outcomes.
+
+  2022       4    This recommendation is under review by staff.
+
+  2022       5    Staff are working to determine best Key Performance Indicators for different audiences.
+
+  2022       6    Staff are working to implement a monthly reporting requirement tracked through eBuilder.
+
+  2022       7    This is in development along with other aspects of CBSE implementation.
+
+
+
+
+                                                                                                           05 29 2024 BAC Report - Page 5 of 6
+                                              Bond Performance Audit Tracker
+                                      Status of Performance Audit Recommendations
+                                                  May 2024 - BAC Report
+
+            Status Notes on Recommendations Not Completed
+
+            Staff is working to include additional detail in the CBSE implementation schedule. It is important to note, however, that the
+            determination of specific capital improvements to be implemented is dependent on community feedback. PPS is choosing to
+2022   8
+            prioritize the appropriate amount of time for that community feedback, even if it means the timeline of capital improvement
+            work does not follow the conceptual schedule proposed when the bond first passed.
+
+            An implementation plan is one of the key deliverables that the CBSE is already working to put together, but, as noted in the
+2022   9
+            recommendation, it is dependent on first finalizing a community co-created CBSE Vision and CBSE Comprehensive Plan.
+
+            Project management plans, baseline schedules and budgets will be developed for the Bond-funded capital improvements of
+2022   10
+            CBSE once the specific improvements have been defined.
+
+
+
+
+                                                                                                  05 29 2024 BAC Report - Page 6 of 6
+

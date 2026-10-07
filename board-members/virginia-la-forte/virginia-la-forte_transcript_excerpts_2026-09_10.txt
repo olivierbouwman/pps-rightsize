@@ -1,0 +1,137 @@
+Virginia La Forte (Zone 5; TLE Committee chair 2026-27) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296 (launch rightsizing): NO (passed 5-2; La Forte and Engelsman no). Moved an amendment adding recitals on Decision Criteria and Analysis, Equity Impact, Community Engagement, Timeline, Financial Transparency, and Policy Alignment - the motion to adopt those changes FAILED 3-4 (yes: La Forte, Engelsman, Sullivan; no: Chase-Miller, DePass, Splitt, Wang) per the roll call in the draft minutes and the video (~02:13:01); the minutes' summary line erroneously says 'passed 4-3'. Voted NO on "will"->"may". Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles 7-0.
+- 2026-09-29 Res. 7382 bond-audit responses: NO on DePass Rec. 28 amendment (failed 3-4); MOVED striking "depend on budget availability" in Rec. 28 (passed 4-3: Splitt, Sullivan, Engelsman, La Forte); YES Splitt Rec. 4 amendment (6-1); NO on Wang's "additional auditor" wording (5-2); YES on striking Rec. 34 caveat and YES on Rec. 34 as amended (both 4-3).
+- 2026-10-06 Res. 7383 and consent agenda 7-0.
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:34:50 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9290s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte"; staff summary 02:48:38: "Director La Forte wants to look at various options, but from a magnitude perspective... potentially go big"; WW quotes the same lines)
+  topic: data is sobering; "tipping point"; open on magnitude
+  "I'm truly grateful [...] that Superintendent Armstrong is taking on this conversation. [...] the data is sobering [...] I was in [Alameda] this morning [...] back when there were 770 kids in the building and [...] I think we might be around 470 or 480. [...] We just don't have the bodies that we had 10 or 15 years ago. [...] the sense of urgency feels very real to me when I'm in those schools. [...] it does feel like we're at a tipping point [...] that we may need to make some big swings."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:36:13 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9373s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: K-8 model and family retention
+  "I was always of the notion that [...] the middle school model was the way to go until there was a presentation [...] I started paying attention to those transitions from [...] our K5s to middle schools [...] are we losing families? [...] is there a compelling case to be made for K8s [...] in terms of like magnitude, I'm [...] wide open [...] whatever it takes for [...] us to [...] increase our capture rate, retain our families and [...] support our students mental health [...] 20 schools that was pretty wild"
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:54:35 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=3275s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (TLE committee chair; "benefit of going fourth"; later "check in with our board members online")
+  topic: specificity of programming to compete with private schools; fiscal impact
+  "once we work through this and we vote at the end of the year, [...] we're rolling right into the time when private schools start recruiting for the following year. So, I think it's really important that we have some clarity around what we're offering because those are often the things that are going to keep our students with PPS. [...] when the board sees the options will we see [...] some sort of fiscal impact statement [...] it's one of the number one questions we're getting as board members is what sort of savings can we expect"
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:57:55 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=3475s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: K-8 vs full middle-school model; DLI co-location
+  "Will we be seeing an option where we transition to a K8 model is something we're considering or is it off the table? [...] are we moving towards a [...] full middle school model? [...] for DLI, are you considering entirely separate DLI sites [...] or still co-locating? [...] is the goal to pick a lane"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:04:40 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=14680s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (by elimination in the round; references the TLE well-resourced slide she chaired)
+  topic: why not start with best-case well-resourced schools next year
+  "I'm struggling with looking at the slide from TLE and hearing that we're going to go through this process and not have all of our schools be well resourced because that is the goal. [...] How are we not starting out with our best case scenario for well-resourced schools next year? I don't understand."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:41:03 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=16863s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (supports span-of-control as board directive; fiscal-oversight framing consistent with her 9/29 and 10/6 remarks)
+  topic: span-of-control is within board purview
+  "I just do believe that this is squarely within the board's purview because the span of control is fundamentally about organizational effectiveness, accountability, and stewardship of public resources. [...] the fact that we have downsized is the reason to examine this [...] the community has asked loudly for it. So I'm in full support of this as a directive or as a resolution."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:53:54 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17634s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: POSSIBLE (next in seating order after DePass; DePass responds to this speaker)
+  topic: Engelsman budget-savings resolution
+  "everything on here is related to [...] the budget tightening that Director DePass just discussed because it's all related to money and tightening our belt. So I support just about everything in here. [...] I'm having a real disconnect from Director DePass and how this doesn't relate to our goals [...] for financial stability"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 05:06:15 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18375s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: POSSIBLE (remote director speaking after Engelsman; "I turned myself off")
+  topic: board oversight philosophy
+  "I agree with Director Engelsman's [...] assessment that there seems to be a really narrow view of what happens after the board sets policy and part of that. The biggest part of that is oversight and that is testing those assumptions and assessing risk. It's not trust. It's not implicit trust."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:11:07 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=667s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte... you're muted, Virginia")
+  topic: bond audit - strengthen, not weaken
+  "This is not an area where I would be looking to weaken any language. In fact, I had a note to actually strengthen it to will periodically review. [...] moving to could is [...] not on the table for me."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:29:19 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=1759s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte and then Director DePass")
+  topic: bond audit - strike "budget availability" escape clause
+  "I just wanted to [...] strike the language. [...] says, however, the full implementation of this recommendation will depend on budget availability. [...] I don't think that's an issue with [...] bond funds. So, I it reads a little bit like an escape clause"
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:43:00 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2580s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte and then Director Sullivan")
+  topic: bond audit - in-house expertise
+  "our internal audit function is independent, our external audit function is independent [...] I agree that we do need the expertise but I would like the expertise in house [...] in terms of [...] speed access we're understaffed in that office."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:33:32 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9212s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director La Forte")
+  topic: bond audit - continuous internal oversight
+  "I too would like this to be an internal employee so that we're we have continuous oversight. It's not like [...] an in-and-out snapshot in time. [...] We're talking about $2 billion. [...] I can't imagine outsourcing this function."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 01:14:58 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4498s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (refers to raising the audit recommendation "at our facilities meeting" in December - she chaired FIOC in 2025-26; follows Splitt)
+  topic: external construction auditor; Procedeo auditing itself
+  "our external bond auditor in the past has recommended that we hire [...] an external construction auditor [...] I raised the audit recommendation in December at our facilities meeting and was told that it was going out for bid. It did not. And [...] there's been some internal conversation about having [Procedeo] handle that part of the business, that auditing piece. [...] Is there any conflict? I'm sort of wondering how you can audit yourself. [...] it's nothing personal. [...] this is just about process and best practices."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:51:35 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13895s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (opens "Director Splitt is always hard to follow"; staff later "Director La Forte"; Zone 5 North/NE references)
+  topic: Scenarios A/B - needs fiscal impact; why no option eliminating focus options
+  "our general fund is like $840 million. We've got a $65 million hole. We're looking at an 8% budget cut. [...] I can review and understand the data behind [...] birth rates and attendance but I can't see the underlying cost impacts. So I just I feel like I can't make a decision without it. [...] I actually fully expected to see focus options eliminated in one of the options that was presented. [...] why wasn't there an option that eliminated focus options since they're pulling from our neighborhood schools?"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:55:21 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14121s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: Peninsula closure leaves North Portland area without a school
+  "I was [...] surprised to see Peninsula on the list [...] that area lost Kenton Elementary 15 16 years ago. Now it's slated to lose Peninsula, which leaves that whole area without any public school and we're layering the demolition of the Columbia Community Center on top of it. [...] it's taken a lot of hits and I feel like this is like another blow."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:58:48 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14328s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn; "17 years I've been in the district")
+  topic: per-pupil funding myth; school deserts; Tubman rebuild
+  "our funding right now does not follow the student to the school. I think that's sort of a myth. [...] [04:01:33] one of the things going into this that I really wanted to make certain of is that there wasn't [...] large swaths of land left without any neighborhood school [...] I have some concerns about the area from [...] Sabin down to Irvington down to Buckman. And then we've got Tubman [...] sitting above a freeway [...] we have $120 million from the state to rebuild Tubman, I would love to have a conversation about what that looks like when I see Sabin closing and Irvington closing."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:04:16 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14656s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: TAG/ACCESS vs focus options
+  "the why they leave survey [...] concluded that one of the significant drivers for [...] families who leave is the lack of TAG services. [...] Do we have a disproportionate number of 99th percentiles in our focus option schools and should we be reducing those and expanding access?"

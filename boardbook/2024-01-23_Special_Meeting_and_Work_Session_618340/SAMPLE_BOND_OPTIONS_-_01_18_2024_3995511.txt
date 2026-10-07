@@ -1,0 +1,163 @@
+The provided information is intended to illustrate the tradeoffs and dependencies of GO bond package
+options. They include a variety of variables including overall bond amount, financing plan, priorities, etc.
+They have not been vetted with staff, stakeholders or community. They are not recommendations.
+
+
+                                       SAMPLE BOND OPTIONS
+Sample #1
+       -    Bond Amount:                  $850M
+       -    Financing Scenario:           A.3
+       -    Scope Priorities:             Modernizations
+       -    Time to Complete Work:        6 - 8 years1
+       -    Next Bond:                    2032 (8 years)
+
+SCOPE OF WORK
+       Pros
+           - Continues long-standing and well known plan to modernize all high schools
+           - Allocates some money for Tubman relocation, but not enough for the current option.
+             Tubman would need to find a more inexpensive option
+       Cons
+           - Minimal funds for other critical work
+           - Deferred maintenance would continue to increase and overall school conditions would
+             continue to deteriorate (more schools would move into poor or critical condition).
+             Impacts to schools (including closures) due to system failures would become more
+             common
+           - Needed facility improvements such as seismic, accessibility, athletics and security would
+             go unfunded
+           - PPS’s upcoming decarbonization plan would go unfunded
+           - Critical technology improvements would go unfunded
+FINANCIAL
+       Pros
+           - The existing estimated levy rate $2.50/1000 is retained
+           - A planned drop in the levy rate would create revenue capacity for another bond under
+             the current levy rate in 2032
+           - All work (including current approved work) would likely be completed around the time
+             of the next bond
+       Cons
+           - The total premium amount is relatively low compared to overall need - though from a
+             historic perspective the amount is very high
+           - Interest rates are high but not exorbitantly high; requiring about $325M in interest to
+             raise $850M in principal
+           - With some debt extending 16 years, available revenue under the current levy rate in
+             2032 is likely limited - which may require the 2032 bond to include a levy rate increase
+
+
+1
+    Including work currently planned
+The provided information is intended to illustrate the tradeoffs and dependencies of GO bond package
+options. They include a variety of variables including overall bond amount, financing plan, priorities, etc.
+They have not been vetted with staff, stakeholders or community. They are not recommendations.
+
+
+Sample #2
+       -    Bond Amount:                 $850M
+       -    Financing Scenario:          A.2
+       -    Scope Priorities:            Address Existing Facility & Educational Needs
+       -    Time to Complete Work:       8 - 10 years2
+       -    Next Bond:                   2036 (12 years)
+
+SCOPE OF WORK
+       Pros
+           - Funds allocated to make improvements including seismic strengthening, continue
+             progress towards full ADA compliance, security upgrades, outdoor spaces, etc. however
+             not enough to address all needs
+           - Majority of technology needs funded
+           - Some funds for educational improvements such as curriculum, performing arts, CTE
+       Cons
+           - Planned modernizations would not proceed
+           - Tubman would need to find a more economical relocation option
+           - Funds allocated to critical infrastructure (about $30M $35M per year) are not enough to
+             improve current building conditions. Overall portfolio rating will continue to be poor.
+           - Not all needs will be fully funded - ADA, Security, Athletics, etc
+FINANCIAL
+       Pros
+           - The existing levy rate $2.50/1000 is retained
+           - Interest costs are low-to-medium; requiring about $250M in interest to raise $850M in
+             principal
+           - When the debt is retired (2036) there would be ample revenue under the existing levy
+             rate for the next bond - making a levy rate increase more unlikely
+           - All work would be completed before the likely next bond in 2036
+       Cons
+           - The total premium amount is relatively low compared to overall need - though from a
+             historic perspective the amount is very high
+           - No available revenue capacity under the existing levy rate until 2036
+           - Projects not funded in 2024 would likely have to wait until 2036
+
+
+
+
+2
+    Including work currently planned
+The provided information is intended to illustrate the tradeoffs and dependencies of GO bond package
+options. They include a variety of variables including overall bond amount, financing plan, priorities, etc.
+They have not been vetted with staff, stakeholders or community. They are not recommendations.
+
+
+
+Sample #3
+    -   Bond Amount:                     $1.5B
+    -   Financing Scenario:              C.1
+    -   Scope Priorities:                Modernizations
+    -   Time to Complete Work:           10 - 12 years
+    -   Next Bond:                       2032 (8 years)
+
+SCOPE OF WORK
+       Pros
+           - Continues long-standing and well known plan to modernize all high schools
+           - Allocates enough funds to relocate Tubman per current plans and build a new K5
+             Learning Lab
+           - Majority of technology needs funded
+       Cons
+           - Funds allocated to critical infrastructure (about $30M - $35M per year) are not enough
+             to improve current building conditions. Overall portfolio rating will continue to be poor.
+           - Funds available to make improvements for seismic strengthening, continue progress
+             towards full ADA compliance, security upgrades, outdoor spaces, athletics, etc. however
+             not enough to address all needs
+FINANCIAL
+       Pros
+           - Large principal amount
+           - Low interest costs; requiring only $300M in interest to raise $1.5B
+           - Debt retired in 8 years, leaving ample revenue for the next bond in 2028
+       Cons
+           - Requires a substantial increase in levy rate ($2.00/1000)
+           - All work will not be completed until long after the next proposed bond (2032) is
+             approved (ie - work approved in the next bond may not start for many years after the
+             bond passage) - calling into the question for the need for another bond in 2032
+The provided information is intended to illustrate the tradeoffs and dependencies of GO bond package
+options. They include a variety of variables including overall bond amount, financing plan, priorities, etc.
+They have not been vetted with staff, stakeholders or community. They are not recommendations.
+
+
+Sample #4
+    -   Bond Amount:                     $1.5B
+    -   Financing Scenario:              D.1
+    -   Scope Priorities:                Address Existing Facility & Educational Needs
+    -   Time to Complete Work:           12 - 14 years
+    -   Next Bond:                       2032 (8 years)
+
+SCOPE OF WORK
+       Pros
+           - Allocates significant funds to to address critical building systems, enough to move overall
+             PPS building condition from poor to fair
+           - Funds available to make significant improvements for seismic strengthening, continue
+             progress towards full ADA compliance, security upgrades, outdoor spaces, etc.
+           - Technology needs funded
+           - Significant funds for educational improvements such as curriculum, performing arts, CTE
+       Cons
+           - Planned modernizations would not proceed
+           - Tubman would need to find a more economical relocation option
+           - Not all needs will be fully funded - ADA, Security, Athletics, etc
+FINANCIALS
+       Pros
+           - Large principal amount
+           - Retains existing levy rate
+           - The planned drop in the levy rate would create revenue capacity for another bond under
+             the current levy rate in 2032
+       Cons
+           - Huge interest costs; requiring approximately $950M of interest to raise $1.5B
+           - Approved projects would not be completed until many years after next bond (2032) is
+             proposed (ie - work approved in the next bond may not start for many years after the
+             bond passage) - calling into the question for the need for another bond in 2032
+           - With some debt extending 24 years, available revenue under the current levy rate in
+             2032 is likely limited
+

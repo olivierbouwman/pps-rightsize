@@ -1,0 +1,1138 @@
+                                                          Revised
+
+
+
+
+The Office of Internal Performance Audit
+
+         Internal Audit Report
+   Student Body Funds (SBF) Audit
+
+
+                      Issue Date: June 2024
+
+                      Senior Internal Performance Auditor
+                                        Janise Hansen, CIA
+
+                             Internal Performance Auditor
+                                      Mary Catherine Moore
+
+
+
+                                                   1 | Page
+                          Table of Contents
+
+
+Letter of Transmittal ……………………………………………………………………. 3
+About the Office of Internal Performance Audit ……………………………………... 4
+Executive Summary ……………………………………………………………………. 5
+Background ……………………………………………………………………………… 7
+Prior Audit History ……………………………………………………………………… 8
+Roles and Responsibilities …………………………………………………………….. 9
+Audit Objective ………………………………………………………………………….. 10
+Scope of the Audit ……………………………………………………………………… 10
+Audit Approach and Methodology ……………………………………………………. 10
+Conclusion ………………………………………………………………………………. 11
+Procedure 1 ……………………………………………………………………………… 12
+   ● Management Response ………………………………………………………... 13
+Procedure 2 ……………………………………………………………………………… 14
+   ● Management Response ……………………………………………………...… 16
+Procedure 3 ……………………………………………………………………………… 17
+   ● Management Response ……………………………………………………….. 19
+Procedure 4 ……………………………………………………………………………… 20
+   ● Management Response ………………………………………………………... 21
+Procedure 5 ……………………………………………………………………………… 22
+   ● Management Response ………………………………………………………... 24
+Appendix A: Student Body Funds Board Policy 4.40.030-P………………………… 25
+Appendix B: Student Body Funds - Expenditures 4.40.31-AD……………………… 26
+Appendix C: Student Body Funds - Procedures 4.40.032-AD……………………… 27
+Appendix D: Monthly Reconciliation Cover Sheet…………………………………… 28
+Appendix E: Student Body Funds Manual …………………………………………… 29
+Appendix F: Recommendations for Consideration………………….……………….. 87
+
+
+
+
+                                                                 2 | Page
+                                Letter of Transmittal
+
+June 20, 2024
+
+
+
+Portland Public Schools - Audit Committee
+501 North Dixon Street
+Portland, OR 97227
+
+
+The Office of Internal Performance Audit (OIPA) has completed the Student Body Funds
+(SBF) Audit of selected schools and SBF activities that occurred during the 2021-2022
+school year. The audit was included in the Audit Plan approved by the Portland Public
+Schools (PPS) Board of Education on January 12, 2021, resolution number 6227.
+
+The objective of the audit is to determine whether the school district has adequate
+internal controls in place to ensure the complete and accurate accounting, tracking, and
+safeguarding of SBF.
+
+The results of the audit are detailed in the attached SBF Audit report.
+
+We extend our appreciation to the Accounting Services Department and school staff for
+their assistance and cooperation during the course of the audit, especially to Rachel
+Spires, Accountant/Analyst, and J Cooper, Confidential Executive Assistant, who were
+incredibly responsive to our request for information and documentation needed to
+complete the audit. They were also willing to collaborate and provided us feedback that
+added value throughout the audit.
+
+We look forward to meeting with you at an upcoming Audit Committee meeting to more
+fully discuss the report’s results and recommendations. Thank you for your ongoing
+support of the Office of Internal Performance Audit.
+
+
+Janise Hansen                                           Mary Catherine Moore
+Janise Hansen, CIA                                     Mary Catherine Moore
+Senior Internal Performance Auditor                    Internal Performance Auditor
+
+
+
+
+                                                                                 3 | Page
+               About the Office of Internal Performance Audit (OIPA)
+
+Purpose and Mission
+
+State and local governments can enhance credibility with the taxpayers by
+implementing performance audits to support accountability and ensure that tax dollars
+are spent as effectively as possible.
+
+PPS performance auditing, conducted by the OIPA, is an objective and systematic
+examination of evidence to provide an independent assessment of a government
+organization, program, activity, or function. The goal of these audits is to improve
+program effectiveness; improve the equity of service delivery; provide useful, objective,
+and timely information; strengthen administrative and management systems and
+controls; facilitate decision-making by parties with responsibility for overseeing or
+initiating corrective action; and improve student achievement District-wide. The
+objectives of performance audits vary, but generally address whether PPS is operating
+economically and efficiently, and/or whether it is achieving desired results.
+
+The purpose of the internal performance audit function is to help improve the
+accountability and performance of PPS through independent auditing and reporting.
+
+Independence and Objectivity
+
+The OIPA Senior Internal Performance Auditor is hired, evaluated, and may only be
+removed by the PPS Board of Education. Reporting directly to the PPS Board of
+Education is meant to ensure the work of the OIPA is independent, impartial, and
+objective so stakeholders can trust the audit results and recommendations.
+
+Standards
+
+The OIPA adheres to very rigorous and demanding professional auditing requirements
+described in Generally Accepted Government Auditing Standards, or more commonly
+referred to as GAGAS or the Yellow Book.
+
+Authority and Responsibilities
+
+The authority and responsibilities of the OIPA are defined in its charter and PPS Board
+Policy 1.60.040-P, both approved by the PPS Board of Education.
+
+
+
+
+                                                                                   4 | Page
+                                  Executive Summary
+
+Student Body Funds (SBF) represent monies held on behalf of students, which come
+from donations, fees, gifts, grants, and other monies primarily from parents, students,
+community members, and local businesses. Most are given for designated purposes
+and are held in activity accounts that are restricted for the designated use.
+
+PPS Policy and state law require SBF expenditures to be made for goods and services
+that provide a direct benefit to students.
+
+The SBF Audit was requested by members of the Portland Public Schools (PPS) Board
+of Education to address the high level of risk associated with the handling of SBF. The
+SBF Audit was included in the Audit Plan approved by the Portland Public Schools
+(PPS) Board of Education on January 12, 2021, resolution number 6227.
+
+The objective of the audit was to determine whether the school district has adequate
+internal controls in place to ensure the complete and accurate accounting, tracking, and
+safeguarding of SBF.
+
+To meet the objective of the audit, we selected eight schools for testing. To ensure we
+had a variety of schools, we selected the schools using the methodology listed below:
+
+   ●   One Title 1 (TI) Elementary School
+   ●   One Targeted Supports for Improvement (TSI) Middle School
+   ●   One Comprehensive Supports for Improvement (CSI) High School
+   ●   School with largest SBF receipts
+   ●   School with smallest SBF receipts
+   ●   One new school
+   ●   Two schools that were identified by Accounting Services Department
+
+Based on the results of the audit, we found the school district’s internal controls over
+SBF need to be strengthened to maintain the overall integrity of SBF. The audit did not
+identify any evidence of intentional fraud, but did identify opportunities for improvement,
+and some instances of noncompliance. The corresponding audit results and
+recommendations are included in this audit report.
+
+The audit made seven recommendations and the Accounting Services Department
+agreed with all seven.
+
+Below is a list of the recommendations:
+
+   1. We recommend the Accounting Services Department strengthen internal controls
+      to ensure:
+          ● The required SBF training is completed prior to granting the staff access to
+            the SBF Accounting systems and appointing them as authorized bank
+            signers.
+
+                                                                                   5 | Page
+      ● Access to the SBF accounting system and the authorization at bank
+        signers is terminated timely when staff change roles or leave PPS
+        employment.
+
+2. We recommend the Accounting Services Department require all staff (including
+   Principals) with SBF management or oversight responsibilities complete the SBF
+   training.
+3. We recommend the Accounting Services Department strengthen internal controls
+   to ensure SBF transactions are for allowable purposes and are adequately
+   supported by the required documentation.
+4. We recommend the Accounting Services Department strengthen internal
+   controls to ensure SBF Monthly Reconciliation Reports are complete, timely, and
+   contain all required documents; and deposits of SBF funds are timely.
+5. We recommend the Accounting Services Department perform the SBF District
+   Review procedures to provide adequate oversight of SBF funds and ensure
+   complete and accurate accounting, tracking, and safeguarding of SBF.
+6. We recommend the Accounting Services Department develop a formal SBF
+   Training course in the PPS professional development application (Pepper) and
+   develop internal control procedures to ensure the training module is reviewed
+   annually and updated when necessary.
+7. We recommend PPS discontinue the utilization of the SBF account as a
+   pass-through account for non SBF related revenues and expenditures or update
+   the SBF policy, administrative directives, SBF manual, and SBF training to
+   include adequate guidance and oversight of these pass-through funds.
+
+
+
+
+                                                                           6 | Page
+Background Information
+
+What are Student Body Funds?
+
+Student Body Funds (SBF) are donations, fees, gifts, grants and other monies that
+come into a school primarily from parents, students, community members and local
+businesses. SBF are raised or collected by and/or for school approved student groups
+in which the school district prescribes the purposes for how money is obtained and
+used. Most SBF are given for a specific purpose, so funds are held in activity accounts
+that are restricted for designated uses.
+
+Examples of SBF revenues include: textbook security deposits, locker deposit, PE attire
+fees, towel fee, musical instrument fee, optional course fee, admission fee, optional field
+trips, voluntary health and accident insurance plans and fundraisers.
+
+Examples of SBF expenditures include: class activities and field trips, student events,
+dances, parties, out-of-town student contests and events, and the purchase of student
+supplies for classroom use.
+
+     School Year           SBF Revenues         SBF Expenditures       SBF Fund Balance
+
+     2021-2022          $4,556,690.97          $3,964,720.24          $5,893,702.94
+
+     2020-2021          $1,833,364.45          $1,894,120.01          $5,301,732.21
+
+     2019-2020          $5,699,728.45          $6,333,761.37          $5,362,487.77
+
+Who manages SBF?
+
+Each school is responsible for the management of its own SBF. To ensure compliance
+with state laws and PPS policy and procedures, the Accounting Services Department
+created the SBF Manual. The SBF Manual is designed for secretaries, bookkeepers,
+and principals, all of whom have critical roles to play in the successful administration of
+SBF.
+
+Secretaries and Bookkeepers are expected to understand requirements for:
+   ● Cash handling
+   ● Receiving funds and recording receipts accurately
+   ● Making deposits
+   ● Issuing checks and direct vouchers
+   ● Monthly financial report preparation
+   ● Bank reconciliation
+   ● File documentation and archiving
+
+Principals, bookkeepers, and secretaries are jointly responsible for running, monitoring,
+and reviewing monthly reports together. Each principal is ultimately responsible for the
+
+                                                                                     7 | Page
+oversight and administration of SBF. Bookkeepers and secretaries are responsible for
+ensuring that proper documentation and approvals are obtained and retained for all
+transactions. This joint responsibility is an integral part of internal control and necessary
+to successful financial administration of the school.
+
+Who provides oversight for SBF?
+
+SBF are reviewed by the District Accounting Staff to ensure that cash, receipts,
+payments and adjustments are handled in accordance with PPS guidelines.
+
+A SBF District Review function has been established to perform periodic reviews that
+assess compliance with the requirements. The frequency of a SBF Internal Review for a
+particular school is based on several risk factors which are described in the SBF
+Manual.
+
+Why is SBF monitoring important?
+
+SBF are considered high risk because there are limited controls and minimal oversight
+coupled with significant reliance on school based staff with potentially little or no
+capacity or training to adequately manage or account for these funds, increasing the
+risk of theft or loss.
+
+Prior Audit History
+
+In 2016, a PPS District-Wide Risk Assessment was conducted by Talbot, Korvola &
+Warwick, LLP (TKW). In the report that was issued by TKW on April 11, 2016, they
+stated: A District-wide risk assessment was conducted to identify the business/support
+operational programs, program components, activities, overlapping areas and specific
+internal and external functions that currently pose the greatest level of risk to PPS in
+meeting its defined mission, goals, and objectives.
+
+TKW’s risk assessment scoring for the SBF is described below:
+
+
+
+
+                                                                                      8 | Page
+We noted there was no formal response from school district management included in
+the TKW Risk Assessment report.
+
+Although the risk assessment was completed over eight years ago, we met with the Sr.
+Director of Finance, Accounting Services to gain an understanding of the school
+district’s response to the risk assessment. According to the Sr. Director of Finance,
+Accounting Services, the risk assessment was performed before they were employed
+with PPS and they were not familiar with the report.
+
+Roles and Responsibilities
+
+PPS Management has the primary responsibility for establishing, implementing, and
+monitoring internal controls in order to have a successful administration of the SBF.
+Internal Audit’s function is to assess and test those controls in order to provide
+reasonable assurance that the controls are adequate and operating effectively.
+
+We conducted this performance audit in accordance with Generally Accepted
+Government Auditing Standards (aka GAGAS). Those standards require that we plan
+and perform the audit to obtain sufficient and appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objective. We
+believe that the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objective. We have implemented an internal quality
+
+                                                                              9 | Page
+control process to ensure standards are met but have not undergone an external quality
+review as required by standards.
+
+Audit Objective
+
+The objective of the audit is to determine whether the school district has adequate
+internal controls in place to ensure the complete and accurate accounting, tracking, and
+safeguarding of SBF.
+
+To achieve the audit objective, we performed the following procedures:
+
+   1. Determine if staff assigned with SBF responsibilities have completed the required
+      training before being granted access to the SBF accounting systems and
+      assigned as authorized bank signers, and whether access is terminated timely
+      when necessary.
+   2. Determine whether SBF transactions are for allowable purposes and adequately
+      supported by the required documentation.
+   3. Determine whether the SBF Monthly Reconciliation Reports are complete, timely,
+      and contain all required documents; and whether deposits of SBF funds are
+      timely.
+   4. Determine whether the SBF District Review provides adequate oversight of SBF
+      funds to ensure complete and accurate accounting, tracking, and safeguarding of
+      SBF.
+   5. Determine whether the SBF policy, administrative directives, SBF Manual and
+      SBF training material contain adequate instructions and are reviewed and
+      updated as necessary.
+
+Scope of the Audit
+
+The scope of the audit included SBF transactions that occurred during the 2021-2022
+school year (July 1, 2021 - June 30, 2022).
+
+Audit Approach and Methodology
+
+Our audit approach and methodology used to achieve the audit objective included the
+following:
+
+   ● Planned the audit with input and cooperation of the Accounting Services
+     Department to ensure we had an adequate understanding of the SBF.
+   ● Reviewed applicable state laws, policies, procedures, administrative directives,
+     and best practices.
+   ● Reviewed the SBF Manual as well as other SBF resources and information
+     posted on the Accounting Services Department webpages.
+   ● Reviewed the required training for PPS staff who are tasked or assigned to the
+     student body funds activities.
+
+
+
+                                                                                10 | Page
+   ● When appropriate, judgmental sampling was used to improve the overall
+     efficiency of the audit.
+   ● Reviewed available data and supporting documentation to corroborate
+     information obtained during interviews with PPS staff.
+
+Conclusion
+
+Based on the results of the audit, we found the school district’s internal controls over
+SBF need to be strengthened to maintain the overall integrity of student body funds.
+The audit did not identify any evidence of intentional fraud, but did identify opportunities
+for improvement, and some instances of noncompliance. The corresponding audit
+results and recommendations are included in this audit report.
+
+
+
+
+                                                                                   11 | Page
+Procedure 1: Determine if staff assigned with SBF responsibilities have
+completed the required training before being granted access to the SBF
+accounting systems and assigned as authorized bank signers, and whether
+access is terminated timely when necessary.
+
+Background Information
+
+The Accounting Services Department provides SBF training annually during the summer
+back to school administrative support days. If staff who need the training are unable to
+attend the training during the back to school admin support days, the SBF Accountant
+provides one-on-one training.
+
+The “SBF Training Checklist” documents a summary of the training completed and has
+a place for the employee and the SBF Trainer to sign acknowledging the completion of
+the training.
+
+The SBF training is only required for staff new to the role. Once the training has been
+completed, ongoing annual training is not required.
+
+Changes in school administration/staff may require changes to the SBF account’s bank
+signature card. The SBF manual states that Principals, bookkeepers, and secretaries
+should ensure these changes are made at the start of every school year and to notify
+the SBF Accountant and Treasury Manager immediately of any position changes for any
+individual who is a check signer on the SBF account.
+
+The SBF Accountant maintains a list of staff assigned SBF responsibilities. Per
+discussion with the SBF Accountant, the list of staff assigned SBF responsibilities is not
+routinely reviewed and updated. The list is updated when the SBF Accountant is notified
+of a change of roles or staff members have left PPS employment. During the
+2021-2022 school year (July 1, 2021 - June 30, 2022) which was the scope of the audit,
+the list of 175 staff assigned SBF responsibilities was last updated on December 28,
+2022.
+
+Procedure 1: Results
+
+   ● At the eight schools selected for testing, we identified 10 staff members (other
+     than Principals who were not required to take the training) assigned SBF
+     responsibilities during the 2021-2022 school year. We found there was no
+     evidence that three of the 10 staff completed training before they were provided
+     access to the SBF Accounting systems and assigned as authorized bank
+     signers.
+   ● We tested 30 of the 175 staff on the SBF Accountant’s list of staff assigned SBF
+     responsibilities to ensure the list was accurate and updated. We identified two of
+     the 30 staff tested who had changed roles or left PPS employment and should no
+     longer have access to SBF Accounting systems and should also be removed as
+     bank signers.
+
+                                                                                 12 | Page
+Procedure 1: Recommendations
+
+   1. We recommend the Accounting Services Department strengthen internal control
+      to ensure:
+          ● The required SBF training is completed before granting the staff access to
+             the SBF Accounting systems and appointing them as authorized bank
+             signers.
+          ● Access to the SBF accounting system and the authorization at bank
+             signers is terminated timely when staff change roles or leave PPS
+             employment.
+   2. We recommend the Accounting Services Department require all staff (including
+      Principals) with SBF management or oversight responsibilities complete the SBF
+      training.
+
+To assist the Accounting Services Department with the implementation of these
+recommendations we provided additional details in Appendix F: Recommendations for
+Consideration.
+
+Procedure 1: Management’s Response to Recommendations
+
+Recommendation 1. We agree with the recommendation and will include implementation
+actions in our implementation plan presented to the Audit Committee within 120 days.
+We have worked with HR and now receive a list of current staff once a month to
+verify/update authorized signers.
+
+Recommendation 2. We agree with the recommendation and will include
+implementation actions in our implementation plan presented to the Audit Committee
+within 120 days.
+
+
+
+
+                                                                              13 | Page
+Procedure 2: Determine whether SBF transactions are for allowable purposes and
+adequately supported by the required documentation.
+
+Background Information - Allowable Transactions
+
+PPS Policy and state laws require SBF to be spent for the general welfare of the student
+body and not for general operations. The SBF Manual provides a detailed list of
+allowable and unallowable SBF disbursements.
+
+Examples of allowable SBF disbursements include:
+
+   ● Class activities and field trips
+   ● Student incentives – should not be greater than $50 per student; for more
+     guidelines around the use of incentives see the Administrative Directive: Use of
+     Funds       for    Meals,        Refreshments,  and     Student      Incentives
+     https://www.pps.net/Page/231
+   ● Student events, dances, parties
+   ● Out-of-town student contests and events
+   ● Purchase of student supplies for classroom use
+   ● Small gifts of appreciation for volunteers
+   ● Reimbursement for reasonable tipping (up to 20%) is permitted for meals at a
+     restaurant and for food deliveries
+   ● If a staff member purchased supplies in Washington and has a receipt showing
+     sales tax was paid, the amount of the sales tax may be reimbursed from SBF
+
+Examples of unallowable SBF disbursements include:
+
+   ● Employee travel advances, and/or related expenses for local or out-of-town
+     travel (except when accompanying students) are prohibited. All airline ticket
+     purchases need to be handled through the Travel Desk in Accounts Payable.
+   ● Employee registration fees
+   ● Reimbursements to parents/volunteers that need to be charged to an account
+     code must be processed through the District Accounts Payable Department
+   ● Reimbursements to District employees must be submitted to District Accounts
+     Payable for payment within 60 days of the purchase
+   ● Payments to District employees for services performed in addition to their
+     regular duties must be processed through the District Payroll Department
+   ● Purchases for staff members; equipment, meals, supplies, staff appreciation
+   ● Payments for fixed assets, office equipment, and building repair needs
+   ● Alcohol, tobacco products, adult entertainment
+   ● Gift cards except:
+             o To meet the immediate needs of homeless students
+             o A grant explicitly provides for gift cards
+             o With written pre-approval from the CFO
+
+
+
+
+                                                                               14 | Page
+Background Information - Supporting documentation
+
+State and federal laws require school districts to adhere to record retention
+requirements. PPS has incorporated the state and federal law requirement into PPS’
+School Records Retention Administrative Directive 2.50.022-AD, which states in part:
+
+       Each school should adhere to the requirements of the School Records Retention
+       Schedule provided by the district. The minimum retention requirements listed in
+       the School Records Retention Schedule must be followed to ensure compliance
+       with state and federal statutes and established district needs. - Section (1)
+
+The SBF Manual provides a records retention schedule detailing the number of years
+each document type is required to be retained. Depending on the type of document,
+PPS is required to retain supporting documentation related to SBF transactions for six to
+12 years.
+
+Supporting documentation requirement for SBF transactions include the following, but
+not limited to:
+
+   ● Adequate documentation in support of all disbursements;
+   ● Purchase Approval Form for all purchases equal to or greater than $500;
+   ● (documentation related to) Out-of-town student contests and events;
+   ● invoices for goods received;
+   ● Personal Services Contracts invoice for work performed;
+   ● Original receipts; and for pass thru accounts: a detailed report of receipts from
+     EPES showing the collections to be remitted.
+   ● Donations of $250 - $4,999 require a completed Charitable Contribution
+     Acknowledgement form or receipt.
+   ● Donations of $5,000 or more, require a completed Charitable Contributions
+     Acknowledgement form and the Request for Authorization to Receive Donation
+     form.
+
+Procedure 2: Results
+
+OIPA selected eight schools and reviewed the SBF Monthly Reconciliation Reports for
+the entire school year 2021-2022 for each school, a total of 96 reports. The 135 SBF
+transactions selected for testing were judgmentally selected from the 96 monthly
+reconciliation reports.
+
+We tested 135 SBF transactions and noted the following:
+
+   ● Out of 42 disbursements that were equal to or >$500, 20 (total of $116,977.12)
+     did not have the required Purchase Approval Form completed.
+   ● There were three donations that were $5,000 or greater (total of $20,000) that did
+     not have both the Request for Authorization to Receive Donation form or
+     Charitable Contributions Acknowledgment form completed as required.
+
+                                                                                15 | Page
+     ● Three SBF expenditures (total of $5,230) for gameworkers did not have the
+       confirmation of payments to the gameworkers completed. There was no
+       evidence of amounts paid to each gameworker; and they lacked the required
+       SBF Disbursement documentation. Further, we noted expenditures for
+       gameworkers is not an allowable SBF expenditure. (More information related to
+       these expenditures is included in the Procedure 5: Results section.)
+     ● SBF expenses (total of $2,648.76) for an out-of-town student trip did not contain
+       the following required documentation:
+          ○ Pre-travel authorization form signed by the trip leader and approved by the
+               Principal,
+          ○ Memo describing the trip and purpose,
+          ○ Copy of the contract,
+          ○ Copy of the roster of students and adults who were on the trip.
+
+     ● There were 10 expenditures (total of $5,765.59) where the check stubs were only
+       the documents or records that the school had. On one of the stubs (total of
+       $400), it was written that it was for ‘reimbursement for staff lunch’ which is not an
+       acceptable SBF expense, and the auditor was unable to verify if the other checks
+       issued were for allowable SBF expenses, as there were no supporting
+       documents.
+     ● There were two fundraising events that did not have written evidence of the
+       Principal’s prior approval before the event.
+     ● One of the eight schools selected for testing, reported the loss of all supporting
+       documentation for SBF transactions for the 2021-2022 school year. As a result,
+       we were unable to tie SBF transactions to the required supporting
+       documentation. The school reported $520,327.28 in revenue and $526,676.91 in
+       disbursements during the 2021-2022 school year. We noted the loss of these
+       documents took place when the school moved into its new location.
+
+ Procedure 2: Recommendations
+
+        3. We recommend the Accounting Services Department strengthen internal
+        controls to ensure SBF transactions are for allowable purposes and are
+        adequately supported by the required documentation.
+
+ To assist the Accounting Services Department with the implementation of these
+ recommendations we provided additional details in Appendix F: Recommendations for
+ Consideration.
+
+ Procedure 2: Management’s Response to Recommendations
+
+Recommendation 3. We agree with the recommendation, Accounting Services had 2.0 FTE
+and could follow the full SBF District Review procedures. Since there has been a reduction to
+1.0 FTE, review procedures have been modified to align with the current staffing level. It would
+take an additional FTE to return to the full review procedural process.
+
+
+                                                                                      16 | Page
+Procedure 3: Determine whether the SBF Monthly Reconciliation Reports are
+complete, timely, and contain all required documents; and whether deposits of
+SBF funds are timely.
+
+
+Background Information - SBF Monthly Reconciliation
+
+Monthly reconciliation reports for SBFs are required; even if the site does not report any
+SBF activities for the month.
+
+The Principal, secretary, and bookkeeper duties for monthly reconciliation and
+processes for reconciling monthly reports are detailed in the SBF Manual.
+
+      Secretary/Bookkeepers Duties
+
+          ● Record all monthly disbursements and adjusting journal entries into the
+            EPES accounting software.
+          ● Reconcile the cash balance in the accounting program to the monthly
+            bank statement.
+          ● Print all required month-end reports in the following order:
+                ○ Bank Reconciliation report
+                ○ Bank Statement (copy)
+                ○ If there are deposits in transit provide supporting documentation (
+                    i.e.; copy of bank deposit receipt, SchoolPay transaction report or
+                    SchoolPay batch report)
+                ○ Activity Ledger report for the month
+                ○ Outstanding Checks report for the month
+                ○ Sequential List of Checks canceled, by check number
+                ○ Sequential List of Receipts for the month, by receipt number o List
+                    of Journal Adjustments (if any)
+                ○ List of Activity Transfers (if any)
+          ● Attach copies of all signed Activity Account Transfer forms and supporting
+            documentation
+          ● Attach the wire statement and wire backup
+          ● Sign the Bank Reconciliation report, Activity Ledger report and the Journal
+            Adjustment (if any) for the month
+          ● Review this packet with the Principal
+          ● Obtain Principal’s signature on the Bank Reconciliation report and the
+            Activity Ledger report
+          ● File the original signed documents to keep in your monthly SBF file.
+          ● Scan original signed documents to sbf@pps.net no later than the 25th of
+            the following month
+
+      Principal Duties
+
+          ● Review and sign the monthly bank reconciliation report.
+
+
+                                                                                 17 | Page
+         ● Review and sign the month end ledger report and note any negative
+           balances. Obtain a reasonable explanation for account deficits (i.e.
+           inventory on hand, reimbursement not yet received, etc.)
+
+The SBF Manual also states:
+
+   ● Timely reporting is vital to maintaining proper internal controls over the checking
+     account. If a situation arises where you cannot meet the filing deadline, it is your
+     responsibility to notify the SBF Accountant about your situation.
+   ● Two late reports in a row may result in suspension of access to the school’s
+     checking account and EPES.
+
+The SBF Bank Reconciliation Cover Sheet (see appendix D) is included on the SBF
+website under the instructions category. The SBF Bank Reconciliation Cover Sheet lists
+a summary of all the items to be included, and states it (the cover sheet) should be
+included with the Bank Reconciliation Report.
+
+Background Information - Deposits of SBF Funds
+
+The SBF Manual states timely deposits of SBF funds are required.
+
+   ● Pre K-8th grade schools are required to make deposits to the bank at least
+     weekly or whenever cash and checks total $500 or more
+   ● High schools must make daily deposits via armored car
+
+Procedure 3: Results
+
+At each of the eight schools selected for testing, we reviewed the SBF Monthly
+Reconciliation Reports for the entire 2021-2022 school year, a total of 96 reports.
+
+We noted the following:
+
+   ● At one school, six of the 12 required SBF Monthly Reconciliations reports were
+     late, one was not submitted at all.
+   ● Four of the 96 SBF Monthly Reconciliation reports tested, were not
+     signed/approved by the Principal.
+   ● 30 of 96 SBF Monthly Reconciliation reports did not include the Monthly
+     Reconciliation Cover Sheet.
+   ● There were three deposits >$500 (total of $3,952.20) that were not deposited on
+     the same day the deposit slips were completed, and bank receipts were not
+     obtained on two of these three deposits. The deposit were:
+         ● $1,201.00 - deposit slip was created on 6/3/2022 (Friday) but not
+            deposited until 6/6/2022 (Monday), and there was no bank receipt.
+         ● $1,335.20 - deposit slip was created on 6/17/2022 (Friday) but not
+            deposited until 6/22/2022 (Wednesday), and there was no bank receipt.
+
+
+
+                                                                                18 | Page
+         ● $1,416.00 - deposit slip was created on 5/5/2022 (Thursday) but not
+           deposited until 5/6/2022 (Friday).
+
+Procedure 3: Recommendation
+
+      4. We recommend the Accounting Services Department strengthen internal
+      controls to ensure SBF Monthly Reconciliation Reports are complete, timely, and
+      contain all required documents; and deposits of SBF funds are timely.
+
+To assist the Accounting Services Department with the implementation of these
+recommendations we provided additional details in Appendix F: Recommendations for
+Consideration.
+
+Procedure 3: Management’s Response to Recommendations
+
+Recommendation 4. We agree with the recommendation and will include
+implementation actions in our implementation plan presented to the Audit Committee
+within 120 days.
+
+
+
+
+                                                                              19 | Page
+Procedure 4: Determine whether the SBF District Review provides adequate
+oversight of SBF funds to ensure complete and accurate accounting, tracking,
+and safeguarding of SBF.
+
+Background Information
+
+SBF activities are reviewed by District Accounting Staff to ensure that cash, receipts,
+payments and adjustments are handled in accordance with PPS guidelines.
+
+The SBF Manual states, SBF Reviews by District Accounting Staff are conducted using
+a risk based approach. The frequency of review for a particular school is based on
+several risk factors and is established annually to give particular attention to schools
+with the following:
+
+   ● Schools with a large volume and dollar amount of transactions
+   ● Schools with a history of review findings
+   ● Schools with new principals, secretaries and bookkeepers
+   ● Schools that are experiencing management issues with their SBF funds
+   ● Schools that have missed a regular review Schools may also be reviewed on
+     request of someone with a particular concern.
+   ● TIP: If there is a change in either the Secretary/Bookkeeper or the Principal,
+     there is a very high chance your school will be reviewed for that year.
+
+The SBF Manual also includes a list of documents that should be made available during
+the review.
+
+Procedure 4: Results
+
+District Accounting staff did not perform the SBF District Review procedures during the
+2020-2021 school year. According to the Sr. Director of Finance, Accounting Services,
+the SBF District Review has not been performed since the 2019-2020 school year due
+to a lack of resources.
+
+Procedure 4: Recommendation
+
+       5. We recommend the Accounting Services Department perform the SBF
+       District Review procedures to provide adequate oversight of SBF funds and
+       ensure complete and accurate accounting, tracking, and safeguarding of SBF.
+
+To assist the Accounting Services Department with the implementation of these
+recommendations we provided additional details in Appendix F: Recommendations for
+Consideration.
+
+
+
+
+                                                                               20 | Page
+Procedure 4: Management’s Response to Recommendations
+
+Recommendation 5. We agree with the recommendation. Accounting Services had 2.0
+FTE and could follow the full SBF District Review procedures. Since there has been a
+reduction to 1.0 FTE, review procedures have been modified to align with the current
+staffing level. It would take an additional FTE to return to the full review procedural
+process.
+
+
+
+
+                                                                               21 | Page
+Procedure 5: Determine whether the SBF policy, administrative directives, SBF
+Manual and SBF training material contain adequate instructions and are reviewed
+and updated as necessary.
+
+Background information:
+
+Policy and Administrative Directives
+
+We noted the policy related to SBF is detailed in Policy 440.030-P Student Body Funds
+(see Appendix A). The policy was last amended in 2002.
+
+Administrative directives 4.40.031-AD Student Body Funds - Expenditures (see
+Appendix B ) and 4.40.032-AD Student Body Funds - Procedures (see Appendix C)
+both provide guidance related to SBF. Both administrative directives were last amended
+in 2002.
+
+We discussed the policy and administrative directives with the Accounting Services staff
+responsible for the oversight of SBF. We noted there were no specified procedures to
+review the policy and administrative directives annually, which is typically considered
+best practices.
+
+In our review of the policy and administrative directives we noted they each provide
+adequate and appropriately high level content that would not require updates unless
+there were to be a substantive change to the purpose of SBF.
+
+SBF Manual
+
+The SBF Manual is posted on the Accounting Services/SBF webpage where it is readily
+accessible. We reviewed and discussed the SBF Manual with the Accounting Services
+staff responsible for creating and updating it. We noted the SBF Manual is updated as
+needed. The SBF Manual we used for the purposes of this audit was updated in
+September 2021.
+
+We used the SBF Manual as a reference guide in our testing of SBF transactions. For
+each of the transactions we tested, we found the SBF Manual had detailed instructions
+on how the transaction should be treated.
+
+We noted the SBF Manual was updated again in August 2023 and posted on the
+Accounting Services/SBF webpage.
+
+SBF Training
+
+The Accounting Services Department provides one on one training to new staff who are
+assigned SBF responsibilities. The SBF Training Checklist is included in the SBF
+Manual. We attended a one on one training provided to a new staff member who had
+been assigned SBF responsibilities. We observed as each item on the SBF Training
+
+                                                                               22 | Page
+Checklist was discussed. We found the one on one training to be informative,
+customizable, and thorough. We observed how the trainer was able to skim over
+sections of the training that the trainee seemed to pick up quickly, and was also able to
+be more detailed in other areas that seemed to be more complicated.
+
+
+Procedure 5: Results
+
+In our consideration of the SBF’s policy, administrative directives, manual, and training
+slides, we noted no guidance as it relates to the utilization of the SBF fund as
+pass-through for activities that are not SBF related. For example, the cost of
+admissions to athletics events is receipted into the SBF account and the cost of
+gameworkers is paid for with SBF; however these are not related to SBF activities.
+
+In our Procedure 2: Results section, we identified the following:
+
+   ● Three SBF expenditures (total of $5,230) for gameworkers did not have the
+     confirmation of payments to the gameworkers completed. There was no
+     evidence of amounts paid to each gameworker; and they lacked the required
+     SBF Disbursement documentation. Further, expenditures for gameworkers is not
+     an allowable SBF expenditure.
+
+This transaction illustrates how the utilization of the SBF account as a pass-though
+account for non-SBF related activities does not provide adequate accountability,
+management, and oversight of the pass-through funds. Although the expenditure were
+initially made from the SBF account, SBF related guidance in the policy, administrative
+directive, SBF manual, and the SBF training do not provide guidance for the utilization
+of SBF funds in this way.
+
+Policy and Administrative Directives
+
+We determined the policy and administrative directives each provide adequate and
+appropriately high level content that would not require updates unless there were to be
+a substantive change to the purpose of SBF. However, the policy and administrative
+directives lacks adequate guidance and oversight of revenue and expenditures that are
+passed through the SBF account.
+
+SBF Manual
+
+We determined the SBF Manual contained adequate instructions and was reviewed and
+updated as necessary. However, the SBF Manual lacks adequate guidance and
+oversight of revenue and expenditures that are passed through the SBF account.
+
+SBF Training
+
+
+
+
+                                                                                23 | Page
+We determined the SBF training provided adequate instructions and was reviewed and
+updated as necessary; however, a formal training module developed in the PPS
+professional development application (Pepper) would better ensure staff is provided the
+robust training necessary to perform their SBF responsibilities. However, the SBF
+Training lacks adequate guidance and oversight of revenue and expenditures that are
+passed through the SBF account.
+
+
+Procedure 5: Recommendations
+
+      6. We recommend the Accounting Services Department develop a formal SBF
+      Training course in the PPS professional development application (Pepper) and
+      develop internal control procedures to ensure the training module is reviewed
+      annually and updated when necessary.
+      7. We recommend PPS discontinue the utilization of the SBF account as a
+      pass-through account for non SBF related revenues and expenditures or update
+      the SBF policy, administrative directives, SBF manual, and SBF training to
+      include adequate guidance and oversight of these pass-through funds.
+
+
+To assist the Accounting Services Department with the implementation of these
+recommendations we provided additional details in Appendix F: Recommendations for
+Consideration.
+
+Procedure 5: Management’s Response to Recommendations
+
+
+
+Recommendation 6. We agree with the recommendation and will include implementation
+actions in our implementation plan presented to the Audit Committee within 120 days.
+Accounting Services has recently worked with IT to create the initial Pepper Training
+shells so that we can work on creating the actual Pepper Trainings.
+
+Recommendation 7. We agree with the recommendation and will include implementation
+actions in our implementation plan presented to the Audit Committee within 120 days.
+
+
+
+
+                                                                              24 | Page
+Appendix A: Student Body Funds Board Policy 4.40.030-P
+
+
+
+
+                                                         25 | Page
+Appendix B: Student Body Funds - Expenditures 4.40.031-AD
+
+
+
+
+                                                            26 | Page
+Appendix C: Student Body Funds - Procedures 4.40.032-AD
+
+
+
+
+                                                          27 | Page
+Appendix D: Monthly Reconciliation Coversheet
+
+
+
+
+                                                28 | Page
+Appendix E: Student Body Funds Manual
+
+
+
+
+                                        29 | Page
+30 | Page
+31 | Page
+32 | Page
+33 | Page
+34 | Page
+35 | Page
+36 | Page
+37 | Page
+38 | Page
+39 | Page
+40 | Page
+41 | Page
+42 | Page
+43 | Page
+44 | Page
+45 | Page
+46 | Page
+47 | Page
+48 | Page
+49 | Page
+50 | Page
+51 | Page
+52 | Page
+53 | Page
+54 | Page
+55 | Page
+56 | Page
+57 | Page
+58 | Page
+59 | Page
+60 | Page
+61 | Page
+62 | Page
+63 | Page
+64 | Page
+65 | Page
+66 | Page
+67 | Page
+68 | Page
+69 | Page
+70 | Page
+71 | Page
+72 | Page
+73 | Page
+74 | Page
+75 | Page
+76 | Page
+77 | Page
+78 | Page
+79 | Page
+80 | Page
+81 | Page
+82 | Page
+83 | Page
+84 | Page
+85 | Page
+86 | Page
+                  Appendix F: Recommendations for Consideration
+
+
+To assist the Accounting Services Department with the implementation of
+recommendations, we provided additional information related to each recommendation
+for their consideration.
+
+Recommendation 1: We recommend the Accounting Services Department
+strengthen internal controls to ensure:
+   ● The required SBF training is completed prior to granting the staff access to
+      the SBF Accounting systems and appointing them as authorized bank
+      signers.
+   ● Access to the SBF accounting system and the authorization at bank
+      signers is terminated timely when staff change roles or leave PPS
+      employment.
+
+Recommendations for consideration:
+
+   ● We recommend the Accounting Services formalize the SBF Training by creating
+     a training module in the PPS professional development application (Pepper).
+   ● We recommend Accounting Services staff confirm SBF training was successfully
+     completed in Pepper before granting staff access to the SBF Accounting systems
+     and appointing them as authorized bank signers.
+   ● We recommend Accounting Services staff obtain a list of employee status
+     changes bi-monthly and utilize the list to ensure access to SBF Accounting
+     systems terminated and they are removed as authorized bank signers timely.
+
+
+
+Recommendation 2: We recommend the Accounting Services Department require
+all staff with SBF management or oversight responsibilities complete the SBF
+training.
+
+Recommendations for consideration:
+
+   ● We recommend Accounting Services develop a SBF training module in Pepper
+     specifically for Principals, that focuses on the Principal’s review and approval
+     process and procedures.
+   ● We recommend all Principals (current and new) be required to take the newly
+     developed Principal specific SBF training.
+   ● We recommend Accounting Services develop a SBF training module in Pepper
+     that focuses on the process and procedures that is specific to the utilization of
+     SBF in the Athletics Department.
+                                                                              87 | Page
+   ● We recommend all Athletics Department staff that collect or disperse SBF be
+     required to take the newly developed Athletics Department specific SBF training.
+
+Recommendation 3:     We recommend the Accounting Services Department
+strengthen internal controls to ensure SBF transactions are for allowable
+purposes and are adequately supported by the required documentation.
+
+Recommendations for consideration:
+
+   ● We recommend Accounting Services increase the dollar amount (currently set at
+     $500 or more) of purchase that requires a Purchase Approval Form be
+     completed and approved by Principals, only at high schools.
+   ● We recommend Accounting Services develop and implement a tiered infraction
+     table, similar to the one utilized by PPS’ PCard program.
+   ● We recommend Accounting Services allow Principals to assign a proxy for the
+     Principal’s pre-approval responsibilities; similar to what is utilized by PPS’ PCard
+     program.
+   ● Allow high school students access to SchoolPay.
+
+
+Recommendation 4:       We recommend the Accounting Services Department
+strengthen internal controls to ensure SBF Monthly Reconciliation Reports are
+complete, timely, and contain all required documents; and deposits of SBF funds
+are timely.
+
+Recommendations for consideration:
+
+   ● We recommend Accounting Services develop and implement a tiered infraction
+     table, similar to the one utilized by PPS’ PCard program.
+
+
+Recommendation 5: We recommend the Accounting Services Department
+perform the SBF District Review procedures to provide adequate oversight of
+SBF funds and ensure complete and accurate accounting, tracking, and
+safeguarding of SBF.
+
+No additional recommendations for consideration.
+
+
+
+Recommendations 6. We recommend the Accounting Services Department
+develop a formal SBF Training course in the PPS professional development
+application (Pepper) and develop internal control procedures to ensure the
+training module is reviewed annually and updated when necessary.
+
+
+                                                                                 88 | Page
+Recommendations for consideration:
+
+   ● We recommend the Accounting Services/SBF Coordinator host (optional) virtual
+     SBF responsibilities and collaboration meetings where staff with SBF
+     responsibilities can attend, ask questions and get support from each other.
+   ● We recommend Accounting Services update the SBF Manual and applicable
+     trainings to address the following items:
+         ○ Current practices for Armored Car services for deposits of SBF at high
+            schools
+         ○ Process and procedure expectations related to ticket sales at PPS events
+         ○ Process and procedure expectations related to Game workers
+
+7. We recommend PPS discontinue the utilization of the SBF account as a
+pass-through account for non SBF related revenues and expenditures or update
+the SBF policy, administrative directives, SBF manual, and SBF training to include
+adequate guidance and oversight of these pass-through funds.
+
+No additional recommendations for consideration.
+
+
+
+
+                                                                            89 | Page
+

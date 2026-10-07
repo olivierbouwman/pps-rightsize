@@ -1,0 +1,141 @@
+                                    Dental Exams and Follow Up
+
+ Performance Standard
+ 1302.42
+ (c) Ongoing care.
+      (3) A program must facilitate and monitor necessary oral health preven ve care, treatment and follow-up,
+           including topical ﬂuoride treatments. In communi es where there is a lack of adequate ﬂuoride available
+           through the water supply and for every child with moderate to severe tooth decay, a program must also
+           facilitate ﬂuoride supplements, and other necessary preven ve measures, and further oral health treatment
+           as recommended by the oral health professional.
+ (d) Extended follow-up care.
+           (2) A program must develop a system to track referrals and services provided and monitor the implementa on
+           of a follow-up plan to meet any treatment needs associated with a health, oral health, social and emo onal, or
+           developmental problem.
+
+
+
+Procedure
+Multnomah County does not have ﬂuoride in the public water, which increases the risk of tooth decay
+(cavi es) in the community. Fluoride varnish is a safe, eﬀec ve, and easy method to prevent tooth decay.
+Cavi es can cause pain and infec on, and can lead to a child possibly having problems with ea ng, speaking,
+and learning. Children with poor oral health are three mes more likely to miss school as a result of dental
+needs (Jackson et al, 2011).
+PPS Head Start will support families in the process of naviga ng the healthcare system to access follow up
+treatment of dental needs as soon as possible. Staﬀ will assist families in iden fying a dental home in the
+community for their child, and to apply for insurance if needed. Documenta on of a dental screening or exam
+is needed within 90 days of a child’s enrollment.
+PPS Head Start partners with Dental3 (D3)/All Smiles, a non-proﬁt organiza on that provides dental screenings
+and ﬂuoride varnish applica ons by a licensed hygienist on site in classrooms for children with a consent form
+on ﬁle. If children are absent for screening or do not have consent, Family Service Workers (FSW) will work
+with families to obtain documenta on from the child’s dental home regarding the most recent exam.
+
+
+Enrollment
+   ● At enrollment, FSW will explain All Smiles (AS) services oﬀered and provide the link to online consent
+     form for parent/guardian to complete.
+   ● Health Coordinator will receive consent forms online once parents complete them, and will a ach into
+     ChildPlus.
+
+Dental Screening at Sites
+   ●   Teachers will be sent a sign-up form with me choices ahead of visit day.
+   ●   The AS staﬀ will be accompanied by a Health Team staﬀ with the consent forms for each class.
+   ●   Ideally, screenings are completed in the classroom in a small area with a chair and table if available.
+   ●   Classroom staﬀ are asked to iden fy each child and send them to the screening area.
+   ●   Results forms will be le at the site for families on the same day.
+
+Dental Exam (rev. 3/2/23)                                                                                      1
+Dental Follow Up
+   For children who are rated a “2”urgent dental need:
+   ● Health Team will no fy the FSW of screening results the same day.
+   ● FSW will make a same day phone call or face-to-face contact with parent/guardian aler ng them of the
+        need to make an urgent care dental appointment and assist parent/guardian in making dental
+        appointment.
+           ○ If a child does not have a dental home, the FSW will support the family to iden fy one as soon
+              as possible. FSW can reach out to the Health Team if assistance is needed to ﬁnd one in their
+              dental plan.
+           ○ If screening was done by an AS hygienist, AS will also contact family to facilitate follow up with a
+              dental provider.
+   ● FSW will follow-up within two weeks to conﬁrm appointment and/or treatment received.
+   ● FSW will document all communica on with family as ‘ac ons’ in Dental Exam ChildPlus event.
+           ○ FSW will note per nent informa on such as date(s) of appointments, treatment(s) received
+              and/or planned, how many more appts may be needed, support or resources given, etc.
+   5) FSW Manager and Health Team will monitor monthly.
+
+
+   For children who are rated a “1” dental need:
+   1) FSW will make a phone call or face-to-face contact with parent/guardian within 30 days to encourage
+      and assist parent/guardians in making a dental appointment. If a child does not have a dental home,
+      the FSW will support family to iden fy one as soon as possible.
+   2) FSW will follow-up monthly un l treatment is received.
+   3) FSW will document all communica on with family as ‘ac ons’ in Dental Exam ChildPlus event.
+          a. FSW will note per nent informa on such as date(s) of appointments, treatment(s) received
+             and/or planned, how many more appts may be needed, support or resources given, etc.
+   4) FSW Manager and Health Team will monitor monthly.
+
+
+   For children who need a dental screening or exam on ﬁle:
+   1) If a child is absent on a D3 site visit day or no consent is on ﬁle, FSW will communicate with family
+       about the date of the child’s last dental visit, or if an appointment is scheduled.
+           a) If an appointment is scheduled, FSW will give parent dental exam form to be completed by
+               dental provider at appointment, or ask for a summary at the visit.
+           b) If an appointment occurred recently and parent has no documenta on, FSW will have family
+               sign an Release of Informa on so records can be requested.
+           c) If an appointment has not been scheduled or occurred recently, FSW will work with the family
+               to schedule an appointment as soon as possible.
+
+
+_______________________________________________________________________________________
+
+Health Coordinator Data Entry:
+
+    ●   Go to the Health Services Tab
+    ●   Click on the Events Tab
+    ●   Click Add Event, then select Dental Exam
+    ●   Event Date: Enter the date the screening was completed
+    ●   Expira on Date: one year from the screening date
+
+Dental Exam (rev. 3/2/23)                                                                              2
+     ● Select a Status:
+       o Completed
+       o Parent Refused Permission- Not Screened
+       o Follow-up Needed (if any concerns or follow up was noted, training is needed, form needed, etc.)
+                 • Change status to ‘Follow Up Completed’ when no further ac on is needed
+                 • Descrip on: Write in appropriate descrip on
+                 • Results: Write an appropriate ac on needed (i.e., ‘needs dental home’, ‘support
+                     requested’, etc.)
+     ● Agency Worker: FSW name
+     ● Click Save
+     ● Note: ‘Ac ons’ can be added in lieu of a new event for mul ple exams with the same status during the
+       program year.
+
+__________________________________________________________________________________________
+
+Family Service Worker Data Entry
+
+FSW will document all communica on and follow up as ‘ac ons’ in the child’s Dental Exam event in ChildPlus.
+            ○ FSW will note per nent informa on such as date(s) of appointments, treatment(s) received
+              and/or planned, how many more appts may be needed, support or resources given, etc.
+
+     ● Click: Add Ac on
+     ● Ac on Type: Choose appropriate type
+     ● Scheduled Date: LEAVE BLANK
+     ● Ac on Date: Date follow up occurred
+     ● Descrip on: Write in what follow up was regarding
+     ● Status: Choose an appropriate status
+     ● Ac on Notes: Click the clock, document notes as needed
+     ● Agency Worker: choose your name
+
+
+
+
+(Jackson et al, 2011)
+
+HSPS 1302.42(c)(3), 1302.42(d)(2)
+CFOC 2.1.1.4
+
+
+
+
+Dental Exam (rev. 3/2/23)                                                                          3
+

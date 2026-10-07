@@ -1,0 +1,87 @@
+2020 Infrastructure: ADA                                                                                                            PPS Team Leads: Ellen Cusick
+May 2024                                                                                                                Number of Completed Projects: 2
+                                                                                                                           Number of Active Projects: 11
+
+STATUS AT A GLANCE
+                                                                                                           As Planned            Caution                 Impacts
+Legend:                                                                             Budget                                                                       X
+                 As planned: no concerns                                            Equity                                               X
+                 Caution: requires attention                                        Schedule                                             X
+                 Impacts: impacts occurring                                         Overall                                                                      X
+
+BUDGET
+                                                  BUDGET                                FUNDING                               PROGRESS                                          FORECAST
+                                                                                                                  Actuals To Date    Additional                       Estimate At
+                                     Original Budget       Current Budget     ADA Funds         Other Funds         (all funds)     Encumbered                        Completion       Over/Under
+                 Unallocated Funds         33,800,000               533,422         533,422                   -                      -                       -                        -       (533,422)
+            ADA Consultants - 5638                     -            100,000         100,000                   -              71,830                          -                71,830           (28,170)
+                ADA Signage - 5887                     -            126,350         126,350                   -             108,313                  17,488                  126,350                 -
+           Hardware Upgrades-5999                      -          4,306,814       1,565,219          2,741,595            2,693,640                1,176,871                4,306,814                -
+      ADA & SPED Upgrades - 6030                       -          6,513,946       4,821,602          1,692,344            5,123,888                1,071,003                6,513,946                -
+ ADA/SPED Upgrades Pkg1-A - 6184                       -          5,987,216       3,720,253          2,266,963            4,709,058                 845,049                 5,987,216                -
+ ADA/SPED Upgrades Pkg1-B - 6231                       -          6,256,059       5,317,650            938,409            4,243,611                1,177,099                6,256,059                -
+ ADA/SPED Upgrades Pkg1-C - 6262                       -          4,286,128       3,086,012          1,200,116            3,613,439                 272,716                 4,286,128                -
+ ADA/SPED Upgrades Pkg1-D - 6230                       -          5,440,130       4,515,308            924,822            4,330,099                 242,664                 5,440,130                -
+ ADA/SPED Upgrades Pkg2-A - 6256                       -          3,476,240       2,711,467            764,773               19,350                2,808,773                3,476,240                -
+ ADA/SPED Upgrades Pkg2-B - 6250                       -          3,492,633       2,863,959            628,674               14,370                2,831,735                3,492,633                -
+ ADA/SPED Upgrades Pkg2-C - 6264                       -          4,386,564       3,377,654          1,008,910               19,605                3,540,661                4,386,564                -
+ ADA/SPED Upgrades Pkg2-D - 6254                       -          4,211,863       3,032,541          1,179,322               37,512                3,432,737                4,211,863                -
+ ADA/SPED Upgrades Pkg2-E - 6251                       -          2,505,841       1,528,563            977,278               32,870                2,074,339                2,505,841                -
+                  2020 ADA Totals                                51,623,206     37,300,000          14,323,206           25,017,586               19,491,135             51,061,614           (561,592)
+
+
+EQUITY           Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                            MBE       WBE      SDVBE       ESB        N-C       TOTAL               goal           MIN        goal           FEM      goal           APPR       req
+             Consultants     0.00%    62.92%     0.00%      0.00%     0.00%       62.92%            18%
+             Contractors     0.03%     4.42%     0.00%      1.58%     0.00%        6.03%            18%
+                 Overall     0.02%    18.42%     0.00%      1.20%     3.53%       23.17%            18%
+
+              Workforce                                                                                            31%        25%            5%       14%            15%      20%
+                                                                                                                                                                       2020 Infrastructure: ADA, May 2024
+                                                                                                                                                                                               page 1 of 2
+2020 Infrastructure: ADA                                                                                                                PPS Team Leads: Ellen Cusick
+May 2024                                                                                                                    Number of Completed Projects: 2
+                                                                                                                               Number of Active Projects: 11
+
+
+SCHEDULE
+                                                                               2024                                                                           2025
+                           PROJECT       MAY        JUN        JUL       AUG          SEP     OCT         NOV      DEC    JAN       FEB      MAR        APR          MAY     JUN       JUL      AUG
+                 ADA Signage - 5887
+            Hardware Upgrades-5999
+         ADA & SPED Upgrades - 6030
+ ADA/SPED Upgrades Pkg1-A - 6184
+ ADA/SPED Upgrades Pkg1-B - 6231
+ ADA/SPED Upgrades Pkg1-C - 6262
+ ADA/SPED Upgrades Pkg1-D - 6230
+ ADA/SPED Upgrades Pkg2-A - 6256
+ ADA/SPED Upgrades Pkg2-B - 6250
+ ADA/SPED Upgrades Pkg2-C - 6264
+ ADA/SPED Upgrades Pkg2-D - 6254
+ ADA/SPED Upgrades Pkg2-e - 6251
+
+                   Baseline                                 Planning                                 Design & CA                 Construction
+
+PROJECT NOTES
+Progress:
+ - ADA signage installation and wall repairs were completed in March.
+ - Classroom door hardware (Hardware Upgrades 5999) has been replaced at all sites as of October 2023, excluding hazmat doors (approx 250 doors at 32 sites). New doors continue to be
+installed with new hardware: 16 sites are complete; 2 sites are mostly complete (damaged doors had to be re-ordered); 14 sites remain to be addressed. All work will be completed before the
+start of the 2024/25 school year.
+ - Phase 1 of ADA and SPED upgrades at 38 sites (4 construction packages) are still in progress. Delays occurred due to a lighting specification error, long lead times for lighting, delayed permits
+(all issued by December 2023), and stage lift lead times. 17 sites are completed and punched as of 5/16/24; the remaining 21 sites are anticipated to be complete by mid-June.
+- Phase 2 of ADA and SPED upgrades at 40 sites (5 construction packages) contracts have been awarded and will begin construction after the school year ends. All bids came in at 55-70% of cost
+estimates. We learned some lessons in Phase 1 and will apply those to Phase 2 in order to stay on schedule.
+Accomplishments:
+- ADA signage installation and wall repairs are complete.
+- Door hardware upgrades are complete, hazmat door replacement is ahead of schedule and expected to be completed before the start of the 2024/25 school year.
+- ADA & SPED Upgrades at 38 sites is approximately 90% complete. All will be completed by the end of June.
+- Contracts are in place for the remaining 40 sites in Phase 2.
+Risks:
+- A lighting specification error has led to delayed completion in all package and 8 sites specifically.
+- Long lead time items (lighting and vertical lifts) could cause delays in Phase 2.
+
+                                                                                                                                                                      2020 Infrastructure: ADA, May 2024
+                                                                                                                                                                                              page 2 of 2
+

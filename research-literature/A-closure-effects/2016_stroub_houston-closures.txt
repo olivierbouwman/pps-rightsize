@@ -1,0 +1,570 @@
+Education Research Center                                                                POLICY BRIEF
+           www.texaserc.utexas.edu
+
+
+Evaluating the Impact of School Closures in Houston ISD, Part I: The Effect
+of School Closures on Patterns of Student Attendance and Achievement
+Kori J. Stroub (Rice University) & Meredith P. Richards (Southern Methodist University)
+March 2016
+
+What We Studied
+
+Over the past decades, the closure of urban public schools has disrupted the educational experiences of hundreds of
+thousands of public schoolchildren. Since 2000, urban school districts in cities such as Chicago, Cincinnati, Detroit,
+Indianapolis, Kansas City, Minneapolis, New York, Philadelphia, Pittsburgh, St. Louis, and Washington, D.C. have
+shuttered more than 20% of their public schools (Brummet, 2012; Dowdall, 2011). In the 2010-11 school year alone,
+urban school closures displaced over 100,000 students (Author calculations, NCES CCD). Indeed, even Texas, which
+has experienced sustained population growth over the past decades, has closed a number of schools, particularly in
+Dallas and Houston. While closures have often been motivated by declining enrollments in light of constricting
+budgets, districts are also increasingly utilizing closures as a reform strategy to combat chronic low academic
+performance. Indeed, such achievement-based closure reform has increasingly been incentivized by the federal
+government through reauthorization of current ESEA legislation and the creation of the Race to the Top Fund (Hurdle,
+2013; Jack & Sludden, 2013). Despite the steadily increasing number of school closures and the controversial nature of
+closure reform, scant empirical attention has been devoted to examining the effects of closures on student outcomes.
+The limited evidence on school closures generally suggests that closures have slightly negative or null effects on the
+educational trajectories of displaced students. For instance, Engbert, et al. (2012) found that a wave of closures in
+Pittsburgh had a persistent negative effect on the test scores of displaced students, unless students were reassigned to
+school of sufficiently higher quality. A study on school closures in Chicago found no lasting effects of closure on
+student test scores (de la Torre & Gwynne, 2009). More recent findings in Ohio, however, suggest that closures can
+have positive effects on achievement, particularly if displaced students are reassigned to schools that are of sufficiently
+high quality (Carlson & Lavertu, 2015).
+
+In Part I of this investigation of school closures in HISD, we examine the impact of closures on the academic
+achievement of displaced students. Being the largest school district in Texas, HISD has also experienced the largest
+number of closures, closing 55 schools between 2003 and 2010. In this study, we compare the achievement trajectories
+of 4,168 students that were displaced by a closure to a comparable set of students that did not experience a closure over
+the same time period.
+
+How We Analyzed the Data
+
+In this study, we address the following four research questions:
+      What types of schools were closed in HISD?
+      To what types of schools do displaced students transfer?
+      How do school closures affect the achievement trajectories of displaced students?
+      Does the relative quality of the schools to which displaced students transfer moderate the impact of
+         experiencing a closure?
+
+
+
+Page | 1
+Data & Sample
+Annual student- and school-level data for this study were obtained from the Texas Education Research Center (TERC),
+which serves as Texas’ longitudinal education data warehouse. Owing to changes in the state’s testing system,
+longitudinally- comparable achievement data were only available for the period during which Texas administered the
+Texas Assessment of Knowledge and Skills (TAKS), which was first implemented in 2002-03 and administered to
+students through 2009-10. Our sample consists of 4,168 HISD students that were displaced by the closure of 27 regular
+public schools (i.e., non-alternative, non-charter campuses) between 2003 and 2010. As will be discussed in greater
+detail below, these students were matched to an equal sized comparison group of students that did not experience a
+closure over this same period. As such, our final analytic sample consists of 8,336 HISD students.
+
+Analytic Strategy
+In this study, we focus on the impact of school closures on student achievement over time, as measured via two
+primary dependent variables: math and reading achievement. For the years in which the TAKS was administered,
+students were tested in grades three through eleven. Math and reading achievement is measured via student TAKS raw
+scores. The primary independent variable of interest is whether or not a students’ school experienced a closure. As
+specified by our regression models in the section that follows, we examine the effects of closure on achievement in the
+year immediately following a closure as well as on the slope of achievement over time. Because achievement
+trajectories are generally nonlinear and because the impact of closures may be larger in initial years and taper off over
+time (or vice versa), we use higher- order terms to capture this complexity in achievement trajectories. To account for
+the fact that closed schools likely differ from schools that are not closed in important ways, we employ a two-step
+matching procedure. The primary objective of this matching approach is to identify a comparable set of students to
+which the achievement trajectories of displaced students can be compared.
+
+Step one of this procedure involved matching each of the 27 closed schools to a set of non-closed schools. Schools
+were matched using the two characteristics most closely associated with closure in the literature: Enrollment size and
+Achievement (see, for example, de la Torre & Gwynne, 2009). Using these two variables, schools were stratified into
+four equal sized groups (quartiles) on each variable for each year that there was a closure (See the chapter in Murnane
+& Willett, 2010 on covariate stratification). Then, closed schools were matched to all the non-closed schools that were
+in the same enrollment and achievement quartiles. For instance, if a school that closed at the end of the 2004-05 school
+year was in the first enrollment and achievement quartiles for that year, it would only be matched to those non-closed
+schools that were also in the first quartiles for each variable in 2004-05. In total, the 27 closed schools were matched to
+107 non-closed schools. Once the matched set of schools was created, step two of the procedure involved matching
+each of the 4,168 displaced students to a similar student that was enrolled in one of the non-closed comparison schools
+to which they were matched in step one. The student-level match was accomplished using a nearest-neighbor
+propensity score matching procedure (PSM). First, the likelihood that each student would experience a closure was
+estimated using multilevel logistic regression. A variety of student-level covariates were accounted for in these models,
+including: basic student demographics (e.g., gender, race/ethnicity), educational characteristics (e.g., LEP, special
+education), attendance and mobility, and achievement (i.e., TAKS scores). Once these propensity scores were
+computed, each displaced student was matched to the student from the comparison group that had a propensity score
+that most closely matched their own (i.e., was equally likely to have experienced a closure). Using this procedure, we
+were able to match all 4,168 displaced students to a comparable non-displaced student, resulting in a final analytic
+sample of 8,336 students. As will be discussed in the following section, we then used this matched sample of students
+to compare the achievement trajectories of displaced students to the achievement trajectories of the non-displaced
+comparison students.
+
+Modeling Strategy
+To examine the effect of school closure on the achievement trajectories of displaced students, we estimate a series of
+multilevel discontinuous change models (see Singer & Willett, 2003), which capture the immediate effect of a closure
+on student performance in the year following closure as well as the longer-term impact that displacement has on test
+scores.
+
+
+
+
+Page | 2
+Even though schools and students were previously matched along a variety of characteristics, we follow the procedure
+outlined in Shadish, Clark, and Steiner (2008) and include student- and school-level covariates in our models to
+provide doubly-robust estimates of the closure effect. Moreover, because learning trajectories may not be linear, and
+the impact of closures on achievement may not be uniform over time, we test and incorporate terms capturing
+curvilinear changes in achievement over time as well as curvilinear effects of closures on achievement. Finally, in
+addition to estimating the overall main effect of closure on student achievement, we also test a closure by receiving
+school performance interaction. That is, we estimate the extent to which the impact of school closures depends on the
+relative performance (measured using aggregate TAKS scores) of the schools to which they transfer.
+
+What We Discovered
+
+What types of schools were closed in HISD?            Table 1. Characteristics of Students Displaced by Closure vs. HISD
+First, Table 1 demonstrates that, like closures                                                    Displaced       HISD
+in Northeastern and Midwestern cities,                         Race/Ethnicity
+HISD’s closures have disproportionately                        American Indian                        0.03%          0.1%
+displaced poor and black students. Although                          Asian                             1.0%          3.3%
+HISD has a high poverty rate overall, schools
+                                                                     Black                            42.6%         27.1%
+that were closed tended to be particularly
+                                                                   Hispanic                           54.3%         61.8%
+poor: 91% of students in schools that were
+closed were economically disadvantaged, as                           White                             2.1%          7.6%
+compared to 80% in HISD as a whole.                                At-Risk                            62.5%         63.4%
+Moreover, although only 27% of HISD’s                    Economically Disadvantaged                   90.6%         79.9%
+students are black, 43% of students affected                        LEP                               29.0%         30.9%
+by closures are black. As such, closures have                 Gifted/Talented                          7.6%         13.4%
+had a uniquely acute impact on Houston’s                     Special Education                         9.0%          8.1%
+black communities.                                              TAKS Scores
+                                                              Math - Met Standard                     67.0%         81.0%
+To what types of schools do displaced                        Reading - Met Standard                     81.1%         87.0%
+students transfer?                                            Math - Commended                          16.8%         27.0%
+Second, contrary to the concerns of some                     Reading - Commended                        16.2%         28.0%
+critics, Table 2 demonstrates that overall,
+students displaced by closures do tend to be reassigned, both in HISD policy and in actuality, to schools that are
+slightly more advantaged than their closed school. Specifically, students tend to transfer to schools that are slightly
+more racially/ethnically and socioeconomically diverse and academically higher-performing than the schools they left.
+While displaced students tend to attend slightly better schools than those that closed, they still transferred to relatively
+low-performing schools in an absolute sense. Indeed, 52% of displaced students transferred to schools in the bottom
+third of the district in math achievement, while 43% of displaced students transferred to schools in the bottom third of
+HISD in reading achievement. Conversely, just 21% of displaced students transferred to high-performing schools in the
+top third of the district in math achievement, while 18% transferred to schools with high reading achievement.
+Moreover, disaggregated data on student transfer patterns reveal that the types of schools to which displaced students
+transfer tend to differ by student characteristics. For the sake of brevity, we focus here on two important student-level
+characteristics: student prior achievement and race/ethnicity (Figures 1 and 2, respectively). In particular, low-
+achieving students were substantially less likely than their higher-achieving peers to transfer to high-achieving
+receiving schools after experiencing a closure. Figure 1 demonstrates that high-achieving students were 1.6 times more
+likely to transfer to high-performing schools than low-achieving students (25% vs. 16%). However, low- and high-
+achieving students were roughly equally likely to transfer to low-performing schools (55% and 49%, respectively).
+Second, disaggregating the transfers of displaced students by race/ethnicity also reveals a troubling pattern of results.
+In particular, white students were significantly more likely to transfer to high-performing schools than black or
+Hispanic students. Figure 2 demonstrates that 51% of displaced white students transferred to schools that ranked in the
+top third of schools in terms of achievement. By contrast, only 28% of Black students and 20% of Hispanic students
+transferred to high-performing campuses. Conversely, while just 26% of displaced white students transferred to low-
+
+
+
+
+Page | 3
+achieving schools, 42% and 53% of displaced               Table 2: Characteristics of Closed Schools & Their Designated &
+black and Hispanic students, respectively,                                   Actual Receiving Schools
+transferred to campuses in the bottom third of                                           Closed     Designated     Actual
+                                                                                                     Receiving     Receiving
+all HISD schools.
+                                                     Enrollment                             368           637               693
+How do school closures affect the achievement        Race/Ethnicity
+trajectories of displaced students?                       American Indian                0.01%          0.04%              0.1%
+Despite being transferred to higher- performing           Asian                           0.8%           1.8%              2.1%
+schools overall, our discontinuous regression             Black                          46.5%          46.4%             43.2%
+models (Tables 3 and 4 for math and reading,              Hisp                           51.1%          48.6%             49.9%
+respectively) indicate that displaced students            White                           1.7%           3.2%              4.7%
+fare little better academically in both the short-   Attendance                          95.6%          96.6%             95.9%
+and long-term relative to their non-displaced        Mobility                            28.0%          22.6%             23.9%
+peers. Moreover, while the overall impact of         LEP                                 34.1%          29.3%             28.9%
+closures is small, the effects do vary somewhat      Special Education                    9.3%           8.8%              9.3%
+across subjects.
+                                                     Economically Disadvantaged          95.5%          90.5%             87.6%
+For instance, the second column in Table 5
+                                                     Gifted/Talented                      4.8%           7.0%              7.4%
+(“Average column”) demonstrates that, on
+                                                     TAKS Scores
+average, displaced students displayed higher
+than expected math TAKS scores in the year                All Tests                      56.4%          62.6%             63.0%
+immediately following a closure. Indeed,                  Math                           69.9%          75.8%             75.5%
+compared to comparable non-displaced                      Reading                        71.7%          77.4%             78.4%
+students, displaced students averaged 1.3 more       Student-Teacher Ratio                   16            17                16
+questions correct on the math TAKS. As Table         Teacher Years of Experience             12            11                11
+5 also indicates, however, the math gains are
+relatively short-lived, owing
+to flatter achievement
+trajectories. For example,
+between the first and second
+year after closure, the math
+achievement slope of
+displaced students is just
+85% as large as that of their
+non-displaced peers. As a
+result of this flatter slope,
+two years after closure, the
+math gap between displaced
+and non-displaced students
+narrows to 0.8. By four
+years after closure,
+displaced students answer
+0.3 fewer questions
+correctly than their non-
+displaced peers.
+Moreover, given that most
+students experience closures
+in elementary school, the
+flatter achievement slopes of
+displaced students suggest
+that their math achievement
+lags further behind their
+peers with each progressing
+
+
+
+Page | 4
+year. As such, the earlier a
+student experiences a
+closure the more likely it is
+to have a negative impact on
+their achievement over their
+educational careers.
+
+By contrast, displaced
+students experienced no
+significant difference in
+their expected level of
+reading achievement in the
+year following a closure
+relative to non-displaced
+students. However,
+displaced students had
+flatter achievement
+trajectories after closure
+than their non-displaced
+peers. For example, between
+the first and second year
+after closure, the reading
+achievement slope of
+displaced students is just
+87% as large as their non-
+displaced peers. As a result, displaced students under-performed relative to their non-displaced peers in the years after
+closure. As Table 5 demonstrates, on average, displaced students answer 0.7 fewer questions correctly 2 years after a
+closure than non-displaced students. By four years, the gap widens to 1.0 questions.
+
+                            Table 3: Effects of Closures on Math Achievement of Displaced Students
+                                                                Model                    Model 1B
+                                                                1A
+                                                           Est.         S.E.        Est.          S.E.
+                   Student Level Predictors
+                       Intercept                         17.872 * 5.528           17.924 *       0.876
+                       Year                                1.992 * 0.089          1.966*         0.089
+                       Year2                              -0.034 * 0.008           -0.031 *      0.008
+                       Closure                             1.311 * 0.169            1.372 *      0.171
+                       Post-Closure                       -0.527 * 0.154           -0.634 *      0.168
+                       Post-Closure2                      -0.042       0.037       -0.052        0.042
+                       Grade                               1.941 * 0.083            1.946 *      0.083
+                       Age                                -1.111 * 0.083           -1.116 *      0.083
+                       Asian/Pacific Islander              0.865       0.763        0.851        0.763
+                       Black                              -4.598 * 0.413           -4.598 *      0.413
+                       Hispanic/Latino                    -2.236 * 0.393           -2.237 *      0.393
+                       Female                             -0.528 * 0.138           -0.527 *      0.138
+                       Attendance                          0.011 * 0.002            0.011 *      0.002
+                       Economically Disadvantaged          0.179       0.109        0.175        0.019
+                       LEP                                -1.608 * 0.113           -1.604 *      0.113
+                       Gifted/Talented                     3.010 * 0.151            3.004 *      0.151
+                       Special Education                  -3.698 * 0.195           -3.687 *      0.195
+                       Between-Year Mobility              -0.007       0.072       -0.005        0.072
+                       Within-Year Mobility               -0.808 * 0.064           -0.806 *      0.064
+
+
+
+
+Page | 5
+               Structural Mobility              0.233        0.128        0.227        0.128
+           School Level Predictors
+               Mean School Achievement           0.121   *   0.004         0.119 *     0.004
+               Elementary School                -4.389   *   0.237        -4.436 *     0.235
+               Middle School                    -7.246   *   0.405        -7.268 *     0.402
+               High School                      -4.270   *   0.389        -4.428 *     0.388
+               % White                          -0.001       0.007        -0.002       0.007
+               Attendance Rate                  -0.008       0.032        -0.007       0.032
+               % Economically                    0.040   *   0.006         0.038 *     0.006
+               Disadvantaged
+               % LEP                            -0.010   *   0.004        -0.009 *     0.004
+               % Gifted/Talented                -0.047   *   0.007        -0.046 *     0.007
+               % Special Education               0.014       0.015         0.017       0.015
+               Mobility Rate                    -0.018   *   0.007        -0.014       0.007
+               Student-Teacher Ratio             0.026       0.018         0.028       0.018
+               Mean Years of Teacher             0.065   *   0.019         0.068       0.019
+               Experience
+               Enrollment                     -0.0003    *   0.000       -0.0003 *    0.0001
+                                                                  1
+                Closure X Mean School           --             --         -0.026 *     0.009
+                Achievement
+                Post-Closure X Mean School      --             --         0.033 *      0.011
+                Achievement
+                Post-Closure2 X Mean School     --             --         -0.002       0.003
+                Achievement
+           * p < 0.05
+
+
+                     Table 4: Effects of Closures on Reading Achievement of Displaced Students
+                                                        Model                    Model 2B
+                                                        2A
+                                                   Est.        S.E.         Est.          S.E.
+           Student Level Predictors
+               Intercept                       13.305    *   5.653       13.334 *       5.549
+               Year                             2.039    *   0.077        2.041 *       0.077
+               Year2                            -0.064   *   0.008        -0.064 *      0.008
+               Closure                          -0.215       0.157        -0.188        0.158
+               Post-Closure                     -0.849   *   0.148        -1.178 *      0.179
+               Post-Closure2                     0.168   *   0.035         0.274 *      0.047
+               Grade                             3.519   *   0.075         3.522 *      0.075
+               Age                              -0.811   *   0.069        -0.812 *      0.069
+               Asian/Pacific Islander           -1.451   *   0.618        -1.451 *      0.618
+               Black                            -3.011   *   0.332        -3.014 *      0.332
+               Hispanic/Latino                  -2.353   *   0.316        -2.356 *      0.316
+               Female                            0.554   *   0.108         0.553 *      0.108
+               Attendance                        0.007   *        -        0.008 *      0.002
+                                                             0.002
+               Economically Disadvantaged       -0.319   *   0.102        -0.320 *      0.102
+               LEP                              -3.224   *   0.104        -3.223 *      0.104
+               Gifted/Talented                   2.279   *   0.138         2.280 *      0.138
+               Special Education                -3.881   *   0.174        -3.800 *      0.174
+               Between-Year Mobility            -0.019       0.064        -0.022        0.064
+
+
+
+
+Page | 6
+                Within-Year Mobility                      -0.378     *     0.057            -0.378 *      57.000
+                Structural Mobility                       -0.139           0.111            -0.143         0.111
+           School Level Predictors
+               Mean School Achievement                     0.113     *     0.005             0.112 *       0.005
+               Elementary School                          -5.213     *     0.231            -5.242 *       0.232
+               Middle School                            -14.411      *     0.386          -14.409 *        0.387
+               High School                                -7.322     *     0.377            -7.341 *       0.378
+               % White                                    -0.002           0.007            -0.002         0.007
+               Attendance Rate                            -0.073     *     0.030            -0.075 *       0.030
+               % Economically                              0.024     *     0.005             0.024 *       0.005
+               Disadvantaged
+               % LEP                                       0.008           0.004             0.008         0.004
+               % Gifted/Talented                          -0.012     *     0.007            -0.012         0.007
+               % Special Education                         0.062     *     0.015             0.062 *       0.015
+               Mobility Rate                              -0.011           0.007            -0.012         0.007
+               Student-Teacher Ratio                       0.006           0.018             0.007         0.018
+               Mean Years of Teacher                      -0.043     *     0.019            -0.044 *       0.019
+               Experience
+               Enrollment                               -0.0003      *     0.000          -0.0003 *       0.0001
+                                                                                1
+                Closure X Mean School                     --                 --             0.004          0.013
+                Achievement
+                Post-Closure X Mean School                --                 --             0.040 *        0.016
+                Achievement
+                Post-Closure2 X Mean School               --                 --             -0.013 *       0.004
+                Achievement
+           * p < 0.05
+
+
+             Table 5. Estimated Achievement of Displaced Students relative to
+                 Non- Displaced Students One to Four Years after Closure
+                                                                   Receiving School Performance
+                                                                   Average      Low       High
+           Math TAKS
+             1 year after closure                                         1.3         0.0           3.1
+            2 years after closure                                         0.8        -1.3           2.8
+            3 years after closure                                         0.3        -2.7           2.5
+            4 years after closure                                        -0.3        -4.1           2.2
+           Reading TAKS
+             1 year after closure                                         0.0        -2.0           1.9
+            2 years after closure                                        -0.7        -3.4           1.5
+            3 years after closure                                        -1.0        -4.0           1.2
+            4 years after closure                                        -1.0        -3.6           1.3
+              Note. The above values represent the difference in raw TAKS scores between displaced
+           students and comparable non-displaced students. Positive values indicate that the displaced
+           students are over-performing relative to their non- displaced peers, whereas negative values
+              suggest they are under-performing. The values can be interpreted in terms of number of
+                                            correct test questions on
+                                                  the TAKS exam.
+
+
+
+
+Page | 7
+Does the relative quality of the
+schools to which displaced
+students transfer moderate the
+impact of experiencing a
+closure?
+While our results regarding the
+overall impact of closures
+suggest that they have a small
+impact on the achievement
+trajectories of displaced students,
+we find that the academic
+performance of the schools to
+which displaced students transfer
+plays an important role in
+moderating the impact of
+closures. As Figure 3
+demonstrates, attending a high-
+performing receiving school (+1
+standard deviation above the
+HISD mean) is associated with
+less negative outcomes than
+attending a school of average or
+low quality (-1 standard
+deviation). Indeed, as the last two
+columns of Table 5 indicate,
+displaced students score 3.1
+points higher on math than
+expected when transferring to a
+high- performing campus the year following closure. Conversely, displaced students transferring to low- performing
+campuses experience no short-term positive effect of closure on math achievement. Beyond the immediate impact of
+closures on math achievement, the trajectories of displaced students’ math scores tend to lag behind those of their non-
+displaced peers, regardless of the quality of the school to which they transfer. For example, between the first and the
+second year after closure, displaced students attending low-performing schools had math achievement slopes just 63%
+as large as those of their non-displaced peers. Perhaps more surprisingly, over the same period, displaced students
+attending high-performing schools had math achievement slopes just 91% as large as those of their non-displaced
+peers.
+
+As a result of these flatter math achievement slopes, although displaced students that transfer to low-performing
+receiving schools score no different on the math TAKS one year after closure than their non-displaced peers, by two
+and three years after closure they increasingly fall behind. As column 3 of Table 5 demonstrates, two years after
+closure displaced students in low-performing schools score 1.3 points lower than non-displaced students. By four years
+post-closure, the gap widens to more than 4 points. Although displaced students transferring to high quality schools
+also exhibit flatter math achievement slopes than their non-displaced peers, they still perform 2.2 points higher than
+their non- displaced peers by four years after closure owing to their large post-closure “bump” in math scores.
+As with math achievement, receiving school performance has a statistically significant impact on the effect of
+experiencing a closure on reading achievement (see Figure 4). Indeed, transferring to a high-performing
+receiving school is associated with an immediate, albeit smaller, increase in reading TAKS scores relative to non-
+displaced students. As Table 5 illustrates, displaced students score 1.9 points higher on reading than expected when
+transferring to a high-performing campus the year following closure. However, transferring to a low-performing
+receiving school is associated with an immediate decline in reading achievement. Indeed, one year after experiencing a
+closure, displaced students answer, on average, 2 more questions wrong on the reading TAKS than their non-displaced
+peers.
+
+
+
+Page | 8
+As with math achievement, the
+reading trajectories of displaced
+students tend to lag behind those of
+non-displaced students, regardless of
+the quality of the school to which they
+transfer, at least initially. For example,
+between the first and the second year
+after closure, displaced students
+attending low-performing schools had
+reading achievement slopes just 71%
+as large as those of their non-displaced
+peers. Perhaps more surprisingly, over
+the same period, displaced students
+attending high-performing schools had
+reading achievement slopes just 91%
+as large as those of their non-displaced
+peers. Unlike with math, however, the
+gap in these trajectories narrows over
+time. As a result of these flatter
+reading achievement slopes, for
+students transferring to low-
+performing receiving schools, the gap
+between displaced and non-displaced
+students in reading TAKS increases to
+3.4 points in year two and 4.0 points in
+year three, narrowing slightly to 3.6
+points by year four. Moreover, for displaced students transferring to higher-performing schools, the initial benefit of
+transferring to a higher-performing school erodes somewhat over time. By year two, the initial gap of
+1.9 narrows to 1.5; by year four the gap is 1.3 points.
+
+While these findings suggest that closures in HISD have had the potential to positively impact the achievement
+trajectories of displaced students, our results indicate that they only appear to have done so when students transfer to
+high-performing schools. Although our earlier descriptive analyses demonstrated that displaced students did transfer to
+slightly higher-performing schools on average, these transfers did not occur evenly across the distribution of displaced
+students. Indeed, recall that Figures 1 and 2 revealed that relatively small proportions of students transferred to the
+highest performing schools in the district, with low-achieving and non- white students being the least likely to transfer
+to these advantaged campuses.
+
+Policy Recommendations/Implications
+
+Underscoring the highly contentious and racialized discourse on school closures, we find that HISD’s closures have
+had a disproportionate impact on poor, low-achieving, and black students. Somewhat encouragingly, unlike previous
+waves of closures in Chicago (de la Torre & Gwynne, 2009), but similar to findings in Ohio (Carlson & Lavertu,
+2015), we find that on average, displaced students in HISD transferred to schools that were somewhat more diverse
+and higher-performing in terms of math and reading. Despite attending slightly higher-performing schools, however,
+displaced students do not experience higher achievement on average relative to what would have been expected in the
+absence of closures. Although displaced students appear to experience a short-term “bump” in math but not reading
+achievement immediately after a closure, their achievement growth tends to be flatter than their non-displaced peers in
+the years thereafter. As such, with each progressing year, displaced students lose ground to their non-displaced peers.
+On average, the gaps between displaced and non- displaced students are not large. However, they suggest that closures
+have fallen short of the espoused goal of improving student achievement.
+
+
+
+
+Page | 9
+Perhaps most importantly, however, we find that closures have the potential to benefit the achievement of displaced
+students if they transfer to high-performing campuses. Unfortunately, our analyses of student transfer patterns suggest
+that few students transfer to such high-performing campuses. Moreover, low-achieving students and students of color
+are particularly unlikely to transfer to high- performing schools. By facilitating transfer patterns whereby historically
+high-achieving groups transfer to higher-performing schools than historically low- achieving students, closures hold
+the potential to further exacerbate achievement gaps between traditionally disadvantaged groups and their peers.
+Taken together, our findings have important implications for closure policy in HISD. Results underscore the
+importance of district criteria in selecting both the schools that close as well as the schools to which displaced students
+will transfer. To aid in minimizing the negative effects of closures, the district must be judicious in closing only the
+lowest-performing schools. In addition, to maximize the benefit of closures, students must be offered significantly
+higher-performing transfer options. Towards that end, we recommend that displaced students are reassigned to schools
+that are significantly higher-performing than the schools that were closed. Moreover, given HISD’s high degree of
+school choice and open enrollment policies, we also recommend that displaced students be given preferential
+admissions or reserved slots in several high-performing campuses across the district.
+
+Second, given the risk at which closure places displaced students, particularly in the longer-term, districts should
+carefully monitor the progress of and, if necessary, target interventions at these students. Our results suggest that
+displaced students fare better than their peers, in terms of math, in the year after closure, yet fall behind their peers over
+time. As such, this highlights the importance of ensuring that monitoring and interventions continue throughout a
+students’ educational careers.
+
+References
+Brummet, Q. (2012). The effect of school closings on student achievement. Working paper.
+Corley, C. (2013, March 22). Chicago teachers, parents riled by plan to close 54 public schools. NPR Education.
+Carlson, D. & Lavertu, S. (2015). School closures and student achievement: An analysis of Ohio’s urban districts and charter schools.
+          Thomas B. Fordham Institute: Columbus, OH.
+de la Torre, M. & Gwynne, J. (2009). When schools close: Effects on displaced students in Chicago public schools. Consortium on
+          Chicago School Research: Chicago, IL.
+Dowdall, E. (2011, October). Closing Public Schools in Philadelphia: Lessons from Six Urban Districts. The Pew Charitable Trust:
+          Philadelphia, PA.
+Duffin, E. (2009, March). Displaced kids doing poorly. Catalyst.
+Engberg, J., Gill, B., Zamarro, G., & Zimmer, R. (2012). Closing schools in a shrinking district: Do student outcomes depend on
+          which schools are closed? Journal of Urban Economics, 71(2), 189- 203.
+Jack, J. & Sludden, J. (2013). School closings in Philadelphia. Penn GSE Perspectives on Urban Education, 10(1).
+          Mid-Atlantic Equity Center. (2009). Does closing schools cause educational harm? A review of the research. Bethesda, MD.
+Murnane, R. J., & Willett, J. B. (2010). Methods matter: Improving causal inference in educational and social science research.
+          Oxford University Press.
+Fleisher, L. (2013, January 28). School closures challenged. The Wall Street Journal.
+Hanushek, E., Kain, J., & Rivkin, S. (2004). Disruption versus Tiebout improvement: The costs and benefits of switching schools.
+          Journal of Public Economics, 88, 1721-1746.
+Hurdle, J. (2013, January 28). Education Dept. to Hear School Closing Complaints. The New York Times.
+          PEW Charitable Trust (2013). Shuttering public schools: The struggle to bring old buildings to new life. Philadelphia, PA.
+Rumberger, R. (2003). The causes and consequences of student mobility. Journal of Negro Education, 72(1), 6-21.
+Schwartz, A. & Stiefel, L. (2012). Moving matters: The causal effect of school mobility on student performance. Paper presented at
+          the Annual Conference of the Association for Education Finance and Policy.
+Shadish, W. R., Clark, M. H., & Steiner, P. M. (2008). Can nonrandomized experiments yield accurate answers? A randomized
+          experiment comparing random and nonrandom assignments. Journal of the American Statistical Association, 103(484),
+          1334-1344.
+Singer, J. & Willett, J. (2003). Applied longitudinal data analysis: Modeling change and event occurrence. London: Oxford
+          University Press.
+Sunderman, G. L., & Payne, P. (2009). Does closing schools cause educational harm? A review of the research. Mid-Atlantic Equity
+          Center: Bethesda, MD.
+Xu, Z., Hanaway, J., & D’Souza, S. (2009). Student transience in North Carolina: The effect of mobility on student outcomes using
+          longitudinal data. National
+          Center for the Analysis of
+                                            The University of Texas at Austin ERC is a research center and P-20/Workforce Repository site which provides access to longitudinal, student-
+          Longitudinal Data in             level data for scientific inquiry and policymaking purposes. Since its inception in 2008, the Texas ERC’s goal is to bridge the gap between theory
+          Education Research:               and policy by providing a cooperative research environment for study by both scholars and policy makers. As part of its mission, the ERC works
+          Washington, DC. Working          with researchers, practitioners, state and federal agencies, and other policymakers to help inform upon critical issues relating to education today.
+                                                 The views expressed are those of the authors and should not be attributed to The University of Texas at Austin or any of the funders or
+          Paper #22.                                       supporting organizations mentioned herein including the State of Texas. Any errors are attributable to the authors.
+
+
+
+
+Page | 10
+

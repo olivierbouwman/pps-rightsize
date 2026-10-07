@@ -1,0 +1,47 @@
+Date:          January 9, 2024
+
+To:            Board of Education
+
+From:          Myong Leigh
+
+CC:            Guadalupe Guerrero
+
+Subject:       Background Information re. Audit Finding
+
+
+We wanted to share some background information regarding a finding in this year's Annual
+Comprehensive Financial Report (ACFR). The Board’s Audit Committee also held a thorough
+discussion of the ACFR on December 19 including discussing this finding and its remedies,
+which are being implemented.
+
+The finding pertains to two revenue transactions the auditors noted as misclassified. The first
+transaction involved $9.3 million that the District received in June 2022 through the federal
+Emergency Connectivity Fund grant. These funds allowed the district to cover purchases of
+Chromebooks and hotspots that had initially been funded through a combination of other grants
+and bond funds. When the ECF grant was awarded, the revenue was recorded in a Special
+Revenue fund (Fund 205), and approved expenditures were reclassified accordingly. However,
+when shifting the expenditures, revenue was also inadvertently coded in a capital projects fund
+(Fund 458), which effectively duplicated revenue recording. Due to the complexity of this
+transaction spanning two fiscal years, staff shortages/outages, and necessary consultation with
+internal (OTIS and Grant Accounting) and external (Federal ECF grant personnel) partners, this
+duplication of revenue was not initially caught on review.
+
+The second transaction involved $120M that PPS received in December 2022 from the State of
+Oregon for relocation/replacement of Harriet Tubman MS. The full amount of the grant was
+inadvertently recorded as revenue when received, but should have been recorded as a liability
+(deferred revenue) until earned. Revenue would be "earned" as progress advanced on the
+relocation/replacement. Due to the complexity of the transaction, which included establishing a
+new fund and project ID for tracking/reporting, as well as difficulty getting details regarding the
+agreement, the recognition of revenue/deferred revenue was not initially caught on review.
+
+These issues are addressed in a single audit finding for which corrective actions have been
+identified, and the appropriate adjustments have been reflected in the financial statements.
+
+                                                                                                  1
+Please let me know if you have any questions.
+
+
+
+
+                                                2
+

@@ -1,0 +1,180 @@
+Christy Splitt (Zone 1; Intergovernmental Affairs Committee chair) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296 (launch rightsizing): YES (passed 5-2). Supported "will"->"may" in discussion but voted NO on that motion (failed 2-5); NO on La Forte's added-recitals amendment (failed 3-4); MOVED the final wording "will include school and program closures, consolidations, or boundary changes" (passed 6-0-1). Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles 7-0.
+- 2026-09-15: proposed the compromise (superintendent agrees to deliver span-of-control analysis by December without a resolution), which the board adopted informally.
+- 2026-09-29 Res. 7382 bond-audit responses: MOVED Res. 7382; NO on DePass Rec. 28 amendment (failed 3-4); YES on La Forte strike (4-3); her Rec. 4 amendment ("should continue to periodically review"; plan to full board for approval) passed 6-1; YES on "additional auditor" (5-2); MOVED striking Rec. 34 budget/hiring caveat (passed 4-3); YES on Rec. 34 as amended (4-3). Briefly attempted to "call the question" to adopt the auditor's recommendations as drafted.
+- 2026-10-06 MOVED Res. 7383 budget calendar (7-0).
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:03:38 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7418s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (staff summary 02:50:19: "Director Splitt... use[d] the term scalpel-level approach"; KATU/OPB/WW quote the same lines)
+  topic: magnitude shift from 5-10 to ~20 closures
+  "I've been feeling like I could follow along with right sizing. And frankly, that started to change this week [...] when I heard that instead of talking about 5 to 10 schools, we're talking about closing a full quarter of the schools in the district and that there seems to be language like we have to do this to stabilize the district. [...] you're either kind of with us or not. [...] it just struck me as pretty jarring."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:04:18 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7458s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: big-school threshold protects affluent schools
+  "I don't really remember hearing this focus on having bigger schools [...] as the panacea until recently. [...] some of the bigger schools in the district are some of the more affluent schools. [...] So like the [Duniways] and [Alamedas] get protected just because they're big. [...] it just doesn't seem very fair."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:06:21 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7581s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: weighting Title I voices; teachers' union and family concerns
+  "When I hear from an affluent school, I don't take it as more serious. Like maybe we get 30 emails related to one school, but we get one related to a title one school. And I try to [...] create sort of equity by weighing that one as being very very important. [...] we're hearing from our our teachers union. [...] I'm getting the sense that we'll probably hear that teacher voices and family voices are concerned about the magnitude of change. And I think that those voices really matter."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:07:44 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7664s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: "scalpel not hammer"
+  "we can't not close some schools. I think we probably do need to close some schools, but like one quarter of the schools seems just really shook me [...] sometimes you need a hammer and sometimes you need a scalpel. And I would like much prefer a scalpel approach to this. [...] I worry that a hammer approach where we're closing a quarter of our schools in the name of big schools just strikes me as possibly doing more damage than we're meaning to. So, count me in as being more skeptical now than I was a week ago"
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:12:11 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7931s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same speaker responding to superintendent)
+  topic: supports some consolidation of very low-enrolled schools
+  "I want to be clear that I think we do need to do some level of right sizing. [...] it's just a matter of magnitude. So, I'm comfortable with continuing the conversation. I don't think the answer is we just let these schools that have these really low numbers continue to struggle along. I think those are the schools that, you know, might we look at consolidating [...] I still remain deeply concerned about the effects that will have on our kids with the [...] magnitude of change."
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:35:54 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=2154s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (self-introduces: "I'm Christy Splitt... zone one")
+  topic: why she supports rightsizing in general
+  "I understand the traveling staff. That's that is a huge concern of mine. So I that's probably the underlying like why I'm supportive of right sizing in general is like I realized that's inconvenient and it leads to educators leaving the system to go to places where they can just be in one place all day."
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:42:15 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=2535s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: skepticism of enrollment forecasts
+  "for my day job [I] spend a lot of time talking about data centers and energy demand projections [...] all models are wrong some are useful [...] I've always had like some level of skepticism about the like post-COVID experience in Portland and like is that going to be the future of our city or not?"
+
+[2026-09-08 Teaching, Learning & Enrollment Committee - well-resourced schools]
+  time 00:49:29 | https://www.youtube.com/watch?v=S-pk57P6f_o&t=2969s
+  source: transcripts/raw_vtt/20260909__S-pk57P6f_o__2026-09-08 Board of Education’s Teaching, Learning, and Enrollment Committee.en-orig.vtt
+  attribution: CONFIRMED (same speaker; TLE chair speaks next "benefit of going fourth")
+  topic: 360-student threshold should be derived from well-resourced definition, not QEM
+  "instead of using like the QEM number to latch on to [...] if you could find out what the definition of a well-resourced school is and then figure out from there [...] what are the numbers that are required to have [...] a full-time art teacher, a full-time music teacher, a library open all the time [...] the community maybe would like to have it be [...] based on something concrete like that versus just the QEM, which a lot of people have spent a lot of time talking about how flawed it is"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:13:35 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15215s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (staff: "Director Splitt, ... the KPIs come through as metrics")
+  topic: building condition KPI; bond stewardship
+  "we know that we have information about how much work our aging buildings need and I don't see a KPI for it and I would really love to add one [...] somebody who feels there's like a strong sense of fiscal stewardship [...] I'd rather us be starting with the best stock of schools, especially if we're taking a moment, if we're really talking about closing 25% of our schools than let's have the best buildings left."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:18:50 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15530s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn; references former student rep Ian Ritorto)
+  topic: state funding model as root cause
+  "declining enrollment is on top of the chronic underfunding of our schools since the early 1990s. And that if we had a system that recognized that funding by student has inherent flaws, we would not be where we are now. [...] we're paying the price for it in the sort of trauma that we're all going to go through as the people making these choices and the trauma of the kids and families [...] it was preventable. We could have had a soft landing [...] I also need to say measures five and 50 right out loud as well."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:20:48 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15648s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (continuation of her turn after the chair's "thank you... and the kicker")
+  topic: magnitude still uncomfortable
+  "I thought today was really helpful and I feel like it [...] helps me understand more why we're doing what we're doing. And even though I'm not sure how I feel about the what's the M word? Magnitude. I don't know that I [...] feel comfortable with the magnitude for a variety of reasons, but I'm like getting it more why other people might be willing to put up with that [...] tradeoff for [...] the long run."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:56:14 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17774s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (Chase-Miller next: "I agree with Director Sullivan and Director Splitt"; reference to "teacher Tiffany")
+  topic: Engelsman budget-savings resolution; open to COLA/hiring freeze later
+  "there's elements of this that I could live with. [...] elements of it that I wouldn't support. [...] I don't think that the Portland mayor city council have money to give [...] I've already said out loud that I'm maybe interested in a cola freeze or [...] maybe a hiring freeze but I would really want to think about it [...] have conversations with staff [...] all in all [...] I don't support all of them and couldn't vote yes tonight on this."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:09:12 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=552s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Move on to Director Splitt")
+  topic: bond audit - do not weaken recommendations
+  "I don't feel particularly comfortable weakening the recommendation here. This is something we already do. Our internal auditor has already done for us. I was on the audits committee and we spent a lot of time talking about past bond audits in that space."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:34:20 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2060s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Let's move forward to Director Splitt"; Engelsman: "I have to agree with everything Director Splitt just said")
+  topic: bond audit - internal check on Procedeo; "organized effort" to disagree
+  "we have a new system. And instead of us having an internal office, we have an outside contractor. And while I trust that their best interests are in line with ours, I think we owe it to ourselves to have that work checked by somebody internally [...] when we have an auditor look at our programs and give us suggestions, I tend to think we should take them. [...] it seems like there's organized [...] an organized effort here to disagree with a lot of these things that I wasn't prepared for at all. I thought we would see the audit and all think that we should take it seriously and do the thing."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:30:58 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9058s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (self-reference "I work at a state agency"; La Forte follows)
+  topic: bond audit - internal auditor, not a contractor
+  "I really want it to be somebody internal and not a contractor. [...] part of what I've been hearing from voters [...] in our school district [...] is that they're concerned about the amount of exporting we're doing [...] I want somebody who's on like our side as a board in a district reviewing the work because we decided to externalize a bunch of our work. That's why we need somebody internal to keep tabs on it."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 01:12:45 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4365s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (next speaker: "Director Splitt did a great job of thanking you")
+  topic: bond oversight; signals departure from board
+  "I've really appreciated being [...] the liaison to the bond accountability committee. My time will come to a close and I'll be passing the baton [...] as I slowly navigate my way off the school board. [...] I want you all to know how seriously all of us up here take that responsibility even if we do disagree from time to time about what that accountability ought to look like [...] the final audit [...] will help us [...] move forward with work on our [...] audit committee and as a board on implementing the recommendations there."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:31:04 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12664s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (self-reference "I was appointed"; Southwest; later "Director Splitt is always hard to follow")
+  topic: still too much change at once; seeks middle ground
+  "I [...] voiced already concerns about too much change at once and having deep concerns about that. And unfortunately, I still don't feel like those concerns are gone. So, I'm not coming into this feeling like [...] it's the right scale for the moment. It affects 24 to 27% of our students. And that's a really big number to me. [...] somebody like me who likes to be a common ground person and find compromise [...] I see things that you have fixed that need fixing in scenarios A and B. And so I want us to figure out a way to get somewhere forward [...] and get to that common ground, middle ground place."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:36:46 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13006s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: focus-option schools
+  "I have concerns with them [focus options]. [...] I had some ideas about like capping the number of kids from certain schools, having no kindergarten at focus options, so families would try their neighborhood schools first."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:37:36 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13056s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (superintendent: "I think that's what Director Splitt is asking")
+  topic: asks board to commit not to add schools beyond Scenarios A/B
+  "I would like to give those schools comfort that we are not going to bring them back on the table at the 11th hour. [...] there's 14 schools that are listed for closure. I personally would like us to agree that we won't bring in a different school that's not one of those 14 and at the last minute decide to put it up for closure."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:40:27 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13227s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (follows "I tried"; same speaker repeats "I tried" at 03:43:03)
+  topic: vote pledge
+  "I will not vote for any package that includes any schools that are not on [the list]."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:47:26 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13646s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn; "I'm going to put my Southwest hat on")
+  topic: Southwest closures; housing growth not counted
+  "I was really surprised by the Southwest schools that were selected. [...] the biggest housing development in the city of Portland is happening [...] and it's not counted in the numbers for Hayhurst. And then we're going to put 70% of Maplewood in there."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:49:17 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13757s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: state funding; levy limit; Measures 5 and 50
+  "The problem we have is because our state underfunds our schools. [...] I'm pledged to work with Portland Association of Teachers, Community, and Parents for Public Schools [...] measures five and 50 need to go away. [...] there is a state limit on how much you can raise via a levy. We are at that limit."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 04:28:59 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=16139s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "I was going to ask Director Splitt... legislative principles"; she chairs Intergovernmental Affairs)
+  topic: legislative agenda
+  "our consent agenda includes our legislative principles [...] we are coming into the legislative session on fire about school funding."

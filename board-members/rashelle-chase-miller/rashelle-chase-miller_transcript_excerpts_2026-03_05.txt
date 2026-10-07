@@ -1,0 +1,188 @@
+Rashelle Chase-Miller (Zone 4; TLE Committee chair 2025-26) - transcript excerpts, PPS Board meetings Mar-May 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (24 meetings dated 2026-03-05 to 2026-05-27).
+Method: excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is
+or corrected in [brackets]). Captions have NO speaker labels: attribution is based on the chair recognizing the speaker,
+other directors naming them, self-introductions, seating/speaking order in go-arounds, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues (e.g. seating order anchored by named speakers, later cross-references); POSSIBLE = weak cues.
+Timestamps are approximate (caption line start time).
+Votes: every vote in this period was a VOICE vote; captions give only tallies and movers/seconders, so individual
+director votes on Res. 7296 come from the draft minutes roll call (boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt),
+cross-checked against announced tallies. No minutes exist for 5/26/2026 (BoardBook minutes.txt is an empty shell);
+those votes are from captions (all 7-0, no nays/abstentions).
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation or contract (the 3/31 board self-evaluation session and the 5/5 retreat were mined only for rightsizing/budget/
+process remarks; an internal-auditor evaluation remark on 5/7 was skipped); names of private members of the public.
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296: SECONDED adoption; YES on final (5-2). ABSTAINED on restoring D.b advisory committee (6-0-1); NO on La Forte framework amendment (failed 3-4); NO on "will"->"may" (failed 2-5); YES on Splitt's final wording (per minutes). Detail of Res. 7296 "Direct the Superintendent to Begin a Rightsizing Process" (video AH3wdS1A3sM). Sequence as it happened on video:
+    (1) main motion DePass / second Chase-Miller (01:04:07);
+    (2) La Forte motion to amend (co-drafted with Engelsman; minutes: second Engelsman) adding a "subject to the following" framework:
+        board-approved decision criteria before scenarios, standardized equity impact analysis per scenario, structured engagement plan,
+        detailed timeline, financial transparency (costs public before board action), policy alignment; also struck D.b (advisory committee) (01:17:16);
+    (3) sub-amendment restoring D.b staff/union/principal advisory committee: Engelsman / La Forte - PASSED 6-0-1 (Chase-Miller abstain) (02:09:56);
+    (4) sub-amendment adding "consolidations, or boundary changes" to Recital E: Engelsman / Sullivan - PASSED 6-0-1 (Wang abstain) (02:10:57);
+    (5) La Forte amendment as amended - FAILED 3-4 (yes La Forte, Engelsman, Sullivan; no Wang, DePass, Chase-Miller, Splitt; student rep yes)
+        (02:12:59: "was not approved by a vote of three to four"; the draft minutes' summary line wrongly says "passed (4-yes, 3-no)" although
+        its own roll call is 3-4);
+    (6) Splitt / Engelsman: Recital E to read "The result of this process will include school and program closures, consolidations, or boundary
+        changes" - PASSED 6-0-1 (Wang abstain) (moved 02:14:01, voted 02:17:03);
+    (7) Engelsman / Sullivan: change "will" to "may" in Recital E - FAILED 2-5 (yes Engelsman, Sullivan; student rep no) (02:15:02; minutes say
+        "1-abstain" but list none);
+    (8) final: Res. 7296 as amended PASSED 5-2 (no La Forte, Engelsman; student rep Ritorto no, unofficial) (02:18:03).
+    Adopted text: all schools and programs included; staff/union/principal advisory committee; implementation to begin no later than 2027-28 and
+    finish within three years; launch rightsizing "to consider school and program consolidations, boundary adjustment, special program changes, and
+    grade reconfigurations".
+- 2026-05-26 Res. 7307 "Adopting Guiding Principles and Workplan in the Rightsizing Process" (video AAWpafO4vvQ): Chase-Miller / La Forte
+    (chair: "I think I heard Director Chase Miller moves and Director La Forte seconds", 01:45:39); no floor amendments (the staff redline already
+    incorporated 5/12 feedback: "safe and healthy", "prioritize walkability and safe routes", neighborhood schools "the foundation", named focal
+    groups in the equity lens, cohort-cohesion assessment, equity impact analysis incl. recently impacted and Title I communities); PASSED 7-0 (Chase-Miller MOVED; YES)
+    (02:22:03); student rep Ritorto and student rep-elect Sandell yes.
+- 2026-03-10: Res. 7257 (classified employee week; Splitt / probably Chase-Miller) 7-0; consent agenda Res. 7258-7279 (Sullivan / Engelsman) 7-0. No rightsizing vote (informal round-robin direction only).
+- 2026-03-31 (Splitt absent): consent 7280-7284 (Sullivan / DePass); Res. 7285 PAT furlough-days MOU (Chase-Miller / Sullivan); 7287 SEIU MOU (Chase-Miller / DePass); 7288 PFSP MOU (Engelsman / DePass); 7289 ATU MOU (Sullivan / Engelsman); 7286 revised 2025-26 calendar (DePass / Chase-Miller) - all 6-0.
+- 2026-04-14 other: Res. 7290 2026-27 meeting calendar (Sullivan / Splitt) 7-0 - Engelsman proposed moving the early-December (expected rightsizing decision) meeting out of Thanksgiving week; Res. 7291 public contracting rules (Chase-Miller / DePass) 7-0; consent (Engelsman / La Forte) 7-0.
+- 2026-04-28: bond contractor-pool contracts pulled from consent and voted individually as Res. 7298A-J: A 5-1-1, B/C/D/F/G/J 6-1, E passed (count not announced), H/I 7-0; captions do not name the lone 'no', but La Forte announced "I'll be voting no" (00:13:12). Foundation-policy pause (Sullivan request): discussion only, no vote.
+- 2026-05-12: Res. 7299 (Splitt / Engelsman), 7300 (Sullivan / La Forte), 7301 MLC mascot (DePass+Sullivan / Chase-Miller+Splitt), 7302 rename Jason Lee -> Sunrise (Splitt / La Forte), consent 7303-7305 (DePass / Chase-Miller) - all 7-0. Guiding principles: discussion and informal straw poll only.
+- 2026-05-26 other: Res. 7306 2026-27 PAT agreement (Splitt / DePass) 7-0; Res. 7308 Budget Committee approval of 2026-27 budget (Sullivan / DePass) 7-0; public contracting rules (Res. 7291) referred back to Policy Committee without amendment (Engelsman / DePass) 7-0; consent 7309-7310 (Sullivan / La Forte) 7-0.
+
+EXCERPTS
+
+[2026-03-08 Board Retreat - close of session: unified message on closures/blends]
+  time 04:47:39 | https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=17259s
+  source: transcripts/text/2026-03-08_Board_of_Education_Retreat__iY4k1Q8Y_yI.txt
+  attribution: CONFIRMED (facilitator: "I think Relle, I I don't want her to feel unresolved... invite her back in to conclude"; she answers directly)
+  topic: closures framed as fiduciary/budget necessity, not personal preference
+  "I mean I think I was close just in that um we have to move as a board and so does whatever conversations we're having in the background um our our public face should be one that is like united with each other and that doesn't have to me like and I I think that looks like what you said like it's not about what our personal opinion is about what school we're closing or blends But like this is where we're at from a budget perspective. This is our fiduciary duty."
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:04:57 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11097s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (comes right after Wang in seat order, opening with "what director Wong just said"; same slot as the seismic-round speaker identified as Chase-Miller)
+  topic: all at once; early, intentional engagement with underserved families
+  "that we should do them all at once. Um, let's pull the band-aid off. Let's go. Ready to do this. I think public engagement should happen early and often. [...] I also really want to make sure that we are intentional about meet meeting the um communities that don't show up for schoolboard meetings [...] our families who are immigrants, our families who are historically underserved, um families of uh kids who receive special education services"
+
+[2026-03-10 Board Regular Meeting - Growing Great Schools (rightsizing) round-robin direction]
+  time 03:05:58 | https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11158s
+  source: transcripts/text/2026-03-10_Board_of_Education_Regular_Meeting__qiCQKmMdLr4.txt
+  attribution: PROBABLE (same continuous turn)
+  topic: K-8s and focus options on the table; Jefferson-style KPIs
+  "I really liked the KPIs that we used in Jefferson and I would like to see something similar applied to this process. [...] I would like [clears throat] us to look at the K8s. Um, and this is probably going to be unpopular, but also the focus option schools. Um, I'm not saying to do anything one way or the other, but I think everything should really be on the table [...] I don't think that our kids should have to go to a special school or a school out of their neighborhood to have um, amazing uh, creative arts experiences."
+
+[2026-03-12 TLE Committee - chair's opening statement before Growing Great Schools item]
+  time 00:23:11 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=1391s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: CONFIRMED (committee chair introducing the item; superintendent immediately responds "I appreciate Chair Chase Miller, you sharing that statement")
+  topic: closures framing; preliminary nature of board deliberation
+  "So, before we begin our discussion on growing great schools, I want to acknowledge the gravity of the decisions ahead. We recognize that school closures are never easy. They carry real lasting consequences for our students, families, families, and staff. [...] Please keep in mind that until a formal vote is cast, the thoughts shared today are preliminary reflections, not finalities. There is still a significant journey of public engagement and deep discussion ahead of us before any final decisions are reached."
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion, guiding principles round]
+  time 01:07:59 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4079s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: POSSIBLE (same ">> I'll pile on" turn as the K-8 block; Chase-Miller (North Portland) vs. La Forte is unresolved - see next block)
+  topic: focus options draining lower-income / North Portland neighborhood schools
+  "I'll pile on. Um, regarding the focus options, I would like to know, do our focus options have a disproportionate impact on schools in our lower income neighborhoods? For example, is do we have a larger exodus from our elementary schools in North Portland going to focus options in other areas of the city? What does that look like?"
+
+[2026-03-12 TLE Committee - Growing Great Schools discussion, guiding principles round]
+  time 01:09:00 | https://www.youtube.com/watch?v=SPc05NM0oYs&t=4140s
+  source: transcripts/text/2026-03-12_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__SPc05NM0oYs.txt
+  attribution: POSSIBLE (follows ">> I'll pile on"; the in-room TLE members were Chase-Miller (chair), Splitt and La Forte. The North Portland question fits Chase-Miller (Zone 4), but the pro-middle-school/band-and-choir content also matches La Forte's 3/10 ("pick a lane ... middle schools") and 3/31 remarks, and the chair speaks again after a ">>" marker - the attribution could be La Forte)
+  topic: K-8 vs middle school - wants to end the dual model
+  "I do believe that by operating K through eight and middle school models by doing both that over time we've really created a system um in which students are having different educational experiences depending on where they live and which school they attend and that's something I would like to see end which is why I'm very passionate about this. I feel like this may be the, you know, the one opportunity we have to get this right. [...] the middle school model in PPS offers more robust programming and more robust electives like band and like choir [...] I feel like doing this well, um, could be a really critical piece to help us retain, uh, families within PPS."
+
+[2026-03-31 Board Special Meeting and Work Session - Growing Great Schools pair-share report-out (Oregon PTA guidance)]
+  time 01:45:01 | https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6301s
+  source: transcripts/text/2026-03-31_Board_or_Education_Special_Meeting_and_Work_Session__QIfmGcbkkLE.txt
+  attribution: PROBABLE (reports for the Wang / Chase-Miller / Ritorto group that took the Oregon PTA resource. Refers to "Eddie" in the third person. Wang follows with "you took a little liberties")
+  topic: non-negotiable = equitable access; avoid harm to historically underserved; anti-paternalism
+  "Our non-negotiable is ensuring equitable access to high-quality educational experiences across the district. Um I I like the way that Eddie framed this. It was uh you know, equality is the baseline. [...] And something to avoid [...] is adverse impacts to students from communities that have been historically underserved. [...] So, the idea that we're avoiding paternalistic perspectives like the underserved kids will be better off by joining the privileged kids based on assumptions that we may or may not have about both communities."
+
+[2026-04-14 Board Regular Meeting - Res. 7296 discussion, round 1]
+  time 01:28:24 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5304s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: CONFIRMED (chair: "So, let's go ahead, Director Chase Miller.")
+  topic: pass original now; guardrails after engagement
+  "I mean, I don't have an issue with anything in the amendment, but um to Director Split's point earlier, I think that it makes sense to get through the community engagement, and then put together something that's reflective of what we've heard from the community. Um and I don't think that we're far enough along in the process for us to do that right now. I would rather see us pass the original resolution, get this process started, get through engagement sessions, and then take what we heard"
+
+[2026-04-14 Board Regular Meeting - Future agenda: timing of next resolution]
+  time 03:22:59 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=12179s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: PROBABLE (self-identifies "as someone from North Portland, um and and representing the families of North Portland" - Chase-Miller is Zone 4 / North Portland; position matches her earlier remarks)
+  topic: equity requires time to incorporate N/NE Portland input
+  "as someone from North Portland, um and and representing the families of North Portland in in this work, um I think we are very used to hearing the district talk about equity and hearing boards talk about equity and then not actually practicing equity. [...] and we will not arrive at an equitable outcome if we prioritize speed over doing the work well. Um I don't think a month is a long time in a 7-to-12-month process"
+
+[2026-04-14 Board Regular Meeting - Future agenda: framework vs. guiding principles]
+  time 03:38:09 | https://www.youtube.com/watch?v=AH3wdS1A3sM&t=13089s
+  source: transcripts/text/2026-04-14_Board_of_Education_Regular_Meeting__AH3wdS1A3sM.txt
+  attribution: PROBABLE (unnamed; repeats "we're trying to be intentional about hearing from people in North Portland" and her wait-for-all-sessions position)
+  topic: opposes building framework from first (unrepresentative) session
+  "when we listen to one community at a first stab at community engagement, and we base everything on that. That that is not producing an equitable outcome and that's very performative. Um we already know who is in the room and we already know we're trying to be intentional about hearing from people in North Portland. [...] I I am really strongly um opposed to building a a framework based on hearing from our first community engagement"
+
+[2026-04-20 Rightsizing Public Engagement Session (virtual) - director introductions]
+  time 00:07:08 | https://www.youtube.com/watch?v=jBUIkfQZu-k&t=428s
+  source: transcripts/text/2026-04-20_Rightsizing_-_Board_of_Education_Public_Engagement_Session__jBUIkfQZu-k.txt
+  attribution: CONFIRMED (self-identifies, captioned "I'm Rochelle Cizmar [Rashelle Chase-Miller]. I'm your representative from zone four")
+  topic: values/priorities; optimism about right-sized schools
+  "We are at the very beginning of this process and so I think this is a really exciting opportunity for all of you to help shape what comes next. So what I'm hoping to learn tonight is what is important to you in this. At at the end of this process, what values do you hope to have seen represented? [...] I get really excited and start dreaming about what can be possible again in our schools once they are right-sized and the opportunities and experiences that our kids will have."
+
+[2026-04-27 Rightsizing Public Engagement Session (Roosevelt HS) - director introductions]
+  time 00:18:15 | https://www.youtube.com/watch?v=2bSmBVuoajw&t=1095s
+  source: transcripts/text/2026-04-27_Rightsizing_-_Board_of_Education_Public_Engagement_Session__2bSmBVuoajw.txt
+  attribution: CONFIRMED (self-ID: "My name is Rochelle Chase Miller. I am the representative from zone four")
+  topic: North Portland; not further marginalizing North Portland kids through closures
+  "I'm going to I'm going to separate myself from my colleagues a little bit in that while of course we all represent the whole city and are elected by the whole city, I represent North Portland. [...] we're we're a little bit different in the north. We've been through some things, um, and I'm I'm not surprised to see such a great turnout here tonight because I know that you are all deeply vested in this process and what it means for our North Portland schools and community and kids. And, um, the commitment to ensuring that our kids don't, um, are not are not further marginalized by what happens through this process is important to me"
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:48:39 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17319s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (DePass is identified separately, so the next speaker's "similar to something Michelle said" about targeted outreach most likely mis-captions "Rashelle". La Forte had just credited Chase-Miller with defending neighborhood schools at Benson, and this speaker argues to "elevate our neighborhood schools". Fits the order Sullivan, then Chase-Miller)
+  topic: can't set guiding principles without families of color, SPED, immigrant families
+  "Um, so before I talk about uh what I heard in terms of guiding principles um for for me to fully be able to have that conversation, I still need to hear from families of color, from families of sped students, from uh our immigrant families. [...] I won't be able to land on a set of guiding principles until we have some more representation in the conversation."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:49:41 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17381s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: equity too broad as a principle unless operationalized
+  "Um I I don't want to prop I don't want to propose equity as a guiding principle because I think we need to be um more clear about what that means. Um I have the concern that we'll say equity is a guiding principle. Um but then we won't operationalize it, right? Um I think there are so many considerations um to what is equitable, what is equitable in different situations, what is equitable for different communities that I think that that is too broad of a guiding principle."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:50:42 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17442s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: staffing ("where the adults go") in consolidated schools; racial climate
+  "we have talked a lot about where kids are going to go. Are kids going to be able to stay in their school? Are they going to have to move to a different school? Um, but I would like a part of this process um to consider where the adults are going to go. How are we how are we going to build staffing that supports the outcomes that we want to see? Um, I'm thinking about some of uh our schools that are predominantly white uh where black kids specifically have a really bad time."
+
+[2026-04-28 Board Special Meeting and Work Session - Board reflections on rightsizing engagement sessions]
+  time 04:52:45 | https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17565s
+  source: transcripts/text/2026-04-28_Board_of_Education_Special_Meeting_and_Work_Session__j9PzUvPpSVA.txt
+  attribution: PROBABLE (same speaker as above)
+  topic: focus options inside neighborhood schools / one per cluster
+  "I also found my um own opinions about uh focus option schools being challenged. I'm really interested in the idea of focus option schools that exist in neighborhood schools. [...] perhaps um, focus option schools that exist for each cluster. Um, so that there are options within a community, but we're also not pulling kids out of their neighborhood or draining neighborhoods. [...] Part of that um is uh our ability to to elevate our neighborhood schools and really tell the story of um how much extraordinary happens in just the regular school."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles discussion (round 1)]
+  time 04:48:25 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17305s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (same turn)
+  topic: walkability is not universal; bus riding to neighborhood school also builds community
+  "Every neighborhood school is not going to be walkable for every kid. It just isn't. [...] as we're thinking about what it means to center neighborhood schools and um kind of some of the values around that such as walkability. um that we're not centering our own personal values, but we're being um expansive in how we consider that. [...] riding your school bus to your neighborhood school is um an equally good option [...] equity is not everybody getting the same thing. It's everybody getting uh what they need to be successful."
+
+[2026-05-12 Board Work Session - Rightsizing guiding principles, TAG debate (round 2)]
+  time 05:13:54 | https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18834s
+  source: transcripts/text/2026-05-12_Board_of_Education_Special_Meeting_and_Work_Session__OLAZDzvg3RM.txt
+  attribution: PROBABLE (rebuts La Forte; says "I think I said earlier I agree that we should take a fresh look at how we do tag", matching her round-1 "overhaul of how we do tag")
+  topic: against adding TAG to equity lens
+  "the reason for me not to attach it is because the equity framework is there to ensure that kids who are historically marginalized and underserved have the same access to resources and education that other students have. [...] But TAG kids as a whole, as a set of kids are not historically underserved and disadvantaged. [...] And the reason we have an equity filter is because kids from immigrant families and uh black and brown communities um don't have that same level of access to to fill in those gaps for their kids."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 02:12:54 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7974s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn as above)
+  topic: walkability and de facto segregation; Tubman / Jefferson Rising as integration examples
+  "we haven't had legal segregation in PPS since 1873, but we have had de facto segregation in PPS based on neighborhoods and where people live and, um, where people are rooted to school. So, um, if we become too focused on, uh, walkability, um, we're disadvantaging some communities over other communities [...] I also think that, uh, in recent years, PPS has, uh, done, uh, a good job of making decisions that are intentional about, um, about breaking those barriers. I think Tubman is a good example of that. I think Jefferson Rising is a good example of that."
+
+[2026-05-26 Board Special Meeting - Res. 7307 rightsizing guiding principles, board discussion]
+  time 02:13:55 | https://www.youtube.com/watch?v=AAWpafO4vvQ&t=8035s
+  source: transcripts/text/2026-05-26_Board_of_Education_Special_Meeting__AAWpafO4vvQ.txt
+  attribution: PROBABLE (same turn as above)
+  topic: who rides the bus; disproportionate burden; preserving community identity
+  "if we're prioritizing walkability and safe routes to school, let's think about what groups of students in PPS have historically been the ones to ride the bus and which students have been the ones to be able to walk to their school. And making sure that our decisions are also grounded in our historical context as well as our our current context [...] making sure that we're not placing a disproportionate burden on communities who have born that burden in PPS for generations."

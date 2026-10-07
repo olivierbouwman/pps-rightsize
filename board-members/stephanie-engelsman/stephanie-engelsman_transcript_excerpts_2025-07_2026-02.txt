@@ -1,0 +1,133 @@
+Stephanie Engelsman (Zone 6; joined July 2025; Policy Committee member 2025-26) - transcript excerpts, PPS Board and committee meetings Jul 2025 - Feb 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (2026-01-30 retreat: local whisper.cpp
+transcription, no YouTube captions). Method: keyword search (rightsiz*, closure, consolidat*, enrollment, boundar*, K-8, middle
+school, focus option, lottery, immersion, seismic, deficit, Jefferson, capture rate, etc.) then reading the surrounding turns.
+Excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is or corrected in
+[brackets]); every quoted fragment was machine-checked against the source file. Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are the caption line start (quote may begin up to ~60s later).
+Caveat: the 2025-08-14 and 2025-09-18 TLE caption files read like machine re-translations ("school limits" = boundaries,
+"coverage/acquisition rate" = capture rate); quotes from them are verbatim to the file but should be checked against video.
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation, discipline or contract terms (incl. the superintendent's); names of private members of the public; for this
+director also: her account of childhood moves (2/24/2026) and family/household remarks.
+Period summary and cross-director context: BOARD_STATEMENTS_BY_PERIOD.md2025-07_2026-02_summary.md (14 excerpts below).
+
+RECORDED VOTES / MOTIONS
+- MOVED Res. 7188 Cleveland HS plan (10/14/2025, 7-0).
+- NO on Res. 7216 Procedeo (12/2/2025); seconded the La Forte postponement and amendment (both failed 2-5). (Per PROFILES, also sole NO on the Sept 2025 Procedeo extension, Res. 7175, 6-1.)
+- YES on Res. 7228 ending Jefferson dual assignment (7-0); sole NO on Res. 7229 Jefferson boundaries (6-1), with a statement for the record citing Roosevelt and Grant impacts and forecasts "higher than actual attendance today"; withdrew her course-offering-date amendment.
+- YES on 1/27/2026 consent agenda incl. first seismic design contracts.
+- 2/24/2026 MLC: arrived late (absent for the consent vote); urged that the MLC decision be pulled back into the fall rightsizing process.
+- Context, related votes this period (all directors):
+  - 2025-07-22 Res. 7148 (PPS/Beaverton SD boundary transfer, ~12 homes in Zone 3): pulled from consent; motion to POSTPONE passed 7-0 (La Forte moved, Chase-Miller seconded). Source: captions S_rBf9XK-JM ~01:37 (no draft minutes in boardbook).
+  - 2025-08-05 Res. 7148: placed on table (DePass moved, Chase-Miller seconded); motion to POSTPONE pending a corrected fiscal-impact statement passed 7-0 (La Forte moved, Sullivan seconded). Source: captions oCxJzz7r-fk ~00:23-00:48. No later disposition found in boardbook through Feb 2026.
+  - 2025-09-09 seismic program approach (A/B/C): discussion only, NO vote (deferred to FIOC 9/16 and full board 9/30).
+  - 2025-10-14 Res. 7187 Jefferson HS modernization revised comprehensive plan 7-0 (DePass moved, Splitt seconded); Res. 7188 Cleveland HS plan 7-0 (Engelsman moved, La Forte seconded); Res. 7202 FIOC charter 7-0 (Sullivan moved, Splitt seconded) after Wang amendment ("approvals"->"recommendations"; Wang moved, DePass seconded) 7-0. Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_10_14_Regular_Board_Meeting_Draft_Minutes_3989403.txt
+  - 2025-11-04 Res. 7207 Ida B. Wells HS plan amendment (~$5.6M savings) 7-0 (Splitt moved, Sullivan seconded); Res. 7208 2026-27 budget calendar 7-0 (Chase-Miller moved, DePass seconded). Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_11_04_Regular_Board_Meeting_Minutes_-_Draft_for_Consideration_3996763.txt
+  - 2025-12-02 Res. 7216 Procedeo bond program-management contract (bond/seismic delivery) passed 5-2: Wang, DePass, Chase-Miller, Splitt, Sullivan YES; La Forte, Engelsman NO (Ritorto no, unofficial). DePass moved, Chase-Miller seconded. La Forte/Engelsman motion to postpone failed 2-5; their amendment (strike incentives, 1-yr term) failed 2-5. Splitt called the question (overridden by chair; appeal not seconded). Source: boardbook/2025-12-16_Work_Session_with_Vote_on_Consent_Agenda_722619/2025_12_02__Regular_Meeting_Minutes_-_Draft_for_consideration_3996787.txt
+  - 2026-01-13 Res. 7228 end Jefferson dual assignment / designate Jefferson a comprehensive HS from 2027-28: 7-0 (Chase-Miller and DePass moved, La Forte seconded; Ritorto yes, unofficial).
+  - 2026-01-13 Res. 7229 Jefferson attendance boundaries (Scenario C: Beach, Boise-Eliot/Humboldt, Chief Joseph, King, Faubion, Sabin, Vernon, Woodlawn -> Jefferson; Irvington -> Grant; Peninsula -> Roosevelt): passed 6-1 (Splitt moved, Sullivan seconded; Engelsman NO; Ritorto NO, unofficial). Engelsman motion to add a course-offering date was withdrawn without a second. Source: boardbook/2026-02-10_Regular_Meeting_730093/2026_01_13_Regular_Meeting_Minutes_-_Draft_for_Consideration_3996890.txt (incl. Engelsman statement for the record).
+  - 2026-01-27 consent agenda Res. 7241-7242 (7241 includes A&E design for Vernon and Winterhaven seismic rehabilitation, 2020 bond): 7-0 (Sullivan moved, Vice-Chair DePass seconded) after Splitt, Chase-Miller, DePass and La Forte voiced concern that seismic selection was preceding rightsizing. Source: boardbook/2026-02-24_Work_Session_with_Vote_on_Consent_Agenda_731954/2026_01_27_Special_and_WS_minutes-draft_for_consideration_3996963.txt; Resolution_7241 in boardbook/2026-01-27_Work_Session_and_Special_Meeting_728105/
+  - 2026-02-24 Metropolitan Learning Center grades 9-12 discontinued: NO board vote (staff decision presented at a work session; superintendent said it would be folded into the June budget vote; staff/legal said it is a program change, not a school closure under policy 6.10.030). Source: boardbook/2026-03-10_Regular_Meeting_734436/2026_02_24_Work_Session_Minutes_-_Draft_3997016.txt
+
+EXCERPTS
+
+[2025-08-05 Regular Meeting - Res. 7148 PPS/Beaverton SD boundary change]
+  time 00:44:47 | https://www.youtube.com/watch?v=oCxJzz7r-fk&t=2687s
+  source: transcripts/text/2025-08-05_Board_of_Education_Regular_Meeting__oCxJzz7r-fk.txt
+  attribution: PROBABLE (chair recognized "Director Englesman" at 00:42:47; same speaker continues; SE Portland self-reference) - personal neighborhood details in the preceding sentences omitted
+  topic: boundaries - don't give up enrollment/revenue in a budget crisis
+  "as I drive around our city of Portland, not all of Portland is in Portland public schools which before sitting up here has always confused me and why we would have given up revenue in city of Portland to another school district and with revenue I mean students going to our beautiful schools. So, I am concerned about moving forward with the decision, even if it is just $45,000 in a time of budget crisis and budget crunch and losing people and losing staff"
+
+[2025-09-09 Regular Meeting - Res. 7165 CBSE (One North) purchase & sale agreement]
+  time 01:43:06 | https://www.youtube.com/watch?v=OZXNdCFV5Uk&t=6186s
+  source: transcripts/text/2025-09-09_Board_of_Education_Regular_Meeting__OZXNdCFV5Uk.txt
+  attribution: CONFIRMED (chair at 01:45:07: "Thank you so much for that, Director Englesman")
+  topic: closures and deferred maintenance as context for new facility commitments
+  "We don't CP PPS doesn't have a penny to spend on this. We're going to be having conversations about closing schools. We've already dealt with deferred maintenance and lack of proper HVAC in schools leading to schools closing due to heat over the last couple of weeks [...] So PPS doesn't have any staff to give to the center. Not without taking more staff from schools that are already underwater. So, I say all of this because I need the [...] CBSE to work and I need it to be self- sustaining in order to get to a yes vote in December."
+
+[2025-09-30 Work Session - Fund for PPS / local school foundations report]
+  time 00:38:19 | https://www.youtube.com/watch?v=dVcyfTroSSI&t=2299s
+  source: transcripts/text/2025-09-30_Board_of_Education_Work_Session__dVcyfTroSSI.txt
+  attribution: CONFIRMED (chair recognizes "Dr. [Director] Englesman" at 00:36:16; same turn)
+  topic: per-student spending disparities; budget crisis
+  "PPS as a whole has chosen to spend significantly more money on some of those schools [...] It's 16,722 was spent last year per student at Jefferson versus Grant. 8,645. [...] I'm not saying it's wrong to do it this way. It means that we are putting our money where the kids are that need it, but we are also cutting off the opportunity to engage the foundations at the schools where we're not spending as much money [...] we have created a system that we have cut off funds in a budget crisis and we've left schools really suffering"
+
+[2025-10-20 Policy Committee - raising contract-approval threshold]
+  time 01:16:52 | https://www.youtube.com/watch?v=XKKOGk4XJBo&t=4612s
+  source: transcripts/text/2025-10-20_Board_of_Education_s_Policy_Committee__XKKOGk4XJBo.txt
+  attribution: CONFIRMED (Wang next: "I would also like to second what uh director Englesman said")
+  topic: enrollment decline tied to family distrust
+  "in a time where we are collectively as a board trying to establish transparency, trying to stop the hemorrhaging of students and families leaving our school district, trying to bring people back in. [...] And in the future, if we are no longer seeing a steady decline because we clearly have unhappy families, as well as lowering birth rates and all the other issues people bring up, maybe we consider doing it then."
+
+[2025-12-02 Regular Meeting - Bond Accountability Committee quarterly report]
+  time 01:07:06 | https://www.youtube.com/watch?v=F_TBjQYZTA8&t=4026s
+  source: transcripts/text/2025-12-02_Board_of_Education_Regular_Meeting__F_TBjQYZTA8.txt
+  attribution: CONFIRMED (reply at 01:10:07: "Director Englesman, I just want to make a quick correction on your seismic")
+  topic: seismic program may fall short; obligation to students in unsafe buildings
+  "I am concerned about the comments in there about the seismic state and that there won't be enough money potentially to do eight out of the 10 schools. Um, I believe very firmly, as I know a lot of other members up here do, that we have, we owe the kids who are in schools right now that are in danger if there is an earthquake to get that work done. [...] I know that there are more than 10 schools in PPS that need seismic attention, unfortunately."
+
+[2025-12-16 Work Session - Jefferson HS academic programming / Scenario C]
+  time 02:35:00 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=9300s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: CONFIRMED (chair: "Um before I call you Director Englesman"; self-reference to calling in to TLE)
+  topic: "if we're going to do this... invest more"; lower course thresholds at Jefferson while building
+  "some of the community members had raised um good thoughts like if we're going to do this, we are doing this. Let's invest more into Jefferson to make sure it really works. And so I love hearing that at least two FTEEs are going to be put there [...] if there were only 10 kids interested in AP Biology at Grant we wouldn't offer it at Grant because 10 is not enough. But the idea that at Jefferson in building this programming that if there are only 10 kids who are interested in AP biology, we offer it because next year there will be 15 and then next year will be 18."
+
+[2026-01-13 Regular Meeting - Res. 7229; her course-catalog amendment]
+  time 01:40:20 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=6020s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: CONFIRMED (chair: "Yeah, Director Englesman"; minutes record her amendment)
+  topic: NE families preferred another scenario; wants Jefferson course portfolio timeline before forecasting
+  "I had the um privilege, honor of being invited to sit down with a lot of families, um, from the the Northeast region who are going to be going [...] with this resolution to Jefferson. [...] I met with them after the superintendent's recommendation came out and they were all mostly in support of a different recommendation and one of the parents said [...] it sure be great if we knew what was going to be offered to our students in advance of the forecasting. [...] I would love to see a timeline on when the district is proposing this portfolio."
+
+[2026-01-13 Regular Meeting - Res. 7229; amendment withdrawn]
+  time 01:58:40 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=7120s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: CONFIRMED (same turn; "I will withdraw the amendment")
+  topic: outreach beyond email; withdraws amendment
+  "I would hope that we are we're doing more than just emailing that we're flying that we're and we're going to all the um elementary, middle schools where people are um needing to know this information. [...] so with those nods, I will withdraw the amendment."
+
+[2026-01-27 Work Session and Special Meeting - legislative priorities (Res. 7240)]
+  time 01:23:05 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=4985s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair: "Dr. [Director] Englesman" immediately before)
+  topic: underfunding as self-fulfilling enrollment loss
+  "it's somewhat of a self-fulfilling prophecy to either continue to underfund or if the legislature were to use this Oregon Education Stability Fund to properly fund schools. Imagine if we had schools that sort of looked like the best schools [...] The self-fulfilling prophecy of it is that people would come to our schools and so our enrollment would go up and so funding would go up"
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: seismic contracts]
+  time 02:01:42 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=7302s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair: "Englesman")
+  topic: supports starting seismic work
+  "I'm really stoked to hear that we have this uh to vote for and like I'm kind of thinking like yeah, we're starting to work down that list and we can take some of that 2020 money. [...] really excited to be able to say yes to two schools and then spend the next I don't know six months gathering all the information so we can say yes to the next 2, 5, 10, 12 schools"
+
+[2026-01-30 Board Retreat (whisper transcript) - board roles]
+  time 01:45:59 | https://www.youtube.com/watch?v=K5pmA0yK2eQ&t=6359s
+  source: transcripts/text/2026-01-30_Board_of_Education_Retreat__K5pmA0yK2eQ.txt
+  attribution: CONFIRMED (facilitator: "stephanie are you are you still with us" before; "thank you stephanie" after)
+  topic: board is separate from the district; "that won't work because the district said"
+  "we are completely separate from the district [...] and i often see our board as um an extension rather than separate and that worries me [...] if ideas are brought to our board in a very short time i have seen sort of a oh that won't work because the district said it won't work instead of saying well that's a great idea let's see if we can make it work"
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:18:30 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=4710s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair: "Director Englesman?"; she arrived late - minutes record her absent for the consent vote)
+  topic: process over outcome; rightsizing must be a community effort
+  "process is critical because without process, we don't have transparency and we can't build trust in our communities. [...] the result may end up being the same, but just like we did with Jefferson, just like we're going to do with the redistricting and the resizing and the right sizing, whatever we're calling it, right sizing, [clears throat] we are going to be making this a community effort. [...] I agree with Director Leford. I see this is closing a school."
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:40:55 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=6055s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (staff reply at 01:43: "I appreciate what you're um saying, Director Englesman")
+  topic: fold MLC into the fall rightsizing list / December vote; "pull all the way back"
+  "if we're doing this wrong I would like to be the one that says I believe that we did this wrong and that we should pull all the way back and if we are having a right sizing conversation and I learned today that we're going to start seeing the initial list sometime in the fall and that we'll be voting on that in December. I believe that this conversation should be part of that conversation because [...] we may end up in this whole right sizing conversation we may end up realizing that we need MLC when we're closing something else. [...] if we're closing something it should be part of the grander bigger conversation of closing anything which we are going to have to do acknowledge that"
+
+[2026-02-24 Work Session - MLC high school programmatic restructuring]
+  time 01:53:12 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=6792s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: CONFIRMED (chair: "and then [E]nglesman")
+  topic: SEGC precedent took two years of engagement
+  "If we had followed something similar to Southeast Guiding Coalition, which as I understood it took [...] a couple of years of community exact two years of community engagement. So I think to say that we have precedent for doing it this way and then relying on something that took two years to do is comparing two things that are not the same."

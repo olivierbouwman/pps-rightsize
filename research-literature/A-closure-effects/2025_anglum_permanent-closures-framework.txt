@@ -1,0 +1,919 @@
+EdWorkingPaper No. 25-1229
+
+
+           Assessing Permanent School Closures:
+           A Conceptual Framework
+
+           J. Cameron Anglum                 Dorothy Rohde-Collins             Jason Jabbari                     Yung Chun
+           Lehigh University                 Missouri Public Education         Washington University in          Washington University in
+                                             Foundation                        St. Louis                         St. Louis
+
+           Amid widespread declining enrollment, the expiration of COVID-19 ESSER funding, and looming uncertainty in
+           federal P-12 education involvement, many school districts may soon consider permanent school closures. While
+           extant permanent school closure literature provides a starting point for future analyses, it often fails to advise the
+           breadth of contexts in which future closures may occur, limiting what education leaders might learn from a
+           disruptive intervention. In this article, we present a conceptual framework to guide permanent school closure
+           research, inclusive of schooling and local contexts, idiosyncratic closure processes and dynamics, relevant analytic
+           mechanics, and myriad important outcome measures and objectives.
+
+
+
+
+           VERSION: June 2025
+
+           Suggested citation: Anglum, J. Cameron, Dorothy Rohde-Collins, Jason Jabbari, and Yung Chun. (2025). Assessing Permanent
+           School Closures: A Conceptual Framework. (EdWorkingPaper: 25-1229). Retrieved from Annenberg Institute at Brown University:
+           https://doi.org/10.26300/46b0-g527
+          Assessing Permanent School Closures:
+                A Conceptual Framework
+
+                                        June 19, 2025
+
+
+
+                                   J. Cameron Anglum*
+                                      Lehigh University
+
+                                  Dorothy Rohde-Collins
+                            Missouri Public Education Foundation
+
+                                      Jason Jabbari
+                             Washington University in St. Louis
+
+                                       Yung Chun
+                             Washington University in St. Louis
+
+
+
+
+*Anglum (corresponding author) may be contacted at jca424@lehigh.edu. The authors thank the
+MIT Blueprint Labs Charter School Research Collaborative for their generous financial support
+of this research.
+              Assessing Permanent School Closures: A Conceptual Framework
+
+                                            June 19, 2025
+
+
+
+
+                                              Abstract
+
+Amid widespread declining enrollment, the expiration of COVID-19 ESSER funding, and
+
+looming uncertainty in federal P-12 education involvement, many school districts may soon
+
+consider permanent school closures. While extant permanent school closure literature provides a
+
+starting point for future analyses, it often fails to advise the breadth of contexts in which future
+
+closures may occur, limiting what education leaders might learn from a disruptive intervention.
+
+In this article, we present a conceptual framework to guide permanent school closure research,
+
+inclusive of schooling and local contexts, idiosyncratic closure processes and dynamics, relevant
+
+analytic mechanics, and myriad important outcome measures and objectives.
+
+
+
+
+                                                  1
+                                         Introduction and Motivation
+
+Simply put, public schools are experiencing staggering enrollment declines. In the 2023-24
+
+school year, 64.8% of public schools enrolled fewer students than they did four years prior in
+
+2019-20.1 The median school’s enrollment decreased 4.9%, while one quarter of all public
+
+schools had a drop of at least 13.6%. These figures, while striking, are more modest than those of
+
+the past decade, over which time the median school lost 7.2% of its enrollment and one quarter
+
+of schools declined at least 19.6%. Moreover, these calculations only include schools which
+
+operated continuously over that timeframe, excluding those that closed permanently, suggesting
+
+that the full extent of enrollment decline may be even higher. Today, decision makers at nearly
+
+two in three schools must weigh how the effects of enrollment decline shape a multitude of
+
+policy considerations such as staffing and budgeting, considerations which, for many, include the
+
+possibility of permanent school closure.
+
+           Amid declining enrollment (Schueler & Miller, 2024; Goulas, 2024), the expiration of
+
+pandemic stimulus funding (LeFebvre & Master, 2024), and concerns over demographic cliffs of
+
+the child-aged population (Copley & Douthett, 2020), many public school district leaders are
+
+considering permanent school closures as a policy intervention. Yet, what is known about the
+
+consequences of permanent school closures is informed largely through research evaluating
+
+large-scale school closure events in a narrow and idiosyncratic set of public school contexts and
+
+outcome measures. Furthermore, while declining enrollment is one potential cause of school
+
+closures, there may be other causes as well. This may be especially true in charter school
+
+contexts, which often operate under market principles that suggest the replacement of lower-
+
+performing schools with higher-performing schools, though the metrics used to judge charter
+
+
+
+1
+    Authors’ calculations from data obtained from the National Center for Education Statistics Common Core of Data.
+
+
+                                                          2
+schools often are contested (e.g., Hamilton & Stecher, 2010). Existing evidence, therefore, may
+
+be less applicable to some school settings than others, limiting the ability of policymakers and
+
+practitioners to engage in research-based and data-driven decision making.
+
+       In this article we present a conceptual framework informed by our work in St. Louis,
+
+Missouri. It is intended to guide researchers’ understanding of permanent school closures in the
+
+reality of today’s post-pandemic circumstances, and is adaptable to the varied local conditions
+
+and priorities closure conversations must consider and to which future research must respond.
+
+
+
+                                    Conceptual Framework
+
+We summarize our conceptual framework in Figure 1. Our objective is to capture factors
+
+relevant to post-pandemic school closures research, ranging from important outcome measures,
+
+to variation in local precipitating circumstances, and perhaps most important, factors crucial to
+
+sound research processes, especially for quantitative design.
+
+
+
+                             < INSERT FIGURE 1 ABOUT HERE >
+
+
+Relevant Outcomes and Objectives
+
+We start with the end in mind—relevant outcomes and objectives of permanent school closure—
+
+while acknowledging that this list will be incomplete to some and others will dispute the very
+
+notion that permanent closures should ever be employed as a policy solution.
+
+       In St. Louis, our project team’s goal is to uncover the effects of forced mobility due to
+
+school closures by assessing student outcomes such as standardized test scores, attendance,
+
+disciplinary actions, and graduation rates as well as teacher outcomes including attrition and
+
+transfers. We are also tracking the pathways students and teachers take during and after school
+
+
+
+                                                 3
+closure processes to determine where they end up and how these changes may moderate student
+
+and teacher outcomes. Due to data limitations, several critical aspects will remain unexplored:
+
+social-emotional student outcomes (e.g., belonging), long-term academic outcomes (e.g., post-
+
+secondary attainment), measures of teacher job satisfaction and burnout, school organizational
+
+outcomes (e.g., expenditure reductions), and out-of-school “collateral” effects, including
+
+outcomes such as neighborhood changes in population, demographics, and community
+
+connectedness.
+
+       Permanent school closures are not a well-studied phenomenon. Perhaps surprisingly, little
+
+is known about the long-term impact of permanent school closures on student academic
+
+outcomes, the educator workforce, or district finances. Much of what we do know about these
+
+topics comes from the Consortium on Chicago School Research which has published multiple
+
+reports concerning students, educators, and community over the nearly fifteen years since
+
+Chicago Public Schools’ 2012 school closures. The Consortium identified negative effects on
+
+learning outcomes (as measured by standardized test scores and GPA) for students who attended
+
+closed schools (de la Torre & Gwynne, 2009; Gordon et al., 2018) and documented “feelings of
+
+grief” on behalf of students and teachers who noted difficulties “integrating and socializing into
+
+the welcoming schools” (Gordon et al., 2018, p. 4). Attendance rates, on the other hand, did not
+
+change substantially following the closures (Gordon et al., 2018). Additional research from
+
+Chicago demonstrated limited and inequitable access to schools (Lee & Lubienski, 2017),
+
+increased teacher exits from closed schools (Lee & Sartain, 2020), and increased crime (in the
+
+case of mergers) (Brazil, 2020).
+
+       Likewise, Philadelphia serves as the backdrop for much of what we know about the
+
+connection between school closures and the surrounding community. Bierbaum (2021), Good
+
+
+
+
+                                                 4
+(2017), and McWilliams and Kitzmiller (2019), for example, articulate how history, injustice,
+
+and power all inform school closure processes resulting in disparate impacts against
+
+marginalized communities in the short- and long-term. In schools, student outcomes can vary
+
+widely, predicated on decisions dictating post-closure student movement. Steinberg and
+
+MacDonald (2019) document variation in outcomes depending on subsequent school assignment.
+
+For instance, displaced students perform better when assigned to higher-performing schools,
+
+while their attendance and school disciplinary engagement suffer when assigned to schools
+
+farther away. And that’s just one side of the student closure “ledger”; academic achievement
+
+among Philadelphia students in schools receiving displaced students declined. Even subsequent
+
+school assignment policies can vary, including whether mass closures dictate the creation of an
+
+(often contentious) receiving school roster, as in Philadelphia, or one-off closures lead to a
+
+general dispersal of students and educators to many surrounding schools.
+
+       However, that so much of our collective knowledge about school closures comes from a
+
+few cities is indicative of the need to broaden our research horizons. Ewing and Green (2021)
+
+identify significant differences between the school closure literature and where closures occur.
+
+Most research utilizes qualitative methodologies and focuses on large urban areas, especially
+
+those with mass closure events even though most school closures happen slowly and in suburban
+
+areas (Gallagher & Gold, 2017). In addition, school closure research often neglects the impacts
+
+on the most affected stakeholders such as students, teachers, administrators, students receiving
+
+special education services, and English language learners. By identifying these gaps in research,
+
+Ewing and Green (2021) reveal new pathways for researchers to engage with the topic of school
+
+closures.
+
+
+
+
+                                                  5
+       Our study is motivated by the desire to address these literature gaps—both in our own
+
+work and to inform work across the country. In particular, much remains to be learned
+
+concerning the long-term effects of school closures on student, educator workforce, and district
+
+finance outcomes, especially across the diverse school contexts in which they occur. Although it
+
+is sparse, some patterns emerge in existing research regarding students, schools, and
+
+communities, which we review below.
+
+
+Schooling Contexts
+
+We classify the conditions precipitating closure into two categories: schooling and non-schooling
+
+(local and neighborhood). This dichotomization is somewhat arbitrary given the inherent
+
+interconnectedness between what happens inside of a school and what happens outside; however,
+
+it helps highlight that both schooling and non-schooling conditions inform closure
+
+considerations.
+
+       School closures are often preceded by decades of declining enrollment and dwindling
+
+finances. In the years leading up to the closure recommendation, affected high schools have
+
+higher per-pupil costs, while the district experiences an overall decline in both enrollment and
+
+child population (Billger & Beck, 2012). When compared to schools that remain open, closed
+
+schools have a lower student-teacher ratio and may have more trouble meeting state
+
+accountability standards (Hill & Jones, 2021).
+
+       Two decades ago, a hallmark feature of No Child Left Behind-driven school turnaround
+
+policy centered on shuttering and/or re-staffing low-performing schools (e.g., VanGronigen &
+
+Meyers, 2019). In the post-pandemic environment, however, low academic performance may or
+
+may not motivate contemporary closures, at least not from a federal policy mandate. Rather,
+
+concerns like the aforementioned enrollment decline, building utilization figures (the proportion
+
+
+
+                                                 6
+of current enrollment to building capacity), and district funding concerns may rise to the
+
+forefront of post-pandemic school planning. School leadership concerns may also assume center
+
+stage, including the presence or lack of elected decision makers (e.g., unelected mayoral or state-
+
+appointed boards) and public charter school management (both discussed subsequently). Here, it
+
+is important to note that while school enrollment decline and neighborhood population decline
+
+may be linked, these trends need not be—especially in choice contexts, as parents may seek to
+
+find what they perceive to be as better schooling options for their children or otherwise explore
+
+alternatives to their zoned traditional public school.
+
+
+Local and Neighborhood Contexts
+
+       From a neighborhood perspective, closures may represent a classic chicken-and-the-egg
+
+story—in other words, does depopulation drive school closure, or vice versa? In rural
+
+communities school closures prompt population loss in some circumstances (Sageman, 2022),
+
+while in urban communities closures may be more likely to occur in potentially gentrifying
+
+neighborhoods where population has declined and home values have risen (Good, 2017).
+
+Gentrification considerations are nuanced, however, as overall population figures may increase
+
+without increasing—or even decreasing public school enrollment—as families without children
+
+and/or children who attend private schools move in (Candipan, 2020). In Chicago, majority
+
+Black census tracts with closed schools had a steeper population decline (9.2%) as compared to
+
+majority Black census tracts that did not (3.2%) in the five years following the 2012 mass
+
+closures (Karp et al., 2023). Conversely, majority White census tracts and those with no racial
+
+majority saw increases in population during the same time period (Karp et al., 2023).
+
+       Neighborhoods surrounding schools considered for closure may also see increasing
+
+poverty rates and higher property taxes (Billger & Beck, 2012). Additionally, schools that close
+
+
+
+                                                  7
+often have higher proportions of students who are Black or living in poverty (Gallagher & Gold,
+
+2017; Hill & Jones, 2021), higher deferred maintenance costs (Dowdall, 2011), and lower
+
+building utilization rates (Weber et al., 2020).
+
+         There are local and neighborhood considerations after schools close as well. School
+
+closures often produce vacant buildings that are often difficult to sell because of their large size,
+
+school-specific layout, or overall condition, factors which make them hard to repurpose
+
+(Dowdall & Warner, 2013; FitzPatrick et al., 2023). Even when they do sell, they often sell for
+
+an amount far below their value (Dowdall & Warner, 2013). School districts are still responsible
+
+for the upkeep of vacant buildings, so when they remain unsold or reused these expenses may cut
+
+into any potential cost savings associated with closing the school in the first place (Karp et al.,
+
+2023).
+
+
+Closure Process and Dynamics
+
+Though grouped as one intervention—permanent school closures—the process, politics,
+
+dynamics, and details of closures often vary widely and each of these components may shape
+
+both the public discourse and the effects of closure. For instance, some closures occur as a mass
+
+policy event (e.g., Chicago and Philadelphia), while others occur as individual events within a
+
+narrow geographic boundary. Such dynamics often relate to the original rationale for closure,
+
+such as sharp financial pressures, and bear on critical student outcomes, like the need to reassign
+
+thousands of students and school personnel following mass closure, or relatively few following a
+
+one-off closure. Some closures may take years to transpire and include robust public engagement
+
+processes or extensive community protests, whereas others may occur suddenly and without
+
+much opportunity for stakeholder input. In each case, these dynamics can significantly impact
+
+closure outcomes.
+
+
+
+                                                   8
+       How the closure process unfolds and how these debates are settled may hinge on the type
+
+of school governance. Whether the leaders and decision-makers are democratically elected by
+
+local constituents; mayoral or state appointees; or privately selected board members (i.e., charter
+
+school boards) may bear significantly on the strength and influence of local stakeholder voice
+
+and agency in closure considerations, particularly in marginalized communities or
+
+neighborhoods with fewer sources of conventional power. Often, closure debates center on the
+
+validity and breadth of metrics used in closure determinations and how those metrics are
+
+communicated and interpreted (Deeds & Patillo, 2015; Ewing, 2018). These power dynamics
+
+also influence discussions about alternatives to closure and whether closures actually address the
+
+problems they purport to solve.
+
+
+Data and Research Mechanics
+
+Closures research is challenged both by critical data constraints and important researcher
+
+decision making. At the outset, “simply” identifying treatment status–which schools actually
+
+closed and when–eludes many datasets. To illustrate this point, we compared federal NCES data
+
+to a dataset of closures and new school openings in St. Louis that was hand-constructed using
+
+state administrative data and confirmed through local newspaper coverage and other archival
+
+documents such as board meeting materials and charter sponsor correspondence. Since 2009, we
+
+note data discrepancies in 15.3% of permanent school closures (nine mismatches) and 11.7% of
+
+new school openings (seven mismatches), either pertaining to whether a school actually closed
+
+(or opened) or misidentifying the school year the event transpired. The differences between the
+
+data and reality may potentially bias any quantitative estimates of closures’ effects revealing the
+
+importance of triangulating suspected closures in administrative data with archival records
+
+including newspapers; school board minutes and meeting documents; or other district records.
+
+
+
+                                                 9
+        What causes these data shortfalls? Sometimes something as minor as a misspelled school
+
+name (e.g., Humboldt vs Humbolt); name styling (e.g., middle school vs junior high); a school or
+
+district code change; or a difference in punctuation (e.g., Saint Louis vs St. Louis) may
+
+mistakenly make it appear that a school closed. In other cases, local, state, and federal reporting
+
+to CCD may not match researcher closure definitions; in short, what do researchers consider
+
+permanent school closures? And, does that definition change from place-to-place or context-to-
+
+context? For example, some closure data includes schools that co-located with another school,
+
+merged with another school, moved to a new physical location, changed names and/or
+
+management (e.g., NCLB-era school turnaround), or changed authorizer (i.e., charter schools).
+
+        To help researchers sort through these potential inconsistencies, we illustrate a school
+
+closure example tree (Figure 2) to describe various factors researchers must consider when
+
+interpreting data. Although this matrix may seem to overly complicate the issue (though we
+
+observe each instance in our St. Louis context), these decisions may significantly change how we
+
+estimate who is impacted by school closure decisions and the extent of closures’ effects.
+
+
+
+                              < INSERT FIGURE 2 ABOUT HERE >
+
+
+        These examples demonstrate that there is no singular definition for what is or is not
+
+school closure that fits every context or scenario. Therefore, researchers must develop their own
+
+definition of school closure, apply it consistently throughout the research project, and articulate
+
+its definition clearly in all reports, articles, and publications. As school closures increase in
+
+frequency, these definitions will be integral in interpreting the findings of a particular study,
+
+triangulating results across studies (and study contexts), developing policy recommendations,
+
+and inspiring future research.
+
+
+
+                                                  10
+       Simultaneous researcher decisions focus on school exclusion or inclusion, both in closure
+
+and comparison groups. For instance, extant research often excludes charter schools, special
+
+education schools, career and technical education schools, and/or other alternative schools.
+
+Excluding charter schools may be of particular concern, given their frequent closure and
+
+disproportionate presence in urban and/or low-income communities.
+
+       Finally, constructing counterfactual school groups to which closed school outcomes may
+
+be compared is a particular challenge, in part due to the fuzziness and/or multi-faceted nature of
+
+closure rationales and unobserved heterogeneity in school characteristics (e.g., political
+
+connectedness). Selection into or away from closure may correlate with some unobserved (or
+
+unmeasured) school characteristic which also influences relevant outcome measures, heightening
+
+the need for careful comparison group identification and communication. In the case of gradual
+
+school closures, endogeneity may be difficult to parse out, as a prior school closure may affect
+
+subsequent closures (or prevent subsequent closures), school composition or neighborhood
+
+conditions.
+
+       Moreover, determining what constitutes a meaningful counterfactual requires careful
+
+attention to closure intent and context. Should the comparison group consist of schools that were
+
+under consideration for closure but ultimately remained open (and is such a list accessible to
+
+researchers and/or the public)? Schools with similar trends in enrollment, academic performance,
+
+and facility quality? Or schools serving demographically similar populations in similarly
+
+resourced neighborhoods? Each choice has implications for the plausibility of the comparison,
+
+balancing internal validity against policy relevance and generalizability.
+
+       These challenges are compounded by the methodological reality that most causal
+
+inference strategies appropriate for closure research—such as matching, event studies, and
+
+
+
+
+                                                 11
+synthetic controls—depend on pre-closure covariates and/or outcome trends to approximate what
+
+would have happened in the absence of closure. This makes the definition of the baseline period
+
+a critical design decision. In the context of gradual or protracted closures, it may be unclear when
+
+the “pre” period begins and ends, as schools often experience years of public deliberation,
+
+disinvestment, or student attrition before the official closure date. In this regard, researchers must
+
+therefore consider whether to anchor baseline measures to the announcement date, the start of
+
+public debate, or earlier signals of vulnerability. These decisions can shape the interpretation and
+
+comparability of findings, and thus should be made transparently and aligned with the theory of
+
+change guiding the study.
+
+
+Mediating and Moderating Factors
+
+For some, the factors mediating and moderating the effects of closure matter just as much, if not
+
+more, than the closures themselves. These may include the sharp disproportionality of closures
+
+on communities of color, especially Black students and their families and communities. Since
+
+they are more likely to occur in neighborhoods with changing demographics such as increasing
+
+poverty rates and declining population, school closures are more likely to descend upon and
+
+disproportionately harm already marginalized populations including low-income residents,
+
+African Americans, or those lacking a high school diploma (Billger & Beck, 2012; Burdick-Will
+
+et al., 2013; Good, 2017; Tieken & Auldridge-Reveles, 2019; Weber et al., 2020).
+
+       More generally, student outcomes may depend on the type of schools and neighborhoods
+
+where students end up, which implies that both the context of the departure school and the
+
+context of the destination school may act as significant moderators. Similarly, the long-term
+
+outcomes of students affected by school closures may depend on short-term outcomes, which
+
+may be especially important as policymakers consider additional interventions for students
+
+
+
+                                                 12
+affected by school closures. For example, school closures may decrease belongingness for
+
+students (Gordon et al., 2018), which can lead to lower attendance rates, and, ultimately, higher
+
+dropout rates.
+
+
+
+                                    Conclusions and Next Steps
+
+Given many schools’ current public education challenges include enrollment decline, the
+
+expiration of pandemic-era stimulus funding, and an increasingly uncertain federal role in public
+
+education more generally, we expect permanent school closure debates to increase in number and
+
+expand to new locations across the nation. Though the research base on closures grew
+
+significantly following Great Recession-era closures, it often excludes much of the context
+
+relevant to contemporary circumstances. These details provide the requisite grounding for a
+
+holistic review of closures as an educational and community intervention.
+
+        While we plan on using this framework on our current research on school closures, we
+
+hope that it will guide other researchers in this area as well. Comprehensive and rigorous
+
+research is needed not only because school closures are an important education policy matter, but
+
+also because they are contentious and poorly understood by many policy makers and community
+
+members alike. School closures are accompanied by political pressure (Nuamah, 2022) and
+
+involve numerous intergovernmental considerations (Dowdall, 2011; Sigel-Hawley et al., 2017)
+
+and the quantitative data that forms the narrative utilized by policy makers often stands in sharp
+
+contrast to the lived experiences of community members creating conflict (Bierbaum, 2021;
+
+Deeds & Patillo, 2015; Ewing, 2018). This conflict exacerbates the lack of trust between policy
+
+makers and community stakeholders that stems, in part, from the belief that school closures do
+
+not correct the financial, infrastructure, or equity problems the district is trying to solve. If
+
+Chicago is any indication, this mistrust may exist for good reason. Analyses of the promises
+
+
+                                                   13
+made by Chicago Public Schools during its 2012 mass closure process find them to be largely
+
+unfulfilled, in part because the district did not monitor many critical outcomes (Karp et al.,
+
+2023).
+
+         This, too, justifies the importance of school closure research. While there is so much
+
+more to understand, what is known suggests the stakes of closure are high for school
+
+communities and their surrounding neighborhoods. Stakeholders fight for these objectives with
+
+good intent. In the absence of comprehensive and rigorous research, both predictors of closure
+
+and its outcomes, the public discourse surrounding school closure becomes dominated by
+
+political factors, historical context, and anecdotal evidence as that is the only information
+
+broadly accessible to stakeholders who wish to engage on the issue. However, this may lead to
+
+incomplete or misinformed policies that could further harm students and communities who are
+
+already disadvantaged. School closure decisions can change life trajectories for students,
+
+educators, and neighborhoods. Given the present likelihood that school closures will increase,
+
+researchers hold an obligation to fill the knowledge gaps that prevent data-driven and research-
+
+informed policymaking.
+
+
+
+
+                                                 14
+                                           References
+
+Bierbaum, A. H. (2021). School closures and the contested unmaking of Philadelphia’s
+
+       neighborhoods. Journal of Planning Education and Research, 41(2), 202-216.
+
+Billger, S. M. & Beck, F. D. (2012). The determinants of high school closures: Lessons from
+
+       longitudinal data throughout Illinois. Journal of Education Finance, 38(2), 83-101
+
+Brazil, N. (2020). Effects of public school closures on crime: The case of the 2013 Chicago mass
+
+       school closure. Sociological Science, 7, 128-151.
+
+Burdick-Will, J. Keels, M., & Schuble, T. (2013). Closing and Opening Schools: The
+
+       Association between Neighborhood Characteristics and the Location of New Educational
+
+       Opportunities in a Large Urban District, Journal of Urban Affairs, 35(1), 59-80.
+
+Candipan, J. (2020). Choosing schools in changing places: Examining school enrollment in
+
+       gentrifying neighborhoods. Sociology of Education, 93(3), 215-237.
+
+Copley, P., & Douthett, E. (2020). The enrollment cliff, mega-universities, COVID-19, and the
+
+       changing landscape of U.S. colleges. The CPA Journal, 90(9), 22-27.
+
+de la Torre, M. & Gwynne, J. (2009). When schools close: Effects on displaced students in
+
+       Chicago Public Schools. University of Chicago Consortium on School Research.
+
+Deeds, V. & Pattillo, M. (2015). Organizational “failure” and institutional pluralism: A case
+
+       study of an urban school closure. Urban Education, 50(4). 474-504.
+
+Dougherty, S. M., Miller, A. F., & Yoon, Y. (2024). Charter School Expansion, Catholic School
+
+       Enrollment, & the Equity Implications of School Choice. (EdWorkingPaper: 24-1027).
+
+       Retrieved from Annenberg Institute at Brown University.
+
+Dowdall, E. (2011). Closing Public Schools in Philadelphia: Lessons from Six Urban Districts.
+
+       The Pew Charitable Trusts.
+
+
+
+
+                                                15
+Ewing, E. L. (2018). Ghosts in the Schoolyard. University of Chicago Press.
+
+Ewing, E. L. & Green, T. L. (2021). Beyond the Headlines: Trends and Future Directions in the
+
+       School Closure Literature. Educational Researcher, 51(1) 58-65.
+
+FitzPatrick, L., Issa, N., Karp, S., & Loury, A. (2023, May 18). Ten years later, more than half of
+
+       Chicago’s closed schools remain unused. Chicago Sun-Times.
+
+       https://graphics.suntimes.com/education/2023/chicagos-50-closed-schools/buildings/
+
+Gallagher, M. & Gold, A. (2017). Subtracting schools from communities. Urban Institute.
+
+       https://www.urban.org/features/subtracting-schools-communities
+
+Good, R. M. (2017). Invoking landscapes of spatialized inequality: Race, class, and place in
+
+       Philadelphia’s school closure debate. Journal of Urban Affairs, 39(3). 358-380.
+
+Gordon, M. F., de la Torre, M., Cowhy, J. R., Moore, P. T., Sartain, L., & Knight, D. (2018).
+
+       School closings in Chicago: Staff and student experiences and academic outcomes.
+
+       Research Report. University of Chicago Consortium on School Research.
+
+Goulas, S. (2024). Breaking down enrollment declines in public schools. The Hamilton Project,
+
+       Brookings Institution, Washington, DC.
+
+Hamilton, L. S., & Stecher, B. M. 2010. Expanding what counts when evaluating charter school
+
+       effectiveness. In Taking Measure of Charter Schools: Better Assessment, Better
+
+       Policymaking, Better Schools, ed. J. R. Betts, P. T. Hill, pp. 33–54. Lanham, MD:
+
+       Rowman & Littlefield
+
+Hill, A. J., & Jones, D. B. (2021). The effect of school closings on teacher labor market
+
+       outcomes and teacher effectiveness. Education Finance and Policy, 16(4), 584-608.
+
+
+
+
+                                                16
+Karp, S., Issa, N., FitzPatrick, L., & Loury, I. (2023, May 18). Chicago closed 50 public schools
+
+       10 years ago. Did the city keep its promises? WBEZ Chicago & Chicago Sun-Times.
+
+       https://graphics.suntimes.com/education/2023/chicagos-50-closed-schools/
+
+Lee, J., & Lubienski, C. (2017). The impact of school closures on equity of access in
+
+       Chicago. Education and Urban Society, 49(1), 53-80.
+
+Lee, H., & Sartain, L. (2020). School closures in Chicago: What happened to the
+
+       teachers? Educational Evaluation and Policy Analysis, 42(3), 331-353.
+
+LeFebvre, J., & Master, S. (2024). Expiration of federal K-12 emergency funds could pose
+
+       challenges for states. Center on Budget and Policy Priorities.
+
+McWilliams, J. A., & Kitzmiller, E. M. (2019). Mass school closures and the politics of race,
+
+       value, and disposability in Philadelphia. Teachers College Record, 121(1), 1-44.
+
+Nuamah, S. A. (2022). Closed for democracy. Cambridge University Press.
+
+Sageman, J. (2022). School closures and rural population decline. Rural Sociology, 87(3). 960-
+
+       992.
+
+Schueler, B. E., & Miller, L. C. (2024). Post-pandemic onset public school enrollment and
+
+       mobility: Evidence from Virginia. Educational Evaluation and Policy Analysis, 46(4),
+
+       788-794.
+
+Siegel-Hawley, G., Bridges, K., & Shields, T. J. (2017). Solidifying segregation or promoting
+
+       diversity? School closure and rezoning in an urban district. Educational Administration
+
+       Quarterly, 53(1), 107-141.
+
+Steinberg, M. P., & MacDonald, J. M. (2019). The effects of closing urban schools on students’
+
+       academic and behavioral outcomes: Evidence from Philadelphia. Economics of Education
+
+       Review, 69, 25-60.
+
+
+
+
+                                                17
+Tieken, M. C. & Auldridge-Reeves, T. R. (2019). Rethinking the school closure research: School
+
+       closure as spatial injustice. Review of Educational Research, 89(6). 917-953.
+
+VanGronigen, B. A., & Meyers, C. V. (2019). How state education agencies are administering
+
+       school turnaround efforts: 15 years after No Child Left Behind. Educational
+
+       Policy, 33(3), 423-452.
+
+Weber, R., Farmer, S., & Donoghue, M. (2020). Predicting school closures in an era of austerity:
+
+       The case of Chicago. Urban Affairs Review, 56(2). 415-450.
+
+
+
+
+                                               18
+Figure 1. School closures conceptual framework
+
+
+
+
+                                                 19
+Figure 2. School closure decision matrix
+
+         School Status               LEA Status        Determination
+Ex. 1    Closes                      Remains open      Closure
+
+Ex. 2    Closes                      Remains open      Closure
+
+Ex. 3    Closes                      Closes            Closure
+
+Ex. 4    Name change                 No change         Not closure
+
+Ex. 5    Name change                 Name change       Not closure
+
+Ex. 6    Co-location with another    No change         Likely not closure, but
+         school                                        may be context dependent
+
+Ex. 7    Move to new location or     No change         Not closure
+         new building is constructed
+         and retains same name
+
+Ex. 8    No changes                  Changes name      Not closure
+                                     and/or sponsor
+                                     (charter)
+
+Ex. 9    State ID change             No change         Usually not closure
+
+Ex. 10   No changes                  State ID change   Usually not closure
+
+Ex. 10   Merger with other           No change         Unclear, context
+         school(s)                                     dependent
+
+
+
+
+                                              20
+

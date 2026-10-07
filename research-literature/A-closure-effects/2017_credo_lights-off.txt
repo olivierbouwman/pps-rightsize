@@ -1,0 +1,259 @@
+Lights Off: Practice and Impact of
+Closing Low-Performing Schools
+               2017
+
+       Executive Summary             0
+          Lights Off: Practice and Impact of
+          Closing Low-Performing Schools
+                         2017
+
+
+Executive Summary
+
+Introduction
+For decades, communities across the country have grappled with the problem of public K-12 schools
+that do not deliver high-quality education to the students they serve. After more than a decade of
+school-based accountability, policymakers have increasingly realized that there are limits to how
+much effort should be made to turn around a low-performing school. Many education leaders feel a
+strong sense of urgency that the life chances of the students enrolled in these schools are diminished
+with each year of continued operation and endorse closure of those schools.
+
+The option of closing schools that persistently perform poorly has gained traction. There are two
+parallel systems that engage in school closure in the public K-12 education realm. For more than a
+decade, the charter school sector has become more insistent in closing schools that do not meet
+certain academic performance benchmarks. Closure is the ultimate consequence in the contractual
+bargain charter school operators strike with their authorizers: Do well and your charter will be
+renewed, but do poorly and your charter (potentially) will lose the chance to continue. Charter
+schools may be closed because of academic failure, though the actual risk is diminished where their
+overseers are timid about demanding it. The traditional public school (TPS) arena was historically
+resistant to closures, especially in regions where the threat of labor reprisals was credible. But given
+the persistent trends in low performance in many TPS and about 15 years of evidence that alternative
+strategies have not produced substantial improvement, the use of closure as a policy intervention has
+grown in TPS across the country.
+
+Closures of low-performing schools are usually hotly contested events. Supporters claim that by
+closing schools, students will be removed from an unproductive environment and be better off under
+the wing of other educators. They also believe that closing low-quality schools holds out the chance
+to transfer the building and facilities to other uses. Opponents are concerned that school closures will
+disrupt students’ educational experiences, cause psychological stress and impair their outcomes.
+
+Despite heated debates over the practice, empirical evidence about school closure is limited in scope
+and time and has produced mixed findings. The record is particularly weak about what school
+
+                                                                                                      1
+settings closure students move to and how they progress academically in the post-closure era.
+Lacking reliable information on school closures, policymakers, educators and parents risk the future
+learning of affected students.
+
+Taking advantage of the multistate, longitudinal dataset of unprecedented scale that CREDO has built
+under FERPA (Family Educational Rights and Privacy Act)-compliant agreements with its state
+education agency partners, we systematically examined closure of low-performing public schools in
+both the charter and TPS sectors. Our investigation covered four broad areas. First, we built a
+national picture of school closures, for the first time providing a comparative accounting of the
+practice across sectors and across the country. Given the variation we observed, we examined
+whether equivalently performing schools faced comparable treatment across the country. From a
+focus on school outcomes, we shifted the focus to the schooling trajectory of students who were
+enrolled in closing schools in the final years of operation. Finally, and in many ways most importantly,
+we studied the impact of school closure on the academic progress of closure students. By addressing
+these questions, we hope to provide a solid foundation for informed evaluations of − and constructive
+discussions on − closure as a policy instrument to cope with academically low-performing schools.
+
+Project Approach
+We used the longitudinally linked data that CREDO had developed in partnership with 26 state
+education agencies to pursue our inquiry. We identified low-performing, full-time, regular (non-
+alternative) schools and closures in those 26 states from academic year 2006-07 to 2012-13,
+depending on the availability of data. A school was defined as low-performing if its average reading
+and math scores were both in the bottom 20 percent (i.e., the bottom four ventiles) in a state in a
+given year as well as the previous year.1 Then we flagged the low-performing schools as closed based
+on the codes of the Common Core of Data (CCD) from the National Center for Education Statistics
+(NCES). A total of 1,522 low-performing schools, including 1,204 TPS and 318 charters, were closed in
+the 26 states during our study period.
+
+Different analyses were conducted to address different questions. One group of questions aimed to
+provide for the first time an aggregate picture of the practice of closing low-performing schools across
+the country. We used descriptive analyses and tests of differences in statistics between groups to
+explore what the national landscape of closing low-performing schools looked like, whether similarly
+low-performing schools were treated equivalently, whether there was an early transfer of students in
+the year before the official closure, and what sectors and school settings displaced students moved to
+after their schools had closed.
+
+The second group of questions focused on the fates of students who were enrolled in the final years of
+operation in the low-performing schools that closed. We employed the Virtual Control Record (VCR)
+method developed by CREDO in our analysis of the academic impact of closure on individual
+
+1
+  Each ventile covers 5 percent of the school population. The first ventile includes the lowest-performing 5
+percent of schools in a state in terms of achievement. The 20th ventile includes the highest-performing 5 percent
+of schools in a state in terms of achievement.
+
+                                                                                                               2
+students. Using the VCR approach, a “virtual twin” was constructed for each closure student by
+drawing on the available records of students with identical traits and identical or very similar baseline
+test scores but who were enrolled in continuing low-performing schools in the same sector (charter or
+TPS). If matched, this virtual twin would differ from the closure student only in that one student
+attended a closed school. We then estimated the impact of school closure by comparing the academic
+progress of closure students and their virtual twins (or peers) from the same sector. The VCR matching
+protocol has been assessed against other possible study designs and judged to be reliable and
+valuable by peer reviewers.
+
+To study the academic performance across low-performing schools, we relied on scores students
+received on state standardized achievement tests. Achievement tests capture what a student knows
+at a point in time. These test results were fitted into a bell curve format that enabled us to see how
+students moved from year to year in terms of academic performance and how students’ scores
+compared to students in other states in the study.
+
+Two successive test scores allow us to see how much progress a student makes over a one-year
+period; this is also known as a growth score. Growth scores have the advantage that they allow us to
+zero in on the contributions of schools separately from other things that affect point-in-time scores.
+The parsed effect of schools in turn gives us the chance to see how students’ academic progress
+changes as the conditions of their education transform. This is the analytic foundation for our
+examination of the academic impact of school closure.
+
+To assist the reader in interpreting the meaning of the effect sizes in our impact analysis, we include
+an estimate of the number of days of learning required to achieve a particular effect size.
+
+Major Findings
+Our analyses revealed the following major findings:
+
+Closures of low-performing schools were prevalent but not evenly distributed. Closures were on
+the rise in the study period. Geographically, closures appeared to be concentrated in a few key states,
+especially so in the TPS sector. Considering locale and grade span, closure was mostly an urban
+phenomenon focused largely on elementary schools, where students have a longer time to recover
+and communities tend to have more than one school in the system to receive affected students. High
+school closures were rarer, probably because of strong community affinity and scarcer alternatives.
+
+Low-performing schools that were eventually closed exhibited clear signs of weakness in the
+years leading to closure compared to other low-performing schools. Closing schools had lower
+academic performance and smaller student enrollment than low-performing schools that were
+permitted to remain open. In fact, there were steady declines in both academic achievement and
+growth in closing schools in the last three years before closure. Enrollment in those schools also
+dwindled in the last few years of operation.
+
+
+
+
+                                                                                                       3
+Variations in closures of low-performing schools by sector were particularly salient. Although the
+number of charter closures was smaller than that of TPS closures, the percentage of low-performing
+schools getting closed was higher in the charter sector than in the TPS sector. This pattern was
+particularly pronounced in the first (from the bottom) state ventile of achievement. On average, the
+academic performance of closed charter schools was lower than that of closed TPS. However, the
+performance differences between the charter and TPS closures varied widely from state to state,
+suggesting that districts and charter authorizers operated in different legislative and regulatory
+environments. It was also clear that within states, decision-makers in the charter and TPS arenas
+exercised varying degrees of political will and drew on different approaches when they determined
+how to deal with low-performing schools.
+
+Closures of low-performing schools were not blind to socioeconomic status or race/ethnicity of
+the students who were enrolled. In both the charter and TPS sectors, and particularly in the lowest
+ventile of achievement, low-performing schools with a larger share of black and Hispanic students
+were more likely to be closed than similarly performing schools with a smaller share of disadvantaged
+minority students. Moreover, the closure rates for higher-poverty low-performing TPS in the bottom
+two ventiles surpassed the rates for lower-poverty TPS of similarly low performance. These observed
+inequivalent tendencies raise the issue of equity in decision-making about school closures.
+
+There was an obvious early departure of students before the official closure. In both sectors a
+higher percentage of students transferred from closing schools one year before the official closure
+than did students attending continuing low-performing schools in the same period. The rate of early
+transfers was higher for closing charters than for closing TPS. Early leavers from both charter and TPS
+closures had worse academic performance than students who remained until the official closure as
+well as students who transferred from not-closed low-performing schools in the same sector in the
+same year.
+
+A little less than half of displaced closure students landed in better schools. This held for both
+sectors. A higher share of displaced charter students ended up in better school settings than did TPS
+closure students, compatible with the stronger capabilities of parents of charter school students in
+maneuvering school choices. The chance for superior placement among students who left in the year
+before school closure was somewhat higher, implying some advantage for early departure given
+limited seats available in better local schools. Some students who did not land well in the first one or
+two years after closure attended a better school in the next year. However, the dominant pattern was
+for the schools that students attended in the second and third years following closure to mirror the
+quality of their schools in the previous year. The pattern possibly reflected families’ preference for
+stability over improved quality in their choice of schools or the realistic constraint of the options for
+quality alternatives. These findings resonate with a widely held concern that there is a shortage of
+better options for students displaced by school closures. This concern is well-founded, as better
+schools are critically important for students’ future academic progress.
+
+
+
+                                                                                                       4
+The quality of the receiving school made a significant difference in post-closure student
+outcomes. Closure students who attended better schools tended to make greater academic gains
+than did their peers from not-closed low-performing schools in the same sector, while those ending
+up in worse or equivalent schools had weaker academic growth than their peers in comparable low-
+performing settings. This pattern was stronger for TPS closure students. The finding also held for a
+number of racial-ethnic groups and was particularly salient for black and Hispanic closure students.
+The effect was most pronounced for black and Hispanic students in poverty. However, the academic
+benefit of closure is systematically constrained, as the supply of superior alternatives for closure
+students is limited and there are systemic access challenges such as parent information and district
+placement practices.
+
+Implications
+Views on how to deal with academically failing schools diverge among policymakers, educators and
+parents. As the most radical measure, closure has received politically charged debate. The findings
+revealed in this study establish a foundation for evidence-based discussion about the implications of
+closing low-performing schools.
+
+Closing chronically low-performing schools seems to be an inevitable option. The widespread
+failure of school improvement strategies makes the option of keeping chronically low-performing TPS
+schools in the hope of making progress over time unattractive and impractical. Previous research by
+CREDO has also demonstrated that a charter school that performs poorly at the beginning is very
+unlikely to improve later on (Peltason & Raymond, 2013; Woodworth & Raymond, 2013). Hence,
+closing persistently low-performing schools seems to be pushed to the front as an inevitable
+alternative. Our findings point out several intricacies, and call for caution, in implementing this bold
+policy measure.
+
+Decision-makers need to assure equity in dealing with low-performing schools. Only a small
+fraction of low-performing schools have been closed, and our evidence suggests that closures of low-
+performing schools were biased by non-academic factors. In particular, closures were tilted toward
+the most disadvantaged schools such as the ones with higher concentrations of students in poverty
+and higher shares of black and Hispanic students, which raises the issue of equity in the practice of
+closures. Districts and charter authorizers face exposure in this regard. They will benefit from
+reviewing their policies and processes for closures. They should identify and refrain from explicit and
+unconscious biases in decision-making about closing low-performing schools.
+
+Distinct patterns of closures in the charter and TPS sectors call for attention to accountability in
+both systems. School districts have been more tolerant of low-performing TPS, as evidenced by
+lower rates of closures of low-performing schools in sum and by category in the TPS sector than in the
+charter sector. Although districts are likely to be confronted with greater pressure from various
+stakeholders when dealing with academically failing schools, the well-being of students should be
+their top concern. Responsible districts should never let chronically low-performing schools
+continuously erode student learning outcomes. In the charter sector, there should not be schools with
+
+                                                                                                      5
+very poor performance, particularly in the lowest state ventile, since the contract with authorizers
+obliges individual schools to meet certain academic goals. The existence of poorly performing charter
+schools raises the question of how accountability is implemented. Apparently, agreement with the
+terms on paper is not always sufficient. What matters more is the will on the part of charter
+authorizers to execute the terms and take action when things go wrong in schools.
+
+Individual states will benefit from reviewing their closure criteria and processes and from
+learning from the experiences of successful states. The state is the locus for the formulation and
+supervision of many education policies and practices. Our data demonstrated that states varied
+extensively in the prevalence of closing low-performing schools, the academic criteria that were
+applied in the decision about closures, and the focus on ensuring student academic progress in post-
+closure periods. Individual states have yet to review the level of rigor in their making and
+implementation of policies and practices for coping with low-performing schools. They can also learn
+useful lessons from their counterparts that have successfully closed low-performing schools,
+relocated closure students to better schools and promoted improved academic performance of
+closure students after closure.
+
+The quality of the receiving schools plays a significant role in the academic progress of closure
+students. However, superior alternatives are limited. Innovative measures are called for to yield
+positive outcomes for students. Closing low-performing schools alone does not automatically lead
+to better outcomes for students, but needs to be accompanied by effective follow-up measures to
+ensure better treatment of students. Our findings of the role that the quality of the receiving school
+played in the academic progress of closure students suggest it is crucial to assign affected students to
+higher-performing schools. However, we cannot pin all our hopes on currently higher-performing
+schools if there are many students to place. Not even half of the displaced students in our analysis
+were able to land in better schools. The chance for superior placement will grow slimmer if there are
+further increases in the practice of closure. Additional options need to be designed − starting new
+schools, for example. It is true that new schools are likely to be mixed in quality. But if poorly
+performing schools are closed and better schools are kept, there will be an accumulation of high-
+quality schools over time.
+
+
+
+
+                                                                                                      6
+

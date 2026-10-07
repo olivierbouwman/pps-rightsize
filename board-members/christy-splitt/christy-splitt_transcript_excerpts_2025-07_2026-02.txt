@@ -1,0 +1,146 @@
+Christy Splitt (Zone 1; appointed Jan 2025; TLE member and Bond Accountability Committee liaison 2025-26) - transcript excerpts, PPS Board and committee meetings Jul 2025 - Feb 2026
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/text/ (2026-01-30 retreat: local whisper.cpp
+transcription, no YouTube captions). Method: keyword search (rightsiz*, closure, consolidat*, enrollment, boundar*, K-8, middle
+school, focus option, lottery, immersion, seismic, deficit, Jefferson, capture rate, etc.) then reading the surrounding turns.
+Excerpts are verbatim caption text, lightly trimmed ([...] = omission; caption mis-hearings of names left as-is or corrected in
+[brackets]); every quoted fragment was machine-checked against the source file. Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are the caption line start (quote may begin up to ~60s later).
+Caveat: the 2025-08-14 and 2025-09-18 TLE caption files read like machine re-translations ("school limits" = boundaries,
+"coverage/acquisition rate" = capture rate); quotes from them are verbatim to the file but should be checked against video.
+Excluded by design: personal/family details volunteered in remarks; discussion of any individual employee's performance,
+evaluation, discipline or contract terms (incl. the superintendent's); names of private members of the public; for this
+director also: remarks about her own children or her family's school; vacation/time-off remarks at the 1/30/2026 retreat.
+Period summary and cross-director context: BOARD_STATEMENTS_BY_PERIOD.md2025-07_2026-02_summary.md (16 excerpts below).
+
+RECORDED VOTES / MOTIONS
+- SECONDED Res. 7187 Jefferson modernization plan and Res. 7202 FIOC charter (10/14/2025); MOVED Res. 7207 Wells plan amendment (11/4/2025, 7-0).
+- YES on Res. 7216 Procedeo (12/2/2025); called the question during that debate (overridden by the chair).
+- MOVED Res. 7229 Jefferson boundaries (1/13/2026, 6-1), with annual progress reporting on Jefferson, Grant, McDaniel and Roosevelt written in; YES on 7228.
+- YES on 1/27/2026 consent agenda incl. seismic design contracts, while stating discomfort that ~10 schools were effectively taken "off the table" for rightsizing.
+- Context, related votes this period (all directors):
+  - 2025-07-22 Res. 7148 (PPS/Beaverton SD boundary transfer, ~12 homes in Zone 3): pulled from consent; motion to POSTPONE passed 7-0 (La Forte moved, Chase-Miller seconded). Source: captions S_rBf9XK-JM ~01:37 (no draft minutes in boardbook).
+  - 2025-08-05 Res. 7148: placed on table (DePass moved, Chase-Miller seconded); motion to POSTPONE pending a corrected fiscal-impact statement passed 7-0 (La Forte moved, Sullivan seconded). Source: captions oCxJzz7r-fk ~00:23-00:48. No later disposition found in boardbook through Feb 2026.
+  - 2025-09-09 seismic program approach (A/B/C): discussion only, NO vote (deferred to FIOC 9/16 and full board 9/30).
+  - 2025-10-14 Res. 7187 Jefferson HS modernization revised comprehensive plan 7-0 (DePass moved, Splitt seconded); Res. 7188 Cleveland HS plan 7-0 (Engelsman moved, La Forte seconded); Res. 7202 FIOC charter 7-0 (Sullivan moved, Splitt seconded) after Wang amendment ("approvals"->"recommendations"; Wang moved, DePass seconded) 7-0. Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_10_14_Regular_Board_Meeting_Draft_Minutes_3989403.txt
+  - 2025-11-04 Res. 7207 Ida B. Wells HS plan amendment (~$5.6M savings) 7-0 (Splitt moved, Sullivan seconded); Res. 7208 2026-27 budget calendar 7-0 (Chase-Miller moved, DePass seconded). Source: boardbook/2025-12-02_Regular_Meeting_720518/2025_11_04_Regular_Board_Meeting_Minutes_-_Draft_for_Consideration_3996763.txt
+  - 2025-12-02 Res. 7216 Procedeo bond program-management contract (bond/seismic delivery) passed 5-2: Wang, DePass, Chase-Miller, Splitt, Sullivan YES; La Forte, Engelsman NO (Ritorto no, unofficial). DePass moved, Chase-Miller seconded. La Forte/Engelsman motion to postpone failed 2-5; their amendment (strike incentives, 1-yr term) failed 2-5. Splitt called the question (overridden by chair; appeal not seconded). Source: boardbook/2025-12-16_Work_Session_with_Vote_on_Consent_Agenda_722619/2025_12_02__Regular_Meeting_Minutes_-_Draft_for_consideration_3996787.txt
+  - 2026-01-13 Res. 7228 end Jefferson dual assignment / designate Jefferson a comprehensive HS from 2027-28: 7-0 (Chase-Miller and DePass moved, La Forte seconded; Ritorto yes, unofficial).
+  - 2026-01-13 Res. 7229 Jefferson attendance boundaries (Scenario C: Beach, Boise-Eliot/Humboldt, Chief Joseph, King, Faubion, Sabin, Vernon, Woodlawn -> Jefferson; Irvington -> Grant; Peninsula -> Roosevelt): passed 6-1 (Splitt moved, Sullivan seconded; Engelsman NO; Ritorto NO, unofficial). Engelsman motion to add a course-offering date was withdrawn without a second. Source: boardbook/2026-02-10_Regular_Meeting_730093/2026_01_13_Regular_Meeting_Minutes_-_Draft_for_Consideration_3996890.txt (incl. Engelsman statement for the record).
+  - 2026-01-27 consent agenda Res. 7241-7242 (7241 includes A&E design for Vernon and Winterhaven seismic rehabilitation, 2020 bond): 7-0 (Sullivan moved, Vice-Chair DePass seconded) after Splitt, Chase-Miller, DePass and La Forte voiced concern that seismic selection was preceding rightsizing. Source: boardbook/2026-02-24_Work_Session_with_Vote_on_Consent_Agenda_731954/2026_01_27_Special_and_WS_minutes-draft_for_consideration_3996963.txt; Resolution_7241 in boardbook/2026-01-27_Work_Session_and_Special_Meeting_728105/
+  - 2026-02-24 Metropolitan Learning Center grades 9-12 discontinued: NO board vote (staff decision presented at a work session; superintendent said it would be folded into the June budget vote; staff/legal said it is a program change, not a school closure under policy 6.10.030). Source: boardbook/2026-03-10_Regular_Meeting_734436/2026_02_24_Work_Session_Minutes_-_Draft_3997016.txt
+
+EXCERPTS
+
+[2025-08-14 Teaching, Learning & Enrollment Committee - committee charter]
+  time 00:35:49 | https://www.youtube.com/watch?v=nIjDjAq71GE&t=2149s
+  source: transcripts/text/2025-08-14_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__nIjDjAq71GE.txt
+  attribution: PROBABLE (TLE member responding to "what Eddie just said"; legislative-forecast framing fits her Oregon-politics background, which she cited in her intro; staff on 9/9 credit "director split" with the TLE's legislator conversations; machine-translated caption)
+  topic: don't promise programming the district can't fund; expects more cuts
+  "what I heard from you at the beginning is kind of like holding the district accountable for doing something that , honestly, I'm not sure the district has the resources to do, as we're dealing with more cuts and potentially more cuts than those given the state budget deficit. [...] just making sure that we 're not promising things that we really ca n't deliver given the situation I think we'll be in . If I were a gambler, I would expect us to make cuts, and I expect the legislature to tell us to make more cuts after the February session."
+
+[2025-09-09 Regular Meeting - Seismic study report]
+  time 04:04:08 | https://www.youtube.com/watch?v=OZXNdCFV5Uk&t=14648s
+  source: transcripts/text/2025-09-09_Board_of_Education_Regular_Meeting__OZXNdCFV5Uk.txt
+  attribution: CONFIRMED (chair: "Thank you, Director Split ... I'll go to you next"; "I'm not on the facilities committee")
+  topic: community process for deciding seismic priorities
+  "I think one thing I really want us to do is talk to community about how they want us to approach this issue. Um, I think it'll be really important to set up some sort of process where we can hear from them about how we ought to go about making these decisions without creating a situation where it's like pick me, pick me, right? [...] I just really want to make sure that that public process plays out."
+
+[2025-09-18 Teaching, Learning & Enrollment Committee - enrollment/marketing strategy]
+  time 00:50:59 | https://www.youtube.com/watch?v=gVtn7AYmhUU&t=3059s
+  source: transcripts/text/2025-09-18_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__gVtn7AYmhUU.txt
+  attribution: CONFIRMED (self-reference "my job is to think about the west, specifically the southwest side"; chair replies "what I was trying to convey, Christy... lower West Side"; machine-retranslated caption - "coverage rate" = capture rate)
+  topic: low SW capture rate; enrollment campaign skewed east
+  "I also noticed that they are all located on the east side, and my job is to think about the west, specifically the southwest side. So I just want to point out that I've already spoken to Dr. Armstrong about the fact that the coverage rate is very low in Southwest Portland. [...] it's worth considering not just the zip code approach and not just areas with declining student numbers, because maybe we just have more children compared to other parts of the city. And so the coverage ratio is also lower [...] some geographic balance so that we don't focus all this local work just on the east side of the city."
+
+[2025-10-28 Work Session - Other business (board member items)]
+  time 03:31:19 | https://www.youtube.com/watch?v=ecMvb4daHts&t=12679s
+  source: transcripts/text/2025-10-28_Board_of_Education_Work_Session_with_Vote_on_Consent_Agenda__ecMvb4daHts.txt
+  attribution: PROBABLE (speaks for "our neighborhood school" Hayhurst; Splitt is a Hayhurst PTA officer and Zone 1 director)
+  topic: Odyssey focus option co-located at Hayhurst; supports separating them
+  "Hayhurst used to be the home for the Odyssey Focus Option School. It's still considered one school, but they've been separated for eight years. [...] Odyssey parents [...] are in support of also splitting because they also see no relationship with our school and we have a little chip of on our shoulder because they take 30ome students from our neighborhood school over there [...] we're um hopeful that the district will continue to see that through and um allow us to take two schools that are very distinct and make them separate officially."
+
+[2025-11-13 Teaching, Learning & Enrollment Committee - Jefferson Rising enrollment update]
+  time 01:45:00 | https://www.youtube.com/watch?v=JEfmEEMeU3Y&t=6300s
+  source: transcripts/text/2025-11-13_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__JEfmEEMeU3Y.txt
+  attribution: CONFIRMED (self-intro "I'm Christy Split ... zone one" at 00:00:00; here "I've called them Christiey's clarifications"; staff earlier "back to your question, director split")
+  topic: Jefferson dual-assignment process - "no decision has been made"
+  "I have seen a lot of emails accusing us of like already deciding and look, Portland maps already says it as proof that we already decided and I also just want to put out there that no decision has been made. [...] we're all listening and open-minded and want to come to a solution together."
+
+[2025-11-13 Teaching, Learning & Enrollment Committee - Jefferson Rising enrollment update]
+  time 01:48:01 | https://www.youtube.com/watch?v=JEfmEEMeU3Y&t=6481s
+  source: transcripts/text/2025-11-13_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__JEfmEEMeU3Y.txt
+  attribution: CONFIRMED (same turn)
+  topic: community engagement; district responsiveness
+  "The other thing is I've heard a lot about there's been no engagement process. This is the engagement process and we are listening and we do take it seriously. [...] I'm actually pretty proud to see the district turning the page in a lot of ways and I hope that this is one that I can hold the district accountable [...] the district can make a decision, publicize that decision, hear from community, and pivot."
+
+[2025-11-13 Teaching, Learning & Enrollment Committee - Jefferson Rising enrollment update]
+  time 02:09:18 | https://www.youtube.com/watch?v=JEfmEEMeU3Y&t=7758s
+  source: transcripts/text/2025-11-13_Board_of_Education_s_Teaching_Learning_and_Enrollment_Committee__JEfmEEMeU3Y.txt
+  attribution: PROBABLE (the committee member who said "I did think of one" and then leaves to join by phone; references a young child in elementary school, matching Splitt's earlier remarks; La Forte follows with "These two ... asked a lot of mine")
+  topic: open to a scenario other than A/B/C (parent-proposed "Scenario F"); teacher experience at Jefferson
+  "are we open to in the end will the recommendation be A, B, or C or will it be possibly something else? [...] I don't know what's in scenario F to be honest [...] so I don't have a position on it [...] is it poss possible that we will develop something that's different than A, B or C? [...] I've had people be concerned that in the end it will be kind of like [...] younger, newer teachers have often kind of get moved around um during these types of processes. and so concerned that Jefferson would in the end have less experienced teachers."
+
+[2025-12-16 Work Session - Finance focus / budget principles ($50M deficit)]
+  time 01:15:40 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=4540s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: CONFIRMED (self-reference "I work for the state"; La Forte later: "director split mentioned the funding... challenges coming up probably through... 2031")
+  topic: state revenue outlook - multi-year decline to a lower plateau
+  "the long-term trend is that the state budget is going to dramatically fall because of the lack of federal funding [...] the legislaturator is going to be thinking of making cuts now that they don't necessarily need to make this bianium [...] this is expected to be a multi-year trend um I believe through the 2931 bianium which is when it would start to stabilize um at that lower amount. So, just so folks kind of know what it's like extremely bad news for school funding."
+
+[2025-12-16 Work Session - Jefferson HS academic programming / Scenario C]
+  time 03:15:55 | https://www.youtube.com/watch?v=LZ101PSh6H0&t=11755s
+  source: transcripts/text/2025-12-16_Board_of_Education_Work_Session_with_a_Vote_on_a_Consent_Agenda__LZ101PSh6H0.txt
+  attribution: CONFIRMED (Chase-Miller next: "Director Split, I uh appreciate the call for kind of transparency")
+  topic: Scenario C "seems like a compromise"; no-surprises norm on amendments
+  "I would just ask respectfully that if we're going to bring something other than C plus the thing that we just talked about earlier tonight, um that we all communicate. [...] I'm like getting the general vibe that people on this kind of given, especially the amount that we're hearing about B right now. Like C does seem like a compromise to me. [...] if that's going to change, I think it'd be great if we could communicate and have maybe elevate the public conversation in some way if we think there's going to be a pivot."
+
+[2026-01-13 Regular Meeting - Res. 7229 Jefferson HS attendance boundaries]
+  time 01:19:56 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=4796s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: CONFIRMED ("in the true Christy split tradition"; moved 7229; staff: "Thank you, Director Split")
+  topic: engagement model and "middle ground" as precedent for future tough decisions
+  "when I decided to run for the school board, one of the most important things to me was to see meaningful engagement of communities and families. That doesn't mean everyone already always loves the final outcome [...] in the end, I feel like we ran a really good process. [...] we set the bar high going forward on tough decisions that we have to make. And I think we need to keep having that rigorous level of communication, input, listening, and in the end being willing to support things that don't necessarily check all of our boxes or everyone in the community's boxes [...] I want to thank the superintendent for recognizing that there was a a place where it felt like a middle ground"
+
+[2026-01-13 Regular Meeting - Res. 7229 Jefferson HS attendance boundaries]
+  time 01:21:30 | https://www.youtube.com/watch?v=BJMsF-90V6U&t=4890s
+  source: transcripts/text/2026-01-13_Board_of_Education_Regular_Meeting__BJMsF-90V6U.txt
+  attribution: CONFIRMED (same turn)
+  topic: her "amendment" folded into 7229 - annual progress reports on all four high schools, emailed to families
+  "this was something that came up in the listening session quite a bit from families who were there supporting scenario B but who wanted who had an open mind if we were to do something to ensure some measures around effective implementation of the transition. [...] we're going to email families before the board has [...] annual progress updates on how we're doing um for Jefferson, Grant, McDaniel, and Roosevelt to ensure that all four schools continue to have the comprehensive high school experience"
+
+[2026-01-27 Work Session and Special Meeting - 2026 legislative priorities (Res. 7240)]
+  time 01:16:58 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=4618s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: PROBABLE (speaker leads the legislative item ("This is my thing"), cites taking parents to legislators and legislators "I've known for a long time" - matches her legislative-staff background and later Intergovernmental Affairs role)
+  topic: enrollment decline does not shed costs neatly
+  "We have declining enrollment and like it doesn't it's not neat. It's not like you lose 30 kids from a school and you can lose a teacher. It's like that's two and a half kids per class. Like that's still the same number of teachers and staff. So, it's just a really tough adjustment."
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: first seismic design contracts (Vernon, Winter Haven)]
+  time 01:31:12 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=5472s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: CONFIRMED (chair: "Go ahead, Director Split[t]"; Chase-Miller replies "Director Split[t], I'm glad that you brought it up")
+  topic: seismic list pre-empts rightsizing; "unfair to other school communities"
+  "one of the items we're going to discuss today has to do with contracts for some seismic work. And I think it's the first contracts for seismic work we're seeing, which is so something to celebrate and I support moving forward. [...] I still have some feelings about essentially deciding on something like 10 schools that we are not going to consider when we talk about right sizing. [...] It just feels a little unfair to other school communities. There's been discussion about do we want to necessarily invest in some of the most risky buildings? Some of them are some of the older buildings. If we're going to be closing, might not some of those be the ones to look at. [...] So, I'm going to vote yes because I'm certainly not going to vote no on making our schools safer for kids. But [...] with the right sizing conversation looming um I just felt um I feel a level of discomfort with moving forward um on um projects when we haven't had that discussion."
+
+[2026-01-27 Work Session and Special Meeting - consent agenda: seismic contracts]
+  time 01:58:38 | https://www.youtube.com/watch?v=-NpJZaLR81U&t=7118s
+  source: transcripts/text/2026-01-27_Board_of_Education_Work_Session_and_Special_Meeting__-NpJZaLR81U.txt
+  attribution: PROBABLE (interjects to restate "our objection"; repeats her "10 schools" framing and notes she is not on facilities)
+  topic: taking 10 schools off the table "premature"
+  "our objection is not necessarily to the list. [...] It's the interplay between the school possible like consolidation conversation [...] and there was conversation at facilities where it was basically like well we looked at these and we don't think that they're going to be consolidated necessarily. We considered that and that was just surprising to some of us who felt like taking those 10 schools off the table was maybe premature"
+
+[2026-01-30 Board Retreat (whisper transcript) - board standards discussion]
+  time 03:00:01 | https://www.youtube.com/watch?v=K5pmA0yK2eQ&t=10801s
+  source: transcripts/text/2026-01-30_Board_of_Education_Retreat__K5pmA0yK2eQ.txt
+  attribution: CONFIRMED (self: "as i've been a board member for a year"; facilitator: "i think what i hear christie saying")
+  topic: keep families in neighborhood public schools; facilities drive capture rate
+  "my greatest concern is that we become an urban school district like san francisco where suddenly to go to kindergarten is not probably you're going to go to your neighborhood school [...] i want to continue to be raised and your kids most likely to your neighborhood public school [...] 75 percent of our board meetings have been talking about the bond 80 percent 85 percent talking about facilities bond [...] this is safety this is student achievement because we know when kids are going to new buildings that their achievement rises that we get capture rate increases we get more of those kids into our schools"
+
+[2026-02-24 Work Session - Metropolitan Learning Center (MLC) high school programmatic restructuring]
+  time 01:00:11 | https://www.youtube.com/watch?v=3sggkeHNIVk&t=3611s
+  source: transcripts/text/2026-02-24_Board_of_Education_Work_Session__3sggkeHNIVk.txt
+  attribution: PROBABLE (self-reference "I was a high school teacher" and credit-recovery teaching matches her bio; levy-cap argument matches her 2026-10-06 remarks)
+  topic: MLC - trusts the $50M rationale; bond money and levy cap limits
+  "I hear from the audience and in my email concern that we're doing this not to save money or that it won't. And I just trust that we wouldn't be doing it if it wasn't because of the $50 million hole in our budget that we're facing. [...] the money for our school modernizations is bond money and you can only use it for a very limited number of things. [...] we can only levy up to a certain point, which we do, and there's a statutory state set cap on how much money we can raise um via our local levy to support schools, and we're at that cap."

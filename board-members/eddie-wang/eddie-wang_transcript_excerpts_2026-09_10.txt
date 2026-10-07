@@ -1,0 +1,127 @@
+Eddie Wang (Board Chair, Zone 7) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-04-14 Res. 7296 (launch rightsizing; as amended: "The result of this process will include school and program closures, consolidations, or boundary changes"): YES (passed 5-2; Engelsman and La Forte NO). Abstained on adding "boundary changes"; NO on changing "will" to "may"; NO on La Forte's added-recitals amendment (failed 3-4 per the minutes' own roll call and the video at ~02:13:01; the draft minutes' summary line says 'passed 4-3' - internal inconsistency). Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles & work plan: passed 7-0 (transcript 20260527__AAWpafO4vvQ, ~02:22:16). Res. 7308 budget-committee approval of 2026-27 budget: 7-0.
+- 2026-09-15: as chair, concluded after a straw poll that there was no board direction to adopt Engelsman's budget-savings resolution; span-of-control analysis left to superintendent agreement (target first December meeting) instead of a resolution.
+- 2026-09-29 Res. 7382 (board responses to draft bond performance audit) roll calls: YES on DePass amendment softening Rec. 28 (failed 3-4); NO on La Forte amendment striking "depend on budget availability" (passed 4-3); YES on Splitt Rec. 4 amendment (6-1); MOVED changing "additional audit employee" to "additional auditor" in Rec. 34 (passed 5-2, Engelsman/La Forte no); NO on striking the budget/hiring caveat in Rec. 34 (passed 4-3); NO on Rec. 34 as amended (directs OIPA to begin hiring an auditor with capital-delivery/bond expertise, paid from bond funds, effective immediately; passed 4-3).
+- 2026-10-06 Res. 7383 budget calendar 7-0; consent agenda incl. Res. 7387 2027 legislative principles 7-0.
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:17:18 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8238s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (self-identifies as Southeast Guiding Coalition parent rep, matching his PPS bio; staff later refers to "Director Wong's statements around boundaries"; the first sentence of this caption block belongs to Chase-Miller)
+  topic: sequencing - boundaries-first vs one comprehensive change
+  "as a parent rep on the Southeast Guiding Coalition back in 2021, I [...] first saw firsthand [...] what it looked like to reshuffle boundaries when the need was clear that there were too few students for this many schools and then we're back here again. [...] a priority for me is that I want to minimize disruptions to our students [...] if we do boundaries first [...] and then we have to come back and do three years later do another change because we didn't [...] have enough well-enrolled schools that's two disruptions that a kid might have to go through in their school career and that to me that's unacceptable."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:18:41 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8321s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (same continuous turn)
+  topic: school size vs class size; resilience to budget cuts
+  "one of the big misconception is that larger enrolled schools means larger class sizes. And that's not true. [...] larger schools [...] can weather budget cuts far better than smaller less enrolled schools. [...] if we did nothing, our class sizes would be far larger than if we did something. [...] I feel that moving towards this right sizing process is trying to make a better situation for our schools, our staff, our teachers [...] and our students especially."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:20:02 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8402s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (same turn)
+  topic: $65M deficit; administrative savings per closed building
+  "we're looking at $65 million budget gap for next year, which means cuts are need to happen, period. And [...] for every school that we have less, that's a less one less admin team, which could mean potentially like three or four teaching positions that we could potentially reallocate that to or save. [...] This is a choice that we make because out of need not because of out of want or desire"
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:22:45 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8565s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (same turn; WW 2026-09-03 attributes the same quote to Wang)
+  topic: magnitude - outcome first; equity as outcome
+  "the bottom line is that if it means that we have a better system, I am fore[...] going for as much as needed. But again, I don't want to start with the number first. I want to start with what it means first, what the outcome is [...] I'm not afraid of bigger numbers I'm not afraid of smaller numbers I just want to make sure that it means that we have a better school district for our students [...] as a alum of the SEGC process I'm very adamant that equity must be the outcome and not just the intention."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:24:03 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8643s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (same turn)
+  topic: magnitude
+  "if you're talking about [...] 20 closures and it means [...] this and to get there means 20 closures, I'm fine. If it means this and you only need 10 closures, I'm fine with that, too. [...] I just need to see the work and [...] what it means for our students."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:43:03 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9783s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair responding to "Director La Forte"; refers to having been a teacher during the district-wide boundary review)
+  topic: K-8 vs middle school
+  "one of the reasons I started the DRAG [district-wide boundary review] process and then after that the SEGC process was because of the compelling data that showed that K8s were not preparing students as well for high school as middle schools. [...] that was [...] the big compelling reasons why [...] SEGC [...] create[d] Kellogg Middle School and [...] Harrison Park Middle School [...] that's also a factor to consider as well [...] not all K through [8s are] equal [...] and some [...] isolated geographically that would be very unfeasible"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:36:57 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13017s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (second speaker after Vice Chair Chase-Miller; equity/Title I framing consistent with his other remarks)
+  topic: Title I schools; consolidation as opportunity
+  "of our title one schools, our K through five title one schools and [...] middle school title one schools [...] the higher risks are with our title one schools and if we do nothing our title one schools are going to be even a in a worse position than they are today [...] I think there's a lot of fear around [...] consolidations but another way to look at it is also this is also an opportunity to to do something new"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:34:30 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=16470s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: PROBABLE (opens discussion; same argument he makes as chair at 05:01:59)
+  topic: Engelsman span-of-control resolution; board role
+  "I generally have no opposition towards an idea of a span of control but I I think that that is something that the superintendent needs to decide not on the board level [...] we are dealing with a skeleton crew in the central office. We are dealing with [...] staff that are overworked [...] I think it's a superintendent [...] managerial call"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 05:01:59 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18119s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair; closes straw poll: "it sounds like from the poll we do not have direction to move forward on this resolution")
+  topic: Engelsman budget-savings resolution (COLA freeze over $200k, hiring freeze, city funding pledge, etc.)
+  "board members do not manage the day-to-day operations. [...] one of the kind of meta issues that I bump into is [...] using the resolution as a form of trying to manage the district on day-to-day operations [...] I cannot support this. I think individually these are interesting things that that we can continue to talk about and discuss [...] but it's a no for me for any potential vote on this resolution."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:32:49 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=1969s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "since I have my hand raised, I'll go next"; DePass later: "I also agree with what Chair Wong said")
+  topic: bond audit - hiring an additional bond auditor
+  "at this time committing to hiring someone is [...] somewhat premature because we have [...] our bond audit committee, we have our OIPA, we have an external bond auditor, we also have a couple financial auditors [...] committing to hiring another internal auditor [...] for the life of the bond [...] we could be looking at upwards of something like almost 2 million. And when we're talking about $2 million, I mean, that could be the difference between whether [...] a school gets a seismic update or not."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:16:08 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=8168s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "I didn't raise my hand, but I was going to")
+  topic: bond audit
+  "it's not for lack of wanting auditing and effective auditing, but [...] I'm at a point where I think more analysis is required before we take on additional hires [...] I would be more comfortable if we had time to consult with our bond audit committee [...] chief of operations and our chief financial officer [...] But I am okay with respecting the will of the board."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:23:37 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=8617s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "I'll go next")
+  topic: bond audit - external vs internal auditor
+  "an alternative could be [...] that we hire an additional external bond auditor. And the advantage for that is [...] it could be a lot less expensive [...] through the contract we can guarantee a specific number of audits to be completed within a certain time [...] it's a moot point because we already have approved it in a previous recommendation. So, I'm willing to just move forward."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 01:09:02 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4142s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: PROBABLE (first-person framing about not asking Cleveland/Wells to wait for a later bond matches his role steering the 2025 bond; not explicitly named)
+  topic: bond program - building three high schools at once
+  "this is the first time PPS is building three high schools at the same time [...] the need [...] for extra management extra staff. [...] having um this extra capacity to build three high schools at the same time is [...] also a money-saving endeavor because if we wait on one of them [...] I don't want to go to Cleveland or Wells community and say, "Hey, you might have to wait for the next bond to see your high school.""
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:17:44 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11864s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (staff reply addresses "Director Wang"; self-identifies as SEGC veteran)
+  topic: process - board tweaks to scenarios must route through staff
+  "as a veteran of the Southeast Guiding Coalition process [...] every change had a cascading list of consequences that [...] led to really unintended consequences or actually negative effects for many other people. [...] if we do have good ideas for tweaks or adjustments and things like that, it does have to go through the team because they're they're the ones that have all the information and can figure out where the consequences may be."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:21:35 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12095s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: middle-school consolidation rationale
+  "If we remain keep too many middle schools open and then they all fall low under enrollment, then we're talking about three schools that are suffering from programmatic [...] cuts over time, right? Including sports. [...] being responsible in terms of trying to keep these enrollment high so that we can maintain these offerings so that students whether they go to Brentwood or whether they go to Tubman or anywhere else get the same opportunities as every everyone else"
+
+NOTES
+On 10/6 at ~03:39:38 an unidentified director (possibly Wang or DePass) pushed back on Splitt's request that no school outside Scenarios A/B be added to the closure list ("I'd like us to be adaptive and flexible... let the process play out"), then said "I agree with you, but I don't think that's where we're going". Attribution too weak to assign.

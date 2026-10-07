@@ -1,0 +1,168 @@
+Stephanie Engelsman (Zone 6; Policy Committee chair 2026-27) - transcript excerpts, PPS Board meetings Sep-Oct 2026 (plus selected earlier rightsizing votes)
+Generated 2026-10-07 from YouTube auto-captions saved in transcripts/raw_vtt/
+Method: rolling-caption duplication removed; excerpts are verbatim caption text, lightly trimmed ([...] = omission;
+caption mis-hearings of names left as-is or corrected in [brackets]). Captions have NO speaker labels: attribution is
+based on the chair recognizing the speaker, other directors naming them, self-references, or content.
+Confidence: CONFIRMED = named by chair/colleague immediately before/after, or self-identifies; PROBABLE = strong
+contextual cues; POSSIBLE = weak cues. Timestamps are approximate (caption start time).
+Excluded by design: personal/family details volunteered in remarks, and discussion of any individual employee's
+performance or contract terms (superintendent contract extension Res. 7371 on 9/1; internal auditor evaluation remarks on 9/29;
+superintendent-evaluation retreat on 9/16).
+
+RECORDED VOTES / MOTIONS
+- 2026-01-13 Res. 7229 Jefferson HS attendance boundaries (enrollment balancing): sole NO (passed 6-1). Source: boardbook/2026-02-10_Regular_Meeting_730093/2026_01_13_Regular_Meeting_Minutes_-_Draft_for_Consideration_3996890.txt
+- 2026-04-14 Res. 7296 (launch rightsizing): NO (passed 5-2; Engelsman and La Forte no). Moved: sub-amendment re recital D(b) (passed 6-0-1), adding "boundary changes" (passed 6-0-1), "will"->"may" (failed 2-5; Engelsman, Sullivan yes); seconded La Forte's added-recitals changes (failed 3-4); seconded Splitt's final-wording amendment. Source: boardbook/2026-06-09_Regular_Meeting_749359/2026_04_14_Draft_Meeting_Minutes_3997322.txt
+- 2026-05-26 Res. 7307 rightsizing guiding principles 7-0.
+- 2026-06-23 (budget adoption, transcript 20260624__yinJ7KK-Bqc ~05:41-05:48): captions indicate Engelsman and one other director voted YES on a failed sub-amendment giving the superintendent authority to reduce by 4% (2-4-1); a motion (apparently hers) to postpone the budget a week to "turn stones" failed 3-4; the underlying budget amendment (Res. 7342) failed 1-6; budget Res. 7326 passed 6-0 with one abstention (abstainer not identifiable from captions). LOW confidence on individual attributions.
+- 2026-09-15: her span-of-control resolution was not voted; superintendent agreed to deliver analysis by first December board meeting. Her budget-savings resolution (hiring freeze to Jan 2027, COLA freeze >$200k, city funding pledge, poverty counts, review of prior resolutions/property) received no board direction to proceed (straw poll; DePass, Splitt, Sullivan, Chase-Miller, Wang opposed acting by resolution).
+- 2026-09-29 Res. 7382 bond-audit responses: SECONDED Res. 7382; NO on DePass Rec. 28 amendment (failed 3-4); YES on La Forte strike (4-3); YES Splitt Rec. 4 amendment (6-1); NO on "additional auditor" wording (5-2); YES on striking Rec. 34 caveat and YES on Rec. 34 as amended (both 4-3).
+- 2026-10-06 Res. 7383 and consent agenda 7-0.
+
+EXCERPTS
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:43:55 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6235s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "We'll start with Director Engelsman"; superintendent: "I appreciate your questions, Director Engelsman")
+  topic: list of unanswered questions - savings, layoffs, where families went
+  "I am curious what the estimated cost savings is to closing a school. [...] how many layoffs are anticipated with each school closing? [...] when we closed Marshall many, many years ago, [...] how many people left PPS [...] Same with Edwards [...] And then again with Bridger. [...] are we right sizing the large elementary schools too? [...] bigger schools cannot unless we are legitimately looking at keeping class sizes small and giving the kids what they need to learn are not always better. [...] how many empty buildings PPS owns. How much does it cost per year to maintain them?"
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:48:41 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6521s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: strengthen neighborhood schools vs lottery/focus options
+  "I've heard principals say they're losing kids to the lottery schools [...] can we make a commitment like we did when we're beginning Jefferson to offer more to those neighborhood schools [...] we have created this thought that the lottery programs are better than these beautiful neighborhood schools, which I think is completely wrong. [...] can we just offer more of what the focus options offer? If we have a wait list, then basic economics is our supply should meet demand."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:51:27 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6687s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: 360-student threshold implies small classes
+  "I saw 360 for elementary and 500 for middle schools. I presume that comes from Dr. Green's report and the QEM [...] he references the QEM prototype of 360 students for elementary, but consistently says that equals 60 students per grade or three classrooms per grade at 20 students per class. And so at what point does PPS need to start having conversations about we have to have small class sizes [...] we have to follow all of the findings."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:54:48 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6888s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: more board presence at engagement sessions
+  "when I thought we were closing 8 to 10 schools, but now that we're talking about potentially closing 20, I really hope the district will just spend the money to notice these so that board members can go to as many as they can to listen to as many community members as possible."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 01:56:27 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6987s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (responding to superintendent; WW 2026-09-03 quotes the same lines)
+  topic: boundaries first; not ready to proceed
+  "what I would like to see for sure is a commitment to looking at boundaries. [...] if drawing boundaries and re realigning boundaries is sufficient, then I think that's a great place to start. [...] I don't know that I share the same [...] readiness to go forward without a lot of these questions asked. It feels a little bit like chicken and an egg to me."
+
+[2026-09-01 Regular Meeting (Grant HS) - rightsizing "magnitude" discussion]
+  time 02:45:30 | https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9930s
+  source: transcripts/raw_vtt/20260902__5RMfvT-sAPU__2026-09-01 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Thank you, Director Engelsman")
+  topic: re-files June budget-savings resolution at start of budget/rightsizing cycle
+  "I wrote a resolution [that] looks very much like the resolution I wrote in June [...] "Let's turn every stone we can." [...] I'm taking the invitation to do it at the beginning of the budget process, which is also the right sizing process, which is happening in part because of our budget crisis."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:37:48 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13068s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (superintendent responds; later colleagues reference "Director Engelsman's" class-size and research points; kindergarten and TLE-drop-off self-references)
+  topic: "another 90 degree change" - closures won't produce well-resourced schools by 2027-28
+  "this is the first time that I have heard and ingested information that after this process, even with potentially closing 20 schools, that we're not going to have well resourced everywhere and right-sized everywhere and that it might not be till 2031. [...] this feels like when I read news that we were closing 20 instead of eight, this feels like a really big shift [...] I think our community thinks that for the 27-28 school year if we vote this through in December we'll have all [...] well-resourced and right-sized schools."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:44:29 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13469s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: class size as condition for support
+  "class sizes matter. [...] We know that seven is too small. We know that 35 is too big. [...] If we're closing 20 schools and we're not, we're still going to have the same [...] median of class sizes. To me, that's just not acceptable. [...] if we're ripping band-aids off and we leave that unripped, what are we doing? We're just ending up with the same schools, just less buildings."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 03:47:01 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13621s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: research on closures done badly
+  "a lot of research I'd found [...] University of Chicago [...] University of Pennsylvania. I found California, Texas. [...] if it's not done right it can be devastating to a community. [...] I don't think we can make decisions without [...] acknowledging [...] the bad, the potential [...] in this whole thing."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:28:06 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=16086s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "hand this over to Director Engelsman to introduce")
+  topic: span-of-control resolution
+  "I'd like to better understand what best practices are in the industry for how many direct reports someone may have. [...] the county did a span of control. They found it very beneficial, especially in a time of budget crisis [...] City of Portland [...] conducted a span of control as well [...] I have heard from legislators [...] community members [...] stakeholders, PAT all of whom are saying our [...] organizational chart is out of whack. [...] we have to exhaust all options before closing"
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 04:47:17 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17237s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same speaker introducing second resolution)
+  topic: budget-savings resolution (hiring freeze, COLA freeze over $200k, city funding)
+  "I think a hiring freeze for unfilled positions until at least January 2027. [...] I put an implement a cola freeze for salaries over 200,000. I am open to amendments on that number. [...] I would want to know that we have done these things before we are cutting educators cutting para educators cutting librarians cutting cutting cutting [...] I really don't want to get to June again."
+
+[2026-09-15 Regular Meeting - rightsizing update; Engelsman resolutions]
+  time 05:04:32 | https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18272s
+  source: transcripts/raw_vtt/20260916__uAf7l-ChjFo__2026-09-15 Board of Education regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director Engelsman, do you have any...")
+  topic: disagreement with chair on board role
+  "I also [...] disagree wholly with your views on board roles. [...] I think statutory and then our own policies really lay out what those are and I think that yours are perhaps different than mine and [...] we can agree to disagree [...] I don't want to end up nine months from now without knowing what our portfolio of buildings are [...] I don't want to get to the other end of this and not know how many kids we have living in poverty."
+
+[2026-09-23 Facilities Improvement & Oversight Committee]
+  time 00:33:08 | https://www.youtube.com/watch?v=zfvbTie4mpE&t=1988s
+  source: transcripts/raw_vtt/20260924__zfvbTie4mpE__2026-09-23 Board of Education's Facilities Improvement and Oversight Committee Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Thank you, Stephanie")
+  topic: inventory of closed/owned buildings
+  "given the [...] questions the community has around what will we do if we close schools. I would love to have a presentation on the buildings that we own, how long they've sat, what we're doing with those [...] because I think it will be helpful in understanding what we already have to juggle [...] in this right sizing conversation."
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 00:38:17 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2297s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Thank you, Director Engelsman"; opens "I have to agree with everything Director Splitt just said")
+  topic: bond audit - cost of an added auditor is small relative to bond
+  "I don't have concerns about growing our office of internal performance auditor. [...] 2 million out of four billion is about [a tiny fraction] [...] So, it seems like money well spent for me given some of the concerns in the audit of some [...] costs being put where they don't belong and having to go back from general fund. I would never feel comfortable with someone checking themselves. [...] our job is to have oversight, fiscal responsibility"
+
+[2026-09-29 Special Meeting - Res. 7382 board responses to draft Bond Performance Audit (Procedeo/bond oversight)]
+  time 02:36:20 | https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9380s
+  source: transcripts/raw_vtt/20261001__SPwXuNlwP_U__2026-09-29 Board of Education Special Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "Director Engelsman")
+  topic: defends independence of the board's internal auditor
+  "I just want to express concern for now what I've heard two times, some suggestion that our internal auditor is not independent. [...] she has shown nothing but independence [...] in this process"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 02:55:54 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10554s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (chair: "We'll start with Director Engelsman")
+  topic: Scenarios A/B - "this plan is mayhem"
+  "the board wasn't given any additional [...] time to think about this than the community was. I got briefed yesterday at 3:00 [...] to me this plan is mayhem. There are over [...] 40 of our sites are touched. [...] everything is moving and nobody really knows where they're going [...] the concerning is far outweighed for me in what I saw. [...] I am alarmed by the school deserts that are being created around the city where there's not going to be an elementary school that children can walk and bike to."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 02:57:57 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10677s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: transportation burden as equity issue; SEGC schools hit again
+  "I haven't seen a cost of now transporting thousands of students around the city. [...] our students [...] will be sitting on hot loud buses for close to an hour [...] which is frankly widening an equity gap [...] I am saddened living in Southeast [...] how many schools that were affected by Southeast Guiding Coalition are being affected again."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:00:00 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10800s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: receiving schools would exceed size targets
+  "if it makes it a school of 500, that's really big and it's much bigger than our targeted value of 360. [...] if we absorb 250 kids, we're going to have a middle school that's north of 700 as will be Brentwood [...] two giant middle schools far over what we are talking about a sustainable threshold. [...] I am worried that we are creating our own future [...] university study on what we're doing right now"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:03:03 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10983s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same turn)
+  topic: neighborhood vs focus-option middle grades; class sizes
+  "I'm wondering why Sunnyside and Laurelhurst, both of which are neighborhood schools, are losing their six to eight programs while Winterhaven's keeping theirs. [...] Sunnyside is one of the schools that's managed to maintain enrollment over time. [...] I wonder why a sixth grader in math [...] has 37 in her class while at Winterhaven [...] 25."
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:08:49 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11329s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (staff: "So, Director Engelsman, what I would offer is that you're highlighting trade-offs")
+  topic: Clark Elementary left under-enrolled
+  "I'm recommending that you do the work and make sure that we don't have [...] I don't want to leave an elementary school lower than we start at"
+
+[2026-10-06 Regular Meeting - Scenarios A/B released (14 / 11 closures)]
+  time 03:11:55 | https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11515s
+  source: transcripts/raw_vtt/20261007__zOUH2Jq7Owo__2026-10-06 Board of Education Regular Meeting.en-orig.vtt
+  attribution: CONFIRMED (same speaker responding to superintendent)
+  topic: expects changes before final vote
+  "what you're bringing to us is your [...] best thinking but not the final thinking. [...] I'm hoping it's not exactly the same. I would be flustered if the seven of us up here just were to accept the best but not final thinking without any changes. And so I'm bringing these red flags"
